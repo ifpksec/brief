@@ -23,10 +23,8 @@
 <main>
   <div id="loading" class="loading-msg">데이터 로딩 중…</div>
   <div id="error-msg" class="error-msg" style="display:none"></div>
-
-  <section id="sec-summary"></section>
-  <section id="sec-dashboard"></section>
-  <section id="sec-news"></section>
+  <section id="sec-main"></section>
+  <section id="sec-analysis"></section>
 </main>
 
 <script>
@@ -34,81 +32,64 @@
 
 marked.setOptions({ breaks: true, gfm: true });
 
-/* ── 날짜 유틸 ──────────────────────────────────────────── */
+/* ── 날짜 유틸 ─────────────────────────────────────────── */
 function kstToday() {
   const d = new Date(Date.now() + 9 * 3600 * 1000);
   return new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate()));
 }
-
 function isWeekend(d) { const day = d.getUTCDay(); return day === 0 || day === 6; }
-
 function prevBiz(d) {
   const r = new Date(d); r.setUTCDate(r.getUTCDate() - 1);
   while (isWeekend(r)) r.setUTCDate(r.getUTCDate() - 1);
   return r;
 }
-
 function nextBiz(d) {
   const r = new Date(d); r.setUTCDate(r.getUTCDate() + 1);
   while (isWeekend(r)) r.setUTCDate(r.getUTCDate() + 1);
   return r;
 }
-
 function fmtDate(d) {
   const y = d.getUTCFullYear();
   const m = String(d.getUTCMonth() + 1).padStart(2, '0');
   const dy = String(d.getUTCDate()).padStart(2, '0');
   return `${y}${m}${dy}`;
 }
-
 function displayDate(d) {
-  const days = ['일', '월', '화', '수', '목', '금', '토'];
-  const y = d.getUTCFullYear();
-  const m = d.getUTCMonth() + 1;
-  const dy = d.getUTCDate();
-  const wd = days[d.getUTCDay()];
-  return `${y}.${String(m).padStart(2,'0')}.${String(dy).padStart(2,'0')} (${wd})`;
+  const days = ['일','월','화','수','목','금','토'];
+  const y = d.getUTCFullYear(), m = d.getUTCMonth() + 1, dy = d.getUTCDate();
+  return `${y}.${String(m).padStart(2,'0')}.${String(dy).padStart(2,'0')} (${days[d.getUTCDay()]})`;
 }
 
-/* ── HTML 이스케이프 ──────────────────────────────────────── */
+/* ── HTML 이스케이프 ────────────────────────────────────── */
 function esc(s) {
   return String(s ?? '')
-    .replace(/&/g, '&amp;').replace(/</g, '&lt;')
-    .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
-/* ── 바닐라 JS 툴팁 엔진 ─────────────────────────────────── */
+/* ── 툴팁 엔진 ──────────────────────────────────────────── */
 function initTooltips() {
   const tip = document.createElement('div');
   tip.id = 'g-tip';
   document.body.appendChild(tip);
-
   document.addEventListener('mousemove', e => {
-    const x = e.clientX + 14;
-    const y = e.clientY + 14;
-    tip.style.left = (x + 270 > window.innerWidth ? e.clientX - 278 : x) + 'px';
+    const x = e.clientX + 14, y = e.clientY + 14;
+    tip.style.left = (x + 270 > window.innerWidth  ? e.clientX - 278 : x) + 'px';
     tip.style.top  = (y + 100 > window.innerHeight ? e.clientY - 108 : y) + 'px';
   });
-
   document.addEventListener('mouseover', e => {
     const el = e.target.closest('[data-tip]');
-    if (el && el.dataset.tip) {
-      tip.textContent = el.dataset.tip;
-      tip.classList.add('show');
-    }
+    if (el && el.dataset.tip) { tip.textContent = el.dataset.tip; tip.classList.add('show'); }
   });
-
   document.addEventListener('mouseout', e => {
-    if (!e.relatedTarget || !e.relatedTarget.closest('[data-tip]')) {
-      tip.classList.remove('show');
-    }
+    if (!e.relatedTarget || !e.relatedTarget.closest('[data-tip]')) tip.classList.remove('show');
   });
 }
 
-/* ── 무드 배너 ───────────────────────────────────────────── */
+/* ── 무드 배너 ──────────────────────────────────────────── */
 function renderMoodBanner(mood) {
   if (!mood) return '';
-  const { status = 'Neutral', score = 50, label = '―' } = mood;
+  const { score = 50, label = '―' } = mood;
   const cls   = score >= 60 ? 'greed' : score <= 40 ? 'fear' : 'neutral';
   const emoji = { greed: '😤', fear: '😨', neutral: '😐' }[cls];
   return `<div class="mood-banner mood-${cls}">
@@ -121,199 +102,201 @@ function renderMoodBanner(mood) {
   </div>`;
 }
 
-/* ── 핵심 지표 그리드 ────────────────────────────────────── */
+/* ── 숫자 지표 카드 그리드 ──────────────────────────────── */
 function renderIndicatorGrid(indicators) {
-  if (!indicators || !indicators.length) return '';
-  const cards = indicators.map(ind => {
-    const chg    = ind.change || 0;
-    const dir    = chg >= 0 ? 'pos' : 'neg';
-    const arrow  = chg >= 0 ? '▲' : '▼';
-    const tagCls = (ind.tag || 'neutral').toLowerCase();
-    const val    = ind.value != null ? ind.value : '—';
-    return `<div class="ind-card ${tagCls}" data-tip="${esc(ind.insight || '')}">
-      <div class="ind-name">${esc(ind.name)}</div>
-      <div class="ind-value">${val}</div>
-      <div class="ind-change ${dir}">${arrow}${Math.abs(chg).toFixed(2)}%</div>
-      <div class="ind-tag">${esc(ind.tag || '')}</div>
-    </div>`;
-  }).join('');
-  return `<div class="indicator-grid">${cards}</div>`;
+  if (!indicators?.length) return '';
+  return '<div class="indicator-grid">' +
+    indicators.map(ind => {
+      const chg   = ind.change || 0;
+      const dir   = chg >= 0 ? 'pos' : 'neg';
+      const arrow = chg >= 0 ? '▲' : '▼';
+      const cls   = (ind.tag || 'neutral').toLowerCase();
+      return `<div class="ind-card ${cls}" data-tip="${esc(ind.insight || '')}">
+        <div class="ind-name">${esc(ind.name)}</div>
+        <div class="ind-value">${ind.value != null ? ind.value : '—'}</div>
+        <div class="ind-change ${dir}">${arrow}${Math.abs(chg).toFixed(2)}%</div>
+        <div class="ind-tag">${esc(ind.tag || '')}</div>
+      </div>`;
+    }).join('') + '</div>';
 }
 
-/* ── 큐레이션 뉴스 카드 ──────────────────────────────────── */
+/* ── 텍스트 시황 (1줄 표출) ─────────────────────────────── */
+function getPath(obj, path) {
+  return path.split('.').reduce((o, k) => (o && o[k] !== undefined ? o[k] : []), obj);
+}
+
+function renderTextData(data, keys) {
+  let rows = '';
+  for (const g of keys) {
+    const items = getPath(data, g.path);
+    if (!Array.isArray(items)) continue;
+    for (const it of items) {
+      const t = it.title || '', d = it.description || it.content || '';
+      if (!t || t === 'N/A') continue;
+      const titleHtml = (g.hasUrl && it.url)
+        ? `<a class="news-link" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(t)}</a>`
+        : esc(t);
+      const descHtml = (d && d !== 'N/A')
+        ? `<span class="txt-desc"> — ${esc(d.slice(0, 80))}</span>` : '';
+      rows += `<div class="txt-row">
+        <span class="txt-cat">${esc(g.cat)}</span>
+        <span class="txt-body">${titleHtml}${descHtml}</span>
+      </div>`;
+    }
+  }
+  return rows ? `<div class="txt-card">${rows}</div>` : '';
+}
+
+/* ── 소스 배지 ──────────────────────────────────────────── */
 const _SRC = {
-  international: { label: '해외',   color: '#388bfd' },
-  domestic:      { label: '국내',   color: '#3fb950' },
-  naver:         { label: 'Naver',  color: '#f0883e' },
-  telegram:      { label: 'TG',     color: '#a371f7' },
+  international: { label: '해외',  color: '#388bfd' },
+  domestic:      { label: '국내',  color: '#3fb950' },
+  naver:         { label: 'Naver', color: '#f0883e' },
+  telegram:      { label: 'TG',    color: '#a371f7' },
 };
-
 function srcBadge(it) {
-  const s   = _SRC[it.source] || _SRC.domestic;
+  const s = _SRC[it.source] || _SRC.domestic;
   const lbl = (it.press || s.label).slice(0, 8);
-  const col = s.color;
-  return `<span class="src-badge" style="color:${col};border-color:${col}40;background:${col}18">${esc(lbl)}</span>`;
+  return `<span class="src-badge" style="color:${s.color};border-color:${s.color}40;background:${s.color}18">${esc(lbl)}</span>`;
 }
 
-function renderCuratedNewsCards(news) {
-  if (!news || !news.length) return '';
-  const catLabel = {
-    '반도체·AI':     '💻 반도체·AI',
-    '매크로·금리':   '🏦 매크로·금리',
-    'K-증시·수급':   '🇰🇷 K-증시·수급',
-    '부동산·유동성': '💧 부동산·유동성',
-    '에너지·원자재': '🛢️ 에너지·원자재',
-    '시장·기타':     '📋 시장·기타',
-  };
-  const impCls = { High: 'imp-high', Medium: 'imp-mid', Low: 'imp-low' };
+/* ── 뉴스 카드 ──────────────────────────────────────────── */
+const _DOM_SRC = new Set(['domestic', 'naver', 'telegram']);
+const _CAT_LABEL = {
+  '반도체·AI':     '💻 반도체·AI',
+  '매크로·금리':   '🏦 매크로·금리',
+  'K-증시·수급':   '🇰🇷 K-증시·수급',
+  '부동산·유동성': '💧 부동산·유동성',
+  '에너지·원자재': '🛢️ 에너지·원자재',
+  '시장·기타':     '📋 시장·기타',
+};
+const _IMP_CLS = { High: 'imp-high', Medium: 'imp-mid', Low: 'imp-low' };
+
+function renderNewsCards(news, isDomestic) {
+  if (!news?.length) return '';
+  const filtered = news.filter(it =>
+    isDomestic ? _DOM_SRC.has(it.source) : it.source === 'international'
+  );
+  if (!filtered.length) return '';
 
   const grouped = {};
-  for (const it of news) {
-    const cat = it.category || 'Other';
+  for (const it of filtered) {
+    const cat = it.category || '시장·기타';
     (grouped[cat] = grouped[cat] || []).push(it);
   }
 
-  const groups = Object.entries(grouped).map(([cat, items]) => {
-    const rows = items.slice(0, 3).map(it => {
-      const ic    = impCls[it.impact] || 'imp-low';
-      const title = it.url
-        ? `<a class="news-link" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>`
-        : `<span class="news-title-plain">${esc(it.title)}</span>`;
-      return `<div class="news-item">
-        <span class="imp-badge ${ic}">${esc(it.impact)}</span>
-        ${srcBadge(it)}
-        <span class="news-title">${title}</span>
-        ${it.summary && it.summary !== 'N/A' ? `<div class="news-sum">${esc(it.summary.slice(0, 120))}</div>` : ''}
-      </div>`;
-    }).join('');
-    return `<div class="news-group">
-      <div class="news-cat-label">${catLabel[cat] || esc(cat)}</div>
-      ${rows}
-    </div>`;
-  }).join('');
-
-  return `<div class="news-grid">${groups}</div>`;
+  return '<div class="news-grid">' +
+    Object.entries(grouped).map(([cat, items]) =>
+      `<div class="news-group">
+        <div class="news-cat-label">${_CAT_LABEL[cat] || esc(cat)}</div>
+        ${items.slice(0, 3).map(it => {
+          const title = it.url
+            ? `<a class="news-link" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>`
+            : `<span>${esc(it.title)}</span>`;
+          return `<div class="news-item">
+            <span class="imp-badge ${_IMP_CLS[it.impact] || 'imp-low'}">${esc(it.impact)}</span>
+            ${srcBadge(it)}
+            <span class="news-title">${title}</span>
+            ${it.summary && it.summary !== 'N/A'
+              ? `<div class="news-sum">${esc(it.summary.slice(0, 120))}</div>` : ''}
+          </div>`;
+        }).join('')}
+      </div>`
+    ).join('') + '</div>';
 }
 
-/* ── 대쉬보드 HTML 빌더 ──────────────────────────────────── */
-function buildTable(items, extraCol) {
-  if (!items || items.length === 0) return '<p class="empty">데이터 없음</p>';
-  let html = '<table><thead><tr><th>항목</th><th>내용</th>';
-  if (extraCol) html += `<th>${extraCol}</th>`;
-  html += '</tr></thead><tbody>';
-  for (const item of items) {
-    html += `<tr><td class="col-title">${esc(item.title || '')}</td>`;
-    html += `<td class="col-desc">${esc(item.description || '')}</td>`;
-    if (extraCol === '링크' && item.url) {
-      html += `<td><a href="${esc(item.url)}" target="_blank" rel="noopener">→</a></td>`;
-    } else if (extraCol) {
-      html += `<td>${esc(item[extraCol.toLowerCase()] || '')}</td>`;
-    }
-    html += '</tr>';
-  }
-  html += '</tbody></table>';
-  return html;
+/* ── 지표 국내/글로벌 분류 ──────────────────────────────── */
+const _KR_KW = ['EWY', 'KOSPI', '코스피', 'KOSDAQ', '코스닥', '원/달러', '한국'];
+function isKorea(ind) {
+  return _KR_KW.some(k => (ind.name || '').includes(k));
 }
 
-function buildDashboard(data) {
-  const m    = data.market    || {};
-  const mac  = data.macro     || {};
-  const fr   = data.fred      || {};
-  const sent = data.sentiment || [];
-  const dart = data.dart      || [];
-  let html = '';
+/* ── 데이터 키 정의 ─────────────────────────────────────── */
+const KR_DATA = [
+  { path: 'market.domestic',         cat: '국내지수'   },
+  { path: 'market.forex_rates',      cat: '환율·금리'  },
+  { path: 'market.funds',            cat: '증시자금'   },
+  { path: 'market.program',          cat: '프로그램'   },
+  { path: 'market.gainers',          cat: '상승상위'   },
+  { path: 'market.traders',          cat: '거래량상위' },
+  { path: 'market.investor_trends',  cat: '투자자동향' },
+  { path: 'dart',                    cat: 'DART', hasUrl: true },
+];
 
-  if ((m.domestic || []).length || (m.overseas || []).length) {
-    html += '<div class="card"><h2>🇰🇷 국내 지수</h2>'  + buildTable(m.domestic) + '</div>';
-    html += '<div class="card"><h2>🌍 해외 지수</h2>'   + buildTable(m.overseas) + '</div>';
-  }
-  if ((m.forex_rates || []).length) {
-    html += '<div class="card"><h2>💱 환율·금리</h2>'   + buildTable(m.forex_rates) + '</div>';
-  }
-  if ((m.funds || []).length || (m.program || []).length) {
-    html += '<div class="card"><h2>💼 증시자금·프로그램매매</h2>'
-          + buildTable([...(m.funds || []), ...(m.program || [])]) + '</div>';
-  }
-  if ((m.gainers||[]).length || (m.traders||[]).length || (m.investor_trends||[]).length) {
-    html += '<div class="card"><h2>📈 수급 동향</h2>';
-    if ((m.gainers||[]).length)         html += '<h3>상승률 상위</h3>'    + buildTable(m.gainers);
-    if ((m.traders||[]).length)         html += '<h3>거래량 상위</h3>'    + buildTable(m.traders);
-    if ((m.investor_trends||[]).length) html += '<h3>종목투자자동향</h3>' + buildTable(m.investor_trends);
-    html += '</div>';
-  }
+const US_DATA = [
+  { path: 'market.overseas',         cat: '해외지수'    },
+  { path: 'macro.global',            cat: '글로벌'      },
+  { path: 'macro.correlation',       cat: '주식·채권'   },
+  { path: 'macro.gex',               cat: '옵션GEX'     },
+  { path: 'macro.inst_flows',        cat: '기관ETF'     },
+  { path: 'macro.breadth',           cat: '시장폭'      },
+  { path: 'sentiment',               cat: '심리지수'    },
+  { path: 'fred.liquidity',          cat: 'Fed유동성'   },
+  { path: 'fred.credit',             cat: '신용스프레드' },
+  { path: 'fred.standard',           cat: 'FRED'        },
+];
 
-  html += '<div class="card"><h2>🌐 글로벌 매크로</h2>';
-  if ((mac.global||[]).length)      html += '<h3>주요 지표</h3>'      + buildTable(mac.global);
-  if ((mac.correlation||[]).length) html += '<h3>주식·채권 상관</h3>' + buildTable(mac.correlation);
-  if ((mac.gex||[]).length)         html += '<h3>옵션 GEX</h3>'       + buildTable(mac.gex);
-  if ((mac.inst_flows||[]).length)  html += '<h3>기관 ETF 수급</h3>'  + buildTable(mac.inst_flows);
-  if ((mac.breadth||[]).length)     html += '<h3>시장 폭</h3>'        + buildTable(mac.breadth);
-  html += '</div>';
-
-  if (sent.length) {
-    html += '<div class="card"><h2>💭 시장 심리</h2>' + buildTable(sent) + '</div>';
-  }
-
-  html += '<div class="card"><h2>📈 경제 지표 (FRED)</h2>';
-  if ((fr.liquidity||[]).length) html += '<h3>Fed 유동성</h3>'    + buildTable(fr.liquidity);
-  if ((fr.credit||[]).length)    html += '<h3>신용 스프레드</h3>'  + buildTable(fr.credit);
-  if ((fr.standard||[]).length)  html += '<h3>주요 경제 지표</h3>' + buildTable(fr.standard);
-  html += '</div>';
-
-  if (dart.length) {
-    html += '<div class="card"><h2>📋 대주주·임원 지분변동 (DART)</h2>' + buildTable(dart, '링크') + '</div>';
-  }
-
-  return html || '<p class="empty">대쉬보드 데이터가 없습니다.</p>';
-}
-
-/* ── 공통 렌더러 ──────────────────────────────────────────── */
+/* ── 공통 렌더러 ────────────────────────────────────────── */
 function renderAll(dataJson, summaryMd) {
-  const summarySection = summaryMd['핵심요약'] || '';
-  document.getElementById('sec-summary').innerHTML =
-    renderMoodBanner(summaryMd.market_mood) +
-    renderIndicatorGrid(summaryMd.key_indicators) +
-    (summarySection
-      ? `<div class="section-heading fade-up">🎯 핵심요약</div>
-         <div class="md-content fade-up">${marked.parse(summarySection)}</div>`
-      : '');
+  const allInds = summaryMd.key_indicators || [];
+  const krInds  = allInds.filter(isKorea);
+  const usInds  = allInds.filter(i => !isKorea(i));
+  const news    = summaryMd.curated_news || [];
 
-  document.getElementById('sec-dashboard').innerHTML =
-    `<div class="section-heading">📊 데이터 대쉬보드</div>` + buildDashboard(dataJson);
+  let html = renderMoodBanner(summaryMd.market_mood);
 
-  const newsSection = summaryMd['구조화된뉴스'] || '';
-  document.getElementById('sec-news').innerHTML =
-    `<div class="section-heading fade-up">📰 구조화된 뉴스</div>` +
-    renderCuratedNewsCards(summaryMd.curated_news) +
-    (newsSection
-      ? `<div class="md-content fade-up" style="margin-top:16px">${marked.parse(newsSection)}</div>`
-      : '');
+  /* 🇰🇷 국내 블록 */
+  html += `<div class="region-block">
+    <div class="region-header">🇰🇷 국내 시장</div>`;
+  if (krInds.length) {
+    html += `<div class="sub-label">핵심 지표</div>${renderIndicatorGrid(krInds)}`;
+  }
+  const krText = renderTextData(dataJson, KR_DATA);
+  if (krText) html += `<div class="sub-label">시황 데이터</div>${krText}`;
+  const krNews = renderNewsCards(news, true);
+  if (krNews) html += `<div class="sub-label">뉴스 요약</div>${krNews}`;
+  html += `</div>`;
+
+  /* 🌐 미국·글로벌 블록 */
+  html += `<div class="region-block">
+    <div class="region-header">🌐 미국·글로벌</div>`;
+  if (usInds.length) {
+    html += `<div class="sub-label">핵심 지표</div>${renderIndicatorGrid(usInds)}`;
+  }
+  const usText = renderTextData(dataJson, US_DATA);
+  if (usText) html += `<div class="sub-label">시황 데이터</div>${usText}`;
+  const usNews = renderNewsCards(news, false);
+  if (usNews) html += `<div class="sub-label">뉴스 요약</div>${usNews}`;
+  html += `</div>`;
+
+  document.getElementById('sec-main').innerHTML = html;
+
+  /* Gemini 분석 */
+  const summary  = summaryMd['핵심요약']    || '';
+  const newsText = summaryMd['구조화된뉴스'] || '';
+  let analysis = '';
+  if (summary)  analysis += `<div class="region-header fade-up">🎯 핵심요약</div><div class="md-content fade-up">${marked.parse(summary)}</div>`;
+  if (newsText) analysis += `<div class="region-header fade-up">📋 구조화 뉴스</div><div class="md-content fade-up">${marked.parse(newsText)}</div>`;
+  document.getElementById('sec-analysis').innerHTML = analysis;
 
   document.getElementById('loading').style.display = 'none';
   window.scrollTo(0, 0);
 }
 
-/* ── 데이터 로딩 ──────────────────────────────────────────── */
+/* ── 데이터 로딩 ────────────────────────────────────────── */
 let currentDate = kstToday();
 const today = kstToday();
 
 async function loadDate(d) {
-  const dateStr = fmtDate(d);
+  const ds = fmtDate(d);
   document.getElementById('loading').style.display = '';
   document.getElementById('error-msg').style.display = 'none';
-  ['summary', 'dashboard', 'news'].forEach(id => {
-    document.getElementById(`sec-${id}`).innerHTML = '';
-  });
-
+  document.getElementById('sec-main').innerHTML = '';
+  document.getElementById('sec-analysis').innerHTML = '';
   try {
-    const [jsonRes, sumRes] = await Promise.all([
-      fetch(`${dateStr}_data.json`),
-      fetch(`${dateStr}_summary.json`),
-    ]);
-    if (!jsonRes.ok || !sumRes.ok) throw new Error('파일 없음');
-    const dataJson  = await jsonRes.json();
-    const summaryMd = await sumRes.json();
-    renderAll(dataJson, summaryMd);
+    const [jRes, sRes] = await Promise.all([fetch(`${ds}_data.json`), fetch(`${ds}_summary.json`)]);
+    if (!jRes.ok || !sRes.ok) throw new Error();
+    renderAll(await jRes.json(), await sRes.json());
     return true;
   } catch {
     document.getElementById('loading').style.display = 'none';
@@ -321,32 +304,22 @@ async function loadDate(d) {
   }
 }
 
-/* ── Mock 폴백 ───────────────────────────────────────────── */
 async function loadMock() {
   try {
-    const [jsonRes, sumRes] = await Promise.all([
-      fetch('mock_data.json'),
-      fetch('mock_summary.json'),
-    ]);
-    if (!jsonRes.ok || !sumRes.ok) return false;
-    const dataJson  = await jsonRes.json();
-    const summaryMd = await sumRes.json();
-    renderAll(dataJson, summaryMd);
+    const [jRes, sRes] = await Promise.all([fetch('mock_data.json'), fetch('mock_summary.json')]);
+    if (!jRes.ok || !sRes.ok) return false;
+    renderAll(await jRes.json(), await sRes.json());
     document.getElementById('current-date').textContent = '── MOCK ──';
     document.getElementById('btn-prev').disabled = true;
     document.getElementById('btn-next').disabled = true;
     return true;
-  } catch {
-    return false;
-  }
+  } catch { return false; }
 }
 
-/* ── 날짜 탐색 ───────────────────────────────────────────── */
 async function findAndLoad(startDate, direction) {
   let d = startDate;
   for (let i = 0; i < 30; i++) {
-    const ok = await loadDate(d);
-    if (ok) {
+    if (await loadDate(d)) {
       currentDate = d;
       document.getElementById('current-date').textContent = displayDate(d);
       document.getElementById('btn-next').disabled = fmtDate(d) >= fmtDate(today);
@@ -354,32 +327,24 @@ async function findAndLoad(startDate, direction) {
     }
     d = direction === 'prev' ? prevBiz(d) : nextBiz(d);
   }
-  // 30 영업일 내 파일 없음 → mock 폴백
   document.getElementById('loading').style.display = '';
-  const mockOk = await loadMock();
-  if (!mockOk) {
+  if (!await loadMock()) {
     document.getElementById('loading').style.display = 'none';
-    const errEl = document.getElementById('error-msg');
-    errEl.textContent = '최근 30 영업일 내 데이터 파일이 없습니다.';
-    errEl.style.display = '';
+    const el = document.getElementById('error-msg');
+    el.textContent = '최근 30 영업일 내 데이터 파일이 없습니다.';
+    el.style.display = '';
   }
 }
 
-document.getElementById('btn-prev').addEventListener('click', async () => {
-  await findAndLoad(prevBiz(currentDate), 'prev');
-});
-
-document.getElementById('btn-next').addEventListener('click', async () => {
+document.getElementById('btn-prev').addEventListener('click', () => findAndLoad(prevBiz(currentDate), 'prev'));
+document.getElementById('btn-next').addEventListener('click', () => {
   const nd = nextBiz(currentDate);
   if (fmtDate(nd) > fmtDate(today)) return;
-  await findAndLoad(nd, 'next');
+  findAndLoad(nd, 'next');
 });
 
 initTooltips();
-
-(async () => {
-  await findAndLoad(today, 'prev');
-})();
+(async () => await findAndLoad(today, 'prev'))();
 </script>
 </body>
 </html>
