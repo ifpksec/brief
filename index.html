@@ -24,7 +24,6 @@
   <div id="loading" class="loading-msg">데이터 로딩 중…</div>
   <div id="error-msg" class="error-msg" style="display:none"></div>
   <section id="sec-main"></section>
-  <section id="sec-analysis"></section>
 </main>
 
 <script>
@@ -156,7 +155,6 @@ function renderSpecCards(specs, dataJson, indicators) {
         <div class="ind-name">${esc(c.name)}</div>
         <div class="ind-value">${fmtVal(c.value)}</div>
         <div class="ind-change ${dir}">${arrow}${Math.abs(c.change).toFixed(2)}%</div>
-        <div class="ind-tag">${esc(c.tag)}</div>
       </div>`;
     }).join('') + '</div>';
 }
@@ -197,7 +195,6 @@ function srcBadge(it) {
   return `<span class="src-badge" style="color:${s.color};border-color:${s.color}40;background:${s.color}18">${esc(lbl)}</span>`;
 }
 
-const _DOM_SRC = new Set(['domestic','naver','telegram']);
 const _CAT_LABEL = {
   '반도체·AI':     '💻 반도체·AI',
   '매크로·금리':   '🏦 매크로·금리',
@@ -206,13 +203,10 @@ const _CAT_LABEL = {
   '에너지·원자재': '🛢️ 에너지·원자재',
   '시장·기타':     '📋 시장·기타',
 };
-const _IMP_CLS = { High: 'imp-high', Medium: 'imp-mid', Low: 'imp-low' };
 
-function renderNewsCards(news, isDomestic) {
+function renderNewsCards(news) {
   if (!news?.length) return '';
-  const filtered = news.filter(it =>
-    isDomestic ? _DOM_SRC.has(it.source) : it.source === 'international'
-  );
+  const filtered = news.filter(it => it.title && it.title !== 'N/A');
   if (!filtered.length) return '';
 
   const grouped = {};
@@ -230,11 +224,8 @@ function renderNewsCards(news, isDomestic) {
             ? `<a class="news-link" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>`
             : `<span>${esc(it.title)}</span>`;
           return `<div class="news-item">
-            <span class="imp-badge ${_IMP_CLS[it.impact] || 'imp-low'}">${esc(it.impact)}</span>
             ${srcBadge(it)}
             <span class="news-title">${title}</span>
-            ${it.summary && it.summary !== 'N/A'
-              ? `<div class="news-sum">${esc(it.summary.slice(0, 120))}</div>` : ''}
           </div>`;
         }).join('')}
       </div>`
@@ -258,7 +249,7 @@ function renderAll(dataJson, summaryMd) {
   const krBrief = renderBriefing(summaryMd.kr_briefing);
   if (krBrief) html += `<div class="section-divider"></div>${krBrief}`;
 
-  const krNews = renderNewsCards(news, true);
+  const krNews = renderNewsCards(news);
   if (krNews) html += `<div class="section-divider"></div>${krNews}`;
 
   html += '</div>';
@@ -272,21 +263,12 @@ function renderAll(dataJson, summaryMd) {
   const usBrief = renderBriefing(summaryMd.us_briefing);
   if (usBrief) html += `<div class="section-divider"></div>${usBrief}`;
 
-  const usNews = renderNewsCards(news, false);
+  const usNews = renderNewsCards(news);
   if (usNews) html += `<div class="section-divider"></div>${usNews}`;
 
   html += '</div>';
 
   document.getElementById('sec-main').innerHTML = html;
-
-  /* ─── Gemini 분석 ─── */
-  const summary  = summaryMd['핵심요약']    || '';
-  const newsText = summaryMd['구조화된뉴스'] || '';
-  let analysis = '';
-  if (summary)  analysis += `<div class="region-header fade-up">🎯 핵심요약</div><div class="md-content fade-up">${marked.parse(summary)}</div>`;
-  if (newsText) analysis += `<div class="region-header fade-up">📋 구조화 뉴스</div><div class="md-content fade-up">${marked.parse(newsText)}</div>`;
-  document.getElementById('sec-analysis').innerHTML = analysis;
-
   document.getElementById('loading').style.display = 'none';
   window.scrollTo(0, 0);
 }
@@ -300,7 +282,6 @@ async function loadDate(d) {
   document.getElementById('loading').style.display = '';
   document.getElementById('error-msg').style.display = 'none';
   document.getElementById('sec-main').innerHTML = '';
-  document.getElementById('sec-analysis').innerHTML = '';
   try {
     const [jRes, sRes] = await Promise.all([fetch(`${ds}_data.json`), fetch(`${ds}_summary.json`)]);
     if (!jRes.ok || !sRes.ok) throw new Error();

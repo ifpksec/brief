@@ -450,16 +450,6 @@ tbody td a:hover { text-decoration: underline; }
 .ind-change.pos { color: var(--green); }
 .ind-change.neg { color: var(--red); }
 
-.ind-tag {
-  font-size: 10px;
-  color: var(--muted);
-  margin-top: 5px;
-  letter-spacing: 0.02em;
-}
-
-.ind-card.bullish .ind-tag { color: var(--green); }
-.ind-card.bearish .ind-tag { color: var(--red); }
-
 /* ── Curated News Cards ──────────────────────────────────────── */
 .news-grid {
   display: flex;
@@ -502,14 +492,6 @@ tbody td a:hover { text-decoration: underline; }
   line-height: 1.4;
 }
 
-.news-sum {
-  font-size: 11px;
-  color: var(--muted);
-  width: 100%;
-  margin-top: 2px;
-  line-height: 1.4;
-}
-
 /* ── Source Badge ────────────────────────────────────────────── */
 .src-badge {
   font-size: 10px;
@@ -533,33 +515,6 @@ tbody td a:hover { text-decoration: underline; }
 
 .news-title-plain { color: var(--text); }
 
-/* ── Impact Badges ───────────────────────────────────────────── */
-.imp-badge {
-  font-size: 10px;
-  font-weight: 700;
-  padding: 1px 6px;
-  border-radius: 99px;
-  white-space: nowrap;
-  flex-shrink: 0;
-}
-
-.imp-high {
-  background: rgba(248, 81, 73, 0.15);
-  color: var(--red);
-  border: 1px solid rgba(248, 81, 73, 0.3);
-}
-
-.imp-mid {
-  background: rgba(210, 153, 34, 0.15);
-  color: var(--yellow);
-  border: 1px solid rgba(210, 153, 34, 0.3);
-}
-
-.imp-low {
-  background: rgba(48, 54, 61, 0.5);
-  color: var(--muted);
-  border: 1px solid var(--border);
-}
 
 /* ── Region blocks ───────────────────────────────────────────── */
 .region-block {
