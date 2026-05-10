@@ -103,7 +103,7 @@ const KR_SPECS = [
   { name: 'KOSPI200',  kws: ['코스피200','KOSPI200','200'],             srcs: ['market.domestic','macro.global'],              inv: false },
   { name: 'USD/KRW',   kws: ['USD/KRW','원달러','KRW','원/달러','달러원'], srcs: ['market.forex_rates','macro.global'],       inv: true  },
   { name: 'USD/JPY',   kws: ['USD/JPY','달러엔','엔달러','JPY'],        srcs: ['market.forex_rates','macro.global'],           inv: true  },
-  { name: '국고채 10Y',kws: ['국고채','국채10','KTB','국채','Treasury Yield'], srcs: ['market.forex_rates','fred.standard'],  inv: true  },
+  { name: '국고채 10Y',kws: ['국고채','국채10','KTB','국채'],                 srcs: ['market.forex_rates','fred.standard'],  inv: true  },
 ];
 
 const US_SPECS = [
@@ -132,7 +132,7 @@ function buildCard(spec, dataJson, indicators) {
     for (const it of items) {
       const t = it.title || '';
       if (!spec.kws.some(k => t.toLowerCase().includes(k.toLowerCase()))) continue;
-      const valM = t.match(/[\s:：]\s*([\d,]+\.?\d*)/);
+      const valM = t.match(/[：:]\s*([\d,]+\.?\d*)/);
       const desc = it.description || '';
       const chgM = t.match(/([+-][\d.]+)%/) || desc.match(/([+-][\d.]+)%/);
       const value  = valM ? parseFloat(valM[1].replace(/,/g, '')) : null;
