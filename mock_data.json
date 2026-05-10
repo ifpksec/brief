@@ -5,71 +5,72 @@
   },
   "market": {
     "domestic": [
-      {"title": "코스피", "description": "2,680.45 (▲0.82%)"},
-      {"title": "코스닥", "description": "755.20 (▲1.15%)"},
-      {"title": "코스피200", "description": "363.50 (▲0.78%)"}
+      {"title": "코스피: 2,680 (+0.82%)",    "description": "전일 2,658 / 변동 +22"},
+      {"title": "코스닥: 755 (+1.15%)",       "description": "전일 747 / 변동 +8.7"},
+      {"title": "코스피200: 363 (+0.78%)",    "description": "전일 361 / 변동 +2.8"}
     ],
     "overseas": [
-      {"title": "S&P 500", "description": "5,320.45 (▲0.55%)"},
-      {"title": "나스닥100", "description": "18,650.30 (▲0.82%)"},
-      {"title": "다우존스", "description": "39,750.10 (▲0.32%)"},
-      {"title": "닛케이225", "description": "38,450.20 (▼0.18%)"},
-      {"title": "상해종합", "description": "3,105.80 (▼0.42%)"}
+      {"title": "S&P 500: 5,320 (+0.55%)",   "description": "전일 5,291 / 변동 +29"},
+      {"title": "나스닥100: 18,650 (+0.82%)", "description": "전일 18,498 / 변동 +152"},
+      {"title": "다우존스: 39,750 (+0.32%)",  "description": "전일 39,623 / 변동 +127"}
     ],
     "forex_rates": [
-      {"title": "USD/KRW", "description": "1,362.50 (▼3.20)"},
-      {"title": "EUR/USD", "description": "1.0842 (▲0.0018)"},
-      {"title": "USD/JPY", "description": "153.20 (▼0.85)"},
-      {"title": "국고채 3년", "description": "3.24% (▼0.03%p)"},
-      {"title": "국고채 10년", "description": "3.38% (▼0.05%p)"}
+      {"title": "USD/KRW: 1,362.50 (-0.23%)", "description": "전일 1,365.62 / 변동 -3.12"},
+      {"title": "USD/JPY: 153.20 (-0.55%)",   "description": "전일 154.05 / 변동 -0.85"},
+      {"title": "국고채 10년: 3.38 (-0.05%)", "description": "전일 3.43 / 변동 -0.05%p"}
     ],
     "funds": [
-      {"title": "고객예탁금", "description": "52.3조원 (전일 대비 +8,200억)"},
-      {"title": "신용잔고", "description": "18.7조원 (전일 대비 +450억)"},
-      {"title": "투자자예탁금", "description": "55.1조원"}
+      {"title": "고객예탁금: 52.3조원 (+8,200억)",   "description": "전일 대비 +8,200억 증가"},
+      {"title": "신용잔고: 18.7조원 (+450억)",        "description": "전일 대비 +450억 증가"},
+      {"title": "투자자예탁금: 55.1조원",             "description": ""}
     ],
     "program": [
-      {"title": "프로그램 순매수", "description": "+2,840억원 (차익 +320억 / 비차익 +2,520억)"},
-      {"title": "차익거래 잔고", "description": "매수 12,450억 / 매도 9,870억"}
+      {"title": "프로그램 순매수: +2,840억원",        "description": "차익 +320억 / 비차익 +2,520억"},
+      {"title": "차익거래 잔고",                      "description": "매수 12,450억 / 매도 9,870억"}
     ],
     "gainers": [
-      {"title": "에코프로비엠", "description": "▲8.42% | 2차전지 소재 공급 계약 발표"},
-      {"title": "한화에어로스페이스", "description": "▲5.71% | 방산 수출 수주 기대"},
-      {"title": "SK하이닉스", "description": "▲4.20% | HBM3E 공급 확대 기대"}
+      {"title": "에코프로비엠 +8.42%",       "description": "2차전지 소재 공급 계약 발표"},
+      {"title": "한화에어로스페이스 +5.71%", "description": "방산 수출 수주 기대"},
+      {"title": "SK하이닉스 +4.20%",         "description": "HBM3E 공급 확대 기대"}
     ],
     "traders": [
-      {"title": "삼성전자", "description": "거래량 23.4백만주 | 외인 순매수 +820억"},
-      {"title": "SK하이닉스", "description": "거래량 8.7백만주 | 기관 순매수 +540억"},
-      {"title": "카카오", "description": "거래량 7.2백만주 | 개인 순매수 +210억"}
+      {"title": "삼성전자",  "description": "거래량 23.4백만주 | 외인 순매수 +820억"},
+      {"title": "SK하이닉스","description": "거래량 8.7백만주 | 기관 순매수 +540억"},
+      {"title": "카카오",    "description": "거래량 7.2백만주 | 개인 순매수 +210억"}
     ],
     "investor_trends": [
       {"title": "외국인 코스피", "description": "순매수 +4,520억원 (삼전 +1,840 / 하이닉스 +920)"},
-      {"title": "기관 코스피", "description": "순매수 +1,230억원 (금융투자 +890 / 투신 +340)"},
-      {"title": "개인 코스피", "description": "순매도 -5,750억원"}
+      {"title": "기관 코스피",   "description": "순매수 +1,230억원 (금융투자 +890 / 투신 +340)"},
+      {"title": "개인 코스피",   "description": "순매도 -5,750억원"}
     ]
   },
   "macro": {
     "global": [
-      {"title": "달러인덱스(DXY): 98.20 (-0.38%)", "description": "전일종가 98.57 / 변동 -0.3700"},
-      {"title": "미국 10년물 금리: 4.32 (-0.46%)", "description": "전일종가 4.34 / 변동 -0.0200"},
-      {"title": "VIX 변동성지수: 18.45 (-2.11%)", "description": "전일종가 18.85 / 변동 -0.4000"}
+      {"title": "달러인덱스(DXY): 98.20 (-0.38%)",   "description": "전일종가 98.57 / 변동 -0.3700"},
+      {"title": "미국 10년물 금리: 4.32 (-0.46%)",   "description": "전일종가 4.34 / 변동 -0.0200"},
+      {"title": "VIX 변동성지수: 18.45 (-2.11%)",    "description": "전일종가 18.85 / 변동 -0.4000"},
+      {"title": "S&P 500: 5,320 (+0.55%)",            "description": "전일종가 5,291 / 변동 +29"},
+      {"title": "나스닥100: 18,650 (+0.82%)",         "description": "전일종가 18,498 / 변동 +152"},
+      {"title": "다우존스: 39,750 (+0.32%)",          "description": "전일종가 39,623 / 변동 +127"},
+      {"title": "USD/KRW: 1,362.50 (-0.23%)",         "description": "전일종가 1,365.62 / 변동 -3.12"},
+      {"title": "USD/JPY: 153.20 (-0.55%)",           "description": "전일종가 154.05 / 변동 -0.85"},
+      {"title": "코스피: 2,680 (+0.82%)",             "description": "전일종가 2,658 / 변동 +22"},
+      {"title": "코스닥: 755 (+1.15%)",               "description": "전일종가 747 / 변동 +8.7"},
+      {"title": "KOSPI200: 363 (+0.78%)",             "description": "전일종가 361 / 변동 +2.8"}
     ],
     "correlation": [
-      {"title": "S&P500-채권 상관계수", "description": "-0.42 (역상관 — 채권 안전자산 역할 회복)"},
-      {"title": "금-달러 상관계수", "description": "-0.68 (달러 약세 → 금 강세 연동)"}
+      {"title": "SPY-IEF 20일 상관계수: -0.42 (역상관)", "description": "채권 안전자산 역할 회복 — 위험회피 국면"}
     ],
     "gex": [
-      {"title": "SPY PCR 1.26 | GEX +1.3B$ (만기:2026-05-16)", "description": "콜OI 94,291 / 풋OI 119,120 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"},
-      {"title": "QQQ PCR 2.06 | GEX -0.8B$ (만기:2026-05-16)", "description": "콜OI 57,309 / 풋OI 118,136 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"}
+      {"title": "SPY PCR 1.26 | GEX +1.3B$ (만기:2026-05-16)", "description": "콜OI 94,291 / 풋OI 119,120 → 풋 우세 | 딜러 롱감마(시장안정화)"},
+      {"title": "QQQ PCR 2.06 | GEX -0.8B$ (만기:2026-05-16)", "description": "콜OI 57,309 / 풋OI 118,136 → 풋 우세 | 딜러 숏감마(변동성확대)"}
     ],
     "inst_flows": [
       {"title": "iShares MSCI 한국 ETF(EWY): $65.30 (+1.24%)", "description": "거래량 18,450,000주 (평균대비 1.4x)"},
-      {"title": "iShares S&P 500 ETF(IVV): $535.80 (+0.55%)", "description": "거래량 4,120,300주 (평균대비 0.8x)"},
-      {"title": "Invesco QQQ ETF(QQQ): $460.20 (+0.82%)", "description": "거래량 32,540,000주 (평균대비 1.1x)"}
+      {"title": "iShares S&P 500 ETF(IVV): $535.80 (+0.55%)",  "description": "거래량 4,120,300주 (평균대비 0.8x)"}
     ],
     "breadth": [
-      {"title": "S&P500 50일MA 상회: 58.5% (117/200종목)", "description": "평균 MA 대비 위치: +3.8%"},
-      {"title": "NYSE 52주 신고가/신저가: 148/32", "description": "신고가 우세 — 상승 모멘텀 확산"}
+      {"title": "S&P500 50일MA 상회: 58.5% (117/200종목)", "description": "평균 MA 대비 위치: +3.8%"}
     ]
   },
   "sentiment": [
@@ -77,41 +78,41 @@
   ],
   "fred": {
     "liquidity": [
-      {"title": "Fed 자산총계: 6.71조달러", "description": "기준일: 2026-05-06 (FRED WALCL) | 전주 대비 ▼350억"},
-      {"title": "역레포(RRP) 잔고: 0.08억달러", "description": "기준일: 2026-05-08 (FRED RRPONTSYD) | 역레포 소진 — 시중 유동성 풍부"},
-      {"title": "재무부 TGA 잔고: 87,776.10억달러", "description": "기준일: 2026-05-06 (FRED WTREGEN)"}
+      {"title": "Fed 자산총계: 6.71조달러",           "description": "기준일: 2026-05-06 (FRED WALCL)"},
+      {"title": "역레포(RRP) 잔액: 0.08억달러",       "description": "기준일: 2026-05-08 (FRED RRPONTSYD)"},
+      {"title": "재무부 TGA 잔액: 8,777.61억달러",    "description": "기준일: 2026-05-06 (FRED WTREGEN)"}
     ],
     "credit": [
       {"title": "미국 HY 스프레드(OAS): 279bp (2.79%)", "description": "기준일: 2026-05-07 — 안정 | FRED BAMLH0A0HYM2"},
-      {"title": "미국 IG 스프레드(OAS): 79bp (0.79%)", "description": "기준일: 2026-05-07 — 안정 | FRED BAMLC0A0CM"}
+      {"title": "미국 IG 스프레드(OAS): 79bp (0.79%)",  "description": "기준일: 2026-05-07 — 안정 | FRED BAMLC0A0CM"}
     ],
     "standard": [
-      {"title": "Federal Funds Rate: 3.64", "description": "Date: 2026-04-01, Series ID: FEDFUNDS"},
-      {"title": "Unemployment Rate: 4.3", "description": "Date: 2026-04-01, Series ID: UNRATE"},
-      {"title": "CPI (Inflation): 330.293", "description": "Date: 2026-03-01, Series ID: CPIAUCSL"},
-      {"title": "Real GDP: 2.0", "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"},
-      {"title": "Treasury Yield 10Y: 4.32", "description": "Date: 2026-05-09, Series ID: DGS10"}
+      {"title": "Federal Funds Rate: 3.64",   "description": "Date: 2026-04-01, Series ID: FEDFUNDS"},
+      {"title": "Unemployment Rate: 4.3",     "description": "Date: 2026-04-01, Series ID: UNRATE"},
+      {"title": "CPI (Inflation): 330.293",   "description": "Date: 2026-03-01, Series ID: CPIAUCSL"},
+      {"title": "Real GDP: 2.0",              "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"},
+      {"title": "Treasury Yield 10Y: 4.32",   "description": "Date: 2026-05-09, Series ID: DGS10"}
     ]
   },
   "dart": [],
   "news": {
     "international": [
-      {"title": "Fed Officials Signal Higher-for-Longer Rate Stance", "url": "", "press": "Reuters", "published_at": "", "description": "Federal Reserve officials reaffirm commitment to 2% inflation target, keeping rate cut expectations in check."},
-      {"title": "NVIDIA Blackwell GPU Supply Concerns Ease as TSMC Ramps CoWoS", "url": "", "press": "Bloomberg", "published_at": "", "description": "Advanced packaging capacity expansion alleviates supply bottleneck for Blackwell architecture GPUs."},
-      {"title": "U.S. Jobless Claims Rise Slightly, Softening Labor Market", "url": "", "press": "WSJ", "published_at": "", "description": "Initial jobless claims at 218K, slightly above expectations, supporting case for gradual Fed easing."}
+      {"title": "Fed Officials Signal Higher-for-Longer Rate Stance", "url": "", "press": "Reuters"},
+      {"title": "NVIDIA Blackwell GPU Supply Concerns Ease as TSMC Ramps CoWoS", "url": "", "press": "Bloomberg"},
+      {"title": "U.S. Jobless Claims Rise Slightly, Softening Labor Market", "url": "", "press": "WSJ"}
     ],
     "domestic": [
-      {"title": "외국인, 코스피 3거래일 연속 순매수…반도체·금융 집중", "url": "", "press": "한국경제", "published_at": "", "description": "달러 약세에 편승한 신흥국 자금 유입으로 외인 수급 개선. 코스피 2,700선 지지 확인."},
-      {"title": "SK하이닉스, HBM3E 16단 양산 본격화…NVIDIA 공급 확대", "url": "", "press": "매일경제", "published_at": "", "description": "HBM3E 16단 제품 양산 시작, NVIDIA Blackwell 플랫폼 HBM 수요 견인."},
-      {"title": "삼성전자, 파운드리 2nm GAA 수율 개선 본격화", "url": "", "press": "전자신문", "published_at": "", "description": "GAA 기반 2nm 공정 수율 목표치 근접, 고객사 확보 가속화 전망."}
+      {"title": "외국인, 코스피 3거래일 연속 순매수…반도체·금융 집중", "url": "", "press": "한국경제"},
+      {"title": "SK하이닉스, HBM3E 16단 양산 본격화…NVIDIA 공급 확대", "url": "", "press": "매일경제"},
+      {"title": "삼성전자, 파운드리 2nm GAA 수율 개선 본격화", "url": "", "press": "전자신문"}
     ],
     "naver": [
-      {"title": "오늘의 코스피 마감 시황 — 외인·기관 동반 순매수", "url": "", "press": "네이버 증권", "published_at": "", "description": "코스피 2,680 마감, 외인 +4,520억·기관 +1,230억 동반 순매수."},
-      {"title": "원달러 환율 1,362원 하락 마감 — 3거래일 연속 강세", "url": "", "press": "네이버 금융", "published_at": "", "description": "달러 약세 기조 지속, 원화 3거래일 연속 강세. 수출주 환차익 부담 주의."}
+      {"title": "오늘의 코스피 마감 시황 — 외인·기관 동반 순매수", "url": "", "press": "네이버 증권"},
+      {"title": "원달러 환율 1,362원 하락 마감 — 3거래일 연속 강세", "url": "", "press": "네이버 금융"}
     ],
     "telegram": [
-      {"title": "[매크로] DXY 98선 하향 돌파 시 원/달러 1,350 터치 가능성", "url": "", "press": "매크로채널", "published_at": "", "description": "달러 약세 가속화 시 외인 코스피 순매수 추가 확대 예상. 삼전·하이닉스 수급 주목."},
-      {"title": "[옵션] SPY GEX +1.3B$ 롱감마 — 5,300 핀 시나리오", "url": "", "press": "옵션채널", "published_at": "", "description": "딜러 롱감마 구간, 만기일까지 지수 급변동 제한적. 5,300 핀 가능성 높음."}
+      {"title": "[매크로] DXY 98선 하향 돌파 시 원/달러 1,350 터치 가능성", "url": "", "press": "매크로채널"},
+      {"title": "[옵션] SPY GEX +1.3B$ 롱감마 — 5,300 핀 시나리오", "url": "", "press": "옵션채널"}
     ]
   }
 }

@@ -97,21 +97,22 @@ function getPath(obj, path) {
    고정 카드 스펙 — spec 기반 파싱 (키워드 매칭 → 값 추출)
    ================================================================ */
 const KR_SPECS = [
-  { name: '코스피',    kws: ['코스피','KOSPI'],              srcs: ['market.domestic'],                 inv: false },
-  { name: '코스닥',    kws: ['코스닥','KOSDAQ'],             srcs: ['market.domestic'],                 inv: false },
-  { name: 'KOSPI200',  kws: ['코스피200','KOSPI200','200'],  srcs: ['market.domestic'],                 inv: false },
-  { name: 'USD/KRW',   kws: ['원달러','USD/KRW','KRW','원/달러','달러원'], srcs: ['market.forex_rates'], inv: true  },
-  { name: 'USD/JPY',   kws: ['USD/JPY','달러엔','엔달러','JPY'], srcs: ['market.forex_rates'],          inv: true  },
-  { name: '국고채 10Y',kws: ['국고채','국채10','KTB','국채'],   srcs: ['market.forex_rates','fred.standard'], inv: true },
+  // srcs 순서: KIS 실시간 우선, macro.global(yfinance 전일 종가)으로 주말·장마감 폴백
+  { name: '코스피',    kws: ['코스피','KOSPI'],                         srcs: ['market.domestic','macro.global'],              inv: false },
+  { name: '코스닥',    kws: ['코스닥','KOSDAQ'],                        srcs: ['market.domestic','macro.global'],              inv: false },
+  { name: 'KOSPI200',  kws: ['코스피200','KOSPI200','200'],             srcs: ['market.domestic','macro.global'],              inv: false },
+  { name: 'USD/KRW',   kws: ['USD/KRW','원달러','KRW','원/달러','달러원'], srcs: ['market.forex_rates','macro.global'],       inv: true  },
+  { name: 'USD/JPY',   kws: ['USD/JPY','달러엔','엔달러','JPY'],        srcs: ['market.forex_rates','macro.global'],           inv: true  },
+  { name: '국고채 10Y',kws: ['국고채','국채10','KTB','국채','Treasury Yield'], srcs: ['market.forex_rates','fred.standard'],  inv: true  },
 ];
 
 const US_SPECS = [
-  { name: 'S&P 500',   kws: ['S&P','SPX','S&P500'],           srcs: ['market.overseas'],  inv: false },
-  { name: '나스닥100', kws: ['나스닥','NASDAQ','NDX','Nasdaq'], srcs: ['market.overseas'],  inv: false },
-  { name: '다우존스',  kws: ['다우','DOW','DJI','Dow'],        srcs: ['market.overseas'],  inv: false },
-  { name: 'DXY',       kws: ['DXY','달러인덱스','달러지수'],   srcs: ['macro.global'],     inv: true  },
-  { name: '미국 10Y',  kws: ['10Y','TNX','10년물','미국채10'], srcs: ['macro.global'],     inv: true  },
-  { name: 'VIX',       kws: ['VIX'],                           srcs: ['macro.global'],     inv: true  },
+  { name: 'S&P 500',   kws: ['S&P 500','S&P','SPX'],          srcs: ['market.overseas','macro.global'], inv: false },
+  { name: '나스닥100', kws: ['나스닥100','나스닥','NASDAQ','NDX'], srcs: ['market.overseas','macro.global'], inv: false },
+  { name: '다우존스',  kws: ['다우존스','다우','DOW','DJI'],    srcs: ['market.overseas','macro.global'], inv: false },
+  { name: 'DXY',       kws: ['DXY','달러인덱스'],               srcs: ['macro.global'],                  inv: true  },
+  { name: '미국 10Y',  kws: ['10년물','TNX','미국채10'],         srcs: ['macro.global'],                  inv: true  },
+  { name: 'VIX',       kws: ['VIX'],                           srcs: ['macro.global'],                  inv: true  },
 ];
 
 function buildCard(spec, dataJson, indicators) {
@@ -132,7 +133,8 @@ function buildCard(spec, dataJson, indicators) {
       const t = it.title || '';
       if (!spec.kws.some(k => t.toLowerCase().includes(k.toLowerCase()))) continue;
       const valM = t.match(/[\s:：]\s*([\d,]+\.?\d*)/);
-      const chgM = t.match(/([+-][\d.]+)%/);
+      const desc = it.description || '';
+      const chgM = t.match(/([+-][\d.]+)%/) || desc.match(/([+-][\d.]+)%/);
       const value  = valM ? parseFloat(valM[1].replace(/,/g, '')) : null;
       const change = chgM ? parseFloat(chgM[1]) : 0;
       const tag    = change === 0 ? 'Neutral'
