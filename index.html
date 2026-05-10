@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My GitHub Pages Blog</title>
+    <!-- 마크다운 변환 라이브러리 (Marked.js) -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 2rem; }
+        #content { border-top: 1px solid #eee; padding-top: 1rem; }
+        pre { background: #f4f4f4; padding: 1rem; overflow-x: auto; } /* 코드 블록 스타일 */
+    </script>
+</head>
+<body>
+    <h1 id="title">로딩 중...</h1>
+    <div id="content">내용을 불러오는 중입니다...</div>
+
+    <script>
+        async function loadMarkdown() {
+            const contentDiv = document.getElementById('content');
+            const titleElement = document.getElementById('title');
+
+            try {
+                // 1. 같은 경로에 있는 post.md 파일을 가져옵니다.
+                const response = await fetch('./post.md');
+                
+                if (!response.ok) throw new Error('파일을 찾을 수 없습니다.');
+
+                const text = await response.text();
+
+                // 2. 마크다운을 HTML로 변환합니다.
+                contentDiv.innerHTML = marked.parse(text);
+                titleElement.innerText = "나의 마크다운 포스트";
+
+            } catch (error) {
+                contentDiv.innerHTML = `<p style="color:red">에러 발생: ${error.message}</p>`;
+            }
+        }
+
+        loadMarkdown();
+    </script>
+</body>
+</html>
