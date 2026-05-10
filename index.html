@@ -1,51 +1,279 @@
 <!DOCTYPE html>
-<html>
+<html lang="ko">
 <head>
-    <meta charset="UTF-8">
-    <title>Debug Mode</title>
-    <!-- 라이브러리 로드 확인을 위해 상단 배치 -->
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>아침 증시 브리핑</title>
+  <link rel="stylesheet" href="brief.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked@9/marked.min.js"></script>
 </head>
 <body>
-    <h1>디버깅 페이지</h1>
-    <div id="content" style="background: #eee; padding: 10px;">대기 중...</div>
 
-    <script>
-        // 1. 스크립트 로드 즉시 실행 확인
-        console.log("1. 스크립트가 로드되었습니다.");
+<header>
+  <div class="date-nav">
+    <button id="btn-prev" class="nav-btn" title="이전 영업일">&#9664;</button>
+    <span id="current-date" class="date-label">―</span>
+    <button id="btn-next" class="nav-btn" title="다음 영업일">&#9654;</button>
+  </div>
+  <div class="tab-bar">
+    <button class="tab-btn active" data-tab="summary">핵심요약</button>
+    <button class="tab-btn" data-tab="dashboard">데이터 대쉬보드</button>
+    <button class="tab-btn" data-tab="news">구조화된 뉴스</button>
+  </div>
+</header>
 
-        async function init() {
-            console.log("2. init 함수가 시작되었습니다.");
-            const contentDiv = document.getElementById('content');
+<main>
+  <div id="loading" class="loading-msg">데이터 로딩 중…</div>
+  <div id="error-msg" class="error-msg" style="display:none"></div>
 
-            try {
-                console.log("3. fetch를 시도합니다...");
-                // 경로를 상대 경로로 명확히 지정
-                const res = await fetch('./README.md');
-                
-                console.log("4. 응답 상태:", res.status);
-                if (!res.ok) throw new Error("파일을 못 찾음 (404)");
+  <section id="tab-summary"  class="tab-content active"></section>
+  <section id="tab-dashboard" class="tab-content" style="display:none"></section>
+  <section id="tab-news"     class="tab-content" style="display:none"></section>
+</main>
 
-                const md = await res.text();
-                console.log("5. 데이터 수신 완료 (길이):", md.length);
+<script>
+'use strict';
 
-                // 라이브러리 작동 확인
-                if (typeof marked !== 'undefined') {
-                    contentDiv.innerHTML = marked.parse(md);
-                    console.log("6. 렌더링 성공!");
-                } else {
-                    console.error("Marked 라이브러리가 로드되지 않았습니다.");
-                    contentDiv.innerText = md; // 텍스트라도 출력
-                }
+/* ── Marked 설정 ─────────────────────────────────────────── */
+marked.setOptions({ breaks: true, gfm: true });
 
-            } catch (err) {
-                console.error("7. 에러 발생:", err);
-                contentDiv.innerHTML = "에러: " + err.message;
-            }
-        }
+/* ── 날짜 유틸 ──────────────────────────────────────────── */
+function kstToday() {
+  const d = new Date(Date.now() + 9 * 3600 * 1000);
+  return new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate()));
+}
 
-        // DOM이 준비되면 실행
-        window.addEventListener('DOMContentLoaded', init);
-    </script>
+function isWeekend(d) { const day = d.getUTCDay(); return day === 0 || day === 6; }
+
+function prevBiz(d) {
+  const r = new Date(d); r.setUTCDate(r.getUTCDate() - 1);
+  while (isWeekend(r)) r.setUTCDate(r.getUTCDate() - 1);
+  return r;
+}
+
+function nextBiz(d) {
+  const r = new Date(d); r.setUTCDate(r.getUTCDate() + 1);
+  while (isWeekend(r)) r.setUTCDate(r.getUTCDate() + 1);
+  return r;
+}
+
+function fmtDate(d) {
+  const y = d.getUTCFullYear();
+  const m = String(d.getUTCMonth() + 1).padStart(2, '0');
+  const dy = String(d.getUTCDate()).padStart(2, '0');
+  return `${y}${m}${dy}`;
+}
+
+function displayDate(d) {
+  const days = ['일', '월', '화', '수', '목', '금', '토'];
+  const y = d.getUTCFullYear();
+  const m = d.getUTCMonth() + 1;
+  const dy = d.getUTCDate();
+  const wd = days[d.getUTCDay()];
+  return `${y}.${String(m).padStart(2,'0')}.${String(dy).padStart(2,'0')} (${wd})`;
+}
+
+/* ── 섹션 추출 ───────────────────────────────────────────── */
+function extractSection(md, heading) {
+  const escaped = heading.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  const rx = new RegExp(`##\\s+${escaped}\\s*\\n([\\s\\S]*?)(?=\\n##\\s|$)`);
+  const m = md.match(rx);
+  return m ? m[1].trim() : '';
+}
+
+/* ── 대쉬보드 HTML 빌더 ──────────────────────────────────── */
+function buildTable(items, extraCol) {
+  if (!items || items.length === 0) return '<p class="empty">데이터 없음</p>';
+  let html = '<table><thead><tr><th>항목</th><th>내용</th>';
+  if (extraCol) html += `<th>${extraCol}</th>`;
+  html += '</tr></thead><tbody>';
+  for (const item of items) {
+    html += `<tr><td class="col-title">${esc(item.title || '')}</td>`;
+    html += `<td class="col-desc">${esc(item.description || '')}</td>`;
+    if (extraCol === '링크' && item.url) {
+      html += `<td><a href="${esc(item.url)}" target="_blank" rel="noopener">→</a></td>`;
+    } else if (extraCol) {
+      html += `<td>${esc(item[extraCol.toLowerCase()] || '')}</td>`;
+    }
+    html += '</tr>';
+  }
+  html += '</tbody></table>';
+  return html;
+}
+
+function buildDashboard(data) {
+  const m = data.market || {};
+  const mac = data.macro || {};
+  const fr = data.fred || {};
+  const sent = data.sentiment || [];
+  const dart = data.dart || [];
+
+  let html = '';
+
+  /* 국내·해외 지수 */
+  if ((m.domestic || []).length || (m.overseas || []).length) {
+    html += '<div class="card"><h2>🇰🇷 국내 지수</h2>' + buildTable(m.domestic) + '</div>';
+    html += '<div class="card"><h2>🌍 해외 지수</h2>' + buildTable(m.overseas) + '</div>';
+  }
+
+  /* 환율·금리·수급 */
+  if ((m.forex_rates || []).length) {
+    html += '<div class="card"><h2>💱 환율·금리</h2>' + buildTable(m.forex_rates) + '</div>';
+  }
+  if ((m.funds || []).length || (m.program || []).length) {
+    html += '<div class="card"><h2>💼 증시자금·프로그램매매</h2>'
+          + buildTable([...(m.funds||[]), ...(m.program||[])]) + '</div>';
+  }
+
+  /* 수급 상위 */
+  if ((m.gainers||[]).length || (m.traders||[]).length || (m.investor_trends||[]).length) {
+    html += '<div class="card"><h2>📈 수급 동향</h2>';
+    if ((m.gainers||[]).length) {
+      html += '<h3>상승률 상위</h3>' + buildTable(m.gainers);
+    }
+    if ((m.traders||[]).length) {
+      html += '<h3>거래량 상위</h3>' + buildTable(m.traders);
+    }
+    if ((m.investor_trends||[]).length) {
+      html += '<h3>종목투자자동향</h3>' + buildTable(m.investor_trends);
+    }
+    html += '</div>';
+  }
+
+  /* 글로벌 매크로 */
+  html += '<div class="card"><h2>🌐 글로벌 매크로</h2>';
+  if ((mac.global||[]).length)      html += '<h3>주요 지표</h3>'         + buildTable(mac.global);
+  if ((mac.correlation||[]).length) html += '<h3>주식·채권 상관</h3>'    + buildTable(mac.correlation);
+  if ((mac.gex||[]).length)         html += '<h3>옵션 GEX</h3>'           + buildTable(mac.gex);
+  if ((mac.inst_flows||[]).length)  html += '<h3>기관 ETF 수급</h3>'      + buildTable(mac.inst_flows);
+  if ((mac.breadth||[]).length)     html += '<h3>시장 폭</h3>'            + buildTable(mac.breadth);
+  html += '</div>';
+
+  /* 시장 심리 */
+  if (sent.length) {
+    html += '<div class="card"><h2>💭 시장 심리</h2>' + buildTable(sent) + '</div>';
+  }
+
+  /* FRED 경제 지표 */
+  html += '<div class="card"><h2>📈 경제 지표 (FRED)</h2>';
+  if ((fr.liquidity||[]).length) html += '<h3>Fed 유동성</h3>'    + buildTable(fr.liquidity);
+  if ((fr.credit||[]).length)    html += '<h3>신용 스프레드</h3>'  + buildTable(fr.credit);
+  if ((fr.standard||[]).length)  html += '<h3>주요 경제 지표</h3>' + buildTable(fr.standard);
+  html += '</div>';
+
+  /* DART */
+  if (dart.length) {
+    html += '<div class="card"><h2>📋 대주주·임원 지분변동 (DART)</h2>' + buildTable(dart, '링크') + '</div>';
+  }
+
+  return html || '<p class="empty">대쉬보드 데이터가 없습니다.</p>';
+}
+
+function esc(s) {
+  return String(s)
+    .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+}
+
+/* ── 탭 전환 ─────────────────────────────────────────────── */
+const tabBtns = document.querySelectorAll('.tab-btn');
+const tabPanels = { summary: null, dashboard: null, news: null };
+
+tabBtns.forEach(btn => {
+  btn.addEventListener('click', () => {
+    tabBtns.forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    const target = btn.dataset.tab;
+    ['summary', 'dashboard', 'news'].forEach(id => {
+      document.getElementById(`tab-${id}`).style.display = id === target ? '' : 'none';
+    });
+  });
+});
+
+/* ── 데이터 로딩 ──────────────────────────────────────────── */
+let currentDate = kstToday();
+const today = kstToday();
+
+async function loadDate(d) {
+  const dateStr = fmtDate(d);
+  document.getElementById('loading').style.display = '';
+  document.getElementById('error-msg').style.display = 'none';
+  ['summary', 'dashboard', 'news'].forEach(id => {
+    document.getElementById(`tab-${id}`).innerHTML = '';
+  });
+
+  let dataJson = null;
+  let summaryMd = null;
+
+  try {
+    const [jsonRes, mdRes] = await Promise.all([
+      fetch(`${dateStr}_데이타.json`),
+      fetch(`${dateStr}_요약.md`),
+    ]);
+    if (!jsonRes.ok || !mdRes.ok) throw new Error('파일 없음');
+    dataJson = await jsonRes.json();
+    summaryMd = await mdRes.text();
+  } catch {
+    document.getElementById('loading').style.display = 'none';
+    return false;
+  }
+
+  /* 탭 1 — 핵심요약 */
+  const summarySection = extractSection(summaryMd, '핵심요약');
+  document.getElementById('tab-summary').innerHTML =
+    summarySection
+      ? `<div class="md-content">${marked.parse(summarySection)}</div>`
+      : '<p class="empty">핵심요약 데이터가 없습니다.</p>';
+
+  /* 탭 2 — 대쉬보드 */
+  document.getElementById('tab-dashboard').innerHTML = buildDashboard(dataJson);
+
+  /* 탭 3 — 구조화된뉴스 */
+  const newsSection = extractSection(summaryMd, '구조화된뉴스');
+  document.getElementById('tab-news').innerHTML =
+    newsSection
+      ? `<div class="md-content">${marked.parse(newsSection)}</div>`
+      : '<p class="empty">뉴스 데이터가 없습니다.</p>';
+
+  document.getElementById('loading').style.display = 'none';
+  return true;
+}
+
+/* ── 날짜 탐색 ───────────────────────────────────────────── */
+async function findAndLoad(startDate, direction) {
+  let d = startDate;
+  for (let i = 0; i < 30; i++) {
+    const ok = await loadDate(d);
+    if (ok) {
+      currentDate = d;
+      document.getElementById('current-date').textContent = displayDate(d);
+      document.getElementById('btn-next').disabled = fmtDate(d) >= fmtDate(today);
+      return;
+    }
+    d = direction === 'prev' ? prevBiz(d) : nextBiz(d);
+  }
+  document.getElementById('loading').style.display = 'none';
+  const errEl = document.getElementById('error-msg');
+  errEl.textContent = '최근 30 영업일 내 데이터 파일이 없습니다.';
+  errEl.style.display = '';
+}
+
+document.getElementById('btn-prev').addEventListener('click', async () => {
+  await findAndLoad(prevBiz(currentDate), 'prev');
+});
+
+document.getElementById('btn-next').addEventListener('click', async () => {
+  const nd = nextBiz(currentDate);
+  if (fmtDate(nd) > fmtDate(today)) return;
+  await findAndLoad(nd, 'next');
+});
+
+/* ── 초기 로드 (오늘 KST부터 내림차순 탐색) ───────────────── */
+(async () => {
+  let startDate = today;
+  if (isWeekend(startDate)) startDate = prevBiz(startDate);
+  await findAndLoad(startDate, 'prev');
+})();
+</script>
 </body>
 </html>
