@@ -49,25 +49,21 @@ function nextBiz(d) {
   return r;
 }
 function fmtDate(d) {
-  const y = d.getUTCFullYear();
-  const m = String(d.getUTCMonth() + 1).padStart(2, '0');
-  const dy = String(d.getUTCDate()).padStart(2, '0');
-  return `${y}${m}${dy}`;
+  return `${d.getUTCFullYear()}${String(d.getUTCMonth()+1).padStart(2,'0')}${String(d.getUTCDate()).padStart(2,'0')}`;
 }
 function displayDate(d) {
   const days = ['일','월','화','수','목','금','토'];
-  const y = d.getUTCFullYear(), m = d.getUTCMonth() + 1, dy = d.getUTCDate();
-  return `${y}.${String(m).padStart(2,'0')}.${String(dy).padStart(2,'0')} (${days[d.getUTCDay()]})`;
+  return `${d.getUTCFullYear()}.${String(d.getUTCMonth()+1).padStart(2,'0')}.${String(d.getUTCDate()).padStart(2,'0')} (${days[d.getUTCDay()]})`;
 }
 
-/* ── HTML 이스케이프 ────────────────────────────────────── */
+/* ── HTML 이스케이프 ───────────────────────────────────── */
 function esc(s) {
   return String(s ?? '')
     .replace(/&/g,'&amp;').replace(/</g,'&lt;')
     .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
-/* ── 툴팁 엔진 ──────────────────────────────────────────── */
+/* ── 툴팁 엔진 ─────────────────────────────────────────── */
 function initTooltips() {
   const tip = document.createElement('div');
   tip.id = 'g-tip';
@@ -86,68 +82,109 @@ function initTooltips() {
   });
 }
 
-/* ── 무드 배너 ──────────────────────────────────────────── */
-function renderMoodBanner(mood) {
-  if (!mood) return '';
-  const { score = 50, label = '―' } = mood;
-  const cls   = score >= 60 ? 'greed' : score <= 40 ? 'fear' : 'neutral';
-  const emoji = { greed: '😤', fear: '😨', neutral: '😐' }[cls];
-  return `<div class="mood-banner mood-${cls}">
-    <span class="mood-emoji">${emoji}</span>
-    <div class="mood-body">
-      <div class="mood-label">${esc(label)}</div>
-      <div class="mood-meter"><div class="mood-fill" style="width:${score}%"></div></div>
-    </div>
-    <div class="mood-score">${score}<small>/100</small></div>
-  </div>`;
+/* ── 숫자 포맷 ─────────────────────────────────────────── */
+function fmtVal(v) {
+  if (v == null) return '—';
+  if (v >= 1000) return v.toLocaleString('ko-KR', { maximumFractionDigits: 2 });
+  return parseFloat(v.toFixed(2)).toString();
 }
 
-/* ── 숫자 지표 카드 그리드 ──────────────────────────────── */
-function renderIndicatorGrid(indicators) {
-  if (!indicators?.length) return '';
-  return '<div class="indicator-grid">' +
-    indicators.map(ind => {
-      const chg   = ind.change || 0;
-      const dir   = chg >= 0 ? 'pos' : 'neg';
-      const arrow = chg >= 0 ? '▲' : '▼';
-      const cls   = (ind.tag || 'neutral').toLowerCase();
-      return `<div class="ind-card ${cls}" data-tip="${esc(ind.insight || '')}">
-        <div class="ind-name">${esc(ind.name)}</div>
-        <div class="ind-value">${ind.value != null ? ind.value : '—'}</div>
-        <div class="ind-change ${dir}">${arrow}${Math.abs(chg).toFixed(2)}%</div>
-        <div class="ind-tag">${esc(ind.tag || '')}</div>
-      </div>`;
-    }).join('') + '</div>';
-}
-
-/* ── 텍스트 시황 (1줄 표출) ─────────────────────────────── */
+/* ── data 경로 탐색 ────────────────────────────────────── */
 function getPath(obj, path) {
   return path.split('.').reduce((o, k) => (o && o[k] !== undefined ? o[k] : []), obj);
 }
 
-function renderTextData(data, keys) {
-  let rows = '';
-  for (const g of keys) {
-    const items = getPath(data, g.path);
+/* ================================================================
+   고정 카드 스펙 — spec 기반 파싱 (키워드 매칭 → 값 추출)
+   ================================================================ */
+const KR_SPECS = [
+  { name: '코스피',    kws: ['코스피','KOSPI'],              srcs: ['market.domestic'],                 inv: false },
+  { name: '코스닥',    kws: ['코스닥','KOSDAQ'],             srcs: ['market.domestic'],                 inv: false },
+  { name: 'KOSPI200',  kws: ['코스피200','KOSPI200','200'],  srcs: ['market.domestic'],                 inv: false },
+  { name: 'USD/KRW',   kws: ['원달러','USD/KRW','KRW','원/달러','달러원'], srcs: ['market.forex_rates'], inv: true  },
+  { name: 'USD/JPY',   kws: ['USD/JPY','달러엔','엔달러','JPY'], srcs: ['market.forex_rates'],          inv: true  },
+  { name: '국고채 10Y',kws: ['국고채','국채10','KTB','국채'],   srcs: ['market.forex_rates','fred.standard'], inv: true },
+];
+
+const US_SPECS = [
+  { name: 'S&P 500',   kws: ['S&P','SPX','S&P500'],           srcs: ['market.overseas'],  inv: false },
+  { name: '나스닥100', kws: ['나스닥','NASDAQ','NDX','Nasdaq'], srcs: ['market.overseas'],  inv: false },
+  { name: '다우존스',  kws: ['다우','DOW','DJI','Dow'],        srcs: ['market.overseas'],  inv: false },
+  { name: 'DXY',       kws: ['DXY','달러인덱스','달러지수'],   srcs: ['macro.global'],     inv: true  },
+  { name: '미국 10Y',  kws: ['10Y','TNX','10년물','미국채10'], srcs: ['macro.global'],     inv: true  },
+  { name: 'VIX',       kws: ['VIX'],                           srcs: ['macro.global'],     inv: true  },
+];
+
+function buildCard(spec, dataJson, indicators) {
+  /* 1) key_indicators 우선 (이미 파싱된 값) */
+  const fromInd = (indicators || []).find(i =>
+    spec.kws.some(k => (i.name || '').toLowerCase().includes(k.toLowerCase()))
+  );
+  if (fromInd) {
+    return { name: spec.name, value: fromInd.value, change: fromInd.change,
+             tag: fromInd.tag, insight: fromInd.insight || '' };
+  }
+
+  /* 2) 원본 데이터에서 키워드 검색 후 파싱 */
+  for (const src of spec.srcs) {
+    const items = getPath(dataJson, src);
     if (!Array.isArray(items)) continue;
     for (const it of items) {
-      const t = it.title || '', d = it.description || it.content || '';
-      if (!t || t === 'N/A') continue;
-      const titleHtml = (g.hasUrl && it.url)
-        ? `<a class="news-link" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(t)}</a>`
-        : esc(t);
-      const descHtml = (d && d !== 'N/A')
-        ? `<span class="txt-desc"> — ${esc(d.slice(0, 80))}</span>` : '';
-      rows += `<div class="txt-row">
-        <span class="txt-cat">${esc(g.cat)}</span>
-        <span class="txt-body">${titleHtml}${descHtml}</span>
-      </div>`;
+      const t = it.title || '';
+      if (!spec.kws.some(k => t.toLowerCase().includes(k.toLowerCase()))) continue;
+      const valM = t.match(/[\s:：]\s*([\d,]+\.?\d*)/);
+      const chgM = t.match(/([+-][\d.]+)%/);
+      const value  = valM ? parseFloat(valM[1].replace(/,/g, '')) : null;
+      const change = chgM ? parseFloat(chgM[1]) : 0;
+      const tag    = change === 0 ? 'Neutral'
+                   : ((change > 0) !== spec.inv) ? 'Bullish' : 'Bearish';
+      return { name: spec.name, value, change, tag, insight: it.description || '' };
     }
   }
-  return rows ? `<div class="txt-card">${rows}</div>` : '';
+
+  return { name: spec.name, value: null, change: 0, tag: 'Neutral', insight: '' };
 }
 
-/* ── 소스 배지 ──────────────────────────────────────────── */
+function renderSpecCards(specs, dataJson, indicators) {
+  const cards = specs.map(s => buildCard(s, dataJson, indicators));
+  return '<div class="indicator-grid">' +
+    cards.map(c => {
+      const dir   = c.change >= 0 ? 'pos' : 'neg';
+      const arrow = c.change >= 0 ? '▲' : '▼';
+      const cls   = (c.tag || 'neutral').toLowerCase();
+      return `<div class="ind-card ${cls}" data-tip="${esc(c.insight)}">
+        <div class="ind-name">${esc(c.name)}</div>
+        <div class="ind-value">${fmtVal(c.value)}</div>
+        <div class="ind-change ${dir}">${arrow}${Math.abs(c.change).toFixed(2)}%</div>
+        <div class="ind-tag">${esc(c.tag)}</div>
+      </div>`;
+    }).join('') + '</div>';
+}
+
+/* ================================================================
+   시황 브리핑 (5 포인트 · 태그 · 컬러)
+   ================================================================ */
+const _TAG_MAP = {
+  Bullish: { cls: 'bullish', label: '상승' },
+  Bearish: { cls: 'bearish', label: '하락' },
+  Neutral: { cls: 'neutral', label: '중립' },
+};
+
+function renderBriefing(items) {
+  if (!items?.length) return '';
+  return '<div class="briefing-list">' +
+    items.slice(0, 5).map(it => {
+      const tm = _TAG_MAP[it.tag] || _TAG_MAP.Neutral;
+      return `<div class="briefing-row brief-${tm.cls}">
+        <span class="brief-tag ${tm.cls}">${tm.label}</span>
+        <span class="brief-point">${esc(it.point)}</span>
+      </div>`;
+    }).join('') + '</div>';
+}
+
+/* ================================================================
+   뉴스 카드 (소스 그룹별)
+   ================================================================ */
 const _SRC = {
   international: { label: '해외',  color: '#388bfd' },
   domestic:      { label: '국내',  color: '#3fb950' },
@@ -160,8 +197,7 @@ function srcBadge(it) {
   return `<span class="src-badge" style="color:${s.color};border-color:${s.color}40;background:${s.color}18">${esc(lbl)}</span>`;
 }
 
-/* ── 뉴스 카드 ──────────────────────────────────────────── */
-const _DOM_SRC = new Set(['domestic', 'naver', 'telegram']);
+const _DOM_SRC = new Set(['domestic','naver','telegram']);
 const _CAT_LABEL = {
   '반도체·AI':     '💻 반도체·AI',
   '매크로·금리':   '🏦 매크로·금리',
@@ -205,73 +241,45 @@ function renderNewsCards(news, isDomestic) {
     ).join('') + '</div>';
 }
 
-/* ── 지표 국내/글로벌 분류 ──────────────────────────────── */
-const _KR_KW = ['EWY', 'KOSPI', '코스피', 'KOSDAQ', '코스닥', '원/달러', '한국'];
-function isKorea(ind) {
-  return _KR_KW.some(k => (ind.name || '').includes(k));
-}
-
-/* ── 데이터 키 정의 ─────────────────────────────────────── */
-const KR_DATA = [
-  { path: 'market.domestic',         cat: '국내지수'   },
-  { path: 'market.forex_rates',      cat: '환율·금리'  },
-  { path: 'market.funds',            cat: '증시자금'   },
-  { path: 'market.program',          cat: '프로그램'   },
-  { path: 'market.gainers',          cat: '상승상위'   },
-  { path: 'market.traders',          cat: '거래량상위' },
-  { path: 'market.investor_trends',  cat: '투자자동향' },
-  { path: 'dart',                    cat: 'DART', hasUrl: true },
-];
-
-const US_DATA = [
-  { path: 'market.overseas',         cat: '해외지수'    },
-  { path: 'macro.global',            cat: '글로벌'      },
-  { path: 'macro.correlation',       cat: '주식·채권'   },
-  { path: 'macro.gex',               cat: '옵션GEX'     },
-  { path: 'macro.inst_flows',        cat: '기관ETF'     },
-  { path: 'macro.breadth',           cat: '시장폭'      },
-  { path: 'sentiment',               cat: '심리지수'    },
-  { path: 'fred.liquidity',          cat: 'Fed유동성'   },
-  { path: 'fred.credit',             cat: '신용스프레드' },
-  { path: 'fred.standard',           cat: 'FRED'        },
-];
-
-/* ── 공통 렌더러 ────────────────────────────────────────── */
+/* ================================================================
+   공통 렌더러
+   ================================================================ */
 function renderAll(dataJson, summaryMd) {
   const allInds = summaryMd.key_indicators || [];
-  const krInds  = allInds.filter(isKorea);
-  const usInds  = allInds.filter(i => !isKorea(i));
-  const news    = summaryMd.curated_news || [];
+  const news    = summaryMd.curated_news   || [];
+  let html = '';
 
-  let html = renderMoodBanner(summaryMd.market_mood);
+  /* ─── 🇰🇷 국내 ─── */
+  html += '<div class="region-block">';
+  html += '<div class="region-header">🇰🇷 국내 시장</div>';
 
-  /* 🇰🇷 국내 블록 */
-  html += `<div class="region-block">
-    <div class="region-header">🇰🇷 국내 시장</div>`;
-  if (krInds.length) {
-    html += `<div class="sub-label">핵심 지표</div>${renderIndicatorGrid(krInds)}`;
-  }
-  const krText = renderTextData(dataJson, KR_DATA);
-  if (krText) html += `<div class="sub-label">시황 데이터</div>${krText}`;
+  html += renderSpecCards(KR_SPECS, dataJson, allInds);
+
+  const krBrief = renderBriefing(summaryMd.kr_briefing);
+  if (krBrief) html += `<div class="section-divider"></div>${krBrief}`;
+
   const krNews = renderNewsCards(news, true);
-  if (krNews) html += `<div class="sub-label">뉴스 요약</div>${krNews}`;
-  html += `</div>`;
+  if (krNews) html += `<div class="section-divider"></div>${krNews}`;
 
-  /* 🌐 미국·글로벌 블록 */
-  html += `<div class="region-block">
-    <div class="region-header">🌐 미국·글로벌</div>`;
-  if (usInds.length) {
-    html += `<div class="sub-label">핵심 지표</div>${renderIndicatorGrid(usInds)}`;
-  }
-  const usText = renderTextData(dataJson, US_DATA);
-  if (usText) html += `<div class="sub-label">시황 데이터</div>${usText}`;
+  html += '</div>';
+
+  /* ─── 🌐 미국·글로벌 ─── */
+  html += '<div class="region-block">';
+  html += '<div class="region-header">🌐 미국·글로벌</div>';
+
+  html += renderSpecCards(US_SPECS, dataJson, allInds);
+
+  const usBrief = renderBriefing(summaryMd.us_briefing);
+  if (usBrief) html += `<div class="section-divider"></div>${usBrief}`;
+
   const usNews = renderNewsCards(news, false);
-  if (usNews) html += `<div class="sub-label">뉴스 요약</div>${usNews}`;
-  html += `</div>`;
+  if (usNews) html += `<div class="section-divider"></div>${usNews}`;
+
+  html += '</div>';
 
   document.getElementById('sec-main').innerHTML = html;
 
-  /* Gemini 분석 */
+  /* ─── Gemini 분석 ─── */
   const summary  = summaryMd['핵심요약']    || '';
   const newsText = summaryMd['구조화된뉴스'] || '';
   let analysis = '';
@@ -283,7 +291,7 @@ function renderAll(dataJson, summaryMd) {
   window.scrollTo(0, 0);
 }
 
-/* ── 데이터 로딩 ────────────────────────────────────────── */
+/* ── 데이터 로딩 ───────────────────────────────────────── */
 let currentDate = kstToday();
 const today = kstToday();
 
