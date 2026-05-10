@@ -1,17 +1,90 @@
 {
   "meta": {
-    "generated_at": "2026-05-10T05:18:10.152203+00:00",
+    "generated_at": "2026-05-10T05:44:16.592332+00:00",
     "run_date": "20260510"
   },
   "market": {
     "domestic": [],
     "overseas": [],
     "forex_rates": [],
-    "funds": [],
-    "program": [],
-    "gainers": [],
-    "traders": [],
-    "investor_trends": []
+    "funds": [
+      {
+        "title": "고객예탁금: 1,369,890억원 (+62,457억원)",
+        "description": "신용융자잔고: 355,072억원"
+      }
+    ],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 -4,170,267백만원 (차익 -193,525 / 비차익 -3,976,743)",
+        "description": "기준일: 20260508"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 계양전기우 (+30.00%)",
+        "description": "현재가: 10,400, 거래량: 901,349"
+      },
+      {
+        "title": "#2 가온전선 (+29.97%)",
+        "description": "현재가: 477,000, 거래량: 310,071"
+      },
+      {
+        "title": "#3 현대오토에버 (+29.97%)",
+        "description": "현재가: 592,000, 거래량: 1,144,257"
+      },
+      {
+        "title": "#4 진원생명과학 (+29.92%)",
+        "description": "현재가: 1,129, 거래량: 6,885,458"
+      },
+      {
+        "title": "#5 계양전기 (+29.86%)",
+        "description": "현재가: 8,480, 거래량: 6,611,485"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 5,460억원",
+        "description": "현재가: 123, 거래량: 4,325,155,919주"
+      },
+      {
+        "title": "#2 KODEX 인버스 거래대금 3,919억원",
+        "description": "현재가: 1,154, 거래량: 335,174,261주"
+      },
+      {
+        "title": "#3 대한광통신 거래대금 15,670억원",
+        "description": "현재가: 22,350, 거래량: 69,468,763주"
+      },
+      {
+        "title": "#4 오가닉티코스메틱 거래대금 80억원",
+        "description": "현재가: 133, 거래량: 57,094,960주"
+      },
+      {
+        "title": "#5 TIGER 200선물인버스2X 거래대금 74억원",
+        "description": "현재가: 129, 거래량: 55,574,978주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 +98,480,297주 / 기관 +191,157,625주 / 개인 -317,985,945주",
+        "description": "직전 영업일(20260508) 순매수 수량"
+      },
+      {
+        "title": "KODEX 인버스 외국인 -1,056,502주 / 기관 +21,248,679주 / 개인 -20,095,454주",
+        "description": "직전 영업일(20260508) 순매수 수량"
+      },
+      {
+        "title": "대한광통신 외국인 +210,919주 / 기관 -32,848주 / 개인 -277,147주",
+        "description": "직전 영업일(20260508) 순매수 수량"
+      },
+      {
+        "title": "오가닉티코스메틱 외국인 -9,673,454주 / 기관 +0주 / 개인 +9,673,454주",
+        "description": "직전 영업일(20260508) 순매수 수량"
+      },
+      {
+        "title": "TIGER 200선물인버스2X 외국인 +6,105,187주 / 기관 -2,315,664주 / 개인 -3,856,592주",
+        "description": "직전 영업일(20260508) 순매수 수량"
+      }
+    ]
   },
   "macro": {
     "global": [
@@ -117,9 +190,586 @@
   },
   "dart": [],
   "news": {
-    "international": [],
-    "domestic": [],
-    "naver": [],
-    "telegram": []
+    "international": [
+      {
+        "title": "The AI Stock That Gets Stronger Every Time the Market Sells Off - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmliaGV6M2U0dF8yWEpLczRVV3o1anNHTldzNGRzUk1pSWxvZUZGVzNoaFBOYVFsNkFxZXZneXA0WUp6Z0R2WFp4c3UwUzBpQXFWM0d2Zy1UVEJnb0hZY1ZYenFqMF94NHdNMUR2d3llUkpVVVhFaVpTa25JLVQwdUc3MmxQandQZFRhSGVfYWlUZGxkRHpuVw?oc=5",
+        "press": "Yahoo Finance",
+        "published_at": "Sat, 09 May 2026 23:20:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmliaGV6M2U0dF8yWEpLczRVV3o1anNHTldzNGRzUk1pSWxvZUZGVzNoaFBOYVFsNkFxZXZneXA0WUp6Z0R2WFp4c3UwUzBpQXFWM0d2Zy1UVEJnb0hZY1ZYenFqMF94NHdNMUR2d3llUkpVVVhFaVpTa25JLVQwdUc3MmxQandQZFRhSGVfYWlUZGxkRHpuVw?oc=5\" target=\"_blank\">The AI Stock That Gets Stronger Every Time the Market Sells Off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+      },
+      {
+        "title": "S&P 500 Snapshot: Index Flirts With 7,400 - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR3ZXQXdJRUVwQTVVQ0d2ODJWX1JIZEozVW5QLTB2SHRRbk9FcVU3YnNjR04xV1czeXJHbDZDUEhySUtMcmhaN2RiV2d3VEtSMFB2cmFqZVpobE1pLUl6clgzY2RmeXBDckt2dk9Lc0NrVE9GZmFlSE9oOGdaNXN6Mi1pa05BUQ?oc=5",
+        "press": "Seeking Alpha",
+        "published_at": "Sun, 10 May 2026 04:30:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNR3ZXQXdJRUVwQTVVQ0d2ODJWX1JIZEozVW5QLTB2SHRRbk9FcVU3YnNjR04xV1czeXJHbDZDUEhySUtMcmhaN2RiV2d3VEtSMFB2cmFqZVpobE1pLUl6clgzY2RmeXBDckt2dk9Lc0NrVE9GZmFlSE9oOGdaNXN6Mi1pa05BUQ?oc=5\" target=\"_blank\">S&amp;P 500 Snapshot: Index Flirts With 7,400</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>"
+      },
+      {
+        "title": "The AI Stock That Gets Stronger Every Time the Market Sells Off - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmliaGV6M2U0dF8yWEpLczRVV3o1anNHTldzNGRzUk1pSWxvZUZGVzNoaFBOYVFsNkFxZXZneXA0WUp6Z0R2WFp4c3UwUzBpQXFWM0d2Zy1UVEJnb0hZY1ZYenFqMF94NHdNMUR2d3llUkpVVVhFaVpTa25JLVQwdUc3MmxQandQZFRhSGVfYWlUZGxkRHpuVw?oc=5",
+        "press": "Yahoo Finance",
+        "published_at": "Sat, 09 May 2026 23:20:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmliaGV6M2U0dF8yWEpLczRVV3o1anNHTldzNGRzUk1pSWxvZUZGVzNoaFBOYVFsNkFxZXZneXA0WUp6Z0R2WFp4c3UwUzBpQXFWM0d2Zy1UVEJnb0hZY1ZYenFqMF94NHdNMUR2d3llUkpVVVhFaVpTa25JLVQwdUc3MmxQandQZFRhSGVfYWlUZGxkRHpuVw?oc=5\" target=\"_blank\">The AI Stock That Gets Stronger Every Time the Market Sells Off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>"
+      },
+      {
+        "title": "United States Eau De Toilette - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZU8tczZqNFBMUm9HQXptZGZaNFZfM0t1NmJ4TXMxbE9XTUNVODJJV3dLSmtYa3otSXMycW5MTXpDY3JZWDI5am0zV2tNT0VDalRKcGhCUUx6Vm5UcTY2Yld1Wnk0Wk5XdVVnNmNvc2R4YmVmbnNEM2ZSWlMxREF2Ylh0OWNDc1JuMDlsWnpTVUJyRE9fYU5KN2JNcW1Kb0I3SkswVEstcFd5SVdHd0JZc2ZoVkRIVzlS?oc=5",
+        "press": "IndexBox",
+        "published_at": "Sun, 10 May 2026 04:49:32 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZU8tczZqNFBMUm9HQXptZGZaNFZfM0t1NmJ4TXMxbE9XTUNVODJJV3dLSmtYa3otSXMycW5MTXpDY3JZWDI5am0zV2tNT0VDalRKcGhCUUx6Vm5UcTY2Yld1Wnk0Wk5XdVVnNmNvc2R4YmVmbnNEM2ZSWlMxREF2Ylh0OWNDc1JuMDlsWnpTVUJyRE9fYU5KN2JNcW1Kb0I3SkswVEstcFd5SVdHd0JZc2ZoVkRIVzlS?oc=5\" target=\"_blank\">United States Eau De Toilette - Market Analysis, Forecast, Size, Trends and Insights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>"
+      },
+      {
+        "title": "Middle East Extension Cord Pack - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTE9Ud2twbWlsVVVLUDZHc1FqbFYteWN5N2xNbTdhY0o2Z2xRWUFOd3l5NTVTV0FGaVpBeldsSlA0dFB0TWxIVmZRbXRCX2ltNWpMeTNyUUk4WVFPd3JvUnNhMzhmSUF3bjlURms0R1NsN29oRHpiQ3RjSVN1bTBicldFQnNUZ05WdGx5NzBpVEdIcVdKTVdObFpNWGVrdVJqUUExMl9vZWU1MExRcWgzMFI1NVZweGpZWlZr?oc=5",
+        "press": "IndexBox",
+        "published_at": "Sun, 10 May 2026 05:33:41 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTE9Ud2twbWlsVVVLUDZHc1FqbFYteWN5N2xNbTdhY0o2Z2xRWUFOd3l5NTVTV0FGaVpBeldsSlA0dFB0TWxIVmZRbXRCX2ltNWpMeTNyUUk4WVFPd3JvUnNhMzhmSUF3bjlURms0R1NsN29oRHpiQ3RjSVN1bTBicldFQnNUZ05WdGx5NzBpVEdIcVdKTVdObFpNWGVrdVJqUUExMl9vZWU1MExRcWgzMFI1NVZweGpZWlZr?oc=5\" target=\"_blank\">Middle East Extension Cord Pack - Market Analysis, Forecast, Size, Trends and Insights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>"
+      },
+      {
+        "title": "United Kingdom Entry Door Sensor - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWXBzTHU0V1JpS3VqTWl5ckw4MndDWVd2ck56SmZ6XzhjOS1Nd3NIMjNrbGxJUWtsQ21BdXVyZGFzMldob2tlRjhHUEVOYjFPaTRsc2hrMlR0Y0ZuWFRlTm4wdzBNV1JkNDJocUJLUVRnRktfeXgxWFZQektBR1I3ajA3anZCVERuekJJX281cFk5VkxIQTltc1VKemtkZEdhb0p1dlBMZDFvdkw2YUZkRDlZVVFCS243YWtCRw?oc=5",
+        "press": "IndexBox",
+        "published_at": "Sun, 10 May 2026 05:25:38 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNWXBzTHU0V1JpS3VqTWl5ckw4MndDWVd2ck56SmZ6XzhjOS1Nd3NIMjNrbGxJUWtsQ21BdXVyZGFzMldob2tlRjhHUEVOYjFPaTRsc2hrMlR0Y0ZuWFRlTm4wdzBNV1JkNDJocUJLUVRnRktfeXgxWFZQektBR1I3ajA3anZCVERuekJJX281cFk5VkxIQTltc1VKemtkZEdhb0p1dlBMZDFvdkw2YUZkRDlZVVFCS243YWtCRw?oc=5\" target=\"_blank\">United Kingdom Entry Door Sensor - Market Analysis, Forecast, Size, Trends and Insights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>"
+      },
+      {
+        "title": "United States Eau De Toilette - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZU8tczZqNFBMUm9HQXptZGZaNFZfM0t1NmJ4TXMxbE9XTUNVODJJV3dLSmtYa3otSXMycW5MTXpDY3JZWDI5am0zV2tNT0VDalRKcGhCUUx6Vm5UcTY2Yld1Wnk0Wk5XdVVnNmNvc2R4YmVmbnNEM2ZSWlMxREF2Ylh0OWNDc1JuMDlsWnpTVUJyRE9fYU5KN2JNcW1Kb0I3SkswVEstcFd5SVdHd0JZc2ZoVkRIVzlS?oc=5",
+        "press": "IndexBox",
+        "published_at": "Sun, 10 May 2026 04:49:32 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZU8tczZqNFBMUm9HQXptZGZaNFZfM0t1NmJ4TXMxbE9XTUNVODJJV3dLSmtYa3otSXMycW5MTXpDY3JZWDI5am0zV2tNT0VDalRKcGhCUUx6Vm5UcTY2Yld1Wnk0Wk5XdVVnNmNvc2R4YmVmbnNEM2ZSWlMxREF2Ylh0OWNDc1JuMDlsWnpTVUJyRE9fYU5KN2JNcW1Kb0I3SkswVEstcFd5SVdHd0JZc2ZoVkRIVzlS?oc=5\" target=\"_blank\">United States Eau De Toilette - Market Analysis, Forecast, Size, Trends and Insights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Interactive Brokers Launches Access to Korean Equities, Breaking New Ground for Global Investors - 뉴스와이어",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5URGZwSTYzNGtMUWxaWmJob2ZrQWdYbjZEVXJ5TTJrTzNvS0lOTER4VExSNUFKRzgzWTE2RUVfU2d0emtiV2VrQU9mNHhuRXRfSXo1WXZxRTdaSEFBREFv?oc=5",
+        "press": "뉴스와이어",
+        "published_at": "Sun, 10 May 2026 05:10:00 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5URGZwSTYzNGtMUWxaWmJob2ZrQWdYbjZEVXJ5TTJrTzNvS0lOTER4VExSNUFKRzgzWTE2RUVfU2d0emtiV2VrQU9mNHhuRXRfSXo1WXZxRTdaSEFBREFv?oc=5\" target=\"_blank\">Interactive Brokers Launches Access to Korean Equities, Breaking New Ground for Global Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">뉴스와이어</font>"
+      },
+      {
+        "title": "OECD Energy Prices Surge 8.1% as Korea's Rate Rises 5.2% - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUk4UFZkVlo5akJJR2o3NGpyUG5sX3ZUbUJZdHA5bEEwNU9nTUsyRTBkUEp3NTVtR0VQRUdxRGxPZzdsa1FhSV8yQ0JUbDdXR3ZpeHlfZHFGaV9XaWxUQnI5NU5VaS1wTWw3al93NnMwb3VVdnYxSW5iUWc0MmpQMFFkeHRILWRFcG1teGN3?oc=5",
+        "press": "조선일보",
+        "published_at": "Sun, 10 May 2026 02:49:32 GMT",
+        "description": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUk4UFZkVlo5akJJR2o3NGpyUG5sX3ZUbUJZdHA5bEEwNU9nTUsyRTBkUEp3NTVtR0VQRUdxRGxPZzdsa1FhSV8yQ0JUbDdXR3ZpeHlfZHFGaV9XaWxUQnI5NU5VaS1wTWw3al93NnMwb3VVdnYxSW5iUWc0MmpQMFFkeHRILWRFcG1teGN3?oc=5\" target=\"_blank\">OECD Energy Prices Surge 8.1% as Korea's Rate Rises 5.2%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>"
+      }
+    ],
+    "naver": [
+      {
+        "title": "[금융 HOT 뉴스] 밸류업 공시 기업 718사…지수 '사상 최고'",
+        "url": "http://www.bizwnews.com/news/articleView.html?idxno=136094",
+        "press": "www.bizwnews.com",
+        "published_at": "Sun, 10 May 2026 14:42:00 +0900",
+        "description": "4월 기업가치 제고 계획을 신규 공시한 기업은 130사로 누적 718사(코스피 342사, 코스닥 376사)가 공시를... 코스피 공시 기업은 코스피 시가총액의 83.4%에 이른다. 이전 공시에 대한 이행평가를 포함한 주기적..."
+      },
+      {
+        "title": "코스피 7500 랠리에 마통 40조 돌파…예금도 두달째 감소",
+        "url": "https://www.ajunews.com/view/20260510140552045",
+        "press": "www.ajunews.com",
+        "published_at": "Sun, 10 May 2026 14:34:00 +0900",
+        "description": "com KB국민은행 딜링룸 [사진=국민은행] 코스피가 사상 처음으로 7000선을 돌파하자 개인 투자자들의... 이는 가계대출 규제와 코스피 상승이 맞물린 데 따른 결과로 보인다. 마이너스통장 잔액은 지난해 10월부터..."
+      },
+      {
+        "title": "\"코스피 8000도 간다\"…증시 불장에 빚투도 '폭발'",
+        "url": "https://www.asiatime.co.kr/article/20260510500157",
+        "press": "www.asiatime.co.kr",
+        "published_at": "Sun, 10 May 2026 14:34:00 +0900",
+        "description": "기자] 코스피가 7500선을 넘어서는 등 뜨겁게 타오르면서 투자자들이 대거 '빚투(빚내서 투자)'에 나서고... 이는 이란 전쟁 종식 기대감과 대형 반도체주 호실적 등에 코스피가 7500선을 두드리는 등 급등하면서..."
+      },
+      {
+        "title": "[금융 HOT 뉴스] 밸류업 공시 기업 718사…지수 '사상 최고'",
+        "url": "http://www.bizwnews.com/news/articleView.html?idxno=136094",
+        "press": "www.bizwnews.com",
+        "published_at": "Sun, 10 May 2026 14:42:00 +0900",
+        "description": "4월 기업가치 제고 계획을 신규 공시한 기업은 130사로 누적 718사(코스피 342사, 코스닥 376사)가 공시를 마쳤다. 4월 신규 공시 130사 중 124사가 고배당기업에 해당한다. 4월까지 고배당기업으로 분류돼..."
+      },
+      {
+        "title": "거래대금 65% 뛴 코스피…반도체 쏠림에 짙어진 'K자형 랠리'",
+        "url": "https://n.news.naver.com/mnews/article/014/0005519274?sid=101",
+        "press": "www.fnnews.com",
+        "published_at": "Sun, 10 May 2026 14:02:00 +0900",
+        "description": "같은 기간 코스닥 일평균 거래대금은 지난달 14조794억원에서 이달 16조8851억원으로 19.9% 증가하는 데... 반도체 대형주가 포함된 코스피 중심으로 자금이 몰리면서 중소형주와 코스닥으로의 확산은 아직 뚜렷하지..."
+      },
+      {
+        "title": "㈜레메디, 코스닥 상장 예비심사 통과",
+        "url": "https://n.news.naver.com/mnews/article/087/0001191988?sid=101",
+        "press": "www.kwnews.co.kr",
+        "published_at": "Sun, 10 May 2026 13:51:00 +0900",
+        "description": "저선량·초소형 X-ray 기술기업 ㈜레메디(대표:조봉호)가 코스닥 상장 예비심사를 통과했다. 한국거래소 코스닥시장본부는 레메디 등 2개사가 코스닥시장 상장 예비심사를 통과했다고 지난 7일 밝혔다...."
+      },
+      {
+        "title": "3만 명 일자리 흔들… 삼성 총파업 예고에 소부장 생태계 '비상'",
+        "url": "https://www.pennmike.com/news/articleView.html?idxno=120224",
+        "press": "www.pennmike.com",
+        "published_at": "Sun, 10 May 2026 14:42:00 +0900",
+        "description": "삼성전자의 사상 첫 총파업 예고일이 다가오면서 반도체 산업의 뿌리인 소재·부품·장비(소부장) 생태계가 벼랑 끝으로 내몰리고 있다. 원청의 가동 중단이 자칫 중소 협력사의 경영난과 대규모 고용 불안으로 번질 수..."
+      },
+      {
+        "title": "두아 리파, 삼성전자에 220억 손배소 제기…\"초상권 침해\"[Ce:월드뷰]",
+        "url": "http://www.celuvmedia.com/article.php?aid=1778391368520131008",
+        "press": "www.celuvmedia.com",
+        "published_at": "Sun, 10 May 2026 14:38:00 +0900",
+        "description": "팝스타 두아 리파가 삼성전자를 상대로 초상권 및 저작권 침해 혐의로 손해배상 청구 소송을 제기했다. 9일(현지시간) 미국 현지 매체 버라이어티(Variety) 등에 따르면, 두아 리파는 캘리포니아 중앙 연방지방법원에..."
+      },
+      {
+        "title": "\"내 얼굴로 TV 팔아?\"…세계적 팝스타 美두아 리파, 삼성에 220억 소송",
+        "url": "https://n.news.naver.com/mnews/article/421/0008935606?sid=104",
+        "press": "www.news1.kr",
+        "published_at": "Sun, 10 May 2026 14:38:00 +0900",
+        "description": "세계적인 팝스타 두아 리파(Dua Lipa)가 삼성전자를 상대로 초상권 및 저작권 침해 소송을 제기했다. 9일(현지 시각) 복수의 미국 연예매체에 따르면 두아 리파는 삼성전자 본사와 삼성전자 미국법인 삼성전자 아메리카를..."
+      },
+      {
+        "title": "김성근 충북교육감 예비후보 '출정'",
+        "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=348038",
+        "press": "www.ccreview.co.kr",
+        "published_at": "Sun, 10 May 2026 14:32:00 +0900",
+        "description": "김 예비후보는 SK하이닉스와 연계한 반도체 마이스터고 운영과 고교학점제 내 반도체 특화 트랙 신설, 에코프로·셀트리온 등 지역 선도기업과 연계한 산학 협력 체계 구축 등을 공약으로 제시했다. 또 특성화고와..."
+      },
+      {
+        "title": "코스피 질주에 ‘큰 손 개미’ 국장으로 귀환…뭐샀나?",
+        "url": "https://n.news.naver.com/mnews/article/138/0002227348?sid=101",
+        "press": "www.ddaily.co.kr",
+        "published_at": "Sun, 10 May 2026 14:29:00 +0900",
+        "description": "이어 SK하이닉스가 14만2668건으로 뒤를 이었다. 두 종목 주문 건수를 합치면 전체 대량 주문의 약 30%를 차지한다. 뒤이어 대우건설, 삼성SDI, 현대차, 대한전선 등에도 대량 주문이 몰렸다. 특히 이달 들어 큰손..."
+      },
+      {
+        "title": "김용범 “반도체 호황에 역대급 세수…평범한 경기 순환 아냐”",
+        "url": "https://n.news.naver.com/mnews/article/020/0003718381?sid=100",
+        "press": "www.donga.com",
+        "published_at": "Sun, 10 May 2026 14:09:00 +0900",
+        "description": "이어 “골드만삭스가 추정한 삼성전자와 SK하이닉스의 단독 합산 이익만 해도 과거 한국 증시의 감각으로는 쉽게 상상하기 어려운 규모”라며 “2027년까지 반도체 호황이 이어진다면 2026∼2027년의 세수는 역사적..."
+      },
+      {
+        "title": "남도일보, 홈페이지 방문자 수 2023년 이후 4년째 연속 1위",
+        "url": "https://www.namdonews.com/news/articleView.html?idxno=909955",
+        "press": "www.namdonews.com",
+        "published_at": "Sun, 10 May 2026 14:40:00 +0900",
+        "description": "국내 트래픽 분석업체인 네이버 애널리틱스(Naver Analytics) 기준으로는 ▲1월 82만3천666명 ▲2월 56만6천419명 ▲3월 62만2천632명 ▲4월 84만3천416명으로 총 285만6천133명을 보였다. 또 앤디소프트 기반 구글 사이트 분석..."
+      },
+      {
+        "title": "할인 행사 중단·고급화 전략…최고가격제 시대를 살아가는 주유소의 생...",
+        "url": "https://n.news.naver.com/mnews/article/032/0003444762?sid=101",
+        "press": "www.khan.co.kr",
+        "published_at": "Sun, 10 May 2026 14:31:00 +0900",
+        "description": "GS칼텍스는 전국 GS칼텍스 주유소에서 네이버페이로 결제하면 ℓ당 네이버페이 포인트 100원을 적립할 수 있도록 했다. 반경 5㎞ 이내 최저가로 결제 금액이 조정되는 상업자표시전용(PLCC) 카드도 현대카드와 함께..."
+      },
+      {
+        "title": "TS, 정책소통 유공 대통령 표창…국민 참여 '오늘도 무사고 캠페인' 성과...",
+        "url": "https://www.hidomin.com/news/articleView.html?idxno=704633",
+        "press": "www.hidomin.com",
+        "published_at": "Sun, 10 May 2026 14:22:00 +0900",
+        "description": "한편, TS는 오늘도 무사고 캠페인 출범 1주년을 맞아 국토교통부, 사회적가치 플랫폼 네이버 해피빈과 함께 7월 2일까지 교통안전문화 확산을 위한 '오늘도 무사고 교통안전 실천 서약 온라인 캠페인'을 병행하고 있다...."
+      },
+      {
+        "title": "공정·금융위 '정책자금으로 고리대출' 명륜진사갈비 동시 압박(종합)",
+        "url": "https://n.news.naver.com/mnews/article/001/0016068025?sid=101",
+        "press": "www.yna.co.kr",
+        "published_at": "Sun, 10 May 2026 14:41:00 +0900",
+        "description": "앞서 공정위와 금융위원회가 실태 조사한 결과를 보면 명륜당은 한국산업은행 등 정책금융기관으로부터 연 3∼6%의 저금리로 수백억원의 대출을 받아 대주주가 세운 14개 대부업체에 약 899억원을 대여했다. 대부업체들은..."
+      },
+      {
+        "title": "명륜당 공정위 심판 받는다…\"점주들에 12~18% 고금리 대출\"",
+        "url": "https://n.news.naver.com/mnews/article/057/0001948397?sid=102",
+        "press": "mbn.mk.co.kr",
+        "published_at": "Sun, 10 May 2026 14:40:00 +0900",
+        "description": "앞서 공정위와 금융위원회가 실태 조사한 결과를 보면 명륜당은 한국산업은행 등 정책금융기관으로부터 연 3∼6%의 저금리로 수백억원의 대출을 받아 대주주가 세운 14개 대부업체에 약 899억 원을 대여했습니다...."
+      },
+      {
+        "title": "국책은행 떠나는 젊은 직원들…시중은행보다 낮은 연봉 영향",
+        "url": "https://n.news.naver.com/mnews/article/018/0006277683?sid=101",
+        "press": "www.edaily.co.kr",
+        "published_at": "Sun, 10 May 2026 14:40:00 +0900",
+        "description": "IBK기업은행, 한국산업은행, 한국수출입은행 본사 전경.(사진=각 사) 10일 공공기관 경영정보 공개시스템 알리오(ALIO)에 따르면 한국산업은행의 지난해 남성 직원 이직률은 9%를 기록했다. 2021년 3%였던 점을 고려하면 4년..."
+      },
+      {
+        "title": "주간 금시세(금값) 전망... 하락세 멈추고 반등 시도 중인 금가격",
+        "url": "https://www.wikitree.co.kr/articles/1135772",
+        "press": "www.wikitree.co.kr",
+        "published_at": "Sun, 10 May 2026 14:28:00 +0900",
+        "description": "CME 페드워치 자료에 따르면 금리 선물 시장 거래자들은 연방준비제도가 올해 연말까지 기준금리를 최소 한 차례 인상할 가능성을 14.4%로 평가한다. 금리 인상은 금의 상대적인 가치를 떨어뜨리는 대표적인 악재다...."
+      },
+      {
+        "title": "“기름값은 겨우 눌렀는데”… 이제 국채·세금·대출금리 흔들리나",
+        "url": "https://n.news.naver.com/mnews/article/661/0000075964?sid=101",
+        "press": "www.jibs.co.kr",
+        "published_at": "Sun, 10 May 2026 14:05:00 +0900",
+        "description": "억눌린 유가 상승분이 쌓이는 가운데, 한국은행 내부에서는 기준금리 인상 가능성까지 공개적으로 거론되기 시작했습니다. 정부는 가격 억제로 유가 상승을 막고, 한국은행은 통화 긴축 가능성을 열어두는 흐름입니다...."
+      },
+      {
+        "title": "올해 카드채 금리 1%p 상승…하반기 카드론 금리 빨간불",
+        "url": "https://n.news.naver.com/mnews/article/018/0006277578?sid=101",
+        "press": "www.edaily.co.kr",
+        "published_at": "Sun, 10 May 2026 13:56:00 +0900",
+        "description": "아직 중동발 리스크가 해소되지 않았고, 미국과 우리나라 기준금리 인하 가능성이 낮아지면서 카드채와 카드론 금리 상승 압박은 당분간 지속될 것이란 전망이 나온다. 카드론 평균 금리는 지난 2월 13.39%에서 3월 13...."
+      },
+      {
+        "title": "[정책탐구생활] 경제대국 부흥 꿈꾸는 일본… 세계 산업 재편 공세 ‘G2...",
+        "url": "https://www.viva100.com/article/20260510500006",
+        "press": "www.viva100.com",
+        "published_at": "Sun, 10 May 2026 14:38:00 +0900",
+        "description": "하지만 사나에노믹스의 안착은 한국 경제에 위협 요소가 될 수 있다. IBK기업은행 경제연구소는 보고서에서 일본의 전략산업에 속한 반도체·조선 등은 한국과 경쟁 업종으로 사나에노믹스 전략산업 성장 정책이 성공할..."
+      },
+      {
+        "title": "[심층분석] 푸른 귀족의 세습-기획된 내란",
+        "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=384084",
+        "press": "www.fntoday.co.kr",
+        "published_at": "Sun, 10 May 2026 13:58:00 +0900",
+        "description": "사드 배치 갈등에서 중국이 경제 보복으로 한국 지도층의 의지를 꺾은 것은 심리전의 실제 사례다. 한국 선관위와 연관된 세계선거기관협의회(A-WEB) 문제도 언급할 필요가 있다. 일부 보수 진영에서는 A-WEB을 중국의..."
+      },
+      {
+        "title": "[5년 후 한국]①‘K-제조업’의 귀환··· 재계 빅4, 국내 투자 1000조 미...",
+        "url": "https://www.asiatime.co.kr/article/20260510500138",
+        "press": "www.asiatime.co.kr",
+        "published_at": "Sun, 10 May 2026 13:44:00 +0900",
+        "description": "한국경제인협회는 최근 “산업 대전환 시기에 맞춰 변화에 뒤처진 낡은 규제 100건을 과감히 정비해 줄 것을 건의한다”며 “특히 AI, 전기차, 자율주행 등 신산업 분야에서 우리 기업들이 글로벌 경쟁력을 발휘할 수..."
+      },
+      {
+        "title": "코스피 7500 랠리에 마통 40조 돌파…예금도 두달째 감소",
+        "url": "https://www.ajunews.com/view/20260510140552045",
+        "press": "www.ajunews.com",
+        "published_at": "Sun, 10 May 2026 14:34:00 +0900",
+        "description": "빚을 내어 주식 시장에 뛰어드는 자금 수요가 넘치며 마이너스 통장 잔액은 40조원을 사상 처음으로 돌파했다. 요구불예금도 두 달째 감소하면서 일부 은행권은 예금 금리 인상에 나서는 강수를 두고 있다. 10일..."
+      },
+      {
+        "title": "\"코스피 8000도 간다\"…증시 불장에 빚투도 '폭발'",
+        "url": "https://www.asiatime.co.kr/article/20260510500157",
+        "press": "www.asiatime.co.kr",
+        "published_at": "Sun, 10 May 2026 14:34:00 +0900",
+        "description": "은행권 관계자는 \"코스피가 7500선을 돌파하는 등 주식시장 활황으로 투자에 나서는 움직임이 나타나고 있는 것\"이라며 \"예·적금이나 채권 등 안정적 자산 비중이 높았던 시니어들도 투자에 나서고 있다\"고..."
+      },
+      {
+        "title": "\"영끌 아닌 빚투?\"…마통 40조5천억, 3년여 만에 최고",
+        "url": "https://n.news.naver.com/mnews/article/057/0001948395?sid=101",
+        "press": "mbn.mk.co.kr",
+        "published_at": "Sun, 10 May 2026 14:33:00 +0900",
+        "description": "개인 투자자들이 과거에는 대출을 최대한 끌어모아 부동산을 매수하는 이른바 ‘영끌’을 감행했다면, 이제는 단기 자금을 빌려 주식시장에 뛰어드는 ‘빚투’에 나선 거란 분석이 나옵니다. 오늘(10일) 금융권에..."
+      },
+      {
+        "title": "'곡예 증시'의 위험한 질주...빚투에 5대 은행 마통 전액 3년래 최대",
+        "url": "https://biz.newdaily.co.kr/site/data/html/2026/05/10/2026051000051.html",
+        "press": "biz.newdaily.co.kr",
+        "published_at": "Sun, 10 May 2026 14:34:00 +0900",
+        "description": "반면 한 달 사이 정기예금과 대기성 자금은 11조원 이상 급감하며 기록적인 불장에서 소외될 수 있다는 '포모'를 느낀 개인투자자들의 증시 유입이 가속화되는 모습이다. 10일 금융권과 연합뉴스에 따르면..."
+      },
+      {
+        "title": "8000피와 숨고르기 갈림길…인플레 우려·삼전 파업 변수[주간증시전망...",
+        "url": "https://n.news.naver.com/mnews/article/018/0006277505?sid=101",
+        "press": "www.edaily.co.kr",
+        "published_at": "Sun, 10 May 2026 13:27:00 +0900",
+        "description": "반도체 중심의 강세를 바탕으로 지난주 사상 첫 코스피 7500선을 돌파한 가운데, 이번 주(11~15일) 국내 증시... (사진=연합뉴스) 10일 엠피닥터에 따르면 코스피는 지난 한 주(4~8일) 동안 13.63% 상승했다. 시가총액 1, 2위..."
+      },
+      {
+        "title": "“증시 날았다”…펀드 팔아 쏠쏠한 은행들 수수료만 ‘2000억’",
+        "url": "https://n.news.naver.com/mnews/article/018/0006277497?sid=101",
+        "press": "www.edaily.co.kr",
+        "published_at": "Sun, 10 May 2026 13:24:00 +0900",
+        "description": "자료사진=연합뉴스 은행들이 올해 1분기 증시 활황에 맞춰 주식형 펀드 등을 판매한 수수료로 2000억원이 넘는 이익을 냈다. 은행을 통한 펀드 판매잔고가 90조원에 육박하는 가운데 은행이 투자상품을 판매 중개한..."
+      }
+    ],
+    "telegram": [
+      {
+        "channel": "Market News Feed",
+        "title": "US WARPLANES HAVE REPEATEDLY VIOLATED IRAQI AIRSPACE, ACCORDING TO IRAQI MEDIA REPORTS, WITH AMERICA",
+        "content": "US WARPLANES HAVE REPEATEDLY VIOLATED IRAQI AIRSPACE, ACCORDING TO IRAQI MEDIA REPORTS, WITH AMERICAN AIRCRAFT ALLEGEDLY FLYING IN FROM OCCUPIED TERRITORIES.: TASNIM [...](https://x.com/FirstSquawk/status/2053348221758615763)",
+        "published_at": "2026-05-10T14:35:43+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "THE CRUISE SHIP HONDIUS, HIT BY A DEADLY HANTAVIRUS OUTBREAK, HAS ARRIVED AT THE PORT OF GRANADILLA ",
+        "content": "THE CRUISE SHIP HONDIUS, HIT BY A DEADLY HANTAVIRUS OUTBREAK, HAS ARRIVED AT THE PORT OF GRANADILLA IN TENERIFE, SPAIN, ACCORDING TO LIVE SPANISH TV FOOTAGE. [...](https://x.com/FirstSquawk/status/2053348075838828705)",
+        "published_at": "2026-05-10T14:35:13+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "BRITISH MARITIME AUTHORITY: FIRE BREAKS OUT ON TANKER THAT REPORTED AN INJURY AND WAS BROUGHT UNDER ",
+        "content": "BRITISH MARITIME AUTHORITY: FIRE BREAKS OUT ON TANKER THAT REPORTED AN INJURY AND WAS BROUGHT UNDER CONTROL [...](https://x.com/FirstSquawk/status/2053347265713205530)",
+        "published_at": "2026-05-10T14:32:13+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "BRITISH MARITIME AUTHORITY: CARGO SHIP REPORTED BEING HIT BY A PROJECTILE 23 MILES NORTHEAST OF DOHA",
+        "content": "BRITISH MARITIME AUTHORITY: CARGO SHIP REPORTED BEING HIT BY A PROJECTILE 23 MILES NORTHEAST OF DOHA [...](https://x.com/FirstSquawk/status/2053346203744760051)",
+        "published_at": "2026-05-10T14:27:43+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "BRITISH MARITIME AUTHORITY: BULK CARRIER REPORTED BEING STRUCK BY AN UNKNOWN PROJECTILE OFF THE COAS",
+        "content": "BRITISH MARITIME AUTHORITY: BULK CARRIER REPORTED BEING STRUCK BY AN UNKNOWN PROJECTILE OFF THE COAST OF QATAR [...](https://x.com/FirstSquawk/status/2053344665227968924)",
+        "published_at": "2026-05-10T14:21:43+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "**Follow us on X for even faster headlines!**\n\nhttps://x.com/MarketNews_Feed",
+        "content": "**Follow us on X for even faster headlines!**\n\nhttps://x.com/MarketNews_Feed",
+        "published_at": "2026-05-10T14:00:02+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "PAKISTANI ARMY CHIEF: ISLAMABAD IS MAKING EVERY EFFORT TO ENSURE THE SUCCESS OF THE MEDIATION, AND I",
+        "content": "PAKISTANI ARMY CHIEF: ISLAMABAD IS MAKING EVERY EFFORT TO ENSURE THE SUCCESS OF THE MEDIATION, AND IT IS CONTINUING TO DO SO. [...](https://x.com/FirstSquawk/status/2053333437575217303)",
+        "published_at": "2026-05-10T13:36:57+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "PAKISTANI ARMY CHIEF: ISLAMABAD IS CONDUCTING NEUTRAL MEDIATION IN THE MIDDLE EAST AIMED AT ACHIEVIN",
+        "content": "PAKISTANI ARMY CHIEF: ISLAMABAD IS CONDUCTING NEUTRAL MEDIATION IN THE MIDDLE EAST AIMED AT ACHIEVING PERMANENT PEACE [...](https://x.com/FirstSquawk/status/2053333357023707561)",
+        "published_at": "2026-05-10T13:36:57+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "ISRAELI RADIO: 5 SOLDIERS INJURED, TWO OF THEM SERIOUSLY, IN HEZBOLLAH DRONE ATTACKS YESTERDAY SATUR",
+        "content": "ISRAELI RADIO: 5 SOLDIERS INJURED, TWO OF THEM SERIOUSLY, IN HEZBOLLAH DRONE ATTACKS YESTERDAY SATURDAY [...](https://x.com/FirstSquawk/status/2053332308669976773)",
+        "published_at": "2026-05-10T13:32:56+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "FINANCIAL TIMES ON PANAMA CANAL MANAGER: DAILY TRANSIT OPERATIONS IN THE CANAL HAVE INCREASED BY 20%",
+        "content": "FINANCIAL TIMES ON PANAMA CANAL MANAGER: DAILY TRANSIT OPERATIONS IN THE CANAL HAVE INCREASED BY 20% SINCE THE START OF THE WAR WITH #IRAN [...](https://x.com/FirstSquawk/status/2053332247135310163)",
+        "published_at": "2026-05-10T13:32:26+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "FINANCIAL TIMES ON PANAMA CANAL MANAGER: CANAL REVENUES ROSE BY 15% DUE TO DISRUPTIONS CAUSED BY THE",
+        "content": "FINANCIAL TIMES ON PANAMA CANAL MANAGER: CANAL REVENUES ROSE BY 15% DUE TO DISRUPTIONS CAUSED BY THE WAR WITH #IRAN [...](https://x.com/FirstSquawk/status/2053332082173354435)",
+        "published_at": "2026-05-10T13:31:42+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "FINANCIAL TIMES ON PANAMA CANAL MANAGER: I EXPECT TO RETAIN SOME OF THE ADDITIONAL TRAFFIC IN THE CA",
+        "content": "FINANCIAL TIMES ON PANAMA CANAL MANAGER: I EXPECT TO RETAIN SOME OF THE ADDITIONAL TRAFFIC IN THE CANAL EVEN AFTER THE CONFLICT ENDS [...](https://x.com/FirstSquawk/status/2053332023348249077)",
+        "published_at": "2026-05-10T13:31:41+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "NORTH KOREA HAS REPORTEDLY UPDATED ITS CONSTITUTION TO MANDATE AN AUTOMATIC NUCLEAR STRIKE IF LEADER",
+        "content": "NORTH KOREA HAS REPORTEDLY UPDATED ITS CONSTITUTION TO MANDATE AN AUTOMATIC NUCLEAR STRIKE IF LEADER KIM JONG UN IS ASSASSINATED OR IF THE COUNTRY’S NUCLEAR COMMAND STRUCTURE IS ATTACKED. [...](https://x.com/FirstSquawk/status/2053330717925638354)",
+        "published_at": "2026-05-10T13:26:12+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "CHINA’S FIRST-QUARTER MARRIAGE REGISTRATIONS FELL TO A RECORD LOW FOR THE PERIOD, HIGHLIGHTING CONTI",
+        "content": "CHINA’S FIRST-QUARTER MARRIAGE REGISTRATIONS FELL TO A RECORD LOW FOR THE PERIOD, HIGHLIGHTING CONTINUED WEAKNESS IN NEW HOUSEHOLD FORMATION EVEN DURING THE PEAK WEDDING SEASON. [...](https://x.com/FirstSquawk/status/2053328974139609257)",
+        "published_at": "2026-05-10T13:19:41+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "RISING FUEL PRICES ARE PUSHING MANY FRENCH PEOPLE TO TRAVEL SHORTER DISTANCES DURING THE SPRING LONG",
+        "content": "RISING FUEL PRICES ARE PUSHING MANY FRENCH PEOPLE TO TRAVEL SHORTER DISTANCES DURING THE SPRING LONG WEEKENDS: BFM TV [...](https://x.com/FirstSquawk/status/2053328563668230499)",
+        "published_at": "2026-05-10T13:17:41+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "POLICE: 12 KILLED IN CAR BOMB ATTACK ON CHECKPOINT IN NORTHWEST PAKISTAN [...](https://x.com/FirstSq",
+        "content": "POLICE: 12 KILLED IN CAR BOMB ATTACK ON CHECKPOINT IN NORTHWEST PAKISTAN [...](https://x.com/FirstSquawk/status/2053326396773347684)",
+        "published_at": "2026-05-10T13:09:26+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "ISRAELI MEDIA CITING A HIGH-RANKING SECURITY SOURCE: AMERICA IS CONSIDERING DEPLOYING PERMANENT FORC",
+        "content": "ISRAELI MEDIA CITING A HIGH-RANKING SECURITY SOURCE: AMERICA IS CONSIDERING DEPLOYING PERMANENT FORCES IN ISRAEL [...](https://x.com/FirstSquawk/status/2053324836009836660)",
+        "published_at": "2026-05-10T13:02:56+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "WALL STREET JOURNAL ON IRANIAN OFFICIALS: MOJTABA KHAMENEI AVOIDS APPEARING TO PRESERVE HIS SAFETY [",
+        "content": "WALL STREET JOURNAL ON IRANIAN OFFICIALS: MOJTABA KHAMENEI AVOIDS APPEARING TO PRESERVE HIS SAFETY [...](https://x.com/FirstSquawk/status/2053324659010195800)",
+        "published_at": "2026-05-10T13:02:25+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "A SOCIAL MEDIA TREND FEATURING VAGUE CALLS FOR ACTION AGAINST PRESIDENT TRUMP IS GAINING TRACTION, W",
+        "content": "A SOCIAL MEDIA TREND FEATURING VAGUE CALLS FOR ACTION AGAINST PRESIDENT TRUMP IS GAINING TRACTION, WITH INFLUENCERS USING MEMES THAT APPEAR TO HINT AT VIOLENCE. EXPERTS WARN THE TREND COULD NORMALIZE EXTREME RHETORIC ONLINE PER WAPO [...](https://x.com/FirstSquawk/status/2053318792277893436)",
+        "published_at": "2026-05-10T12:39:12+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "PRESIDENT TRUMP SAYS HE WOULD NOT PAY $1,000 TO WATCH THE U.S. AT THE WORLD CUP. [...](https://x.com",
+        "content": "PRESIDENT TRUMP SAYS HE WOULD NOT PAY $1,000 TO WATCH THE U.S. AT THE WORLD CUP. [...](https://x.com/FirstSquawk/status/2053316991751184558)",
+        "published_at": "2026-05-10T12:31:39+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "U.S. DEBT KEPT RISING FROM 2008 TO 2019, SURGED DURING COVID BECAUSE OF MASSIVE GOVERNMENT SPENDING,",
+        "content": "U.S. DEBT KEPT RISING FROM 2008 TO 2019, SURGED DURING COVID BECAUSE OF MASSIVE GOVERNMENT SPENDING, AND IS NOW CLIMBING AGAIN AS WASHINGTON KEEPS SPENDING HEAVILY. [...](https://x.com/FirstSquawk/status/2053315192470253870)",
+        "published_at": "2026-05-10T12:24:39+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "IMF SAYS THE MIDDLE EAST WAR HAS SEVERELY DISRUPTED GLOBAL SHIPPING AND AIR TRAFFIC, AND EVEN IN THE",
+        "content": "IMF SAYS THE MIDDLE EAST WAR HAS SEVERELY DISRUPTED GLOBAL SHIPPING AND AIR TRAFFIC, AND EVEN IN THE BEST-CASE SCENARIO, TRADE ROUTES AND SUPPLY CHAINS ARE UNLIKELY TO FULLY RETURN TO NORMAL. [...](https://x.com/FirstSquawk/status/2053313740167401855)",
+        "published_at": "2026-05-10T12:19:09+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "THERE IS A 74% CHANCE THE CLARITY ACT IS SIGNED INTO LAW IN 2026, PER POLYMARKET:  [...](https://x.c",
+        "content": "THERE IS A 74% CHANCE THE CLARITY ACT IS SIGNED INTO LAW IN 2026, PER POLYMARKET:  [...](https://x.com/unusual_whales/status/2053313450953355724)",
+        "published_at": "2026-05-10T12:17:39+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "ACCORDING TO THE NEW YORK TIMES, RUSSIA HAS INCREASED SHIPMENTS TO IRAN THROUGH THE CASPIAN SEA, INC",
+        "content": "ACCORDING TO THE NEW YORK TIMES, RUSSIA HAS INCREASED SHIPMENTS TO IRAN THROUGH THE CASPIAN SEA, INCLUDING DRONE COMPONENTS AND OTHER GOODS THAT WOULD NORMALLY MOVE VIA THE STRAIT OF HORMUZ. THE SHIFT IS BEING DRIVEN BY UKRAINIAN ATTACKS ON BLACK SEA SHIPPING AND THE RECENT U.S. BLOCKADE TARGETING VESSELS LINKED TO IRANIAN PORTS. [...](https://x.com/FirstSquawk/status/2053312212593504510)",
+        "published_at": "2026-05-10T12:12:41+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "THE TRUMP-IRAN STANDOFF HAS NEARLY FROZEN PERSIAN GULF SHIPPING, CAUSING SUPPLY CHAIN DISRUPTIONS AC",
+        "content": "THE TRUMP-IRAN STANDOFF HAS NEARLY FROZEN PERSIAN GULF SHIPPING, CAUSING SUPPLY CHAIN DISRUPTIONS ACROSS ASIA AND DRIVING UP FUEL AND FERTILIZER COSTS FOR FARMERS. [...](https://x.com/FirstSquawk/status/2053311727836737585)",
+        "published_at": "2026-05-10T12:11:09+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "THERE IS A 51% OF A PERMANENT US X IRAN PEACE DEAL BY JUNE 30, PER POLYMARKET:  [...](https://x.com/",
+        "content": "THERE IS A 51% OF A PERMANENT US X IRAN PEACE DEAL BY JUNE 30, PER POLYMARKET:  [...](https://x.com/unusual_whales/status/2053306982405419290)",
+        "published_at": "2026-05-10T11:52:08+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "NORTH CAROLINA REPORTEDLY SAW A 47,000% SURGE IN AUTISM-RELATED BILLINGS OVER FOUR YEARS, ACCORDING ",
+        "content": "NORTH CAROLINA REPORTEDLY SAW A 47,000% SURGE IN AUTISM-RELATED BILLINGS OVER FOUR YEARS, ACCORDING TO DAVID HOCH [...](https://x.com/FirstSquawk/status/2053304799232512174)",
+        "published_at": "2026-05-10T11:43:23+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "PRESIDENT TRUMP: “IF GAS PRICES KEEP RISING, LET THEM RISE. I’M NOT BOTHERED.” [...](https://x.com/F",
+        "content": "PRESIDENT TRUMP: “IF GAS PRICES KEEP RISING, LET THEM RISE. I’M NOT BOTHERED.” [...](https://x.com/FirstSquawk/status/2053304656919683219)",
+        "published_at": "2026-05-10T11:42:52+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "GLOBAL WEALTH GAP CONTINUES TO WIDEN\n\nTHE WORLD’S 3,000 BILLIONAIRES ADDED $2.5 TRILLION LAST YEAR A",
+        "content": "GLOBAL WEALTH GAP CONTINUES TO WIDEN\n\nTHE WORLD’S 3,000 BILLIONAIRES ADDED $2.5 TRILLION LAST YEAR AND NOW HOLD $18.3 TRILLION IN WEALTH\n\nTHE 12 RICHEST PEOPLE NOW OWN MORE WEALTH THAN THE BOTTOM HALF OF HUMANITY [...](https://x.com/FirstSquawk/status/2053304432113455272)",
+        "published_at": "2026-05-10T11:42:07+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "WARREN BUFFETT: “FIXING THE US DEFICIT WOULD TAKE 5 MINUTES”\n\n“MAKE ALL MEMBERS OF CONGRESS INELIGIB",
+        "content": "WARREN BUFFETT: “FIXING THE US DEFICIT WOULD TAKE 5 MINUTES”\n\n“MAKE ALL MEMBERS OF CONGRESS INELIGIBLE FOR RE-ELECTION ANY TIME THE DEFICIT EXCEEDS 3% OF GDP” [...](https://x.com/FirstSquawk/status/2053304215746097287)",
+        "published_at": "2026-05-10T11:41:08+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "THE SHARE OF AMERICAN MEN WORKING OR LOOKING FOR JOBS HAS FALLEN TO ITS LOWEST LEVEL SINCE 1948, EXC",
+        "content": "THE SHARE OF AMERICAN MEN WORKING OR LOOKING FOR JOBS HAS FALLEN TO ITS LOWEST LEVEL SINCE 1948, EXCLUDING THE PANDEMIC\n\nTHE US JOB MARKET HAS WEAKENED SINCE EARLY 2025, WITH MOST NEW JOBS COMING IN FEMALE-DOMINATED SECTORS [...](https://x.com/FirstSquawk/status/2053303435299348944)",
+        "published_at": "2026-05-10T11:38:08+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "EUROPEAN POTATO PRICES SURGED OVER 7X AMID FERTILIZER SUPPLY FEARS TIED TO STRAIT OF HORMUZ TENSIONS",
+        "content": "EUROPEAN POTATO PRICES SURGED OVER 7X AMID FERTILIZER SUPPLY FEARS TIED TO STRAIT OF HORMUZ TENSIONS: REUTERS \n\nEUROPEAN POTATO PRICES SURGED FROM AROUND €2.5 TO €18.5 PER 100KG [...](https://x.com/FirstSquawk/status/2053303271742373913)",
+        "published_at": "2026-05-10T11:37:07+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "US CONSUMER SENTIMENT HAS FALLEN TO A RECORD LOW FOR THE SECOND STRAIGHT MONTH\n\nMEANWHILE, 70% OF AM",
+        "content": "US CONSUMER SENTIMENT HAS FALLEN TO A RECORD LOW FOR THE SECOND STRAIGHT MONTH\n\nMEANWHILE, 70% OF AMERICANS BELIEVE THE ECONOMY IS GETTING WORSE [...](https://x.com/FirstSquawk/status/2053303008398802973)",
+        "published_at": "2026-05-10T11:36:08+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "UPCOMING US INFLATION DATA IS EXPECTED TO SHOW AMERICANS STILL FEELING THE PAIN OF HIGH PRICES PER B",
+        "content": "UPCOMING US INFLATION DATA IS EXPECTED TO SHOW AMERICANS STILL FEELING THE PAIN OF HIGH PRICES PER BLOOMBERG [...](https://x.com/FirstSquawk/status/2053302805834973336)",
+        "published_at": "2026-05-10T11:35:39+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "ENTRY-LEVEL HIRING IN THE US HAS FALLEN 6% YEAR OVER YEAR, ACCORDING TO FAST COMPANY [...](https://x",
+        "content": "ENTRY-LEVEL HIRING IN THE US HAS FALLEN 6% YEAR OVER YEAR, ACCORDING TO FAST COMPANY [...](https://x.com/FirstSquawk/status/2053302689065476096)",
+        "published_at": "2026-05-10T11:35:08+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "AROUND 25% OF ONLINE JOB POSTINGS ARE FAKE “GHOST JOBS,” ACCORDING TO ENTREPRENEUR [...](https://x.c",
+        "content": "AROUND 25% OF ONLINE JOB POSTINGS ARE FAKE “GHOST JOBS,” ACCORDING TO ENTREPRENEUR [...](https://x.com/FirstSquawk/status/2053302555124682791)",
+        "published_at": "2026-05-10T11:34:37+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "US AUTO LOANS HIT A RECORD $1.68 TRILLION — NOW BIGGER THAN CREDIT CARD DEBT\n\nAMERICANS ARE TAKING 7",
+        "content": "US AUTO LOANS HIT A RECORD $1.68 TRILLION — NOW BIGGER THAN CREDIT CARD DEBT\n\nAMERICANS ARE TAKING 7-10 YEAR CAR LOANS AS MONTHLY PAYMENTS AVERAGE $735\n\nCAR PRICES HAVE JUMPED OVER 35% SINCE 2020 WHILE REPOSSESSIONS HIT A 30-YEAR HIGH [...](https://x.com/FirstSquawk/status/2053302131160240526)",
+        "published_at": "2026-05-10T11:32:38+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "US CITIES FACE MASSIVE HIDDEN COSTS FROM CRUMBLING ROADS, BRIDGES, AND PUBLIC BUILDINGS [...](https:",
+        "content": "US CITIES FACE MASSIVE HIDDEN COSTS FROM CRUMBLING ROADS, BRIDGES, AND PUBLIC BUILDINGS [...](https://x.com/FirstSquawk/status/2053300529150005270)",
+        "published_at": "2026-05-10T11:26:36+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "BLACKBERRY IS BACK — NOW MAKING MONEY THROUGH SOFTWARE AND CYBERSECURITY, NOT PHONES [...](https://x",
+        "content": "BLACKBERRY IS BACK — NOW MAKING MONEY THROUGH SOFTWARE AND CYBERSECURITY, NOT PHONES [...](https://x.com/FirstSquawk/status/2053300366461272134)",
+        "published_at": "2026-05-10T11:25:37+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "PERSIAN GULF CONFLICT AND NEW CHINESE EXPORT CURBS SEND SULFURIC ACID PRICES SURGING, RAISING GLOBAL",
+        "content": "PERSIAN GULF CONFLICT AND NEW CHINESE EXPORT CURBS SEND SULFURIC ACID PRICES SURGING, RAISING GLOBAL SUPPLY CONCERNS [...](https://x.com/FirstSquawk/status/2053299895231238477)",
+        "published_at": "2026-05-10T11:24:06+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "RECORD NUMBERS OF AMERICANS ARE LEAVING THE US, ATTRACTED BY A BETTER QUALITY OF LIFE ABROAD MADE AF",
+        "content": "RECORD NUMBERS OF AMERICANS ARE LEAVING THE US, ATTRACTED BY A BETTER QUALITY OF LIFE ABROAD MADE AFFORDABLE BY HIGHER US SALARIES: WSJ [...](https://x.com/FirstSquawk/status/2053296720319287594)",
+        "published_at": "2026-05-10T11:11:28+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "NVIDIA CEO JENSEN HUANG SAYS CHINA SHOULD NOT GET THE MOST ADVANCED AI CHIPS\n\nHUANG BACKED US AI LEA",
+        "content": "NVIDIA CEO JENSEN HUANG SAYS CHINA SHOULD NOT GET THE MOST ADVANCED AI CHIPS\n\nHUANG BACKED US AI LEADERSHIP WHILE SUPPORTING SALES OF OLDER NVIDIA CHIPS TO CHINA [...](https://x.com/FirstSquawk/status/2053294316077068691)",
+        "published_at": "2026-05-10T11:02:00+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "BAHRAIN ACCUSES IRAN OF INTERFERENCE AFTER 41 SUSPECTED IRGC-LINKED INDIVIDUALS ARRESTED [...](https",
+        "content": "BAHRAIN ACCUSES IRAN OF INTERFERENCE AFTER 41 SUSPECTED IRGC-LINKED INDIVIDUALS ARRESTED [...](https://x.com/FirstSquawk/status/2053293881501118706)",
+        "published_at": "2026-05-10T10:59:58+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "IRAN-LINKED SPY NETWORKS ACCUSED OF RUNNING TELEGRAM CAMPAIGN OFFERING CRYPTO PAYMENTS TO AUSTRALIAN",
+        "content": "IRAN-LINKED SPY NETWORKS ACCUSED OF RUNNING TELEGRAM CAMPAIGN OFFERING CRYPTO PAYMENTS TO AUSTRALIANS FOR MONITORING ISRAELI COMMUNITIES AND GATHERING INTELLIGENCE [...](https://x.com/FirstSquawk/status/2053293631029842083)",
+        "published_at": "2026-05-10T10:58:58+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "GLOBAL MEMORY CHIP SHORTAGE MAY LAST UNTIL 2027 AS CHIPMAKERS PRIORITIZE AI DEMAND\n\nSAMSUNG, SK HYNI",
+        "content": "GLOBAL MEMORY CHIP SHORTAGE MAY LAST UNTIL 2027 AS CHIPMAKERS PRIORITIZE AI DEMAND\n\nSAMSUNG, SK HYNIX, AND MICRON ARE EXPANDING OUTPUT, BUT NEW CAPACITY WILL TAKE TIME PER NIKKEI [...](https://x.com/FirstSquawk/status/2053293365643587592)",
+        "published_at": "2026-05-10T10:57:58+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "NANCY PELOSI’S DATABRICKS INVESTMENT IS UP 302% — NOW OVER 150,000 ROBINHOOD USERS ARE CHASING THE S",
+        "content": "NANCY PELOSI’S DATABRICKS INVESTMENT IS UP 302% — NOW OVER 150,000 ROBINHOOD USERS ARE CHASING THE SAME PRE-IPO UPSIDE [...](https://x.com/FirstSquawk/status/2053292988311519510)",
+        "published_at": "2026-05-10T10:56:28+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "BANKING GROUPS PUSHING LAST-MINUTE CHANGES TO STABLECOIN YIELD RULES AS SENATE PANEL TAKES UP THE CL",
+        "content": "BANKING GROUPS PUSHING LAST-MINUTE CHANGES TO STABLECOIN YIELD RULES AS SENATE PANEL TAKES UP THE CLARITY ACT [...](https://x.com/FirstSquawk/status/2053292820329607359)",
+        "published_at": "2026-05-10T10:55:58+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "INVESTORS WATCHING FOR MORE SIGNS OF EASING US-CHINA TENSIONS BETWEEN TRUMP AND XI TO BOOST CHINESE ",
+        "content": "INVESTORS WATCHING FOR MORE SIGNS OF EASING US-CHINA TENSIONS BETWEEN TRUMP AND XI TO BOOST CHINESE MARKETS [...](https://x.com/FirstSquawk/status/2053292380535881793)",
+        "published_at": "2026-05-10T10:53:58+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "US EVACUATING AMERICANS FROM CRUISE SHIP AFTER DEADLY HANTAVIRUS OUTBREAK\n\nPASSENGERS TO BE FLOWN BA",
+        "content": "US EVACUATING AMERICANS FROM CRUISE SHIP AFTER DEADLY HANTAVIRUS OUTBREAK\n\nPASSENGERS TO BE FLOWN BACK TO US FOR QUARANTINE AND HEALTH CHECKS [...](https://x.com/FirstSquawk/status/2053292116483379552)",
+        "published_at": "2026-05-10T10:52:58+09:00"
+      },
+      {
+        "channel": "Market News Feed",
+        "title": "PUTIN: READY TO MEET ZELENSKY NOT ONLY IN MOSCOW BUT ALSO IN A THIRD COUNTRY TO SIGN A FINAL AGREEME",
+        "content": "PUTIN: READY TO MEET ZELENSKY NOT ONLY IN MOSCOW BUT ALSO IN A THIRD COUNTRY TO SIGN A FINAL AGREEMENT [...](https://x.com/FirstSquawk/status/2053289075495538994)",
+        "published_at": "2026-05-10T10:40:43+09:00"
+      }
+    ]
   }
 }
