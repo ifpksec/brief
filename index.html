@@ -195,7 +195,8 @@ function srcBadge(it) {
   return `<span class="src-badge" style="color:${s.color};border-color:${s.color}40;background:${s.color}18">${esc(lbl)}</span>`;
 }
 
-const _CAT_LABEL = {
+/* cat_labels는 renderAll()에서 summaryMd.cat_labels로 교체됨 */
+let _CAT_LABEL = {
   '반도체·AI':     '💻 반도체·AI',
   '매크로·금리':   '🏦 매크로·금리',
   'K-증시·수급':   '🇰🇷 K-증시·수급',
@@ -236,8 +237,8 @@ function renderNewsCards(news) {
    공통 렌더러
    ================================================================ */
 function renderAll(dataJson, summaryMd) {
+  if (summaryMd.cat_labels) _CAT_LABEL = summaryMd.cat_labels;
   const allInds = summaryMd.key_indicators || [];
-  const news    = summaryMd.curated_news   || [];
   let html = '';
 
   /* ─── 🇰🇷 국내 ─── */
@@ -249,7 +250,7 @@ function renderAll(dataJson, summaryMd) {
   const krBrief = renderBriefing(summaryMd.kr_briefing);
   if (krBrief) html += `<div class="section-divider"></div>${krBrief}`;
 
-  const krNews = renderNewsCards(news);
+  const krNews = renderNewsCards(summaryMd.kr_news || []);
   if (krNews) html += `<div class="section-divider"></div>${krNews}`;
 
   html += '</div>';
@@ -263,7 +264,7 @@ function renderAll(dataJson, summaryMd) {
   const usBrief = renderBriefing(summaryMd.us_briefing);
   if (usBrief) html += `<div class="section-divider"></div>${usBrief}`;
 
-  const usNews = renderNewsCards(news);
+  const usNews = renderNewsCards(summaryMd.us_news || []);
   if (usNews) html += `<div class="section-divider"></div>${usNews}`;
 
   html += '</div>';
