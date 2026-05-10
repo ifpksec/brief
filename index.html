@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>아침 증시 브리핑</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="brief.css">
   <script src="https://cdn.jsdelivr.net/npm/marked@9/marked.min.js"></script>
 </head>
@@ -67,13 +70,132 @@ function displayDate(d) {
   return `${y}.${String(m).padStart(2,'0')}.${String(dy).padStart(2,'0')} (${wd})`;
 }
 
-/* ── 대쉬보드 HTML 빌더 ──────────────────────────────────── */
+/* ── HTML 이스케이프 ──────────────────────────────────────── */
 function esc(s) {
-  return String(s)
+  return String(s ?? '')
     .replace(/&/g, '&amp;').replace(/</g, '&lt;')
     .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
+/* ── 바닐라 JS 툴팁 엔진 ─────────────────────────────────── */
+function initTooltips() {
+  const tip = document.createElement('div');
+  tip.id = 'g-tip';
+  document.body.appendChild(tip);
+
+  document.addEventListener('mousemove', e => {
+    const x = e.clientX + 14;
+    const y = e.clientY + 14;
+    tip.style.left = (x + 270 > window.innerWidth ? e.clientX - 278 : x) + 'px';
+    tip.style.top  = (y + 100 > window.innerHeight ? e.clientY - 108 : y) + 'px';
+  });
+
+  document.addEventListener('mouseover', e => {
+    const el = e.target.closest('[data-tip]');
+    if (el && el.dataset.tip) {
+      tip.textContent = el.dataset.tip;
+      tip.classList.add('show');
+    }
+  });
+
+  document.addEventListener('mouseout', e => {
+    if (!e.relatedTarget || !e.relatedTarget.closest('[data-tip]')) {
+      tip.classList.remove('show');
+    }
+  });
+}
+
+/* ── 무드 배너 ───────────────────────────────────────────── */
+function renderMoodBanner(mood) {
+  if (!mood) return '';
+  const { status = 'Neutral', score = 50, label = '―' } = mood;
+  const cls   = score >= 60 ? 'greed' : score <= 40 ? 'fear' : 'neutral';
+  const emoji = { greed: '😤', fear: '😨', neutral: '😐' }[cls];
+  return `<div class="mood-banner mood-${cls}">
+    <span class="mood-emoji">${emoji}</span>
+    <div class="mood-body">
+      <div class="mood-label">${esc(label)}</div>
+      <div class="mood-meter"><div class="mood-fill" style="width:${score}%"></div></div>
+    </div>
+    <div class="mood-score">${score}<small>/100</small></div>
+  </div>`;
+}
+
+/* ── 핵심 지표 그리드 ────────────────────────────────────── */
+function renderIndicatorGrid(indicators) {
+  if (!indicators || !indicators.length) return '';
+  const cards = indicators.map(ind => {
+    const chg    = ind.change || 0;
+    const dir    = chg >= 0 ? 'pos' : 'neg';
+    const arrow  = chg >= 0 ? '▲' : '▼';
+    const tagCls = (ind.tag || 'neutral').toLowerCase();
+    const val    = ind.value != null ? ind.value : '—';
+    return `<div class="ind-card ${tagCls}" data-tip="${esc(ind.insight || '')}">
+      <div class="ind-name">${esc(ind.name)}</div>
+      <div class="ind-value">${val}</div>
+      <div class="ind-change ${dir}">${arrow}${Math.abs(chg).toFixed(2)}%</div>
+      <div class="ind-tag">${esc(ind.tag || '')}</div>
+    </div>`;
+  }).join('');
+  return `<div class="indicator-grid">${cards}</div>`;
+}
+
+/* ── 큐레이션 뉴스 카드 ──────────────────────────────────── */
+const _SRC = {
+  international: { label: '해외',   color: '#388bfd' },
+  domestic:      { label: '국내',   color: '#3fb950' },
+  naver:         { label: 'Naver',  color: '#f0883e' },
+  telegram:      { label: 'TG',     color: '#a371f7' },
+};
+
+function srcBadge(it) {
+  const s   = _SRC[it.source] || _SRC.domestic;
+  const lbl = (it.press || s.label).slice(0, 8);
+  const col = s.color;
+  return `<span class="src-badge" style="color:${col};border-color:${col}40;background:${col}18">${esc(lbl)}</span>`;
+}
+
+function renderCuratedNewsCards(news) {
+  if (!news || !news.length) return '';
+  const catLabel = {
+    '반도체·AI':     '💻 반도체·AI',
+    '매크로·금리':   '🏦 매크로·금리',
+    'K-증시·수급':   '🇰🇷 K-증시·수급',
+    '부동산·유동성': '💧 부동산·유동성',
+    '에너지·원자재': '🛢️ 에너지·원자재',
+    '시장·기타':     '📋 시장·기타',
+  };
+  const impCls = { High: 'imp-high', Medium: 'imp-mid', Low: 'imp-low' };
+
+  const grouped = {};
+  for (const it of news) {
+    const cat = it.category || 'Other';
+    (grouped[cat] = grouped[cat] || []).push(it);
+  }
+
+  const groups = Object.entries(grouped).map(([cat, items]) => {
+    const rows = items.slice(0, 3).map(it => {
+      const ic    = impCls[it.impact] || 'imp-low';
+      const title = it.url
+        ? `<a class="news-link" href="${esc(it.url)}" target="_blank" rel="noopener">${esc(it.title)}</a>`
+        : `<span class="news-title-plain">${esc(it.title)}</span>`;
+      return `<div class="news-item">
+        <span class="imp-badge ${ic}">${esc(it.impact)}</span>
+        ${srcBadge(it)}
+        <span class="news-title">${title}</span>
+        ${it.summary && it.summary !== 'N/A' ? `<div class="news-sum">${esc(it.summary.slice(0, 120))}</div>` : ''}
+      </div>`;
+    }).join('');
+    return `<div class="news-group">
+      <div class="news-cat-label">${catLabel[cat] || esc(cat)}</div>
+      ${rows}
+    </div>`;
+  }).join('');
+
+  return `<div class="news-grid">${groups}</div>`;
+}
+
+/* ── 대쉬보드 HTML 빌더 ──────────────────────────────────── */
 function buildTable(items, extraCol) {
   if (!items || items.length === 0) return '<p class="empty">데이터 없음</p>';
   let html = '<table><thead><tr><th>항목</th><th>내용</th>';
@@ -94,23 +216,23 @@ function buildTable(items, extraCol) {
 }
 
 function buildDashboard(data) {
-  const m = data.market || {};
-  const mac = data.macro || {};
-  const fr = data.fred || {};
+  const m    = data.market    || {};
+  const mac  = data.macro     || {};
+  const fr   = data.fred      || {};
   const sent = data.sentiment || [];
-  const dart = data.dart || [];
+  const dart = data.dart      || [];
   let html = '';
 
   if ((m.domestic || []).length || (m.overseas || []).length) {
-    html += '<div class="card"><h2>🇰🇷 국내 지수</h2>' + buildTable(m.domestic) + '</div>';
-    html += '<div class="card"><h2>🌍 해외 지수</h2>' + buildTable(m.overseas) + '</div>';
+    html += '<div class="card"><h2>🇰🇷 국내 지수</h2>'  + buildTable(m.domestic) + '</div>';
+    html += '<div class="card"><h2>🌍 해외 지수</h2>'   + buildTable(m.overseas) + '</div>';
   }
   if ((m.forex_rates || []).length) {
-    html += '<div class="card"><h2>💱 환율·금리</h2>' + buildTable(m.forex_rates) + '</div>';
+    html += '<div class="card"><h2>💱 환율·금리</h2>'   + buildTable(m.forex_rates) + '</div>';
   }
   if ((m.funds || []).length || (m.program || []).length) {
     html += '<div class="card"><h2>💼 증시자금·프로그램매매</h2>'
-          + buildTable([...(m.funds||[]), ...(m.program||[])]) + '</div>';
+          + buildTable([...(m.funds || []), ...(m.program || [])]) + '</div>';
   }
   if ((m.gainers||[]).length || (m.traders||[]).length || (m.investor_trends||[]).length) {
     html += '<div class="card"><h2>📈 수급 동향</h2>';
@@ -121,11 +243,11 @@ function buildDashboard(data) {
   }
 
   html += '<div class="card"><h2>🌐 글로벌 매크로</h2>';
-  if ((mac.global||[]).length)      html += '<h3>주요 지표</h3>'       + buildTable(mac.global);
-  if ((mac.correlation||[]).length) html += '<h3>주식·채권 상관</h3>'  + buildTable(mac.correlation);
-  if ((mac.gex||[]).length)         html += '<h3>옵션 GEX</h3>'         + buildTable(mac.gex);
-  if ((mac.inst_flows||[]).length)  html += '<h3>기관 ETF 수급</h3>'    + buildTable(mac.inst_flows);
-  if ((mac.breadth||[]).length)     html += '<h3>시장 폭</h3>'          + buildTable(mac.breadth);
+  if ((mac.global||[]).length)      html += '<h3>주요 지표</h3>'      + buildTable(mac.global);
+  if ((mac.correlation||[]).length) html += '<h3>주식·채권 상관</h3>' + buildTable(mac.correlation);
+  if ((mac.gex||[]).length)         html += '<h3>옵션 GEX</h3>'       + buildTable(mac.gex);
+  if ((mac.inst_flows||[]).length)  html += '<h3>기관 ETF 수급</h3>'  + buildTable(mac.inst_flows);
+  if ((mac.breadth||[]).length)     html += '<h3>시장 폭</h3>'        + buildTable(mac.breadth);
   html += '</div>';
 
   if (sent.length) {
@@ -145,6 +267,32 @@ function buildDashboard(data) {
   return html || '<p class="empty">대쉬보드 데이터가 없습니다.</p>';
 }
 
+/* ── 공통 렌더러 ──────────────────────────────────────────── */
+function renderAll(dataJson, summaryMd) {
+  const summarySection = summaryMd['핵심요약'] || '';
+  document.getElementById('sec-summary').innerHTML =
+    renderMoodBanner(summaryMd.market_mood) +
+    renderIndicatorGrid(summaryMd.key_indicators) +
+    (summarySection
+      ? `<div class="section-heading fade-up">🎯 핵심요약</div>
+         <div class="md-content fade-up">${marked.parse(summarySection)}</div>`
+      : '');
+
+  document.getElementById('sec-dashboard').innerHTML =
+    `<div class="section-heading">📊 데이터 대쉬보드</div>` + buildDashboard(dataJson);
+
+  const newsSection = summaryMd['구조화된뉴스'] || '';
+  document.getElementById('sec-news').innerHTML =
+    `<div class="section-heading fade-up">📰 구조화된 뉴스</div>` +
+    renderCuratedNewsCards(summaryMd.curated_news) +
+    (newsSection
+      ? `<div class="md-content fade-up" style="margin-top:16px">${marked.parse(newsSection)}</div>`
+      : '');
+
+  document.getElementById('loading').style.display = 'none';
+  window.scrollTo(0, 0);
+}
+
 /* ── 데이터 로딩 ──────────────────────────────────────────── */
 let currentDate = kstToday();
 const today = kstToday();
@@ -157,40 +305,40 @@ async function loadDate(d) {
     document.getElementById(`sec-${id}`).innerHTML = '';
   });
 
-  let dataJson = null;
-  let summaryMd = null;
-
   try {
     const [jsonRes, sumRes] = await Promise.all([
       fetch(`${dateStr}_data.json`),
       fetch(`${dateStr}_summary.json`),
     ]);
     if (!jsonRes.ok || !sumRes.ok) throw new Error('파일 없음');
-    dataJson = await jsonRes.json();
-    summaryMd = await sumRes.json();
+    const dataJson  = await jsonRes.json();
+    const summaryMd = await sumRes.json();
+    renderAll(dataJson, summaryMd);
+    return true;
   } catch {
     document.getElementById('loading').style.display = 'none';
     return false;
   }
+}
 
-  const summarySection = summaryMd['핵심요약'] || '';
-  document.getElementById('sec-summary').innerHTML =
-    summarySection
-      ? `<div class="section-heading">🎯 핵심요약</div><div class="md-content">${marked.parse(summarySection)}</div>`
-      : '';
-
-  document.getElementById('sec-dashboard').innerHTML =
-    `<div class="section-heading">📊 데이터 대쉬보드</div>` + buildDashboard(dataJson);
-
-  const newsSection = summaryMd['구조화된뉴스'] || '';
-  document.getElementById('sec-news').innerHTML =
-    newsSection
-      ? `<div class="section-heading">📰 구조화된 뉴스</div><div class="md-content">${marked.parse(newsSection)}</div>`
-      : '';
-
-  document.getElementById('loading').style.display = 'none';
-  window.scrollTo(0, 0);
-  return true;
+/* ── Mock 폴백 ───────────────────────────────────────────── */
+async function loadMock() {
+  try {
+    const [jsonRes, sumRes] = await Promise.all([
+      fetch('mock_data.json'),
+      fetch('mock_summary.json'),
+    ]);
+    if (!jsonRes.ok || !sumRes.ok) return false;
+    const dataJson  = await jsonRes.json();
+    const summaryMd = await sumRes.json();
+    renderAll(dataJson, summaryMd);
+    document.getElementById('current-date').textContent = '── MOCK ──';
+    document.getElementById('btn-prev').disabled = true;
+    document.getElementById('btn-next').disabled = true;
+    return true;
+  } catch {
+    return false;
+  }
 }
 
 /* ── 날짜 탐색 ───────────────────────────────────────────── */
@@ -206,10 +354,15 @@ async function findAndLoad(startDate, direction) {
     }
     d = direction === 'prev' ? prevBiz(d) : nextBiz(d);
   }
-  document.getElementById('loading').style.display = 'none';
-  const errEl = document.getElementById('error-msg');
-  errEl.textContent = '최근 30 영업일 내 데이터 파일이 없습니다.';
-  errEl.style.display = '';
+  // 30 영업일 내 파일 없음 → mock 폴백
+  document.getElementById('loading').style.display = '';
+  const mockOk = await loadMock();
+  if (!mockOk) {
+    document.getElementById('loading').style.display = 'none';
+    const errEl = document.getElementById('error-msg');
+    errEl.textContent = '최근 30 영업일 내 데이터 파일이 없습니다.';
+    errEl.style.display = '';
+  }
 }
 
 document.getElementById('btn-prev').addEventListener('click', async () => {
@@ -221,6 +374,8 @@ document.getElementById('btn-next').addEventListener('click', async () => {
   if (fmtDate(nd) > fmtDate(today)) return;
   await findAndLoad(nd, 'next');
 });
+
+initTooltips();
 
 (async () => {
   await findAndLoad(today, 'prev');
