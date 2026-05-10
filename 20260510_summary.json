@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "generated_at": "2026-05-10T10:33:28.476013+00:00",
+    "run_date": "20260510"
+  },
+  "market_mood": {
+    "status": "Neutral",
+    "score": 47,
+    "label": "확인 매매 구간"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 97.84,
+      "change": -0.42,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.36,
+      "change": -0.64,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 17.19,
+      "change": 0.64,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Neutral"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7398.93,
+      "change": 0.84,
+      "insight": "전일종가 7337.11 / 변동 +61.8203",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29234.99,
+      "change": 2.35,
+      "insight": "전일종가 28563.95 / 변동 +671.0410",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 49609.16,
+      "change": 0.02,
+      "insight": "전일종가 49596.97 / 변동 +12.1914",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1461.48,
+      "change": 1.18,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 156.62,
+      "change": 0.07,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "원/달러 환율 1,461원 돌파하며 고환율 부담 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "국내 주식형 ETF 순자산 200조 원 시대 개막",
+      "tag": "Bullish"
+    },
+    {
+      "point": "삼성전자 노사 사후조정 결과에 따른 심리 변화 주목",
+      "tag": "Neutral"
+    },
+    {
+      "point": "코스닥 1부 시장 100개사 개편으로 체질 개선 시도",
+      "tag": "Bullish"
+    },
+    {
+      "point": "한국 ETF(EWY) 7.6% 급등하며 해외 수급 호조",
+      "tag": "Bullish"
+    },
+    {
+      "point": "반도체 편중 심화로 인한 중소형주 소외 현상 우려",
+      "tag": "Bearish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "나스닥 2.35% 급등하며 AI 및 대형 기술주 강세",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미국 10년물 금리 하락하며 기술주 밸류에이션 지원",
+      "tag": "Bullish"
+    },
+    {
+      "point": "달러 인덱스 하락에도 원화 가치는 동반 약세 이례적",
+      "tag": "Bearish"
+    },
+    {
+      "point": "S&P500 하이일드 스프레드 안정세로 신용 위험 낮음",
+      "tag": "Bullish"
+    },
+    {
+      "point": "옵션 시장 풋 우세 및 숏감마로 인한 변동성 주의",
+      "tag": "Bearish"
+    },
+    {
+      "point": "S&P500 종목 절반 이상이 50일 이동평균선 상회",
+      "tag": "Bullish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "국내 주식형 ETF 순자산 첫 200조 돌파",
+      "url": "https://n.news.naver.com/mnews/article/658/0000143385?sid=101",
+      "press": "국제신문",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스닥 승강제 이르면 10월 시행… 1부 100개사",
+      "url": "https://n.news.naver.com/mnews/article/018/0006277915?sid=101",
+      "press": "이데일리",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자 직원들 \"전삼노 결단하라\" 파업 대신 협상",
+      "url": "https://www.newspim.com/news/view/20260510000194",
+      "press": "뉴스핌",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "인터랙티브 브로커스, 한국 주식 거래 서비스 출시",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5URGZwSTYzNGtMUWxaWmJob2ZrQWdYbjZEVXJ5TTJrTzNvS0lOTER4VExSNUFKRzgzWTE2RUVfU2d0emtiV2VrQU9mNHhuRXRfSXo1WXZxRTdaSEFBREFv?oc=5",
+      "press": "뉴스와이어",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "반도체 강세장의 그림자… 중소형주·코스닥 찬바람",
+      "url": "https://n.news.naver.com/mnews/article/014/0005519348?sid=101",
+      "press": "파이낸셜뉴스",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "KOSDAQ 플랫폼 도입으로 투자 생태계 조성",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE11SERKZEI4MnU4aUxxMG5VeXJVOXdEOU94eEtnNGdReFU4MjctNXVxVU0zUlhFelVFdFZFUXBFb3lNUkxXeUN0LTlMSmQ0Q1k?oc=5",
+      "press": "매일경제",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "삼성전자 노사 사후조정 D-1 직원들 합의 호소",
+      "url": "https://n.news.naver.com/mnews/article/629/0000497868?sid=101",
+      "press": "더팩트",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "ARM vs 인텔: AI 시대에 보상받을 반도체 주는?",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUFp0eFZTZFhYcUlrSmoxSVp1V284VXVhdjhuOFhWdmN6YUVHdFBqVnNHOG4xS0tUcVAzN2ZzZ0Vjd2tZdDV2RFF3bUlxR2F2NjlnWHp5eWFyMG03S0ptSjFmZ2pua0JWMjhYLXJiRldxZTcwNzIxYms5Ql9fd1pFOVZCSkNLeHZweElIOEFvWm9DbjBrY0EtX2RPblQ4azJUN0EyNnNkLVdsZm5SNGloa1BSQ0NKOGFoZlE?oc=5",
+      "press": "24/7 Wall St.",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "매도세 속에서도 더 강해지는 AI 주식들",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcmliaGV6M2U0dF8yWEpLczRVV3o1anNHTldzNGRzUk1pSWxvZUZGVzNoaFBOYVFsNkFxZXZneXA0WUp6Z0R2WFp4c3UwUzBpQXFWM0d2Zy1UVEJnb0hZY1ZYenFqMF94NHdNMUR2d3llUkpVVVhFaVpTa25JLVQwdUc3MmxQandQZFRhSGVfYWlUZGxkRHpuVw?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미국 노동자들에게 감당하기 어려워진 출퇴근 비용",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yR3VQY0NlaGlWaGVlZm1jb05fOFBuaHIzUTNtN1hFSm9CVTVXVWljSDZ0VVJVRTZRTGpRZUdQTEIwaGlxQjN5NTVNdExYa1Vfa09BNUZUWnZ1amNiRXFVaU5xMmFaZ1VJbE9wbm9ienBMaVE?oc=5",
+      "press": "CNN",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "마이크론 대신 눈여겨볼 나스닥 100 소외 종목들",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTncybWNZRk1Pb0haVEszQ2pNWEdxR2tGNVktaGI5RkV1TlI0SFhRQzhwNGU0Z2pnbUJFQlRVUUw4MS01a0lOMmpHeGU1TGlCWWdDeVZ3aFMwZnFTQXRud01rQ2hBSXJJQWhsZThvMm5ZaFEyWWVBRG5uZUdnN185Q250ZjZuTHpwdEVqd2JQQzFNdw?oc=5",
+      "press": "Yahoo Finance UK",
+      "source": "international"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "월가 분석가가 선정한 103% 급등 가능 뱅가드 펀드",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTGZuSTJUalBsTl9hWnBOcEdiUG42Rzk1cVlhTnJFeGNKeTZvazZmQXJwYVVsZWdLMms0VkZOa3JoLVR1c2F3aDdNZWlreXhxejJzVy1UWWJnbUd5QU1GaFVmM0R5NG42SU5LTFpFWnc4dlVXZEVQeG5MYy1id202RVpOY3NxdXk3Z1ltV2lGT3QwMWNR?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "이스라엘, 레바논 남부 마을에 여러 차례 공습 단행",
+      "url": "https://x.com/FirstSquawk",
+      "press": "Market News Feed",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "이란 대통령 \"협상이 곧 항복을 의미하진 않아\"",
+      "url": "https://x.com/FirstSquawk",
+      "press": "Market News Feed",
+      "source": "international"
+    }
+  ]
+}
