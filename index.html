@@ -67,14 +67,6 @@ function displayDate(d) {
   return `${y}.${String(m).padStart(2,'0')}.${String(dy).padStart(2,'0')} (${wd})`;
 }
 
-/* ── 섹션 추출 ───────────────────────────────────────────── */
-function extractSection(md, heading) {
-  const escaped = heading.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  const rx = new RegExp(`##\\s+${escaped}\\s*\\n([\\s\\S]*?)(?=\\n##\\s|$)`);
-  const m = md.match(rx);
-  return m ? m[1].trim() : '';
-}
-
 /* ── 대쉬보드 HTML 빌더 ──────────────────────────────────── */
 function esc(s) {
   return String(s)
@@ -169,19 +161,19 @@ async function loadDate(d) {
   let summaryMd = null;
 
   try {
-    const [jsonRes, mdRes] = await Promise.all([
+    const [jsonRes, sumRes] = await Promise.all([
       fetch(`${dateStr}_data.json`),
-      fetch(`${dateStr}_summary.md`),
+      fetch(`${dateStr}_summary.json`),
     ]);
-    if (!jsonRes.ok || !mdRes.ok) throw new Error('파일 없음');
+    if (!jsonRes.ok || !sumRes.ok) throw new Error('파일 없음');
     dataJson = await jsonRes.json();
-    summaryMd = await mdRes.text();
+    summaryMd = await sumRes.json();
   } catch {
     document.getElementById('loading').style.display = 'none';
     return false;
   }
 
-  const summarySection = extractSection(summaryMd, '핵심요약');
+  const summarySection = summaryMd['핵심요약'] || '';
   document.getElementById('sec-summary').innerHTML =
     summarySection
       ? `<div class="section-heading">🎯 핵심요약</div><div class="md-content">${marked.parse(summarySection)}</div>`
@@ -190,7 +182,7 @@ async function loadDate(d) {
   document.getElementById('sec-dashboard').innerHTML =
     `<div class="section-heading">📊 데이터 대쉬보드</div>` + buildDashboard(dataJson);
 
-  const newsSection = extractSection(summaryMd, '구조화된뉴스');
+  const newsSection = summaryMd['구조화된뉴스'] || '';
   document.getElementById('sec-news').innerHTML =
     newsSection
       ? `<div class="section-heading">📰 구조화된 뉴스</div><div class="md-content">${marked.parse(newsSection)}</div>`
