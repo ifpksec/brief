@@ -170,8 +170,8 @@ async function loadDate(d) {
 
   try {
     const [jsonRes, mdRes] = await Promise.all([
-      fetch(`${dateStr}_데이타.json`),
-      fetch(`${dateStr}_요약.md`),
+      fetch(`${dateStr}_data.json`),
+      fetch(`${dateStr}_summary.md`),
     ]);
     if (!jsonRes.ok || !mdRes.ok) throw new Error('파일 없음');
     dataJson = await jsonRes.json();
