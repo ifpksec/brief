@@ -23,7 +23,7 @@
 
             try {
                 // 1. 같은 경로에 있는 post.md 파일을 가져옵니다.
-                const response = await fetch('./README.md');
+                const response = await fetch('/README.md');
                 
                 if (!response.ok) throw new Error('파일을 찾을 수 없습니다.');
 
