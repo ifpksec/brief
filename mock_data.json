@@ -79,8 +79,9 @@
   "fred": {
     "liquidity": [
       {"title": "Fed 자산총계: 6.71조달러",           "description": "기준일: 2026-05-06 (FRED WALCL)"},
-      {"title": "역레포(RRP) 잔액: 0.08억달러",       "description": "기준일: 2026-05-08 (FRED RRPONTSYD)"},
-      {"title": "재무부 TGA 잔액: 8,777.61억달러",    "description": "기준일: 2026-05-06 (FRED WTREGEN)"}
+      {"title": "지급준비금 잔액: 0.32조달러",        "description": "기준일: 2026-05-06 (FRED WLRRAL)"},
+      {"title": "재무부 TGA 잔액: 8,627.57억달러",    "description": "기준일: 2026-05-06 (FRED WDTGAL)"},
+      {"title": "역레포(RRP) 잔액: 0.01억달러",       "description": "기준일: 2026-05-08 (FRED RRPONTSYD)"}
     ],
     "credit": [
       {"title": "미국 HY 스프레드(OAS): 279bp (2.79%)", "description": "기준일: 2026-05-07 — 안정 | FRED BAMLH0A0HYM2"},

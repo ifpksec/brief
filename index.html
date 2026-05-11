@@ -20,6 +20,8 @@
   </div>
 </header>
 
+<div id="stale-bar" hidden></div>
+
 <main>
   <div id="loading" class="loading-msg">데이터 로딩 중…</div>
   <div id="error-msg" class="error-msg" style="display:none"></div>
@@ -30,6 +32,16 @@
 'use strict';
 
 marked.setOptions({ breaks: true, gfm: true });
+
+/* ── 이전 데이터 경고 바 ───────────────────────────────── */
+function showStaleBanner(msg) {
+  const bar = document.getElementById('stale-bar');
+  bar.textContent = msg;
+  bar.hidden = false;
+}
+function hideStaleBanner() {
+  document.getElementById('stale-bar').hidden = true;
+}
 
 /* ── 날짜 유틸 ─────────────────────────────────────────── */
 function kstToday() {
@@ -304,6 +316,7 @@ async function loadMock() {
     document.getElementById('current-date').textContent = '── MOCK ──';
     document.getElementById('btn-prev').disabled = true;
     document.getElementById('btn-next').disabled = true;
+    showStaleBanner('⚠️  MOCK 데이터 — 실제 브리핑 파일 없음');
     return true;
   } catch { return false; }
 }
@@ -315,6 +328,11 @@ async function findAndLoad(startDate, direction) {
       currentDate = d;
       document.getElementById('current-date').textContent = displayDate(d);
       document.getElementById('btn-next').disabled = fmtDate(d) >= fmtDate(today);
+      if (fmtDate(d) === fmtDate(today)) {
+        hideStaleBanner();
+      } else {
+        showStaleBanner(`⚠️  이전 데이터 — ${displayDate(d)} 기준 (오늘 브리핑 미생성)`);
+      }
       return;
     }
     d = direction === 'prev' ? prevBiz(d) : nextBiz(d);
