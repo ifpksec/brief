@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "generated_at": "2026-05-12T23:35:32.831289+00:00",
+    "run_date": "20260513"
+  },
+  "market_mood": {
+    "status": "Neutral",
+    "score": 49,
+    "label": "확인 매매 구간"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 98.29,
+      "change": 0.36,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.46,
+      "change": 1.2,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 17.99,
+      "change": -2.12,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7400.96,
+      "change": -0.16,
+      "insight": "전일종가 7412.84 / 변동 -11.8799",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29064.8,
+      "change": -0.87,
+      "insight": "전일종가 29320.66 / 변동 -255.8613",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 49760.56,
+      "change": 0.11,
+      "insight": "전일종가 49704.47 / 변동 +56.0898",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1474.45,
+      "change": 0.95,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 157.6,
+      "change": 0.23,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "외국인 코스피 20조원 역대급 매도로 수급 악화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "삼성전자 노사 협상 결렬에 따른 파업 리스크 고조",
+      "tag": "Bearish"
+    },
+    {
+      "point": "환율 1,470원 돌파하며 외국인 이탈 압력 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "고객예탁금 1.2조원 감소하며 증시 대기자금 위축",
+      "tag": "Bearish"
+    },
+    {
+      "point": "우량기업 코스닥 이탈 우려에 업계 공동 호소문 발표",
+      "tag": "Neutral"
+    },
+    {
+      "point": "SK하이닉스 중심의 반도체주 개인 선호 현상 지속",
+      "tag": "Bullish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "인플레이션 지표 반등에 따른 기술주 중심 매도세",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미 10년물 금리 4.46% 급등하며 자산 시장 압박",
+      "tag": "Bearish"
+    },
+    {
+      "point": "옵션 시장 풋 우세 및 변동성 확대 가능성 증폭",
+      "tag": "Bearish"
+    },
+    {
+      "point": "구리 가격 톤당 1.4만 달러 돌파로 인플레 우려",
+      "tag": "Bearish"
+    },
+    {
+      "point": "엔비디아 CEO의 GPU 공급 계약 등 AI 모멘텀 유지",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 49포인트 기록하며 시장 관망세 뚜렷",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "외국인 투자자 코스피 20조원 매도 폭탄",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcTJlQ2RyanZCdGdkU0tmUXl3ZmlEWE5sLVJoNWYzdjFNaWp6dk5JWnBzcWQycDFUZFNsX0xaVE9UTTZhZ0VDdlIxWFVYVlJMaG1xNXFlcWp4M05kaXNrNEd3LUVzOTBHOHdfQVAweV8ySks1MVNFcTJZYWdpNGFiSV83ZVdTNjZQTm1EeEtn?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "삼성전자 노사협상 결렬, 정부 긴급조정권 발동하나",
+      "url": "https://www.viewsnnews.com/article?q=235737",
+      "press": "뷰스앤뉴스",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "벤처·코스닥 협회 \"우량기업, 코스닥 잔류해야\" 호소",
+      "url": "https://n.news.naver.com/mnews/article/001/0016073369?sid=101",
+      "press": "연합뉴스",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "\"아리가또 하이닉스\" 日투자자 100억 부자 인증",
+      "url": "https://n.news.naver.com/mnews/article/014/0005520688?sid=101",
+      "press": "파이낸셜뉴스",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "브렉소젠, 심근경색 엑소좀 치료제 美 FDA 임상 승인",
+      "url": "https://n.news.naver.com/mnews/article/018/0006279604?sid=101",
+      "press": "이데일리",
+      "source": "naver"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "구리 가격 톤당 14,000달러 돌파, 사상 최고치 근접",
+      "url": "https://x.com/MarketNews_Feed",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아 CEO 재단, 코어위브와 GPU 공급 계약",
+      "url": "https://x.com/MarketNews_Feed",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "한국 4월 인플레이션 21개월 만에 최고치 기록",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUk5fRzE4VHZ4VE52MzhXc3dWdDBDcGNzYmZ0VmVBUDVTZTUyTUQ2ZklscFBhTWlvYkFWM3RBbC1SQmxaUlU0RE5OcXpCOFBFQW1VVFY0dkVBLThHd3ZKM1JMQlBpS0xvRUZ2VXhpejFIS1ZnVFMzTy10aEhKSHRtS1pyQWpjT3VNNklzcU1fNTl6ejhW?oc=5",
+      "press": "Moomoo",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "물가 지표 상회에 기술주 매도세, 나스닥 하락",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYmk1STVwWkVMbjhXdFVqZ25HWmU3akx5cXpqSDJLSmgzbkl3ZTZmQ2lXOFpuTC16ZnBzSlV0UmVFTnFudUJnV2phbEJ6ZVpKZFc1bTlOcms5enpId0NVeG9pbzZ4UHd4eEU1eGZkcGdRejhwUlo5RTZTRWlla0dEUXdaT0k1MFEwczEtUVpJNWVUVU8zR1VNMUFGMW0wWEpvUGp2cTdxRWxUdGJmOGdSV0pDUUxUQUlHS1hlVmVRNUlIXzV4VDJiRVFmUFhuR0wtdFdGbDRkbkprS3RtNEE?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "짐 크레이머, 증시 랠리 복귀를 위한 핵심 요소 진단",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBzdVJVTkdVQ1ZaSGhjcTNhcDBEUkc4eVJYRmlKYlVEZk0xa3Zob19nbEVrSkpoUjlZT25TNlJLU1d3UGNuelJSSEJjcDJJQmE0Uml2Uk5tV0pjU05PSDRTVWYtczhBX1dINEVMM1JLdzFuRGRIRzBvUGhXRng5UdIBgwFBVV95cUxNYXhtb1dhbS1sbmxUS2FScmJlNER2Q3pCLUVOZmZmTE5vbU1nMXhNclo2M2xEM0t6Y1J3SUIyY1BVam5aZjFmdEc5a05CMXVpclJ1czU3NGRybUdDTWZpUHdGY2JDQmpBVWs2eGhtR1IwUDdjdmE1enhIUTVVLTRKVm0yNA?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "시장 상승을 견인하는 세 가지 실질적 이유",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPckhWbFM5YVhRY2RRQ0w2QjViY3daLVFWWURPQXBUZlVocGgxWWNabFZzbzZWcnVRT2c1SnlPQzJYVXltenR0THVvLXFFZDNEV2VGVUlhMm9CaFZPaDNMcU9NUlBaa2JkZGFiNHN1THpMM0N3OEtoV0FGckdYOVotOFNOSkFEWmRWVnBGOHQwN1JVYTBKYTE2SkgyeEZYdFFMaGZOZU4taU9nRFd5V3FudUs3OFl2VVdr0gG-AUFVX3lxTFBCeTNEUGlvblhnYTN6aFlvS055SGFRN1J3X0trdFhPZzcyeFFWeng4WXNlc3l3enRXV0hZTm1aYkFveWZTTldRcTRaUmxydk1LakR2QzFNVnFybUJubENVaXlvQ1ZUZ1BiRWRCS3hTcE9XX2pGelVqWEZqaUEwWVFYaTE0Z0RDSmtiSXNEUkhhdXpAz_9enpUblAwZ0JLUUhXeVhQdlZFSm5JdVdEdHlLaDNsZzV3Y3FKWU9HTGc?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "아시아 고성장 기술주 3선 및 잠재적 기회 분석",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hbnUzZldHWVlLbGFQcERzbjV5cFRUdS1BbllHeTV3WlU0Z2VjbXl2Y0tpQ0pram9zUHl5YXk3Q0I3Y0NURmh5Yl80eVRjOHkxYjBCcXJNdmswY3ZOMWpQbGtXWndXWkJvZnRRVDEzYmZCdURhdnZfVWo2VQ?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "주식 시장 분석 및 분석 - 인베스터스 비즈니스 데일리",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+      "press": "Investor's Business Daily",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "연준 유동성 지표 확인 및 긴축 국면 점검",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd2Z0WFJPODR6MEFYaGJBTGRNR1lsNEUtc1RscWRvbnRjNmtsWlAydW1KVnd4b2pJUFAtWjZyTWF1VC12aUJ1MFVxWGh0R0JEWW9jV1I4c1g0OTJWRVpOZmEzZldvNXU2Y2tEMGxZeUt4eVI4SlJlN2dsSDl5eS0ya1ZldV9XZzhNVDd5RDU2UjZ1SkF5ejFFemJWZGs4QQ?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    }
+  ]
+}
