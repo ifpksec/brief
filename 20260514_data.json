@@ -1,0 +1,403 @@
+{
+  "meta": {
+    "generated_at": "2026-05-13T23:36:46.531743+00:00",
+    "run_date": "20260514"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [
+      {
+        "title": "고객예탁금: 1,374,174억원 (+33,187억원)",
+        "description": "신용융자잔고: 362,677억원"
+      }
+    ],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 -219,729백만원 (차익 +0 / 비차익 -219,729)",
+        "description": "기준일: 20260514"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 동화약품 (+0.00%)",
+        "description": "현재가: 5,820, 거래량: 0"
+      },
+      {
+        "title": "#2 KR모터스 (+0.00%)",
+        "description": "현재가: 393, 거래량: 0"
+      },
+      {
+        "title": "#3 경방 (+0.00%)",
+        "description": "현재가: 9,390, 거래량: 0"
+      },
+      {
+        "title": "#4 삼양홀딩스 (+0.00%)",
+        "description": "현재가: 60,900, 거래량: 0"
+      },
+      {
+        "title": "#5 하이트진로 (+0.00%)",
+        "description": "현재가: 16,300, 거래량: 0"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 이구산업 거래대금 0억원",
+        "description": "현재가: 6,760, 거래량: 12,175주"
+      },
+      {
+        "title": "#2 서울바이오시스 거래대금 1억원",
+        "description": "현재가: 15,320, 거래량: 10,975주"
+      },
+      {
+        "title": "#3 KBI메탈 거래대금 0억원",
+        "description": "현재가: 7,640, 거래량: 8,498주"
+      },
+      {
+        "title": "#4 KODEX 200선물인버스2X 거래대금 0억원",
+        "description": "현재가: 108, 거래량: 6,370주"
+      },
+      {
+        "title": "#5 머큐리 거래대금 0억원",
+        "description": "현재가: 9,280, 거래량: 4,776주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "이구산업 외국인 -214,762주 / 기관 +257,368주 / 개인 -73,935주",
+        "description": "직전 영업일(20260513) 순매수 수량"
+      },
+      {
+        "title": "서울바이오시스 외국인 +134,218주 / 기관 +1,061주 / 개인 -144,292주",
+        "description": "직전 영업일(20260513) 순매수 수량"
+      },
+      {
+        "title": "KBI메탈 외국인 -10,418주 / 기관 -1,261,773주 / 개인 +1,522,287주",
+        "description": "직전 영업일(20260513) 순매수 수량"
+      },
+      {
+        "title": "KODEX 200선물인버스2X 외국인 +418,398,201주 / 기관 +32,497,420주 / 개인 -448,432,054주",
+        "description": "직전 영업일(20260513) 순매수 수량"
+      },
+      {
+        "title": "머큐리 외국인 -37,356주 / 기관 +69,031주 / 개인 -29,262주",
+        "description": "직전 영업일(20260513) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 98.45 (+0.17%)",
+        "description": "전일종가 98.29 / 변동 +0.1630"
+      },
+      {
+        "title": "미국 10년물 금리: 4.48 (+0.40%)",
+        "description": "전일종가 4.46 / 변동 +0.0180"
+      },
+      {
+        "title": "VIX 변동성지수: 17.87 (-0.67%)",
+        "description": "전일종가 17.99 / 변동 -0.1200"
+      },
+      {
+        "title": "S&P 500: 7444.25 (+0.58%)",
+        "description": "전일종가 7400.96 / 변동 +43.2900"
+      },
+      {
+        "title": "나스닥100: 29366.94 (+1.04%)",
+        "description": "전일종가 29064.80 / 변동 +302.1426"
+      },
+      {
+        "title": "다우존스: 49693.20 (-0.14%)",
+        "description": "전일종가 49760.56 / 변동 -67.3594"
+      },
+      {
+        "title": "USD/KRW: 1492.99 (+1.26%)",
+        "description": "전일종가 1474.45 / 변동 +18.5400"
+      },
+      {
+        "title": "USD/JPY: 157.79 (+0.07%)",
+        "description": "전일종가 157.67 / 변동 +0.1180"
+      },
+      {
+        "title": "코스피: 7643.15 (-2.29%)",
+        "description": "전일종가 7822.24 / 변동 -179.0903"
+      },
+      {
+        "title": "코스닥: 1179.29 (-2.32%)",
+        "description": "전일종가 1207.34 / 변동 -28.0499"
+      },
+      {
+        "title": "KOSPI200: 1183.41 (-2.31%)",
+        "description": "전일종가 1211.44 / 변동 -28.0299"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.859 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.64 | GEX +nanB$ (만기:2026-05-13)",
+        "description": "콜OI 155,261 / 풋OI 254,035 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.65 | GEX +1.1B$ (만기:2026-05-13)",
+        "description": "콜OI 63,696 / 풋OI 168,518 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $188.63 (+5.68%)",
+        "description": "거래량 18,727,554주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $745.74 (+0.56%)",
+        "description": "거래량 2,356,091주 (평균대비 0.5x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 45.5% (91/200종목)",
+        "description": "평균 MA 대비 위치: +1.6%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 42/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.64",
+        "description": "Date: 2026-04-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-04-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 332.407",
+        "description": "Date: 2026-04-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 2.0",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.46",
+        "description": "Date: 2026-05-12, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.71조달러",
+        "description": "기준일: 2026-05-06 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.32조달러",
+        "description": "기준일: 2026-05-06 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 8627.57억달러",
+        "description": "기준일: 2026-05-06 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.04억달러",
+        "description": "기준일: 2026-05-13 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 282bp (2.82%)",
+        "description": "기준일: 2026-05-12 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 77bp (0.77%)",
+        "description": "기준일: 2026-05-12 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: S&P 500, Nasdaq hit record highs as tech rallies despite strong inflation data - Yahoo Finance Singa",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeDAzWEpQXzBYTmdCUnVla0FBV3hvamFTSTcwS0RYbFpXUnRiS3RrZXFZUnFwa2hnV1VCTkMxNmxRZzZ0Y3ZsemcycURQTEc1dC1ZbjR3VUhjNUJrSUtUZ3pBb0w4R08xRmR2U3F4T1dyM0xhbWF6Wk9odTJhVnNWR1NwUXVLemVJQ09CeGJLQ0JyMjBUTWp5NF9Hb0FXaERyX3ZRTmJWQ1hWbF9HZ25mcWE2NlFxSGJnSlhvWHdGTE9vWjRz?oc=5",
+        "press": "Yahoo Finance Singapore"
+      },
+      {
+        "title": "Why Nextpower Stock Rocked the Market Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV3AxaUdreGF5T2pPU0VfZzVWUVJneVp4MlVjYUZEUXlxMlN3cFctZ3B2ODRJYUFHV3V4dzRaTUthMkpNWUlodkRrVnhza2tXM2Flc1F5UTJyR2UyX0dPTkNoRlk0U0dqUUxkTkJWQXE2WEw2MlJENEFhZk9NYUgzTVlZTGhYcUcyaVo0Sk5mRQ?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge up ahead of Trump-Xi summit - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM19pdVNJM241M01JQTVMejdvbHdQQVdwcGphNjNuM1FETzVfY2RMX3E5cE5vVEZqNVVSNklvdFVua2hyZFIwRDVSWDFIdXpBWnZqV05pSzJjRG1KUXJIU2V3R3NFb3VhRGRXV1I4S29vQTdtcFBiUTJKTlZBTlpfdGEtY25COWtIYkN3cVRmV0ZFeVVneWcyYWRFaEZyUV9wQzV6MzE3Q0hjcXdvMHVPamxkYkRrc05IWmZ4WXFOWkJBN3JrS0Fr?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Why the U.S. job market is so hard, especially for recent college graduates - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX0dab1U2dGcxbjJaMUI5bTZMb1dscDFaVWY1dUR2RU1MaW56QmFOWXJON3lxMDZwWU95WXJPaHBTY3RfSUZfUjlFcjVyVFdiTGxQVHY5TkZGQnRoZzVVRENjS0Y2bXR4VVE0NEpyVmVLVkxvZThHNkNrT0VMd3piTzN2SVhveFljM0xrOWV2dUhBX3RBQXliOHNhS2JkQ2dQUkJFLXB5Q1Q?oc=5",
+        "press": "The Washington Post"
+      },
+      {
+        "title": "Tech stocks today: Cerebras to stage blockbuster IPO, tech stocks climb as Cook, Musk, and Huang join Trump for China tr",
+        "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPUktSQ2ZNSU81QkZHbE1rMVJac2ZRRmpoQkNKOTA3ejlhY24ycDNxX21TSEplOUUwT1ZnWmI0UHVZWVM4WHJ4b1NLQkpyb2xLdjQzeEdEMTYwQWU1NDlmUmdEbEJTVHpVQnhUTl9lenlNakNfM3FiOHZyd09XSHZVeUpETWNINGVTSWxtNGRZOUhsYWYxSXBqN0NoRUl0SFpmOUwzVHJMZlNJQVA5MmhYQTdMXzlLQ3RwRmhGWlVocXpES0lvQXBpXzJXWXZ1RUJzc0dtdWktSEs5NVQtMkN2WlVXd191MmJRb3lhWHNFb0R3ZWg3VUlEOEhzNUtXMXZOYkZGekJfczFPSGMzelFFWQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Markets News, May 13, 2026: S&P 500, Nasdaq Close at Record Highs as Tech Stocks Rebound, Oil Falls; Warsh Confirmed as ",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa05ETE1uZEFKX0FUNEEyRkt2V1RxZTlXVmhiOGxQME9FUUI0Tkg4WjcydkdaXzIxUnZCWkZudTJJeVVMOUZhRUxMcEJhNGtzeXY0SnpTc05VZFM0eWlLeXM2eklRbnB2WTJuVV95alRuQjR6cnV1emtadDczZGQ1S0wtSThkX0k4dWJhaWY5LXY?oc=5",
+        "press": "Investopedia"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures edge up ahead of Trump-Xi summit - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM19pdVNJM241M01JQTVMejdvbHdQQVdwcGphNjNuM1FETzVfY2RMX3E5cE5vVEZqNVVSNklvdFVua2hyZFIwRDVSWDFIdXpBWnZqV05pSzJjRG1KUXJIU2V3R3NFb3VhRGRXV1I4S29vQTdtcFBiUTJKTlZBTlpfdGEtY25COWtIYkN3cVRmV0ZFeVVneWcyYWRFaEZyUV9wQzV6MzE3Q0hjcXdvMHVPamxkYkRrc05IWmZ4WXFOWkJBN3JrS0Fr?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "S&P 500 rises to another record on the back of tech even as majority of stocks close lower: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PaGlLRzZ5dkZYY3FmUnZPRU1MVmNWZTZkVWg5V3NVekRQRjFHdW40UzFKY1RuRklIWlBEaktwUHdiVTNqTEtXZ3lBVTlLT2hMVktrTUI1MFlxN0g3X2t0cDd0Z2d4Q1cxd3l0dEJMREp5THQ2QU1r0gF8QVVfeXFMTlNGSjFDdGRZdnI2cnZuWC1wenIzNUlNWUVhNFRYMEpoNFBHWWdDcjJlWlFRYzIyNVR3bV9OUjRYNDI5QUV3TTBKV0pzZko5YWhud25jMnllaERfS05xb1NPR2RmT1ZiVXdGMDB6OXgyc2lfUlNvczlvalUtcw?oc=5",
+        "press": "CNBC"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "[Good Morning Market] U.S. Stocks Rise Despite Inflation Concerns; Will KOSPI Rally Again? - 아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Uc2tpYWJWNEYwZk5tc1JLd3VVeEt6cEJFVTYxWkxDQjBxc1NxSm9hTjAtelJTSXhYcjZOcURWTzZMdmNlbU9EMG52dHlXa2NzVWoxa1ZxcTk2UlplWWpLRXhWejVwZTVqbTI1dWk3eHJxOVp6Z3Rpb2xn?oc=5",
+        "press": "아시아경제"
+      },
+      {
+        "title": "Kospi boom cools South Korea REITs as credit gap widens and yields rise - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRUVKR2hNdlQ2bGtFVlFueHhVeEo4VkVnZEtiVld5Nk9DYU4tcjlvU0dMWUt1c2ZWOVZHSk01QjBmMzM2aHFlODVyeHAwUmw0V0tQRHBxT2RkWTN6ckoyWGFOUFg4QWw2OTd4T0RMV2c5OGNaQTlXZDZLLTFubW1NQtIBlAFBVV95cUxOZnZjWFQxOVhUR2MtdW1hYUUwWlFmd1d4RFFaS1EwMGlSN3AzQUtsSDRZY0lQYzhQRFpMb1JFQ1RvRjYxWWpUQU5qV0NUM3V4eTN5MVRqcVZlbmRrd3FlRmg2RFF0NXZqcnJaOG5YeXRLajJ4ejNmWmMtanlkdXJNWXhWem5FWEE5YnpVeVk5TGNCMF9o?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Alteogen weighs KOSPI move as Korea business groups urge KOSDAQ stay - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPXzlhX3dySzJ2WHk2VFdlc2FDTHRwYmpzdG9GOUV0V1BIbVdRTGN5YzcyYjdxYnptSFlxenBtZVJ6T0gxcXJhaEZyWFVhUkFPcllBanJTWDdRY193UXg3LTEySHk3T3RIdnU1OFJzZjlfV1FFbm9La0NWdFFIclVxRNIBlAFBVV95cUxPMUVKYk5NRGtHMi05Q3gwd1ZaSm9pUG9wWUlPR2lwUUl6NnEta1J3cXliNzhMLWxWck11eklYZzNjR1V5aE9aMExPVTFSQUJHal9uMWtSekdSQjkyU0xpSy16QWJEQVpOV09DdE42LWc0ZFpZZ2xHczJ0d2dKa0wzTG5Ha0FNNzVkOE5nQXFtdHg2WjVh?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Here's Why SAMYOUNG M-Tek (KOSDAQ:054540) Has Caught The Eye Of Investors - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbk13OGYwTHNySWdkRHU3bFdFV2kzZDVudXFObk0wYUNUY2hrN3NMMzNXbnNmMXNFak5FV1ZWVUxnSkRKR0Q0VmZfbTRKTHdrN2hMS0ZjY21hcndEQmxFSXo5V0pKZnFDdS1lbkRxOTZJbUZOVndTWVk4LTJHOUg5MEMzV3dubFRnTzJQdmRrdmlrVWxWRjlVMVdiQVVPVzJQSk9ENnlCLWd1RVJYNURLSWxaV0FGbkk0YmFIaFBlLVNsc3hNWE16dEN0aFhOQnJKWERZbUNCNFAxYlVPMUR2d9IB5gFBVV95cUxNTDREVG9xVGZta0NMX3RSNzJVM2kyVnNvYVhmYS1DcWJmMXFxaC1QQzhjZWZweFlNX2RiZEVEY2Y0b2dQY1pZUVhiQm8wSnpNRWFOR0ZEc1lnVHgzanRfMlhrMFFEOTRrUzU3bGg2Q0l3S2lSVU82TDhZeWR5cnMtUVNpSmx0VGl4bUs3WE5NQnl5c2RXSXA2N0pwSTViakNCd21KWHJNd095NjFDbm9EM3RzcEQtTUJZSTI5dkxiQzhDdWVPV21MbVJCSy1LaFNoRDh0cUNJV3lXWlMxYkwwT3FkWGtPdw?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "S.Korea’s 10-year bond yield hits 2-year high on fiscal, inflation concerns - KED Global",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrUG5EVEVrbDRaaGMxZFJiRXV4ZDlFRk5PQXVESWpzYTlGcEhscDlTZlJxUnVpQ1lJWXZwU1BrZF9rNkFSQllnZlhiTkhORlJiaDVMMU9RLXJmbkJGZWd0UlNkSGlyUXROZFE?oc=5",
+        "press": "KED Global"
+      }
+    ],
+    "naver": [
+      {
+        "title": "“반도체 랠리, 아직 끝나진 않았다…다만 ‘플러스 알파’ 전략 필요”",
+        "url": "https://n.news.naver.com/mnews/article/018/0006280644?sid=101",
+        "press": "www.edaily.co.kr"
+      },
+      {
+        "title": "[증시 포인트] 상승 출발 전망...미중 정상회담 주목",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=138374",
+        "press": "www.opinionnews.co.kr"
+      },
+      {
+        "title": "KB증권 \"삼성전기 목표가 140만원…MLCC·기판 없어서 못판다\"",
+        "url": "https://n.news.naver.com/mnews/article/421/0008943488?sid=101",
+        "press": "www.news1.kr"
+      },
+      {
+        "title": "[더벨][i-point] 미래산업, 중국 유니모스와 80억 규모 계약 체결",
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605140813058340107679",
+        "press": "www.thebell.co.kr"
+      },
+      {
+        "title": "미국서 찾는 바이오 공시 해법은 ‘자율 뒤 책임’ [K-공시 사각지대②...",
+        "url": "https://n.news.naver.com/mnews/article/018/0006280647?sid=101",
+        "press": "www.edaily.co.kr"
+      },
+      {
+        "title": "아리바이오, 푸싱제약과 알츠하이머 신약 치료제 글로벌 독점 판권 계약",
+        "url": "https://n.news.naver.com/mnews/article/277/0005762542?sid=101",
+        "press": "view.asiae.co.kr"
+      },
+      {
+        "title": "'협상 결렬' 삼성전자 노조 결국 총파업 수순…21년 만에 긴급조정권 발...",
+        "url": "https://n.news.naver.com/mnews/article/057/0001949000?sid=101",
+        "press": "www.mbn.co.kr"
+      },
+      {
+        "title": "삼성전자 '성과급' 관심 집중…싸늘한 민심 속 노조 '초강수'",
+        "url": "https://n.news.naver.com/mnews/article/015/0005286771?sid=105",
+        "press": "www.hankyung.com"
+      },
+      {
+        "title": "“반도체 랠리, 아직 끝나진 않았다…다만 ‘플러스 알파’ 전략 필요”",
+        "url": "https://n.news.naver.com/mnews/article/018/0006280644?sid=101",
+        "press": "www.edaily.co.kr"
+      },
+      {
+        "title": "[속보]SK하이닉스, 프리마켓서 200만원선 돌파",
+        "url": "https://n.news.naver.com/mnews/article/014/0005521295?sid=101",
+        "press": "www.fnnews.com"
+      },
+      {
+        "title": "“반도체 랠리, 아직 끝나진 않았다…다만 ‘플러스 알파’ 전략 필요”",
+        "url": "https://n.news.naver.com/mnews/article/018/0006280644?sid=101",
+        "press": "www.edaily.co.kr"
+      },
+      {
+        "title": "뉴욕증시 3대 지수 혼조 마감...트럼프, 9년만에 방중-[글로벌 마감 시황...",
+        "url": "https://n.news.naver.com/mnews/article/215/0001252066?sid=101",
+        "press": "www.wowtv.co.kr"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "BREAKING: ONE HANTAVIRUS CRUISE SHIP PASSENGER BEING TREATED IN ATLANTA IS NOW OFFICIALLY SHOWING SY",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "JUST IN: 🇺🇸 $7 TRILLION ASSET MANAGER FIDELITY ANNOUNCES SUPPORT FOR THE CRYPTO CLARITY ACT AND SAYS",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "UK RICS HOUSE PRICE BALANCE APR: -34% (EST –25%; PREV –23%; PREVR –25%) [...](https://x.com/LiveSqua",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "GAMESTOP CEO RYAN COHEN ON EBAY: I LOVE THE ASSET. IT'S RUN BY A BUNCH OF LOSERS - INTERVIEW WITH PI",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "“TUCKER CARLSON AND NICK FUENTES HAVE BOTH BEEN NAMED AS POSSIBLE DOMESTIC TERRORISTS, ACCORDING TO ",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "SEC RUBIO SAYS US WANTS CHINA TO PRESS IRAN TO CHANGE COURSE IN GULF – RTRS\n\n [...](https://x.com/Li",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "US SECRETARY OF STATE RUBIO: AIMS TO CONVINCE CHINA TO ASSUME A MORE ACTIVE ROLE IN PUSHING IRAN TO ",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "#OOTT | OIL STEADY AHEAD OF TRUMP-XI TALKS AS IRAN WAR TENSIONS SIMMER – BBG\n\n [...](https://x.com/L",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}
