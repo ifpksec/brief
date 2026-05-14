@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "generated_at": "2026-05-14T23:36:45.254491+00:00",
+    "run_date": "20260515"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 34,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 98.87,
+      "change": 0.4,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.46,
+      "change": -0.45,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 17.26,
+      "change": -3.41,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7501.24,
+      "change": 0.77,
+      "insight": "전일종가 7444.25 / 변동 +56.9902",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29580.3,
+      "change": 0.73,
+      "insight": "전일종가 29366.94 / 변동 +213.3594",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 50063.46,
+      "change": 0.75,
+      "insight": "전일종가 49693.20 / 변동 +370.2617",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1492.68,
+      "change": 0.19,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 158.4,
+      "change": 0.35,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "삼성전자·SK하이닉스 AI 메모리 붐에 따른 목표가 상향",
+      "tag": "Bullish"
+    },
+    {
+      "point": "코스피 8000선 돌파 기대감 및 상승 종목 확산 전망",
+      "tag": "Bullish"
+    },
+    {
+      "point": "환율 1490원대 고공행진으로 인한 외환 변동성 경계",
+      "tag": "Bearish"
+    },
+    {
+      "point": "고객예탁금 소폭 감소하나 신용융자 잔고는 안정적 유지",
+      "tag": "Neutral"
+    },
+    {
+      "point": "외국인 EWY ETF 거래량 평균 대비 낮아 관망세 존재",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "다우 지수 5만 선 돌파 및 S&P500·나스닥 사상 최고치",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미국 10년물 국채 금리 하락 및 VIX 지수 안정세 지속",
+      "tag": "Bullish"
+    },
+    {
+      "point": "세레브라스 IPO 성공 등 AI 기술주 중심의 강력한 랠리",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 34포인트로 역발상 저점 매수 구간 진입",
+      "tag": "Bullish"
+    },
+    {
+      "point": "주식-채권 양의 상관관계로 인플레이션 국면 우려 상존",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "KB증권, AI 메모리 붐에 삼성전자 목표주가 상향",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVEUyc2hiVmhxY0kxLVBSUzlVLVVLWGYxbE0zNUVkcWliYnRocHdpTDhNTzRQX2JkTnlvTTM5b1RXMWFZTXVTRDlGRVhpRDBYcVVyQ1B5MllFWm9rdXJ2YjVvUk9hNHkyNEg1cHBzN2dYc2w0MzRaNGhKOEZfUW5oetIBlAFBVV95cUxQVWhHdHFfd3prTmNwV0poTHJ1bE9KRFd1RzJuckpCSm8wVTRyNTU2ZEVpZ1pNdm96QXYzOU1oNnZadzl6VndKT0xGYmc5cmxxcFpKVzktU1JPWDFnY3doRkstRXhqa210RHJhQUpSSHltcU1IU0p3c0pNSWp5OTZlVUJGOXR3dnpkZXJHdmFoYmZWSzh1?oc=5",
+      "press": "CHOSUNBIZ",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 8000선 돌파 기대감…미중 훈풍·AI 랠리 쌍끌이",
+      "url": "https://n.news.naver.com/mnews/article/018/0006281877?sid=101",
+      "press": "이데일리",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성·SK 주가 급등에도 증권가 목표가 추가 상향",
+      "url": "https://n.news.naver.com/mnews/article/374/0000510324?sid=101",
+      "press": "SBS Biz",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "증시 포인트: 순환매 흐름 예상, 상승 종목 확산 기대",
+      "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=138452",
+      "press": "오피니언뉴스",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "동진쎄미켐 주가 지표 분석 및 코스닥 이탈 우려",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVlNfMjllQjAtTy04YUd3dFVYaVR6U05fNWZnb1NWMzNPWkxQTFZsUndaRWdWdmNheXBabVZtOUVfN2dwcmFfLUlnNVhuY1ZtOF9vNmJxcHh6Q0JQSC1QbVd1aXI2cXBHdnBvcHlDYms2VUlva3lJUUtKUE5LbzBsMkpkTzQtZlNwSDkwdVgyM3hhUmF0dlhoQjF0d3ZMS3lSZ1RrcnVkRFJGUFB0aWdmNkItRTdrYjNoWDhHbkVtdU5EZXQ0YjRaNGnIYVRiWGs2Ni1BNldkc3Z0LXg4c3fSAeMBQVVfeXFMTUdHelp2eXhXRDE2cDFEYTcxcUhPeUdrUm5EYzZsVElOQmJJb3F4VWlqWXlBcWkyRnZxY0ZxUUtuWjE5Z19CV3JlWDRPeGMzTlV4VXJoMWxURTk4X09ka2NNSVBMLWkxVXNRZWFhOVRpN3NVc3lkel9iMng4Q2k2QlhoMXVsSXpTdWotOExPOTVXeHNNLVQxcHpGNFFoTUVVYjVWVmR6Q3ptYlJGYnFTQVRQS3V6QnVlY3hEQzJFeFdjLThWREZFMlNfQ1lvNUhobFNvRzdnMzJpUnVSYmZCc0ZhWXc?oc=5",
+      "press": "simplywall.st",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "전영현 삼성전자 부회장, 파업 앞두고 긴급 임원 소집",
+      "url": "http://www.segyebiz.com/newsView/20260515502837?OutUrl=naver",
+      "press": "세계비즈",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "연준 배어 부의장: 유동성 요건 완화는 금융 안정 리스크 증폭",
+      "url": "telegram_link_placeholder",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "시장·기타",
+      "title": "혼다 자동차, EV 투자 영향으로 70년 만의 첫 연간 손실",
+      "url": "telegram_link_placeholder",
+      "press": "Market News Feed",
+      "source": "telegram"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "다우 5만 선 돌파 마감, 시스코 등 기술주 주도로 S&P·나스닥 사상 최고치",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUEd2RVZRRXRqa2lsQldMZERQT3ZsTG9ZdWVUSlBTel9EWGpxdmp3S3lTYjZEU2cta3hRVG1BajZCMlV3NlBvVWUyYnlpYzNtU3VULVZUVXVGOVVvc3N2V01ydDZZUEtGTDBzdnpldDg1dlNiMVN0bUV4SFkxN0lVUExHVi1RV3ZGTkZ3clB1THI?oc=5",
+      "press": "Investopedia",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "세레브라스 주가 70% 폭등, 2026년 최대 IPO 기록",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUE94dEUyblNmalJfd1VsdXl4ZXBjQkpVR01Ndnh3M3lkYnJXenhiOHBKdWRvWTVmSE1hMWxOM0RwNFpqcmk1Q01ubUVxN0xkc2I2Z3dzN2lHcy1oYWd2UUlpUG9IWkxUbzhIN1pfc0lONTRMTGl2YWFQbHV6c1F2UGhIQkpmOFVBaVIzZnJhenVBSVdpTmdzMGpPR0FpdmZIVlBuR0g4a3BJYV95OVVIRQ?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "AI 트레이드 재점화에 다우 5만 탈환 및 기술주 기록적 상승",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNUEx3b3VjQjdlTHBVaXMzVmhUVVhLZjRIdTkzNXVDcnFwa0lQdnNCMXZPTmNnZkdYU19FbDgxamJOckNjZ2lHbDRTX1NhQ0ZDMThVQVRiSEo5VnpqRjRRbU5lc2FVRFBnLVVEVW1JTUZDOGRrc1g4S3VnOGg0d1ZiSVBUeHpGdUwweGJEcGNVcFQtMV9QbUphclJjdFJHQVNEZGtsS1ltVExnN3ZGRnR2bkR4X0hiM0hsdlZQaFJpX2xoV1gwcl9OTU4xZlhmZHJNTTR1YkF1N1Y0Z0wtejVsRUNpdnJBZGV2enlrS3NR?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "골드만삭스, 기술주 '업 크래시' 현상은 추가 상승의 전조",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVThDQVRqS1pQbjB5ZUFPWHFVN1RuNmJSWUo4elBIWUx3cHVCNk9mVkZTSVZoSllSQVpvbzQ1QlRPaUl4ZHN5NDU1NnlCakFid2hxMENrZXY3YkMwUkx0Tk03OUdKemlqUllpU29YM010ZjludjVtdnU0V2l3S2ExSmdNdzNJSWk1VEp5RVB0TXF0X0Fucm1GY25hdTk4SVJQZlZtTFNYTdIBrAFBVV95cUxNRzVVVEpVV1pkZkdPV2syTTlpVXRxU2lqdlBqQzdoZjJ0US1qQVBvT0FLcC0wZU1ub0RIczdUREd6cDlKdkI4TXBOcWFtZjZGbllDaGxyS2t6aXJoMUJmLWNfWmZQYWVOb2ZkM2Q5YlpDQ2x6Z0UwTXh5ODQzendBUFdMUnRUXzV3NWtMN2Nfamp2RW5hTGUtYmFVQktUU0hpT0ptTGV1T2xqZzNu?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "전쟁과 인플레이션 우려에도 미 증시가 계속 오르는 이유 분석",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLWNBam1MNTNBbWdTdFZwNmF2eVZHb1U5bnFBTEdpU01DRzV0enRkN0FEdlprbjJ4Nmt0am1SdWdlZHpsb2ZqN2dnRmp1d2FBdE1RbU5fWnpNbHQ1OEhwanhzV0hFXzg0ZUZlS1lRVGhIUjZjZzFjTHRPUlZ4SDN2bnVKRXBqRXNRUzhBN2dHUVY5bEp2TE1ldTFOclVvY1g1YU42Y2piN0dzUlk?oc=5",
+      "press": "The Guardian",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "2026년 5월 주목해야 할 아시아의 고성장 기술주 목록",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZl91eEluZ2lSYm1jeGlWamt1T3lCbW44aTNreE16dU5VeGtMejZjY1FRU2owS001dFQ0MWtfSmwxTHRoeDFjNVZRdHZ4WVZyT1M3b194MVFHMEtlYXNzN19VLW5UcWJROTJSc0E3T1h4R254RzkwX1ZCMHJYZXhtbEEzb0FmUGRfSFNJRkRValdBeThxT0V6SjRfQjhmZw?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    }
+  ]
+}
