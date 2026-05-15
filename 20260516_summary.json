@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "generated_at": "2026-05-15T23:36:45.125618+00:00",
+    "run_date": "20260516"
+  },
+  "market_mood": {
+    "status": "Neutral",
+    "score": 43,
+    "label": "확인 매매 구간"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 99.27,
+      "change": 0.39,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.6,
+      "change": 3.0,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 18.43,
+      "change": 6.78,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7408.5,
+      "change": -1.24,
+      "insight": "전일종가 7501.24 / 변동 -92.7402",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29125.2,
+      "change": -1.54,
+      "insight": "전일종가 29580.30 / 변동 -455.1016",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 49526.17,
+      "change": -1.07,
+      "insight": "전일종가 50063.46 / 변동 -537.2891",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1497.76,
+      "change": 0.53,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 158.73,
+      "change": 0.56,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "삼성전자 노조 파업 돌입으로 인한 생산 및 공급망 리스크 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "원/달러 환율 1,497원 돌파하며 외국인 자금 이탈 압력 가중",
+      "tag": "Bearish"
+    },
+    {
+      "point": "EWY 6.12% 폭락하며 한국 증시 단기 변동성 확대 가능성 고조",
+      "tag": "Bearish"
+    },
+    {
+      "point": "기관의 반도체 장비 및 로봇 섹터 중심 저가 매수세 유입 확인",
+      "tag": "Bullish"
+    },
+    {
+      "point": "퇴직연금 자금의 증시 유입 지속으로 수급 하방 경직성 확보 노력",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "미 10년물 금리 4.6% 급등하며 기술주 중심 강한 매도세 출현",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VIX 지수 급등 및 SPY 풋 우세로 시장 하방 변동성 확대",
+      "tag": "Bearish"
+    },
+    {
+      "point": "주식·채권 강한 양의 상관계수로 자산 배분 방어 기제 약화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "유가 상승 우려가 국채 금리를 자극하며 전 세계 증시 동반 하락",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 43 기록하며 저점 매수 심리와 공포 심리 대립",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "시장·기타",
+      "title": "기술주 독주 속 '히덴부르크 징후' 발생…증시 거품론 확산",
+      "url": "https://www.g-enews.com/view.php?ud=2026051608224346172bd56fbc3c_1",
+      "press": "www.g-enews.com",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "삼성전자 노조, 보너스 요구하며 파업 강행",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbXlZT0dIUjJsa3ExOFoxRDdRQ0ljNnBlTmJQOUdBNDVKVElkSU5YYUhVX1dPVDF6U2tPQm1aM3IwbVN1OFBiQms1M3pUTnNVakwwOXVWYjFoakotYmlpXzdnVXRoZTFJV3BKS3BRLWdvdTdkOHVkVkh2UjVTMnRrNzFMbUhvZXVt?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "\"노후자금도 삼전닉스로\"…퇴직연금 증시 몰린다",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000035446",
+      "press": "www.jnilbo.com",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "글로벌 칩 섹터, 코스피 매도세 및 미-이란 협상 정체로 하락",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSFpTYUF0VnpVSkIzM2ViZDhBa1ZBRjg0cTJpTVFIWWxoMHFhaTJhSm1TNWd6T2lPbFZKbTJ4WFZjdDI0TjNOTUp2eFgwZUl6aUJ2VGV0Q3pGc1Z2MnFXS2MweEpHTjAxZG9kVVg2aTBrZHlRN21QaTFmSWVtNTJFczJhd3ZfemR5cXRBRzV5LXUzSEdBVF83ZlFEdmZPQXdYX2lRRDVUR1VtVWwtYzZ2QWt5RVI4dmZUa2NZNmJOR0lrQWIzeUE?oc=5",
+      "press": "Investing.com",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "기관 수급 이동, 반도체 장비 및 로봇주 싹쓸이",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=453101",
+      "press": "www.pinpointnews.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "트럼프: 이란 핵 시설에 대한 감시 및 타격 가능성 언급",
+      "url": "https://x",
+      "press": "Market News Feed",
+      "source": "telegram"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "다우 지수 500포인트 급락, 기술주 하락 및 금리 급등 직격탄",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCUUdxWm5EQlFidGZtdDMwNWNPclNKWEdWU09LLW56Nml1d1FNalBMdHRCY3NPbk5RTzZWNWJ1NXdMQU82QkpiUkRYQ19sSzAwR0tsNkV0bTVsVzhNbjRWLXZkNWx6ZFJQTG5qWGhlMEVsbG1oRmxr0gF8QVVfeXFMTjNQNVktX3BsbTFxRThNdnVZQVBzYkVMN2hTcjBuV2tRSDBDQTZUQ256Yk1uejdOQUZVWTJjS1JXMndpZWp6OWVyNFI3Y3JKc2lFQWlNNTFkTkVJTGRtbjFFSWt2OUZKUmsxcTJxRUpnRDhjSzFQbkx5U01INw?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "유가 상승 우려에 따른 채권 시장 요동, 글로벌 증시 하락세",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZV83ekt1MFd0U05ZNTZIdFltN0RkWkZyNmN3X20tcW1WNy1SWUNfWlJCRklLd2x2cW96eUNSTnZkNjdibFltWDZzLV9FTlczODJEX3VLVl9CLTM2d01jeWNZOVV5VV9HZmN1N0RRNG5DbkdIMHFhMXRoNDZiLUdDVDJzSTRhU0FJcFVScU5aODFkV1hWMTdCSDFISlhEMG9XZHoxcWJSWjVzMlk3aG1jLUJvTQ?oc=5",
+      "press": "WFSB",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "AI 붐 속 기술주 수익률 격차 확대, 양극화 심화",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXJ4eXYzUi0xLXdETEdUS3N1S0NUZzB0TWNvTzBWQ2RRdVlSbXhCUy1ldFBPVUFienFfYk4xM0ZUVE50NEtNckJYdUlha3EySkk5YTdYN08weVBIZkZOMUpfR0JhcmgzUDBlOVMzOHVSZWRiYXJCWHhGYUtqTUlyM2R1bks1Si1H?oc=5",
+      "press": "Morningstar",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "트럼프, 2026년 1분기 기술주 포트폴리오 대폭 확대",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBd09JaEQ3RlQwMWlDczYtTnl3WU5xejJLVXhtdXFRRW9yTE1zTmlnY0c3M3dLcWo0SzJ2ajlGTDdDYkdkcG9CZmVEb2xpcGljQ0pJMGhKMFRaUTZnQWRGU1hFbkowR0NLT0VOaVBMN3LSAXZBVV95cUxQTU1mT1VhUWNvZHFkby1oR2RaQ3F0NkxGYkEtc01sQVBIZnRESmxsckJVX3JycGZCN0dPQW5USF8wbU5QVURHc291NFdvYnVJNjlJQ1VsdDQzeXdfcHVHV2NoM3BHN2lFT1hQVVdvSTlOUnJsV2Zn?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "광학 관련주 급등, 테크 분야의 새로운 폭발적 투자 영역으로 부상",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTmJCbUFGal9fX3Voc1dzRHlyZVVHRXZHZ25tSTJvVXo0WXJiZHE2bVFPV3ZqQjlHSDd4cGo4M2R0UWRId3p4c2ZTLXAzandJWGZOdVhOVTVnR0I0MWx1cmdhM0Y1cFFRaFF4T1hxNnVaR3lYUlZxQ24wQVZlLWZvSEdHYnhJckVaWTJsS0NsQTNWUERYVXBZZ1VZTEpNYUZ5ZzNhUE80M001UmlBdDhXek1EZGRpa0syOTRENUo3Y0FOcDRWbDg4RHF4UmM?oc=5",
+      "press": "MarketWatch",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미국 증시만이 아니다: AI와 유가가 글로벌 시장을 흔드는 이유",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ3dKbGxjQ3E3VlhiNmRIR0RyWHlBQWdCNmxaS2RfaUMwdXFRWWJCM0xSZWhrV29lRW51UFNIY0x0NmNhNlhiVGxRef?oc=5",
+      "press": "The New York Times",
+      "source": "international"
+    }
+  ]
+}
