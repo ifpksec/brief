@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "generated_at": "2026-05-16T23:36:41.956258+00:00",
+    "run_date": "20260517"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 31,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 99.27,
+      "change": 0.39,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.59,
+      "change": 3.0,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 18.43,
+      "change": 6.78,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7408.5,
+      "change": -1.24,
+      "insight": "전일종가 7501.24 / 변동 -92.7402",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29125.2,
+      "change": -1.54,
+      "insight": "전일종가 29580.30 / 변동 -455.1016",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 49526.17,
+      "change": -1.07,
+      "insight": "전일종가 50063.46 / 변동 -537.2891",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1497.76,
+      "change": 0.3,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 158.73,
+      "change": 0.56,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "코스피 100만원 돌파 '황제주' 11개로 역대 최다 기록",
+      "tag": "Bullish"
+    },
+    {
+      "point": "EWY 6.12% 급락하며 한국 증시 강한 하방 압력 노출",
+      "tag": "Bearish"
+    },
+    {
+      "point": "원/달러 환율 1497원 돌파, 외국인 수급 이탈 우려 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "반도체주 숨고르기 국면 진입 속 로봇 섹터 순환매 기대",
+      "tag": "Neutral"
+    },
+    {
+      "point": "서학개미 미국 주식 보관액 300조 돌파, 자금 이탈 가속",
+      "tag": "Neutral"
+    },
+    {
+      "point": "코스피 8000 질주에도 코스닥 소외 현상 및 양극화 심화",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "미 10년물 금리 4.59% 급등하며 기술주 밸류에이션 압박",
+      "tag": "Bearish"
+    },
+    {
+      "point": "S&P 500 및 나스닥 1% 이상 하락, 딜러 숏감마 변동성 확대",
+      "tag": "Bearish"
+    },
+    {
+      "point": "DXY 99.27 상승 및 달러 강세에 따른 글로벌 유동성 위축",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VIX 18.43 급등 및 공포탐욕지수 31 기록, 공포 심리 확산",
+      "tag": "Bearish"
+    },
+    {
+      "point": "SPY-IEF 상관계수 0.87로 시스템 위기 가능성 시사",
+      "tag": "Bearish"
+    },
+    {
+      "point": "Fed 지급준비금 저점 및 RRP 고갈로 시장 유동성 경색 우려",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 역대급 상승에 100만 원 넘는 '황제주' 11개…역대 가장 많아",
+      "url": "https://www.sentv.co.kr/article/view/sentv202605170005",
+      "press": "www.sentv.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "숨고르기 들어간 반도체주…다음 타자는 로봇",
+      "url": "https://www.sentv.co.kr/article/view/sentv202605170004",
+      "press": "www.sentv.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 8000 질주에도 소외된 코스닥…기업 가치 읽는 리서치 키워야",
+      "url": "http://www.newsian.co.kr/news/articleView.html?idxno=89748",
+      "press": "www.newsian.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "변동성 커진 코스피...반도체 '숨고르기' 속 방향성 탐색",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=666488",
+      "press": "www.digitaltoday.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "'반도체 보너스'의 힘…삼전·하닉 대형 전자부품업 월급 1000만원 시대",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1709063",
+      "press": "www.ebn.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "빅테크에 돌아온 서학개미…美 주식 보관액 300조원 넘어섰다",
+      "url": "https://n.news.naver.com/mnews/article/016/0002644351?sid=101",
+      "press": "biz.heraldcorp.com",
+      "source": "naver"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "트럼프: 이란 석유 수출 차단으로 이스라엘 및 우방국 지원",
+      "url": "https://x.com/MarketNews_Feed",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "주말 시장 업데이트: 다우 및 나스닥 선물 소폭 하락 마감",
+      "url": "https://x.com/MarketNews_Feed",
+      "press": "Market News Feed",
+      "source": "telegram"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "시장·기타",
+      "title": "짐 크레이머, 2026년 주식 시장에 대한 냉혹한 경고 메시지",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVmMkM3TjRfMDc3UVZKRHFtQWZNc0paaUotSGNaUlJuLW1aak5MUFpBa2xaSlpHM3BGT1FjNzJVTUFaT3N6SVBfR21NX2pKNlZjUUtRSm42RTJYdE1vdjhIaVJja1lLaDZ4RjdxY2NvNDE4M2J4b0p4d3FrLUhZMC1WNGFYZ0ZKbG0yUG4xc3ZrWHFDWlNDaXhMZy1JZDBoWE9LVg?oc=5",
+      "press": "thestreet.com",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "미국, 공급 부족에도 불구하고 러시아 석유 판매 유예 종료 허용",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdVMwbi1IeE1objBYTTZucnNKdGdVYU1iWXJtQ20xbl9xZUpQODduR2pKTEx3c0pvSUNOdm1JMDBEWFNiUjQtVVBoaGxRMFJYWEdDNmtPV3dKYUpGbk0tUFExZjhCcFBWeGNINGViVlMxRTd5c0lTRUJPeUVFS1Nwb3N1YkdvM29RLWtnZFNNa1pteTB4XzItSnVzenpBTmJkYXZieXl4MkFObjZDT0RJQ3VPSFphUQ?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "캐시 우드, 인기 반도체 주식 4,060만 달러 규모 매도",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYi1La0FRWWE3SEZQblliZWxfVFZ4cVlRbUpEaURwSlFDRnIzdktxcXJid3ZtWXNQalNOUy1NLXdRSkRWR2x2c0xFcUhEWEVSdlVjbE9JX1l0NTd3ckpoQjJrYkxpelM2cTBmcEJOblJ1ckpIbUZ2QlllMDg4QlVSbEUwcndhR3Fidjd0TnFPcUdJWGhSRjJoTUgwRi00Zl8zUi0tSy1aMU5HUGRYeUFicUtB?oc=5",
+      "press": "thestreet.com",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "주식 시장 고점 부근, 투자자가 지금 해야 할 일",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZElmSWgyLUlpRU5nRklES1BBS3hSVXBDU0JJQTlabVJGdDF0R0VHNVJURGw3S0NuaDBWWWhzNGw5Z0dKZ2NOTmNMZlpwUEwyX3V6NUo2VkpRcDQ2SENrMTNiZ1BIZW41TGlnVFpJSHBXY0tZMHhPeEJMcWR2Y2NnYWhSeHM4ZE9zaXJVUTZPbjZPYnlnNjQyQ3JORXFzbktXR0Z3b2w2Z3lRTW16clhiTU1oUQ?oc=5",
+      "press": "Investor's Business Daily",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "미국 출판 시장 규모 및 2033년 전망 보고서",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQWVKaUYxN0dLSE5lTFRhTS1pY2kza3RjSjVvT3ZBZjhhT1NNUVkxb1ctQ2p3bzd0V1ZESzJPblNzT1llcmNwYU5ZbmtKSHBILUk4SWlqQ3l3TGpJUWljbnYtSmxpdGc5bHJlcHduYkFaMFNSUWc4dUprMzBuYkI4Y0lES05zSFZO?oc=5",
+      "press": "Grand View Research",
+      "source": "international"
+    }
+  ]
+}

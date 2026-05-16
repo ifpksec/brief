@@ -1,0 +1,367 @@
+{
+  "meta": {
+    "generated_at": "2026-05-16T23:36:41.955103+00:00",
+    "run_date": "20260517"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [
+      {
+        "title": "#1 한세엠케이 (+29.98%)",
+        "description": "현재가: 1,613, 거래량: 1,464,812"
+      },
+      {
+        "title": "#2 한국쉘석유 (+20.08%)",
+        "description": "현재가: 580,000, 거래량: 68,820"
+      },
+      {
+        "title": "#3 두산로보틱스 (+19.29%)",
+        "description": "현재가: 127,400, 거래량: 8,437,915"
+      },
+      {
+        "title": "#4 동양고속 (+17.08%)",
+        "description": "현재가: 65,800, 거래량: 4,310,689"
+      },
+      {
+        "title": "#5 자화전자 (+16.53%)",
+        "description": "현재가: 55,700, 거래량: 1,496,960"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 12,076억원",
+        "description": "현재가: 118, 거래량: 10,772,396,933주"
+      },
+      {
+        "title": "#2 KODEX 인버스 거래대금 11,718억원",
+        "description": "현재가: 1,135, 거래량: 1,060,050,152주"
+      },
+      {
+        "title": "#3 TIGER 200선물인버스2X 거래대금 200억원",
+        "description": "현재가: 125, 거래량: 169,840,334주"
+      },
+      {
+        "title": "#4 삼성 인버스 2X WTI원유 선물 ETN 거래대금 13억원",
+        "description": "현재가: 16, 거래량: 84,506,653주"
+      },
+      {
+        "title": "#5 흥아해운 거래대금 2,405억원",
+        "description": "현재가: 2,740, 거래량: 83,601,287주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 +130,965,241주 / 기관 +113,811,376주 / 개인 -246,088,702주",
+        "description": "직전 영업일(20260515) 순매수 수량"
+      },
+      {
+        "title": "KODEX 인버스 외국인 +8,040,392주 / 기관 +5,895,285주 / 개인 -14,896,968주",
+        "description": "직전 영업일(20260515) 순매수 수량"
+      },
+      {
+        "title": "TIGER 200선물인버스2X 외국인 +7,781,923주 / 기관 +4,832,365주 / 개인 -12,820,664주",
+        "description": "직전 영업일(20260515) 순매수 수량"
+      },
+      {
+        "title": "삼성 인버스 2X WTI원유 선물 ETN 외국인 +850,000주 / 기관 -50,281,557주 / 개인 +49,331,557주",
+        "description": "직전 영업일(20260515) 순매수 수량"
+      },
+      {
+        "title": "흥아해운 외국인 -119,564주 / 기관 +71,520주 / 개인 +18,504주",
+        "description": "직전 영업일(20260515) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.27 (+0.39%)",
+        "description": "전일종가 98.88 / 변동 +0.3900"
+      },
+      {
+        "title": "미국 10년물 금리: 4.59 (+3.00%)",
+        "description": "전일종가 4.46 / 변동 +0.1340"
+      },
+      {
+        "title": "VIX 변동성지수: 18.43 (+6.78%)",
+        "description": "전일종가 17.26 / 변동 +1.1700"
+      },
+      {
+        "title": "S&P 500: 7408.50 (-1.24%)",
+        "description": "전일종가 7501.24 / 변동 -92.7402"
+      },
+      {
+        "title": "나스닥100: 29125.20 (-1.54%)",
+        "description": "전일종가 29580.30 / 변동 -455.1016"
+      },
+      {
+        "title": "다우존스: 49526.17 (-1.07%)",
+        "description": "전일종가 50063.46 / 변동 -537.2891"
+      },
+      {
+        "title": "USD/KRW: 1497.76 (+0.30%)",
+        "description": "전일종가 1493.34 / 변동 +4.4200"
+      },
+      {
+        "title": "USD/JPY: 158.73 (+0.56%)",
+        "description": "전일종가 157.85 / 변동 +0.8800"
+      },
+      {
+        "title": "코스피: 7493.18 (-6.12%)",
+        "description": "전일종가 7981.41 / 변동 -488.2300"
+      },
+      {
+        "title": "코스닥: 1129.82 (-5.14%)",
+        "description": "전일종가 1191.09 / 변동 -61.2700"
+      },
+      {
+        "title": "KOSPI200: 1162.39 (-6.50%)",
+        "description": "전일종가 1243.17 / 변동 -80.7800"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.871 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.44 | GEX -1.0B$ (만기:2026-05-18)",
+        "description": "콜OI 106,880 / 풋OI 153,872 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.58 | GEX +nanB$ (만기:2026-05-18)",
+        "description": "콜OI 55,362 / 풋OI 142,756 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $178.86 (-6.12%)",
+        "description": "거래량 21,699,500주 (평균대비 1.0x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $742.45 (-1.21%)",
+        "description": "거래량 4,878,700주 (평균대비 1.0x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 46.0% (92/200종목)",
+        "description": "평균 MA 대비 위치: +1.0%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 31/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.64",
+        "description": "Date: 2026-04-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-04-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 332.407",
+        "description": "Date: 2026-04-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 2.0",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.47",
+        "description": "Date: 2026-05-14, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.73조달러",
+        "description": "기준일: 2026-05-13 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.33조달러",
+        "description": "기준일: 2026-05-13 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 8074.20억달러",
+        "description": "기준일: 2026-05-13 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.01억달러",
+        "description": "기준일: 2026-05-15 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 276bp (2.76%)",
+        "description": "기준일: 2026-05-14 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 76bp (0.76%)",
+        "description": "기준일: 2026-05-14 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Jim Cramer has a stark message on the stock market for 2026 - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTVmMkM3TjRfMDc3UVZKRHFtQWZNc0paaUotSGNaUlJuLW1aak5MUFpBa2xaSlpHM3BGT1FjNzJVTUFaT3N6SVBfR21NX2pKNlZjUUtRSm42RTJYdE1vdjhIaVJja1lLaDZ4RjdxY2NvNDE4M2J4b0p4d3FrLUhZMC1WNGFYZ0ZKbG0yUG4xc3ZrWHFDWlNDaXhMZy1JZDBoWE9LVg?oc=5",
+        "press": "thestreet.com"
+      },
+      {
+        "title": "US Allows Russia Oil Sales Waiver to Expire Despite Tight Market - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdVMwbi1IeE1objBYTTZucnNKdGdVYU1iWXJtQ20xbl9xZUpQODduR2pKTEx3c0pvSUNOdm1JMDBEWFNiUjQtVVBoaGxRMFJYWEdDNmtPV3dKYUpGbk0tUFExZjhCcFBWeGNINGViVlMxRTd5c0lTRUJPeUVFS1Nwb3N1YkdvM29RLWtnZFNNa1pteTB4XzItSnVzenpBTmJkYXZieXl4MkFObjZDT0RJQ3VPSFphUQ?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Cathie Wood sells $40.6 million of popular semiconductor stock - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYi1La0FRWWE3SEZQblliZWxfVFZ4cVlRbUpEaURwSlFDRnIzdktxcXJid3ZtWXNQalNOUy1NLXdRSkRWR2x2c0xFcUhEWEVSdlVjbE9JX1l0NTd3ckpoQjJrYkxpelM2cTBmcEJOblJ1ckpIbUZ2QlllMDg4QlVSbEUwcndhR3Fidjd0TnFPcUdJWGhSRjJoTUgwRi00Zl8zUi0tSy1aMU5HUGRYeUFicUtB?oc=5",
+        "press": "thestreet.com"
+      },
+      {
+        "title": "Commercial Oven For Bakery Market Growth Outlook to 2035: Energy Efficiency and Artisanal Demand Fuel Expansion - News a",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVHVESjl4dml6VHdkV0MzTERNaGZGUF9VRk1nMlY5S1RraFdYT1JGSlpiRHBHOXBGY2NkYVBINWl6ZHBhY2dpV1duX1gtQjZmX1BWdVBEWno4RDE4UXNpNVdHbWgyU2IzSzNsWDlxelJFNDBmY2FQV3B2cENxbFhCU2hLNmd6T054bl9UZE5qVjhPUE5LeWNpMmFKdTRsWG1SYnBVbFBMeXYzMmhtNFFXNGxkU0VnbUswQzNhUnZrajVDUTBvTENPb2NTbjQycmdEWWJzajZLQzhjUEN3MUZqTEhXV08yNUNRNVpTVWNEYzFsQ0gxcVJ6QUVn?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "The United States Publishing Market Size & Outlook, 2033 - Grand View Research",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQWVKaUYxN0dLSE5lTFRhTS1pY2kza3RjSjVvT3ZBZjhhT1NNUVkxb1ctQ2p3bzd0V1ZESzJPblNzT1llcmNwYU5ZbmtKSHBILUk4SWlqQ3l3TGpJUWljbnYtSmxpdGc5bHJlcHduYkFaMFNSUWc4dUprMzBuYkI4Y0lES05zSFZO?oc=5",
+        "press": "Grand View Research"
+      },
+      {
+        "title": "Stocks Near Highs But Note This; What To Do Now - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZElmSWgyLUlpRU5nRklES1BBS3hSVXBDU0JJQTlabVJGdDF0R0VHNVJURGw3S0NuaDBWWWhzNGw5Z0dKZ2NOTmNMZlpwUEwyX3V6NUo2VkpRcDQ2SENrMTNiZ1BIZW41TGlnVFpJSHBXY0tZMHhPeEJMcWR2Y2NnYWhSeHM4ZE9zaXJVUTZPbjZPYnlnNjQyQ3JORXFzbktXR0Z3b2w2Z3lRTW16clhiTU1oUQ?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Stocks Near Highs But Note This; What To Do Now - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZElmSWgyLUlpRU5nRklES1BBS3hSVXBDU0JJQTlabVJGdDF0R0VHNVJURGw3S0NuaDBWWWhzNGw5Z0dKZ2NOTmNMZlpwUEwyX3V6NUo2VkpRcDQ2SENrMTNiZ1BIZW41TGlnVFpJSHBXY0tZMHhPeEJMcWR2Y2NnYWhSeHM4ZE9zaXJVUTZPbjZPYnlnNjQyQ3JORXFzbktXR0Z3b2w2Z3lRTW16clhiTU1oUQ?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "S&P 500 manages to extend weekly win streak despite anticlimactic Trump-Xi summit - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZXlVZ25zajJUdUJKMUV2Sk5neXVkQWFvekNWOE1nQlIzZEJONGFSV3ZxSk5CNm9ncTRQdmRJblJxaF9MdlM0TjVBNXAtRXBYNUJFRmp4Y0dmVXltWnZNTEVaNkRBQk5TVFpQUmdEOUdVSjN4Q0tQTjVDbWdseExac3Vjc0xLMnZPQTZoeXpwVWI2eFlkYk1GUU1DcWZDWFczNHFVTkEweTlDVEViWFpuZlJNWEUzN082?oc=5",
+        "press": "CNBC"
+      }
+    ],
+    "domestic": [],
+    "naver": [
+      {
+        "title": "코스피 역대급 상승에 100만 원 넘는 '황제주' 11개…역대 가장 많아",
+        "url": "https://www.sentv.co.kr/article/view/sentv202605170005",
+        "press": "www.sentv.co.kr"
+      },
+      {
+        "title": "부동산만 1500억 전지현 “주식? 목표수익 나면 칼같이 익절” 유재석도...",
+        "url": "https://m.entertain.naver.com/article/609/0001124874",
+        "press": "www.newsen.com"
+      },
+      {
+        "title": "숨고르기 들어간 반도체주…다음 타자는 로봇",
+        "url": "https://www.sentv.co.kr/article/view/sentv202605170004",
+        "press": "www.sentv.co.kr"
+      },
+      {
+        "title": "부동산만 1500억 전지현 “주식? 목표수익 나면 칼같이 익절” 유재석도...",
+        "url": "https://m.entertain.naver.com/article/609/0001124874",
+        "press": "www.newsen.com"
+      },
+      {
+        "title": "코스피 8000 질주에도 소외된 코스닥…\"기업 가치 읽는 리서치 키워야\"",
+        "url": "http://www.newsian.co.kr/news/articleView.html?idxno=89748",
+        "press": "www.newsian.co.kr"
+      },
+      {
+        "title": "[증시전망] 변동성 커진 코스피...반도체 '숨고르기' 속 방향성 탐색",
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=666488",
+        "press": "www.digitaltoday.co.kr"
+      },
+      {
+        "title": "'반도체 보너스'의 힘…삼전·하닉 대형 전자부품업 월급 1000만원 시대...",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1709063",
+        "press": "www.ebn.co.kr"
+      },
+      {
+        "title": "빅테크에 돌아온 서학개미…美 주식 보관액 300조원 넘어섰다",
+        "url": "https://n.news.naver.com/mnews/article/016/0002644351?sid=101",
+        "press": "biz.heraldcorp.com"
+      },
+      {
+        "title": "숨고르기 들어간 반도체주…다음 타자는 로봇",
+        "url": "https://www.sentv.co.kr/article/view/sentv202605170004",
+        "press": "www.sentv.co.kr"
+      },
+      {
+        "title": "코스피 역대급 상승에 100만 원 넘는 '황제주' 11개…역대 가장 많아",
+        "url": "https://www.sentv.co.kr/article/view/sentv202605170005",
+        "press": "www.sentv.co.kr"
+      },
+      {
+        "title": "'반도체 보너스'의 힘…삼전·하닉 등 월급 1000만원 시대 연다",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1709063",
+        "press": "www.ebn.co.kr"
+      },
+      {
+        "title": "빅테크에 돌아온 서학개미…美 주식 보관액 300조원 넘어섰다",
+        "url": "https://n.news.naver.com/mnews/article/016/0002644351?sid=101",
+        "press": "biz.heraldcorp.com"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "TRUMP ON IRAN: \"WE'RE DOING IT TO HELP ISRAEL, AND TO HELP SAUDI ARABIA, AND TO HELP QATAR AND UAE, ",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "TRUMP: \"THERE'S NO OIL COMING OUT OF KHARG ISLAND. PEOPLE ARE FINDING OTHER PLACES TO BUY OIL, LIKE ",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "**Follow us on X for even faster headlines!**\n\nhttps://x.com/MarketNews_Feed",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "TRUMP: \"HE KEPT ME OUT OF JAIL FOR YEARS. ACTING ATTORNEY GENERAL TODD BLANCHE. HE KEPT ME OUT OF JA",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "🌆 **Market News Digest**  \n__May 16, 2026 EST__\n\n🔥 **Top Stories**  \n• **Iran readies traffic contro",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "WEEKEND MARKETS UPDATE:\n#DAX 23806 -0.19%\n#DOW 49322 -0.16%\n#NASDAQ 29023 -0.17%\n#FTSE 10180 -0.05%\n",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "TRUMP HAS SAID IT'S GOOD TO HAVE 500,000 FOREIGN CHINESE STUDENTS IN THE US: : \"I FRANKLY THINK THAT",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "THERE IS A 47% CHANCE OF A PERMANENT US X IRAN PEACE DEAL BY JULY 31ST, PER POLYMARKET:  [...](https",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}
