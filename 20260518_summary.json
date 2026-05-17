@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "generated_at": "2026-05-17T23:36:45.723102+00:00",
+    "run_date": "20260518"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 27,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 99.29,
+      "change": 0.02,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.59,
+      "change": 3.0,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 18.43,
+      "change": 6.78,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7408.5,
+      "change": -1.24,
+      "insight": "전일종가 7501.24 / 변동 -92.7402",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29125.2,
+      "change": -1.54,
+      "insight": "전일종가 29580.30 / 변동 -455.1016",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 49526.17,
+      "change": -1.07,
+      "insight": "전일종가 50063.46 / 변동 -537.2891",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1497.92,
+      "change": 0.31,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 158.85,
+      "change": 0.3,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "고객예탁금 3.6조 원 급감하며 증시 대기 자금 위축",
+      "tag": "Bearish"
+    },
+    {
+      "point": "원/달러 환율 1,497원 돌파로 외국인 수급 부담 가중",
+      "tag": "Bearish"
+    },
+    {
+      "point": "iShares 한국 ETF(EWY) 6.12% 급락하며 하방 압력",
+      "tag": "Bearish"
+    },
+    {
+      "point": "LG전자 로봇·AI 협업 모멘텀에 따른 개별 종목 강세",
+      "tag": "Bullish"
+    },
+    {
+      "point": "삼성전자 노사 갈등 및 성과급 중재 등 내부 리스크 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "비차익 중심 프로그램 순매수 유입되나 시장 방어 역부족",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "미 10년물 국채금리 4.59% 급등하며 기술주 하락 주도",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VIX 변동성 지수 6.7% 급등, 시장 불안 심리 확산",
+      "tag": "Bearish"
+    },
+    {
+      "point": "S&P500·나스닥 1% 이상 하락하며 위험자산 회피 강화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "옵션 시장 풋 우세 및 딜러 숏감마로 변동성 확대 국면",
+      "tag": "Bearish"
+    },
+    {
+      "point": "이란 전쟁 장기화 우려에 유가 상승 및 인플레 불안",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 27점(Fear) 기록하며 저점 매수 구간 진입",
+      "tag": "Bullish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "로봇 사업 확대·AI협업 성장 모멘텀…LG전자 급등",
+      "url": "https://n.news.naver.com/mnews/article/374/0000510666?sid=101",
+      "press": "biz.sbs.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "성과급 갈등에 정부 중재…삼성전자 노사 2차 사후조정",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=144078",
+      "press": "www.smartbizn.com",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 8000 재도전…엔비디아 실적발표 변수 주목",
+      "url": "https://n.news.naver.com/mnews/article/374/0000510667?sid=101",
+      "press": "biz.sbs.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "모두투어 호텔·부동산 사업 실패…우종웅 책임론 대두",
+      "url": "https://news.dealsitetv.com/articles/170497",
+      "press": "news.dealsitetv.com",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "네이버, 서울 전역으로 '플라잉 뷰 3D' 서비스 확대",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qb2hxbzZuenNEbWxyR3BuV2tVRF9rN1c5T09taFBvb0lpRDlwcC1BSklnTGd6MC14MVNEQ0JYVkdJVFZjekZ2Y2M4T1Y3Wldnc1pjbUhoQXltQWstVGEwZlhpenFSckU?oc=5",
+      "press": "thelec.net",
+      "source": "domestic"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "유럽 선제 확장 나서는 도프, 내년 매출 두 배 증가",
+      "url": "https://n.news.naver.com/mnews/article/018/0006284026?sid=101",
+      "press": "www.edaily.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "비트코인 한화 가격 변동성 확대 - 코인게이코 데이터",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44YjVOeDFhVEVRRlVuclpKaGlIS3dtSjN6TFRncnlGSTh5Q2RwNTY1bzlCc3RHeEdNQzZLdElxWVpWR0FZdi1GNGJyaTNwOXFHbDBXTXhRTzRadw?oc=5",
+      "press": "CoinGecko",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "엔비디아·소매 실적 앞두고 미 증시 선물 소폭 변동",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80S0lXdUZwZ3ZYb2tjQlEyODBoN2JuR01OZVlfMGFsMFJlNjY1dW1BWmJSUXNkMWY5U2NzVnM0dVVGRm9QMEZ0bzVvVWlhckRLSWZQRXJyaVZOQTB6T1F5eUxkcVZOSGt3TUM2UDJucGRxMDV3eVV30gF8QVVfeXFMTUUwejA1dUNZQVRQODZkZzZYZzdaOE8yUzljRDFqcUFGdHdXTDkxcjZFVUtaXzhVbE9sVWNBUmJROXJxSkFhWlJfMkF1WHRqd3pia0JDNGx0Rl94NXBVaF9vazhFdnZnaUxvakVDMzFXOF9SQWlCbjM0N3RreA?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "이란 전쟁 교착 상태 속 유가 상승 및 다우 선물 하락",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdjRXejZxTEtMQjd4a2E2NzAwdndKZ2Z5QloxcVp1SVo1SzEzQ1VST0U0dVprS3hCSU9ZdWZsTHlUZ1ZoaUg1MTBWRmpZS2NBNVJpTW5iNDc1MUFFaDQyUHVkai1NTDc1b2ZlRXFnU29OYnB1Q2piVnI0cFBBSjFaS3VDTEZIQW5uUFVTTGFuTWpRV2NIT0laMGJNMFg4MmhZTEYzQk1iZElrUDktUFYtbDJRb1pPVUk5b0FqTWJhQVVLaXcwYkE?oc=5",
+      "press": "MarketWatch",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "TSMC, 현재 매수해야 할 펀더멘털이 강력한 주식",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGJRcEpQbjNYTjJvRUxlaEJhaE9wdHotVFVvbHNpTC1Tbk9WZEtRTHVjamtMWnFRaWdhbFNVQ1NJQnhzNE1FNDd0aDNVUEhFU1JnbVh3cVBSSjYxUnQxX3JSSmxhTlhrSDQ1ZWFMMFI0ZUlUMUJMR25NVFhFek1HV3FMa1F4RzFYVGpwSWpqUVVGckRzejM5X01YRHUwcW55UzlSWmNQb09odHc?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "이란 전쟁 종료 기미 없어 국제 유가 지속 상승세",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV3BScEQ1Zkt4cUJWSDBqa2tNSk5oeFZCUFQ2UTBZbVZqS2tkY2JHVlpWZ3ZGanZlTGNlNE8tWC14anZ6OGNqQ0syZzFPclZ2cWpybXA0WDhQaDZIVGdaX2s5bTc2c2NkLWM0eXNhVzZHZ29fTnkyLVNnWXpISnAxc09KS2ludXEyOGFDTC14MHlkTVRXQi1hRVJJQWpDWDZ5S1VyTGZ3TzVweUEyOTdZ?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미국 대졸자들, 경제 불확실성 속 가혹한 취업난 직면",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOEJpV1V0SllsSXVDWWpqRjd5ZHdZN0RMSExRc0Q5dElaVkl4V0pMelQyVHl4V2pscmhiRVVhRF9PSy05dWtWblcxSHllNWt1bThiWklVMldFUnh3YWdmTEJndUFWZjhKR2pSUDJPVkdGNHNpeTZwak5oZ3hYUzQwU3Rjb3FSSXA1dmtmMzgzcTJXdHZrYXdLQ01RN3dCM1p3ZGl6T1hJaHUxTzlGbE9lck530gG3AUFVX3lxTE9JWFBKT0pITUNaeDZrR1NjTEZyWHhNNlcwSy1Edk9xYUVIbEIxTUZkY2ZaWVlWM3p6bkFOZXlwczlGaHd6cHdra3Bnd1l5NUJoN0pIMmtDWDFFaXRGZDZITkUtVEJGWTBVSmpaY0pFRzRsVHpUMkFhcWdvaXIzam50Rl9CV3p3OVlMSGdvN081YnZZSXFBQzBLbjlnenJfdExtcTVrVFZBeklRV3J1VDhGbGJHYTdnMA?oc=5",
+      "press": "Al Jazeera",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "예측 시장 트레이더들, 미 군사 작전 베팅으로 큰 수익",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRkk1MkpaZ18tUXhmdGRHTEVPdEpQVzZvNHl4VWVGY1JYMko5TkxueG9WYlgwVHlKOEVTUjRqNDNlTnNNNU5mSi1CVlo2dzQ3RkNJZ0RqdkJYcExDLW43ajFfU3VjdUhCMU8wbWctYnJXelh3TlBKWW0zTnVIenNQZF9MOFVYT3V1MnplbWdWc1pQYjBrNDlUYXVoUWNhNndDQWhVandnOEg1V3UyMVB2MGk1VkdCNlJsNWQ1RlN3T0tnY3PSAcgBQVVfeXFMTkR1M2FGUllEd1pNQXVxWlpoNFlaNHZOUzF5eWtDeTkwOVVHQ2w3WHBLUEpNQ3pSWFBHOVp1VHVyTGptVW9rMy1sblBzV0REMVRwRlY2VGx2M0RmbmhnX1dscjVZWWp4OEhvamJZOVlYSENyZ2lZUEk2c0g2QUI3amZ6Y1d3Y1pqVm0zeHVKUGN0V05pdlZsQzFKcGUtdmtSTWktNWxxQXM5eXZIQ1E3UkR4REVGd1dJLTBCeWNPUEJxNG5SOVRJd0Y?oc=5",
+      "press": "CBS News",
+      "source": "international"
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "meta": {
+    "generated_at": "2026-05-17T23:36:45.721806+00:00",
+    "run_date": "20260518"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [
+      {
+        "title": "고객예탁금: 1,335,088억원 (-36,113억원)",
+        "description": "신용융자잔고: 364,698억원"
+      }
+    ],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 +88,521백만원 (차익 +7,961 / 비차익 +80,559)",
+        "description": "기준일: 20260518"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 동화약품 (+0.00%)",
+        "description": "현재가: 6,070, 거래량: 0"
+      },
+      {
+        "title": "#2 KR모터스 (+0.00%)",
+        "description": "현재가: 378, 거래량: 0"
+      },
+      {
+        "title": "#3 경방 (+0.00%)",
+        "description": "현재가: 10,060, 거래량: 0"
+      },
+      {
+        "title": "#4 삼양홀딩스 (+0.00%)",
+        "description": "현재가: 61,100, 거래량: 0"
+      },
+      {
+        "title": "#5 하이트진로 (+0.00%)",
+        "description": "현재가: 16,960, 거래량: 0"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 0억원",
+        "description": "현재가: 118, 거래량: 433,366주"
+      },
+      {
+        "title": "#2 삼성 인버스 2X WTI원유 선물 ETN 거래대금 0억원",
+        "description": "현재가: 16, 거래량: 250,000주"
+      },
+      {
+        "title": "#3 CMG제약 거래대금 0억원",
+        "description": "현재가: 1,460, 거래량: 21,075주"
+      },
+      {
+        "title": "#4 메이슨캐피탈 거래대금 0억원",
+        "description": "현재가: 167, 거래량: 11,436주"
+      },
+      {
+        "title": "#5 진원생명과학 거래대금 0억원",
+        "description": "현재가: 960, 거래량: 11,005주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 +130,965,241주 / 기관 +113,811,376주 / 개인 -246,088,702주",
+        "description": "직전 영업일(20260515) 순매수 수량"
+      },
+      {
+        "title": "삼성 인버스 2X WTI원유 선물 ETN 외국인 +850,000주 / 기관 -50,281,557주 / 개인 +49,331,557주",
+        "description": "직전 영업일(20260515) 순매수 수량"
+      },
+      {
+        "title": "CMG제약 외국인 -266,758주 / 기관 +301주 / 개인 +293,000주",
+        "description": "직전 영업일(20260515) 순매수 수량"
+      },
+      {
+        "title": "메이슨캐피탈 외국인 -1,217,148주 / 기관 -2,341주 / 개인 +1,252,420주",
+        "description": "직전 영업일(20260515) 순매수 수량"
+      },
+      {
+        "title": "진원생명과학 외국인 +86,645주 / 기관 +42주 / 개인 -46,971주",
+        "description": "직전 영업일(20260515) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.29 (+0.02%)",
+        "description": "전일종가 99.27 / 변동 +0.0220"
+      },
+      {
+        "title": "미국 10년물 금리: 4.59 (+3.00%)",
+        "description": "전일종가 4.46 / 변동 +0.1340"
+      },
+      {
+        "title": "VIX 변동성지수: 18.43 (+6.78%)",
+        "description": "전일종가 17.26 / 변동 +1.1700"
+      },
+      {
+        "title": "S&P 500: 7408.50 (-1.24%)",
+        "description": "전일종가 7501.24 / 변동 -92.7402"
+      },
+      {
+        "title": "나스닥100: 29125.20 (-1.54%)",
+        "description": "전일종가 29580.30 / 변동 -455.1016"
+      },
+      {
+        "title": "다우존스: 49526.17 (-1.07%)",
+        "description": "전일종가 50063.46 / 변동 -537.2891"
+      },
+      {
+        "title": "USD/KRW: 1497.92 (+0.31%)",
+        "description": "전일종가 1493.34 / 변동 +4.5801"
+      },
+      {
+        "title": "USD/JPY: 158.85 (+0.30%)",
+        "description": "전일종가 158.38 / 변동 +0.4730"
+      },
+      {
+        "title": "코스피: 7493.18 (-6.12%)",
+        "description": "전일종가 7981.41 / 변동 -488.2300"
+      },
+      {
+        "title": "코스닥: 1129.82 (-5.14%)",
+        "description": "전일종가 1191.09 / 변동 -61.2700"
+      },
+      {
+        "title": "KOSPI200: 1162.39 (-6.50%)",
+        "description": "전일종가 1243.17 / 변동 -80.7800"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.871 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.44 | GEX -0.9B$ (만기:2026-05-18)",
+        "description": "콜OI 106,880 / 풋OI 153,872 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.58 | GEX +nanB$ (만기:2026-05-18)",
+        "description": "콜OI 55,362 / 풋OI 142,756 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $178.86 (-6.12%)",
+        "description": "거래량 21,699,500주 (평균대비 1.0x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $742.45 (-1.21%)",
+        "description": "거래량 4,878,700주 (평균대비 1.0x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 46.0% (92/200종목)",
+        "description": "평균 MA 대비 위치: +1.0%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 27/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.64",
+        "description": "Date: 2026-04-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-04-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 332.407",
+        "description": "Date: 2026-04-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 2.0",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.47",
+        "description": "Date: 2026-05-14, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.73조달러",
+        "description": "기준일: 2026-05-13 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.33조달러",
+        "description": "기준일: 2026-05-13 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 8074.20억달러",
+        "description": "기준일: 2026-05-13 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.01억달러",
+        "description": "기준일: 2026-05-15 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 276bp (2.76%)",
+        "description": "기준일: 2026-05-14 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 76bp (0.76%)",
+        "description": "기준일: 2026-05-14 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock futures are little changed after record-setting week for Wall Street; traders await Nvidia and retail earnings: Li",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80S0lXdUZwZ3ZYb2tjQlEyODBoN2JuR01OZVlfMGFsMFJlNjY1dW1BWmJSUXNkMWY5U2NzVnM0dVVGRm9QMEZ0bzVvVWlhckRLSWZQRXJyaVZOQTB6T1F5eUxkcVZOSGt3TUM2UDJucGRxMDV3eVV30gF8QVVfeXFMTUUwejA1dUNZQVRQODZkZzZYZzdaOE8yUzljRDFqcUFGdHdXTDkxcjZFVUtaXzhVbE9sVWNBUmJROXJxSkFhWlJfMkF1WHRqd3pia0JDNGx0Rl94NXBVaF9vazhFdnZnaUxvakVDMzFXOF9SQWlCbjM0N3RreA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Dow futures slip, oil prices push higher as Iran war remains stuck in stalemate - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdjRXejZxTEtMQjd4a2E2NzAwdndKZ2Z5QloxcVp1SVo1SzEzQ1VST0U0dVprS3hCSU9ZdWZsTHlUZ1ZoaUg1MTBWRmpZS2NBNVJpTW5iNDc1MUFFaDQyUHVkai1NTDc1b2ZlRXFnU29OYnB1Q2piVnI0cFBBSjFaS3VDTEZIQW5uUFVTTGFuTWpRV2NIT0laMGJNMFg4MmhZTEYzQk1iZElrUDktUFYtbDJRb1pPVUk5b0FqTWJhQVVLaXcwYkE?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Oil Climbs as Iran War Shows No Sign of Ending: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV3BScEQ1Zkt4cUJWSDBqa2tNSk5oeFZCUFQ2UTBZbVZqS2tkY2JHVlpWZ3ZGanZlTGNlNE8tWC14anZ6OGNqQ0syZzFPclZ2cWpybXA0WDhQaDZIVGdaX2s5bTc2c2NkLWM0eXNhVzZHZ29fTnkyLVNnWXpISnAxc09KS2ludXEyOGFDTC14MHlkTVRXQi1hRVJJQWpDWDZ5S1VyTGZ3TzVweUEyOTdZ?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Online prediction market traders make millions betting on U.S. military operations - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRkk1MkpaZ18tUXhmdGRHTEVPdEpQVzZvNHl4VWVGY1JYMko5TkxueG9WYlgwVHlKOEVTUjRqNDNlTnNNNU5mSi1CVlo2dzQ3RkNJZ0RqdkJYcExDLW43ajFfU3VjdUhCMU8wbWctYnJXelh3TlBKWW0zTnVIenNQZF9MOFVYT3V1MnplbWdWc1pQYjBrNDlUYXVoUWNhNndDQWhVandnOEg1V3UyMVB2MGk1VkdCNlJsNWQ1RlN3T0tnY3PSAcgBQVVfeXFMTkR1M2FGUllEd1pNQXVxWlpoNFlaNHZOUzF5eWtDeTkwOVVHQ2w3WHBLUEpNQ3pSWFBHOVp1VHVyTGptVW9rMy1sblBzV0REMVRwRlY2VGx2M0RmbmhnX1dscjVZWWp4OEhvamJZOVlYSENyZ2lZUEk2c0g2QUI3amZ6Y1d3Y1pqVm0zeHVKUGN0V05pdlZsQzFKcGUtdmtSTWktNWxxQXM5eXZIQ1E3UkR4REVGd1dJLTBCeWNPUEJxNG5SOVRJd0Y?oc=5",
+        "press": "CBS News"
+      },
+      {
+        "title": "Stock futures are little changed after record-setting week for Wall Street; traders await Nvidia and retail earnings: Li",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80S0lXdUZwZ3ZYb2tjQlEyODBoN2JuR01OZVlfMGFsMFJlNjY1dW1BWmJSUXNkMWY5U2NzVnM0dVVGRm9QMEZ0bzVvVWlhckRLSWZQRXJyaVZOQTB6T1F5eUxkcVZOSGt3TUM2UDJucGRxMDV3eVV30gF8QVVfeXFMTUUwejA1dUNZQVRQODZkZzZYZzdaOE8yUzljRDFqcUFGdHdXTDkxcjZFVUtaXzhVbE9sVWNBUmJROXJxSkFhWlJfMkF1WHRqd3pia0JDNGx0Rl94NXBVaF9vazhFdnZnaUxvakVDMzFXOF9SQWlCbjM0N3RreA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "US college graduates face harsh job market amid economic uncertainty - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOEJpV1V0SllsSXVDWWpqRjd5ZHdZN0RMSExRc0Q5dElaVkl4V0pMelQyVHl4V2pscmhiRVVhRF9PSy05dWtWblcxSHllNWt1bThiWklVMldFUnh3YWdmTEJndUFWZjhKR2pSUDJPVkdGNHNpeTZwak5oZ3hYUzQwU3Rjb3FSSXA1dmtmMzgzcTJXdHZrYXdLQ01RN3dCM1p3ZGl6T1hJaHUxTzlGbE9lck530gG3AUFVX3lxTE9JWFBKT0pITUNaeDZrR1NjTEZyWHhNNlcwSy1Edk9xYUVIbEIxTUZkY2ZaWVlWM3p6bkFOZXlwczlGaHd6cHdra3Bnd1l5NUJoN0pIMmtDWDFFaXRGZDZITkUtVEJGWTBVSmpaY0pFRzRsVHpUMkFhcWdvaXIzam50Rl9CV3p3OVlMSGdvN081YnZZSXFBQzBLbjlnenJfdExtcTVrVFZBeklRV3J1VDhGbGJHYTdnMA?oc=5",
+        "press": "Al Jazeera"
+      },
+      {
+        "title": "Taiwan Semiconductor Manufacturing (TSM): One of the Best Fundamentally Strong Stocks to Buy Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGJRcEpQbjNYTjJvRUxlaEJhaE9wdHotVFVvbHNpTC1Tbk9WZEtRTHVjamtMWnFRaWdhbFNVQ1NJQnhzNE1FNDd0aDNVUEhFU1JnbVh3cVBSSjYxUnQxX3JSSmxhTlhrSDQ1ZWFMMFI0ZUlUMUJMR25NVFhFek1HV3FMa1F4RzFYVGpwSWpqUVVGckRzejM5X01YRHUwcW55UzlSWmNQb09odHc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "High Growth Tech Stocks In Asia To Watch May 2026 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWDhhYXR5U2QtTHQ5Z2JreVFyQlNia2lBNl90T2E5NkZWWnBQNXdFaEN2OEthVHNLSklDM2ItbXhhTWhNajFnd00td0FEbWd1eEV5c09aWjBIZmNQQ3NIdzluT2RtMGhVRUVaX3czS0tMeS16Uk5EZnFabmdWYURuMHdEaXp0R0U5ODNRdlB5Ri1TWkd1U0ZXWDB5RWdGQQ?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "BTC to KRW: Bitcoin Price in South Korean Won - CoinGecko",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44YjVOeDFhVEVRRlVuclpKaGlIS3dtSjN6TFRncnlGSTh5Q2RwNTY1bzlCc3RHeEdNQzZLdElxWVpWR0FZdi1GNGJyaTNwOXFHbDBXTXhRTzRadw?oc=5",
+        "press": "CoinGecko"
+      },
+      {
+        "title": "Editorial: Do Labor Federations View Samsung Strike as Rights Issue? - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVHdUdGxpak1aUmdoLVRyc3RTQlB0S0RSbkpHVXVXLVk2UnBZSy1rNjlxQVlCMnlTc3Z0OUI4RVRGcHBhYUVrdGN0dVBTb1RhcDc2Q3ZtR1dPZGVWSTJCLWNkNS1BWlVBNFFSTHYyN0x4YkhBb0c4UE90OHNsSWFhZmFYRVJMVXM?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Naver Expands 'Flying View 3D' Coverage Across Seoul - thelec.net",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qb2hxbzZuenNEbWxyR3BuV2tVRF9rN1c5T09taFBvb0lpRDlwcC1BSklnTGd6MC14MVNEQ0JYVkdJVFZjekZ2Y2M4T1Y3Wldnc1pjbUhoQXltQWstVGEwZlhpenFSckU?oc=5",
+        "press": "thelec.net"
+      }
+    ],
+    "naver": [
+      {
+        "title": "[핀포인트] [모두투어] 호텔·부동산 사업 줄줄이 실패…우종웅 책임론",
+        "url": "https://news.dealsitetv.com/articles/170497",
+        "press": "news.dealsitetv.com"
+      },
+      {
+        "title": "李대통령 지지도, 60.5%로 소폭 올라…민주 45.8%·국힘 33.5%[리얼미터]",
+        "url": "https://n.news.naver.com/mnews/article/001/0016082496?sid=100",
+        "press": "www.yna.co.kr"
+      },
+      {
+        "title": "[기업이슈] 로봇 사업 확대·AI협업 성장 모멘텀…LG전자 급등",
+        "url": "https://n.news.naver.com/mnews/article/374/0000510666?sid=101",
+        "press": "biz.sbs.co.kr"
+      },
+      {
+        "title": "유럽 선제 확장 나서는 도프, 내년 매출 두배 증가 예고",
+        "url": "https://n.news.naver.com/mnews/article/018/0006284026?sid=101",
+        "press": "www.edaily.co.kr"
+      },
+      {
+        "title": "[어제장 오늘장] 코스피 8000 재도전…엔비디아 실적발표, 변수 될까?",
+        "url": "https://n.news.naver.com/mnews/article/374/0000510667?sid=101",
+        "press": "biz.sbs.co.kr"
+      },
+      {
+        "title": "‘8천피 찍먹’한 코스피, 추가조정·반등시도 ‘촉각’",
+        "url": "https://n.news.naver.com/mnews/article/029/0003027100?sid=101",
+        "press": "www.dt.co.kr"
+      },
+      {
+        "title": "성과급 갈등에 정부 중재…삼성전자 노사 2차 사후조정 돌입",
+        "url": "https://www.smartbizn.com/news/articleView.html?idxno=144078",
+        "press": "www.smartbizn.com"
+      },
+      {
+        "title": "李대통령 지지도, 60.5%로 소폭 올라…민주 45.8%·국힘 33.5%[리얼미터]",
+        "url": "https://n.news.naver.com/mnews/article/001/0016082496?sid=100",
+        "press": "www.yna.co.kr"
+      },
+      {
+        "title": "삼성전자 총파업 D-3···노사 오늘부터 재협상",
+        "url": "https://n.news.naver.com/mnews/article/032/0003446315?sid=101",
+        "press": "www.khan.co.kr"
+      },
+      {
+        "title": "[키-리포트] 대신 \"SK, AI 수혜 본격화…지주사 재평가 시점\"",
+        "url": "http://www.newsdream.kr/news/articleView.html?idxno=112097",
+        "press": "www.newsdream.kr"
+      },
+      {
+        "title": "플래티어, 1분기 매출 86억…AX 솔루션 성장",
+        "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=839276",
+        "press": "www.hansbiz.co.kr"
+      },
+      {
+        "title": "[세수추계 대변혁] '어게인 2021' 없다…초과세수 활용법 골몰",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4415316",
+        "press": "news.einfomax.co.kr"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "UK RIGHTMOVE HOUSE PRICES (M/M) MAY: 1.2% (PREV 0.8%)\n\n- RIGHTMOVE HOUSE PRICES (Y/Y): -0.3% (PREV –",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "UKRAINE'S SOUTHERN ODESA REGION UNDER DRONE ATTACK; RESIDENTIAL BUILDINGS HIT - GOVERNOR [...](https",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "NZ PERFORMANCE SERVICE INDEX APR: 48.9 (PREV 46.0; PREVR 46.2) [...](https://x.com/LiveSquawk/status",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "STANDARD CHARTERED NAMES MANUS COSTELLO AS GROUP CFO; JOINS BOARD AS EXECUTIVE DIRECTOR WITH IMMEDIA",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "S&P 500 FUTURES DIP 0.2%; NASDAQ FUTURES DOWN 0.2% [...](https://x.com/FirstSquawk/status/2056137681",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "BRENT OIL UP 0.6% AS TRUMP WARNS CLOCK TICKING ON IRAN - SOURCES [...](https://x.com/FirstSquawk/sta",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "VIEWTRIX TECHNOLOGY: GLOBAL OFFERING OF 52.9 MLN H SHARES INCLUDING 5.3 MLN HONG KONG OFFER SHARES; ",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "THE MARKET YEAR TO DATE:  [...](https://x.com/unusual_whales/status/2056132905055711277)",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}
