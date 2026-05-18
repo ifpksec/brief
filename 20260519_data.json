@@ -1,0 +1,398 @@
+{
+  "meta": {
+    "generated_at": "2026-05-18T23:36:45.734722+00:00",
+    "run_date": "20260519"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [
+      {
+        "title": "고객예탁금: 1,328,597억원 (-6,491억원)",
+        "description": "신용융자잔고: 365,675억원"
+      }
+    ],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 -120,676백만원 (차익 -26,213 / 비차익 -94,463)",
+        "description": "기준일: 20260519"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 동화약품 (+0.00%)",
+        "description": "현재가: 6,130, 거래량: 0"
+      },
+      {
+        "title": "#2 KR모터스 (+0.00%)",
+        "description": "현재가: 395, 거래량: 0"
+      },
+      {
+        "title": "#3 경방 (+0.00%)",
+        "description": "현재가: 10,620, 거래량: 0"
+      },
+      {
+        "title": "#4 삼양홀딩스 (+0.00%)",
+        "description": "현재가: 60,700, 거래량: 0"
+      },
+      {
+        "title": "#5 하이트진로 (+0.00%)",
+        "description": "현재가: 16,540, 거래량: 0"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 0억원",
+        "description": "현재가: 116, 거래량: 160,019주"
+      },
+      {
+        "title": "#2 대원전선 거래대금 3억원",
+        "description": "현재가: 15,150, 거래량: 20,887주"
+      },
+      {
+        "title": "#3 방림 거래대금 1억원",
+        "description": "현재가: 5,270, 거래량: 20,000주"
+      },
+      {
+        "title": "#4 흥아해운 거래대금 0억원",
+        "description": "현재가: 2,690, 거래량: 13,574주"
+      },
+      {
+        "title": "#5 대한광통신 거래대금 2억원",
+        "description": "현재가: 23,100, 거래량: 11,877주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 -145,791,643주 / 기관 -207,345,367주 / 개인 +369,176,247주",
+        "description": "직전 영업일(20260518) 순매수 수량"
+      },
+      {
+        "title": "대원전선 외국인 +240,342주 / 기관 -175,059주 / 개인 -59,100주",
+        "description": "직전 영업일(20260518) 순매수 수량"
+      },
+      {
+        "title": "방림 외국인 -27,289주 / 기관 -531주 / 개인 +6,806주",
+        "description": "직전 영업일(20260518) 순매수 수량"
+      },
+      {
+        "title": "흥아해운 외국인 -1,532,893주 / 기관 +20,278주 / 개인 +1,581,395주",
+        "description": "직전 영업일(20260518) 순매수 수량"
+      },
+      {
+        "title": "대한광통신 외국인 -362,051주 / 기관 +30,394주 / 개인 +495,863주",
+        "description": "직전 영업일(20260518) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 98.95 (-0.32%)",
+        "description": "전일종가 99.27 / 변동 -0.3160"
+      },
+      {
+        "title": "미국 10년물 금리: 4.62 (+0.61%)",
+        "description": "전일종가 4.59 / 변동 +0.0280"
+      },
+      {
+        "title": "VIX 변동성지수: 17.82 (-3.31%)",
+        "description": "전일종가 18.43 / 변동 -0.6100"
+      },
+      {
+        "title": "S&P 500: 7403.05 (-0.07%)",
+        "description": "전일종가 7408.50 / 변동 -5.4502"
+      },
+      {
+        "title": "나스닥100: 28994.37 (-0.45%)",
+        "description": "전일종가 29125.20 / 변동 -130.8301"
+      },
+      {
+        "title": "다우존스: 49686.12 (+0.32%)",
+        "description": "전일종가 49526.17 / 변동 +159.9492"
+      },
+      {
+        "title": "USD/KRW: 1497.15 (+0.26%)",
+        "description": "전일종가 1493.34 / 변동 +3.8101"
+      },
+      {
+        "title": "USD/JPY: 158.83 (-0.01%)",
+        "description": "전일종가 158.84 / 변동 -0.0160"
+      },
+      {
+        "title": "코스피: 7493.18 (-6.12%)",
+        "description": "전일종가 7981.41 / 변동 -488.2300"
+      },
+      {
+        "title": "코스닥: 1129.82 (-5.14%)",
+        "description": "전일종가 1191.09 / 변동 -61.2700"
+      },
+      {
+        "title": "KOSPI200: 1162.39 (-6.50%)",
+        "description": "전일종가 1243.17 / 변동 -80.7800"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.871 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.44 | GEX -0.3B$ (만기:2026-05-18)",
+        "description": "콜OI 230,543 / 풋OI 331,124 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.59 | GEX -0.7B$ (만기:2026-05-18)",
+        "description": "콜OI 110,570 / 풋OI 286,109 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $176.10 (-1.54%)",
+        "description": "거래량 17,101,328주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $741.91 (-0.07%)",
+        "description": "거래량 4,982,347주 (평균대비 1.1x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 53.5% (107/200종목)",
+        "description": "평균 MA 대비 위치: +1.9%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 28/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.64",
+        "description": "Date: 2026-04-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-04-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 332.407",
+        "description": "Date: 2026-04-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 2.0",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.59",
+        "description": "Date: 2026-05-15, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.73조달러",
+        "description": "기준일: 2026-05-13 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.33조달러",
+        "description": "기준일: 2026-05-13 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 8074.20억달러",
+        "description": "기준일: 2026-05-13 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.07억달러",
+        "description": "기준일: 2026-05-18 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 280bp (2.80%)",
+        "description": "기준일: 2026-05-15 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 75bp (0.75%)",
+        "description": "기준일: 2026-05-15 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: S&P 500, Nasdaq slip as inflation fears grip markets - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeHZISFY5c0VieUpubmxzRWRDZ1RDbW16U01UczVMQjJ6N0Eyc1JzOGtkdW1QaC11eFBRc1NqWjBwVWdLVXlaRkNROEFvTUxON1c4bVBIbTY3QnhzamdJUmlMcHYtOElpZXdNelhac0JVMTZyQkp3UWlTTkQzOEVaT0FLZ3BpT1lKc1BQcTJiUGxxYUJEX1UtUWVPWG9ybEhONXJYcnVVdmxwZ3ZvSnc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Nasdaq posts back-to-back losses as Micron's decline weighs down tech sector: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80S0lXdUZwZ3ZYb2tjQlEyODBoN2JuR01OZVlfMGFsMFJlNjY1dW1BWmJSUXNkMWY5U2NzVnM0dVVGRm9QMEZ0bzVvVWlhckRLSWZQRXJyaVZOQTB6T1F5eUxkcVZOSGt3TUM2UDJucGRxMDV3eVV30gF8QVVfeXFMTUUwejA1dUNZQVRQODZkZzZYZzdaOE8yUzljRDFqcUFGdHdXTDkxcjZFVUtaXzhVbE9sVWNBUmJROXJxSkFhWlJfMkF1WHRqd3pia0JDNGx0Rl94NXBVaF9vazhFdnZnaUxvakVDMzFXOF9SQWlCbjM0N3RreA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPb0tSaWR0eHdBUDdmTG1FSFdOS1NOeXp4UjRKM3NfY2xCRl9MaXk2UWxqbWk4ZXM3Q1hndkRINlhPSmNjeEZGNl9GX3NJczE2MmdsYnJQckF6QWE0M1hmVThIQWpxTzZSR081dXJSY2ZOOHcwQ2RXNnZoUzBid29rMzBmdlcwMy14a2pGNE9veXBRZ1dNZ1l3QWE5RQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Nasdaq posts back-to-back losses as Micron's decline weighs down tech sector: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80S0lXdUZwZ3ZYb2tjQlEyODBoN2JuR01OZVlfMGFsMFJlNjY1dW1BWmJSUXNkMWY5U2NzVnM0dVVGRm9QMEZ0bzVvVWlhckRLSWZQRXJyaVZOQTB6T1F5eUxkcVZOSGt3TUM2UDJucGRxMDV3eVV30gF8QVVfeXFMTUUwejA1dUNZQVRQODZkZzZYZzdaOE8yUzljRDFqcUFGdHdXTDkxcjZFVUtaXzhVbE9sVWNBUmJROXJxSkFhWlJfMkF1WHRqd3pia0JDNGx0Rl94NXBVaF9vazhFdnZnaUxvakVDMzFXOF9SQWlCbjM0N3RreA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: S&P 500, Nasdaq slip as inflation fears grip markets - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeHZISFY5c0VieUpubmxzRWRDZ1RDbW16U01UczVMQjJ6N0Eyc1JzOGtkdW1QaC11eFBRc1NqWjBwVWdLVXlaRkNROEFvTUxON1c4bVBIbTY3QnhzamdJUmlMcHYtOElpZXdNelhac0JVMTZyQkp3UWlTTkQzOEVaT0FLZ3BpT1lKc1BQcTJiUGxxYUJEX1UtUWVPWG9ybEhONXJYcnVVdmxwZ3ZvSnc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "China Will Open Its Market to AI Chips From US, Nvidia’s CEO Says - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcHFnZHNZYjZkSXpjRXFQV3ZJbEZva3V2di1WNUZ6clVxbUZSckdrTDF1OGxiaS1ubjdPemxqejVXY3FmQnFZbFM0RV9SRzhQS1BSZkZ5N3VrcDhicW5MNU5ZYnZUZWpQYUV3TTU0Wk5BYTNSWnB4OXRpRE1YZWtXcTBkc0FHMUNxT29lME9pcUVSMXg0cU15U1dMMjh5bnlxakNXNEhEX2VxLU93UkRvX2ZjUVl0dw?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "​Taiwan Semiconductor Manufacturing (TSM) Among the Best Stocks to Invest in According to Billionaires - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYTMydzladjRfeVgwT0FfcUo3Z3M5N0o2bzB3am1qVXJJSktNVkZ2dU9FUUxyZjZEb1BFcndGR3d2eXNCVnpuV1RwLUwyUkhxNFRwN0VRRTJRb1pvRWE2RDlpQW16dnF3WTZCcVZxWml2ZWJMN3pvaTRfdUZHbFQxTHZhMElzRmJINmY1Z0ZOT2NvSXVieFo0VlFRNnFxeGNFa05NcVdITENnd29rZGc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Chip stocks surge as semiconductor ETF SMH soars more than 40% since the start of April - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbzJLUjE5bzRXbWlXOFRQNkZ6c0dXQTZQOGhOZUsxZUtTV1ZUaE9nZ3lMc1M1SEpQMDV4SjRkaVVWM1pFNmpuN3dNOUtYek9zd2t3UkdQUUh5VjhHeDRVQnJhTGxQX29BRHlXTlZzcFB3WHVXaFBjc1VMYnZwRVBwNThiSUtkbm9MU2JldVBTbDlUeTREOUZrUEw4cDU5RHlPbi1rZmd3MTF2TFpnOTl6QlZ6S2VCZ3B3SG1WVFdNSEkwZw?oc=5",
+        "press": "Seeking Alpha"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Leveraged ETFs for Samsung, SK hynix stoke KOSPI volatility in Korea - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOME43UmZSWXU5X2wzRDVKMzhXV2ZWdDdhX19Xc3h6MGVLZmQ0bTFKOXExVVJaZVU5VFRPemNQRnFtanpRNjRjek85RGZhS3dJQ3BrbEcyTGdUaTFNdENWc3lRRkF1bFJRVFVKWmVZMXJLMThVak9UbU9hallyY3ptVNIBlAFBVV95cUxNR0FJemJPb1czMDRIRE9XUjduN0tMY2Q2M3diQ0s4Qk9hV0FZT0xRTGM4a3VFYzVqNFZfT3FVQnpZUW40VGRMVUhHREFrWkRrSjBzZ2dLRlZVOVRpZDdhS1VzYXNVV1d0dG5CR3V0cnhIU1dDVk0yVWZXcW43NktjTmpILVV2cW1JUWRhSGJJSjdxS0Nu?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "KOSDAQ 'Cold Dish' Amid KOSPI Surge - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRWM4ai1vRVd5aVFEdDNLREI2OWlCdUlQNk5HbmFRV0RkemM1cnJCMmdBUkJBVWxtZFZGMHBzWVNhalVTZ2FNUVRLRUw2VHNROFd0Q2dNeFFGZ1Vuc3pBYzVrOHVDWmlMWHRoTE9BS2o4NDE1ZzBXQ0h0YXR3Y2dkMk1TdG9hbFo0dVdwY2Vn?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Leveraged ETFs for Samsung, SK hynix stoke KOSPI volatility in Korea - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOME43UmZSWXU5X2wzRDVKMzhXV2ZWdDdhX19Xc3h6MGVLZmQ0bTFKOXExVVJaZVU5VFRPemNQRnFtanpRNjRjek85RGZhS3dJQ3BrbEcyTGdUaTFNdENWc3lRRkF1bFJRVFVKWmVZMXJLMThVak9UbU9hallyY3ptVNIBlAFBVV95cUxNR0FJemJPb1czMDRIRE9XUjduN0tMY2Q2M3diQ0s4Qk9hV0FZT0xRTGM4a3VFYzVqNFZfT3FVQnpZUW40VGRMVUhHREFrWkRrSjBzZ2dLRlZVOVRpZDdhS1VzYXNVV1d0dG5CR3V0cnhIU1dDVk0yVWZXcW43NktjTmpILVV2cW1JUWRhSGJJSjdxS0Nu?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Leveraged ETFs for Samsung, SK hynix stoke KOSPI volatility in Korea - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOME43UmZSWXU5X2wzRDVKMzhXV2ZWdDdhX19Xc3h6MGVLZmQ0bTFKOXExVVJaZVU5VFRPemNQRnFtanpRNjRjek85RGZhS3dJQ3BrbEcyTGdUaTFNdENWc3lRRkF1bFJRVFVKWmVZMXJLMThVak9UbU9hallyY3ptVNIBlAFBVV95cUxNR0FJemJPb1czMDRIRE9XUjduN0tMY2Q2M3diQ0s4Qk9hV0FZT0xRTGM4a3VFYzVqNFZfT3FVQnpZUW40VGRMVUhHREFrWkRrSjBzZ2dLRlZVOVRpZDdhS1VzYXNVV1d0dG5CR3V0cnhIU1dDVk0yVWZXcW43NktjTmpILVV2cW1JUWRhSGJJSjdxS0Nu?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [
+      {
+        "title": "[국제금융 브리핑] 트럼프 \"이란 공격 보류\"에도 브렌트유 112달러 돌파...",
+        "url": "https://www.tokenpost.kr/news/international/360974",
+        "press": "www.tokenpost.kr"
+      },
+      {
+        "title": "“개미 아닌 야수라 불러다오”…‘빚투’ 신용융자잔고 또 사상 최대",
+        "url": "https://n.news.naver.com/mnews/article/021/0002792100?sid=101",
+        "press": "www.munhwa.com"
+      },
+      {
+        "title": "[오늘의 사설] \"국채금리 급등...긴축의 시대 대비해야\"",
+        "url": "http://www.nongaek.com/news/articleView.html?idxno=95426",
+        "press": "www.nongaek.com"
+      },
+      {
+        "title": "[위기의 상장사] 캐리 경영진 '42억 자금 유출' 의혹…상폐 리스크 확대",
+        "url": "https://dealsite.co.kr/articles/161860",
+        "press": "dealsite.co.kr"
+      },
+      {
+        "title": "“개미 아닌 야수라 불러다오”…‘빚투’ 신용융자잔고 또 사상 최대",
+        "url": "https://n.news.naver.com/mnews/article/021/0002792100?sid=101",
+        "press": "www.munhwa.com"
+      },
+      {
+        "title": "[오늘의 투자전략] 코스피 급등 속도 부담에 숨고르기…반도체 변동성 ...",
+        "url": "https://www.etoday.co.kr/news/view/2585733",
+        "press": "www.etoday.co.kr"
+      },
+      {
+        "title": "[막전막후] 양향자가 쏘아올린 '반도체 선거', 판 뒤집을까?",
+        "url": "https://www.pennmike.com/news/articleView.html?idxno=120633",
+        "press": "www.pennmike.com"
+      },
+      {
+        "title": "[최석원 칼럼] 변동성 커진 코스피, 앞으로 어떻게 움직일까",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=138584",
+        "press": "www.opinionnews.co.kr"
+      },
+      {
+        "title": "'노사 갈등' 삼성전자, 스마트폰에 '외부 반도체'…1분기에만 2조 규모 ...",
+        "url": "https://n.news.naver.com/mnews/article/008/0005359616?sid=105",
+        "press": "www.mt.co.kr"
+      },
+      {
+        "title": "[막전막후] 양향자가 쏘아올린 '반도체 선거', 판 뒤집을까?",
+        "url": "https://www.pennmike.com/news/articleView.html?idxno=120633",
+        "press": "www.pennmike.com"
+      },
+      {
+        "title": "[최석원 칼럼] 변동성 커진 코스피, 앞으로 어떻게 움직일까",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=138584",
+        "press": "www.opinionnews.co.kr"
+      },
+      {
+        "title": "[어제장 오늘장] 대내외 이슈로 출렁이는 국내증시…'롤러코스피' 장세",
+        "url": "https://n.news.naver.com/mnews/article/374/0000510951?sid=101",
+        "press": "biz.sbs.co.kr"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "OASIS: PROPOSAL URGES TOKYO STEEL TO REPURPOSE UNDERUSED STEEL PLANTS AS DATA CENTERS TO DRIVE GROWT",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "US MILITARY OFFICIAL SAYS IRANIAN COMMANDERS EXAMINED FLIGHT ROUTES OF AMERICAN FIGHTER JETS AND BOM",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "NEW ZEALAND CARD SPENDING RETAIL (M/M) APR: -1.3% (PREV 0.7%)\n\n- CARD SPENDING TOTAL (M/M): -1.6% (P",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "NEW ZEALAND PPI OUTPUT (Q/Q) Q1: 0.8% (PREV 0.1%)\n\n- PPI INPUT (Q/Q): 1.4% (PREV –0.5%) [...](https:",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "#OOTT | OIL SLIPS AS TRUMP SPURS OPTIMISM OVER IRAN DEAL – BBG\n\n [...](https://x.com/LiveSquawk/stat",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "NIKKEI FUTURES TRADE AT 61,595 VS CASH CLOSE 60,815 [...](https://x.com/FirstSquawk/status/205649954",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "U.S. 10-YEAR TREASURY FUTURES SURGE 10 TICKS, 30-YEAR FUTURES RISE 13 TICKS [...](https://x.com/Firs",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "U.S. WTI CRUDE OIL FUTURES DROP $1.54 OR 1.42% TO $107.12/BBL AT OPEN [...](https://x.com/FirstSquaw",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}
