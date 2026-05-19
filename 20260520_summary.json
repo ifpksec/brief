@@ -1,0 +1,245 @@
+{
+  "meta": {
+    "generated_at": "2026-05-19T23:36:48.929830+00:00",
+    "run_date": "20260520"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 25,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 99.31,
+      "change": 0.34,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.67,
+      "change": 0.95,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 18.06,
+      "change": 1.35,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7353.61,
+      "change": -0.67,
+      "insight": "전일종가 7403.05 / 변동 -49.4399",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 28818.84,
+      "change": -0.61,
+      "insight": "전일종가 28994.37 / 변동 -175.5254",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 49363.88,
+      "change": -0.65,
+      "insight": "전일종가 49686.12 / 변동 -322.2422",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1492.32,
+      "change": -0.32,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.02,
+      "change": 0.1,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "고객예탁금 소폭 증가 및 프로그램 순매수 유입",
+      "tag": "Bullish"
+    },
+    {
+      "point": "삼성전자 노사 갈등 심화 및 파업 위기 고조",
+      "tag": "Bearish"
+    },
+    {
+      "point": "외국인 순매도세에도 국내 증시 비중 확대 양상",
+      "tag": "Neutral"
+    },
+    {
+      "point": "반도체 대장주 간 대기업 경영평가 희비 교차",
+      "tag": "Neutral"
+    },
+    {
+      "point": "하반기 증시 반등 대비 분산 투자 필요성 대두",
+      "tag": "Bullish"
+    },
+    {
+      "point": "토스·네이버 중심 오프라인 결제 시장 경쟁 격화",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "국채 금리 급등에 따른 3거래일 연속 하락세",
+      "tag": "Bearish"
+    },
+    {
+      "point": "인플레이션 우려로 주식·채권 강한 동반 하락",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 25 기록, 극단적 공포 구간 진입",
+      "tag": "Neutral"
+    },
+    {
+      "point": "엔비디아 실적 발표 앞둔 시장 경계심 확산",
+      "tag": "Neutral"
+    },
+    {
+      "point": "옵션 딜러 숏감마 상태로 인한 변동성 확대 우려",
+      "tag": "Bearish"
+    },
+    {
+      "point": "성장주에서 가치주로의 자산 재배분 권고",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "외국인 매도 폭탄에 코스피 하락…조정 후 반등 나올까",
+      "url": "https://n.news.naver.com/mnews/article/374/0000511218?sid=101",
+      "press": "biz.sbs.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자 노사 협상과 금리 급등에 증시 변동성 확대",
+      "url": "https://www.tokenpost.kr/news/market/361390",
+      "press": "www.tokenpost.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자 노조, 파업 위기 속 성과급 제도 개편 요구",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZGZ6Q0hKUkF0a0haRWYxY2x2azlPWTFaQVhHUW91MVdHWmlXUmpxdEtROXhtcXBKZHRUd01OT1YzNVloWmNlTE1wVThlN0E2NmFtU0M3dU1mSC1rNkl5VmNfSTRCSFVoLVVaSi1ldjlPMFVDeWhFeDRhTXdWekwzVHVoUjMzQ2Jq?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "SK하이닉스 대기업 경영평가 1위, 삼성전자 2위",
+      "url": "https://www.ngonews.kr/news/articleView.html?idxno=230032",
+      "press": "www.ngonews.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "변동성 장세에도 레버리지 상품에 베팅하는 개인",
+      "url": "https://www.etoday.co.kr/news/view/2586147",
+      "press": "www.etoday.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "토스·네이버, 오프라인 결제 단말기 시장 격돌",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZnVSZXJyTHpaQ00yQURKQ0haenZVUnJWc0RKTk5IMzRVSy1ib0lWWlByNXJMMXptUWc3SmY3SmN0SGhVLTNScE4tYWFVUmJ4S1ZEMmhnYlpmN19Yai1wSFRMbHVIOVBMWTZhU3Fvam1xZktjeWxDa3BlRkVSM3NBeGs1M1N5UXBJ?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "펀드 청산 사이클 진입한 LB인베스트 성과 기대",
+      "url": "https://www.topdaily.kr/articles/110194",
+      "press": "www.topdaily.kr",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미국 폴슨: 인플레이션 및 경제 전망 리스크 심각",
+      "url": "https://x.com/",
+      "press": "Market News Feed",
+      "source": "telegram"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "금리 상승에 S&P 500 3거래일 연속 하락 마감",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VZUpXQkFFQ3RybVkyRUFrWnlXRDV3WlRrT05hanpjWF9LblNyY28wWXEzbWxaU19uNW5hcFJyMS12SE9TN0ZibnFkd0xxS2drOUgwZFc0ME5abE9SU3hZQXhURlhGb3p6MjZkYkpZb081TnAwN1Jz0gF8QVVfeXFMTTNKMGsxemF3dGN1S3VqUHZRVmN0UzJjUGpjVUU0VWpwekVKXy1BRmZMMnN4RjJpRDVMbVdHT3FMcmVsOTcyZTZxVGxwLXdqdjZJeXQzcEpHbGtlaDRvc3h2eEJPNUoyRUYyMWR2czV3VDhNUzNndW5KdzgzSg?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "인플레이션 공포로 채권 매도세 심화, 미 증시 압박",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeTBGUjFqR19sQlMwZFZXU1FIc29IXy1FRDQ5aE1HbWdzcHR6THl2eWl1c0VnRHJSR3hvOVh5MHVoc2x6cnEwU0YzMVBwQmR1YjhONjRjSDd1QVgxcVJBcXNGVFVfQmlOY2RRT09QWUs5NzdCMEszOWIwODVQTGVBeGNBaTdVX0U?oc=5",
+      "press": "WSJ",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아 실적 발표 앞두고 미 주요 지수 선물 혼조",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNFQ3bWNnZnFHdTlHME9KS0JzbzRtb191MDluT25naHJtVm90ME90U1pLOEducnVQcW92YUZMY0tnLW1jN0duaHpraUYxajBGMElfTkFBM2FrTDJDRFZGVjZFTEZTZVNWSDQ2TTVmeTgzam9zZGR6dVNydlJtaFM1Nm85aElDeElpd1VScjFwTlR4eHNfWm1pQ183bEpmNEtTUUQxWjQ5dEpDYnl2aVV4Y1AtN3dHbEgyYjh0R3BNMkNaLVJFNFVjSnJvWWljQQ?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미국 증시 전망: 성장주에서 가치주로 재배분할 시점",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaG8xd2duUE40TTlnVEpxdzRWeUV1Vlp6RW9Ed3FWdWtlZkxFdll0VHBiOGtrTHFUZ0ZFUi02b28xWUhGT0x0NjRnOGVtNm9sTFlYcjg0NGxXNHoxRVJtenJZTGxhbjRMdk44dHFRVVVGcGdsTFB0aGwtVjBBdnJZUEhXR0c0d21HdGxteHhKUk52RGI2RGpj?oc=5",
+      "press": "Morningstar",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "TSMC 대신 인텔 주식을 매수해야 하는가?",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOThlVTBuS1FEeVdwdkJ1OTRncnpRSUx1RGRqU1QxMmtWd003U1pvdzlPeUVidkdPcmpnM19fQWR1RDlVUWgxNU02bjFISnBwdU42bTgzcy1IbzV2RWVSUGFyWnVqM0FpY1Y2ck1XOU16ZWVCZmFOZWRKSnVjTndQeEt5Sm5fN2c5aDhNazFvRndYUHFrVFU3Yw?oc=5",
+      "press": "The Motley Fool",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "국채 금리 급등으로 나스닥 3거래일 연속 하락",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVGZSMUg5RUxKRlN2NlZWRE1CS2FLQjNYMXpES2c3ZW1WNUR0OHg5WFo2cnhqMnN5MzJLZ0NxWnRBM09TanRVcDM4b1VXdEZ4dzFqUGs4aDNuNmRRYnRkT1RfQkNxNHVJYlpobTI4MUlibERyVkxOa19mVEJyMUR1UGtKUXRaa2xqZnZjZThUTUs?oc=5",
+      "press": "Investopedia",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "트럼프와 자녀들, 세무조사 영구 면제 혜택 부여",
+      "url": "https://x.com/unusual_",
+      "press": "Market News Feed",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미 상원, 이란과의 전쟁 종식을 목표로 하는 법안 추진",
+      "url": "https://x.com/unusual",
+      "press": "Market News Feed",
+      "source": "international"
+    }
+  ]
+}
