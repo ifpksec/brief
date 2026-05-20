@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "generated_at": "2026-05-20T23:36:07.675952+00:00",
+    "run_date": "20260521"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 27,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 99.13,
+      "change": -0.18,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.57,
+      "change": -2.04,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 17.44,
+      "change": -3.43,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7432.97,
+      "change": 1.08,
+      "insight": "전일종가 7353.61 / 변동 +79.3604",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29297.7,
+      "change": 1.66,
+      "insight": "전일종가 28818.84 / 변동 +478.8574",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 50009.35,
+      "change": 1.31,
+      "insight": "전일종가 49363.88 / 변동 +645.4727",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1496.45,
+      "change": -0.76,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 158.9,
+      "change": -0.09,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "삼성전자 노사 합의 및 반도체 훈풍에 투심 개선",
+      "tag": "Bullish"
+    },
+    {
+      "point": "고객예탁금 6조 원 이상 급감하며 대기 자금 위축",
+      "tag": "Bearish"
+    },
+    {
+      "point": "생산자물가 1998년 이후 최대 상승, 금리 부담 가중",
+      "tag": "Bearish"
+    },
+    {
+      "point": "달러/원 환율 1,490원대 하향 안정화 시도",
+      "tag": "Bullish"
+    },
+    {
+      "point": "반도체 대형주 중심 외인 수급 유입 기대감 증폭",
+      "tag": "Bullish"
+    },
+    {
+      "point": "KOSPI 프로그램 매도세 지속되며 상단 저항 확인",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "미-이란 협상 기대감에 국채 금리 및 달러화 하락",
+      "tag": "Bullish"
+    },
+    {
+      "point": "10년물 금리 4.5%대 진입으로 기술주 강한 반등",
+      "tag": "Bullish"
+    },
+    {
+      "point": "엔비디아·마이크론 주도로 반도체 섹터 강세 지속",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 27(공포) 구간으로 저점 매수 유입",
+      "tag": "Bullish"
+    },
+    {
+      "point": "딜러 롱감마 포지션이 시장 변동성 억제 역할",
+      "tag": "Neutral"
+    },
+    {
+      "point": "하이일드 스프레드 안정세로 신용 위험 제한적",
+      "tag": "Bullish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자·SK하이닉스, 프리마켓서 동반 급등…노사합의·엔비디아 호실적 기대",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026052108282348659",
+      "press": "newsway.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미·이란 종전 협상 기대에 달러 약세…달러/원 1490원대 중후반 전망",
+      "url": "https://www.newspim.com/news/view/20260521000092",
+      "press": "newspim.com",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자 특별 주식 보너스 합의로 파업 위기 모면",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0lqYU5maVU4ckpHUnBTOHM4MHdFNDZ3QTUyVHZwSng0YWZKOWxrWmZaMDFkbmhwd3R1WDNmaDFXWFhxSWt4WXdzUkQtUkh5ckNPQ1RyWl82MmlsSk5zODNod1J4MUJlbk9iTU1HWlphcm9DNDh5eWQtVDdKODlVVDVmRDM3NG9G?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "생산자물가 1998년 이후 최대 폭등, 한국은행 압박 가중",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQm5BdkVxdEtqdHpRelNiNi1lbnJZcFcxZ1FzQlRCZkFfcXN3Mnp3a1VvTi14dHowbjhJVmVuUC1CMEM4cmhuLTVEYnFDU1hjdEtOQWZ0QVlNTUFVd2dtS2xJSHZzYUpVWDR5T2NyM25ZRmZ2MjROeWFVUURmc1R2MHZFNXc2YjQ2N0xpUlBB?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "노사 합의에 미 증시 훈풍까지…프리마켓서 ‘30만전자’ 터치 기대",
+      "url": "https://n.news.naver.com/mnews/article/011/0004623087?sid=101",
+      "press": "sedaily.com",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "한국 증시 랠리 고점 근접, 역사적 급격한 조정 경고",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGxPRkhTOXN4ZWVMaXB0T0xGdDdMQ21YOUxVMnpxTjM3SXdiNHRPY2FvWmItTy1fWUp1bWZUS0dJNnNiU0lpQzJzOTZhTnAzUmpLX2Y4YXQyUnBKNDVvQUk4UndraVFDNExsQ3dOTnFHd0lWZXktQ2hqVGVvaGJwd9IBlAFBVV95cUxNanpwMV9jbmdsaV9INUVMV29LSXRtaUlfNlQ1TkJxNUJjOURYMlNjQUhncTk0Sl9xQlZjaEQ0ZDYtOG1CdkNmUlRRNDc4VXZLOXZHd1laLUFuQW9mbzlzbGQ5Q0p1T3YtTjlzdlN2UVBOWmVWTHg2YUNHTXRidmxFSlhEQU40aWJTZWJUYXF6VXdqUm1C?oc=5",
+      "press": "Chosunbiz",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자 반도체 임직원 최대 6억 성과급 지급 잠정 합의",
+      "url": "https://www.smartbizn.com/news/articleView.html?idxno=144412",
+      "press": "smartbizn.com",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "NVIDIA CEO: 하이퍼스케일 설비투자보다 더 빠르게 성장할 것",
+      "url": "https://x.com/MarketNews_Feed",
+      "press": "Market News Feed",
+      "source": "telegram"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "금리 및 유가 우려 완화에 증시 반등, 다우 600포인트 이상 급등",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtV09DWGhSdVlkR3ZUQzUwS2hpRUVfUEszWHFMWExWUFVBbHN1VFlra21kUUZxMVhsZGlmSk8tVHRjMzN0dTJJc2dtd201aVVzUi1obFhXZTBWLWxiUG15bWNQb0Z4Y1piRm54UWUxNFJKUzg5ZGFn0gF8QVVfeXFMUFpNMVdNZHdzV3RxMFRrT08yLXhXMmtlc0k1OTNBTXh4emhrSVhUdEx4eDdMOUZ0R2ZhNk1YcmpUMllfUnZRS2lvOXpscGgyV3pjN3pBMW5Ua1hHQldVTTJULU5KUW1VWjQ2ZDVjUktzVDFMRWs4WEpLV3lLTw?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "마이크론 주가 급등 원인 분석",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVVFCTnVLRy1BS1BhbGpxd2w3NlpMVEF2anZjRlBveHdlOEZ5RlpqMUZtVjFkQ1JMeFpqOXB1dVU4UmJPQWNDa0lXWWZHOHZOUXBydGlBcGJ6aDJjdUJlUDBPMWMzWUZfaXZYb3lYOEpLOTl2a2toLW9mMXVCdHVROS1pMzUwQ1JMZ0lkTWMxOU1pLWlZM19tTkRB?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "미-이란 합의 낙관론에 따른 유가 급락 후 소폭 반등",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYmIxX2ZSVllHWks3Vmp3aU5wdEFac0drTk9FdmlYVTBfRUFRWE5IM1NqTVVlWW1KSkFIbWtWd1B4ZXNoUFBhUmZVOTVITzlud3hHZkk3TjVOWUs1YmZKcmNvQm1MVS1zcWJhdUNhSWw1VldZUGladlNqRzVuVlRXbUlIZlMxcVZxSGJuMmd0U1FSZWNfbWI2aTRJdjk3dw?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "짐 크레이머: 기술주 투자 세계는 변했으며 과거로 돌아가지 않을 것",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOajNMVzZiRmFlLUpfMFVxclByWThmVTNYUUtMMzVVYUE3bTBXTmxoVFV6eDhOV3psWEU4RnZpd0lEa2g0ek53SHRZbXd4QktxSGZPSFA4OEcxOVNzRVBnZFd3V09faTBJZlUzM29HWjN5dXFqbXF4WXU2cWxpNk1vdEhwVGE0UGFGYWxVeUt6Rk5CR1cxSDREN0lPcVFlbkdoSHF1d1BmcTJYeWZYNE56bWNfVmtFUdIBuwFBVV95cUxPamVXRkx5bDhFS3FhblZ4UHJ5dVZrUGp5VXBqNHpGV0I1STFQU3A0TXlMNFRFSXhXMTE4N0hPcGY3bVVyOFVwWWx2UGdLNDhWYzJ6dFJURTY2a2hOUW9SOG9PQVJuVlkzbEo4RnVKSjV4M29EekZnNk51T1dnRl85aTBnZjd1ZXVHQXR4eFE4UUMwUGU4UnkzOWdOVGl6aVFBLV83ZnBjRURvdTNJeF9KbWRvZ1ozQm42dHJJ?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아 실적 발표 앞두고 기술주 보합세, 스페이스X IPO 세부사항 제출",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPblo4dEVVaE5DOUxDbU5FMWJ0OHpDR3NfMER4RHJBMXd3bndCY2RWajdLU3ZjM3NUMkYwN2hObWZqYUFOTnVUcUZlYVNXdHhHX1BUcTNaV0NvR2V4emlOcVltNkV5YlI5Y0tmRWxfN0x3b0VxcWRXdHVSYktfeGlzNnE1UGUybWFqUmF5eHh1T0kxbEE3S19aXzd6UGtTWlBXcUFnb2owT05aZzJWMExmWGV1S2ZZMHhRWG9TLUNFaGdXczllQ1Nhb1luaEJDV0NmdTJBemI5SUYzQ2ZNeExMOU1uVmNUQk0?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "이란 전쟁 우려 및 연료 가격 폭등으로 오리건주 경제 전망 악화",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPY242eFBvVGpBY0xZcEJWUU1lVVFCVGN0OXVxY3pNa3RTX2lNM2MybFItU0hGWXJRZkRTNGdnd3RWTWtlTmM3RV9uYjV4VHVwaWpVTUpLZFJCcGhXazlmQXR6SHZUWTZDeXdVSHotenpfa052MUp2SGgxQlVkdkw5VE1TSXJnaDFTSVRFQVgydzdGbkwtVWRWV3Atam52b195Sk5CUnNoVUpnMURzRWptT1NJZnFBLVE?oc=5",
+      "press": "Oregon Capital Chronicle",
+      "source": "international"
+    }
+  ]
+}
