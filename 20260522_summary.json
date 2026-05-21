@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "generated_at": "2026-05-21T23:36:40.129353+00:00",
+    "run_date": "20260522"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 29,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 99.19,
+      "change": 0.08,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.59,
+      "change": 0.31,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 16.76,
+      "change": -3.9,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7445.72,
+      "change": 0.17,
+      "insight": "전일종가 7432.97 / 변동 +12.7500",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29357.27,
+      "change": 0.2,
+      "insight": "전일종가 29297.70 / 변동 +59.5723",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 50285.66,
+      "change": 0.55,
+      "insight": "전일종가 50009.35 / 변동 +276.3086",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1499.77,
+      "change": -0.54,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.0,
+      "change": 0.07,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "삼성전자 노사 타결 소식에 삼전 8%, 하이닉스 11% 급등",
+      "tag": "Bullish"
+    },
+    {
+      "point": "원/달러 환율 1,500원 하회하며 원화 약세 압력 소폭 완화",
+      "tag": "Bullish"
+    },
+    {
+      "point": "고객예탁금 감소했으나 반도체 중심의 강력한 수급 유입 확인",
+      "tag": "Bullish"
+    },
+    {
+      "point": "코스피 프로그램 매매는 비차익 중심의 순매도세 기록",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 29포인트로 역발상적 저점 매수 관심 구간 진입",
+      "tag": "Bullish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "미-이란 평화 협상 기대감에 다우 지수 사상 최고치 경신",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미국 10년물 국채 금리 4.59%로 상승하며 금리 부담 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "엔비디아 실적 발표 후 기술주 변동성 확대 속 지수 반등",
+      "tag": "Neutral"
+    },
+    {
+      "point": "SPY-IEF 상관계수 고공행진으로 인플레이션 우려 국면 시사",
+      "tag": "Bearish"
+    },
+    {
+      "point": "옵션 시장 딜러 롱감마 상태 유지로 시장 변동성 제어 기대",
+      "tag": "Bullish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자 타결에 환호한 코스피…삼전 8%·하이닉스 11%",
+      "url": "https://n.news.naver.com/mnews/article/057/0001950303?sid=101",
+      "press": "www.mbn.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "[어제장 오늘장] 국내증시, 다시 8천피 향해 시동…투자포인트는?",
+      "url": "https://n.news.naver.com/mnews/article/374/0000511756?sid=101",
+      "press": "biz.sbs.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "'30만 전자·200만 하이닉스' 초읽기…AI·전장 광풍 속 LG전자도 주목",
+      "url": "https://www.etoday.co.kr/news/view/2587001",
+      "press": "www.etoday.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "[증시 포인트] 숨고르기 장세 전망...당분간 변동성 클 듯",
+      "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=138860",
+      "press": "www.opinionnews.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "Seobu T&D 주가는 무엇을 나타내는가? - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdWE3LWdSemlsTHN1S2hxeXpNakpJOFA3U3hmdDlEcFpRdjlYWnJmcG1YU01oV0I4cmxTMGtHa0h4N1ExZHNvNVNMZEpCV2FnMnFaaEJvcWFJMHE2c2lZaWNxbVAwZkhzd2FLZG1YVHF3cWc3TGRuamFoUmJQRS1aV2hoOW44R09fdHNJbVczRDV4TTc1U2R5UWdiQ0JSdlpfcUNMZFZxaWZLNUpHb3hyTGdOTHVkOER6Sk9CajI1amVBdlhnT2trMkprdWdJWGZPM0xDOVgwWXVQQTBPN0Jn0gHkAUFVX3lxTFBxMzVJdkVfakh6TUhFUi1GQmQzak1fLWl2dml0LUxYY1Q2M05kRVhGZEFTQktwZDh0emxJWXg5T2J6d05GQWRKeGE4STNmQ2dHS191Q2k5RWFHd3FrQlFzazBveWJrbmJQMF9tOEpvUzJleW16RnBPdHFibnNreFVDWnoxRzBHQUJ2b0hhS3Nya0YyX0ZwM3NzWUdWV01oVVVlSGJIQlFkSVczVlBOWGUxQzlNMVAwSjFEZC1KVGllMFRUdHgxQm1WVTRaZEVwcG9laFpnWWxiOE9yZGhEUF9LaHJvZg?oc=5",
+      "press": "simplywall.st",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "[더벨][인제니아 IPO] 코스닥 예심 통과…외국 기업 국내 상장 명맥",
+      "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202605220743561220104345",
+      "press": "www.thebell.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "일본 4월 소비자물가지수(CPI) 1.4% 기록 (예상치 1.6% 하회)",
+      "url": "https://x.com/LiveSquawk",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "시장·기타",
+      "title": "테이크투, GTA 6 올해 11월 19일 출시 재확인",
+      "url": "https://x.com/Watch",
+      "press": "Market News Feed",
+      "source": "telegram"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "미-이란 평화 협상 기대감에 다우, S&P 500, 나스닥 반등 및 유가 하락",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUVhtY1NxdnQyejhEeHBaX2ZKODNOZkFtVEtIX3JJaWZLNnpFUHNmTmxvMElrcXhSd3gwUGpRck9RZl85ZHZkOGdnMjRyRUw5X1FJQm9CZ3llSG9hcDczVE9QdzQ0Z1RKdXRqTUltNUdtbi1hWDhZc3hNdGx6ejRPNGhoUDM5cV93Vkg4QWxMVFRLYjRqRDZSNDNwZWtHbUhNdmZ4dUdaV04xbnJlNE5zbDNpSzJpa2lXV0FlSHFiZnJuMVpxRFMxUE5QcUxsQ1I2N1Y1Z3RtNGxmS0F3Z2M1TjlyRVQ?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아 실적 발표 후 기술주 반등세 주춤",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR3JlMmlEUDlVV2F5a3lNN0xYbzlyUTB4eFIwMmZJNmNZV2drSzctcmFOWDMyOVY2QkdZZDZvYWJLZEZJSWJCSkhDUlVGenVXRG9BRk1DMkdra19ybzJFT0MzM3RTSE9uOWVTbVZWZjJRNW1RcnVXZ21ZaEVOVXJGNmY1SnlWUnc?oc=5",
+      "press": "WSJ",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "다우 지수 사상 최고치 경신, 평화 협상 희망에 증시 리바운드",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPMmpFMUtvdER3cld0ak9xbXVrOWoyXzdlMURGbEgwdWItbFJtbXRwWWRmMXBnYzBNVG9tN194X1BYZVg0a3FEbEtqN2hiSEVtNEZnelN6UEMtWmFTT0JLczhCVGNxUy1BNnlISUJRVVB1aDZOX2FRaU52QUlzcVU1T1pLVVNVZEV1cHkwRDljanE3VG11eHFnVV9nMXctclhuZERnUGgxNkZIb1N6UV8tN2xyNTlmU0tEUnNPZjc3WTA3X3hheXRvSzRJczB3aE4td2Y1LWRjMWwyWl93WE85RE83Y1N6VlFxNUlhOExkS1ZaOUE?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아 주가 하락, 스페이스X 기업공개(IPO) 세부사항 제출",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZGZjdDRuQnRJbUUwY210NTFINXZ6WXhNWEhNU1VYbGlJV2lzdjg2Q1JLUGZoaXJhMG9RLTBwbVRjZjZmX2RPcEpPN1Q5b01ocnNpRzlzZmViMGRoQWZmX3VIa25HaVVwMV9xbTcxRDNpNGJWRHpQTHJLblZ3Y3dPVXFiVDBGdmRCYmYzTVJXRWk5Vmw3MWpfVkhlNVdGZGg1V25CNlZEVkpfbnZxYndsMGIyT25KTmdoaFBzY2I3OGlzSWlpVlJjcjR0SUh1S0tkU2hHUlIyY3Q?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "글로벌 전기차 트렌드 - 2026년 전기차 시장 전망 및 분석",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5QTnMzbGN4ajBTWWNPa1VOQU5ZQUtEa3M2NXZPS2JHUEtHeUpYUmZHYVU1dlN0OFBFeVVGWmFjR0pmVi13UTJPWVduN1pWaHdVbVJRb1JWYXNKcjNaZ1RRMk5FSTIyRmJYZExoUkxOTUFwRjNQTFdLTmJuU2h6VTA?oc=5",
+      "press": "IEA",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "구즈만 이 고메즈, 해외 확장 야심 꺾이며 미국 시장 포기",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd3ZXVG9VX0RQQkQyX2FsYlB6bFZ2VWJDdV83T0JoMDNPenJpejEzLWlBSV82VUhNbVdxMF92c0I2WXBmTzhIX1pva0FCVGF0QndwbnA5eEowZ2QxbWtpeUU2bDBwaUxrTlloRTcwdWRkT1JpamIwbjhKWHRwcG9aeEtvUTJleW8yQ3pUT3ZJUzJER3Zqc3ktT3BBSG0zNlZrVUxETWhCVV9iSmlNU1pv?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    }
+  ]
+}
