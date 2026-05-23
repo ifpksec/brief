@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "generated_at": "2026-05-23T23:35:50.423409+00:00",
+    "run_date": "20260524"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 28,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 99.32,
+      "change": 0.13,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.56,
+      "change": -0.61,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 16.7,
+      "change": -0.36,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7473.47,
+      "change": 0.37,
+      "insight": "전일종가 7445.72 / 변동 +27.7500",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29481.64,
+      "change": 0.42,
+      "insight": "전일종가 29357.27 / 변동 +124.3711",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 50579.7,
+      "change": 0.58,
+      "insight": "전일종가 50285.66 / 변동 +294.0391",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1520.53,
+      "change": 1.07,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.15,
+      "change": 0.17,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "환율 1,520원 돌파, 원화 가치 급락에 따른 수급 부담 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "MSCI 한국 ETF(EWY) 2.35% 하락하며 미 증시와 디커플링",
+      "tag": "Bearish"
+    },
+    {
+      "point": "신용융자 빚투 급증에 따른 금리 인상기 리스크 확산 우려",
+      "tag": "Bearish"
+    },
+    {
+      "point": "성장금융 펀드 매각 완료로 코스닥 시장 수급 개선 기대감",
+      "tag": "Bullish"
+    },
+    {
+      "point": "반도체 2배 레버리지 ETF 활약 기대 속 코스피 상단 타진",
+      "tag": "Bullish"
+    },
+    {
+      "point": "외국인 ETF 역직구 허용 추진으로 시장 개방성 확대 전망",
+      "tag": "Bullish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "미-이란 평화 협정 체결 가능성에 호르무즈 해협 긴장 완화",
+      "tag": "Bullish"
+    },
+    {
+      "point": "S&P 500 및 나스닥, 지정학적 리스크 해소 기대에 상승",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미국 10년물 금리 하락 및 VIX 지수 안정세 유지",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 28포인트로 극도의 공포 영역, 저점 매수 구간",
+      "tag": "Bullish"
+    },
+    {
+      "point": "옵션 시장 풋 우세하나 딜러 롱감마 상태로 변동성 억제",
+      "tag": "Neutral"
+    },
+    {
+      "point": "비트코인, 평화 협정 보도에 힘입어 전방위적 반등 성공",
+      "tag": "Bullish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "성장금융 펀드 물량 소화 완료, 코스닥 반등 서막 열리나",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdXlPLWtPOUlScWFMR3hjbVFvdG1ZLUVnWDJRZG5USGs5a3lJWVRrcGVBSFpuN1FGRjNpdXhqV1BCTi1VcDhEclhoajdpZ1RDUjRIUE5Iby00TDhLcjJlcUYtQnRiN1BpbTlVaFhqVUw1RC1fNzFfWFI4dFppbVVvdDlwNGlmVXd4VHAxZkRwRm1FVlZHRmg5cEtoTm5TSldLclE?oc=5",
+      "press": "Seoul Economic Daily",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "증시 빚투 급증 속 불안감 확산…금리 부담에 리스크 증대",
+      "url": "https://www.tokenpost.kr/news/market/362736",
+      "press": "www.tokenpost.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "외국인 ETF 역직구 길 열린다…정부 직접 거래 허용 속도",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1709955",
+      "press": "www.ebn.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "코스피 8000 재도전…삼성전자·하이닉스 2배 ETF 활약 기대",
+      "url": "https://n.news.naver.com/mnews/article/421/0008963097?sid=101",
+      "press": "www.news1.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "[이번주 IPO] 5월 넷째 주 수요예측 및 청약 일정 점검",
+      "url": "https://n.news.naver.com/mnews/article/277/0005767118?sid=101",
+      "press": "view.asiae.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "삼성 노조위원장 '정계 진출설' 일축, 재신임 받겠다 선언",
+      "url": "https://n.news.naver.com/mnews/article/050/0000106515?sid=101",
+      "press": "magazine.hankyung.com",
+      "source": "naver"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "이란, 호르무즈 해협 통과 선박 수 전쟁 전 수준 회복 합의",
+      "url": "https://x.com/DeItaone/status/2058313246495437216",
+      "press": "Market News Feed",
+      "source": "telegram"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "에너지·원자재",
+      "title": "미-이란 평화 협정 체결 보고에 비트코인 및 알트코인 급등",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUXVPWkUweXktaVJUV3ZJNExvY0ZEeV9jWnlMYUswQUdxaHBiVTc2Y0xIVjlHWHY4eW5wcnh4TVk1SW5ydmt0RUZzdDh4d1FiN0d1QW9VV0xzZHBBdGgtQXZpMXdmeUlWbE13a3VKOFM5ZlhCb3M3Wi04dWhYQV95c3NYRXhwUF83TGxjV1JHR25xeHZCbkJ3YXdvbw?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "트럼프 '이란 핵협정 재개 및 호르무즈 해협 개방 임박' 시사",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GekFKeFgteThEeDR5RXM5d1lBaE9aYm9wdnk2LXY5RUFOTXl6LS1tWHdDLWNhNEc5bW5lUmM3X1VHOTItbldiallXdm5UWTJFQ0ZGVXRvcC1qWUZZWkF4cDFfekTSAWpBVV95cUxNR2JTUFdkSGpMenRzU2pxNm5iT0UyWTJyOFJQQ3E5bGwxUGxzZVNBY2NpQWw5OFRfdlJ6dDltN053empCTjFIWVJDQjhDSHJ2b1ZTdFdRTlZTdFQwS0w2a1FtZDVzWWFrN3V3?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "트럼프의 3,711개 거래 내역으로 본 다각도 시장 전략 분석",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU1cyMHpiNG1IMGdLN19NRXl3cEhOSFBpdjV6MXZKcGxIZjlMblcxdUk1UldqLVkwTTROZ2VRMW9hRWpZV1hHMTM5NzNyUldUOVJTcGxSUkdKQjk2RGUyalpPdUtnaEI4WUdYTUZUZUhfTGs1UUtNRi0tNi1sc0FPNjlTaV9UalVIc09PMWlTQTU5aDNRMWJDeUdRTWIxbG5pN21VUFRNejVJeXhy?oc=5",
+      "press": "Fortune",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "NXP 세미컨덕터 및 하이맥스 주가 상승, 투자자 유의사항",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaVlWQ2tsMmQwREFrME1lbTlZNjRqOUhtb1BhVUVrZzE2WlZtSU9ZS1llRklmUGM5ZUNMTXphMGw5dUhmeTkwOW80bXR1cnZSZi1lbkJXZVRSUmJ6NlA4NE5OYjJWR3hwWWpHOTN5S25hS2N3N25wNWVheWRDaXJUUVVUSWt3QTc0VW1qUW4xMzZ6U3BCNXF4NkJKbjRxcjVtTHQxcA?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "스마트머니가 현재 공격적으로 매수 중인 25% 폭락 기술주 2선",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWUFBU0FtZ2d4RWNockw0emlIck9jSlIwOGtPZHl4SndaMkRURWM3d2xwQnpfbGFReWNPZ1JoUjg1QVI0Y3NuSlItYlQ4V3hZR010N2s1ZDZFT21Jbjh0UWlpS3VSOUdyUmRsVXVoa0sxc2Nnb0Q4aU13ZUF1d2gzR2YtaWNEVk1xXzh3bHFrb09oQQ?oc=5",
+      "press": "The Motley Fool",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "채권이 다음 시장 충격에서 투자자를 구하지 못할 수 있는 이유",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcmJLZEctTFh6UF9FWVEtTVNmQkJHT0JsanpGZFlNYWxKZDNxbGYxZTdoZTAwRHJPbUNUM01oeWFYc3hIdWlMTUw0eFgzRDJIdjRVV3p4MlJDa3dYd2ZTcXVteTA4bk8ydkQ0NE9KQXduOERxWklEN045anN6YWQ2MXVXMDJWbWZqQjhodno3NmVxUmlpTWNNUU1VTXQ1TnA3b25vRmV3dVJ0cmxOQi04Q3prMENBcDNlbTZHQ3d0T3N4SHdZbFY4OFlSUkJJQQ?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "S&P 500 사상 최고치 근접, 지난주 시장을 이끈 핵심 동력",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNDQzaHhqVEV4cVBRQUs4V0l5OXVCSG9RbUtYMHYtUDducmJEa1ZYQVlNR196SjZCb1Bjdk9Xam1RVThrbmNsRm1JTldId196SEZCQkZRV2xobE9xeFVjcFNVUnppdzBraG1LVy1tbkNlUS16el9yY3Nwal9VYnNhZ2xlezJidG5pWnVlX2pzV2hUcDM3ZThtU0thWmVjUURpc2R4UE9Daw?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    }
+  ]
+}
