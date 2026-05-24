@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "generated_at": "2026-05-24T23:35:30.610747+00:00",
+    "run_date": "20260525"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 25,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 98.99,
+      "change": -0.34,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.56,
+      "change": -0.61,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 16.7,
+      "change": -0.36,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7473.47,
+      "change": 0.37,
+      "insight": "전일종가 7445.72 / 변동 +27.7500",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29481.64,
+      "change": 0.42,
+      "insight": "전일종가 29357.27 / 변동 +124.3711",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 50579.7,
+      "change": 0.58,
+      "insight": "전일종가 50285.66 / 변동 +294.0391",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1520.48,
+      "change": 1.07,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 158.87,
+      "change": -0.09,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "고객예탁금 3.2조 원 급감하며 투자 심리 위축",
+      "tag": "Bearish"
+    },
+    {
+      "point": "환율 1,520원 돌파하며 외국인 수급 하방 압력 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "프로그램 비차익 매도 3조 원 출회로 지수 무거운 흐름",
+      "tag": "Bearish"
+    },
+    {
+      "point": "삼성전자 성과급 및 파업 이슈로 반도체 변동성 확대",
+      "tag": "Neutral"
+    },
+    {
+      "point": "EWY 2.35% 하락하여 글로벌 대비 국장 소외 가속화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "신용융자 잔고 36조 원대로 레버리지 부담 지속",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "미-이란 합의 기대감에 국제 유가 5%대 급락",
+      "tag": "Bullish"
+    },
+    {
+      "point": "국채 금리 및 달러 인덱스 동반 하락하며 안도 랠리",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 25(극단적 공포)로 저점 매수 심리 자극",
+      "tag": "Bullish"
+    },
+    {
+      "point": "S&P 500 종목 중 57.5%가 50일 이평선 상회",
+      "tag": "Neutral"
+    },
+    {
+      "point": "딜러 롱감마 포지션 유지로 시장 변동성 안정화 기여",
+      "tag": "Bullish"
+    },
+    {
+      "point": "주식-채권 강한 양의 상관계수로 인플레이션 경계 여전",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "매크로·금리",
+      "title": "한은 금리 인상 시계 빨라진다...인플레 압력 가중",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQVc1SWtBRXIyXy0tcW15M3k4OU9PVW81TDg1d2JfOTdLQ080NWdrakpUb29xWlZBUzFCUFpJRTdoaUhHY3gwODB0Vm9wVDV4aUlvNVZXTDBqT19LWm9JMkthLUVFVmZQZ1doQmNYOXNSUGFDcVlrdVczVnk5RmQtbTdBTXNTaGxQb2NzUERFWEQ4LWpfTnpDakotcktsc29zaTNWbzdLeGhaQTR5RDNLMdIBtgFBVV95cUxQMFllYzljbExLcEhJRzJHX1UzTkJMcEpJVkp4YzVyUWlKQUFvR29DUlZRckV1cHdEbzNPV3U0M3hLck96QWtzZE5DUlRhejFNZ1Y1Q0hNYjNtdGxJdEg3QnNBekJUMTl1SFE3dnhUMGVoVDB3el81aFJwWVhvQ2kxcHJVYms0WlBWRVAxSm5SSVlPUU95cVRFaTNFaTZnX3lnT2Z0V0FiX1UtM1Rxa2h1elNqbExuQQ?oc=5",
+      "press": "The Korea Times",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자 노조 투표율 85%...성과급 쇼크 파장",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzh2UVkwYlNHZFBpTDRFV0Uwc3gzRHNXaVVjQy1Qd0sxNkdlWWExcHRhWHFrenFaMGhOV3NpaDVCYTQ4Y2tCU0FwRDFyS0FvcWNEc2hSdkFBa2FyZEhiX2R4TzBNdkpVcGljRE1jbWNYS0V0YjN1ZUVQYjg1aksxTnVmM0EzeFB4?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 5월 거래대금 역대 최고치...반도체 쏠림",
+      "url": "https://www.tokenpost.kr/news/market/362866",
+      "press": "tokenpost",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "외국인 매도 행진 속에서도 담은 종목 꼽아보니",
+      "url": "https://n.search.naver.com/search.naver?where=news&query=%EC%99%B8%EA%B5%AD%EC%9D%B8+%ED%94%BD",
+      "press": "한국경제TV",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "업비트·빗썸 흔드는 거래절벽 공포...수수료 한계",
+      "url": "http://coinreaders.com/238305",
+      "press": "coinreaders",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "브렌트유 4% 이상 급락...미-이란 협의 소식",
+      "url": "https://x.com/LiveSquawk",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "증권사 모험자본 확대...발행어음 시장 급성장",
+      "url": "https://www.tokenpost.kr/news/economy/362862",
+      "press": "tokenpost",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "에너지·원자재",
+      "title": "미-이란 협정 낙관론에 국제 유가 및 달러 하락",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVnFCYnlEbXZpNEs3dTF4OWd0c3JkZnNzRVFiX3M1LWNGaFZtN3FmOHlEWFd5UjI0cFRxa1J2X0JVc0d1YVdUSVBKamhIdFA4T1JDbUZRQ04yVmxfQndhaXlNOHN1U1UtWENMX3hBc1ZZN2UtOUVKMlp0b0NQSkNDcEdNdDI5el9RUFFiRVBQNUJEcGQyTXlPN1BpMnNKNnVkbFVmTDdLOW54NmZ2WnhB?oc=5",
+      "press": "Bloomberg",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "증시 및 수익 급증, 이란 협정 임박 여부 주목",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOTBnYVJLT0R2cTR2MU1aamZEODVJSWpGeVNVNkNheG1lbVptdFRrdGhRb1FMUGxUUDM4eWZaRFRibkhCRzAyMk9YVm4za3NnM2w2T3ViUHVVTXhJWTktdmVGOUVGdkx3MjZESTlWQXU4dnBxbEpTd2tOTEZPNUhjQzZkeHd3clJqdW5OZF91MzBuYjNWTHk0dmNpaXdPUkI4SmNKOGQ0RF9PVGJnYWVYR0JMSVl6ZFVVQndNV0h6SVc4ZDA?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "2026년 5월 아시아 고성장 기술주 집중 탐색",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVVFkTUlmRlkycGtMWHc0NjJKMTFSVDVXR0FBcVdJZ2g2eE1DT1Z4QVhTUFo1NElFT1pZcS1vUENlbDNhdTlIa0NTcGdoNU4zSHVObGoyV210b3lPT3NrVEp6bGl1eEF1UzhHWURzdWx5RDdySjRDd0JFbFU3LWpEa1R6ckhBZ3pIQnNMQkhJSExxVFR2SnVuZGdVbnI0ZVpFRmM0OA?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "기대 이상의 성과를 내는 양자 컴퓨팅 2종목",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzZmOXJyUERDeUZGb29ON1pQT0otSkQ1Y2FxaFJub09BMjNGMFFodnlZZ05KZlNkNVQ4Qmh2NXF1bU9TcC1KMzk2LWVZOTczMmZ6LW9kaE85UmU5NTE3NG5TOFJpbzQ2S191U3lOMG9RTDgtb1dvaE9tdmpuT1o0ckI5UlBIOXFHM3VKTTVNd0FsQmRxTENNbWo2cDJvU2x1c1JsOGlR?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "로켓과 인공지능: SpaceX를 위한 적정 S&P 섹터는?",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4zMWo5VWx5d3F4M1NndGN5RXlEUzV2RURqTlhsLXd5T20zdnc1dWxiSlV2VWMwdTNBMmtLeGRZM2ZmX3kyU1FlcVJRbWlTY1hpQk9VWEI2Z2hZa0h0c2hybW4wTmJTMzdyX1dJ0gFwQVVfeXFMUFNiU1BsOV9EUDc0a3J5TnN4NzhHN1VrbnRLSVlyUEpZX2VXb2ZmZlRjVEp4NEpNY2VLQ2pvSlUwc2tIWUlHcGN4c0xqcUx1cEpmMWlOMDQzSndlT0g3b0hMQW10dWZMd0dxTERjeTF1dw?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "푸투 홀딩스, 중국 당국 조사에 주가 28% 폭락",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRWtvWXpxd2lUTldQcW5SLW5oQm9uQkxQNUtZTUlQcGZjT2sta2lsOEJmMFFPM1o0dVVTMDdGMWV4YUd3dHdJNTVWMk05TEJtVWhPN2FSX3pjM0d5b3NoWlNPaHlHSGRDbUl5MTRrVFJtcGE2OUROekxqSjhJNFNueHNrMldQLUo5ekJvZ1EtT1FuZ1RNYXVBTHRJM19iRTZua1NBX25KeE1LbzJ2MlV6RVZXSUtwQTBqRThzLWhhbw?oc=5",
+      "press": "Forbes",
+      "source": "international"
+    }
+  ]
+}
