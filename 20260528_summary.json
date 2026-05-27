@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "generated_at": "2026-05-27T23:36:40.396075+00:00",
+    "run_date": "20260528"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 25,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 99.22,
+      "change": 0.05,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.48,
+      "change": -0.27,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 16.29,
+      "change": -4.23,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7520.36,
+      "change": 0.02,
+      "insight": "전일종가 7519.12 / 변동 +1.2397",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29973.57,
+      "change": -0.09,
+      "insight": "전일종가 30001.32 / 변동 -27.7480",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 50644.28,
+      "change": 0.36,
+      "insight": "전일종가 50461.68 / 변동 +182.6016",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1500.33,
+      "change": -0.34,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.53,
+      "change": 0.18,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "고객예탁금 3.3조 원 급증하며 증시 대기 자금 유입 강화",
+      "tag": "Bullish"
+    },
+    {
+      "point": "코스피 사상 최고치 경신 속 반도체주 수급 집중 현상",
+      "tag": "Bullish"
+    },
+    {
+      "point": "SK하이닉스 시총 확대 및 삼성SDS 상한가 등 IT 강세",
+      "tag": "Bullish"
+    },
+    {
+      "point": "네이버의 배달의민족 인수 추진설 등 플랫폼 확장 기대",
+      "tag": "Bullish"
+    },
+    {
+      "point": "코스피 지수 8,000~10,000 시대 진입 낙관론 확산",
+      "tag": "Bullish"
+    },
+    {
+      "point": "레버리지 ETF 투자 열풍에 따른 시장 변동성 확대 우려",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "공포탐욕지수 25(극도의 공포)로 저점 매수 관심 구간 진입",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미국 10년물 금리 하락 및 VIX 지수 급락으로 심리 안정",
+      "tag": "Bullish"
+    },
+    {
+      "point": "엔비디아 등 AI 반도체 중심의 강력한 기술주 매수세 지속",
+      "tag": "Bullish"
+    },
+    {
+      "point": "중동 지정학적 리스크 재부각 및 미군의 이란 기지 공습",
+      "tag": "Bearish"
+    },
+    {
+      "point": "연준 역레포 잔액 바닥권 진입에 따른 유동성 경계감",
+      "tag": "Neutral"
+    },
+    {
+      "point": "주요 인플레이션 지표 발표를 앞두고 선물 시장 관망세",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 사상 최고치 경신…반도체주 수급 블랙홀 현상",
+      "url": "https://n.news.naver.com/mnews/article/374/0000512638?sid=101",
+      "press": "biz.sbs.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "SK하이닉스 시가총액 1조 달러 돌파",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFhvNUZxbXh0dDFMTnQ4VEdXNC03Q2FCemFMRVlrb3FHTnpvaklrWEdjS2NKOGQzaTQxaGJYOGFaRE0xZzcweTNWUjlCU1pnZU5RcHV6WTJ3XzdqbkhiZTU1Mkp0cUVwWlF5U2FPSFFmV1VLRURMcUJOMm5DcVRiVGNFenY3T0pHbDNBM0dR?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "네이버, 슈퍼앱 전략 가속화 위해 배달의민족 인수 검토",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX0pYUFdxZlhlbi03dTgxUWE2Tm03TWhwU0dQVUZ3aVM3eWYtUEF2OU11WDVYaV9sY2xyOHhvN213MXJvbFdXX0ZvYzNwS09KRktOUmwxSXFyS1BHbllnczg0TkFaWF9qeGVxOUgwbUtIbTFHOHRjNUNGOEh6WjdiOV80bFhtQXVE?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 재평가는 현재진행형... 8000 넘어 1만피 가능",
+      "url": "http://www.metroseoul.co.kr/article/20260528500056",
+      "press": "www.metroseoul.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성SDS 상한가·SK하이닉스 급등…IT서비스 관심",
+      "url": "https://www.etoday.co.kr/news/view/2588444",
+      "press": "www.etoday.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "레버리지 ETF 광풍…현물 넘어 파생시장 흔든다",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=740995",
+      "press": "www.econovill.com",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자 성과급 제도 논란 중심에 서다",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHFRTU5LY3ZFOEtfLVhVa0U1eDhTOHlLeEpFZmd3YlJNTE1uVTZkOTZleURHY3dWUDIxTU41YWZCNWlwOE1wdnFFQ1IxbXhicXVKekpTUGRNMDJ2aXFZR054aURmQ1U5ZzluN0laUXVjT05TX2RuYlp2b3ZoSF9hd2lIeUpqRDgx?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "부총리상 받은 '모범생' 키움증권 증권가 이모저모",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4417041",
+      "press": "news.einfomax.co.kr",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아가 여전히 매력적인 AI 반도체주인 이유",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWlnaElTZy1DVkgtakpKWkd4S3ZkeUYwdG5qTThTVmV1czhTbEtCcHBiUHZJVE5FaUxkOTY1Uk10RDZ3WEViOUE0Z0pPZXdBbEVtM2s2eEs0T2FncGFXczBaY2tDb1VuLWVuOWdEVHRIdndrMU1YR2xyaW1mNHZGSF9fVlZmOTAweVd5NXpNUXdnbGJNVTZleHdUSG5OUDA2M3c?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "월스트리트, 주요 인플레이션 지표 발표 앞두고 보합세",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hM1V1MmRicW13c1RpYkdtM0JzR3RUSnRMTVFmdWo2Z0hDUWNoV0VjS29Ld0NNMXczb3p3akg4R3VBYVZveXVJa1ZVdUpQVkVHbWh2Q1VRR1dqQ3FvUE92YmlWdDRCUjM4QVNXX3RZb2duZHFoMFI00gF8QVVfeXFMTVJKVFVEUDZZQmZJa083Uzd3ZVJleFI2cmhtODFpd1F3bmZtQWRKRW01Q0F1aWhfbWE3bm5lc1drTXhlMVZxVGJXcXBRRk5lUFpUMzhaMFlZTVJpX1ZCQTFQQnktVDZEd1puU3pyTFVld29JdUJVTl9sNWtMQw?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "반도체 ETF(SOXX) vs 기술주 ETF(XLK) 투자 비교 분석",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQM1N4QnJQX3ptdndNU0lLUGkzTTAwd2lOak5GVkZNcTVjeHRRSEE4ZlNyUTlSUFFIOF9zNHlGTzJTcnBFOEVWQWkzeUhBYlVYejNkQlcxMTV6SXp0TW5RTzZDeTZHeUgzZHZFcFJDUVNjeWtza2wxdXJ6dWp0TUJocFh4bWxCYUZLNGVhcGItalhBM3FWcE9GZXgta0ZkXzlCWl9rSTQtZ2hHNmZqazZ1TlNDYTlNd2c1VXhIOUsyeHFqYjlCVFVXMDBEd3ROWTlpdldHZl9sOHBqTGlQc285ejhOWlJnNG9XbHU2N0pYQzZ4VW5obmJjcGFRM0lkM2NL?oc=5",
+      "press": "The Globe and Mail",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "AI가 견인한 실적에 다우·S&P 선물 상승세",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdU1BemtudHk0bVpTVEpWOXVSVUdyb01scFJ1dVl2ZjJISlZuMGRfaVp3V3l6UVlpRVZsUU1ScmFwa3VUMzlILTVNYUF5b2NxdlZZLTgzcy1ycHhlNmhVVmxGNG9zWGJJcmVSVVZjREdSbDcwY0p0ck9VWk5EdzAwTUZ3UWd4b290Z05FUzMxMS1pRVJUdE1fNWhsbjI4TFNSRXItYmlGQ1d6S2VQY21ZWWkyQUpMVzJiY0dqWnJRbVU0SzI3aGc?oc=5",
+      "press": "Yahoo Finance UK",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "미군, 위협적인 이란 군사 기지에 신규 공습 수행",
+      "url": "Market News Feed",
+      "press": "Market News Feed",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "트럼프 소셜 앱 목요일 출시 예정",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5SZGtxbkVXa2dZZFBYTDhQS0o3Vm90SHd1SjBuTHlnMHhOOFhDMTNPeEtwNnRKcVFQRlp0aU42cGQzb0IwMVljb2J3VHdlYXBRcXdYTU9veU92VTJiTDlEeWZTTDZnemtBOW9YZlMxa0x2RWM?oc=5",
+      "press": "CNN",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "2026년 5월 주목해야 할 아시아 고성장 기술주",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUmZlTDNUNlc2a1JhQW9YV29HTWx5ZFFvNDZRR3d1QTcwUUpFQ1ZhLVlDN0M2LWdYQ1N6aHE2UjlqdXVYN2ZMTVlnT1A5OUVMQTNiWHNkOUhjZUZ1RUdlMTQ4NHFpRmdhdWgybEl6RDB5R2NjaHl6NHMwa1NrM2NzMmI3OHByeEt3LXFmYnlQdXNMT29qY3VPbHg4UnpENmlTLXQ3NQ?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    }
+  ]
+}
