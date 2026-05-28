@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "generated_at": "2026-05-28T23:37:38.701401+00:00",
+    "run_date": "20260529"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 22,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 98.99,
+      "change": -0.22,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.45,
+      "change": -0.58,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 15.74,
+      "change": -3.38,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7563.63,
+      "change": 0.58,
+      "insight": "전일종가 7520.36 / 변동 +43.2700",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 30223.89,
+      "change": 0.84,
+      "insight": "전일종가 29973.57 / 변동 +250.3184",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 50668.97,
+      "change": 0.05,
+      "insight": "전일종가 50644.28 / 변동 +24.6875",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1503.11,
+      "change": -0.15,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.22,
+      "change": -0.22,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "고객예탁금 약 4조 원 증가하며 대기 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "point": "SK하이닉스 질주 및 반도체 레버리지 과열 양상",
+      "tag": "Neutral"
+    },
+    {
+      "point": "삼성전자·LGU+ 6G 협력 등 차세대 기술 모멘텀",
+      "tag": "Bullish"
+    },
+    {
+      "point": "일부 코스닥 종목 실적 불확실성에 따른 하락 경고",
+      "tag": "Bearish"
+    },
+    {
+      "point": "원/달러 환율 1,500원대 유지로 인한 환차익 경계",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "국채 금리 하락 및 달러 약세에 나스닥 사상 최고",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 22점 극단적 공포, 역발상 매수 구간",
+      "tag": "Bullish"
+    },
+    {
+      "point": "중동 긴장 완화 기대감에 유가 상승폭 축소",
+      "tag": "Bullish"
+    },
+    {
+      "point": "S&P500 종목 절반 이상이 50일 이평선 상회 중",
+      "tag": "Neutral"
+    },
+    {
+      "point": "옵션 시장 하방 압력 존재하나 딜러 감마는 안정적",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "멈출 줄 모르는 SK하이닉스 질주…400만 닉스 전망도",
+      "url": "https://n.news.naver.com/mnews/article/374/0000512917?sid=101",
+      "press": "biz.sbs.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "삼성전자, SK하이닉스 레버리지 상품 과열 조짐",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWlM4LVJQdGpjSkFVNXJ6a1dxX2JwMXpVaTdwYXczWlc4RTJBdEptYjdTcUZqU0NxZXVoU2dOSTVDV1Y5NTQzTTFRVVNVLWpFMkdMRXdsbDlDT1lPcUJmb3hlOE94ZkhzblYxUU1FSTB2MWM5aGlYM1ZDRk1SX2lISGZnc3Y0ZnRnOUhTaVp3?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "기지국이 주변까지 본다…LGU+·삼성전자 6G 협력",
+      "url": "https://n.news.naver.com/mnews/article/001/0016106429?sid=101",
+      "press": "www.yna.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "전쟁 리스크 완화에 AI 강세…코스피 다시 달릴까",
+      "url": "https://www.ajunews.com/view/20260529082843495",
+      "press": "www.ajunews.com",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "역대 최대 실적 삼성메디슨, 글로벌 시장 초격차 복안",
+      "url": "https://n.news.naver.com/mnews/article/018/0006292790?sid=101",
+      "press": "www.edaily.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "와이즈버즈, AI 광고 플랫폼 영토 확장",
+      "url": "https://n.news.naver.com/mnews/article/018/0006292794?sid=105",
+      "press": "www.edaily.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "일본 4월 실업률 2.5% 기록, 예상치 하회",
+      "url": "https://t.me/MarketNewsFeed",
+      "press": "Market News Feed",
+      "source": "telegram"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "테크 랠리에 힘입어 S&P 500 및 나스닥 사상 최고치 경신",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1hM1V1MmRicW13c1RpYkdtM0JzR3RUSnRMTVFmdWo2Z0hDUWNoV0VjS29Ld0NNMXczb3p3akg4R3VBYVZveXVJa1ZVdUpQVkVHbWh2Q1VRR1dqQ3FvUE92YmlWdDRCUjM4QVNXX3RZb2duZHFoMFI00gF8QVVfeXFMTVJKVFVEUDZZQmZJa083Uzd3ZVJleFI2cmhtODFpd1F3bmZtQWRKRW01Q0F1aWhfbWE3bm5lc1drTXhlMVZxVGJXcXBRRk5lUFpUMzhaMFlZTVJpX1ZCQTFQQnktVDZEd1puU3pyTFVld29JdUJVTl9sNWtMQw?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "중동 평화 협상 기대감에 석유 시장 상승폭 반납",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX3hHR3g2cnFYa0RteE0zYk5WTksza04xSm4yU3JCT3JuX2huUllRWnpFLTR0Q2NMNS1JZ1FJSmFzTjZteGg1RTBLZGp3UTFlWEhUbVBlcE1YODFralRPaFowVi02WHdETWpBZ3ZYZG5zbmNWYWlPb1B2WXJNRTlGTnVKUnUyMXc?oc=5",
+      "press": "WSJ",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "뉴욕 증시, 미-이란 상황 주시하며 선물 시장 소폭 상승",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOblh4cDAxX1ZvTVRmbDlXZTF3YUt6em96SU1DV0NzQVRuSEJtbVJGSnpqX3NJYVFZalB2WV9qYlBWRWUxTnRmYjlQNFJvWExtYTdYOHVNYjN2MktyV2NmNmxPODJhTGt6VURRV2QtSTJESWJDV1Bqakx6UDhVVTJtMXZUOElvUWhxZzQ2SFFHeFpJSFVqU0N1VmEzUUtsS2RRSEVORUl6MGZGOUFrM1NvaTMycDFlb3BoYzk3OTJFeWZHcXlheGJUWU9QM1VaSkMwMk1hQVhrWGZ6OU9q?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미-이란 긴장 완화 분위기에 아시아 증시 상승 전망",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3R1U0FoSWY2aUpubVNqdlJBTURUYklRMnpWWlB4RGsxd0tvRTVXbTdKR0NCdW9BMkxicmxuNjdfUWhrNEV4YnM0UDlSS1NRUV9ZT0NSSjZUbGZNVkNEWUlvVVU5dmxQX2dNbXNEeWxjcWZMTUdUZUNua3FKTTZDZ014dEJPaGlTSm9XNjRWekx6WnJBaHBTTk5lUWNiRkFoc04wTHVlTjlNaW9jREloV1g3VQ?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "TSMC 주가 52주 신고가 근접: 매수 혹은 보유?",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbVVEN3VBTVhuaG5OSENMUmo2S20yY0syVDk2SG1OdC1jU2toUGdQUDBVMGVHVUVwbXA0QXg1dXhnRVVObUxseldyOVZXRk9kakZ1cUVBOWN6UEZPU3JJQ04zS2tOMm41Z0lXQUZpNVhJaFFFZzQzMnpobWtjZDFXbFJjeS01VWxyQXhZaTZPMzltOEFKMHU3OVZrVXdOdFlHYzNlb3VNR3NzUW9r?oc=5",
+      "press": "24/7 Wall St.",
+      "source": "international"
+    }
+  ]
+}
