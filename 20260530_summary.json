@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "generated_at": "2026-05-29T23:35:33.386021+00:00",
+    "run_date": "20260530"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 23,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 98.94,
+      "change": -0.08,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.45,
+      "change": -0.04,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 15.32,
+      "change": -2.67,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7580.06,
+      "change": 0.22,
+      "insight": "전일종가 7563.63 / 변동 +16.4302",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 30333.18,
+      "change": 0.36,
+      "insight": "전일종가 30223.89 / 변동 +109.2891",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51032.46,
+      "change": 0.72,
+      "insight": "전일종가 50668.97 / 변동 +363.4922",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1507.13,
+      "change": 0.27,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.26,
+      "change": -0.01,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "원/달러 환율 1,507원 돌파하며 외환 변동성 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "코스피 8,000선 돌파 및 사상 최대 빚투 규모 기록",
+      "tag": "Bullish"
+    },
+    {
+      "point": "ETF 시장으로 개인 자금 쏠림, 기존 펀드 위축 가속",
+      "tag": "Neutral"
+    },
+    {
+      "point": "신용잔고 역대 최고치 경신하며 시장 과열 우려 증대",
+      "tag": "Bearish"
+    },
+    {
+      "point": "EWY(한국 ETF) 하락하며 글로벌 대비 상대적 약세",
+      "tag": "Bearish"
+    },
+    {
+      "point": "카카오게임즈의 라인게임즈 지원 여부에 시장 관심",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "다우 지수 51,000 돌파 및 9주 연속 상승 기록",
+      "tag": "Bullish"
+    },
+    {
+      "point": "S&P 500·나스닥 AI 랠리 힘입어 사상 최고가 경신",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미국 10년물 금리 및 달러 인덱스 하락하며 안정세",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 23(극단적 공포)으로 역발상 매수 구간",
+      "tag": "Neutral"
+    },
+    {
+      "point": "딜러 롱감마 상태 유지로 시장 급변동 억제 환경",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미국 하이일드 및 IG 스프레드 안정적 유지",
+      "tag": "Bullish"
+    },
+    {
+      "point": "주식-채권 강한 양의 상관관계로 시스템 리스크 주의",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 8,000선 돌파, 사상 최대 '빚투' 규모 급증",
+      "url": "https://www.tokenpost.kr/news/market/364531",
+      "press": "www.tokenpost.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "ETF가 삼킨 개인 투자시장…주식·펀드 돈까지 흡수",
+      "url": "https://n.news.naver.com/mnews/article/018/0006293769?sid=101",
+      "press": "www.edaily.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "더 오른다 베팅한 개미들…신용잔고 역대 최고치 경신",
+      "url": "https://www.kizmom.com/news/articleView.html?idxno=110655",
+      "press": "www.kizmom.com",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "카카오게임즈, 라인게임즈 '구조선' 되나 시장 주목",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=841552",
+      "press": "www.hansbiz.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "원익QnC 32,900원 선에서 투자 가치 조사 필요성",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWDJMVjdHODhDZVVNbHJhYjRPcmdlLTVtTEJxLURKLWVfa205Yjc4YjFkeGpheVRIRXlCMkV2cDZPMEN4azlGejRCcEZCLTFCeVhDUDEzdGxfOVgyWHlUVVdwVURpTExXWkNrMGl5Z2x3b252WExDX1IwMmd0MkJ6MjFWc3FYNmlDWFVLU19DRFhSSkVBZ1ljZWV2YkhkclphT2tWckRVZ3IybFJpUFJxWkFlUW4xaEVIVlkyYV9mY2oyZFdyVnBBdjNPa05TNVJuVGdQSkNPdDIzTnlRbHhN0gHkAUFVX3lxTE9ic002bnNDUlZxekJTc2FmVnRJdlFBRm9BSWxEdXN2TFpjXzJTVnI0eVZmR1RDSncxSGRsTVJqWVNsdDRPUk1ieVJNU2dIMnpRNFNYLUFnendreDJaQjJEWi1yaGRtOVBFM29BV3RhUWhIN00zQ29VTWZqa1hJMEV4b0pjcng3R3gzWTBhNnU4TXZBSE81eFZ6VnZweWhhNVQ5ZjV5U2dwNzZ2TC1aY3ZFR0J4Qzk4TTJrMkU5cVYzd2JGcjJ4QXpQVklkVG8teFNLQS0xbGtHU3VpbTByWFVzdHhMMQ?oc=5",
+      "press": "simplywall.st",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "모아텍의 현금 소진 상황에 대해 우려하지 않는 이유",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ2todGYzTkI1OU9VdmN4NmZwYzJoaDJNUDEwd1AyWTN5MDhUYndUSTVkVzVpVFpFV3R0UnRoaVRyUDFLUkk2dFhpNURwTk42ckc4WHZvcncwYzhvbGNOelYtVFVwaU9OSS1fOU9pNE4zWnlhLU5yZHJmR0hOU0QzSUI5VHhHU3VmUV9IcGw1eVVzaHc1ZzhYS3J2VXgwTXQ2MmhnSzBrQ1A0azV3Q09idjRvUEp5UVlWcVRrVXlVMkdVbXROOWRkNmZfbGwyR0NKeEQwUFMtRm7SAd4BQVVfeXFMUFpKWi1Ld3lkZEVWVVJZTGhCeEs2NTR3SHVFSktxZGcxcnV0b1FEeXFNa3BLanNXWE1kSFlxczJZeGJ5WkltU2dCSVI2T1JUX1hhbXlhSF9yZjQxOV9kcTVOWXkzd2VmMElMUnRjT1FTTHZxOVF0Njl1dEJBb1VwWEg1ck9kcTlocjh0LXpYRDdNa2JhMUdWNGVBLWxqbnozazJodGFPalN3VkhRV1NhOG1rWVp1YUd4V0wydGMyYXBQVmVPNHZKRlZ0T3Q3RDl3X3NOSzFuRVZCV01OTVFR?oc=5",
+      "press": "simplywall.st",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "뉴욕증시, AI 랠리 속 다우 51,000 돌파 및 사상 최고치 경신",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMVM5Ym1lRUNrM2VneHEtejRzcUw3ZkRxM1NTNjlsbTJZWUlxSVlGcGoyOHdWcHViQnQ2NjZFcGVSWXdkTzl2VTBMM3VlcUlCSnRwLW1CWGwyQ2ZST0hLOHFBWG1xc1pMUmdlSkZMVlhpeEFIQlozMG9OQi1oTkpLWnNMbFFiRnlCX0lfVEJXX21uN0ptdXg3VU1xSDRDMW5aV2NlcXBsTVI?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "팔란티어 테크놀로지스, AI 수요 폭발에 주가 급등",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZWhES0dfb2JNY3VIaFpXQmx2RmFOZ0o3amZxSGRiS1IwZHZXMEVHNVhpWnQ0ZGlyRnFmaVlRUXJHSTl5azBBQ2k4MGhEdm0yczVvX2lscXV1cWV6VllGdEpMVE1oNDFvWFVkR1duMG5jbG8yV0VjR0xCMGh0MllXWTBtVklVdkdBdmN3ajc0bkMyQjlFZ0RBWkZFcTNoUmpKaVlN?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "다우 지수 51,000 돌파하며 9주 연속 상승세 기록",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YcWxuY0lTeWlmR0pxSHhfUDd0cm5IcnZCMEJsdzZNLWRWUWJNM0NtWUxQVzZoRk12V1lWSUZiVlFwUjM3TzhKM1REb29YV2VzaE53NnJjYWRYSGEtQXl4WTlvVXJldDN0ZWtJM04welFnUTVVdnc?oc=5",
+      "press": "Barron's",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "메르세데스-벤츠, 중국 자동차 지분 관련 법안으로 미국 시장 퇴출 위기",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNa3BvdkF3cFJuTklYclR0VDEwaEtJa3VTYnA3a3pTNWFaeGU5NHkzWDhjRlpodC1DTVRwZHowUUxSZW1zcmVvemtsX3A2SEExdlJwQmVmbVZKVFVnNUhGbkRmVDhBR0ZVZGN6VDQ2UG05V3hUMVUzZy1iVzZ6MUh5ZEMxNEI3ejdQcGRvRXBSY3E5Um_SAZgBQVVfeXFMTU9VRXp0WGEzNG1CZ2Q0d3MwNzE5N0J2Z3VvYWZCX1d6ZlM4UHh0dDM4VEZjVWlaTU56UWNBZGNsckNLWUFKUncwTXR6N1lMM1VMXy1YRE93QzhNalI0aUw1RWQ0dHlvY2ZDaXhWclA4cExEWFZmR2QzNmdSTWN1czhwZUJNNVZpc1o0d3pZZktWdzJwRkhoZ1g?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "나스닥 주간 상승 주도 속 코스트코와 지스케일러 실적 발표 후 급락",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM3lhQ2hfbm9vdDdIN3VEWlhBM25UWHByQ3BsQ3RzTzNCU1JzRDJmOWlvMXNFNlphWWxaWHNFX3Njd3BPRjNKUEZNMHg0amM0MHRySldpd3JZZjRFcTl3RlpBNnhEeFVxWnQyVzdFSHFTZzhMRnBZd21HeC1jNTc5NmlCSnVQZGdyeTJ2RWlwU3NXQndCVHFUUmM4ZFh2VGNBQzBUUFhYNHJxdk02OG12ZkVTeGYtTkgxV1Nr?oc=5",
+      "press": "Seeking Alpha",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미국 증시 사상 최고 일간 및 주간 종가 기록",
+      "url": "https://x.com",
+      "press": "Market News Feed",
+      "source": "international"
+    }
+  ]
+}
