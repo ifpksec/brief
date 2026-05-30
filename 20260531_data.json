@@ -1,0 +1,365 @@
+{
+  "meta": {
+    "generated_at": "2026-05-30T23:35:47.722760+00:00",
+    "run_date": "20260531"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [
+      {
+        "title": "#1 서울식품우 (+29.94%)",
+        "description": "현재가: 10,070, 거래량: 15,221"
+      },
+      {
+        "title": "#2 LG전자 (+29.93%)",
+        "description": "현재가: 293,000, 거래량: 9,128,469"
+      },
+      {
+        "title": "#3 LG씨엔에스 (+29.91%)",
+        "description": "현재가: 113,800, 거래량: 8,555,366"
+      },
+      {
+        "title": "#4 삼성전기우 (+29.88%)",
+        "description": "현재가: 765,000, 거래량: 169,634"
+      },
+      {
+        "title": "#5 LG이노텍 (+28.57%)",
+        "description": "현재가: 1,458,000, 거래량: 1,402,802"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 6,864억원",
+        "description": "현재가: 84, 거래량: 7,980,561,442주"
+      },
+      {
+        "title": "#2 KODEX 인버스 거래대금 5,400억원",
+        "description": "현재가: 971, 거래량: 550,729,285주"
+      },
+      {
+        "title": "#3 KODEX SK하이닉스단일종목레버리지 거래대금 27,544억원",
+        "description": "현재가: 29,895, 거래량: 91,577,807주"
+      },
+      {
+        "title": "#4 한온시스템 거래대금 4,749억원",
+        "description": "현재가: 5,630, 거래량: 84,560,998주"
+      },
+      {
+        "title": "#5 TIGER 200선물인버스2X 거래대금 72억원",
+        "description": "현재가: 89, 거래량: 79,782,310주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 +128,311,973주 / 기관 -94,725,142주 / 개인 -25,536,803주",
+        "description": "직전 영업일(20260529) 순매수 수량"
+      },
+      {
+        "title": "KODEX 인버스 외국인 +926,098주 / 기관 -25,244,803주 / 개인 +25,446,645주",
+        "description": "직전 영업일(20260529) 순매수 수량"
+      },
+      {
+        "title": "KODEX SK하이닉스단일종목레버리지 외국인 -430,806주 / 기관 -9,056,874주 / 개인 +8,789,302주",
+        "description": "직전 영업일(20260529) 순매수 수량"
+      },
+      {
+        "title": "한온시스템 외국인 +7,164,131주 / 기관 +111,630주 / 개인 -7,302,397주",
+        "description": "직전 영업일(20260529) 순매수 수량"
+      },
+      {
+        "title": "TIGER 200선물인버스2X 외국인 +1,527,372주 / 기관 -13,275,368주 / 개인 +11,410,193주",
+        "description": "직전 영업일(20260529) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 98.91 (-0.11%)",
+        "description": "전일종가 99.02 / 변동 -0.1100"
+      },
+      {
+        "title": "미국 10년물 금리: 4.45 (-0.04%)",
+        "description": "전일종가 4.45 / 변동 -0.0020"
+      },
+      {
+        "title": "VIX 변동성지수: 15.32 (-2.67%)",
+        "description": "전일종가 15.74 / 변동 -0.4200"
+      },
+      {
+        "title": "S&P 500: 7580.06 (+0.22%)",
+        "description": "전일종가 7563.63 / 변동 +16.4302"
+      },
+      {
+        "title": "나스닥100: 30333.18 (+0.36%)",
+        "description": "전일종가 30223.89 / 변동 +109.2891"
+      },
+      {
+        "title": "다우존스: 51032.46 (+0.72%)",
+        "description": "전일종가 50668.97 / 변동 +363.4922"
+      },
+      {
+        "title": "USD/KRW: 1507.13 (+0.27%)",
+        "description": "전일종가 1503.11 / 변동 +4.0200"
+      },
+      {
+        "title": "USD/JPY: 159.26 (-0.01%)",
+        "description": "전일종가 159.27 / 변동 -0.0150"
+      },
+      {
+        "title": "코스피: 8476.15 (+3.55%)",
+        "description": "전일종가 8185.29 / 변동 +290.8604"
+      },
+      {
+        "title": "코스닥: 1074.80 (-2.68%)",
+        "description": "전일종가 1104.36 / 변동 -29.5599"
+      },
+      {
+        "title": "KOSPI200: 1342.82 (+3.89%)",
+        "description": "전일종가 1292.57 / 변동 +50.2500"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.884 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.66 | GEX +0.5B$ (만기:2026-06-01)",
+        "description": "콜OI 82,410 / 풋OI 136,642 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.32 | GEX +0.5B$ (만기:2026-06-01)",
+        "description": "콜OI 49,330 / 풋OI 64,990 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $205.83 (-0.28%)",
+        "description": "거래량 10,480,600주 (평균대비 0.6x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $760.05 (+0.25%)",
+        "description": "거래량 10,822,600주 (평균대비 1.3x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 51.0% (102/200종목)",
+        "description": "평균 MA 대비 위치: +3.0%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 23/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.64",
+        "description": "Date: 2026-04-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-04-01, Series ID: UNRATE"
+      },
+      {
+        "title": "Real GDP: 1.6",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.45",
+        "description": "Date: 2026-05-28, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.70조달러",
+        "description": "기준일: 2026-05-27 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.30조달러",
+        "description": "기준일: 2026-05-27 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 8426.60억달러",
+        "description": "기준일: 2026-05-27 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.12억달러",
+        "description": "기준일: 2026-05-29 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 IG 스프레드(OAS): 73bp (0.73%)",
+        "description": "기준일: 2026-05-28 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Why This Fund Dumped $35 Million of UiPath Even as Revenue Grew 17% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEN6dm1PM1pORExCNi04R1h3ZjhjOE9WRmJ3UGhfcUREQkpyWGM1aDdJQTF3aVdUbzd2eGlvNzFnT2pJSVVyY0dBT0p6TUdzMHpORDJGYWRtbmF5YkJfdFRmUzRNQVJ4WXh2c3pHTWs0d1NYSGQ5c09kbDlUeDV5SngtajVQbmlaWHgxOEVFTFpaSDItMnc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Sivers Semiconductors’ $800m Pipeline And CHIPS Act Deal Under Scrutiny - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMG91a0JmTHowTWFCNUNZUEhUUXBsQ2V2VkVpWnBhUTh6al9hbXB5Y3g3eHNaWjdKUXVBUGU4aG9DRmdIR3NCRDc5SGd2VmdjcmE4TkR3UzAyc0dYN3lsVUVDWmkxVjNiUGJHckU1RFBGWHNudkZPWHBsRE13MlFHUy1pQjBjVlh1TGRuV1NhY3hfVXhwbGlOVjdYVnJvRExnbGduYjUzYjJzZw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Prediction: After Micron and AMD, This Will Be the Next Tech Stock to Join the $1 Trillion Club - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMWhINkwzTlUxcFRQQ0NWNHJUYUVPd1dCTVhyTUU1UWY1cHQyS3ZXSVNpa3RUbDRWbi1XZzY4UWxvTU9tSm9ocFVVM0k3dVhac21SWm5Vay1VR0tBeDJjVkpBeUM2Z2hVQ3VHYXZjVXlOOGxKWmFrWGIwN1Z0TXBlQmtjeDJpMDA?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "These Artificial Intelligence (AI) Stocks Have Crushed Nvidia in 2026 With Gains of 67% and 121%. They Can Still Soar Hi",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdjdZRFB0VXc2bWVQcTNiYU5xaTdNcDdPVkd4dlRMZFd4ZlZPSW5xcGsyLTNkTWFKZF9EZ3NEaEk3dXhfNHNmWWNfRG8zYUJkRWNrQ0F0YU8yYjZBdUdMX0RBc2xSdWtaSExoZ1pZLWd5UHJyd0lmSDA1OXM0MEplT3BjT1ROaF9JdHdsa0ZaTng4T194Y3hUYg?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "Italy Waterproof Sensitive Baby Wipes - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNc1RNU3AwZnNka2ZsTll5Y2dkcWhRMElRVTRwb2dpWEV0am51TmtMWF9TdkVtQnJBeVpmLVZxT0l2UE9CSG05bEFvSmI1WXJoVzRfT3RYVTc2ME1FZHVWbnV2OTNSbXl6elp5T0tadEUxUDVxeUpqbjV2bmpQNnNhdTktaTBsc0haeXlVZ2RQYXc0dWlYc1NsTm1uTkZRWEJyaDMxQzBNS2lyeDExdEZnaFdTREJueUFNTGQ4cE5uWXFjdVU?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "France Waterproof Sensitive Baby Wipes - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdmRHWWlRY25nLU5SUGlYMnpoTDhndDIxU0phTHZHcjVkeWducEdOeWpOWHVWWmNsNXhUZTllazU2Vm9WNXpIWVBPRHpJWWFKbGY1amctb2xsOV9OTnlMR1RqMVRzeFBaenA1QjRGdGdaQ0dpbmpsUW42S1NuSDZIRklhQ18xU3VpRmJUSUZGSkdxamtxVndMTW5KOGJJM2JYX0RQbG1IeUlEeUdnMXZnTndrU0t4eXZzUC16dzZ3S08tTk9z?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Consumer LP Just Foods Market Growth Outlook to 2035: Clean-Label and Convenience Drive Expansion - News and Statistics ",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaXNZM0QyeHg1Y1piVXhSRC1UZXJLX1lsOEs3b0Z4TmQxR003ZHFNZzd6cG5rRVlJa1o0NEdBZmxmNEVsR0llc2tacTYyV2dDb2YyaVczYy1jOUFPcWFZRnBVNzJ6dXljNHRwX0R5dXhNVnhlWXM5eFdOVHB4RzI4QzR6Y2JSWEVpRnoyZzdtdG9Ma2dsYkkwNHZpcDhKc3c2VkxPeXZ3eHJQV1hyUTVaQW9fdW1VQ250d2FrdHR0Q184MTBOSDA2TDF3QlBCeWVmSGZ4aTBCYXJfa0s5WnJR?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Nvidia, Apple, Isaac Newton And How To Trade Power Trends - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTVZRQjczT3RUUE1mbF9rYk4tRHEydWhPSGNRTXZPUmdVMmJpRHRoM3FjaE1JYTUxajl2QXBDMk1vaWpBQ3VVb2tIRHp5VURQcVJYTzVBdEVNUDlfSU81d2NhMkZNQmUxeUxGaUhsTng0OVYyanduTHdpQjhVcXgwcXVZQzQybEdwNk1iSkZfWTlLVzdNbzZmcGdWTkx2Nm8?oc=5",
+        "press": "Investor's Business Daily"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Is DOOSAN TESNA Inc. (KOSDAQ:131970) Potentially Undervalued? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSnVmZnBaMlVvb1NnOTZ6NW5ZTVVNY1J5eFlGQnlMSm9lLUFvclNwYzRySTdNZHFOZDRGV01BUWhRUTk0dWY0RVZ1eWpCY2pVTjlvSER1Vk1ENkxvT0JLOWxEWFNHbU84V3lhN0lfNVk1cEdDQ0tCUENnMHh5MEtlSXZCaWl2YUU0ajZjVDlMbUNvUF95WEtKU1I4dlJlal80VHd6X24yWU1qRzJFYUZIZmQ0cG9RV0J3WEJVUno4eUNHUjRaUGJMVTg1XzFxMkhXdEtPa2VvQW1IQ1nSAeABQVVfeXFMUENlWFFrQndxU2FFb3hLMzl6YVg2N0Vld2kyRkdaalJWQU5GV1FfaEhqR0trX21iR0U2TlZ6ZDFvYm14OFpVbWxUZHUwVEpKWDdsQzM1VWRYS21NTkxxM1VBbGFta1dIaWtjaUxVbEV1dVdvV294UkFhYXUxUHlqTl9jWWg0QXh4SG8zbEwyR19XeDliZjRkaFdRYXRISXB4U0NDLVdoZDRCdVAxVDdXNm1Ta2lpdE5FeVVWMzBNTWF2TkFOeXoxSmx0TTZzbW5rMjZZckd1eHd2aGlMNktIVlY?oc=5",
+        "press": "simplywall.st"
+      }
+    ],
+    "naver": [
+      {
+        "title": "하나금융, '제1회 하나금융 머니쇼' 금융권 재테크 세미나 새 지평",
+        "url": "https://n.news.naver.com/mnews/article/018/0006294298?sid=101",
+        "press": "www.edaily.co.kr"
+      },
+      {
+        "title": "하나금융, 첫 통합 자산관리 세미나 '머니쇼' 성료",
+        "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=260961",
+        "press": "www.financialpost.co.kr"
+      },
+      {
+        "title": "하나금융 첫 '머니쇼' 성료…그룹 통합 자산관리 경쟁력 부각",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=139311",
+        "press": "www.opinionnews.co.kr"
+      },
+      {
+        "title": "9000 향하는 코스피…종전 여부에 ‘주목’[주간증시]",
+        "url": "https://www.ekn.kr/web/view.php?key=20260531025389323",
+        "press": "www.ekn.kr"
+      },
+      {
+        "title": "‘재테크 핫템’ 부상 ETF, 순자산 500兆 몰렸다…코스닥 85% 맹추격",
+        "url": "https://n.news.naver.com/mnews/article/029/0003029229?sid=101",
+        "press": "www.dt.co.kr"
+      },
+      {
+        "title": "\"반도체 팔고 떠났다\" 외국인 역대급 매도에 개미만 35조 순매수",
+        "url": "https://www.kizmom.com/news/articleView.html?idxno=110660",
+        "press": "www.kizmom.com"
+      },
+      {
+        "title": "대통령은 찍혔고, 유권자는 제지당했다!",
+        "url": "http://www.breaknews.com/1211004",
+        "press": "www.breaknews.com"
+      },
+      {
+        "title": "9000 향하는 코스피…종전 여부에 ‘주목’[주간증시]",
+        "url": "https://www.ekn.kr/web/view.php?key=20260531025389323",
+        "press": "www.ekn.kr"
+      },
+      {
+        "title": "[속보]\"삼성전자 따라갈까\"…SK하이닉스 임협 앞두고 '5억 대출' 요구 확...",
+        "url": "https://n.news.naver.com/mnews/article/050/0000106775?sid=101",
+        "press": "magazine.hankyung.com"
+      },
+      {
+        "title": "9000 향하는 코스피…종전 여부에 ‘주목’[주간증시]",
+        "url": "https://www.ekn.kr/web/view.php?key=20260531025389323",
+        "press": "www.ekn.kr"
+      },
+      {
+        "title": "[속보]\"삼성전자 따라갈까\"…SK하이닉스 임협 앞두고 '5억 대출' 요구 확...",
+        "url": "https://n.news.naver.com/mnews/article/050/0000106775?sid=101",
+        "press": "magazine.hankyung.com"
+      },
+      {
+        "title": "삼전닉스 노조원들 특별성과급은 ‘새 발의 피’...주요 임원 자사주 수...",
+        "url": "https://www.kbmaeil.com/article/20260531500005",
+        "press": "www.kbmaeil.com"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "JUST IN: 🇺🇸 PRESIDENT SAYS IT'S \"TIME TO AUDIT\" FORT KNOX'S $667 BILLION GOLD RESERVES.  [...](https",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "**Follow us on X for even faster headlines!**\n\nhttps://x.com/MarketNews_Feed",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "🌆 **Market News Digest**\n__[May 30, 2026 EST]__\n\n🔥 **Top Stories**\n• **Middle East risk spikes** — I",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "JOIN PLASMA ONE WITH MY ACCESS CODES:\nW7ABK5\nTAN5PH\nQ95MDC\n\n [...](https://x.com/cryptounfolded/stat",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "ISRAELI AIRSTRIKE ON THE TOWN OF AL-BASARIYA IN THE SIDON DISTRICT, SOUTHERN LEBANON [...](https://x",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "WEEKEND MARKETS UPDATE:\n#DAX 25086 +0.20%\n#DOW 51069 +0.19%\n#NASDAQ 30402 +0.26%\n#FTSE 10380 +0.17%\n",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "WEEKEND MARKETS UPDATE:\n#DAX 25086 +0.20%\n#DOW 51069 +0.19%\n#NASDAQ 30402 +0.26%\n#FTSE 10380 +0.17%\n",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "**Follow us on X for even faster headlines!**\n\nhttps://x.com/MarketNews_Feed",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}

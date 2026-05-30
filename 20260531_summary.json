@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "generated_at": "2026-05-30T23:35:47.724119+00:00",
+    "run_date": "20260531"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 23,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 98.91,
+      "change": -0.11,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.45,
+      "change": -0.04,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 15.32,
+      "change": -2.67,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7580.06,
+      "change": 0.22,
+      "insight": "전일종가 7563.63 / 변동 +16.4302",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 30333.18,
+      "change": 0.36,
+      "insight": "전일종가 30223.89 / 변동 +109.2891",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51032.46,
+      "change": 0.72,
+      "insight": "전일종가 50668.97 / 변동 +363.4922",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1507.13,
+      "change": 0.27,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.26,
+      "change": -0.01,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "원/달러 환율 1,507원 돌파하며 원화 약세 및 하방 압력 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "외국인의 역대급 반도체 매도세 속 개인 35조 원 순매수 대응",
+      "tag": "Bearish"
+    },
+    {
+      "point": "국내 ETF 시장 순자산 500조 원 돌파하며 코스닥 시총 맹추격",
+      "tag": "Bullish"
+    },
+    {
+      "point": "EWY 거래량 부진 및 하락세로 한국 증시 단기 모멘텀 약화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "지정학적 리스크와 종전 가능성 사이에서 코스피 변동성 확대",
+      "tag": "Neutral"
+    },
+    {
+      "point": "하나금융 등 대형 금융사의 통합 자산관리 및 머니쇼 경쟁 본격화",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "미 증시 3대 지수 동반 상승했으나 주식-채권 양의 상관관계 우려",
+      "tag": "Neutral"
+    },
+    {
+      "point": "공포탐욕지수 23(극단적 공포) 기록하며 패닉 매도 국면 진입",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미 10년물 금리 4.45% 유지 및 달러 인덱스 소폭 하락 안정",
+      "tag": "Neutral"
+    },
+    {
+      "point": "옵션 시장 내 풋 포지션 우세하나 딜러 롱감마로 변동성 억제",
+      "tag": "Neutral"
+    },
+    {
+      "point": "중동 리스크 재점화 및 지정학적 긴장감이 시장 심리 위축",
+      "tag": "Bearish"
+    },
+    {
+      "point": "Fed 자산 감소 및 지준금 부족 등 유동성 위축 신호 지속 관찰",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "9000 향하는 코스피… 종전 여부에 ‘주목’ [주간증시]",
+      "url": "https://www.ekn.kr/web/view.php?key=20260531025389323",
+      "press": "www.ekn.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "외국인 역대급 매도에 개미만 35조 순매수",
+      "url": "https://www.kizmom.com/news/articleView.html?idxno=110660",
+      "press": "www.kizmom.com",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "재테크 핫템 ETF, 순자산 500兆 몰렸다… 코스닥 85% 추격",
+      "url": "https://n.news.naver.com/mnews/article/029/0003029229?sid=101",
+      "press": "www.dt.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "하나금융 첫 통합 자산관리 세미나 '머니쇼' 성료",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=260961",
+      "press": "www.financialpost.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "두산테스나, 잠재적으로 저평가된 상태인가?",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSnVmZnBaMlVvb1NnOTZ6NW5ZTVVNY1J5eFlGQnlMSm9lLUFvclNwYzRySTdNZHFOZDRGV01BUWhRUTk0dWY0RVZ1eWpCY2pVTjlvSER1Vk1ENkxvT0JLOWxEWFNHbU84V3lhN0lfNVk1cEdDQ0tCUENnMHh5MEtlSXZCaWl2YUU0ajZjVDlMbUNvUF95WEtKU1I4dlJlal80VHd6X24yWU1qRzJFYUZIZmQ0cG9RV0J3WEJVUno4eUNHUjRaUGJMVTg1XzFxMkhXdEtPa2VvQW1IQ1nSAeABQVVfeXFMUENlWFFrQndxU2FFb3hLMzl6YVg2N0Vld2kyRkdaalJWQU5GV1FfaEhqR0trX21iR0U2TlZ6ZDFvYm14OFpVbWxUZHUwVEpKWDdsQzM1VWRYS21NTkxxM1VBbGFta1dIaWtjaUxVbEV1dVdvV294UkFhYXUxUHlqTl9jWWg0QXh4SG8zbEwyR19XeDliZjRkaFdRYXRISXB4U0NDLVdoZDRCdVAxVDdXNm1Ta2lpdE5FeVVWMzBNTWF2TkFOeXoxSmx0TTZzbW5rMjZZckd1eHd2aGlMNktIVlY?oc=5",
+      "press": "simplywall.st",
+      "source": "domestic"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "중동 리스크 급증 및 레바논 남부 이스라엘 공습 보고",
+      "url": "https://x.com/MarketNews_Feed",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미국 대통령, 포트녹스 6,670억 달러 금 보유고 감사 선언",
+      "url": "https://x.com/MarketNews_Feed",
+      "press": "Market News Feed",
+      "source": "telegram"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "마이크론과 AMD에 이어 시가총액 1조 달러에 진입할 다음 기술주는?",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMWhINkwzTlUxcFRQQ0NWNHJUYUVPd1dCTVhyTUU1UWY1cHQyS3ZXSVNpa3RUbDRWbi1XZzY4UWxvTU9tSm9ocFVVM0k3dVhac21SWm5Vay1VR0tBeDJjVkpBeUM2Z2hVQ3VHYXZjVXlOOGxKWmFrWGIwN1Z0TXBlQmtjeDJpMDA?oc=5",
+      "press": "The Motley Fool",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "2026년 엔비디아를 제친 AI 주식들: 67% 및 121% 급등",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdjdZRFB0VXc2bWVQcTNiYU5xaTdNcDdPVkd4dlRMZFd4ZlZPSW5xcGsyLTNkTWFKZF9EZ3NEaEk3dXhfNHNmWWNfRG8zYUJkRWNrQ0F0YU8yYjZBdUdMX0RBc2xSdWtaSExoZ1pZLWd5UHJyd0lmSDA1OXM0MEplT3BjT1ROaF9JdHdsa0ZaTng4T194Y3hUYg?oc=5",
+      "press": "The Motley Fool",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "매출 17% 성장에도 불구하고 UiPath 주식 3,500만 달러를 매각한 이유",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcEN6dm1PM1pORExCNi04R1h3ZjhjOE9WRmJ3UGhfcUREQkpyWGM1aDdJQTF3aVdUbzd2eGlvNzFnT2pJSVVyY0dBT0p6TUdzMHpORDJGYWRtbmF5YkJfdFRmUzRNQVJ4WXh2c3pHTWs0d1NYSGQ5c09kbDlUeDV5SngtajVQbmlaWHgxOEVFTFpaSDItMnc?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "시버스 세미컨덕터의 8억 달러 파이프라인 및 칩스법 거래 조사 착수",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMG91a0JmTHowTWFCNUNZUEhUUXBsQ2V2VkVpWnBhUTh6al9hbXB5Y3g3eHSaWjdKUXVBUGU4aG9DRmdIR3NCRDc5SGd2VmdjcmE4TkR3UzAyc0dYN3lsVUVDWmkxVjNiUGJHckU1RFBGWHNudkZPWHBsRE13MlFHUy1pQjBjVlh1TGRuV1NhY3hfVXhwbGlOVjdYVnJvRExnbGduYjUzYjJzZw?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "2035년 식품 시장 전망: 클린 라벨과 편의성이 성장을 주도",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaXNZM0QyeHg1Y1piVXhSRC1UZXJLX1lsOEs3b0Z4TmQxR003ZHFNZzd6cG5rRVlJa1o0NEdBZmxmNEVsR0llc2tacTYyV2dDb2YyaVczYy1jOUFPcWFZRnBVNzJ6dXljNHRwX0R5dXhNVnhlWXM5eFdOVHB4RzI4QzR6Y2JSWEVpRnoyZzdtdG9Ma2dsYkkwNHZpcDhKc3c2VkxPeXZ3eHJQV1hyUTVaQW9fdW1VQ250d2FrdHR0Q184MTBOSDA2TDF3QlBCeWVmSGZ4aTBCYXJfa0s5WnJR?oc=5",
+      "press": "IndexBox",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "프랑스 및 이탈리아 저자극성 영유아 물티슈 시장 트렌드 및 분석",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdmRHWWlRY25nLU5SUGlYMnpoTDhndDIxU0phTHZHcjVkeWducEdOeWpOWHVWWmNsNXhUZTllazU2Vm9WNXpIWVBPRHpJWWFKbGY1amctb2xsOV9OTnlMR1RqMVRzeFBaenA1QjRGdGdaQ0dpbmpsUW42S1NuSDZIRklhQ18xU3VpRmJUSUZGSkdxamtxVndMTW5KOGJJM2JYX0RQbG1IeUlEeUdnMXZnTndrU0t4eXZzUC16dzZ3S08tTk9z?oc=5",
+      "press": "IndexBox",
+      "source": "international"
+    }
+  ]
+}
