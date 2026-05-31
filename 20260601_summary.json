@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "generated_at": "2026-05-31T23:36:37.999631+00:00",
+    "run_date": "20260601"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 28,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 98.99,
+      "change": 0.08,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.45,
+      "change": -0.04,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 15.32,
+      "change": -2.67,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7580.06,
+      "change": 0.22,
+      "insight": "전일종가 7563.63 / 변동 +16.4302",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 30333.18,
+      "change": 0.36,
+      "insight": "전일종가 30223.89 / 변동 +109.2891",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51032.46,
+      "change": 0.72,
+      "insight": "전일종가 50668.97 / 변동 +363.4922",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1507.38,
+      "change": 0.81,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.37,
+      "change": 0.07,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "원/달러 환율 1,500원 돌파, 외환시장 변동성 확대 경계",
+      "tag": "Bearish"
+    },
+    {
+      "point": "고객예탁금 2.5조 원 증가하며 증시 대기 자금 유입 지속",
+      "tag": "Bullish"
+    },
+    {
+      "point": "프로그램 비차익 매도 우세 속 기관/외국인 수급 부담 존재",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 28(Fear) 구간으로 저점 매수 관심 고조",
+      "tag": "Bullish"
+    },
+    {
+      "point": "SK하이닉스 노사 갈등 및 삼성전자 기술력 확보 등 반도체 혼조",
+      "tag": "Neutral"
+    },
+    {
+      "point": "신용융자 37조 원 수준 유지 속 차익실현 매물 출회 가능성",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "미 3대 지수 완만한 상승, 기술주 중심의 강세 흐름 유지",
+      "tag": "Bullish"
+    },
+    {
+      "point": "VIX 지수 하락 및 딜러 롱감마 상태로 시장 안정화 기조",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미-이란 불확실성 및 지정학적 이슈로 인한 유가 반등세",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미 10년물 금리 하락 안정에도 불구하고 달러 인덱스 강세",
+      "tag": "Neutral"
+    },
+    {
+      "point": "AI 반도체 수요 지속이 기술주 섹터의 핵심 동력으로 작용",
+      "tag": "Bullish"
+    },
+    {
+      "point": "주식-채권 상관관계 0.88로 시스템 위험 및 인플레 우려 상존",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "비씨엔씨(BCnC) 매수 타이밍 분석 및 기업 가치 평가",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTUNySGRwQ0hQU3VqazdlNVBCNmJHaGFrZm5GUVo2UmViT0JwUzVqT0JyVHcyRWk0YmRrV2VaZHNjS2RuWHc5YUJ1dlB3bDNCcVdRZjVuOUtBbUNLcnhOSk1jU1dZNGo4NS02WWttQ1BqNGRiTjFHOHFpMUtRX2l1dDhXbEZwT04zRjYwZ1RFN1kzd09JVUEwaWxRWWtnajlaQzVXNjVnTGJEVWJoVXN6Tkx3eXlmX25oTkdiejRqQ2TSAcYBQVVfeXFMTjhwRkc2MjRuaklnTXF1YXFxakl1R1MxYlZzR3BRbXhNT2NDcWhFeXlfOWU1NE9FVy11bEZFc3pJOVVsRVFqN2ctWFZIYkJDX0N5N2xHazdNeGptSDdWUG9xZGYwSWVZVHZJRktyNDRvTndsNDF3clY1WnFWaGhSVThZWHRGTEpja2V2LWc3SGhHUkZlbldEam9uYTY5Z1NUV182TU1nOEwxY09JTjZ4eFdESklkMHJXck04eURoN1BQR0EzMjZn?oc=5",
+      "press": "simplywall.st",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "SK하이닉스 노사 성과급 갈등, 5억 대출 요구 등 진통",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUEN0VGt3Q19MVUl5Z0NBLWwxZ0pEelFMWVdmSjZYTUgzYUFBZmRKa3hFNmdXU1JkZS1RZkJVTkRxNXdNRDhoVXdXaERvVTdpNFN2M2RPNmJpTHlXNGUteEFlSWNRUEZXNExGc0JabGgxZ0J3cko2UHlVRzhDc3I5eEhQeXFFOUg4?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "증시 포인트: 제한적 흐름 전망 속 차익실현 매물 경계",
+      "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=139331",
+      "press": "www.opinionnews.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 9천선 도전, 반도체 및 중동 이슈가 변곡점",
+      "url": "https://www.tokenpost.kr/news/market/364896",
+      "press": "www.tokenpost.kr",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "덕산넵코어스 IPO 강행, 압수수색 및 산정 기준 논란",
+      "url": "https://www.smarttoday.co.kr/ko-kr/articles/107959",
+      "press": "www.smarttoday.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "외국인 5월 코스피 45조원 매도세, 순매수 TOP5 분석",
+      "url": "https://n.news.naver.com/mnews/article/374/0000513275?sid=101",
+      "press": "biz.sbs.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자 파운드리, 미운 오리에서 기술력 확보로 반등 준비",
+      "url": "https://www.ekn.kr/web/view.php?key=20260601026319186",
+      "press": "www.ekn.kr",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미국, 엔비디아·AMD의 AI 칩 중국 자회사 선적 차단 조치",
+      "url": "https://x.com/MarketNews_Feed",
+      "press": "Market News Feed",
+      "source": "telegram"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "다우 선물 약세 속 트럼프 이란 행보 주시, 엔비디아·테슬라 주목",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORUVCc2tlM0JGTGlqV0dmY3ZPU0x3R0w1bGVqd3JCbEFpNHNiX1NmUHE2TTZuakxKQ2c2ZG02ZEJXSWVVbFZlWDB3NzRBODRWMXlrTUxsOXBsdDIxYkRFUlFKR3JsbEp4akxTQ2wyVWNPN1V4dUI3aWpxWjJ6REdsRjgtS1Rfd2hIeEkwTFNNYmRNRF8tZC00dFY5aElsQjl0V0t6QTh0MjNQYjlKQnZya0Zhd3F4VmlLeDVXUXRVRG8?oc=5",
+      "press": "Investor's Business Daily",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "미-이란 합의 불확실성에 유가 6주 만에 최저치서 반등",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRVd1aUdwZmd1NFFaZlU4MjVTWnFHQzhNVXVxVGJfckZTLXl0ajFRUEo5TENWUDZhT0NWQjVOWXNCYldoM2s3TVhfSFBMZlRFeDh5Tzk1ajlSWmxEZi05V2ZuSkJPWnJSRmd5dVJJMDE5ZjZBZk1oMXpRNlQyS2FCdzh4Ml83OTNjMkpSMVBTYUtLXzJyYngxLWVEQ1RPUQ?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "뉴욕 증시 선물 하락, 월가는 여전히 연승 행진 연장 기대",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbFVxTG1GVUw2YkhCcGNkUzNwSDZpU19pZldudUtDdnhZMDBMS0kyYW9RU20tbnlwQjlreXBkUE9ZZVBuWFd6ZlFCVTFDZ0xDOXdtT25rSnRlQW8wUnhOdXplb1dIRUQycG1SM1UzeS1MRjlmaE1UbWNJb0ZmdENiQVJwZnl2b2VnWFY2OHVDMHNfV2RoVVV5dDNvdUZsLUFobnZFY0pGN2tKM1Z0VDRUS3h5VzJkbWZWZ004RExFNGdGQQ?oc=5",
+      "press": "MarketWatch",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "TSMC, 뱅가드 세미컨덕터 지분 축소 배경과 시장 영향",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWmg2bjNyRnU5YmM3eThRdmE4LVc2ZWRPZnN1eTRHOTRiMThLSk1BZ1VUQjVzRmFHRlFSbGRvUGU0YlFCVFBpU1d4RkMtbC1qOXBycno1cmZhblVRbmlva3gxeV9SNkJ1VkNXdHgyQnl3czRqUnpsX21hYlNQNTdjbnB1X2dnSUY1X2lOTkxFV1VOQzBvTUdV?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "Cohu, AI 기반 반도체 수요 및 2026년 강력한 전망에 급등",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0R0Mxc1lBOG1teHJHN2NQaXBVLS10WksxSVY1eUc4RHkxMTltVG04Rk8wT3NlT1NxUG5DdTJMUFJDVl9sVlN2MEJxcjBIM0VfQUNJdUxQQWlsVzVMMXdLa0RZeWM5S1BSalVqdGhUY1BRdmV5cThyQVJwTQ?oc=5",
+      "press": "Yahoo Finance Singapore",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "단순 기술주 강세 아냐, 광범위한 시장 회복이 투자 유지 근거",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZ3Bwcl91UE1xT0E5ZTdvN0w5elFiRGdSQXVJVktQUVRwdlBuWEhnSjRLQ3lRNWk0S0ppNHZZTUJtaUtrMHg0Ykd2QUpZT1pnbUxLYlZJU1JQVE9aWjdrXzlReU0tci1KajA3ZExjQUNtaW5lN2hJTEx6aldPZERmYjJxVG5CQ1liTnowZm9ZbXlzbnNBRVM2WUdFWUJydzFhNTBfUjh3SkE0akhDREpVSFhqMEhLUDNVa19SR2F3aUZHMy1iZ1A2SUZsbWNHcm00R1hyVGRuRnUxNlVDaUE4MmdxLVltN2czLTM3YVdWdw?oc=5",
+      "press": "MarketWatch",
+      "source": "international"
+    }
+  ]
+}
