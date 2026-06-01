@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "generated_at": "2026-06-01T23:37:06.486412+00:00",
+    "run_date": "20260602"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 29,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 99.18,
+      "change": 0.27,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.47,
+      "change": 0.49,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 16.05,
+      "change": 4.77,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7599.96,
+      "change": 0.26,
+      "insight": "전일종가 7580.06 / 변동 +19.8999",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 30513.86,
+      "change": 0.6,
+      "insight": "전일종가 30333.18 / 변동 +180.6816",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51078.88,
+      "change": 0.09,
+      "insight": "전일종가 51032.46 / 변동 +46.4180",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1511.72,
+      "change": 0.32,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.64,
+      "change": 0.18,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "고객예탁금 소폭 증가 및 유동성 대기 자금 유입",
+      "tag": "Neutral"
+    },
+    {
+      "point": "코스피 대형주 중심 강세 속 코스닥과 양극화 심화",
+      "tag": "Bullish"
+    },
+    {
+      "point": "반도체 수출 호황 및 엔비디아 훈풍에 관련주 강세",
+      "tag": "Bullish"
+    },
+    {
+      "point": "5월 CPI 3.1% 기록하며 시장 예상치 상회 부담",
+      "tag": "Bearish"
+    },
+    {
+      "point": "EWY ETF 5%대 급등하며 한국 증시 투자심리 개선",
+      "tag": "Bullish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "엔비디아 주도로 S&P500·나스닥 사상 최고가 경신",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미 국채 금리 및 달러 인덱스 상승으로 긴축 우려",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 29로 극도의 공포, 저점 매수 매력 구간",
+      "tag": "Bullish"
+    },
+    {
+      "point": "옵션 시장 딜러 롱감마 상태로 지수 변동성 제어 기대",
+      "tag": "Neutral"
+    },
+    {
+      "point": "IG 스프레드 안정적 유지로 신용 리스크 통제 국면",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "젠슨 황 방한 기대감에 전력·로봇주 강세 지속",
+      "url": "https://n.news.naver.com/mnews/article/374/0000513567?sid=101",
+      "press": "biz.sbs.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "한국 반도체 수출 호황, 무역수지 흑자 견인",
+      "url": "https://www.tokenpost.kr/news/economy/365277",
+      "press": "www.tokenpost.kr",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "한국 5월 인플레이션 3.1%, 예상보다 높은 수치",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnlYOTdwUGhWaW9KMGdIcFZEOEhyd2VabGJFdWQwSGE5UTdrTTRnSmtsVGY3amRBeVI2TXhJazd4QmhqbHROVUhtZzVsWUJwNzJ2V0Z2VVZsSkx0ZnBKMlpfdVB6R2JtTzY0d0xyZ3M2ak1GcVQ2NDAyYWxZc2ktUWZfaVoza0Y4bE44TXprdks4eF82a3NtUk1vdkRMbkZzSmJXeHRNQmNLbmM?oc=5",
+      "press": "Reuters",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 28% 급등 vs 코스닥 10% 하락 차별화",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUnlTYlBWZkgwSGdaYmVYLXR0d29JeUQtT0FnTGNpYWF4Z0VPd2QzNElaQUZvMkNJOThzOEpuamcyNDI2MXJxLTdsazMzSW0zaVdQMmw3eERpQkFKT1NKa2pHcVJOM2ZfT1U5QVdoYVdDQU5uSDh1THJEQ1FrN2c4RlA1VWd5M2FWNGpwbGxn?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 8800선 안착 시도, 반도체 훈풍 기대",
+      "url": "https://www.newspim.com/news/view/20260602000095",
+      "press": "www.newspim.com",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "이재용 삼성전자 회장 주식 재산 60조원 돌파",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=708158",
+      "press": "www.cstimes.com",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "삼성, 두나무 지분 인수하며 가상자산 시대 가속",
+      "url": "http://www.datanews.co.kr/news/article.html?no=144934",
+      "press": "www.datanews.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "금리 인상 기대감에 은행주 반등 예고",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPellqMXhwNGZ3aEZDSGU4dW5iTEwzWnMtZW9NeEc1cW5Lcml3Ul85c3hJWnpYOWtmOEdBSU9pOWxsbEV2NEZSUWFNNFNTS1NvSWV2Xzg1V2FxNWxiWmxESERlQWkzY0R1RW83ay1vZ05tUl9wdS1kYTV6eHRaaEkyN0NrOXVIS184NzhzUkxR?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아 급등에 뉴욕 증시 3대 지수 사상 최고치 경신",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONE5oZUJzemdLMXg5RkxFb01NdjY0dWJYclU1UDBtc2d4b3RVZjBVazR6Yk5iLU85eXhPUTIzdkZPUDdCbHd6MnREbG5tblhtQmVJZHlFdzQ5RkYtd2RTNUZsTS0wQTJXQTVfZXRxNy1NVHA1Tm1rZEFCcVpubEpjSjlUNUJIVjhwVlNSSldoQkY3NlNGTkc4cTRGMXVQWUd3bmpVNW8yTjJiVlBoeHRyZG9yRQ?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "AI 스타트업 앤스로픽, 미국 증시 IPO 비밀리에 신청",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9NVkNVVm55dkFIT1hvbEZSbW1aS3E3LXp4NjQ4LW1zQTRJa1cyY0VScGRrWDFQQnRDTU9nWlliS1g0ekhXSDctSlJ4ajVoalRkZ1IwWVpxem04Y09zdzVHY2ZxLVBfSC1VdmpMWnlOVWtaZC1RMEE?oc=5",
+      "press": "The Guardian",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "기술주 랠리가 유가 상승 압력 압도하며 S&P 500 신고가",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xcTVySExtb2NYek9nMERwZGlpSlJYeUxjWjA1dl9RRFNCRXdacmFzNldUelo4bXY0SWtfTlRGeVpfNnNmNGpJUHA2YUpfVGU4ZWsyamlBcXdlU3BPSFdzTk13ZXJGck1fbUZodTc0eWYyLWRBVllV0gF8QVVfeXFMT1JMM3dRdXVwOHZoak15V3J3cEpRdHNQQ2FzRFBxTUxfM3pqYW5WdUNXVWtVSXFsQ0xFbXZlcWJ1SWFLcXNiUVdIUG5yWUdnREl2SDBFM09LU052cHU3R0E4R2NQY3BXTktudHlkYld6TlFNX19sTDFuOERoWQ?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "TSMC, 헤지펀드들이 가장 선호하는 주식으로 부상",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ1pjREtWczgtc0VDVkMydDEyNzBDT3RkUTBELVBCTlRyTzVEYkhJZlp5NlZySzYtTEZJbFRYanhqWjRyX29BZHg5dF85YWg4MWRhanA4Y3N1MFk0b1BodHVCZjVuaGV2MGk5cFo5M0NSYlNEOVI3eEtsQUtiejdxMkRlRWRiQUhYeHc?oc=5",
+      "press": "Yahoo Finance UK",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "유가 상승세 유지, 미 선물은 지정학적 불확실성에 하락",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNVBudWh6TlRWNUZQRTZ0Mi1ZbDFBdUtUaG1VU2FXaVBycUo0dERfbEtITi11U3NmQlEtbUVDMkcyRmhodG5BM1BZQjQ4ZTZ3Y0d2cWdkTmt4a1dKNzdUMEpHQjU3VV9ZN1pVZjZzR1ZTR0VoLWRVUGZoNTRWRWtYbktvUG9LbnNhVW04TjJfc0RpTk91MTNDSWJvbE5MWEtNZ05MQng0U1hHQUFLd2ZEa2Jn?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "2026년 6월 주목해야 할 아시아 고성장 기술주 전망",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYVdCdURnQzhCREVaTndVTGFkVzBpc29PSkI4Ym1veU91Y3lETkJTWUZYLXVrMjF3WFVqcDMyaWFqU2thTlJfZVdzSERjSEs3LThCdE9nV2JiZm1OMlI2ZnZuRnFiMkVBN2RjYUxjMjhzUXNKQUQ0cE8tT2xBYjN6UHU1ZTVUMlpRQ2w3bmhBQ1RvUkNIbFZQUjdVckl6Zw?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    }
+  ]
+}
