@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "generated_at": "2026-06-02T23:37:39.718764+00:00",
+    "run_date": "20260603"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 23,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 99.22,
+      "change": 0.02,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.45,
+      "change": -0.45,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 15.77,
+      "change": -1.74,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7609.78,
+      "change": 0.13,
+      "insight": "전일종가 7599.96 / 변동 +9.8198",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 30660.6,
+      "change": 0.48,
+      "insight": "전일종가 30513.86 / 변동 +146.7422",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51307.79,
+      "change": 0.45,
+      "insight": "전일종가 51078.88 / 변동 +228.9102",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1515.3,
+      "change": 0.27,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.98,
+      "change": 0.21,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "고객예탁금 132조 돌파 및 증시 대기 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "point": "KOSPI 프로그램 비차익 중심 6.4조원 대규모 매도",
+      "tag": "Bearish"
+    },
+    {
+      "point": "환율 1515원 돌파하며 원화 약세 및 수급 압박 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "중동 오일 쇼크로 인한 국내 물가 상승률 3% 상회",
+      "tag": "Bearish"
+    },
+    {
+      "point": "로봇 대형주 평균 150% 상승하며 신주도 테마 부상",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 23점, 극단적 공포에 따른 역발상 구간",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "S&P 500 지수 7,600선 돌파하며 역사적 신고가 경신",
+      "tag": "Bullish"
+    },
+    {
+      "point": "엔비디아발 AI 인프라 확산 기대에 관련 기술주 급등",
+      "tag": "Bullish"
+    },
+    {
+      "point": "중동 미사일 공격 및 긴장 고조로 국제 유가 급등",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미 10년물 금리 4.45% 하락하며 국채 시장 안정세",
+      "tag": "Bullish"
+    },
+    {
+      "point": "풋 옵션 우세하나 딜러 롱감마로 시장 변동성 억제",
+      "tag": "Neutral"
+    },
+    {
+      "point": "하이일드 스프레드 272bp 유지하며 신용 시장 안정",
+      "tag": "Bullish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "매크로·금리",
+      "title": "중동 오일 쇼크에 한국 인플레이션 3% 상회",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU9xejZSekhsR0IyNk0zLW9OTmxIbVpuNHVldWJ4MTdNcnI4bzNlRlpUVTkzY0c5VlAwVFVlcEE1MUE0eWFVZ1drN2tScGlyS0lpZjJOV0JiM2xVV183bmJLRUMzM0VDODZUdFVmRWFScnJGUmxsdHhwSWV5UHlWaWVjSllUXzh5cnJZckpzZ3lsZXZvaHVMMkxFUzZuSVFqM1hj0gGoAUFVX3lxTE5QS0lMRGY2azlFQlFGNmxwV3BPS2N5QjVSNGtOSkRuRm9aSXk1MHZaXy1NV0paNWRfWGZEYXduUXJITUNvNFpVTjFoUGdZN3EyaTJRN3pvam1UWlFuV0tHeE8wOTFnUC1JbWJRV1VLYTBObDFEd2hsWUl4clBpTjRPUzdjb2drWWlWRnhOaDQ3dWR6aHRPTUp4M3dab2hBYnBmU0Vjd0hNVg?oc=5",
+      "press": "upi.com",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "로봇 대형주, 평균 150% 상승… 올해의 새로운 주도 테마",
+      "url": "https://www.tokenpost.kr/news/market/365673",
+      "press": "www.tokenpost.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "젠슨 황이 띄운 '피지컬 AI 한국'... 글로벌 '핵심 축' 예고",
+      "url": "https://www.mediapen.com/news/view/1102303",
+      "press": "www.mediapen.com",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "이란 IRGC, 쿠웨이트 내 미국 군사 기지에 정밀 미사일 공격",
+      "url": "https://t.me/marketnewsfeed",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "중동 교전 격화로 아시아 시장 초반 미국 원유 선물 2달러 급등",
+      "url": "https://t.me/marketnewsfeed",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "[이지 데스크의 시선] 코스닥 의욕상실증후군",
+      "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=235959",
+      "press": "www.ezyeconomy.com",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "허가·급여기간 단축 등 약가제도 개편…제약바이오 B학점",
+      "url": "https://n.news.naver.com/mnews/article/092/0002425164?sid=105",
+      "press": "zdnet.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "천보(278280), 지금 매수를 고려해야 할까?",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ1NqdDZYemp1a1RMSDl5dk8yMlRzbGZXY1VUX0pMbmR5dUxRNmJnR3N1UUxDcGVXZ2NKOTBGaEEyUmdzMkxpb1JpX3lEY21hZU5qV3RpaFpseEhZR1JSQmMyTFc0bHlMYjdqYllwbUxNNE9WbEcwZGNLV0dCQWNkY19uMWxpVmJmNzFhNU1fTXFZbjNvdjhDRGhNZm1rdGdwdjNqNUdnQy1selVfNzM4WlREeTVLczdIMnlCdU43b3hCTkFneDk5Q0VVQ0xTdFduZHfSAdcBQVVfeXFMTTJMQlRuVHlJZXZvMUpfVDBWSVZHMVhkRjNCNVFXWFJKaHNQd0pvREhsLU12YzY0MHRSYzh6NE5keE5Xc3Z2NUMwR1duSHUzN19sWWQ5bzA1V3N4M1ZscmtTOGxnenVEUVlSZm1ud3E4bmJMczJzX1JpNjFvMjcwSHNwNUhWeXdpcHlDYndLdEpFTnA4T2NCTi1IT1BZdjluak16aGcxLUJzOTNxYVg5NWw5ZjI0X2V1NzVwQmdYRk1KUEliV29UN2RVTXpreXlKLTNfTlRMQTA?oc=5",
+      "press": "simplywall.st",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "S&P 500, 나스닥, 다우 사상 최고가 경신... 중동 불확실성 압도한 기술주 강세",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZXU0RzMyRmZrcHlUWThEelVRbTMyQVpfX2tBOUJqc1daNWhhckcyMWJ6T0FFcnVCeHBEc3dkaWNobXkwZy1NS0NPY0h5QWl0N29rUjhhYUR3bVVROHlWVjAxTFZETTNWcEtjdDZsMWZzOVlSdzUwcmhvZFJxOVhSRHdrVVZkN2JxcjYxNnBvcw?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "마벨 테크놀로지, 엔비디아 CEO의 AI 인프라 역할 강조에 급등",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmpOMktLeExINHJ1M1VIeEx2ck1PTXJaSDBUaXlINE1Pc0FkYm5sZVpsZE1oUkNhd09HZGIxNTdIaDJCcFpmMzlEV0pFQzg3cldtRUI5OVE3SHVtWGtXc1RJZHFpbEdPMzBQVk81Mi1KdjUtVS15Y0lPWE91clhmb0dwN3VXS3BxZkVaN3g0Mnd3MlEt?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "다우 200포인트 이상 급등, S&P 500 사상 첫 7,600선 위에서 마감",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkeE9FQ01TblRCVWtucEtMcWJVUlQ4b0VmSUxaeVNTVEFicDlNVzRvLWtGRjJiRmtVSm0ySHBkcHZwcFZuT1kzdFRJdzczQW9YWE0waUpzN09fTFp6Mm4yWWc0eW1vMnpwZV9HY1Y1WFE1WFFoWndz0gF8QVVfeXFMTng4TFJYeWtTejNXdjBBc29lbFFocUJuOXozYTZNOW1HcmdDd3NUaDdDSTk0dXpYNl9uYnNXRHZJOGxXdmRLWnM5STgxVExjdFpqRjZmc25rdWFUR2dlM0o2RDJ4SzZfMmVmWmtzT25fT3puVHlzWlMzbTItWA?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "미국-이란 평화 회담의 엇갈린 보고 속에 국제 유가 이틀째 상승",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUlUzU29CU1MtbWE2TmJaYS1ZT1p5dlBDUy1YT24zakpqeE4zUHBhN2ZOa3JtODVYMmxxVHBScnc3cjJzVkVPRDlCeGZQVjEtLUZnMWhhajlIWWxGQk12LTU5UFFqalR2czR3ZVFBOUZWZ05kRmExeERqLXZYRjBqSUNJemFpYWd5R3BLUTF6SVFrRUR2QzBQODJ3RGlNUQ?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "AI 열풍과 미국-이란 불확실성 충돌 속에 다우 및 S&P 500 선물 보합권",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMFNOaFFyMU9xOFlfejgyRWlwSWtoU09BdmdrUjZrMEwyMndub19TY1pRTDFrUGFXUV91akR0aUg5UkUxc3FUamdqQ0xYYk5FazZBN1lSN2xmdnZVSkVXMmNVclUwRUJKSHF4YzBmYjdKZlVUNzdGOGUtX05LNXBxV1JNRmxsazdQOWgzb2FoR19GNWFvdk5QNVpOc2p2QXdFQ0hvMHB4T3NXOWpmNVY2S2J3YjQ0eXExYklWdTljaTlQZ3NfVWoxLS1pWXkwcGV5aXg3a1RKM2xodkdkVkpWRGNB?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "AI 열기가 기술주 견인하며 다우 지수 소폭 상승",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSk1zcmtlZUpvdE1sR0p4d3Fzdkl5OU42QUljNUozRTR0Vmw4T3JUV1VXX04tUE84Q3YybDBYS2wzSUZRaFY3T2x1WEh5SnhocGJFSEpVS2FNcXhib1pDcTc3dXMzY1lveWdvYTdZWVZ0ZlgwT0o3MG5wcHNfQ01mVm5pckVqS1E?oc=5",
+      "press": "WSJ",
+      "source": "international"
+    }
+  ]
+}

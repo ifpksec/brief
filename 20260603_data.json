@@ -1,0 +1,376 @@
+{
+  "meta": {
+    "generated_at": "2026-06-02T23:37:39.717588+00:00",
+    "run_date": "20260603"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [
+      {
+        "title": "고객예탁금: 1,325,992억원 (+10,137억원)",
+        "description": "신용융자잔고: 376,812억원"
+      }
+    ],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 -6,226,001백만원 (차익 +177,004 / 비차익 -6,403,005)",
+        "description": "기준일: 20260602"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 삼성출판사 (+30.00%)",
+        "description": "현재가: 7,930, 거래량: 161,465"
+      },
+      {
+        "title": "#2 두산로보틱스 (+20.45%)",
+        "description": "현재가: 166,700, 거래량: 9,339,442"
+      },
+      {
+        "title": "#3 삼성생명 (+17.07%)",
+        "description": "현재가: 480,000, 거래량: 772,311"
+      },
+      {
+        "title": "#4 NC (+14.38%)",
+        "description": "현재가: 338,000, 거래량: 841,776"
+      },
+      {
+        "title": "#5 미래에셋생명 (+14.29%)",
+        "description": "현재가: 17,200, 거래량: 1,267,290"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 9,017억원",
+        "description": "현재가: 76, 거래량: 11,458,992,289주"
+      },
+      {
+        "title": "#2 KODEX 인버스 거래대금 11,176억원",
+        "description": "현재가: 924, 거래량: 1,191,968,288주"
+      },
+      {
+        "title": "#3 KODEX 삼성전자단일종목레버리지 거래대금 34,391억원",
+        "description": "현재가: 31,325, 거래량: 112,870,987주"
+      },
+      {
+        "title": "#4 KODEX SK하이닉스단일종목레버리지 거래대금 29,706억원",
+        "description": "현재가: 30,545, 거래량: 100,087,348주"
+      },
+      {
+        "title": "#5 TIGER 200선물인버스2X 거래대금 82억원",
+        "description": "현재가: 80, 거래량: 97,752,147주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 +557,757,483주 / 기관 -781,064,376주 / 개인 +232,245,989주",
+        "description": "직전 영업일(20260602) 순매수 수량"
+      },
+      {
+        "title": "KODEX 인버스 외국인 +8,566,099주 / 기관 -7,590,118주 / 개인 -7,507,510주",
+        "description": "직전 영업일(20260602) 순매수 수량"
+      },
+      {
+        "title": "KODEX 삼성전자단일종목레버리지 외국인 +497,755주 / 기관 -13,621,663주 / 개인 +12,280,051주",
+        "description": "직전 영업일(20260602) 순매수 수량"
+      },
+      {
+        "title": "KODEX SK하이닉스단일종목레버리지 외국인 +529,397주 / 기관 -5,408,897주 / 개인 +3,373,800주",
+        "description": "직전 영업일(20260602) 순매수 수량"
+      },
+      {
+        "title": "TIGER 200선물인버스2X 외국인 +2,898,217주 / 기관 -21,406,319주 / 개인 +18,544,301주",
+        "description": "직전 영업일(20260602) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.22 (+0.02%)",
+        "description": "전일종가 99.20 / 변동 +0.0240"
+      },
+      {
+        "title": "미국 10년물 금리: 4.45 (-0.45%)",
+        "description": "전일종가 4.47 / 변동 -0.0200"
+      },
+      {
+        "title": "VIX 변동성지수: 15.77 (-1.74%)",
+        "description": "전일종가 16.05 / 변동 -0.2800"
+      },
+      {
+        "title": "S&P 500: 7609.78 (+0.13%)",
+        "description": "전일종가 7599.96 / 변동 +9.8198"
+      },
+      {
+        "title": "나스닥100: 30660.60 (+0.48%)",
+        "description": "전일종가 30513.86 / 변동 +146.7422"
+      },
+      {
+        "title": "다우존스: 51307.79 (+0.45%)",
+        "description": "전일종가 51078.88 / 변동 +228.9102"
+      },
+      {
+        "title": "USD/KRW: 1515.30 (+0.27%)",
+        "description": "전일종가 1511.27 / 변동 +4.0300"
+      },
+      {
+        "title": "USD/JPY: 159.98 (+0.21%)",
+        "description": "전일종가 159.64 / 변동 +0.3420"
+      },
+      {
+        "title": "코스피: 8788.38 (+3.68%)",
+        "description": "전일종가 8476.15 / 변동 +312.2295"
+      },
+      {
+        "title": "코스닥: 1050.03 (-2.30%)",
+        "description": "전일종가 1074.80 / 변동 -24.7700"
+      },
+      {
+        "title": "KOSPI200: 1399.91 (+4.25%)",
+        "description": "전일종가 1342.82 / 변동 +57.0901"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.867 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.23 | GEX +7.0B$ (만기:2026-06-02)",
+        "description": "콜OI 167,168 / 풋OI 205,441 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 2.71 | GEX +1.2B$ (만기:2026-06-02)",
+        "description": "콜OI 100,696 / 풋OI 273,205 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $214.53 (-1.00%)",
+        "description": "거래량 13,830,688주 (평균대비 0.9x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $763.06 (+0.14%)",
+        "description": "거래량 2,632,278주 (평균대비 0.2x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 50.5% (101/200종목)",
+        "description": "평균 MA 대비 위치: +3.0%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 23/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-05-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-04-01, Series ID: UNRATE"
+      },
+      {
+        "title": "Real GDP: 1.6",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.47",
+        "description": "Date: 2026-06-01, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.70조달러",
+        "description": "기준일: 2026-05-27 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.30조달러",
+        "description": "기준일: 2026-05-27 (FRED WLRRAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.03억달러",
+        "description": "기준일: 2026-06-02 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 272bp (2.72%)",
+        "description": "기준일: 2026-06-01 — 안정 | FRED BAMLH0A0HYM2"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Dow jumps more than 200 points, S&P 500 posts first close above 7,600: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkeE9FQ01TblRCVWtucEtMcWJVUlQ4b0VmSUxaeVNTVEFicDlNVzRvLWtGRjJiRmtVSm0ySHBkcHZwcFZuT1kzdFRJdzczQW9YWE0waUpzN09fTFp6Mm4yWWc0eW1vMnpwZV9HY1Y1WFE1WFFoWndz0gF8QVVfeXFMTng4TFJYeWtTejNXdjBBc29lbFFocUJuOXozYTZNOW1HcmdDd3NUaDdDSTk0dXpYNl9uYnNXRHZJOGxXdmRLWnM5STgxVExjdFpqRjZmc25rdWFUR2dlM0o2RDJ4SzZfMmVmWmtzT25fT3puVHlzWlMzbTItWA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock Market Today, June 2: Marvell Technology Surges After Nvidia CEO Highlights AI Infrastructure Role - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQmpOMktLeExINHJ1M1VIeEx2ck1PTXJaSDBUaXlINE1Pc0FkYm5sZVpsZE1oUkNhd09HZGIxNTdIaDJCcFpmMzlEV0pFQzg3cldtRUI5OVE3SHVtWGtXc1RJZHFpbEdPMzBQVk81Mi1KdjUtVS15Y0lPWE91clhmb0dwN3VXS3BxZkVaN3g0Mnd3MlEt?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Oil Holds Two-Day Gain on Discordant US-Iran Peace Talk Reports - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUlUzU29CU1MtbWE2TmJaYS1ZT1p5dlBDUy1YT24zakpqeE4zUHBhN2ZOa3JtODVYMmxxVHBScnc3cjJzVkVPRDlCeGZQVjEtLUZnMWhhajlIWWxGQk12LTU5UFFqalR2czR3ZVFBOUZWZ05kRmExeERqLXZYRjBqSUNJemFpYWd5R3BLUTF6SVFrRUR2QzBQODJ3RGlNUQ?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures trade flat as AI fervor meets US-Iran uncertainty - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQMFNOaFFyMU9xOFlfejgyRWlwSWtoU09BdmdrUjZrMEwyMndub19TY1pRTDFrUGFXUV91akR0aUg5UkUxc3FUamdqQ0xYYk5FazZBN1lSN2xmdnZVSkVXMmNVclUwRUJKSHF4YzBmYjdKZlVUNzdGOGUtX05LNXBxV1JNRmxsazdQOWgzb2FoR19GNWFvdk5QNVpOc2p2QXdFQ0hvMHB4T3NXOWpmNVY2S2J3YjQ0eXExYklWdTljaTlQZ3NfVWoxLS1pWXkwcGV5aXg3a1RKM2xodkdkVkpWRGNB?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "S&P 500, Nasdaq, Dow Rise To Record Highs As Strong Tech Gains Outpower US-Iran War Uncertainty — MSFT, UBER, MRVL, HPE,",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZXU0RzMyRmZrcHlUWThEelVRbTMyQVpfX2tBOUJqc1daNWhhckcyMWJ6T0FFcnVCeHBEc3dkaWNobXkwZy1NS0NPY0h5QWl0N29rUjhhYUR3bVVROHlWVjAxTFZETTNWcEtjdDZsMWZzOVlSdzUwcmhvZFJxOVhSRHdrVVZkN2JxcjYxNnBvcw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Affirm vs. Klarna: Which Technology Stock Is a Better Buy in 2026? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcFVDM0pqam54UTBGRktnLU5EOWxjQzFBOVNxY24tUk5JX3RVd1pFejdRWWJDSTQ3YjZQOEJSUUs4eDVhLVEyNTdZSWpwZHpOY0ZuRUtYM3hOUlJVU2NzbjhaN2l4VURuUDVWdUdBc1Z0TEwxWVB5Tmt0OC1oRUZ5Q0RqOWRGd1hNSVNRUGF2Y2dTUWxVU2ZEbVNBS2gwdW8?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market Today: Dow Edges Up as AI Fervor Powers Tech Stocks — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSk1zcmtlZUpvdE1sR0p4d3Fzdkl5OU42QUljNUozRTR0Vmw4T3JUV1VXX04tUE84Q3YybDBYS2wzSUZRaFY3T2x1WEh5SnhocGJFSEpVS2FNcXhib1pDcTc3dXMzY1lveWdvYTdZWVZ0ZlgwT0o3MG5wcHNfQ01mVm5pckVqS1E?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Washable Painter Tape Market Growth Outlook to 2035: Premiumization, E-Commerce, and DIY Trends Reshape the Category - N",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbkdFbVVKdmRyVmNXcnVnZDdzeEFkWjVHRlRla2dDcldkV29JQlNjSnQySWpTdUhjUmk3Q2NPVnBrbF95azNFYVR1cFhaanUzMjFWaXQ1ZDVDS01uWHZzb19vSm1GR0c4MlZGcU8xd3JralZQN05HQUFoaksxZjFpMHhlNjFTb0pEQ3RrRnpLc1FFeklBTmZFQnZzWTQzcG5VblpLZzBRd2trVW4xSC0tZjFCMHdqQ1JoTXdSRldnVFg1M2lTd1YzQ3VOQmlCSkpPd2N4MUxTSV95QnN2M284OS1TUWc?oc=5",
+        "press": "IndexBox"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Should You Think About Buying Chunbo Co., Ltd. (KOSDAQ:278280) Now? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ1NqdDZYemp1a1RMSDl5dk8yMlRzbGZXY1VUX0pMbmR5dUxRNmJnR3N1UUxDcGVXZ2NKOTBGaEEyUmdzMkxpb1JpX3lEY21hZU5qV3RpaFpseEhZR1JSQmMyTFc0bHlMYjdqYllwbUxNNE9WbEcwZGNLV0dCQWNkY19uMWxpVmJmNzFhNU1fTXFZbjNvdjhDRGhNZm1rdGdwdjNqNUdnQy1selVfNzM4WlREeTVLczdIMnlCdU43b3hCTkFneDk5Q0VVQ0xTdFduZHfSAdcBQVVfeXFMTTJMQlRuVHlJZXZvMUpfVDBWSVZHMVhkRjNCNVFXWFJKaHNQd0pvREhsLU12YzY0MHRSYzh6NE5keE5Xc3Z2NUMwR1duSHUzN19sWWQ5bzA1V3N4M1ZscmtTOGxnenVEUVlSZm1ud3E4bmJMczJzX1JpNjFvMjcwSHNwNUhWeXdpcHlDYndLdEpFTnA4T2NCTi1IT1BZdjluak16aGcxLUJzOTNxYVg5NWw5ZjI0X2V1NzVwQmdYRk1KUEliV29UN2RVTXpreXlKLTNfTlRMQTA?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "South Korea inflation tops 3% on Middle East oil shock - upi.com",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU9xejZSekhsR0IyNk0zLW9OTmxIbVpuNHVldWJ4MTdNcnI4bzNlRlpUVTkzY0c5VlAwVFVlcEE1MUE0eWFVZ1drN2tScGlyS0lpZjJOV0JiM2xVV183bmJLRUMzM0VDODZUdFVmRWFScnJGUmxsdHhwSWV5UHlWaWVjSllUXzh5cnJZckpzZ3lsZXZvaHVMMkxFUzZuSVFqM1hj0gGoAUFVX3lxTE5QS0lMRGY2azlFQlFGNmxwV3BPS2N5QjVSNGtOSkRuRm9aSXk1MHZaXy1NV0paNWRfWGZEYXduUXJITUNvNFpVTjFoUGdZN3EyaTJRN3pvam1UWlFuV0tHeE8wOTFnUC1JbWJRV1VLYTBObDFEd2hsWUl4clBpTjRPUzdjb2drWWlWRnhOaDQ3dWR6aHRPTUp4M3dab2hBYnBmU0Vjd0hNVg?oc=5",
+        "press": "upi.com"
+      }
+    ],
+    "naver": [
+      {
+        "title": "허가·급여기간 단축, 약가제도 개편 등 변화…제약바이오 B학점",
+        "url": "https://n.news.naver.com/mnews/article/092/0002425164?sid=105",
+        "press": "zdnet.co.kr"
+      },
+      {
+        "title": "[이지 데스크의 시선] 코스닥 의욕상실증후군 / 최봉석",
+        "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=235959",
+        "press": "www.ezyeconomy.com"
+      },
+      {
+        "title": "로봇 대형주, 평균 150% 상승… 올해의 새로운 주도 테마",
+        "url": "https://www.tokenpost.kr/news/market/365673",
+        "press": "www.tokenpost.kr"
+      },
+      {
+        "title": "[이지 데스크의 시선] 코스닥 의욕상실증후군 / 최봉석",
+        "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=235959",
+        "press": "www.ezyeconomy.com"
+      },
+      {
+        "title": "상장 후 희비 엇갈린 아이빔테크놀로지·토모큐브...왜?",
+        "url": "https://n.news.naver.com/mnews/article/018/0006296417?sid=101",
+        "press": "www.edaily.co.kr"
+      },
+      {
+        "title": "로봇 대형주, 평균 150% 상승… 올해의 새로운 주도 테마",
+        "url": "https://www.tokenpost.kr/news/market/365673",
+        "press": "www.tokenpost.kr"
+      },
+      {
+        "title": "[로봇시대②] 젠슨 황이 띄운 '피지컬 AI 한국'... 글로벌 '핵심 축' 예고",
+        "url": "https://www.mediapen.com/news/view/1102303",
+        "press": "www.mediapen.com"
+      },
+      {
+        "title": "수은, 삼성전자 협력사 재생에너지 전환 컨설팅 비용 지원 협약",
+        "url": "https://n.news.naver.com/mnews/article/001/0016115545?sid=101",
+        "press": "www.yna.co.kr"
+      },
+      {
+        "title": "[컴퓨텍스2026] 삼성전자, HBM5 모형 첫 공개…AI 메모리 추격 고삐",
+        "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=313029",
+        "press": "www.wolyo.co.kr"
+      },
+      {
+        "title": "[컴퓨텍스2026] 삼성전자, HBM5 모형 첫 공개…AI 메모리 추격 고삐",
+        "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=313029",
+        "press": "www.wolyo.co.kr"
+      },
+      {
+        "title": "[이지 데스크의 시선] 코스닥 의욕상실증후군 / 최봉석",
+        "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=235959",
+        "press": "www.ezyeconomy.com"
+      },
+      {
+        "title": "사상 최대 ‘빚투’ 자칫하단 쪽박… 반대매매 3배 급증",
+        "url": "https://n.news.naver.com/mnews/article/005/0001852690?sid=101",
+        "press": "www.kmib.co.kr"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "IRAN'S IRGC SAYS IT CONDUCTED \"PRECISE AND CONCENTRATED MISSILE STRIKES\" ON US MILITARY BASES IN KUW",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "US CRUDE FUTURES SURGE MORE THAN $2 IN EARLY ASIA TRADE AS MIDDLE EAST HOSTILITIES INTENSIFY [...](h",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "JUST IN: PETER SCHIFF SAYS BITCOIN WILL CRASH BELOW $20,000.  [...](https://x.com/WatcherGuru/status",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "USTR LAUNCHES PUBLIC COMMENT PROCESS ON U.S.-CHINA BOARD OF TRADE; SEEKS INPUT ON SECTORS AND PRODUC",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "S&P 500 FUTURES DIP 0.1%, NASDAQ FUTURES OFF 0.1% AS US CRUDE RISES 1.1% ON GULF DEVELOPMENTS [...](",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "JUST IN: TOM LEE'S 'BITMINE' $ETH INVESTMENT IS CURRENTLY AT A $8,700,000,000 UNREALIZED LOSS.  [...",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "AUSTRALIA S&P GLOBAL MAY PMI COMPOSITE: 48.7 (PREV 47.8); SERVICES PMI: 48.7 (PREV 47.7) [...](https",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "AUSTRALIA'S ACCC APPROVES AMPOL'S ACQUISITION OF EG AUSTRALIA SUBJECT TO CONDITIONS [...](https://x.",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}
