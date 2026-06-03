@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "generated_at": "2026-06-03T23:37:40.709459+00:00",
+    "run_date": "20260604"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 11,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 99.55,
+      "change": 0.33,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.49,
+      "change": 0.81,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 16.06,
+      "change": 1.84,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7553.68,
+      "change": -0.74,
+      "insight": "전일종가 7609.78 / 변동 -56.0996",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 30571.24,
+      "change": -0.29,
+      "insight": "전일종가 30660.60 / 변동 -89.3633",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 50687.07,
+      "change": -1.21,
+      "insight": "전일종가 51307.79 / 변동 -620.7188",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1516.6,
+      "change": 0.35,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.94,
+      "change": -0.02,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "고객예탁금 1조 원 증가하며 증시 대기 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "point": "원/달러 환율 1,516원 돌파로 환 리스크 증대",
+      "tag": "Bearish"
+    },
+    {
+      "point": "반도체 업황 개선 기대감에 코스피 목표치 상향",
+      "tag": "Bullish"
+    },
+    {
+      "point": "프로그램 매도세 지속되며 수급상 부담 작용",
+      "tag": "Bearish"
+    },
+    {
+      "point": "코스닥 ETF 출시 확대로 중소형주 유동성 기대",
+      "tag": "Bullish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "국채 금리 급등 및 유가 압박에 3대 지수 급락",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 11 기록, 극단적 공포 국면 진입",
+      "tag": "Bearish"
+    },
+    {
+      "point": "SPY-IEF 상관계수 0.86로 시스템 위기 징후",
+      "tag": "Bearish"
+    },
+    {
+      "point": "QQQ PCR 2.46으로 옵션 시장 하방 압력 우세",
+      "tag": "Bearish"
+    },
+    {
+      "point": "M7 대신 반도체 중심 파라볼릭 7 종목 부상",
+      "tag": "Bullish"
+    },
+    {
+      "point": "하이일드 스프레드 안정세로 신용 위험은 제한적",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "골드만삭스, 반도체 업황 기대에 코스피 1만 2천 전망",
+      "url": "https://n.news.naver.com/mnews/article/374/0000513908?sid=101",
+      "press": "biz.sbs.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "뉴욕증시 급락 여파, 한국증시 향방에 쏠린 눈길",
+      "url": "https://www.sjsori.com/news/articleView.html?idxno=86299",
+      "press": "www.sjsori.com",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "비트코인 1억 지지선 붕괴, 글로벌 랠리 속 나 홀로 하락",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=523505",
+      "press": "www.joongangenews.com",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스닥 투자 ETF 출시 행진, 수익률 부진에도 공급 지속",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5YcVgteXV3QTd5T1ZsVlI4U0g0OVZwdkVZdUx5aHFqZUpjTWlTRzMxZ3RvTzB1X2dYazRwN3ZnbE43ankxMzBKOWNVMTVCV1E?oc=5",
+      "press": "매일경제",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "일론 머스크의 스페이스X, 1.75조 달러 가치로 IPO 추진",
+      "url": "https://x.com/financialjuice/sta",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "시장·기타",
+      "title": "핀테크 기업 한패스, 5월 MAU 48만 명 돌파하며 급성장",
+      "url": "https://n.news.naver.com/mnews/article/018/0006296963?sid=101",
+      "press": "www.edaily.co.kr",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "국채 금리 상승에 다우 지수 600포인트 급락 마감",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUbFdhN1B0LXNqR3ZLMUlsWXNDV0xOQ0J5TVl4R01XMFF3TDBwQUIyQzN0dm1KSWVGRi1qX3VodE1ud1NsbWJqRDBVel82WXQxVUd6SVBvSHBtYzR6VGFZaFZSRlFHTTJyc3pfVmJfbDlqaWRZLVpV0gF8QVVfeXFMTWJXVzM3ZGo3N2RRU0FkdEdHTlZwMVdyTkZtV3NQcE83b0xhelRDcnhSMXpucHFEZ1JaZFhPeENHWHJiVFNpc1RUYlVlSG5zR18tdC1VZkE3VDlZYlpsQkFGRGNWdC1kQi14ZVR4NzBXVEMtU2lVeG1pTENtZA?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "M7 가고 '파라볼릭 7' 시대, 샌디스크·마이크론 등 반도체 급등",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONWhfRUg1ZFFzU2pIcTludmc3MzhXRXZvM3A0T3RJYUdnZ0hqZ1M2OUNEUlUzNlZkX0NOOVpkODBvYVJYTDhUR3hRNWVIOTlyVkRmS3BwaFR5ZnZnSGU3eEk1Q3VpUjdDSG03aDdZNUhWenpTT096RmFQUzgzbURyN09UUTRSUW1yS3pDTV9pcnpsX2RxV2pwTmpzbzI?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "미-이란 거래 기대감 소멸 및 유가 압박에 지수 후퇴",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaG5MQWlUUVgzU2hFY3VWYTZLdmxzem0tcVBCa09BYXM0cmNweW5pazZvTVh5dGFPNVZMV19TMHYtWGRzLVBHTW1xc092RXc1aXhKVDZ4eEJwR19OcjNfRndkc3M4SW1lQ0FWblREakd0QjlvSUZJd2RnWVhtZTJ5MHhTa2ZnT0hWRklJVExpUzdmaTZlak01dGIzc002REk4TkhWSnBJLTVHc3FGN2NXa002N0dieDhvVzd3ZlVLOA?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "나비타스 세미컨덕터 19% 급등, 엔비디아발 AI 전력 혁명 수혜",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbHU0bEU5QXNCb1hQNUFSY204ZFNvamJWQi10c3VSSE40TmdlcEFYLXBwdVhrMUw3dXJuNjBUY21JTkVZWmRqLS1mUnNBcEdwSzBDcFZHblNNZEJGbFNfaVFSNFdwVVNENEhaZ21MTHgwYkR3aUF2OXQtRjJCd3gyYU1kVWZNNksxVW9sU1dTRmJhOHB1Q0RVb1BFemQxWmhiSG41a0tWLVpRZFpXVjln?oc=5",
+      "press": "富途牛牛",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "증시 사상 최고치 경신 중 투자자가 간과하는 핵심 리스크",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSVFwM191WW1hd0dtWENBaWVWaVZUdTJNcllycmtYamloQ29LOHlMM0tkS1FZWXNsck95X3VPU1lkLWgyanB3M21STG1WX3drV3p2aG1XWVhGcVRkY3RnZm5OWjBEQm1CVWM3TjBVN2pweFhUS0RXLVNfcW9jQ1R0MnlIWkdFRkVheWxNdE44NktUa1FQamxQRw?oc=5",
+      "press": "The Motley Fool",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "미 FCC, 해저 인터넷 케이블 시장 내 미국 기업 보호 규정 강화",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR2UydEp3YnNtaVhXYnV3a1k0aTNCR2ZlUkpVNnYwNmlsUTdLS0FzVUZlNG5ON0p4TUEwNzgzWDdxRTNDNzBwNUtEa3dYNktiZWstajA2QUlvR0FlQ2g3QnJLY1cwdDlQc0NLRi1wdzFEWktBVnotXzR4bVoxdGpucg?oc=5",
+      "press": "Yahoo! Finance Canada",
+      "source": "international"
+    }
+  ]
+}
