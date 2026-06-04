@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "generated_at": "2026-06-04T23:35:47.048160+00:00",
+    "run_date": "20260605"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [
+      {
+        "title": "고객예탁금: 1,368,111억원 (+42,119억원)",
+        "description": "신용융자잔고: 377,091억원"
+      }
+    ],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 -66,305백만원 (차익 +60,533 / 비차익 -126,838)",
+        "description": "기준일: 20260605"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 동화약품 (+0.00%)",
+        "description": "현재가: 5,400, 거래량: 0"
+      },
+      {
+        "title": "#2 KR모터스 (+0.00%)",
+        "description": "현재가: 332, 거래량: 0"
+      },
+      {
+        "title": "#3 경방 (+0.00%)",
+        "description": "현재가: 8,300, 거래량: 0"
+      },
+      {
+        "title": "#4 삼양홀딩스 (+0.00%)",
+        "description": "현재가: 55,400, 거래량: 0"
+      },
+      {
+        "title": "#5 하이트진로 (+0.00%)",
+        "description": "현재가: 16,590, 거래량: 0"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 0억원",
+        "description": "현재가: 79, 거래량: 40,000주"
+      },
+      {
+        "title": "#2 티웨이홀딩스 거래대금 0억원",
+        "description": "현재가: 317, 거래량: 10,383주"
+      },
+      {
+        "title": "#3 KODEX 코스닥150레버리지 거래대금 1억원",
+        "description": "현재가: 14,245, 거래량: 9,726주"
+      },
+      {
+        "title": "#4 덕산하이메탈 거래대금 1억원",
+        "description": "현재가: 15,010, 거래량: 6,780주"
+      },
+      {
+        "title": "#5 디아이씨 거래대금 0억원",
+        "description": "현재가: 10,260, 거래량: 6,340주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 +108,455,755주 / 기관 -57,116,950주 / 개인 -51,100,853주",
+        "description": "직전 영업일(20260604) 순매수 수량"
+      },
+      {
+        "title": "티웨이홀딩스 외국인 -489,044주 / 기관 +139,672주 / 개인 +72,372주",
+        "description": "직전 영업일(20260604) 순매수 수량"
+      },
+      {
+        "title": "KODEX 코스닥150레버리지 외국인 +439,652주 / 기관 +6,468,742주 / 개인 -6,412,122주",
+        "description": "직전 영업일(20260604) 순매수 수량"
+      },
+      {
+        "title": "덕산하이메탈 외국인 -140,425주 / 기관 +373,058주 / 개인 -237,150주",
+        "description": "직전 영업일(20260604) 순매수 수량"
+      },
+      {
+        "title": "디아이씨 외국인 -48,585주 / 기관 -258주 / 개인 +56,831주",
+        "description": "직전 영업일(20260604) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.43 (-0.10%)",
+        "description": "전일종가 99.53 / 변동 -0.0980"
+      },
+      {
+        "title": "미국 10년물 금리: 4.48 (-0.31%)",
+        "description": "전일종가 4.49 / 변동 -0.0140"
+      },
+      {
+        "title": "VIX 변동성지수: 15.40 (-4.11%)",
+        "description": "전일종가 16.06 / 변동 -0.6600"
+      },
+      {
+        "title": "S&P 500: 7584.31 (+0.41%)",
+        "description": "전일종가 7553.68 / 변동 +30.6299"
+      },
+      {
+        "title": "나스닥100: 30407.81 (-0.53%)",
+        "description": "전일종가 30571.24 / 변동 -163.4297"
+      },
+      {
+        "title": "다우존스: 51561.93 (+1.73%)",
+        "description": "전일종가 50687.07 / 변동 +874.8594"
+      },
+      {
+        "title": "USD/KRW: 1532.60 (+0.16%)",
+        "description": "전일종가 1530.11 / 변동 +2.4900"
+      },
+      {
+        "title": "USD/JPY: 159.98 (+0.03%)",
+        "description": "전일종가 159.94 / 변동 +0.0410"
+      },
+      {
+        "title": "코스피: 8801.49 (+0.15%)",
+        "description": "전일종가 8788.38 / 변동 +13.1104"
+      },
+      {
+        "title": "코스닥: 1026.03 (-2.29%)",
+        "description": "전일종가 1050.03 / 변동 -24.0000"
+      },
+      {
+        "title": "KOSPI200: 1407.23 (+0.52%)",
+        "description": "전일종가 1399.91 / 변동 +7.3199"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.844 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.39 | GEX +0.0B$ (만기:2026-06-04)",
+        "description": "콜OI 149,220 / 풋OI 207,775 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 3.11 | GEX -1.0B$ (만기:2026-06-04)",
+        "description": "콜OI 96,782 / 풋OI 301,356 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $203.97 (-4.22%)",
+        "description": "거래량 17,651,866주 (평균대비 1.2x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $760.83 (+0.47%)",
+        "description": "거래량 4,648,700주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 53.3% (106/199종목)",
+        "description": "평균 MA 대비 위치: +3.1%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 12/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-05-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-04-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 332.407",
+        "description": "Date: 2026-04-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 1.6",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.46",
+        "description": "Date: 2026-06-02, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.70조달러",
+        "description": "기준일: 2026-05-27 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.30조달러",
+        "description": "기준일: 2026-05-27 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 8426.60억달러",
+        "description": "기준일: 2026-05-27 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.02억달러",
+        "description": "기준일: 2026-06-03 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 275bp (2.75%)",
+        "description": "기준일: 2026-06-03 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 74bp (0.74%)",
+        "description": "기준일: 2026-06-03 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Dow jumps 850 points, Nasdaq rebounds after Broadcom outlook flop - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYllqbXFMeE9jMjNBU3JvbWEwZEk3MTJEaE5SMFZoYmlXSldtWThxb2lXZG9HY202V2psS1hDaDcxdnNTVFVuRXN3bGtsRnJ6U25BSDMxbkRxeXRULUNqZDQ0SDZBbFRDM01RM0gzb2U0YVZ1TDZDdTZob2RTNHpBTmZTR3dmODZJV2NubzFEOHZzemNFdEFTVzVORTVoZDBMQVYyd3NuTGlSOVZkTEI1bTRFRjJ1djlYUjQyNFNRUW1kZDd1cWk3Q3pDUU9MNjVxTmVn?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock market today: Dow jumps 850 points, Nasdaq rebounds after Broadcom outlook flop - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYllqbXFMeE9jMjNBU3JvbWEwZEk3MTJEaE5SMFZoYmlXSldtWThxb2lXZG9HY202V2psS1hDaDcxdnNTVFVuRXN3bGtsRnJ6U25BSDMxbkRxeXRULUNqZDQ0SDZBbFRDM01RM0gzb2U0YVZ1TDZDdTZob2RTNHpBTmZTR3dmODZJV2NubzFEOHZzemNFdEFTVzVORTVoZDBMQVYyd3NuTGlSOVZkTEI1bTRFRjJ1djlYUjQyNFNRUW1kZDd1cWk3Q3pDUU9MNjVxTmVn?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Dow surges nearly 900 points for record close as investors rotate away from tech names: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05ZUxKR095WHZhYlM0cDdQcE9xRHJ6NVA3SjRKTl9QSFdwdC1iUVhwLXMxaGpJYUtYbjFjdDJNRVpuYjM2VHBkQlkwYVozQko5Q1dQZ1dHYW1QeHpyMmhvQTAySmNkX2owYjljRWxTYzZ2SmFaVUtJ0gF8QVVfeXFMT1Z0UllXcC1CSFl4NjFiMnVFY0R2aVdyMFR4Zld2SkxBWDBlckZhUk9SUTB5UUNxUER4Z3R1WWk1UXBxNUNkY0psSGFfQWg0c1pReDdUYmxpZ3ZCOGRuV2czQjhzZF9KdEFWM0lxT3hPZ2xSb2I0RXVtbFNRdQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Intel, AMD, Micron shares trim losses after Broadcom results spark semiconductor sector sell-off - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObmZwSVBYOUZ5ZkQ3T3JFbVp0YnNNM3pnN2xTSXhENUxkazFTSmZCX21YZVZhLUprRnBDWEFQQ2NiNjZkLUZub1dtWFVpY0g0aFlVTzNJeG8ycmtyeVAxMGw0Nm5CZjM5ODhfbU02cjRFZ05ZMWVDUWlZNVptUWtBOW8zMUdyTEJjMGRrMDZYa01mNVgzOEJraWFWNU96eENlMFNCdXVXV2xrQ0ptU1VPZnQ1SXlfZzNUOFI2WlI5bWV0RWNGZnp5R3RsRWc1WEl4OUY3OW9uVGo5TWdNaTNSTzBBSHItZw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Broadcom suffers $285bn rout as revenue outlook disappoints - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDlQSU5BSkJEVXhLWmJNNXpaVkR1S2FnN1BEaV9nUk9IQ05QQlNNVTRqbXdyNl9mbkt0anRyYUhoeGd5d0lWYnFQVl85ZUtGZzJjU3lNQ2Vnb0JjYkVpVE8wRWMwRW1sNkJLanMxSTVoX2dWa0dmb3BndEhoSnhYendDdzY?oc=5",
+        "press": "Financial Times"
+      },
+      {
+        "title": "Tech stocks today: Chip stocks drag down tech sector as Broadcom earnings give investors pause - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYVlVV2ZiNEZNNXNTcjB3dmlfZkZmSUJraXQtbF9FQkhDLVIwRGUwYVhhanlpMVM4WUNJN1RVY1NYanhzU1d1SUprbmRHU2l5R0NZeC0zU3o1d3VfeWNnSFZna1dsYkxyTnFYNEg4VkVsWkVxR2ZoVHVPcnRaY0NEaGNULXJKbWZtbmpNcE5FQ2dycnBTQzZTRHFOWWUzUmhSZWpiMFlJYXQxTFlvd0RyaUJlbnc0eGRmQzlVd1FSU2lNYUI2Tzk3V0JJaFVZUEVqYUUteV90RUI?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "US Stock Market Outlook Update: Harvesting Growth Gains, Restoring Barbell - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORTNFM05XMXNWUUZkNzd3YWdyTE9XOURuS0psbl90aXQ0V1BHU0ZKWXl0VXlwTDVtdDhxVmdEalRwS2tCbGtQNHBRVW5TZzltbFZOc0lDM2tkNVZEM0U2MnNEcklvbXdCaXlZT2ZPcmdYWnZ0MVV4LUU2VWh6Z0pHTkQ2SjZ0WUFIVzBrZFFsQzNhUTVQMUlHNWNrMXZZdExndmFkUDYzQVZrZDg?oc=5",
+        "press": "Morningstar"
+      },
+      {
+        "title": "Stock market today: Dow jumps 850 points, Nasdaq rebounds after Broadcom outlook flop - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYllqbXFMeE9jMjNBU3JvbWEwZEk3MTJEaE5SMFZoYmlXSldtWThxb2lXZG9HY202V2psS1hDaDcxdnNTVFVuRXN3bGtsRnJ6U25BSDMxbkRxeXRULUNqZDQ0SDZBbFRDM01RM0gzb2U0YVZ1TDZDdTZob2RTNHpBTmZTR3dmODZJV2NubzFEOHZzemNFdEFTVzVORTVoZDBMQVYyd3NuTGlSOVZkTEI1bTRFRjJ1djlYUjQyNFNRUW1kZDd1cWk3Q3pDUU9MNjVxTmVn?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Cracks Emerge in Kospi’s 105% Rally as Breadth Concerns Mount - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWlp5cWpzMk84YkNwR1FONFprVndTQkhzZHY0eXJ4WTBVQ3JTbE5rbW1ab2RBbkJBUlV1UXk0eXVIY2Zocy1FUWNnclZsUEFEVktFZ2dCTnRSM1RUQ2FmRzZZMWhZMGFZOGRTcndhMURCUFlpQm00YTk1Z1BGMkhSMkRZOTBqODJSX25JNFZIdDdEaW9hTHphekx2MEFKbzcteHIwU1ZlZDc4aHJYa3VyMQ?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Three Undiscovered Gems in Asia with Promising Potential - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSHItcWJFazZxNlBhcUlVaV9ONndPSnc3dXNYM1V0X19PZEJZZHpVRWlrRUg2aHkxczJZQm93Nm4wbk5BZFNHQl84WFlscThvVy10b0VKdGZVRE5YSHhjOXlrdG9xSnJ5a3JfTW4wc1lfZXFUUl9RUVRNbjhOcVhra1JSeS1hQnlEVTNCcFJqVWJTYVZXVkd3NXozV2lhOUI0dkdmSVhkVDdSNUgxcWR0VXlnS0lDT3VWbzFPNGpzYk5qMy1HbEVJNzJrRHpTOFIyS3RDZC05WdIB3AFBVV95cUxOUmFTajBKaEN1M2tRakVmcUMwbEhiYlRlaEtjeXdCN2pUM1lIRFZRYjhnX2Z5YkFoVHJfZGRscmxEdUlvV0h3U0R6UkRRcTdlQ0E4SE5pNEZwcUVWZ19OSXc0TU9HTTZURWFGUHRSMmIyU19UMVA2ZnNzeTg3bTZxNVJnTnllanVtOFp5YV9qR2FrdXEwcjNiRmtzb3NNWkFmOWdYWVY2c05LT0hsbnloOEMyNHNwc3lGZ1BSV2xkVXdPUnBYWXRwQTRUYm04SzlGMGlPZy00S0x5UnFT?oc=5",
+        "press": "simplywall.st"
+      }
+    ],
+    "naver": [
+      {
+        "title": "환율, 야간거래서 1,540원 넘어…금융위기 이후 최고",
+        "url": "https://www.namdonews.com/news/articleView.html?idxno=912734",
+        "press": "www.namdonews.com"
+      },
+      {
+        "title": "젠슨 황 방한 관련주 10%대 급락…'변동성 주의보'",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418390",
+        "press": "news.einfomax.co.kr"
+      },
+      {
+        "title": "[증시 포인트] 브로드컴 급락 여파 속 하락 출발 전망",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=139557",
+        "press": "www.opinionnews.co.kr"
+      },
+      {
+        "title": "'반도체 쏠림'에 소외된 바이오…자금 조달 '비상등'",
+        "url": "https://n.news.naver.com/mnews/article/648/0000047735?sid=101",
+        "press": "news.bizwatch.co.kr"
+      },
+      {
+        "title": "[증시 포인트] 브로드컴 급락 여파 속 하락 출발 전망",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=139557",
+        "press": "www.opinionnews.co.kr"
+      },
+      {
+        "title": "[클릭 e종목]\"에이텀, 국내 유일 '평판형 트랜스'로 AI 데이터센터 게임...",
+        "url": "https://n.news.naver.com/mnews/article/277/0005772118?sid=101",
+        "press": "view.asiae.co.kr"
+      },
+      {
+        "title": "\"BTS 공연인데 휴대폰 꺼달라고?\"…팬들이 박수친 이유",
+        "url": "https://n.news.naver.com/mnews/article/008/0005367478?sid=105",
+        "press": "www.mt.co.kr"
+      },
+      {
+        "title": "\"삼성전자 8만원에 1000주 넘게 샀는데 남긴 건 500만원\" 박정수의 고백",
+        "url": "https://n.news.naver.com/mnews/article/014/0005530889?sid=101",
+        "press": "www.fnnews.com"
+      },
+      {
+        "title": "하나證 “피에스케이, 삼성·마이크론·인텔 투자 확대 기대감…목표가...",
+        "url": "https://n.news.naver.com/mnews/article/366/0001169544?sid=101",
+        "press": "biz.chosun.com"
+      },
+      {
+        "title": "[CEO Effect] 최태원의 베팅, 그리고 91%… \"반도체 더 만들어달라\"는 말...",
+        "url": "https://www.greened.kr/news/articleView.html?idxno=341915",
+        "press": "www.greened.kr"
+      },
+      {
+        "title": "[재계 인사이드] 그래도 LG가 자동차를 안만드는 이유",
+        "url": "https://www.news2day.co.kr/article/20260605500011",
+        "press": "www.news2day.co.kr"
+      },
+      {
+        "title": "“삼전닉스 2배 베팅하자”…코스피 질주에 단타 나선 개미",
+        "url": "https://n.news.naver.com/mnews/article/119/0003097953?sid=101",
+        "press": "www.dailian.co.kr"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "JAPAN APRIL LABOUR DATA\n\nCASH EARNINGS (Y/Y): 3.5% BEAT (EST 3.1%, PREV 3.1%R)\n\nREAL CASH EARNINGS (",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "JAPAN LABOUR CASH EARNINGS (Y/Y) APR: 3.5% (EST 3.1%; PREV 2.7%; PREVR 3.1%) \n\n- REAL CASH EARNINGS ",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "S&P 500 FUTURES DOWN 0.3%, NASDAQ FUTURES SLIDE 0.6%. [...](https://x.com/FirstSquawk/status/2062676",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "NIB HOLDINGS SELLS AUSTRALIA AND NEW ZEALAND TRAVEL INSURANCE BUSINESSES TO ALLIANZ PARTNERS FOR UP ",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "ITC PROPERTIES SIGNS 36-MONTH MOU WITH CHINA UNICOM HONG KONG TO SECURE AT LEAST 6MW OF DATA CENTER ",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "PERPETUAL TO ACQUIRE 70% OF INTERFI SYSTEMS, WITH OPTION TO BUY REMAINING 30% BY FY31; DEAL TO CLOSE",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "*US HAS HELD TALKS ABOUT ACQUIRING SHARES IN AI GIANTS: NOTUS\n\n*SAM ALTMAN SPOKE ABOUT GOVERNMENT SH",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "JUST IN: JPMORGAN, CITI AND MAJOR US BANKS TO LAUNCH NEW TOKENIZED DEPOSIT SYSTEM TO COMPETE WITH CR",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "generated_at": "2026-06-04T23:35:47.049425+00:00",
+    "run_date": "20260605"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 12,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 99.43,
+      "change": -0.1,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.48,
+      "change": -0.31,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 15.4,
+      "change": -4.11,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7584.31,
+      "change": 0.41,
+      "insight": "전일종가 7553.68 / 변동 +30.6299",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 30407.81,
+      "change": -0.53,
+      "insight": "전일종가 30571.24 / 변동 -163.4297",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51561.93,
+      "change": 1.73,
+      "insight": "전일종가 50687.07 / 변동 +874.8594",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1532.6,
+      "change": 0.16,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.98,
+      "change": 0.03,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "환율 야간 1,540원 돌파하며 금융위기 이후 최고치 경신",
+      "tag": "Bearish"
+    },
+    {
+      "point": "EWY 한국 ETF 4.22% 급락하며 외국인 매도 압력 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "젠슨 황 방한 관련주 급락 등 반도체 변동성 확대 주의",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 12포인트로 '극단적 공포' 및 패닉 구간 진입",
+      "tag": "Neutral"
+    },
+    {
+      "point": "고객예탁금 4조 원 이상 증가하며 저가 매수 대기 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "point": "코스피 프로그램 순매수 및 신용융자 잔고 경계 신호 발생",
+      "tag": "Bearish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "다우 지수 1.73% 급등하며 기술주에서 가치주로 순환매 가속",
+      "tag": "Bullish"
+    },
+    {
+      "point": "브로드컴 실적 전망 실망에 나스닥 및 반도체 섹터 하방 압력",
+      "tag": "Bearish"
+    },
+    {
+      "point": "SPY-IEF 상관계수 0.844로 시스템 리스크 및 인플레 우려",
+      "tag": "Bearish"
+    },
+    {
+      "point": "QQQ PCR 3.11 기록하며 나스닥 시장의 강한 변동성 노출",
+      "tag": "Bearish"
+    },
+    {
+      "point": "10년물 금리 및 달러 인덱스 하락으로 긴축 긴장감 소폭 완화",
+      "tag": "Bullish"
+    },
+    {
+      "point": "하이일드 스프레드 안정세 유지되며 신용 위험은 제한적",
+      "tag": "Bullish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "매크로·금리",
+      "title": "환율, 야간거래서 1,540원 넘어…금융위기 이후 최고",
+      "url": "https://www.namdonews.com/news/articleView.html?idxno=912734",
+      "press": "www.namdonews.com",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "젠슨 황 방한 관련주 10%대 급락…'변동성 주의보'",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418390",
+      "press": "news.einfomax.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 105% 랠리 균열 발생, 시장 폭 좁아지며 우려 확산",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWlp5cWpzMk84YkNwR1FONFprVndTQkhzZHY0eXJ4WTBVQ3JTbE5rbW1ab2RBbkJBUlV1UXk0eXVIY2Zocy1FUWNnclZsUEFEVktFZ2dCTnRSM1RUQ2FmRzZZMWhZMGFZOGRTcndhMURCUFlpQm00YTk1Z1BGMkhSMkRZOTBqODJSX25JNFZIdDdEaW9hTHphekx2MEFKbzcteHIwU1ZlZDc4aHJYa3VyMQ?oc=5",
+      "press": "Bloomberg.com",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "브로드컴 급락 여파 속 국내 증시 하락 출발 전망",
+      "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=139557",
+      "press": "www.opinionnews.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "'반도체 쏠림'에 소외된 바이오…자금 조달 '비상등'",
+      "url": "https://n.news.naver.com/mnews/article/648/0000047735?sid=101",
+      "press": "news.bizwatch.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "에이텀, 국내 유일 '평판형 트랜스'로 AI 데이터센터 공략",
+      "url": "https://n.news.naver.com/mnews/article/277/0005772118?sid=101",
+      "press": "view.asiae.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "삼성전자 고점 매수 개인 투자자들 수익률 부진 고백",
+      "url": "https://n.news.naver.com/mnews/article/014/0005530889?sid=101",
+      "press": "www.fnnews.com",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "뉴욕증시, 다우 850포인트 급등…브로드컴 쇼크 후 나스닥 반등",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYllqbXFMeE9jMjNBU3JvbWEwZEk3MTJEaE5SMFZoYmlXSldtWThxb2lXZG9HY202V2psS1hDaDcxdnNTVFVuRXN3bGtsRnJ6U25BSDMxbkRxeXRULUNqZDQ0SDZBbFRDM01RM0gzb2U0YVZ1TDZDdTZob2RTNHpBTmZTR3dmODZJV2NubzFEOHZzemNFdEFTVzVORTVoZDBMQVYyd3NuTGlSOVZkTEI1bTRFRjJ1djlYUjQyNFNRUW1kZDd1cWk3Q3pDUU9MNjVxTmVn?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "다우 지수 900포인트 근접 급등, 투자자들 기술주에서 순환매",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05ZUxKR095WHZhYlM0cDdQcE9xRHJ6NVA3SjRKTl9QSFdwdC1iUVhwLXMxaGpJYUtYbjFjdDJNRVpuYjM2VHBkQlkwYVozQko5Q1dQZ1dHYW1QeHpyMmhvQTAySmNkX2owYjljRWxTYzZ2SmFaVUtJ0gF8QVVfeXFMT1Z0UllXcC1CSFl4NjFiMnVFY0R2aVdyMFR4Zld2SkxBWDBlckZhUk9SUTB5UUNxUER4Z3R1WWk1UXBxNUNkY0psSGFfQWg0c1pReDdUYmxpZ3ZCOGRuV2czQjhzZF9KdEFWM0lxT3hPZ2xSb2I0RXVtbFNRdQ?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "브로드컴, 수익 전망 실망에 시가총액 2,850억 달러 증발",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNWDlQSU5BSkJEVXhLWmJNNXpaVkR1S2FnN1BEaV9nUk9IQ05QQlNNVTRqbXdyNl9mbkt0anRyYUhoeGd5d0lWYnFQVl85ZUtGZzJjU3lNQ2Vnb0JjYkVpVE8wRWMwRW1sNkJLanMxSTVoX2dWa0dmb3BndEhoSnhYendDdzY?oc=5",
+      "press": "Financial Times",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "인텔, AMD, 마이크론, 브로드컴 여파에 따른 하락폭 축소",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObmZwSVBYOUZ5ZkQ3T3JFbVp0YnNNM3pnN2xTSXhENUxkazFTSmZCX21YZVZhLUprRnBDWEFQQ2NiNjZkLUZub1dtWFVpY0g0aFlVTzNJeG8ycmtyeVAxMGw0Nm5CZjM5ODhfbU02cjRFZ05ZMWVDUWlZNVptUWtBOW8zMUdyTEJjMGRrMDZYa01mNVgzOEJraWFWNU96eENlMFNCdXVXV2xrQ0ptU1VPZnQ1SXlfZzNUOFI2WlI5bWV0RWNGZnp5R3RsRWc1WEl4OUY3OW9uVGo5TWdNaTNSTzBBSHItZw?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "반도체 섹터 실망감에 기술주 전반적으로 투자자 심리 위축",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYVlVV2ZiNEZNNXNTcjB3dmlfZkZmSUJraXQtbF9FQkhDLVIwRGUwYVhhanlpMVM4WUNJN1RVY1NYanhzU1d1SUprbmRHU2l5R0NZeC0zU3o1d3VfeWNnSFZna1dsYkxyTnFYNEg4VkVsWkVxR2ZoVHVPcnRaY0NEaGNULXJKbWZtbmpNcE5FQ2dycnBTQzZTRHFOWWUzUmhSZWpiMFlJYXQxTFlvd0RyaUJlbnc0eGRmQzlVd1FSU2lNYUI2Tzk3V0JJaFVZUEVqYUUteV90RUI?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "미국 증시 전망 업데이트: 성장주 수익 실현 및 바벨 전략 복원",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORTNFM05XMXNWUUZkNzd3YWdyTE9XOURuS0psbl90aXQ0V1BHU0ZKWXl0VXlwTDVtdDhxVmdEalRwS2tCbGtQNHBRVW5TZzltbFZOc0lDM2tkNVZEM0U2MnNEcklvbXdBaXlZT2ZPcmdYWnZ0MVV4LUU2VWh6Z0pHTkQ2SjZ0WUFIVzBrZFFsQzNhUTVQMUlHNWNrMXZZdExndmFkUDYzQVZrZDg?oc=5",
+      "press": "Morningstar",
+      "source": "international"
+    }
+  ]
+}
