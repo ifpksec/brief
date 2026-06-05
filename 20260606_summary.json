@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "generated_at": "2026-06-05T23:36:33.363447+00:00",
+    "run_date": "20260606"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 12,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 100.07,
+      "change": 0.66,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.54,
+      "change": 1.32,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 21.51,
+      "change": 39.68,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7383.74,
+      "change": -2.64,
+      "insight": "전일종가 7584.31 / 변동 -200.5698",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 28957.6,
+      "change": -4.77,
+      "insight": "전일종가 30407.81 / 변동 -1450.2109",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 50866.78,
+      "change": -1.35,
+      "insight": "전일종가 51561.93 / 변동 -695.1484",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1558.84,
+      "change": 1.68,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 160.29,
+      "change": 0.22,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "코스피 200 야간 선물 8% 급락, 증시 패닉 가능성",
+      "tag": "Bearish"
+    },
+    {
+      "point": "환율 1,558원 돌파, 원화 약세에 따른 자본 유출 우려",
+      "tag": "Bearish"
+    },
+    {
+      "point": "외국인 삼성전자 30조 원 매도, 반도체 수급 악화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "MSCI 한국 ETF(EWY) 14% 폭락하며 하락 압력 가중",
+      "tag": "Bearish"
+    },
+    {
+      "point": "외국인 20일 연속 매도세에 코스피 지지선 붕괴 위기",
+      "tag": "Bearish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "나스닥 4.77% 급락, 반도체 섹터 중심의 투매 현상",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VIX 지수 21.51로 40% 폭등, 시장 공포 극대화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미 국채 금리 4.54% 상승하며 기술주 밸류에이션 압박",
+      "tag": "Bearish"
+    },
+    {
+      "point": "GEX 마이너스 전환 및 풋옵션 우세로 변동성 확대",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 12 기록, 극단적 공포 단계 진입",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "코스피200 야간선물 8.00% 급락…월요일 증시 초비상",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=457974",
+      "press": "핀포인트뉴스",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "삼성전자 30조 팔아치운 외국인...무슨 종목 담았나",
+      "url": "https://n.news.naver.com/mnews/article/050/0000107000?sid=101",
+      "press": "한경비즈니스",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "외국인 20일 연속 매도에 코스피 8,000선 아래로",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN3JHdzVvM3hRRTk3NzFKNEZ4UEdESVlwRVJuWHRWSlRwb2ZvRldFWDkwcWdfLVp2TXpQWHE2VVhYOE9nUW93bmNMSmNha2ZKZFpFandURWlyRnMyeHByUE9mdWZFbXpaVDJibzdia2hET1V6WFc5cF9jdnczWG4wX1QwT3NMT1FMY3UtWUJB?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "AI 붐으로 삼성·SK하이닉스 주도 한국 메모리 이익 증가",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tM3dSOE5mcEJzMU9EYUw2RmJxYnRGdUpYaHlOaDhpUVV1STVwZ0c4UkdzUVE1c2ZJV2RlWFRyam9QSkFLY3dIdzE2VTE0NmlGcUdvUlJrTkJhUE1FRzlBbWh4aUZpOXpicFZINmNCLUtmbmU4TGVjalhR0gGOAUFVX3lxTE1PbEJwOU1BMlhxanFndFdoVzhpWXUyRjEtNjgxZmZKU2U2ZlRNSjlDWjAycnJRSk5CVVFIXzhWbDZhaTFibFR6ZU5UcGpoSHUwS1ByX2Y4ZmVINkliWVhjXy1oTVg2YWpHU0dMc1BjTGpKSnBhTVcwOWlxNVdBNjV6SEp5UmtxYmo2YVd1N1E?oc=5",
+      "press": "Chosunbiz",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 829개사 기업지배구조 보고서 제출 완료",
+      "url": "https://www.sentv.co.kr/article/view/sentv202606050113",
+      "press": "SEN TV",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "삼성, 온누리상품권 5조원 구매로 내수 진작 첫발",
+      "url": "https://n.news.naver.com/mnews/article/0422/0000871902?sid=101",
+      "press": "연합뉴스TV",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "트럼프: 160개 의약품에 대해 대폭 할인 혜택 추가",
+      "url": "https://x.com/financial",
+      "press": "Market News Feed",
+      "source": "telegram"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "나스닥 4% 급락, 반도체주 투매로 2025년 이후 최악의 날",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kbmJhQnNqa25MZURtQ1hhSGdvM2VjTVd5RWp3UTJxQWJaR2xrc05XZWRvOTFKT2NmUXNjSTNpZmJmbDVsbVhGT0xVc0dXVTRyWmFyUkZXRTlTZGFwRVI3NmtKb1BUR1MzMlhiLTNKNDNPRVZwcU1N0gF8QVVfeXFMTWRaUXR0VXA0ak1lZlpJQ3ZxVkcxeW9QMjgzTy1vWndxalBGbk00a1ZZZ2gwSzEwak9vUnZaMUdSYW92eFRmREd6TWZpZ1hPSW1EWU84TUdLVEEyMFdueXRjMTBGNmZVdXBPQ1YxOEgzOVZoUE4tTDZZaVR5Zg?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "브로드컴 및 인텔 하락, 칩 섹터 매도세 아직 끝나지 않았다",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajg5VGdlckNoLTIxblRVeEtnZnU4SEhEWEFjcU42WXd5cWdxOEV4ZUZqV1BsaUFwZ0FiM3dSUURxcnJZQVVyQ0xGVmZEZUhha0NwZ0RRZWdlNTUyWkFSNUxacGJfUE1xZEF2SmQ2UmRYTkV2Nzc0N0M4UmF0TDMwS2R3?oc=5",
+      "press": "Barron's",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "퀄컴 주가 폭락 원인 분석 및 향후 전망",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVDZpai1FXy13dVU4LWd1WmhaUXdGOExtM0FRd3NrZ0h4SGxvc2hWUmh4MEVMYW9xZ2FCS2hMbzk4bVl2aXlCWHB4ejFRd3JidXNsVnlLQ0ZpTF9MbXR0VG9zQ1dONUhQTDlIeENCcVQtcTlPWDI3TU0wc0gzbnBOM3JnU2tUTkFQcEhYdmtfVi1KOEpYOGNhSFVMMWVsdHZj?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미국 증시 급락, 빅테크 위기론에 월가 공포 확산",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Md0VwQTBZMkZhcmhKQ1phZFhwVUJMcGxHVW5wMkU3YUFoY2thZnJTb1FoaWkweV9wTllaZU1WQ0ZTX1ZaR2FPdExEUnJjM1ptN2hiV3l4Tk9qZw?oc=5",
+      "press": "BBC",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "증시 폭락이 다가온다면 역사적으로 증명된 현명한 투자법",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUktHbFU5MHJqVHplc0FWMVhhNnBaNGcwX0FhZmtWTzhOTXc0a01KVTBVMnlWT1o5SUxJeUpJOTR3NzU2bG5tQkNseHZTUjZibTlFMUVCRnpfaEVoZGpWQ25NbWw2MHJMblZmNklOUEllQ0wyNXROSVZCSTdWU0JIN0dERDNmckctRWxaWDhoRWs5ZFFPQzVRVjU5c3U3Rkk?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "슈퍼마이크로, 퀄컴 등 주요 기술주 폭락세 지속",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb0xDTmVQY3U5WkFOMmhkbzNDc2JoV2t0RW9YcDBQdEUza0puZnZVbjdDOFhoR1pZaUdyaWgzaGgxZzdkTDVtN181dWZUYnhwNGFBVkY4VU80LTM4TkhlUEozZDd0NWM2TXhfTy01M2w1QkZTcGd1cHJLd0JlMTVQSThCa0lFeVV0bXVZVHFTaXFJUnZZVS13TnRZbXZZMTdLZ1gteXVIaXNMOFU?oc=5",
+      "press": "Moomoo",
+      "source": "international"
+    }
+  ]
+}

@@ -1,0 +1,383 @@
+{
+  "meta": {
+    "generated_at": "2026-06-05T23:36:33.361421+00:00",
+    "run_date": "20260606"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [
+      {
+        "title": "#1 대원제약 (+29.94%)",
+        "description": "현재가: 11,240, 거래량: 69,588"
+      },
+      {
+        "title": "#2 에이엔피 (+14.02%)",
+        "description": "현재가: 610, 거래량: 2,021,576"
+      },
+      {
+        "title": "#3 일정실업 (+13.68%)",
+        "description": "현재가: 1,994, 거래량: 196,402"
+      },
+      {
+        "title": "#4 인바이오젠 (+12.28%)",
+        "description": "현재가: 7,590, 거래량: 21,669"
+      },
+      {
+        "title": "#5 GS피앤엘 (+9.14%)",
+        "description": "현재가: 48,950, 거래량: 346,033"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 7,719억원",
+        "description": "현재가: 88, 거래량: 8,894,021,950주"
+      },
+      {
+        "title": "#2 KODEX 인버스 거래대금 8,573억원",
+        "description": "현재가: 996, 거래량: 864,658,053주"
+      },
+      {
+        "title": "#3 대신밸런스제20호스팩 거래대금 7,726억원",
+        "description": "현재가: 1,984, 거래량: 157,782,026주"
+      },
+      {
+        "title": "#4 삼성 인버스 2X WTI원유 선물 ETN 거래대금 25억원",
+        "description": "현재가: 16, 거래량: 157,018,141주"
+      },
+      {
+        "title": "#5 TIGER 200선물인버스2X 거래대금 96억원",
+        "description": "현재가: 95, 거래량: 104,285,711주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 +123,377,266주 / 기관 +961,146,800주 / 개인 -1,069,907,889주",
+        "description": "직전 영업일(20260605) 순매수 수량"
+      },
+      {
+        "title": "KODEX 인버스 외국인 +820,486주 / 기관 +68,046,433주 / 개인 -67,702,834주",
+        "description": "직전 영업일(20260605) 순매수 수량"
+      },
+      {
+        "title": "대신밸런스제20호스팩 외국인 -158,135주 / 기관 -3,346,815주 / 개인 +3,816,039주",
+        "description": "직전 영업일(20260605) 순매수 수량"
+      },
+      {
+        "title": "삼성 인버스 2X WTI원유 선물 ETN 외국인 +40,393주 / 기관 +74,052,305주 / 개인 -70,405,180주",
+        "description": "직전 영업일(20260605) 순매수 수량"
+      },
+      {
+        "title": "TIGER 200선물인버스2X 외국인 +3,363,176주 / 기관 +20,841,898주 / 개인 -24,268,879주",
+        "description": "직전 영업일(20260605) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.07 (+0.66%)",
+        "description": "전일종가 99.41 / 변동 +0.6610"
+      },
+      {
+        "title": "미국 10년물 금리: 4.54 (+1.32%)",
+        "description": "전일종가 4.48 / 변동 +0.0590"
+      },
+      {
+        "title": "VIX 변동성지수: 21.51 (+39.68%)",
+        "description": "전일종가 15.40 / 변동 +6.1100"
+      },
+      {
+        "title": "S&P 500: 7383.74 (-2.64%)",
+        "description": "전일종가 7584.31 / 변동 -200.5698"
+      },
+      {
+        "title": "나스닥100: 28957.60 (-4.77%)",
+        "description": "전일종가 30407.81 / 변동 -1450.2109"
+      },
+      {
+        "title": "다우존스: 50866.78 (-1.35%)",
+        "description": "전일종가 51561.93 / 변동 -695.1484"
+      },
+      {
+        "title": "USD/KRW: 1558.84 (+1.68%)",
+        "description": "전일종가 1533.07 / 변동 +25.7700"
+      },
+      {
+        "title": "USD/JPY: 160.29 (+0.22%)",
+        "description": "전일종가 159.94 / 변동 +0.3530"
+      },
+      {
+        "title": "코스피: 8639.41 (-1.84%)",
+        "description": "전일종가 8801.49 / 변동 -162.0801"
+      },
+      {
+        "title": "코스닥: 1049.73 (+2.31%)",
+        "description": "전일종가 1026.03 / 변동 +23.7000"
+      },
+      {
+        "title": "KOSPI200: 1379.56 (-1.97%)",
+        "description": "전일종가 1407.23 / 변동 -27.6699"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.779 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 2.51 | GEX -1.0B$ (만기:2026-06-05)",
+        "description": "콜OI 358,768 / 풋OI 901,975 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.83 | GEX -2.9B$ (만기:2026-06-05)",
+        "description": "콜OI 246,417 / 풋OI 696,558 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $175.19 (-14.11%)",
+        "description": "거래량 48,603,487주 (평균대비 2.9x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $740.91 (-2.62%)",
+        "description": "거래량 9,643,823주 (평균대비 1.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 54.3% (108/199종목)",
+        "description": "평균 MA 대비 위치: +2.0%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 12/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-05-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-05-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 332.407",
+        "description": "Date: 2026-04-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 1.6",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.47",
+        "description": "Date: 2026-06-04, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.71조달러",
+        "description": "기준일: 2026-06-03 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.33조달러",
+        "description": "기준일: 2026-06-03 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 8457.22억달러",
+        "description": "기준일: 2026-06-03 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.01억달러",
+        "description": "기준일: 2026-06-05 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 274bp (2.74%)",
+        "description": "기준일: 2026-06-04 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 74bp (0.74%)",
+        "description": "기준일: 2026-06-04 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Why Qualcomm (QCOM) Stock Is Nosediving - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVDZpai1FXy13dVU4LWd1WmhaUXdGOExtM0FRd3NrZ0h4SGxvc2hWUmh4MEVMYW9xZ2FCS2hMbzk4bVl2aXlCWHB4ejFRd3JidXNsVnlLQ0ZpTF9MbXR0VG9zQ1dONUhQTDlIeENCcVQtcTlPWDI3TU0wc0gzbnBOM3JnU2tUTkFQcEhYdmtfVi1KOEpYOGNhSFVMMWVsdHZj?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "SpaceX is set to be a 'seminal event' for the stock market next week. Here's what's ahead - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYmFyRWwxZklmZ0NrQzVpeTlDYmZOdnR4aWZJT2JVQm0wTVljNTlLbzR3RmZ6VDhhM1FWTGZ4a0ZtN2lXVFNJSS1yMkxFNUdoUGwwelYza08xWGxFaWpzeDBkUEJ6ZUZSOU9RTEpPcWhVTm9NVEZfU3RjRjlhVlRjNW5DSmNMU0F4ZUthU1oybmNBOFhZTlRId1RPRUU1a09McDBEY2tjdzF4SHo3RUphVU5NLURJZ3FQcThTOXhB?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Nasdaq falls 4% and suffers worst day since April 2025 as traders flee chip stocks: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kbmJhQnNqa25MZURtQ1hhSGdvM2VjTVd5RWp3UTJxQWJaR2xrc05XZWRvOTFKT2NmUXNjSTNpZmJmbDVsbVhGT0xVc0dXVTRyWmFyUkZXRTlTZGFwRVI3NmtKb1BUR1MzMlhiLTNKNDNPRVZwcU1N0gF8QVVfeXFMTWRaUXR0VXA0ak1lZlpJQ3ZxVkcxeW9QMjgzTy1vWndxalBGbk00a1ZZZ2gwSzEwak9vUnZaMUdSYW92eFRmREd6TWZpZ1hPSW1EWU84TUdLVEEyMFdueXRjMTBGNmZVdXBPQ1YxOEgzOVZoUE4tTDZZaVR5Zg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "US stocks slump as fears over Big Tech shake Wall Street - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Md0VwQTBZMkZhcmhKQ1phZFhwVUJMcGxHVW5wMkU3YUFoY2thZnJTb1FoaWkweV9wTllaZU1WQ0ZTX1ZaR2FPdExEUnJjM1ptN2hiV3l4Tk9qZw?oc=5",
+        "press": "BBC"
+      },
+      {
+        "title": "If a Stock Market Crash Is Coming, History Shows This Is the Smartest Move Investors Can Make - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUktHbFU5MHJqVHplc0FWMVhhNnBaNGcwX0FhZmtWTzhOTXc0a01KVTBVMnlWT1o5SUxJeUpJOTR3NzU2bG5tQkNseHZTUjZibTlFMUVCRnpfaEVoZGpWQ25NbWw2MHJMblZmNklOUEllQ0wyNXROSVZCSTdWU0JIN0dERDNmckctRWxaWDhoRWs5ZFFPQzVRVjU5c3U3Rkk?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Broadcom and Intel Stocks Drop. The Chip Selloff Isn’t Done Yet. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNajg5VGdlckNoLTIxblRVeEtnZnU4SEhEWEFjcU42WXd5cWdxOEV4ZUZqV1BsaUFwZ0FiM3dSUURxcnJZQVVyQ0xGVmZEZUhha0NwZ0RRZWdlNTUyWkFSNUxacGJfUE1xZEF2SmQ2UmRYTkV2Nzc0N0M4UmF0TDMwS2R3?oc=5",
+        "press": "Barron's"
+      },
+      {
+        "title": "Super Micro, Qualcomm Among Tech Stocks Getting Hammered Today -- WSJ - Moomoo",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb0xDTmVQY3U5WkFOMmhkbzNDc2JoV2t0RW9YcDBQdEUza0puZnZVbjdDOFhoR1pZaUdyaWgzaGgxZzdkTDVtN181dWZUYnhwNGFBVkY4VU80LTM4TkhlUEozZDd0NWM2TXhfTy01M2w1QkZTcGd1cHJLd0JlMTVQSThCa0lFeVV0bXVZVHFTaXFJUnZZVS13TnRZbXZZMTdLZ1gteXVIaXNMOFU?oc=5",
+        "press": "Moomoo"
+      },
+      {
+        "title": "Navigating the market outlook during a major tech and semiconductor sell-off - Fox Business",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43VWV4WnZJdGdINlQzbmJIaURyc21ITXBEck8teEdUQjVhRm1PWEtIZ01LSDM4dW1pamVtQnMxSGVHTU81VVR5bHhCM0VNOW9nY2NvZEs2T0UwVHM?oc=5",
+        "press": "Fox Business"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "KOSPI Falls Below 8,000 Amid 20-Day Foreign Sell-Off - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN3JHdzVvM3hRRTk3NzFKNEZ4UEdESVlwRVJuWHRWSlRwb2ZvRldFWDkwcWdfLVp2TXpQWHE2VVhYOE9nUW93bmNMSmNha2ZKZFpFandURWlyRnMyeHByUE9mdWZFbXpaVDJibzdia2hET1V6WFc5cF9jdnczWG4wX1QwT3NMT1FMY3UtWUJB?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "We Ran A Stock Scan For Earnings Growth And Purit (KOSDAQ:445180) Passed With Ease - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbVNVbWhrd1FVeVQ1ZjJ6ZVBhYXpVck5sSFFpdmdTX0drQTJncEVqclJDMll3Qkk1Ujl3Uy0yeWxRd25VejVkRUNDSm5nTGl3QXkzUnZsbkIzVjZpNGJmNXBDVFJjMUFQWll3UGhOSkQ5WlBkUU1vRGZ6dkhWcElLZU9yQ0xyRF9WalFkUlNuX1FwbV9FZnNWanhqQXRBTXB5UVR2LVpjQnMwcW9kWjlfbTg4Z2NoLVdiS2hjUUl6cnF2WEhCa1Zlc2RHYWFzOWM40gHWAUFVX3lxTFA1Slh1VnNONzYwMU5mYUZ2cDh5NTVGVmxVZnFVY2VUcGVsN0hPWGpuN0ZIRjNMRVlvQWJTMS1oZlQ0TkFVVUw1b0hBd24xdnZsN08yOTRodV9aR2hacXZnakhId2ZBQlJtRWFBR2NQUFRNelBKNHd6RzdrR09wcjBZMkRxM0d2V0pjZnB5UHFsU3VnYUFUNG9kTExDc2RrZ1VNMkYyN3JKd0lpX3pwSGpsdldlNTJ1WUpSMVJFMnd2bWhPX1RWMWJTMmpNTTJLeHN6dHlNa1E?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "AI boom fuels Korea memory windfall as Samsung, SK hynix reshape economy - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tM3dSOE5mcEJzMU9EYUw2RmJxYnRGdUpYaHlOaDhpUVV1STVwZ0c4UkdzUVE1c2ZJV2RlWFRyam9QSkFLY3dIdzE2VTE0NmlGcUdvUlJrTkJhUE1FRzlBbWh4aUZpOXpicFZINmNCLUtmbmU4TGVjalhR0gGOAUFVX3lxTE1PbEJwOU1BMlhxanFndFdoVzhpWXUyRjEtNjgxZmZKU2U2ZlRNSjlDWjAycnJRSk5CVVFIXzhWbDZhaTFibFR6ZU5UcGpoSHUwS1ByX2Y4ZmVINkliWVhjXy1oTVg2YWpHU0dMc1BjTGpKSnBhTVcwOWlxNVdBNjV6SEp5UmtxYmo2YVd1N1E?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [
+      {
+        "title": "[인터뷰] 성기창 중기중앙회 경기본부장 “선거때마다 바란 건 소통… ...",
+        "url": "https://www.kyeongin.com/article/1765100",
+        "press": "www.kyeongin.com"
+      },
+      {
+        "title": "삼성전자 30조 팔아치운 외국인...무슨 종목 담았나 봤더니",
+        "url": "https://n.news.naver.com/mnews/article/050/0000107000?sid=101",
+        "press": "magazine.hankyung.com"
+      },
+      {
+        "title": "코스피200 야간선물 8.00% 급락…월요일 증시 초비상",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=457974",
+        "press": "www.pinpointnews.co.kr"
+      },
+      {
+        "title": "양정원 남편, 경찰 수사팀장 접대 의혹…공소장엔 \"부인 잘 끝날 것\"",
+        "url": "https://www.insight.co.kr/news/557295",
+        "press": "www.insight.co.kr"
+      },
+      {
+        "title": "\"부인은 잘 끝날 거야\" 양정원 남편, 유흥업소 접대 정황 공소장 파문",
+        "url": "https://m.entertain.naver.com/article/076/0004412403",
+        "press": "www.sportschosun.com"
+      },
+      {
+        "title": "코스피 829개社, 기업지배구조 보고서 제출…코스닥은 언제?",
+        "url": "https://www.sentv.co.kr/article/view/sentv202606050113",
+        "press": "www.sentv.co.kr"
+      },
+      {
+        "title": "삼성, 5조원 기여 첫 발…구매액 20% 온누리상품권으로",
+        "url": "https://n.news.naver.com/mnews/article/422/0000871902?sid=101",
+        "press": "www.yonhapnewstv.co.kr"
+      },
+      {
+        "title": "삼성전자 30조 팔아치운 외국인...무슨 종목 담았나 봤더니",
+        "url": "https://n.news.naver.com/mnews/article/050/0000107000?sid=101",
+        "press": "magazine.hankyung.com"
+      },
+      {
+        "title": "美 금리인상 전망에 주식·채권·금 급락…필라델피아반도체지수 10% 하...",
+        "url": "https://www.livebiz.today/news/articleView.html?idxno=202475",
+        "press": "www.livebiz.today"
+      },
+      {
+        "title": "스페이스X 상장 기대에 우주테크 ETF 자금 급유입",
+        "url": "https://www.tokenpost.kr/news/economy/366550",
+        "press": "www.tokenpost.kr"
+      },
+      {
+        "title": "삼성전자 30조 팔아치운 외국인...무슨 종목 담았나 봤더니",
+        "url": "https://n.news.naver.com/mnews/article/050/0000107000?sid=101",
+        "press": "magazine.hankyung.com"
+      },
+      {
+        "title": "美 금리인상 전망에 주식·채권·금 급락…필라델피아반도체지수 10% 하...",
+        "url": "https://www.livebiz.today/news/articleView.html?idxno=202475",
+        "press": "www.livebiz.today"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "TRUMP:  IS ADDING 160 MORE PRESCRIPTION MEDICATIONS AT STEEP DISCOUNTS [...](https://x.com/financial",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "SECOND INSTANCE OF SCREWWORM PARASITE IDENTIFIED IN TEXAS: SOURCES [...](https://x.com/financialjuic",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "COLOMBIA ANNUAL INFLATION STOOD AT 5.84% THROUGH LAST MONTH: GOVERNMENT STATISTICS AGENCY [...](http",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "COLOMBIA INFLATION ROSE 0.47% LAST MONTH: GOVERNMENT STATISTICS AGENCY [...](https://x.com/financial",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "US FORCES HIT IRANIAN COASTAL RADAR SITES IN GORUK AND GESHM ISLAND TO DETER FURTHER STRIKES AFTER I",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "*U.S. FORCES STRUCK IRANIAN COASTAL SURVEILLANCE RADAR SITES IN GORUK AND ON QESHM ISLAND TO DEFEND ",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "JUST IN: COINBASE CEO BRIAN ARMSTRONG SAYS \"BITCOIN IS GOING TO DO GREAT…ONE OF MANY CYCLES WE'VE AL",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "U.S. STATE DEPARTMENT CLEARS POSSIBLE MISSILE SALE TO DENMARK FOR $842 MILLION [...](https://x.com/f",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}
