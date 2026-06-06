@@ -1,0 +1,367 @@
+{
+  "meta": {
+    "generated_at": "2026-06-06T23:36:43.780747+00:00",
+    "run_date": "20260607"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [
+      {
+        "title": "#1 대원제약 (+29.94%)",
+        "description": "현재가: 11,240, 거래량: 69,588"
+      },
+      {
+        "title": "#2 에이엔피 (+14.02%)",
+        "description": "현재가: 610, 거래량: 2,021,576"
+      },
+      {
+        "title": "#3 일정실업 (+13.68%)",
+        "description": "현재가: 1,994, 거래량: 196,402"
+      },
+      {
+        "title": "#4 인바이오젠 (+12.28%)",
+        "description": "현재가: 7,590, 거래량: 21,669"
+      },
+      {
+        "title": "#5 GS피앤엘 (+9.14%)",
+        "description": "현재가: 48,950, 거래량: 346,033"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 7,719억원",
+        "description": "현재가: 88, 거래량: 8,894,021,950주"
+      },
+      {
+        "title": "#2 KODEX 인버스 거래대금 8,573억원",
+        "description": "현재가: 996, 거래량: 864,658,053주"
+      },
+      {
+        "title": "#3 대신밸런스제20호스팩 거래대금 7,726억원",
+        "description": "현재가: 1,984, 거래량: 157,782,026주"
+      },
+      {
+        "title": "#4 삼성 인버스 2X WTI원유 선물 ETN 거래대금 25억원",
+        "description": "현재가: 16, 거래량: 157,018,141주"
+      },
+      {
+        "title": "#5 TIGER 200선물인버스2X 거래대금 96억원",
+        "description": "현재가: 95, 거래량: 104,285,711주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 +123,377,266주 / 기관 +961,146,800주 / 개인 -1,069,907,889주",
+        "description": "직전 영업일(20260605) 순매수 수량"
+      },
+      {
+        "title": "KODEX 인버스 외국인 +820,486주 / 기관 +68,046,433주 / 개인 -67,702,834주",
+        "description": "직전 영업일(20260605) 순매수 수량"
+      },
+      {
+        "title": "대신밸런스제20호스팩 외국인 -158,135주 / 기관 -3,346,815주 / 개인 +3,816,039주",
+        "description": "직전 영업일(20260605) 순매수 수량"
+      },
+      {
+        "title": "삼성 인버스 2X WTI원유 선물 ETN 외국인 +40,393주 / 기관 +74,052,305주 / 개인 -70,405,180주",
+        "description": "직전 영업일(20260605) 순매수 수량"
+      },
+      {
+        "title": "TIGER 200선물인버스2X 외국인 +3,363,176주 / 기관 +20,841,898주 / 개인 -24,268,879주",
+        "description": "직전 영업일(20260605) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.07 (+0.66%)",
+        "description": "전일종가 99.41 / 변동 +0.6600"
+      },
+      {
+        "title": "미국 10년물 금리: 4.54 (+1.32%)",
+        "description": "전일종가 4.48 / 변동 +0.0590"
+      },
+      {
+        "title": "VIX 변동성지수: 21.51 (+39.68%)",
+        "description": "전일종가 15.40 / 변동 +6.1100"
+      },
+      {
+        "title": "S&P 500: 7383.74 (-2.64%)",
+        "description": "전일종가 7584.31 / 변동 -200.5698"
+      },
+      {
+        "title": "나스닥100: 28957.60 (-4.77%)",
+        "description": "전일종가 30407.81 / 변동 -1450.2109"
+      },
+      {
+        "title": "다우존스: 50866.78 (-1.35%)",
+        "description": "전일종가 51561.93 / 변동 -695.1484"
+      },
+      {
+        "title": "USD/KRW: 1558.84 (+1.68%)",
+        "description": "전일종가 1533.07 / 변동 +25.7700"
+      },
+      {
+        "title": "USD/JPY: 160.29 (+0.22%)",
+        "description": "전일종가 159.94 / 변동 +0.3530"
+      },
+      {
+        "title": "코스피: 8160.59 (-5.54%)",
+        "description": "전일종가 8639.41 / 변동 -478.8203"
+      },
+      {
+        "title": "코스닥: 1002.44 (-4.50%)",
+        "description": "전일종가 1049.73 / 변동 -47.2900"
+      },
+      {
+        "title": "KOSPI200: 1297.02 (-5.98%)",
+        "description": "전일종가 1379.56 / 변동 -82.5400"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.779 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.10 | GEX -0.9B$ (만기:2026-06-08)",
+        "description": "콜OI 88,046 / 풋OI 97,078 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.94 | GEX -0.7B$ (만기:2026-06-08)",
+        "description": "콜OI 42,718 / 풋OI 82,774 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $175.19 (-14.11%)",
+        "description": "거래량 49,258,000주 (평균대비 2.9x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $740.91 (-2.62%)",
+        "description": "거래량 9,658,800주 (평균대비 1.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 54.3% (108/199종목)",
+        "description": "평균 MA 대비 위치: +2.0%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 12/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-05-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-05-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 332.407",
+        "description": "Date: 2026-04-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 1.6",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.47",
+        "description": "Date: 2026-06-04, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.71조달러",
+        "description": "기준일: 2026-06-03 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.33조달러",
+        "description": "기준일: 2026-06-03 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 8457.22억달러",
+        "description": "기준일: 2026-06-03 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.01억달러",
+        "description": "기준일: 2026-06-05 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 274bp (2.74%)",
+        "description": "기준일: 2026-06-04 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 74bp (0.74%)",
+        "description": "기준일: 2026-06-04 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "SpaceX and other mega IPOs may wait years to join the S&P 500 - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObGtLZERfOEY4TjliLUFpclk3RHpRYUgyS1dITHliazRDeTFLS2dSTFAtLUZ4UUNQTkJMb2ZxLUxjNUFsRUNCVGtZandZRE0zeTdDd3F1TWl2V1p2azlJSWV4Mk9IbW54cTE0VnhQOS1sdlg3X0VHWHNFcno4bWVSeTdqcGlmcmY5anlpQjhNZHZCSHVhTzNaRkhMdw?oc=5",
+        "press": "Fortune"
+      },
+      {
+        "title": "Night Moisturizers Market Forecast Points Higher Toward 2035, Driven by Premiumization and Ingredient Innovation - Index",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVXNVM0lHSHF3V3hQMG16SDJiTkVIa2hwSDZBX3BHbUM2TlJEOW1MWU52T3J2LXFKN0dIRVlEaC1MVXRQa1FfZnc3czJnWE5yWXREM1B2T05FTnlvZHB5QW81a25LcHhvREZkc3ZXUmtmU0xiUUhXUTVWTlZQVFpMRVh1clNjX0VYS19ycnBlS2QzUllWd29BVFNTZU1FTmVsNDJpNDZhNnN1U3dKNkNlV3FMUHJJZ19hMnQtekctWExSenhJYU9NN21xNkJiUTd5QWhIbEVZSGg?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Southern Europe CRISPR Quality Control Standards - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN2hvUlZFdFNtMHc3RXIzRnBVVVhWSHF6eG8yTlR0SmV0dTd3OWZaUGYzd2VqWV9oajQtM29kX0oyMTd2S1pnYjNXLXpLX1BCMnM0MWhLY1J3ZTZJQTBZNW83ZzEwdkFlOUVrcEtrY0o3Rzh1cFBXdHdQSFBqS241UEhSRk55UFQ3UnltYUxYOEtmeThtckNUSGhOYzJhTm1tUXdrdjRvZzdIZkl0NUx6NFJuQktNNzFBbDFUTDdmaGYyNWNDdnhISA?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Scandinavia CRISPR Quality Control Standards - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZnJKMGN5UmRYSmVvanFrSndwdUZHRkhkSW5RUVlJRHJ1dkRrblZZRVdpeXFNM1Y3TWRfOEpaTXdEdWZxSWJmVEdtTkhfVlRKdEsyelhkbFFMRmdrdko3YkozQndVLTdVVUlRN0ZKUTVHS1dkSl9yckMwdURVX2NLdTdnYl8yczJscVlYOFJfZTBpbVk4X3RnN1ZYY2xBaVpqeHVQLW5uTjdYMVBkLXQ0c2FMdWxlTkxXYjJqNHo5SHVZNjg?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Scandinavia Needle-Free Transfer Connectors - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNU11UHVrQUxHakJ0MngzWEsxZVFQZmQ3RWNkVElwM2Rva2V0N0hHeENZV3d2a2hKTFdrbXJsT0ExVDJCdW90MU93MjRiaTJic1ZTLTlOdDVGS1lhMU1oa1B2dmJFMVZVTGptR0Z2QnFpSENNRzVENnhfR3hHeDR6OFNrc3NFT0RnSnVCdTBsS1hqOXF6WlZuZG1vaUYzN3RoNGt5aUpGcGozMHY3YnVvcWhMR21uR0MwOERKZDU2N0ZVUQ?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "U.S. budget carrier Breeze Airways sets sights on 2027 IPO - Honolulu Star-Advertiser",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeE9Yci00b0VKZDY4RnNKQk84Yk1JNlk2ajZ0Rld6NVpQc2kwWnZGd0VVTUVFZG54N1NhZjJ4bjJSLVUzdXFUeHI0MTh1WXdVTl9FNUpWU285WnppRU83aVFYUmlYT1NVU2VYLU1pUl93dXFQS25pNFlYSGFKYVQ1UUwwUElkcEFfdjRablpwa3RuZldnX1hhekNVSGtQa2RfaGIzb2p1M3RadEo0WldVbGFRS3M?oc=5",
+        "press": "Honolulu Star-Advertiser"
+      },
+      {
+        "title": "Real Estate Market Trends in Washington, DC: Prices Fall - Realtor.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeHZ3UlRkZ3dBdmU1M19xWFNqeHE3MEYzYk9wLU15MTBSb2RzZjY1OGlqNzdRckhuRHVPZFk4T29Ldjk2YU9hWXAxblkxQzdfb09IZ0w2VjVMZHQ2WUlkZlJZMjlJV1l3NVJMVDNQZG9fOFB0SUZuT21vbG5rbHlaUXZSRGwyTmp2NkVBQ0lsNnJjLXZUc3c?oc=5",
+        "press": "Realtor.com"
+      },
+      {
+        "title": "Industrial Plastic Market Forecast to 2035: Growth Amid Automotive and Construction Demand - News and Statistics - Index",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaEJ4dVJFdGM0UEhfSklGcGRPaDZlQlZGZnJKbFpSNFVhOUJWNEl2SldIbTZlbU80Sng2eTdVeGJTaTdDVWROMG9Yak9RemROX05MOHNaRDV6Q2FwSUduclVGR0twVjFZNWZadzhjU29QSTR5S3pHS1ZlTmowMGdvQllTZWdpYXVqUnc3NUx6ZGVyOFhIN3prNzFUNk92em5qUnhEdHMxYlpwZ1FaUFFJV0NyeUF1TUJhRlZGNWQ0aFJXREdabzlxNmN2bWhKQ040cHc?oc=5",
+        "press": "IndexBox"
+      }
+    ],
+    "domestic": [],
+    "naver": [
+      {
+        "title": "[코스피·코스닥지수] 반도체주 급락에 코스피 8,160선 후퇴…삼성전자...",
+        "url": "https://www.lecturernews.com/news/articleView.html?idxno=203772",
+        "press": "www.lecturernews.com"
+      },
+      {
+        "title": "불장에 마통까지...신용대출 사흘 만에 1조 원 급증 '경고등'",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3601821",
+        "press": "www.gukjenews.com"
+      },
+      {
+        "title": "“이제 가입 못하나요?”…닷새만에 6000억 완판된 ‘국민참여펀드’ 추...",
+        "url": "https://n.news.naver.com/mnews/article/011/0004628334?sid=101",
+        "press": "www.sedaily.com"
+      },
+      {
+        "title": "[코스피·코스닥지수] 반도체주 급락에 코스피 8,160선 후퇴…삼성전자...",
+        "url": "https://www.lecturernews.com/news/articleView.html?idxno=203772",
+        "press": "www.lecturernews.com"
+      },
+      {
+        "title": "삼전닉스 쏠림 가중…반도체까지 흔들리면, 코스피는 어쩌나",
+        "url": "https://n.news.naver.com/mnews/article/016/0002652904?sid=101",
+        "press": "biz.heraldcorp.com"
+      },
+      {
+        "title": "삼성전자·SK하이닉스 흔든 외국인 매도…진짜 변수는 환율",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16082143",
+        "press": "www.topstarnews.net"
+      },
+      {
+        "title": "'24억 완판녀' 미자, 주식 전 종목 파란불…눈물의 계좌 인증 [RE:스타]",
+        "url": "https://m.entertain.naver.com/article/213/0001389525",
+        "press": "www.tvreport.co.kr"
+      },
+      {
+        "title": "[코스피·코스닥지수] 반도체주 급락에 코스피 8,160선 후퇴…삼성전자...",
+        "url": "https://www.lecturernews.com/news/articleView.html?idxno=203772",
+        "press": "www.lecturernews.com"
+      },
+      {
+        "title": "'재선거' 요구 시위대 잠실 개표소 봉쇄 사흘째...정치권 파장은?",
+        "url": "https://n.news.naver.com/mnews/article/052/0002362990?sid=102",
+        "press": "www.ytn.co.kr"
+      },
+      {
+        "title": "'24억 완판녀' 미자, 주식 전 종목 파란불…눈물의 계좌 인증 [RE:스타]",
+        "url": "https://m.entertain.naver.com/article/213/0001389525",
+        "press": "www.tvreport.co.kr"
+      },
+      {
+        "title": "[코스피·코스닥지수] 반도체주 급락에 코스피 8,160선 후퇴…삼성전자...",
+        "url": "https://www.lecturernews.com/news/articleView.html?idxno=203772",
+        "press": "www.lecturernews.com"
+      },
+      {
+        "title": "삼전닉스 쏠림 가중…반도체까지 흔들리면, 코스피는 어쩌나",
+        "url": "https://n.news.naver.com/mnews/article/016/0002652904?sid=101",
+        "press": "biz.heraldcorp.com"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "NORTH KOREAN LEADER KIM ORDERS MISSILE PRODUCTION CAPACITY TO INCREASE 2.5 TIMES OVER FIVE YEARS, YO",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "**Follow us on X for even faster headlines!**\n\nhttps://x.com/MarketNews_Feed",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "NORTH KOREA DECLARES ABSOLUTE NO-RETREAT FROM NUCLEAR WEAPON STATE STATUS, VOWS ZERO TOLERANCE FOR A",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "U.S. TO WEIGH USING IRANIAN ASSETS FOR COMPENSATION OF PREVIOUS DAMAGES: SOURCE FAMILIAR [...](https",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "U.S. TREASURY SECRETARY BESSENT DIRECTS TEAM TO EVALUATE GULF ALLIES' CONDITIONS, ESTIMATE COSTS OF ",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "U.S. WILL DEPLOY MEASURES TO RELEASE IRANIAN ASSETS TO GULF ALLIES FOR RECONSTRUCTION AND REPAIRS AF",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "🌆 **Market News Digest**\n__[Jun 6, 2026, 07:00-15:20 EST]__\n\n🔥 **Top Stories**\n• **Iran hits Bahrain",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "CRYPTO UPDATE:   \n#BITCOIN 60703.00 -1.57%   \n#ETHER 1559.30 -2.81%   \n#CARDANO 0.1576   -2.96%   \n#",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}
