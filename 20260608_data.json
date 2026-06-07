@@ -1,0 +1,408 @@
+{
+  "meta": {
+    "generated_at": "2026-06-07T23:36:18.962387+00:00",
+    "run_date": "20260608"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [
+      {
+        "title": "고객예탁금: 1,396,948억원 (+28,836억원)",
+        "description": "신용융자잔고: 377,376억원"
+      }
+    ],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 +53,458백만원 (차익 -97 / 비차익 +53,555)",
+        "description": "기준일: 20260608"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 동화약품 (+0.00%)",
+        "description": "현재가: 5,470, 거래량: 0"
+      },
+      {
+        "title": "#2 KR모터스 (+0.00%)",
+        "description": "현재가: 345, 거래량: 0"
+      },
+      {
+        "title": "#3 경방 (+0.00%)",
+        "description": "현재가: 8,150, 거래량: 0"
+      },
+      {
+        "title": "#4 삼양홀딩스 (+0.00%)",
+        "description": "현재가: 54,300, 거래량: 0"
+      },
+      {
+        "title": "#5 하이트진로 (+0.00%)",
+        "description": "현재가: 16,110, 거래량: 0"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 삼성 인버스 2X WTI원유 선물 ETN 거래대금 0억원",
+        "description": "현재가: 16, 거래량: 300,000주"
+      },
+      {
+        "title": "#2 아이로보틱스 거래대금 2억원",
+        "description": "현재가: 3,285, 거래량: 63,209주"
+      },
+      {
+        "title": "#3 티쓰리 거래대금 0억원",
+        "description": "현재가: 2,585, 거래량: 11,601주"
+      },
+      {
+        "title": "#4 흥아해운 거래대금 0억원",
+        "description": "현재가: 1,950, 거래량: 5,631주"
+      },
+      {
+        "title": "#5 KBI동양철관 거래대금 0억원",
+        "description": "현재가: 1,350, 거래량: 5,573주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "삼성 인버스 2X WTI원유 선물 ETN 외국인 +40,393주 / 기관 +74,052,305주 / 개인 -70,405,180주",
+        "description": "직전 영업일(20260605) 순매수 수량"
+      },
+      {
+        "title": "아이로보틱스 외국인 +356,694주 / 기관 +2,774주 / 개인 -378,418주",
+        "description": "직전 영업일(20260605) 순매수 수량"
+      },
+      {
+        "title": "티쓰리 외국인 -21,332주 / 기관 -2,820주 / 개인 +24,152주",
+        "description": "직전 영업일(20260605) 순매수 수량"
+      },
+      {
+        "title": "흥아해운 외국인 +619,272주 / 기관 +351주 / 개인 -620,156주",
+        "description": "직전 영업일(20260605) 순매수 수량"
+      },
+      {
+        "title": "KBI동양철관 외국인 +97,197주 / 기관 +66주 / 개인 -97,263주",
+        "description": "직전 영업일(20260605) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.11 (+0.04%)",
+        "description": "전일종가 100.07 / 변동 +0.0380"
+      },
+      {
+        "title": "미국 10년물 금리: 4.54 (+1.32%)",
+        "description": "전일종가 4.48 / 변동 +0.0590"
+      },
+      {
+        "title": "VIX 변동성지수: 21.51 (+39.68%)",
+        "description": "전일종가 15.40 / 변동 +6.1100"
+      },
+      {
+        "title": "S&P 500: 7383.74 (-2.64%)",
+        "description": "전일종가 7584.31 / 변동 -200.5698"
+      },
+      {
+        "title": "나스닥100: 28957.60 (-4.77%)",
+        "description": "전일종가 30407.81 / 변동 -1450.2109"
+      },
+      {
+        "title": "다우존스: 50866.78 (-1.35%)",
+        "description": "전일종가 51561.93 / 변동 -695.1484"
+      },
+      {
+        "title": "USD/KRW: 1559.43 (+1.72%)",
+        "description": "전일종가 1533.07 / 변동 +26.3601"
+      },
+      {
+        "title": "USD/JPY: 160.27 (+0.18%)",
+        "description": "전일종가 159.99 / 변동 +0.2830"
+      },
+      {
+        "title": "코스피: 8160.59 (-5.54%)",
+        "description": "전일종가 8639.41 / 변동 -478.8203"
+      },
+      {
+        "title": "코스닥: 1002.44 (-4.50%)",
+        "description": "전일종가 1049.73 / 변동 -47.2900"
+      },
+      {
+        "title": "KOSPI200: 1297.02 (-5.98%)",
+        "description": "전일종가 1379.56 / 변동 -82.5400"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.779 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.11 | GEX -0.8B$ (만기:2026-06-08)",
+        "description": "콜OI 89,518 / 풋OI 99,206 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.49 | GEX -0.5B$ (만기:2026-06-08)",
+        "description": "콜OI 43,231 / 풋OI 107,675 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $175.19 (-14.11%)",
+        "description": "거래량 49,258,000주 (평균대비 2.9x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $740.91 (-2.62%)",
+        "description": "거래량 9,658,800주 (평균대비 1.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 54.3% (108/199종목)",
+        "description": "평균 MA 대비 위치: +2.0%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 12/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-05-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-05-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 332.407",
+        "description": "Date: 2026-04-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 1.6",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.47",
+        "description": "Date: 2026-06-04, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.71조달러",
+        "description": "기준일: 2026-06-03 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.33조달러",
+        "description": "기준일: 2026-06-03 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 8457.22억달러",
+        "description": "기준일: 2026-06-03 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.01억달러",
+        "description": "기준일: 2026-06-05 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 274bp (2.74%)",
+        "description": "기준일: 2026-06-04 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 74bp (0.74%)",
+        "description": "기준일: 2026-06-04 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "US Stock Futures Drop After Tech Selloff, Oil Up: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaS1YdVJWMW1Gc2Y0ZzZycEh6SThkdUozVlROTTZSQ2pNWWRBeEs5N01ZcGZIMmZMRnY1Qk9iNmZhUUh0MDNKMDdEUzdBTHBER09yb3daVDRjRGRWUFFaYTJ5bEJac09ja2ptWTBaTUtHa1FwVmo0Vk91cWVuTlM0OXlxNy1Xd2d2RnZCdGRPN2xDUGNtbkY0ZUtLZS1xbnNIeEo3cFBTVzE1Z0xfQXRQZA?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Stock futures fall as Iran attack on Israel shakes fragile ceasefire: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yTzBaSmd1X1ZiSTF5amRwTE9pZk1jMndoZm5YMXIzSklnQ2E3dDJUUkZSM1JTT2Fsc1Vidk5vRFU1YUlMeWM0WFFLN200Z2ppeHhFV2xURExMVk8yS0s4QUNxeUx1S0FaeHAyTFlzX0JIRy1NVFRF0gF8QVVfeXFMTWxJR2t2ek9hOUJudHplX2NSS2pZVnZFd21zcTEwTEc1QTlCdzRLSDNfam9NazZNNjRFT3J3eHNzazRRbFo1QmZVQmJSaHhoMmx1YWwzMjFhQWpZTGlZSUl2NHFZVDRBbGRaTmxlVmdHNWFiTVlGM2tEVl9Oeg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "These are the market’s new hot stocks as investors flee from tech - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbk9KQ3JEU29FUVZ5T0J4enNFVlE3V19BQzRvSXZqdUR2dGpxR2pldkk3MVRscVg0MGc2VUZiVFJicFRCTk1CcEZSZ1NxbjJhRTd4UlowQTNRaWtSMmlLZUx6UlhxbVA1enlJR2V6a3RsWjlaS2JEYlZsQzVRaC1ZRnFMcjdCelFWSGtWU056UlFERDl4Wi1RV1ZrYWhuSjQyd0R5ZjcxTWROR1E?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Japan’s Stocks Set to Sink on Tech Selloff, Middle East Worries - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGRlSFo5eUZvZlBYcFVQeGkxZEt3clBWZ2RvVmtITWtjM24xVEMtR3dJU3Zwb2lObzZlSEd4QnMzRWR3bVdOR1lqb0M2UDJqcFVuX3Y3cm50bWVhQV8tcXYxd2ZXTjVSaU9YTkk5bUo4TGVpcFZlcUgwei1rSVB6MW5mc2hGcmZvVHhvaFp0VG5yOERzZUVQVDBHNDZzSHEyZzJLY0RnWDUxbmQyQmI2cXR6VQ?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Stock futures fall as Iran attack on Israel shakes fragile ceasefire: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yTzBaSmd1X1ZiSTF5amRwTE9pZk1jMndoZm5YMXIzSklnQ2E3dDJUUkZSM1JTT2Fsc1Vidk5vRFU1YUlMeWM0WFFLN200Z2ppeHhFV2xURExMVk8yS0s4QUNxeUx1S0FaeHAyTFlzX0JIRy1NVFRF0gF8QVVfeXFMTWxJR2t2ek9hOUJudHplX2NSS2pZVnZFd21zcTEwTEc1QTlCdzRLSDNfam9NazZNNjRFT3J3eHNzazRRbFo1QmZVQmJSaHhoMmx1YWwzMjFhQWpZTGlZSUl2NHFZVDRBbGRaTmxlVmdHNWFiTVlGM2tEVl9Oeg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Breaking down Citi’s Bear Market Checklist. Watch these 18 factors - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVDNMaXEyM1FmeFpyRzg1YktkZFlvNU9fdW15RGhVaUVyOWR4SXFjOUlfRHpfZ3dKc2lSY085UTBMVDVjTVVuLVZsNFhCQk5KeUd5NDZHNE5pcVpUZzB0aE5mMDJoQ0FkTk4tUTAzRk1wSTM0MXJNU09fOVVraTJxTEdGNTloQmpEMEsyOG1LeGdxbDhtLTAwMGFVWWJiRV9EQ2VEQ0swTTJ6VVRfRHhPYVJpZ0JVaFV6N2VBbzhB?oc=5",
+        "press": "Investing.com"
+      },
+      {
+        "title": "Trump stunned as stocks fall on great jobs report. Barclays explains why ‘we are entering the warning zone - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTzFEM3JzbDBaaTZDbGdyMEh6aDVXbzZEQ01GaTdXUW41NlExYy1pYmtPMEZ3dlZOam81YWRSam9qeDRVYlR2N0tic1VIdldVcDl5QzU2MTFhTkl2VXVoRDNldklPVzhhbElBSlR0U0N3Z2Z1cW1lSWwxOUJvcG1BY21oSFlUbEVRMkN0dA?oc=5",
+        "press": "Fortune"
+      },
+      {
+        "title": "2 Millionaire-Maker AI Stocks to Hold for the Next Decade - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbDVlZDZkUy0xYlU5eFl6ZGN4TEZrR2J0TWM3MDNQd2IwWWFUaFkxeU90REwzT0VYSUwwc0ZyTGtKUENtcnJ1TE5qaERmZnVZTGZER3pPaEdxVUs4ZzVWOGZGZ0Z4WGMyN2xzZlI5aFBCX3AtZHBCSW91TVliaE05VGNTMkFTR3hGdHE0bXpvY3IxUGx3THlMVQ?oc=5",
+        "press": "The Motley Fool"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "AI-fueled Samsung affiliates reshape KOSPI market cap rankings - The Korea Times",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT2dTV2FqMDJOem4tRU04R2lJZzZPM0pISEJETGp3Qk9wbUNQRV9VMUJNeFdSd1NNWnoyVmRFWmxSSU5LYVNja0hsWmMzcnZrUWhKZ1FEQ2lIVkJKb1k3Q0FiQXdKSE9teUZYcjItZjV6UERsYWd3MUt2S1RvUlExbElUeXpZR0M0S0NRWTd2N2ptVHJDb3hxWVpFX285WW5OYWtyTE9BRkdFMDQ3UVctSVE1ejR3QdIBuwFBVV95cUxQS1BGZmUtQWMtZXJzWlkxb3V3TGx1bkFtbWt6NGE5NV8welZJMlJLY0puT1VxdDZmS1E1c28wU0dBY0JWLVB4bnM5UXRsQ2tKWjhfTkg1cUQ0YXNJZlBLUjVIdHZXUU42dVBlZkZqNzJ1MkY1M3N3ZlVHRkVCVEo5RzZUNEplLXJFNEtWaXIzWkhyZW1pX3dfRUdrQUZSOUE5RVdYODFVam1SODJYeUNnMGVxT1RpMDMwTzlN?oc=5",
+        "press": "The Korea Times"
+      },
+      {
+        "title": "LG Electronics Surge Sparks KOSPI Peak Fears, Analyst Says - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObUJ0RGZwLWxVZGNlMDZ3aGlkbU5vdnZUUXhzUmpWUUswN2pkTDA5R2xTWWxCcW5WYndwcXNvMlQ2eUlSQnJ1NE1LV01CWUlXNmgzMlFWbl9RblFib1ZsanU2LTQ5a0lTbzRTbkVWV3EtejJsYkl6SmRQVDk1LXJtVTNIZldQeXVGS0ZzQ1B3?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "UBS answers top questions on KOSPI outflows and KRW - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRHlqazkxa01IYW81OWNpX2x6SVJ4bE9wUFh3bWJEVzFweU04QkoxUlhtd2NoREphY3dNdWhNY0FmQ1hFWGp3akdXUVFvdWloRHJ6UkhKNFFjSWxLUWdkSDVraUZfT0IyN3hGaFpHTUlmMXdDV2NXTHRLdElUWTlwcGhtSDVWUlRPUmZFUGVCVHI1Y1RRaE1UY1pDRVNwcUE4YlQydm13?oc=5",
+        "press": "Investing.com"
+      },
+      {
+        "title": "Naver to Use Nvidia’s AI Models in Bid to Cement Lead in Korea - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM2J5bDRVdkxqR2xZcjB2eE9yNkF3MC04c0t5cTlDYzhrYUo0Vi1PLVd0UE83b21vdk9FZjZtVk0tenFtQ2g4RkkzSlI2dmloT1htNlFfa01MMXFkSHQ2OXVfT3lBOUJ0SUYxbzUtVm5IYWl0OGw0YkVncmFHLTJ0UDNtV1dyUUcwT01BbmNyTklURG5yVmloRDJyRW95VC0zSl9fcEV5NzJzMWRHYW4xSDREZw?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Nvidia taps Naver for gigawatt-scale AI cloud push in Korea - The Korea Herald",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1FbVlSc2ducHpPRU9UaElycC1MUWQ2NG1ndlJJdHVnZXowVmlvZXpRcVk4dzBSTkdPb1BoWm1hWkNXX21NYkxXcjE5dmE4TmJsaDlock40QQ?oc=5",
+        "press": "The Korea Herald"
+      },
+      {
+        "title": "Naver Joins NVIDIA AI Ecosystem, Differentiation Key for Sovereign AI - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUXJseGxtQzdULXBZZ05KYkxnSGdIMVh4enFQdFFJeVBnbjg5aEJEOXJkVE5TX2o1V3NwSmhET25YR1hlZGdveEs5ckR5YmVGQkMtOHZmekJnMmRBMUVkaEl3OGJ0VTFVS3QtQTd2bDBDUEtoTDNuNjZwS1lVZklJVTdtUllncG9E?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [
+      {
+        "title": "[증시 긴급진단] \"코스피 20% 이상 조정 가능성…당분간 관망\"",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418690",
+        "press": "news.einfomax.co.kr"
+      },
+      {
+        "title": "[증시 포인트] 하락 출발 불가피...증권가 \"매도 실익 없어\"",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=139645",
+        "press": "www.opinionnews.co.kr"
+      },
+      {
+        "title": "[어제장 오늘장] 글로벌 금리 인상 공포 확산…국내증시 블랙먼데이 우...",
+        "url": "https://n.news.naver.com/mnews/article/374/0000514564?sid=101",
+        "press": "biz.sbs.co.kr"
+      },
+      {
+        "title": "[IPO 뜯어보기] [폴레드] ‘따따블’이 3주만에 1/4 토막…오버행 우려도...",
+        "url": "https://news.dealsitetv.com/articles/171360",
+        "press": "news.dealsitetv.com"
+      },
+      {
+        "title": "[어제장 오늘장] 글로벌 금리 인상 공포 확산…국내증시 블랙먼데이 우...",
+        "url": "https://n.news.naver.com/mnews/article/374/0000514564?sid=101",
+        "press": "biz.sbs.co.kr"
+      },
+      {
+        "title": "에이전트AI, AI 검증 플랫폼 ‘로보게이트’…엔비디아 ‘인셉션’ 선정",
+        "url": "https://www.etoday.co.kr/news/view/2591235",
+        "press": "www.etoday.co.kr"
+      },
+      {
+        "title": "컬리 '6월 원더컬리' 기획전·삼성전자 '감사 페스티벌'",
+        "url": "https://www.slist.kr/news/articleView.html?idxno=743913",
+        "press": "www.slist.kr"
+      },
+      {
+        "title": "[어제장 오늘장] 글로벌 금리 인상 공포 확산…국내증시 블랙먼데이 우...",
+        "url": "https://n.news.naver.com/mnews/article/374/0000514564?sid=101",
+        "press": "biz.sbs.co.kr"
+      },
+      {
+        "title": "[기업이슈] 젠슨 황 광폭행보에도 반도체주 급락…'블랙먼데이' 우려",
+        "url": "https://n.news.naver.com/mnews/article/374/0000514563?sid=101",
+        "press": "biz.sbs.co.kr"
+      },
+      {
+        "title": "SK하이닉스, 엔비디아와 차세대 AI 메모리 개발 '맞손'",
+        "url": "https://n.news.naver.com/mnews/article/031/0001033437?sid=105",
+        "press": "www.inews24.com"
+      },
+      {
+        "title": "[기업이슈] 젠슨 황 광폭행보에도 반도체주 급락…'블랙먼데이' 우려",
+        "url": "https://n.news.naver.com/mnews/article/374/0000514563?sid=101",
+        "press": "biz.sbs.co.kr"
+      },
+      {
+        "title": "[어제장 오늘장] 글로벌 금리 인상 공포 확산…국내증시 블랙먼데이 우...",
+        "url": "https://n.news.naver.com/mnews/article/374/0000514564?sid=101",
+        "press": "biz.sbs.co.kr"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "IRAN FIRED MULTIPLE WAVES OF MISSILES AT ISRAEL AFTER AN ISRAELI AIRSTRIKE TARGETED HEZBOLLAH POSITI",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "US OFFICIAL SAYS TRUMP ASKED NETANYAHU NOT TO RETALIATE FOR IRAN'S MISSILE ATTACK AND TO WAIT FOR NE",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "SK TELECOM PLANS GIGAWATT-SCALE AI CLOUD IN SOUTH KOREA USING NVIDIA TECHNOLOGY, WITH FIRST AI FACTO",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "US OFFICIAL ON THE CONVERSATION BETWEEN TRUMP AND NETANYAHU: TRUMP ASKED NOT TO RESPOND TO THE MISSI",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "DOOSAN EXPECTS ITS GAS TURBINES, SMRS, HYDROGEN FUEL CELLS, AND INDUSTRIAL EQUIPMENT TO SUPPORT NVID",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "DOOSAN SAID IT IS EXPANDING COOPERATION WITH NVIDIA ACROSS ITS ENERGY, ELECTRONIC MATERIALS, AND ROB",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "SK TELECOM PLANS GIGAWATT-SCALE AI CLOUD IN SOUTH KOREA USING NVIDIA TECHNOLOGY, WITH FIRST AI FACTO",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "US OFFICIAL ON DISCUSSION BETWEEN TRUMP AND NETANYAHU: TRUMP ASKED NOT TO RESPOND TO MISSILE ATTACK ",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}

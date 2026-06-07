@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "generated_at": "2026-06-07T23:36:18.963732+00:00",
+    "run_date": "20260608"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 12,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 100.11,
+      "change": 0.04,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.54,
+      "change": 1.32,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 21.51,
+      "change": 39.68,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7383.74,
+      "change": -2.64,
+      "insight": "전일종가 7584.31 / 변동 -200.5698",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 28957.6,
+      "change": -4.77,
+      "insight": "전일종가 30407.81 / 변동 -1450.2109",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 50866.78,
+      "change": -1.35,
+      "insight": "전일종가 51561.93 / 변동 -695.1484",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1559.43,
+      "change": 1.72,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 160.27,
+      "change": 0.18,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "원/달러 환율 1,559원 돌파하며 환차손 우려 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "네이버·SKT-엔비디아 AI 생태계 구축 협력 가속",
+      "tag": "Bullish"
+    },
+    {
+      "point": "코스피 20% 조정 가능성 제기되며 관망세 확산",
+      "tag": "Bearish"
+    },
+    {
+      "point": "EWY 14% 폭락 및 외국인 자금 유출 압력 가중",
+      "tag": "Bearish"
+    },
+    {
+      "point": "고객예탁금 2.8조 증가했으나 신용융자 부담 지속",
+      "tag": "Neutral"
+    },
+    {
+      "point": "삼성 계열사 AI 동력으로 시총 순위 재편 지속",
+      "tag": "Bullish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "이란-이스라엘 충돌에 따른 지정학적 패닉 확산",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VIX 39% 폭등 및 나스닥 4.7% 급락 등 기술주 투매",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 12점 기록하며 역발상 매수 구간 진입",
+      "tag": "Bullish"
+    },
+    {
+      "point": "10년물 금리 4.5% 상회하며 긴축 경계감 재점화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "딜러 숏감마 상태로 시장 변동성 확대 국면 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "강한 고용지표가 역설적으로 시장 경고 신호로 작용",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "네이버, 한국 선도를 위해 엔비디아 AI 모델 도입",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM2J5bDRVdkxqR2xZcjB2eE9yNkF3MC04c0t5cTlDYzhrYUo0Vi1PLVd0UE83b21vdk9FZjZtVk0tenFtQ2g4RkkzSlI2dmloT1htNlFfa01MMXFkSHQ2OXVfT3lBOUJ0SUYxbzUtVm5IYWl0OGw0YkVncmFHLTJ0UDNtV1dyUUcwT01BbmNyTklURG5yVmloRDJyRW95VC0zSl9fcEV5NzJzMWRHYW4xSDREZw?oc=5",
+      "press": "Bloomberg.com",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "SK텔레콤, 엔비디아 기술 활용 기가와트급 AI 클라우드 계획",
+      "url": "https://t.me/marketnewsfeed",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "두산, 에너지 및 로봇 분야 엔비디아와 협력 확대",
+      "url": "https://t.me/marketnewsfeed",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "증시 긴급진단: 코스피 20% 이상 조정 가능성…관망",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418690",
+      "press": "연합인포맥스",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "UBS, 코스피 자금 유출과 원화 가치 관련 주요 질의 응답",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRHlqazkxa01IYW81OWNpX2x6SVJ4bE9wUFh3bWJEVzFweU04QkoxUlhtd2NoREphY3dNdWhNY0FmQ1hFWGp3akdXUVFvdWloRHJ6UkhKNFFjSWxLUWdkSDVraUZfT0IyN3hGaFpHTUlmMXdDV2NXTHRLdElUWTlwcGhtSDVWUlRPUmZFUGVCVHI1Y1RRaE1UY1pDRVNwcUE4YlQydm13?oc=5",
+      "press": "Investing.com",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "AI 기반 삼성 계열사들, 코스피 시총 순위 재편",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPT2dTV2FqMDJOem4tRU04R2lJZzZPM0pISEJETGp3Qk9wbUNQRV9VMUJNeFdSd1NNWnoyVmRFWmxSSU5LYVNja0hsWmMzcnZrUWhKZ1FEQ2lIVkJKb1k3Q0FiQXdKSE9teUZYcjItZjV6UERsYWd3MUt2S1RvUlExbElUeXpZR0M0S0NRWTd2N2ptVHJDb3hxWVpFX285WW5OYWtyTE9BRkdFMDQ3UVctSVE1ejR3QdIBuwFBVV95cUxQS1BGZmUtQWMtZXJzWlkxb3V3TGx1bkFtbWt6NGE5NV8welZJMlJLY0puT1VxdDZmS1E1c28wU0dBY0JWLVB4bnM5UXRsQ2tKWjhfTkg1cUQ0YXNJZlBLUjVIdHZXUU42dVBlZkZqNzJ1MkY1M3N3ZlVHRkVCVEo5RzZUNEplLXJFNEtWaXIzWkhyZW1pX3dfRUdrQUZSOUE5RVdYODFVam1SODJYeUNnMGVxT1RpMDMwTzlN?oc=5",
+      "press": "The Korea Times",
+      "source": "domestic"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "글로벌 금리 인상 공포 확산…국내증시 블랙먼데이 우려",
+      "url": "https://n.news.naver.com/mnews/article/374/0000514564?sid=101",
+      "press": "SBS Biz",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "이란의 이스라엘 공격으로 휴전 흔들리며 지수 선물 하락",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yTzBaSmd1X1ZiSTF5amRwTE9pZk1jMndoZm5YMXIzSklnQ2E3dDJUUkZSM1JTT2Fsc1Vidk5vRFU1YUlMeWM0WFFLN200Z2ppeHhFV2xURExMVk8yS0s4QUNxeUx1S0FaeHAyTFlzX0JIRy1NVFRF0gF8QVVfeXFMTWxJR2t2ek9hOUJudHplX2NSS2pZVnZFd21zcTEwTEc1QTlCdzRLSDNfam9NazZNNjRFT3J3eHNzazRRbFo1QmZVQmJSaHhoMmx1YWwzMjFhQWpZTGlZSUl2NHFZVDRBbGRaTmxlVmdHNWFiTVlGM2tEVl9Oeg?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "기술주 매도세 이후 미국 증시 선물 하락, 유가 상승",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaS1YdVJWMW1Gc2Y0ZzZycEh6SThkdUozVlROTTZSQ2pNWWRBeEs5N01ZcGZIMmZMRnY1Qk9iNmZhUUh0MDNKMDdEUzdBTHBER09yb3daVDRjRGRWUFFaYTJ5bEJac09ja2ptWTBaTUtHa1FwVmo0Vk91cWVuTlM0OXlxNy1Xd2d2RnZCdGRPN2xDUGNtbkY0ZUtLZS1xbnNIeEo3cFBTVzE1Z0xfQXRQZA?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "기술주 투매와 중동 리스크에 일본 증시 급락 예고",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGRlSFo5eUZvZlBYcFVQeGkxZEt3clBWZ2RvVmtITWtjM24xVEMtR3dJU3Zwb2lObzZlSEd4QnMzRWR3bVdOR1lqb0M2UDJqcFVuX3Y3cm50bWVhQV8tcXYxd2ZXTjVSaU9YTkk5bUo4TGVpcFZlcUgwei1rSVB6MW5mc2hGcmZvVHhvaFp0VG5yOERzZUVQVDBHNDZzSHEyZzJLY0RnWDUxbmQyQmI2cXR6VQ?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "바클레이즈 '고용 보고서에도 불구하고 경고 영역 진입'",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTzFEM3JzbDBaaTZDbGdyMEh6aDVXbzZEQ01GaTdXUW41NlExYy1pYmtPMEZ3dlZOam81YWRSam9qeDRVYlR2N0tic1VIdldVcDl5QzU2MTFhTkl2VXVoRDNldklPVzhhbElBSlR0U0N3Z2Z1cW1lSWwxOUJvcG1BY21oSFlUbEVRMkN0dA?oc=5",
+      "press": "Fortune",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "시티그룹의 약세장 체크리스트: 주목해야 할 18가지 요인",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVDNMaXEyM1FmeFpyRzg1YktkZFlvNU9fdW15RGhVaUVyOWR4SXFjOUlfRHpfZ3dKc2lSY085UTBMVDVjTVVuLVZsNFhCQk5KeUd5NDZHNE5pcVpUZzB0aE5mMDJoQ0FkTk4tUTAzRk1wSTM0MXJNU09fOVVraTJxTEdGNTloQmpEMEsyOG1LeGdxbDhtLTAwMGFVWWJiRV9EQ2VEQ0swTTJ6VVRfRHhPYVJpZ0JVaFV6N2VBbzhB?oc=5",
+      "press": "Investing.com",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "투자자들이 기술주에서 도망치며 찾는 새로운 핫스탁",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbk9KQ3JEU29FUVZ5T0J4enNFVlE3V19BQzRvSXZqdUR2dGpxR2pldkk3MVRscVg0MGc2VUZiVFJicFRCTk1CcEZSZ1NxbjJhRTd4UlowQTNRaWtSMmlLZUx6UlhxbVA1enlJR2V6a3RsWjlaS2JEYlZsQzVRaC1ZRnFMcjdCelFWSGtWU056UlFERDl4Wi1RV1ZrYWhuSjQyd0R5ZjcxTWROR1E?oc=5",
+      "press": "MarketWatch",
+      "source": "international"
+    }
+  ]
+}
