@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "generated_at": "2026-06-08T23:36:38.009947+00:00",
+    "run_date": "20260609"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 8,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 100.0,
+      "change": -0.07,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.55,
+      "change": 0.35,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 18.92,
+      "change": -12.04,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7405.73,
+      "change": 0.3,
+      "insight": "전일종가 7383.74 / 변동 +21.9897",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29414.26,
+      "change": 1.58,
+      "insight": "전일종가 28957.60 / 변동 +456.6582",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 50786.01,
+      "change": -0.16,
+      "insight": "전일종가 50866.78 / 변동 -80.7695",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1554.48,
+      "change": 1.4,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 160.21,
+      "change": -0.08,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "원/달러 환율 1,550원 돌파하며 외환 변동성 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "고객예탁금 5.4조 원 급감하며 투자심리 위축",
+      "tag": "Bearish"
+    },
+    {
+      "point": "삼성전자 등 반도체 대형주 프리마켓 강세 시현",
+      "tag": "Bullish"
+    },
+    {
+      "point": "프로그램 비차익 매수세 유입으로 하방 경직성 확보",
+      "tag": "Bullish"
+    },
+    {
+      "point": "1분기 민간소비 상향 조정 등 경제 지표 혼조",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "나스닥 1.58% 급등, 반도체 섹터 중심으로 반등",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 8점 기록, 극단적 공포 국면 진입",
+      "tag": "Neutral"
+    },
+    {
+      "point": "VIX 지수 12% 폭락하며 시장 변동성 빠르게 진정",
+      "tag": "Bullish"
+    },
+    {
+      "point": "OpenAI 상장 추진 소식에 AI 산업 기대감 고조",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미국 국채 10년물 금리 상승에도 기술주 강세",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "[증시전망대] 코스피, 검은 월요일 후 반등 시동 걸까",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=60208",
+      "press": "www.newsroad.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자·SK하이닉스 프리마켓서 5%대 강세",
+      "url": "https://n.news.naver.com/mnews/article/018/0006301157?sid=101",
+      "press": "www.edaily.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "반도체 폭락 속 한국 개미들 신용융자 시험대",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbHhzTG1xelJvQV9zZlFFTDhPT2lqU1VCZV9SYjNnTmJEeHdVb2w3YXIteG9idmlubXZBUXlDMVZMdGxjWElkZHEyTjZKbGhlMmM1cldvTkNucF8ycmNjVUJZQWppV3Z2NlI3NURqajZPRGQxTjJkQ0JBR2FFNE5RQlVXem1kX0tjV2Z5MTNPU3M2Z201dkk2MWRuZERYdWtRRlZsYVIyWDVwM2Q4VjJmNg?oc=5",
+      "press": "Reuters",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스닥 유망 섹터: 2차전지, 바이오, 반도체, 로봇",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU1FCNl9sQWtvcFpKY1BTcTBkUTJkODkxZllLU3UxRzhtTklUS3VPenJNV0tkY1ZXWkFZWWZwNkJwVlZmY3FQd2hkUkRvb0pkelN6WmxwMThIU0s5REdmYUVhTVBJRlJLRTFaQ1RHVzhXd2RUTXRkb3NnRUYyYWNzeGJBbXVWNGZDcE51SGN3?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "한국 1분기 민간소비 0.6% 상향 조정",
+      "url": "https://x.com/financial",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "네이버, AI 팩토리로 성장 공식 바꿀까",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=843267",
+      "press": "www.newsworks.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "안철수 “이재명, 고환율 일시적? 수준 낮은 자기 위로”",
+      "url": "https://n.news.naver.com/mnews/article/016/0002653734?sid=100",
+      "press": "biz.heraldcorp.com",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "외국인 순매도는 리밸런싱, 수급 악화 우려 덜어야",
+      "url": "https://n.news.naver.com/mnews/article/374/0000514854?sid=101",
+      "press": "biz.sbs.co.kr",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "S&P 500·나스닥, 반도체주 반등에 상승",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOU9adzRULTh4UFlYNi1EM3pyamI4ZFpzaWFtdXZtSWNKcDg4bnp2dDV2Z0tBbTVsdmhsdFZZQUdYcUZLbUtPZTRJWWphbzd4WjBBeDMtZEVwZDJ4XzVaVklqNWdhTFQ5TEZTSEM2SWpHVEQ0Wmc5S2tFd2VySWV0Y01JWHp4UVFfRmh0R2xVNFp3WmYxWHNCYjliTDZtYVlPX19Hel9MV3F1SU5NRnc?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "ChatGPT 제조사 OpenAI, 기업 공개(IPO) 신청",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZERzSEEwSm1CS25idFUxYXpEY2FPZU1BanNEOHRjbXd2NUpJYnpYeW9RNDNxR0ppckFIQ1RzVGhndXpaSFhnNkNaaGI2ejAxMk9ScDNmOHNJa0thZ3NsemlYWEgtcGZQSjFMay1EWmFuXy1DWmdIenFlWEhpMkZ3RlJndVZpVElzY1h4R0g5cjh4enZiTXEtcmlZVkN2Vm9HNEk1WF93LVpiSnBEVUlPSWFPdHI3UQ?oc=5",
+      "press": "The Washington Post",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "캐시 우드, 폭락한 반도체 주식 870만 달러 매수",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVlJpSUhjcTVydzJNOWZpWUNudWFvaGR1YnV6d3ZfVkF3NlNJdWZTQXlJcHZGeDYyV3dHRC1ZQ1hjVTJKV1RFV0ljckZKemJLUERvbTRtU01yRFc1SGdYTHgxNmd1WElsNWhRNGZTVEZsaTJsSU90cEtJdzZzVzExZjVIeUJ2MDZaTThrcWk1V0x6RUFYRHc?oc=5",
+      "press": "thestreet.com",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미국인들, 고용 및 재정 상황에 대한 우려 증대",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10NHRvcl9kLVEwVDFDX05DWmV5UFNJajREazBtSTE2MXVZczhrRTUzZmhOeUs2T1daUm1oTi1pYXVZNXJGSWdrX0RIV29fYi1PdXB0bnp4eVpEU2lCYm1MNXMwajFvWHA1cnFOdk4xUGlWX0JLM1pV?oc=5",
+      "press": "CNN",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "미 대선 베팅 붐, 예측 시장의 내부자 거래 통제 시험",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZUZ0bHhHX1VHYTllTldkcENabWhyTnQwSG94cXlGRHdWM0NjWUMxVjRZMGg4ZkdIR3NBd0EtS1BlZF96NklRSEdDQ0gzVy1qMHJLNG9hSVlUYUFqMjB6ZHhZZkh5eDRfOHNNb0pJTnV1Wi1mdjY4YmJWUGVEVElZejVyY0xLLTNmYTBpUGxHck9IZkxyM3FEV0NoaEpsRHVkOWlWaU9QQkRvNzFEdzl1eTBfWG1RMTRRb1lFTlpIaTY3TWE3?oc=5",
+      "press": "Reuters",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "OpenAI, 상장 가능성 신호 속 비상장 유지 장점 저울질",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa1RaUURBd0NtbnVVRDRPVEdVeGpvbGxvTUwwZkpSenlOTlRUUzZjb0ZxYmNodGc4aGFSWWdtQVVsck1YWmJ5c2tSc1pWOXppTE5CaWVIampfc25rZHNKNWJBTklGbUJxbzFKQjkzeXRkUUxLUUlDUVo1TkdlTjhnNHg4Z056eGxyXzd5UWVndzZlYWIxUkJTUTNkaU5qNUU1c0plNGlNa2o4ZmxZTklMbkVMV0I1OThFdGZ5UUZn0gHDAUFVX3lxTFBxX0U4UjNXRFRuaWtYVU5SbUNlaV8yMXVJdGpvRzFqcTRsdGE4QjdybXVmamtUbHJ6blRTTmRuY0c4NmZMT2RuSU1JTEVNcDJEd3FCSjV1TlhEbzFkR3JyczlVei1OQW5jaWNUOTFqV05HdElMOUYzSGFiclBab0V3VGRGdXpIQkE1ZmFjNGRqTGZweEd5YUFRNGJtaGowX0RoeTBsOUZvUVg4Qzd5Q0xERFB3bWR3ck5TUmV2WF90aXRZQQ?oc=5",
+      "press": "Fox Business",
+      "source": "international"
+    }
+  ]
+}
