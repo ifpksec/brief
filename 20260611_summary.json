@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "generated_at": "2026-06-10T23:35:54.491260+00:00",
+    "run_date": "20260611"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 9,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 100.08,
+      "change": 0.17,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.54,
+      "change": 0.31,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 22.22,
+      "change": 11.83,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7266.99,
+      "change": -1.62,
+      "insight": "전일종가 7386.65 / 변동 -119.6597",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 28508.03,
+      "change": -1.98,
+      "insight": "전일종가 29084.50 / 변동 -576.4727",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 49918.78,
+      "change": -1.87,
+      "insight": "전일종가 50872.11 / 변동 -953.3281",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1525.81,
+      "change": -0.2,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 160.53,
+      "change": 0.09,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "고객예탁금 6.2조 원 급감하며 증시 대기 자금 위축",
+      "tag": "Bearish"
+    },
+    {
+      "point": "KOSPI 프로그램 순매도 지속으로 수급 부담 가중",
+      "tag": "Bearish"
+    },
+    {
+      "point": "원/달러 환율 1,525원대 기록하며 고환율 압박 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "저PBR 기업 명단 공개 가속화 및 밸류업 기대감 상존",
+      "tag": "Bullish"
+    },
+    {
+      "point": "삼성전자 AI 및 정밀의학 분야 신규 투자 확대",
+      "tag": "Bullish"
+    },
+    {
+      "point": "시장 심리 지수 9점, 극단적 공포에 따른 패닉 셀링",
+      "tag": "Bearish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "미군의 이란 추가 공습으로 지정학적 긴감감 고조",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VIX 지수 11.8% 폭등하며 시장 변동성 위험 확대",
+      "tag": "Bearish"
+    },
+    {
+      "point": "SPY·QQQ 풋옵션 우세 및 딜러 숏감마로 하방 압력",
+      "tag": "Bearish"
+    },
+    {
+      "point": "국채 금리 상승과 달러 강세에 기술주 중심 급락",
+      "tag": "Bearish"
+    },
+    {
+      "point": "호르무즈 해협 폐쇄 우려에 따른 국제 유가 급등",
+      "tag": "Bearish"
+    },
+    {
+      "point": "주식-채권 동반 하락하며 시스템 위기 신호 포착",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "KOSPI 여전히 저평가...저PBR 기업 명단 공개 가속화될 듯",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kWnRuUFVQdHdldzAzLTJJek9FWDJ4QU13ZkxuX3EwMUFIQ25aX1NrSTRSRDI2R0hOMjU0ZkI4a1Q2ZVJRNC0zbGdLdlBHaUpZSU5xQkRwSVdZMjBITTZHb1ZvM2c?oc=5",
+      "press": "아시아경제",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자, 엘리먼트 바이오사이언스 투자로 정밀의학 선도",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSTJobURsY0U3S05BbTZUMG9oNHhpVVRkajRFeFZjcDFBN0xab0FMakxsc0loaHFENVZZRE9WY0tRZENpdmVwUHR0Y2pxd1BqQWhReW5ERFQ3aV91LXBHdEVrckpaS083V1BGbWY2RGExV3Jfc1VtNXFhTWdzMGNoNWRtbzRpNEFf?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "[굿모닝 증시] 코스피 하락 출발 예정... 증시 불안 키우는 대내외 요소",
+      "url": "https://n.news.naver.com/mnews/article/277/0005774822?sid=101",
+      "press": "아시아경제",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "이재용 회장, 이탈리아 경제외교서 차량용 반도체 협업 확대",
+      "url": "https://www.insight.co.kr/news/558006",
+      "press": "인사이트",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "크게 흔들리는 반도체, 저가 매수 기회인가 조정 신호인가",
+      "url": "https://n.news.naver.com/mnews/article/374/0000515368?sid=101",
+      "press": "SBS Biz",
+      "source": "naver"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "이란 해군: 호르무즈 해협 추후 통지 시까지 폐쇄 결정",
+      "url": "https://x.com/financialjuice/status/",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자, 비스포크 AI 스팀 라인업 확대로 K-로봇청소기 대중화",
+      "url": "https://n.news.naver.com/mnews/article/082/0001384903?sid=101",
+      "press": "부산일보",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "미군의 이란 추가 공습 소식에 다우, S&P 500, 나스닥 선물 하락",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeDZTWU1MeG9vTXVTUHljN1psTHAwYTN3TFNlZVo3Nm92Y0VYaGJicmdyNE1sdzN2dDh1RFo5SGNkYzlnNFA5Rl9MRENDdE1Wc2NGeGM0ZFU5LXpXc1gzUi05dHRpVVYzcjFQVXktajRjLXF5Sld5QS16VEpnOXpGRFFuZTJuRFZyZXhGMDR5dEFnaDd5OWcwSTJUbC14aW1lcVViZUNBVHV6bnYwcmk4Z1lDQUlVN3JUSlc0ckpYcFMtRS01WjJnV1Q4LXcwaGpSeVlFQzBYclI0WVU?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "미국의 이란 공습으로 유가 급등, 취약한 휴전 국면 위협",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGxUWFJMUXhOdHFSM0U0dHJ5ZFFaYVJkZ0FhdjR1QlBRaXRsLUJnUlgzd1Q4NlhiSEFRWlNLTi1WWGtybEdSdjBvRThxdWN5OGxkVHZDWkg0MFFPQVRqZjdDY3phUi01WGUxU0czWlhORWVYcXVxNWJSSjN0MmFFYjZYSjY0cU9wVUhYRExnSTRJakwxU3Z1aEpEYzIzYjA?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "마이크론 주가 재차 하락했으나 강력한 촉매제가 반등 이끌 것",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWRRdlV0SktaaWtPVTNyLXlIUHR0WWdhZ3lqUmZ1a3V2aUkyZGZBV2g3YmZQSmE2Vk1UcXNBOFI2SjExa0VkODcyOUhzVElFbko1OXFwMWJsZU9lRXN1Ni1xQm9aa3RaVXE4eXlKRzRLMFEyVFZZLVUxTjNYRTBpTA?oc=5",
+      "press": "Barron's",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "스페이스X의 S&P 및 나스닥 100 편입이 투자자에게 미치는 영향",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY1pYVEdzUkRSUTVEMEt0Zjdrd2xZaFl0NDhfRVQtU2JPNFFFaVgxS256c244SkQzcXVSZHhEYkN6bkNuenpabldDSlJFVHNkZ1hVcks4bFc0OVNmUU1IaEFKQmZNTzNfUTVZM1BuZzRGZDA0VHNsOHV3VGp2RTdYcmV4Y0xBUDlEYWw1VmU2ME5Kd05iTTR1enM1czBjbjNNV1FzeFdtT2dpQ3FMcXNlSXJB?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "목요일의 주요 종목 뉴스: 다음 거래 세션 시장을 움직일 요소들",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNm9IOG02Vnl5VXpydXVhMGZELVpGWjJoUlVRaTFwNnp5anY3TjhWWGZueGVCZTBBT01kZVJDYWJRQlJLT2w5TjFycjc2dm5aQ0hmUHhYaGZkNzBQbHBJY2NJc2M0dWNwOGRsMlZUWTVPQVdfS2tjWEdUeXRtUW9EODFoVS04dGxHeV9DdXhMclYtbElUaDRoT2pLbmo?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미군의 추가 이란 공습 이후 선물 하락 및 유가 상승 지속",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6UGRpbzFzYTdJajVPd0p1aTVIV0haSE5vblRKbTBmMVJPY0VyZ2U3cEF0dC15V3NpbWpRaTd3YUlENHlIQmNNX21nWXlYZVV0RmdIRkhXSVlKeHBrcXpFc3kxdndMUjByZlVEemY5bjZEd3FvUWRv0gF8QVVfeXFMTWw2YUhEMVQ0amdmSGxCNkl5dnFpWmxYLTFvZVVaa1lMZnNlT1NhbjJ0Q1ZsMWEzUnJNaERfOFpWUVhHdGhxV1BrSDJhNGlndTJfSjN4RG9rZFJSeW1oMzBpN1k1MHpheUlmVDZEUVJSVGpjNXpXckVYQzFYcg?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "generated_at": "2026-06-10T23:35:54.489914+00:00",
+    "run_date": "20260611"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [
+      {
+        "title": "고객예탁금: 1,301,189억원 (-62,658억원)",
+        "description": "신용융자잔고: 379,290억원"
+      }
+    ],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 -90,478백만원 (차익 +0 / 비차익 -90,478)",
+        "description": "기준일: 20260611"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 동화약품 (+0.00%)",
+        "description": "현재가: 5,240, 거래량: 0"
+      },
+      {
+        "title": "#2 KR모터스 (+0.00%)",
+        "description": "현재가: 327, 거래량: 0"
+      },
+      {
+        "title": "#3 경방 (+0.00%)",
+        "description": "현재가: 8,150, 거래량: 0"
+      },
+      {
+        "title": "#4 삼양홀딩스 (+0.00%)",
+        "description": "현재가: 54,500, 거래량: 0"
+      },
+      {
+        "title": "#5 하이트진로 (+0.00%)",
+        "description": "현재가: 15,900, 거래량: 0"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 케이뱅크 거래대금 1억원",
+        "description": "현재가: 6,030, 거래량: 21,789주"
+      },
+      {
+        "title": "#2 더블유에스아이 거래대금 0억원",
+        "description": "현재가: 1,600, 거래량: 9,970주"
+      },
+      {
+        "title": "#3 흥구석유 거래대금 1억원",
+        "description": "현재가: 11,900, 거래량: 8,998주"
+      },
+      {
+        "title": "#4 세림B&G 거래대금 0억원",
+        "description": "현재가: 1,269, 거래량: 5,726주"
+      },
+      {
+        "title": "#5 제주은행 거래대금 0억원",
+        "description": "현재가: 12,750, 거래량: 3,046주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "케이뱅크 외국인 +36,824주 / 기관 +739,465주 / 개인 -779,787주",
+        "description": "직전 영업일(20260610) 순매수 수량"
+      },
+      {
+        "title": "더블유에스아이 외국인 -14,817주 / 기관 -942주 / 개인 +15,759주",
+        "description": "직전 영업일(20260610) 순매수 수량"
+      },
+      {
+        "title": "흥구석유 외국인 -77,296주 / 기관 +12주 / 개인 +77,054주",
+        "description": "직전 영업일(20260610) 순매수 수량"
+      },
+      {
+        "title": "세림B&G 외국인 -60,610주 / 기관 -8,746주 / 개인 +69,749주",
+        "description": "직전 영업일(20260610) 순매수 수량"
+      },
+      {
+        "title": "제주은행 외국인 +13,770주 / 기관 +3,293주 / 개인 -17,518주",
+        "description": "직전 영업일(20260610) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.08 (+0.17%)",
+        "description": "전일종가 99.91 / 변동 +0.1720"
+      },
+      {
+        "title": "미국 10년물 금리: 4.54 (+0.31%)",
+        "description": "전일종가 4.53 / 변동 +0.0140"
+      },
+      {
+        "title": "VIX 변동성지수: 22.22 (+11.83%)",
+        "description": "전일종가 19.87 / 변동 +2.3500"
+      },
+      {
+        "title": "S&P 500: 7266.99 (-1.62%)",
+        "description": "전일종가 7386.65 / 변동 -119.6597"
+      },
+      {
+        "title": "나스닥100: 28508.03 (-1.98%)",
+        "description": "전일종가 29084.50 / 변동 -576.4727"
+      },
+      {
+        "title": "다우존스: 49918.78 (-1.87%)",
+        "description": "전일종가 50872.11 / 변동 -953.3281"
+      },
+      {
+        "title": "USD/KRW: 1525.81 (-0.20%)",
+        "description": "전일종가 1528.88 / 변동 -3.0699"
+      },
+      {
+        "title": "USD/JPY: 160.53 (+0.09%)",
+        "description": "전일종가 160.38 / 변동 +0.1480"
+      },
+      {
+        "title": "코스피: 8096.93 (+8.18%)",
+        "description": "전일종가 7484.41 / 변동 +612.5200"
+      },
+      {
+        "title": "코스닥: 967.81 (+6.19%)",
+        "description": "전일종가 911.39 / 변동 +56.4200"
+      },
+      {
+        "title": "KOSPI200: 1293.40 (+9.01%)",
+        "description": "전일종가 1186.54 / 변동 +106.8600"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.723 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 2.03 | GEX -6.8B$ (만기:2026-06-10)",
+        "description": "콜OI 228,473 / 풋OI 463,155 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.32 | GEX -0.6B$ (만기:2026-06-10)",
+        "description": "콜OI 177,121 / 풋OI 233,681 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $178.45 (-3.04%)",
+        "description": "거래량 19,284,589주 (평균대비 0.6x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $728.92 (-1.60%)",
+        "description": "거래량 13,823,584주 (평균대비 1.3x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 50.8% (101/199종목)",
+        "description": "평균 MA 대비 위치: +1.2%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 9/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-05-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-05-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 333.979",
+        "description": "Date: 2026-05-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 1.6",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.53",
+        "description": "Date: 2026-06-09, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.71조달러",
+        "description": "기준일: 2026-06-03 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.33조달러",
+        "description": "기준일: 2026-06-03 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 8457.22억달러",
+        "description": "기준일: 2026-06-03 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.00억달러",
+        "description": "기준일: 2026-06-10 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 278bp (2.78%)",
+        "description": "기준일: 2026-06-09 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 75bp (0.75%)",
+        "description": "기준일: 2026-06-09 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNm9IOG02Vnl5VXpydXVhMGZELVpGWjJoUlVRaTFwNnp5anY3TjhWWGZueGVCZTBBT01kZVJDYWJRQlJLT2w5TjFycjc2dm5aQ0hmUHhYaGZkNzBQbHBJY2NJc2M0dWNwOGRsMlZUWTVPQVdfS2tjWEdUeXRtUW9EODFoVS04dGxHeV9DdXhMclYtbElUaDRoT2pLbmo?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as US launches new strikes against Iran - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeDZTWU1MeG9vTXVTUHljN1psTHAwYTN3TFNlZVo3Nm92Y0VYaGJicmdyNE1sdzN2dDh1RFo5SGNkYzlnNFA5Rl9MRENDdE1Wc2NGeGM0ZFU5LXpXc1gzUi05dHRpVVYzcjFQVXktajRjLXF5Sld5QS16VEpnOXpGRFFuZTJuRFZyZXhGMDR5dEFnaDd5OWcwSTJUbC14aW1lcVViZUNBVHV6bnYwcmk4Z1lDQUlVN3JUSlc0ckpYcFMtRS01WjJnV1Q4LXcwaGpSeVlFQzBYclI0WVU?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Oil Surges as Fresh US Strikes on Iran Threaten Fragile Truce - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGxUWFJMUXhOdHFSM0U0dHJ5ZFFaYVJkZ0FhdjR1QlBRaXRsLUJnUlgzd1Q4NlhiSEFRWlNLTi1WWGtybEdSdjBvRThxdWN5OGxkVHZDWkg0MFFPQVRqZjdDY3phUi01WGUxU0czWlhORWVYcXVxNWJSSjN0MmFFYjZYSjY0cU9wVUhYRExnSTRJakwxU3Z1aEpEYzIzYjA?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Micron Stock Drops Again But This Powerful Catalyst Can Reignite Rally - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVWRRdlV0SktaaWtPVTNyLXlIUHR0WWdhZ3lqUmZ1a3V2aUkyZGZBV2g3YmZQSmE2Vk1UcXNBOFI2SjExa0VkODcyOUhzVElFbko1OXFwMWJsZU9lRXN1Ni1xQm9aa3RaVXE4eXlKRzRLMFEyVFZZLVUxTjNYRTBpTA?oc=5",
+        "press": "Barron's"
+      },
+      {
+        "title": "Stock futures slip after U.S. launches additional strikes against Iran, oil rises: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6UGRpbzFzYTdJajVPd0p1aTVIV0haSE5vblRKbTBmMVJPY0VyZ2U3cEF0dC15V3NpbWpRaTd3YUlENHlIQmNNX21nWXlYZVV0RmdIRkhXSVlKeHBrcXpFc3kxdndMUjByZlVEemY5bjZEd3FvUWRv0gF8QVVfeXFMTWw2YUhEMVQ0amdmSGxCNkl5dnFpWmxYLTFvZVVaa1lMZnNlT1NhbjJ0Q1ZsMWEzUnJNaERfOFpWUVhHdGhxV1BrSDJhNGlndTJfSjN4RG9rZFJSeW1oMzBpN1k1MHpheUlmVDZEUVJSVGpjNXpXckVYQzFYcg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures fall as US launches new strikes against Iran - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeDZTWU1MeG9vTXVTUHljN1psTHAwYTN3TFNlZVo3Nm92Y0VYaGJicmdyNE1sdzN2dDh1RFo5SGNkYzlnNFA5Rl9MRENDdE1Wc2NGeGM0ZFU5LXpXc1gzUi05dHRpVVYzcjFQVXktajRjLXF5Sld5QS16VEpnOXpGRFFuZTJuRFZyZXhGMDR5dEFnaDd5OWcwSTJUbC14aW1lcVViZUNBVHV6bnYwcmk4Z1lDQUlVN3JUSlc0ckpYcFMtRS01WjJnV1Q4LXcwaGpSeVlFQzBYclI0WVU?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "How SpaceX's inclusion in the S&P and Nasdaq 100 could impact investors - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOY1pYVEdzUkRSUTVEMEt0Zjdrd2xZaFl0NDhfRVQtU2JPNFFFaVgxS256c244SkQzcXVSZHhEYkN6bkNuenpabldDSlJFVHNkZ1hVcks4bFc0OVNmUU1IaEFKQmZNTzNfUTVZM1BuZzRGZDA0VHNsOHV3VGp2RTdYcmV4Y0xBUDlEYWw1VmU2ME5Kd05iTTR1enM1czBjbjNNV1FzeFdtT2dpQ3FMcXNlSXJB?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock Market Today: Dow plunges 950 points to close below 50K mark; S&P 500 skids 1.6% and Nasdaq tumbles 2% on tech rou",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNzQ3LXhPR3pzblpwUndlT25VRGpIVUFNTFM1Wmp0bER3ODl3X0l3SEtXSjRIT19kS0NHaDBvMW5UbTlxLWFvWFVrUnFSb0JFaWdYdGRSbHRZX0lDd3pRcHN6TjhQbXlxRnVta24tRkM1MDc4Rm1ISjZhcy1ldERILS1PNVdfaVV6dkVfNUpLblp4bHp3TUtTQU1pbVE1LWN0R1g5YlZoN1dWbEw2a2Rodm93aXRRbEs3QW1z?oc=5",
+        "press": "MarketWatch"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "\"KOSPI Still Undervalued... Disclosure of Low-PBR Company List Likely to Accelerate\" - 아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kWnRuUFVQdHdldzAzLTJJek9FWDJ4QU13ZkxuX3EwMUFIQ25aX1NrSTRSRDI2R0hOMjU0ZkI4a1Q2ZVJRNC0zbGdLdlBHaUpZSU5xQkRwSVdZMjBITTZHb1ZvM2c?oc=5",
+        "press": "아시아경제"
+      },
+      {
+        "title": "Samsung Electronics Invests in Element Biosciences to Lead Precision Medicine - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSTJobURsY0U3S05BbTZUMG9oNHhpVVRkajRFeFZjcDFBN0xab0FMakxsc0loaHFENVZZRE9WY0tRZENpdmVwUHR0Y2pxd1BqQWhReW5ERFQ3aV91LXBHdEVrckpaS083V1BGbWY2RGExV3Jfc1VtNXFhTWdzMGNoNWRtbzRpNEFf?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [
+      {
+        "title": "[AI 머니톡] '우주비행사'는 프라다를 입는다",
+        "url": "https://n.news.naver.com/mnews/article/448/0000618637?sid=004",
+        "press": "news.tvchosun.com"
+      },
+      {
+        "title": "[어제장 오늘장] 크게 흔들리는 반도체, 저가 매수 기회? 조정 신호?",
+        "url": "https://n.news.naver.com/mnews/article/374/0000515368?sid=101",
+        "press": "biz.sbs.co.kr"
+      },
+      {
+        "title": "[굿모닝 증시]\"코스피 하락 출발 예정\"…증시 불안 키우는 대내외 요소...",
+        "url": "https://n.news.naver.com/mnews/article/277/0005774822?sid=101",
+        "press": "view.asiae.co.kr"
+      },
+      {
+        "title": "[어제장 오늘장] 크게 흔들리는 반도체, 저가 매수 기회? 조정 신호?",
+        "url": "https://n.news.naver.com/mnews/article/374/0000515368?sid=101",
+        "press": "biz.sbs.co.kr"
+      },
+      {
+        "title": "CJ온스타일· IBK기업은행·현대무벡스, ISO 인증 획득·갱신",
+        "url": "http://www.wsobi.com/news/articleView.html?idxno=313529",
+        "press": "www.wsobi.com"
+      },
+      {
+        "title": "아델, 복지부 '치매의료기술연구개발사업' 수행기관 선정",
+        "url": "https://www.cstimes.com/news/articleView.html?idxno=709308",
+        "press": "www.cstimes.com"
+      },
+      {
+        "title": "삼성전자, ‘비스포크 AI 스팀’ 라인업 확대…K-로봇청소기 대중화 가...",
+        "url": "https://n.news.naver.com/mnews/article/082/0001384903?sid=101",
+        "press": "www.busan.com"
+      },
+      {
+        "title": "이재용 회장, 경제외교 떠난 이탈리아서 '차량용 반도체' 협업 확대",
+        "url": "https://www.insight.co.kr/news/558006",
+        "press": "www.insight.co.kr"
+      },
+      {
+        "title": "삼성전자, 국내 최초 갤럭시 XR 활용 헌혈 캠페인 진행",
+        "url": "https://n.news.naver.com/mnews/article/421/0008997318?sid=102",
+        "press": "www.news1.kr"
+      },
+      {
+        "title": "최태원 \"日에 차세대 AI 팩토리 짓는다…엔비디아와 협력\"",
+        "url": "https://n.news.naver.com/mnews/article/421/0008997320?sid=104",
+        "press": "www.news1.kr"
+      },
+      {
+        "title": "[어제장 오늘장] 크게 흔들리는 반도체, 저가 매수 기회? 조정 신호?",
+        "url": "https://n.news.naver.com/mnews/article/374/0000515368?sid=101",
+        "press": "biz.sbs.co.kr"
+      },
+      {
+        "title": "삼성전자·SK하이닉스, 프리마켓서 5%대 급락…美 반도체주 약세 여파[특...",
+        "url": "https://www.newsway.co.kr/news/view?ud=2026061108224880336",
+        "press": "www.newsway.co.kr"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "IRAN STATE MEDIA CITES SENIOR OFFICIAL: NO CONTACT BETWEEN IRANIAN OFFICIALS AND TRUMP [...](https:/",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "IRIB, QUOTING A SENIOR OFFICIAL: TRUMP'S CLAIM ABOUT IRANIAN OFFICIALS CONTACTING HIM IS PURE FALSEH",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "*IRAN'S STATE MEDIA CITES SENIOR OFFICIAL DENYING THAT IRANIAN OFFICIALS CONTACTED TRUMP [...](https",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "IRAN'S NAVY: NO VESSEL SHOULD MOVE FROM ITS ANCHORAGE IN THE PERSIAN GULF AND THE SEA OF OMAN. APPRO",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "🔴 IRAN'S NAVY: HORMUZ WILL BE CLOSED UNTIL FURTHER NOTICE [...](https://x.com/financialjuice/status/",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "TRUMP: ISRAELIS NOT INVOLVED IN\nTHESE IRAN STRIKES [...](https://x.com/DeItaone/status/2064851290778",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "TRUMP TELLS FOX NEWS ISRAELIS NOT INVOLVED IN IRAN STRIKES [...](https://x.com/financialjuice/status",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "TRUMP LEAVES OPTION OPEN FOR MORE IRAN STRIKES [...](https://x.com/DeItaone/status/20648504725449977",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}
