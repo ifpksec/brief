@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "generated_at": "2026-06-11T23:36:41.264114+00:00",
+    "run_date": "20260612"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 12,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 99.68,
+      "change": -0.28,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.46,
+      "change": -1.74,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 19.44,
+      "change": -12.51,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7394.3,
+      "change": 1.75,
+      "insight": "전일종가 7266.99 / 변동 +127.3096",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29446.18,
+      "change": 3.29,
+      "insight": "전일종가 28508.03 / 변동 +938.1465",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 50848.75,
+      "change": 1.86,
+      "insight": "전일종가 49918.78 / 변동 +929.9688",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1525.05,
+      "change": -0.05,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 160.05,
+      "change": -0.3,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "고객예탁금 2.5조 원 감소하며 투자심리 위축",
+      "tag": "Bearish"
+    },
+    {
+      "point": "프로그램 매매 비차익 중심 1,783억 순매도",
+      "tag": "Bearish"
+    },
+    {
+      "point": "원/달러 환율 1,525원선 고공행진 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "반도체 소부장 및 장비주 중심 선별적 강세",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 12로 극단적 공포 국면 진입",
+      "tag": "Bearish"
+    },
+    {
+      "point": "신용융자잔고 36.7조 원 수준으로 안정적 유지",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "미-이란 협상 기대감에 다우 지수 900P 폭등",
+      "tag": "Bullish"
+    },
+    {
+      "point": "국채금리 급락 및 달러 약세로 유동성 개선",
+      "tag": "Bullish"
+    },
+    {
+      "point": "반도체 섹터 1년 만에 최대폭 상승하며 시장 견인",
+      "tag": "Bullish"
+    },
+    {
+      "point": "VIX 지수 12% 폭락하며 시장 변동성 급감",
+      "tag": "Bullish"
+    },
+    {
+      "point": "S&P500 종목 55%가 50일 이동평균선 상회",
+      "tag": "Bullish"
+    },
+    {
+      "point": "극단적 공포 단계에 따른 역발상 매수세 유입",
+      "tag": "Bullish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "SK하이닉스, 챗GPT 도입 검토…곽노정 'AI와 함께 일해야'",
+      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=459553",
+      "press": "pinpointnews",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "다올證 '브이엠, 반도체 장비주 중 저평가…목표가 14만원'",
+      "url": "https://n.news.naver.com/mnews/article/366/0001171268?sid=101",
+      "press": "biz.chosun.com",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "美-이란 협상 기대감에 강세…韓 8000피 진입 시도 전망",
+      "url": "https://n.news.naver.com/mnews/article/277/0005775415?sid=101",
+      "press": "view.asiae.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "반도체 소부장, 증시 변동성 속 상승…투심 쏠린다",
+      "url": "https://n.news.naver.com/mnews/article/374/0000515622?sid=101",
+      "press": "biz.sbs.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "뉴욕증시 반도체주 상승…국내증시, 다시 코스피 쏠림",
+      "url": "https://n.news.naver.com/mnews/article/374/0000515623?sid=101",
+      "press": "biz.sbs.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "DSC 인베스트먼트, 수익 성장 스캔 통과",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZG5LTzBvbGZCclFhc3BYUGJxZS10NERXYzg4cEpYQzVHVjNEMWFIb2twcFUycG1heTExcUN6Sm85MmF0X3ktQXJYVTJ3RnJzN0t6WHdSZzF1cHotYXN2WER6UmVWRzRvSWhaOGd5bnNCNTBKZ0JrZ1RBQW4yNzgxNXVqRFh6ZzFCYVBVS3RUc1J6c0RvSGQxaWV3WVFzeWIxLTJXcmNjNzhOUjFRTVdDU29xMks4VVZIbUpWd3VlUW1tcXpFaDlpVTFpWUpSRlIxTVZJUFlFOFhtQ1NjOUJpZjJRX1BhOENZS2Y5ODBR0gHzAUFVX3lxTE1LQy1nb180N2ZjNzdOYV9KYXRvLU94eVpLVE83TXVNc1U0STNXWTlZVm9aWkNLd2pxSHFkelBkZ2hhZVU1TVE0OC1xVUJGM0VKVFVwTkl3S1ZDWWQyMk5qWTA5dXptUHltWFZ0NVRyODB1QVR0N3RaUGRhN05JUUw3QUJ6NTlZOFJwVXBraXNLSnAzZ053NmRfemtyWTR3VkxLT2RmTW5GMUR0cWxvVExQWmFYMFM0NHpEUmY3c0Nvenprc0c1dWo2SDJnbGZ0MlQ2Q3Y3aGxwY2FGNlhpdllGblp2LTRaNW9vQS1GX1RZcENnUQ?oc=5",
+      "press": "simplywall.st",
+      "source": "domestic"
+    },
+    {
+      "category": "부동산·유동성",
+      "title": "평택 고덕국제신도시 수자인하우스디 견본주택 12일 개관",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=112811",
+      "press": "www.businessplus.kr",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "트럼프와 측근들, 탄핵 기록 삭제 계획 수립",
+      "url": "https://x.com/financialjuice/status",
+      "press": "Market News Feed",
+      "source": "telegram"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "트럼프 미-이란 협상 타결 가능성 시사에 다우 900포인트 폭등",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6UGRpbzFzYTdJajVPd0p1aTVIV0haSE5vblRKbTBmMVJPY0VyZ2U3cEF0dC15V3NpbWpRaTd3YUlENHlIQmNNX21nWXlYZVV0RmdIRkhXSVlKeHBrcXpFc3kxdndMUjByZlVEemY5bjZEd3FvUWRv0gF8QVVfeXFMTWw2YUhEMVQ0amdmSGxCNkl5dnFpWmxYLTFvZVVaa1lMZnNlT1NhbjJ0Q1ZsMWEzUnJNaERfOFpWUVhHdGhxV1BrSDJhNGlndTJfSjN4RG9rZFJSeW1oMzBpN1k1MHpheUlmVDZEUVJSVGpjNXpXckVYQzFYcg?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "반도체 주가 1년 만에 최고의 날 기록하며 급등",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNlp4NmFodEN2ejNmQ0xIWjAwSEd1LXJrYXdaUnpIaHROX0s5U0hfWDRqZW9EaFFYNWNaVHhKVlhYSEtlMUVLc1BHUVd1RWthbURHT3NOQ25YdF94Tmd6eVdnbFpnem9GeFJULWszZW1Ed3VNVFh4SDh4bkx6eVNIeHJaZHJjdHBjeUhoVWpIblBpWGVYR1Qtd2cyc2FaZk4waWc0YXpNRm9pOW1yZTB4OEZpdUd1ZVVvZVNENjBUZkZwS2RERnpDcTA1ejJMalA2RGE5RDIwX3VfNFJtVnVuNGdMYU5aaW9qTzZOSXhVbkE0a0d0VUtR?oc=5",
+      "press": "WSJ",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "트럼프 이란 협상 신호에 아시아 증시 상승 전망",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYWtJTzVNNVEtS1ExRnFlbzJzeUtPbEo4S1BZSUJRd0ZkUS1PUnFvZG9QMUFuV1lnYW9WSHpVakZsdnUzMGNZRS1OWHhSSEstaVBweWlwTzhFR3U3bEdjOUQxdEw5UUhoMTBOXzFRYl9kU0Z3NXU2TkVZWEl4TW15Ql9xVXVVajNlLWlQWS0tblNPY2c4SjhVMFVNRTFRaHItZUotQXIzZF9NTmVPamRjUGo2eWQ?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "폭등 전 매수해야 할 3가지 AI 반도체 종목",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVE82bkNlZlpQY1V0cGdwVVVuRVZ4UTVQUGs2ODdOeUx5R1VkNHB3N0lDS3hOWUpaM3pVMm4tQVk4Z2RfSzhtR2ZYR1pBZ3UzMl9HcW1CUmRva0IzeWV5eDhIOTFRUEhLRDBGNlFSLTBTZ2dPVXpCWXhRMldxYS1vcElIemx0ZV9xcXROUXRpc3E4UUpyVFdLQg?oc=5",
+      "press": "The Motley Fool",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "이란 협상 근접 소식에 다우 900포인트 폭등 및 나스닥·S&P 급등",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZXBhRW1PaVUzb1hBU1k3M045NHpzLWVCMTJteGxWenVaSHkyNzh6aGRzN21PVFJDOEdmeEtwdE9fQzlEb21YVnJldkxjSjVGbDZiVWNPVGtFOFppNk5qekZGUERSM1FnMGdRWmJ6VDJiN0U5TXozQkRDdVV3MXQ0aFFjX0NabVhNVnpmRWpha18xTE5TelZ5cDI3SlZsbEU3YUNBTG5zV3BHV28?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "마이크로소프트, AI 지출 정밀 조사 및 엑스박스 구조조정 소식에 하락",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ1NkbF96NjNyck9ialN6c3hESDIwa2tuQjN3dVZQOUZ1MDZzVi1qSWUzcklubG9DOUszR28xU2Yxb0FocTlLRjlIRDZjMUttZkpFNFZvN0lhMllFYlZTb2dIX2gzLTBLOHZiMlp2U0lqR0RvWUxoV1V6OE9pWkV1bE9uSFpLUkxlZGM4QS1XT3BLRVRvQlE?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    }
+  ]
+}
