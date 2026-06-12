@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "generated_at": "2026-06-12T23:36:37.954449+00:00",
+    "run_date": "20260613"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 12,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 99.81,
+      "change": -0.05,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.49,
+      "change": 0.54,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 17.68,
+      "change": -9.05,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7431.46,
+      "change": 0.5,
+      "insight": "전일종가 7394.30 / 변동 +37.1602",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29635.95,
+      "change": 0.64,
+      "insight": "전일종가 29446.18 / 변동 +189.7676",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51202.26,
+      "change": 0.7,
+      "insight": "전일종가 50848.75 / 변동 +353.5117",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1517.89,
+      "change": -0.47,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 160.18,
+      "change": 0.03,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "삼성-구글 AI 칩 생산 협력 기대감에 반도체 주목",
+      "tag": "Bullish"
+    },
+    {
+      "point": "한은 총재, 인플레이션 위험에 금리 인상 가능성 시사",
+      "tag": "Bearish"
+    },
+    {
+      "point": "원/달러 환율 1,517원대 하락하며 고환율 정점 통과",
+      "tag": "Bullish"
+    },
+    {
+      "point": "ETF 시장 500조 원 회복 목전, 개인 매수세 지속",
+      "tag": "Bullish"
+    },
+    {
+      "point": "리노공업 7,300억 규모 블록딜 완료 후 수급 주시",
+      "tag": "Neutral"
+    },
+    {
+      "point": "코스피 ETF 내 반도체 쏠림 심화 및 변동성 확대",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "미-이란 협상 타결 기대에 다우 지수 900P 폭등",
+      "tag": "Bullish"
+    },
+    {
+      "point": "스페이스X 상장 대성공, 머스크 세계 첫 조만장자 등극",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 12, 역발상 매수 유입되는 과매도 국면",
+      "tag": "Bullish"
+    },
+    {
+      "point": "딜러 롱감마 포지션으로 인한 시장 안정화 기여",
+      "tag": "Bullish"
+    },
+    {
+      "point": "지정학적 리스크 완화 기대로 국제 유가 급락세",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미 국채 10년물 금리 상승에도 증시 랠리 지속",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "삼성 파운드리, 구글 AI 칩 생산 계약 가능성",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPajJRckJBRlVTdklBOFFYdzVOZThYenZMOGVjQmI0QjRyTHNDcEM3WE1zZWJRbU1TMXNwVm82V2g4U3lXdmNJd2xuU2lpd2ZkMkxxejVqQUdQSzJ1MmZaYXBxVF9udTRFOVRaN01tTHphTDZuWDdRSEhoQ3lvUnFnOG1MMVc0cHkx?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "한은 총재, 물가 리스크로 금리 인상 준비 시사",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSDBHcTVYamNkcnNrVnMtVG1PQ2pkeGdpeS1JaXM4Q1F0bDZlZjZtQmdLMGdxR0RxVlRtM0NkUng3OWtGalpDV083dGc1cFlXR0VKQi0yRG13bG5DRkZFY250NnhrSTNIX25mSzJJX05ybmdubnl2UFhVVzMyLTB6eDAxOFBlUkFfQ3ExLWtac1VFcU1uRWZQc2RwcnZiUVVRZXljbXp1amc5bUZRc0xrTmU4YS1pRFdrUjFMckRhTm83NXVBN3UwTjl1Q3ltQQ?oc=5",
+      "press": "WSJ",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "호르무즈 열리나…코스피 9000선 도전 전망",
+      "url": "https://www.newsway.co.kr/news/view?ud=2026061214092970996",
+      "press": "www.newsway.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "증시 변동성에도 ETF 500조 회복 눈앞",
+      "url": "https://n.news.naver.com/mnews/article/215/0001255254?sid=101",
+      "press": "www.wowtv.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "리노공업 7315억 블록딜 완료, 주가 반등 관심",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202606130060",
+      "press": "www.bntnews.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "ETF 반도체 쏠림 심화, 삼성·닉스 비중 과반",
+      "url": "https://www.sisajournal-e.com/news/articleView.html?idxno=421715",
+      "press": "www.sisajournal-e.com",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자, 광주에 차세대 반도체 공장 이전 검토",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTi1XVkd6N2lPX0NHVXlVVy1udHdBaXpFR096MFJuRDJXUzE4elVHTE5tV1RndXhSUms2TjFCbS1maHNkTHlBVDZRZnYzZDU3QS1nMGpvZUZORUdRUTUtdkV4OG9kejRlQmdjc2FDUWRWYWo5QWo4VWc0d001cV9UdGRKeU5QVmgx?oc=5",
+      "press": "Evrim Ağacı",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "미 당국, 오픈AI 광범위한 활동 조사 착수",
+      "url": "https://x.com/MarketNews_Feed",
+      "press": "Market News Feed",
+      "source": "telegram"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "시장·기타",
+      "title": "스페이스X 상장: 머스크 세계 최초 조만장자 등극",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FM3AwRHdtRkdRVnlSck9RMVJjRW13aWtCR1piNm5yYU5fSVY2VVVWajN5d1NCRmdNVGphZ3NobWxTTHVod2JNdmxfSDhjSkV4MW9fSHZ6YmRRVUluQ0l1bjRZY0M4b1c4NVdadWtVSjA0Ujc3dVE?oc=5",
+      "press": "WSJ",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "트럼프 '이란과 곧 협상' 발언에 다우 지수 900P 급등",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB6UGRpbzFzYTdJajVPd0p1aTVIV0haSE5vblRKbTBmMVJPY0VyZ2U3cEF0dC15V3NpbWpRaTd3YUlENHlIQmNNX21nWXlYZVV0RmdIRkhXSVlKeHBrcXpFc3kxdndMUjByZlVEemY5bjZEd3FvUWRv0gF8QVVfeXFMTWw2YUhEMVQ0amdmSGxCNkl5dnFpWmxYLTFvZVVaa1lMZnNlT1NhbjJ0Q1ZsMWEzUnJNaERfOFpWUVhHdGhxV1BrSDJhNGlndTJfSjN4RG9rZFJSeW1oMzBpN1k1MHpheUlmVDZEUVJSVGpjNXpXckVYQzFYcg?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "미-이란 합의 기대감에 원유 선물 가격 하락",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNREZGMkpKRHhuOTlBU3VScTdDWGtRZWV4OHdyVkZZbTR0UElBTVF6RWktTXNHbzFmNkJpTzBCMGpIRUo3RVVlSzJMV3EzT3ZMV0l0YXpDS2JsMFJHR2NWd2VtUS16SFJBYnY0S3hPWEU0aXNWVHd5dzMySDZtWWs2LUlRR2JTTGRHcEtWS2J5SmROa2l6QXA3aDFKdFk5QkdQd0F4UE4zUXpORkdT?oc=5",
+      "press": "WSJ",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "스페이스X 상장 첫날 주가 19% 폭등",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFdE8xWHVGaEdxZXJRMUdhS3AweFEzZGZ3V3AzQUkyY193SW9QRmV6U0hmcjlYazc2QUVkRUdCX3M4VjJvNVNzaUt3WkJZM2RqUmZOUGdLaWRaN1RaMHNzaXdnRjJTWXc?oc=5",
+      "press": "Reuters",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "AI 관련주 및 미국 금리 향방 전망 보고서",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZEZXbUVSQXZrZ1UycllTRzlTZkYyR2FNZmh3RzFZbUNxNDFpbUYtV2Qxam81TEYyS0s2MG03NXlVNFRnYktqMWYzTjMwaE1hcDlsQmlkRElDYzVqYTd2Y0kxbW1zejhtX3dFc3BBWmFmU1RHbXNTOW1xNE1BNW1Vd20yVEo3Q3pKcEZYNkVPb2s2ZFNyVG5LcFNqeTMwZXlEX0twMEtGcUU?oc=5",
+      "press": "Goldman Sachs",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "백악관, 7월까지 가상자산 명확성 법안 통과 목표",
+      "url": "https://x.com/MarketNews_Feed",
+      "press": "Market News Feed",
+      "source": "international"
+    }
+  ]
+}
