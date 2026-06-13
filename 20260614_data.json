@@ -1,0 +1,367 @@
+{
+  "meta": {
+    "generated_at": "2026-06-13T23:36:45.142999+00:00",
+    "run_date": "20260614"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [
+      {
+        "title": "#1 HL만도 (+30.00%)",
+        "description": "현재가: 65,000, 거래량: 1,202,691"
+      },
+      {
+        "title": "#2 한전기술 (+29.98%)",
+        "description": "현재가: 151,300, 거래량: 285,648"
+      },
+      {
+        "title": "#3 드림텍 (+29.79%)",
+        "description": "현재가: 5,860, 거래량: 1,541,028"
+      },
+      {
+        "title": "#4 한전KPS (+29.61%)",
+        "description": "현재가: 63,900, 거래량: 439,122"
+      },
+      {
+        "title": "#5 현대건설 (+28.36%)",
+        "description": "현재가: 157,500, 거래량: 1,157,067"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 8,305억원",
+        "description": "현재가: 84, 거래량: 10,572,067,757주"
+      },
+      {
+        "title": "#2 KODEX 인버스 거래대금 8,581억원",
+        "description": "현재가: 983, 거래량: 899,280,799주"
+      },
+      {
+        "title": "#3 TIGER 200선물인버스2X 거래대금 103억원",
+        "description": "현재가: 90, 거래량: 123,627,227주"
+      },
+      {
+        "title": "#4 KODEX 삼성전자단일종목레버리지 거래대금 24,203억원",
+        "description": "현재가: 23,730, 거래량: 96,747,984주"
+      },
+      {
+        "title": "#5 KODEX SK하이닉스단일종목레버리지 거래대금 24,880억원",
+        "description": "현재가: 23,920, 거래량: 94,598,971주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 +55,468,105주 / 기관 -254,504,965주 / 개인 +189,897,575주",
+        "description": "직전 영업일(20260612) 순매수 수량"
+      },
+      {
+        "title": "KODEX 인버스 외국인 -2,377,151주 / 기관 +20,794,749주 / 개인 -11,396,832주",
+        "description": "직전 영업일(20260612) 순매수 수량"
+      },
+      {
+        "title": "TIGER 200선물인버스2X 외국인 -1,102,581주 / 기관 -3,497,493주 / 개인 +4,497,774주",
+        "description": "직전 영업일(20260612) 순매수 수량"
+      },
+      {
+        "title": "KODEX 삼성전자단일종목레버리지 외국인 +1,322,926주 / 기관 +3,258,432주 / 개인 -4,828,844주",
+        "description": "직전 영업일(20260612) 순매수 수량"
+      },
+      {
+        "title": "KODEX SK하이닉스단일종목레버리지 외국인 -37,053주 / 기관 +6,000,235주 / 개인 -6,689,885주",
+        "description": "직전 영업일(20260612) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.75 (-0.11%)",
+        "description": "전일종가 99.86 / 변동 -0.1100"
+      },
+      {
+        "title": "미국 10년물 금리: 4.49 (+0.54%)",
+        "description": "전일종가 4.46 / 변동 +0.0240"
+      },
+      {
+        "title": "VIX 변동성지수: 17.68 (-9.05%)",
+        "description": "전일종가 19.44 / 변동 -1.7600"
+      },
+      {
+        "title": "S&P 500: 7431.46 (+0.50%)",
+        "description": "전일종가 7394.30 / 변동 +37.1602"
+      },
+      {
+        "title": "나스닥100: 29635.95 (+0.64%)",
+        "description": "전일종가 29446.18 / 변동 +189.7695"
+      },
+      {
+        "title": "다우존스: 51202.26 (+0.70%)",
+        "description": "전일종가 50848.75 / 변동 +353.5117"
+      },
+      {
+        "title": "USD/KRW: 1517.89 (-0.47%)",
+        "description": "전일종가 1525.05 / 변동 -7.1600"
+      },
+      {
+        "title": "USD/JPY: 160.18 (+0.03%)",
+        "description": "전일종가 160.13 / 변동 +0.0550"
+      },
+      {
+        "title": "코스피: 8123.62 (+4.63%)",
+        "description": "전일종가 7763.95 / 변동 +359.6699"
+      },
+      {
+        "title": "코스닥: 1029.05 (+3.22%)",
+        "description": "전일종가 996.93 / 변동 +32.1201"
+      },
+      {
+        "title": "KOSPI200: 1291.32 (+4.85%)",
+        "description": "전일종가 1231.54 / 변동 +59.7799"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.779 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.02 | GEX -0.3B$ (만기:2026-06-15)",
+        "description": "콜OI 153,298 / 풋OI 155,711 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.84 | GEX +0.4B$ (만기:2026-06-15)",
+        "description": "콜OI 72,940 / 풋OI 134,389 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $197.45 (-0.75%)",
+        "description": "거래량 17,152,000주 (평균대비 0.6x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $745.14 (+0.55%)",
+        "description": "거래량 9,499,000주 (평균대비 0.5x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 58.8% (117/199종목)",
+        "description": "평균 MA 대비 위치: +2.6%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 13/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-05-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-05-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 333.979",
+        "description": "Date: 2026-05-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 1.6",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.45",
+        "description": "Date: 2026-06-11, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.73조달러",
+        "description": "기준일: 2026-06-10 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.32조달러",
+        "description": "기준일: 2026-06-10 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 8010.84억달러",
+        "description": "기준일: 2026-06-10 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.00억달러",
+        "description": "기준일: 2026-06-12 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 278bp (2.78%)",
+        "description": "기준일: 2026-06-11 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 75bp (0.75%)",
+        "description": "기준일: 2026-06-11 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "symbol__ Stock Quote Price and Forecast - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IWU9LYjktNHpyMlkyLXhrNzgzYjdWTzdkMmlLUDRQOTdnODdGQW9famkzanFOZWFtZHl1dUNjTnZUS25KZFh0R0NNT3FnWDg?oc=5",
+        "press": "CNN"
+      },
+      {
+        "title": "Why TD Securities anticipates even bigger days ahead for SpaceX - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPelNBVmMtVjhQSFlpZlFBbF9yb240UmNBLWx3YTI1V3RaOVJ3R3pqMC1mUVFVX3pzeGVXUFY4WnBFeDhaYjFpRU5uaDc3WFptSHp1b2pFRjd0RnRlTWJSdGZCSVoydHpRS1MtTFA3ZWtTS0ZKakpWSTN1amtINWRDRGVwWElIeU5vd2Q4THJlY3JXaWgxZ3fSAZsBQVVfeXFMUE9vUUVUX1ZMTkdGY09jUGd3RU5VZnpBYXlDckM2UHdNM2NSNjhDd19GZXNnd1Itc1ZZSDVJMHZUQjFiaEhBVk9IN3VqckFwTi1aOXlQeG9PalBPWkNGa1FpUmtKdVlYS3FEQ0QzN1RKeElHWkJxc1dEVGRVX0luYWtkUjNQeUhNNjYzbXVyYWVyM01xLXhMWmNHOTA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Nebius Joins Nasdaq-100 As AI Infrastructure Growth Meets Index Flows - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV3hhRkJPejJILUhHckVVUmdDUmlkTHpONFpMMFR0VmFlZHhMTXc5VFpmQmx6VVFiN1ZrQUFpWUM0dXZMVkxWbWhKaGUxck1ubjFVallEbE5lQ1JlY1RTXzJHTFFseHZSNHVsYWF1ZXFWbnNFOUl1bjk3TGRIUXpuZWtmendQNXhmalF5S0xSaG5zNnBWUmc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "World Flange Mounted Spin-on Filters - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRURBd3drZU93N3ZqVWhEb2pQN05xcHdtYU0zVWxXbXd5VTRZMkxSTlhuZXBYVDA2aVNXXzJjU0dCa2Zyb2Y3enl6OHNWd1NpcHBGeDFjYnh2SEpoWGRUUGJPRjZRX0hPbUZDMzFhN004dzZaNUJwcjlHWHVLSXRXMHVwUlctcU5DRVBiZFBJd1o2a0FDbUxEWTh4bnhNb0Q3ZXlpcUVrUVRwVUN2OENzYmNTMUt3NzNz?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "World Hot-Melt Adhesives for Converting - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFdEbTZyZlZiNjhnaXU1dFVpRUNWT3hnbmI3NjRlNVVWNk1aYTdnMm83blA2ZWRlRHVxRjZmSmRLSkFUMkxlZ3hlZE1hbDBmdHROQ3JXWWROc3dfQ0lLNjZwYk9VajlsTF9SVTdGcXJCNndhUHlKdjZsUS1zNjBsUkVCNm9ueC00cm9QM0c5NkRGZmJOUVEwZ2Z3VFBVa20wcy10OFZxR2ZDSU50T1ZDYU9Ncy11cGZ1Yi02bg?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "World Rare Earth Nodularizer - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMmM0cG04QTRuZUJ3Q1JTOTQxNFdqQWpGSFFhc0owR0lyMVJkd29aN1FSVmY3OVFLYWlOdDFnUGZUQ3RZS0JZQVpIZG9MMDUyOU83dlluUzhaUnVJQW9lVkpxckloOE9saG5WTmY5eWZ3c3lzTThMU2hFVnZxN0ZYUXlmSUFvODhlRlZfVVJlOUsxRjAxRGl5LXlKQlBkb3B6dDQwcDF6dFJJWDNzalE?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "OpenAI hit with multistate probe into possible user harm as its IPO looms - 10tv.com",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX09KT01ZN21iUnBPUmFTa2V3WXcxbU5zaUFYaU5NQlRRZ1NNeGNkVG5KdVZVVVBvSTFTU1pNNnZpcnF2bTM5aHJRRzNFOGFpeENJV2JNRFk2Wm1FR2lDaXRKa0czMU42U2U4VzV3ZlhLZXktQzdtRExWQXNReEw1cEdtZ2ZZdDE1RjFMWEZFYUNiNnN3anpVZThqWVFPN05tdkZzWUpLdjRuV2VZVHpsTmFKaGdqdnNzTGxkSGlFUGVQTlhpMjZwbTh3?oc=5",
+        "press": "10tv.com"
+      },
+      {
+        "title": "Kratos Space Surveillance Win Ties Into SpaceX IPO Spending Story - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ2pRd0thSlpaYjZYSTQ2R0lQWU1FbXNTWEhiaE1uTUk3d0R1Y3gyVEpYcVc3cnJHTkVwbVJOaWhlS3RRZThXMHVWT3Z6YTZpVHQtbjRjcGRjV1lIMnc1b3JsSm93QlkwUEVNcjRGUVRrZUVOMy1McC1JWVlpMmFheHhRZzhucGpMdVpWRUdzNGdCY1hGOUtHaEh1T292NXdl?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [],
+    "naver": [
+      {
+        "title": "“주가 오르면 집값 안정?…주식 팔아 집 샀다” 올해 3.7조 주택시장 유...",
+        "url": "https://n.news.naver.com/mnews/article/016/0002656167?sid=101",
+        "press": "biz.heraldcorp.com"
+      },
+      {
+        "title": "美물가 부담 던 증시, 시선은 워시 첫 회견으로",
+        "url": "https://www.sentv.co.kr/article/view/sentv202606140001",
+        "press": "www.sentv.co.kr"
+      },
+      {
+        "title": "“오르락 내리락”…52주 신고가 1508개, 신저가도 1763개 ‘양극화’",
+        "url": "https://n.news.naver.com/mnews/article/029/0003031530?sid=101",
+        "press": "www.dt.co.kr"
+      },
+      {
+        "title": "“주가 오르면 집값 안정?…주식 팔아 집 샀다” 올해 3.7조 주택시장 유...",
+        "url": "https://n.news.naver.com/mnews/article/016/0002656167?sid=101",
+        "press": "biz.heraldcorp.com"
+      },
+      {
+        "title": "“오르락 내리락”…52주 신고가 1508개, 신저가도 1763개 ‘양극화’",
+        "url": "https://n.news.naver.com/mnews/article/029/0003031530?sid=101",
+        "press": "www.dt.co.kr"
+      },
+      {
+        "title": "[증시전망] 역대급 롤러코스터 끝낼까...미 FOMC 주목",
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674851",
+        "press": "www.digitaltoday.co.kr"
+      },
+      {
+        "title": "미래에셋증권, 6월 둘째주 LG이노텍 등 3종목 매수 추천",
+        "url": "https://www.bigtanews.co.kr/article/view/big202606140002",
+        "press": "www.bigtanews.co.kr"
+      },
+      {
+        "title": "KB증권, 6월 둘째주 NAVER 등 10종목 매수 추천",
+        "url": "https://www.bigtanews.co.kr/article/view/big202606140001",
+        "press": "www.bigtanews.co.kr"
+      },
+      {
+        "title": "롯데마트 호주산 소고기 최대 40% 할인행사...롯데하이마트 여름 시즌 가...",
+        "url": "https://www.slist.kr/news/articleView.html?idxno=745128",
+        "press": "www.slist.kr"
+      },
+      {
+        "title": "미래에셋증권, 6월 둘째주 LG이노텍 등 3종목 매수 추천",
+        "url": "https://www.bigtanews.co.kr/article/view/big202606140002",
+        "press": "www.bigtanews.co.kr"
+      },
+      {
+        "title": "KB증권, 6월 둘째주 NAVER 등 10종목 매수 추천",
+        "url": "https://www.bigtanews.co.kr/article/view/big202606140001",
+        "press": "www.bigtanews.co.kr"
+      },
+      {
+        "title": "반도체만 사람 뽑는다…고용 한파 속 'K자 양극화' 심화",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1712386",
+        "press": "www.ebn.co.kr"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "**Follow us on X for even faster headlines!**\n\nhttps://x.com/MarketNews_Feed",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "WHITE HOUSE EXPORT RESTRICTIONS ON ANTHROPIC TIED TO WORRIES OVER CHINESE ACCESS: SEMAFOR [...](http",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "🌆 **Market News Digest**\n__[Jun 13, 2026 06:00-16:15 EST]__\n\n🔥 **Top Stories**\n• **U.S.-Iran peace d",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "U.S. GOVERNMENT UNLIKELY TO BROADEN ANTHROPIC EXPORT CONTROLS TO OTHER AI FIRMS: THE INFORMATION [..",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "IRANIAN MEDIA: PROTESTERS DEMAND QALIBAF AND ARAGHCHI'S RESIGNATION IN REJECTION OF THE AGREEMENT [.",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "IRANIAN MEDIA: DEMONSTRATIONS AGAINST IRAQCHI AND QALIBAF IN REJECTION OF THE AGREEMENT WITH AMERICA",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "CRYPTO UPDATE:   \n#BITCOIN 64184.00 +1.13%  \n#ETHER 1677.90 +0.87%  \n#CARDANO 0.1721 +1.42%   \n#BITC",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "WEEKEND MARKETS UPDATE:  \n#SPACEX 16489 +0.83%\n#DAX 24754 +0.32%   \n#DOW 51334 +0.31%  \n#NASDAQ 2969",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}

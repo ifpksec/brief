@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "generated_at": "2026-06-13T23:36:45.144041+00:00",
+    "run_date": "20260614"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 13,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 99.75,
+      "change": -0.11,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.49,
+      "change": 0.54,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 17.68,
+      "change": -9.05,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7431.46,
+      "change": 0.5,
+      "insight": "전일종가 7394.30 / 변동 +37.1602",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29635.95,
+      "change": 0.64,
+      "insight": "전일종가 29446.18 / 변동 +189.7695",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51202.26,
+      "change": 0.7,
+      "insight": "전일종가 50848.75 / 변동 +353.5117",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1517.89,
+      "change": -0.47,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 160.18,
+      "change": 0.03,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "환율 1517원대 소폭 하락에도 높은 수준 유지",
+      "tag": "Neutral"
+    },
+    {
+      "point": "EWY ETF 하락세로 국내 증시 수급 부담 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "주식 매도 후 부동산 유입 자금 3.7조 원 달해",
+      "tag": "Neutral"
+    },
+    {
+      "point": "신고가-신저가 종목 양극화 심화로 종목 장세",
+      "tag": "Neutral"
+    },
+    {
+      "point": "미 FOMC 회의 결과 및 파월 의장 발언에 주목",
+      "tag": "Neutral"
+    },
+    {
+      "point": "증권가, LG이노텍 및 네이버 등 대형주 매수 추천",
+      "tag": "Bullish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "미 3대 지수 일제히 상승하며 안도 랠리 시도",
+      "tag": "Bullish"
+    },
+    {
+      "point": "달러인덱스 100 하회하며 달러화 약세 전환",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 13점, 극단적 공포 속 역발상 구간",
+      "tag": "Bullish"
+    },
+    {
+      "point": "주식-채권 상관계수 0.77로 인플레 우려 상존",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VIX 지수 9% 이상 급락하며 시장 불안감 완화",
+      "tag": "Bullish"
+    },
+    {
+      "point": "QQQ 풋 우세 및 SPY 숏감마로 변동성 경계",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "부동산·유동성",
+      "title": "“주가 오르면 집값 안정?…주식 팔아 집 샀다” 올해 3.7조 주택시장 유입",
+      "url": "https://n.news.naver.com/mnews/article/016/0002656167?sid=101",
+      "press": "biz.heraldcorp.com",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "美물가 부담 던 증시, 시선은 워시 첫 회견으로",
+      "url": "https://www.sentv.co.kr/article/view/sentv202606140001",
+      "press": "www.sentv.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "“오르락 내리락”…52주 신고가 1508개, 신저가도 1763개 ‘양극화’",
+      "url": "https://n.news.naver.com/mnews/article/029/0003031530?sid=101",
+      "press": "www.dt.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "[증시전망] 역대급 롤러코스터 끝낼까...미 FOMC 주목",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=674851",
+      "press": "www.digitaltoday.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "미래에셋증권, 6월 둘째주 LG이노텍 등 3종목 매수 추천",
+      "url": "https://www.bigtanews.co.kr/article/view/big202606140002",
+      "press": "www.bigtanews.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "KB증권, 6월 둘째주 NAVER 등 10종목 매수 추천",
+      "url": "https://www.bigtanews.co.kr/article/view/big202606140001",
+      "press": "www.bigtanews.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "이란 매체: 시위대, 미국과의 합의 거부하며 고위층 사퇴 요구",
+      "url": "https://t.me/MarketNews_Feed",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "백악관, 중국의 접근 우려로 앤스로픽에 대한 AI 수출 제한",
+      "url": "https://t.me/MarketNews_Feed",
+      "press": "Market News Feed",
+      "source": "telegram"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "TD 증권, 스페이스X의 향후 더 큰 성장 가능성 전망",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPelNBVmMtVjhQSFlpZlFBbF9yb240UmNBLWx3YTI1V3RaOVJ3R3pqMC1mUVFVX3pzeGVXUFY4WnBFeDhaYjFpRU5uaDc3WFptSHp1b2pFRjd0RnRlTWJSdGZCSVoydHpRS1MtTFA3ZWtTS0ZKakpWSTN1amtINWRDRGVwWElIeU5vd2Q4THJlY3JXaWgxZ3fSAZsBQVVfeXFMUE9vUUVUX1ZMTkdGY09jUGd3RU5VZnpBYXlDckM2UHdNM2NSNjhDd19GZXNnd1Itc1ZZSDVJMHZUQjFiaEhBVk9IN3VqckFwTi1aOXlQeG9PalBPWkNGa1FpUmtKdVlYS3FEQ0QzN1RKeElHWkJxc1dEVGRVX0luYWtkUjNQeUhNNjYzbXVyYWVyM01xLXhMWmNHOTA?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "네비우스, AI 인프라 성장과 함께 나스닥100 지수 편입",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV3hhRkJPejJILUhHckVVUmdDUmlkTHpONFpMMFR0VmFlZHhMTXc5VFpmQmx6VVFiN1ZrQUFpWUM0dXZMVkxWbWhKaGUxck1ubjFVallEbE5lQ1JlY1RTXzJHTFFseHZSNHVsYWF1ZXFWbnNFOUl1bjk3TGRIUXpuZWtmendQNXhmalF5S0xSaG5zNnBWUmc?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "OpenAI, IPO 앞두고 사용자 피해 가능성에 대한 다주 정부 조사 직면",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX09KT01ZN21iUnBPUmFTa2V3WXcxbU5zaUFYaU5NQlRRZ1NNeGNkVG5KdVZVVVBvSTFTU1pNNnZpcnF2bTM5aHJRRzNFOGFpeENJV2JNRFk2Wm1FR2lDaXRKa0czMU42U2U4VzV3ZlhLZXktQzdtRExWQXNReEw1cEdtZ2ZZdDE1RjFMWEZFYUNiNnN3anpVZThqWVFPN05tdkZzWUpLdjRuV2VZVHpsTmFKaGdqdnNzTGxkSGlFUGVQTlhpMjZwbTh3?oc=5",
+      "press": "10tv.com",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "세계 희토류 결절제 시장 분석, 예측 및 트렌드 전망",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMmM0cG04QTRuZUJ3Q1JTOTQxNFdqQWpGSFFhc0owR0lyMVJkd29aN1FSVmY3OVFLYWlOdDFnUGZUQ3RZS0JZQVpIZG9MMDUyOU83dlluUzhaUnVJQW9lVkpxckloOE9saG5WTmY5eWZ3c3lzTThMU2hFVnZxN0ZYUXlmSUFvODhlRlZfVVJlOUsxRjAxRGl5LXlKQlBkb3B6dDQwcDF6dFJJWDNzalE?oc=5",
+      "press": "IndexBox",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "주식 시세 정보 및 시장 전망 보고서",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IWU9LYjktNHpyMlkyLXhrNzgzYjdWTzdkMmlLUDRQOTdnODdGQW9famkzanFOZWFtZHl1dUNjTnZUS25KZFh0R0NNT3FnWDg?oc=5",
+      "press": "CNN",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "세계 핫멜트 접착제 시장 분석 및 규모 전망",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdFdEbTZyZlZiNjhnaXU1dFVpRUNWT3hnbmI3NjRlNVVWNk1aYTdnMm83blA2ZWRlRHVxRjZmSmRLSkFUMkxlZ3hlZE1hbDBmdHROQ3JXWWROc3dfQ0lLNjZwYk9VajlsTF9SVTdGcXJCNndhUHlKdjZsUS1zNjBsUkVCNm9ueC00cm9QM0c5NkRGZmJOUVEwZ2Z3VFBVa20wcy10OFZxR2ZDSU50T1ZDYU9Ncy11cGZ1Yi02bg?oc=5",
+      "press": "IndexBox",
+      "source": "international"
+    }
+  ]
+}
