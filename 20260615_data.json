@@ -1,0 +1,393 @@
+{
+  "meta": {
+    "generated_at": "2026-06-14T23:36:58.387130+00:00",
+    "run_date": "20260615"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [
+      {
+        "title": "고객예탁금: 1,273,718억원 (-2,347억원)",
+        "description": "신용융자잔고: 366,565억원"
+      }
+    ],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 -109,192백만원 (차익 +9 / 비차익 -109,202)",
+        "description": "기준일: 20260615"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 동화약품 (+0.00%)",
+        "description": "현재가: 5,330, 거래량: 0"
+      },
+      {
+        "title": "#2 KR모터스 (+0.00%)",
+        "description": "현재가: 341, 거래량: 0"
+      },
+      {
+        "title": "#3 경방 (+0.00%)",
+        "description": "현재가: 8,350, 거래량: 0"
+      },
+      {
+        "title": "#4 삼양홀딩스 (+0.00%)",
+        "description": "현재가: 56,700, 거래량: 0"
+      },
+      {
+        "title": "#5 하이트진로 (+0.00%)",
+        "description": "현재가: 16,340, 거래량: 0"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 제주반도체 거래대금 16억원",
+        "description": "현재가: 102,500, 거래량: 16,437주"
+      },
+      {
+        "title": "#2 흥아해운 거래대금 0억원",
+        "description": "현재가: 1,811, 거래량: 13,557주"
+      },
+      {
+        "title": "#3 화신정공 거래대금 0억원",
+        "description": "현재가: 4,895, 거래량: 9,825주"
+      },
+      {
+        "title": "#4 팸텍 거래대금 0억원",
+        "description": "현재가: 1,835, 거래량: 6,411주"
+      },
+      {
+        "title": "#5 우리기술 거래대금 1억원",
+        "description": "현재가: 17,570, 거래량: 5,936주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "제주반도체 외국인 -39,286주 / 기관 +84,301주 / 개인 -50,452주",
+        "description": "직전 영업일(20260612) 순매수 수량"
+      },
+      {
+        "title": "흥아해운 외국인 +114,568주 / 기관 +16,305주 / 개인 -135,985주",
+        "description": "직전 영업일(20260612) 순매수 수량"
+      },
+      {
+        "title": "화신정공 외국인 -182,755주 / 기관 +0주 / 개인 +183,347주",
+        "description": "직전 영업일(20260612) 순매수 수량"
+      },
+      {
+        "title": "팸텍 외국인 +89,475주 / 기관 +0주 / 개인 -89,475주",
+        "description": "직전 영업일(20260612) 순매수 수량"
+      },
+      {
+        "title": "우리기술 외국인 -76,935주 / 기관 +1,017,060주 / 개인 -930,291주",
+        "description": "직전 영업일(20260612) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.50 (-0.25%)",
+        "description": "전일종가 99.75 / 변동 -0.2450"
+      },
+      {
+        "title": "미국 10년물 금리: 4.49 (+0.54%)",
+        "description": "전일종가 4.46 / 변동 +0.0240"
+      },
+      {
+        "title": "VIX 변동성지수: 17.68 (-9.05%)",
+        "description": "전일종가 19.44 / 변동 -1.7600"
+      },
+      {
+        "title": "S&P 500: 7431.46 (+0.50%)",
+        "description": "전일종가 7394.30 / 변동 +37.1602"
+      },
+      {
+        "title": "나스닥100: 29635.95 (+0.64%)",
+        "description": "전일종가 29446.18 / 변동 +189.7695"
+      },
+      {
+        "title": "다우존스: 51202.26 (+0.70%)",
+        "description": "전일종가 50848.75 / 변동 +353.5117"
+      },
+      {
+        "title": "USD/KRW: 1518.57 (+0.08%)",
+        "description": "전일종가 1517.38 / 변동 +1.1899"
+      },
+      {
+        "title": "USD/JPY: 159.95 (-0.11%)",
+        "description": "전일종가 160.13 / 변동 -0.1800"
+      },
+      {
+        "title": "코스피: 8123.62 (+4.63%)",
+        "description": "전일종가 7763.95 / 변동 +359.6699"
+      },
+      {
+        "title": "코스닥: 1029.05 (+3.22%)",
+        "description": "전일종가 996.93 / 변동 +32.1201"
+      },
+      {
+        "title": "KOSPI200: 1291.32 (+4.85%)",
+        "description": "전일종가 1231.54 / 변동 +59.7799"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.779 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.02 | GEX -0.2B$ (만기:2026-06-15)",
+        "description": "콜OI 153,298 / 풋OI 155,711 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.84 | GEX +0.3B$ (만기:2026-06-15)",
+        "description": "콜OI 72,940 / 풋OI 134,389 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $197.45 (-0.75%)",
+        "description": "거래량 17,152,000주 (평균대비 0.6x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $745.14 (+0.55%)",
+        "description": "거래량 9,499,000주 (평균대비 0.5x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 58.8% (117/199종목)",
+        "description": "평균 MA 대비 위치: +2.6%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 18/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-05-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-05-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 333.979",
+        "description": "Date: 2026-05-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 1.6",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.45",
+        "description": "Date: 2026-06-11, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.73조달러",
+        "description": "기준일: 2026-06-10 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.32조달러",
+        "description": "기준일: 2026-06-10 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 8010.84억달러",
+        "description": "기준일: 2026-06-10 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.00억달러",
+        "description": "기준일: 2026-06-12 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 278bp (2.78%)",
+        "description": "기준일: 2026-06-11 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 75bp (0.75%)",
+        "description": "기준일: 2026-06-11 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: S&P 500, Nasdaq, Dow futures jump after US and Iran reach peace deal - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVS1aMHdHUHYxeGQxSWJBU2VJazBaalFvMjcwZmV6WEtQejlSR1FRaHF1RHVTaWZBa3RRTzlkYnByQVZjZWZ2SXhoSThpR0VhUExPMFQ1NlE3NGx5dEY2T2dYd2cxRHFaN1RRZXlKOHdONGNEdXM2aUxiS2MzQlhyS3dMMTFzQ2JoTHB3YU9tSGVoSlRiaWNQTExR?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "US Futures Climb, Oil Falls on Iran Peace Deal: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUhKcHF1aHBVMlpjQm1nNm1CM043eXpnYUtiVUJIYlM5N1RHTm1YQk9Fb000V3lvLTdUMzVieXhtRnNwMVFzcGNUVE5RWEN1bk95d19FVTFrWDlaaFpubmxfM0ctcTYxRjctZElzSkhubkoxSDZfbDVXVndCUU5kbXRoNmIydjd2QVFNV0ZsWDUzUzRBbHg1R2RmbGJSQWNVa2c0b2NLVlRWcXJrUFE?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Stock market today: S&P 500, Nasdaq, Dow futures jump after US and Iran reach peace deal - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVS1aMHdHUHYxeGQxSWJBU2VJazBaalFvMjcwZmV6WEtQejlSR1FRaHF1RHVTaWZBa3RRTzlkYnByQVZjZWZ2SXhoSThpR0VhUExPMFQ1NlE3NGx5dEY2T2dYd2cxRHFaN1RRZXlKOHdONGNEdXM2aUxiS2MzQlhyS3dMMTFzQ2JoTHB3YU9tSGVoSlRiaWNQTExR?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "US Futures Climb, Oil Falls on Iran Peace Deal: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUhKcHF1aHBVMlpjQm1nNm1CM043eXpnYUtiVUJIYlM5N1RHTm1YQk9Fb000V3lvLTdUMzVieXhtRnNwMVFzcGNUVE5RWEN1bk95d19FVTFrWDlaaFpubmxfM0ctcTYxRjctZElzSkhubkoxSDZfbDVXVndCUU5kbXRoNmIydjd2QVFNV0ZsWDUzUzRBbHg1R2RmbGJSQWNVa2c0b2NLVlRWcXJrUFE?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "High Growth Tech Stocks In Asia For June 2026 - Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZFF0QTJQcV9UeUdvdk9WSm92R1ZVZnhaM1JKckNLdFRuUV9KX1Z3NXRTSUpUVFp5bkVZMXJmLUt0MGdobFdtN1NQSWdoeFpJRVNSWkRrU01wX3dkR2ZrWUwxendvMTBZTzg2V0JDZW5NbG55SXVLcnBWNHEwcl9IMXU1QQ?oc=5",
+        "press": "Yahoo Finance Singapore"
+      },
+      {
+        "title": "World Cylindricity Testers - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNenVJQXNsaVYwMFRjLUNDSDE4OTRab2F0ZWVGWXdiR1g1TWNRU2JzZ3IxOVkxdlJscGU1NGdXUGVCQUNRZ1E3OEZKU2I0c2ZoMkg3ZkFLanlfT2JlQ0pZenRCVzFGU181dDNWdHpSelg1VzlDY1plRnR4cDRMdWJtQzlmSkdHYU1MX3g0NEpMY2hzZk0zcTVGOFk0M1Vtc0k0ZjRZNWtPLTRDQUdadmdCOVVmNXhCVHlvbTlJLXREd01SYzNwbHgwcVFEX2tScUk?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Stock market today: S&P 500, Nasdaq, Dow futures jump after US and Iran reach peace deal - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVS1aMHdHUHYxeGQxSWJBU2VJazBaalFvMjcwZmV6WEtQejlSR1FRaHF1RHVTaWZBa3RRTzlkYnByQVZjZWZ2SXhoSThpR0VhUExPMFQ1NlE3NGx5dEY2T2dYd2cxRHFaN1RRZXlKOHdONGNEdXM2aUxiS2MzQlhyS3dMMTFzQ2JoTHB3YU9tSGVoSlRiaWNQTExR?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock futures jump after the U.S. and Iran reach a deal to end the war: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zbDM0VGZuUjNaUlp2czRlcU5ibmRvS1RMZ2hMUTctUEZ4bVZiaXhBLUZWenFLTnd0bi00WF9la2dCODNNcnpidUFya2ZfeXp0TktqSHJUc01aWUtBd3JnTUduZUQ5UktWWjBJVXpyQVRlWld4V0lr0gF8QVVfeXFMTVp6RkV3aEQ2WGpyR1VPaGhOcmdnakRaZnFxVkROc3BhN2VzazhiRW5kNWIyNmtiSmhJMEotbWJHT3IxUHlYMFg3aGpadHJMbTdRbjJ2OTNqTkkyTHBnTllaVUNyZ0Y1UldVQTdiX21aYmxQaXFrcUlIU2FYdA?oc=5",
+        "press": "CNBC"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "StradVision Targets Kosdaq Debut on China, India Autonomous Driving Momentum - thelec.net",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPRWpTeTVtdjNtcnZUOUhzZk5yWTZQbUljbTN3Q2pFOS0tNUt3X191dGpkSTFOb29MREVzSWpVbE5VQ3FSTV9yY1p1Z2J4Y0pZQmlIcHN1NDdWbzF1NmFnSHpNck1sa0k?oc=5",
+        "press": "thelec.net"
+      },
+      {
+        "title": "KOSDAQ reverse splits surge as delisting risks rise under stricter Korea rules - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcldsMHViZWFfZnAydXp1Z2hRMEZSeGQwek9XdnJBa1AtOV85MzFpSTFMbXp4cUNpcEZEWms4amxzT1QwT3VNMmNUZHJqZDcwVTZlb3FNWjNZa2hxaUM4QnRubi00bkwzNFJnWEo5SzdmaVhwWG0xNnZMQWEtUEMzTNIBlAFBVV95cUxNSXpzbFV2U1BMbndQa1JaanJDNmtTc1I1SUxDb1pXSFJFUjA1T1hvMGU4Z3Ywc3BkbkZjSThPVDJGUkVjcGFYbHgyb1BHWDBVSzJQSjNmWjNrRzJ4X0ZlQUliQmlNR3Y3QjNYVUlqaFVUeTlXZU9GZ0tlUkZsSXFhNTlPWGVzdGhJb0UwRlRRdHVicTBr?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "KOSDAQ-listed Beck is targeting the Edge Data Center market, which is emerging as a key infrastructu.. - 매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mQzdfeEdUM0F4enpVTUNONW5Id1dSX3dwalA2WW5udzJwVXk3SW51d1d2UUZ1Sm03VEpLYThSSTZGVHJVU3czOFg1a3NOaFE?oc=5",
+        "press": "매일경제"
+      }
+    ],
+    "naver": [
+      {
+        "title": "파월 떠난 첫 FOMC…워시의 한마디에 바뀔 하반기 투자지도",
+        "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=843815",
+        "press": "www.newsworks.co.kr"
+      },
+      {
+        "title": "'미-이란 휴전' 기대감에 프리마켓 급등…삼전·SK하닉 6%대↑",
+        "url": "https://n.news.naver.com/mnews/article/421/0009003237?sid=101",
+        "press": "www.news1.kr"
+      },
+      {
+        "title": "코스피, 미국-이란 종전 합의 소식에 상승세 전망",
+        "url": "https://www.tokenpost.kr/news/market/369282",
+        "press": "www.tokenpost.kr"
+      },
+      {
+        "title": "[상장사 경고등] [코이즈] 시총 80억까지 추락, 상폐 리스크↑",
+        "url": "https://news.dealsitetv.com/articles/171650",
+        "press": "news.dealsitetv.com"
+      },
+      {
+        "title": "피노바이오, 셀트리온 임상 순항에 미소…연내 신규 기술이전 3건 노린...",
+        "url": "https://n.news.naver.com/mnews/article/018/0006306335?sid=101",
+        "press": "www.edaily.co.kr"
+      },
+      {
+        "title": "삼성증권 \"비츠로셀, 코스닥150 지수 편입·이차전지 기회\"",
+        "url": "https://n.news.naver.com/mnews/article/001/0016138324?sid=101",
+        "press": "www.yna.co.kr"
+      },
+      {
+        "title": "경북도 이철우 지사, \"TK 패싱 아닌 새로운 도약 기회\"",
+        "url": "http://www.metroseoul.co.kr/article/20260615500027",
+        "press": "www.metroseoul.co.kr"
+      },
+      {
+        "title": "삼성 아트 스토어에 '아트 바젤 인 바젤 2026' 컬렉션 공개",
+        "url": "https://www.ajunews.com/view/20260615081532773",
+        "press": "www.ajunews.com"
+      },
+      {
+        "title": "파월 떠난 첫 FOMC…워시의 한마디에 바뀔 하반기 투자지도",
+        "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=843815",
+        "press": "www.newsworks.co.kr"
+      },
+      {
+        "title": "경북도 이철우 지사, \"TK 패싱 아닌 새로운 도약 기회\"",
+        "url": "http://www.metroseoul.co.kr/article/20260615500027",
+        "press": "www.metroseoul.co.kr"
+      },
+      {
+        "title": "티씨케이, 삼성·하이닉스 9세대 낸드 전환 '핵심 기업'…\"장비 테스트...",
+        "url": "http://www.newsprime.co.kr/news/article.html?no=736635",
+        "press": "www.newsprime.co.kr"
+      },
+      {
+        "title": "[비즈 인사이트] \"AI가 '부의 지도' 바꿨다\"…삼성전자·SK하이닉스 1년...",
+        "url": "https://www.seoultimes.news/news/article.html?no=2000096591",
+        "press": "www.seoultimes.news"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "JUST IN: UK, FRANCE, GERMANY AND ITALY READY TO LIFT SANCTIONS ON IRAN FOLLOWING PEACE DEAL WITH US.",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "TRUMP INSISTS IF IRAN MISSES FINAL NUCLEAR DEAL WITH US: HE WOULD RESUME MILITARY STRIKES ON TEHRAN ",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "TRUMP CLAIMS STRAIT WILL BE ‘PERMANENTLY TOLL FREE’ UNDER IRAN AGREEMENT: NYT [...](https://x.com/fi",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "*TRUMP DESCRIBES NETANYAHU AS 'VERY DIFFICULT' IN CALL WITH NYT [...](https://x.com/tradfi/status/20",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "*TRUMP SAYS REACHED IRAN DEAL DESPITE NETANYAHU OBJECTIONS: NYT\n\n*US TO RESUME IRAN STRIKES IF CAN'T",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "JUST IN: ELON MUSK SAYS SPACEX $SPCX COULD REACH $1 TRILLION REVENUE IN 2030.  [...](https://x.com/W",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "THREE HURT IN KYIV DURING RUSSIAN AIR STRIKES, MAYOR SAYS [...](https://x.com/financialjuice/status/",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "LEADERS OF E4 URGE URGENT REOPENING OF STRAIT OF HORMUZ WITH UNCONDITIONAL NAVIGATION FREEDOM [...](",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}

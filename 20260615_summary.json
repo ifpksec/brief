@@ -1,0 +1,245 @@
+{
+  "meta": {
+    "generated_at": "2026-06-14T23:36:58.388603+00:00",
+    "run_date": "20260615"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 18,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 99.5,
+      "change": -0.25,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.49,
+      "change": 0.54,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 17.68,
+      "change": -9.05,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7431.46,
+      "change": 0.5,
+      "insight": "전일종가 7394.30 / 변동 +37.1602",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29635.95,
+      "change": 0.64,
+      "insight": "전일종가 29446.18 / 변동 +189.7695",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51202.26,
+      "change": 0.7,
+      "insight": "전일종가 50848.75 / 변동 +353.5117",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1518.57,
+      "change": 0.08,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.95,
+      "change": -0.11,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "미-이란 휴전 소식에 삼성전자·SK하이닉스 급등세",
+      "tag": "Bullish"
+    },
+    {
+      "point": "코스닥 상장사 상장폐지 리스크 확대 및 주의 필요",
+      "tag": "Bearish"
+    },
+    {
+      "point": "고객예탁금 감소 및 프로그램 매도 우위 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "원/달러 환율 1,518원 돌파하며 외환 시장 불안",
+      "tag": "Bearish"
+    },
+    {
+      "point": "자율주행 및 데이터센터 인프라 등 테마별 차별화",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 극단적 공포 단계로 역발상 구간 진입",
+      "tag": "Bullish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "미-이란 평화 합의로 지정학적 리스크 급격히 완화",
+      "tag": "Bullish"
+    },
+    {
+      "point": "뉴욕 3대 지수 일제히 상승하며 위험자산 선호 회복",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미 10년물 국채금리 상승에도 달러 인덱스는 하락",
+      "tag": "Neutral"
+    },
+    {
+      "point": "VIX 지수 9% 폭락하며 시장 변동성 우려 축소",
+      "tag": "Bullish"
+    },
+    {
+      "point": "유가 하락 압력으로 인플레이션 둔화 기대감 상승",
+      "tag": "Bullish"
+    },
+    {
+      "point": "머스크의 스페이스X 매출 1조 달러 목표 제시",
+      "tag": "Bullish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "매크로·금리",
+      "title": "'미-이란 휴전' 기대감에 삼전·SK하이닉스 6%대 급등",
+      "url": "https://n.news.naver.com/mnews/article/421/0009003237?sid=101",
+      "press": "news1",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "스트라드비젼, 자율주행 모멘텀으로 코스닥 상장 추진",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBPRWpTeTVtdjNtcnZUOUhzZk5yWTZQbUljbTN3Q2pFOS0tNUt3X191dGpkSTFOb29MREVzSWpVbE5VQ3FSTV9yY1p1Z2J4Y0pZQmlIcHN1NDdWbzF1NmFnSHpNck1sa0k?oc=5",
+      "press": "thelec.net",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피, 미-이란 종전 합의 소식에 상승세 전망",
+      "url": "https://www.tokenpost.kr/news/market/369282",
+      "press": "tokenpost",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "파월 떠난 첫 FOMC, 워시의 발언에 투자지도 바뀐다",
+      "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=843815",
+      "press": "newsworks",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스닥 상장사 '코이즈' 시총 80억 추락, 상폐 위기",
+      "url": "https://news.dealsitetv.com/articles/171650",
+      "press": "dealsitetv",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "비츠로셀, 코스닥150 지수 편입 및 이차전지 기회",
+      "url": "https://n.news.naver.com/mnews/article/001/0016138324?sid=101",
+      "press": "yna",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "벡, 인프라 핵심인 에지 데이터센터 시장 정조준",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mQzdfeEdUM0F4enpVTUNONW5Id1dSX3dwalA2WW5udzJwVXk3SW51d1d2UUZ1Sm03VEpLYThSSTZGVHJVU3czOFg1a3NOaFE?oc=5",
+      "press": "매일경제",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "피노바이오, 셀트리온 임상 순항에 신규 기술이전 기대",
+      "url": "https://n.news.naver.com/mnews/article/018/0006306335?sid=101",
+      "press": "edaily",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "미-이란 평화 합의로 S&P 500 및 나스닥 선물 급등",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVS1aMHdHUHYxeGQxSWJBU2VJazBaalFvMjcwZmV6WEtQejlSR1FRaHF1RHVTaWZBa3RRTzlkYnByQVZjZWZ2SXhoSThpR0VhUExPMFQ1NlE3NGx5dEY2T2dYd2cxRHFaN1RRZXlKOHdONGNEdXM2aUxiS2MzQlhyS3dMMTFzQ2JoTHB3YU9tSGVoSlRiaWNQTExR?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "미-이란 평화 합의에 유가 하락 및 미 지수 선물 상승",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUhKcHF1aHBVMlpjQm1nNm1CM043eXpnYUtiVUJIYlM5N1RHTm1YQk9Fb000V3lvLTdUMzVieXhtRnNwMVFzcGNUVE5RWEN1bk95d19FVTFrWDlaaFpubmxfM0ctcTYxRjctZElzSkhubkoxSDZfbDVXVndCUU5kbXRoNmIydjd2QVFNV0ZsWDUzUzRBbHg1R2RmbGJSQWNVa2c0b2NLVlRWcXJrUFE?oc=5",
+      "press": "Bloomberg",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "일론 머스크, 스페이스X 2030년 매출 1조 달러 도달 가능성 언급",
+      "url": "https://x.com/W",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "트럼프, 네타냐후 반대에도 이란과 평화 합의 도달",
+      "url": "https://x.com/tradfi/status/20",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "유럽 주요국, 이란 합의 후 호르무즈 해협 재개방 촉구",
+      "url": "https://x.com/financialjuice/status/",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "2026년 6월 주목해야 할 아시아 고성장 기술주 분석",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZFF0QTJQcV9UeUdvdk9WSm92R1ZVZnhaM1JKckNLdFRuUV9KX1Z3NXRTSUpUVFp5bkVZMXJmLUt0MGdobFdtN1NQSWdoeFpJRVNSWkRrU01wX3dkR2ZrWUwxendvMTBZTzg2V0JDZW5NbG55SXVLcnBWNHEwcl9IMXU1QQ?oc=5",
+      "press": "Yahoo Finance Singapore",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "러시아의 키이우 공습으로 3명 부상 발생",
+      "url": "https://x.com/financialjuice/status/",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "시장·기타",
+      "title": "세계 원통도 측정기 시장 분석 및 전망 보고서",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNenVJQXNsaVYwMFRjLUNDSDE4OTRab2F0ZWVGWXdiR1g1TWNRU2JzZ3IxOVkxdlJscGU1NGdXUGVCQUNRZ1E3OEZKU2I0c2ZoMkg3ZkFLanlfT2JlQ0pZenRCVzFGU181dDNWdHpSelg1VzlDY1plRnR4cDRMdWJtQzlmSkdHYU1MX3g0NEpMY2hzZk0zcTVGOFk0M1Vtc0k0ZjRZNWtPLTRDQUdadmdCOVVmNXhCVHlvbTlJLXREd01SYzNwbHgwcVFEX2tScUk?oc=5",
+      "press": "IndexBox",
+      "source": "international"
+    }
+  ]
+}
