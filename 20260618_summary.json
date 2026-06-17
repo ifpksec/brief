@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "generated_at": "2026-06-17T23:35:52.048398+00:00",
+    "run_date": "20260618"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 22,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 100.39,
+      "change": 0.85,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 18.44,
+      "change": 12.37,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7420.1,
+      "change": -1.21,
+      "insight": "전일종가 7511.35 / 변동 -91.2500",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29670.95,
+      "change": -0.99,
+      "insight": "전일종가 29968.13 / 변동 -297.1836",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51492.55,
+      "change": -0.98,
+      "insight": "전일종가 51999.67 / 변동 -507.1211",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1510.96,
+      "change": -0.16,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 160.59,
+      "change": 0.1,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    },
+    {
+      "name": "코스피",
+      "value": 8726.6,
+      "change": 2.11,
+      "insight": "국내 대형주 지수 (전일 종가 기준)",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "코스피 2.11% 급등하며 8726선 돌파 마감",
+      "tag": "Bullish"
+    },
+    {
+      "point": "고객예탁금 4조 원 가까이 증가하며 유동성 개선",
+      "tag": "Bullish"
+    },
+    {
+      "point": "환율 1510원대 유지하며 외인 수급 부담 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "한은, 내년까지 인플레이션 리스크 상존 경고",
+      "tag": "Bearish"
+    },
+    {
+      "point": "코스피 프로그램 2,479억 원 순매도 기록",
+      "tag": "Bearish"
+    },
+    {
+      "point": "신용융자 37조 원대 유지하며 개인 투심 견조",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "미-이란 평화 합의 및 호르무즈 해협 재개방",
+      "tag": "Bullish"
+    },
+    {
+      "point": "연준 매파적 동결 및 2026년 인상 가능성 시사",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 22포인트로 극단적 공포 국면",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VIX 지수 12% 폭등하며 시장 변동성 확대",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미 3대 지수 일제히 하락하며 기술주 매도세",
+      "tag": "Bearish"
+    },
+    {
+      "point": "달러 인덱스 100 상회하며 강달러 기조 강화",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 11,500 돌파하나? 증권가 강세장 전망",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUU1lRZEhkVDV2eHdCN25GamMwWm52MjNCVGpuRkozRmFwdktBOWFPNkk1NjU1b095Mm5YMHZuMnJueTZGUFBNVmRVWUI3bm5VdUlsdHBmNjNoN1BCSUxENV9vRnQ?oc=5",
+      "press": "아시아경제",
+      "source": "domestic"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "한국은행, 내년까지 인플레이션 위험 경고",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTDl5WEtuMGNVQ29mVVMxYVJRT3R4LTlwb2l0Rl9BTUZfMDlBd1lrTDZLMjMzTGdEQzZPcUpxQXlRcmZGM1Q3SUIzTUxyTWp6eVpjQTEwb2EwVlpKWmZzV1Vkc2FuM1FfYTJ5Tk9mLThpcHdER3AtamhxbkN6MDUyQXB6SkVvYkhGZGx1N1lB?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "케빈 워시 체제 연준, 증시 변동성 커지나",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1712964",
+      "press": "www.ebn.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "앤트로픽, 서울 오피스 공식 개소",
+      "url": "https://byline.network/?p=9004111222608049",
+      "press": "byline.network",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자, 갤럭시 A37 5G 국내 출시",
+      "url": "https://n.news.naver.com/mnews/article/030/0003438725?sid=105",
+      "press": "www.etnews.com",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "매파적 FOMC에 증시 상승 탄력성 둔화",
+      "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=268052",
+      "press": "www.newsquest.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "와이즈버즈, 미 제약바이오 디지털 광고 시장 진입",
+      "url": "https://n.news.naver.com/mnews/article/215/0001255779?sid=101",
+      "press": "www.wowtv.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "클로봇, DLS 인수로 물류 자동화 확장",
+      "url": "https://www.newstnt.com/news/articleView.html?idxno=706835",
+      "press": "www.newstnt.com",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "에너지·원자재",
+      "title": "미국과 이란, 분쟁 종식 및 호르무즈 해협 재개방 합의 서명",
+      "url": "https://x.com/diegobloomberg/status/2067383417692434921",
+      "press": "Market News Feed",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "연준 회의: 금리 동결 후 주가 하락세 전환",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQREVCMV9wbWEza21SRkY4a281ZnJNZWdfbUhjUmZ5am01RlBIMDdWMGVRaEVpWk44a2phMHA2ektfdTJ5WmhvTVRvbUpuZU9tS3FmaC1heW12SU1sOEg4U2dqSndyeXluNXIxaE10NWt5TGFpbExETTMxS1pvOUJ4cQ?oc=5",
+      "press": "WSJ",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "연준의 2026년 금리 인상 시사에 미 지수 선물 하락",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KTnpsQTRpT1dTMHotblVRbHFZVUlWcmd4MXloSEZIaWRJQXllTXFsWDVWT1V0UW9KQWpmbDk5X1d5TVBIUks1ZF9BbGNCZl9UOVpFd0NVQmRjV1pKUGJkR0R5aW5ZeUJXd2RtWmVlMzBJUU1pWEZV0gF8QVVfeXFMTW9TUTNfSWR6N3NuNVI0TGc0eUMzOExVOGdWVkdPQ25NLUVuYnVMM2ZFWW5Xck1FMWpTdGhnNzdISHY5R3ZIWG9Td1lYa0ZlcmFaanBCTHZUd2VYLUx1M2xTTlJ4ZzVabHJsWWpyVmExY3c5dkNMODF1Vzg3TA?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "로빈후드, 10% 감원 및 역대급 거래량 발표 후 주가 급등",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbk5DdTkzazJYVjZqTDc3ZjlSWjlwUWtDT0x5RmV4NTdkbWtWbEdlTEVNR2tlUkhnNWlQbnIzUE9qdVdGdmZEVXNIemVWNVFRbVFJblp1NkxwNGZTSXlHT1hydWt4YTduVkdURm1mcGctS3dwNTZtVGdVb3pqNlB5R1JtQ29aNERyVUhqbFZibXh2ZWI3aGc?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "석유 시장이 이란 위기를 무시하고 있는 이유",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaThXeEdicGl3ay1hQUh6SHVpei1jVUlSYzBBdFg4UnpmdnpKSmV2bnVQWXRWSHBBRkhqeVV0MEg3a2tjQWNxanU3VUhhMFQ4N2xyNENiWHB6N0pNZHRnQk1GY20zRjdTWnRDZ1BsT3VvU0JDMGNFdnpmMVNrSGwyQVhhazQ?oc=5",
+      "press": "Financial Times",
+      "source": "international"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "다우 지수 첫 52,000 돌파, 기술주 매도에 S&P는 하락",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jdXJkOFJXSFdYdlY4SWhBWjI3SDRSX29fSkdQYktfMFl3WjJCU2NxR1hISTVqQ2J2ZFlQQzc5Smh1Q292T0cyMWF2c2U0NjVHbVBuVXFGTThLZGFDYnlaVmpISzJwMFR4WU9oOE05aERRMGI4Q2lR0gF8QVVfeXFMTkh4UzZmNzg5Y0JSa0pMSjlpREJNZ2xtdWw5eExlenMzeUl6NnBsek5SR0dvRmlkZEMzbllvWGNhMjBGX054aldxRXpDeFZ4ZmFSUHFTZmZEbGo1Q1VZam96YU5oUHk5LW9DOTN1UXpJZjU2ckZhRnBsazJpbg?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    }
+  ]
+}

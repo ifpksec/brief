@@ -1,0 +1,395 @@
+{
+  "meta": {
+    "generated_at": "2026-06-17T23:35:52.046774+00:00",
+    "run_date": "20260618"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [
+      {
+        "title": "고객예탁금: 1,245,516억원 (+39,699억원)",
+        "description": "신용융자잔고: 373,856억원"
+      }
+    ],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 -247,927백만원 (차익 -66,299 / 비차익 -181,628)",
+        "description": "기준일: 20260618"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 동화약품 (+0.00%)",
+        "description": "현재가: 5,330, 거래량: 0"
+      },
+      {
+        "title": "#2 KR모터스 (+0.00%)",
+        "description": "현재가: 343, 거래량: 0"
+      },
+      {
+        "title": "#3 경방 (+0.00%)",
+        "description": "현재가: 8,790, 거래량: 0"
+      },
+      {
+        "title": "#4 삼양홀딩스 (+0.00%)",
+        "description": "현재가: 57,100, 거래량: 0"
+      },
+      {
+        "title": "#5 하이트진로 (+0.00%)",
+        "description": "현재가: 15,920, 거래량: 0"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 1억원",
+        "description": "현재가: 68, 거래량: 1,902,667주"
+      },
+      {
+        "title": "#2 KODEX 인버스 거래대금 6억원",
+        "description": "현재가: 892, 거래량: 717,307주"
+      },
+      {
+        "title": "#3 대원전선 거래대금 2억원",
+        "description": "현재가: 12,330, 거래량: 18,265주"
+      },
+      {
+        "title": "#4 포스코스틸리온 거래대금 1억원",
+        "description": "현재가: 6,580, 거래량: 16,371주"
+      },
+      {
+        "title": "#5 제주반도체 거래대금 11억원",
+        "description": "현재가: 111,500, 거래량: 10,368주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 -119,837,461주 / 기관 -72,776,430주 / 개인 +137,017,426주",
+        "description": "직전 영업일(20260617) 순매수 수량"
+      },
+      {
+        "title": "KODEX 인버스 외국인 +6,545,085주 / 기관 -10,527,991주 / 개인 +3,145,166주",
+        "description": "직전 영업일(20260617) 순매수 수량"
+      },
+      {
+        "title": "대원전선 외국인 -2,015,124주 / 기관 -38,259주 / 개인 +2,033,723주",
+        "description": "직전 영업일(20260617) 순매수 수량"
+      },
+      {
+        "title": "포스코스틸리온 외국인 -1,203,069주 / 기관 +7,744주 / 개인 +1,180,794주",
+        "description": "직전 영업일(20260617) 순매수 수량"
+      },
+      {
+        "title": "제주반도체 외국인 +52,548주 / 기관 +136,071주 / 개인 -169,039주",
+        "description": "직전 영업일(20260617) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.39 (+0.85%)",
+        "description": "전일종가 99.54 / 변동 +0.8480"
+      },
+      {
+        "title": "VIX 변동성지수: 18.44 (+12.37%)",
+        "description": "전일종가 16.41 / 변동 +2.0300"
+      },
+      {
+        "title": "S&P 500: 7420.10 (-1.21%)",
+        "description": "전일종가 7511.35 / 변동 -91.2500"
+      },
+      {
+        "title": "나스닥100: 29670.95 (-0.99%)",
+        "description": "전일종가 29968.13 / 변동 -297.1836"
+      },
+      {
+        "title": "다우존스: 51492.55 (-0.98%)",
+        "description": "전일종가 51999.67 / 변동 -507.1211"
+      },
+      {
+        "title": "USD/KRW: 1510.96 (-0.16%)",
+        "description": "전일종가 1513.31 / 변동 -2.3501"
+      },
+      {
+        "title": "USD/JPY: 160.59 (+0.10%)",
+        "description": "전일종가 160.42 / 변동 +0.1680"
+      },
+      {
+        "title": "코스피: 8726.60 (+2.11%)",
+        "description": "전일종가 8545.98 / 변동 +180.6191"
+      },
+      {
+        "title": "코스닥: 1018.68 (-1.48%)",
+        "description": "전일종가 1034.03 / 변동 -15.3500"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.708 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.05 | GEX -2.7B$ (만기:2026-06-17)",
+        "description": "콜OI 233,518 / 풋OI 244,863 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.50 | GEX -0.9B$ (만기:2026-06-17)",
+        "description": "콜OI 166,690 / 풋OI 249,630 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $205.08 (-0.40%)",
+        "description": "거래량 16,061,807주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $742.61 (-1.25%)",
+        "description": "거래량 17,255,852주 (평균대비 1.0x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 56.3% (112/199종목)",
+        "description": "평균 MA 대비 위치: +0.7%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 22/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-05-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-05-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 333.979",
+        "description": "Date: 2026-05-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 1.6",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.43",
+        "description": "Date: 2026-06-16, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.73조달러",
+        "description": "기준일: 2026-06-10 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.32조달러",
+        "description": "기준일: 2026-06-10 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 8010.84억달러",
+        "description": "기준일: 2026-06-10 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.07억달러",
+        "description": "기준일: 2026-06-17 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 271bp (2.71%)",
+        "description": "기준일: 2026-06-16 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 75bp (0.75%)",
+        "description": "기준일: 2026-06-16 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Fed Meeting Today: Stocks Retreat After Interest Rates Hold Steady — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQREVCMV9wbWEza21SRkY4a281ZnJNZWdfbUhjUmZ5am01RlBIMDdWMGVRaEVpWk44a2phMHA2ektfdTJ5WmhvTVRvbUpuZU9tS3FmaC1heW12SU1sOEg4U2dqSndyeXluNXIxaE10NWt5TGFpbExETTMxS1pvOUJ4cQ?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Stock Market Today, June 17: Robinhood Jumps After Announcing 10% Workforce Reduction, Record June Volumes - Yahoo Finan",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbk5DdTkzazJYVjZqTDc3ZjlSWjlwUWtDT0x5RmV4NTdkbWtWbEdlTEVNR2tlUkhnNWlQbnIzUE9qdVdGdmZEVXNIemVWNVFRbVFJblp1NkxwNGZTSXlHT1hydWt4YTduVkdURm1mcGctS3dwNTZtVGdVb3pqNlB5R1JtQ29aNERyVUhqbFZibXh2ZWI3aGc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Q1 Earnings Highlights: GoodRx (NASDAQ:GDRX) Vs The Rest Of The Healthcare Technology Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVGpad3dmTHRtWXJHdGpSLUR2MzMyNXg2OXNLVnZ2N0p5SmE0SGdtX2lfTV9uZmNsY25Ha0JHU21wMk9GQVhPQzB6cTdqcFkyOXJKbE5jVEUwYU5OUGdqWDFUc0tLb1BnWUVsbHctTVRpNERQUl9objFTejVocG5TeEZKZGx6RUdzRmczdmNNQTlScHViQXV5ZVg4eFAzQQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Dow climbs above 52,000 for first time as oil prices fall, but tech sell-off knocks down S&P 500: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jdXJkOFJXSFdYdlY4SWhBWjI3SDRSX29fSkdQYktfMFl3WjJCU2NxR1hISTVqQ2J2ZFlQQzc5Smh1Q292T0cyMWF2c2U0NjVHbVBuVXFGTThLZGFDYnlaVmpISzJwMFR4WU9oOE05aERRMGI4Q2lR0gF8QVVfeXFMTkh4UzZmNzg5Y0JSa0pMSjlpREJNZ2xtdWw5eExlenMzeUl6NnBsek5SR0dvRmlkZEMzbllvWGNhMjBGX054aldxRXpDeFZ4ZmFSUHFTZmZEbGo1Q1VZam96YU5oUHk5LW9DOTN1UXpJZjU2ckZhRnBsazJpbg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock futures tick higher after Fed's hint of possible rate hike in 2026 spurs a sell-off: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KTnpsQTRpT1dTMHotblVRbHFZVUlWcmd4MXloSEZIaWRJQXllTXFsWDVWT1V0UW9KQWpmbDk5X1d5TVBIUks1ZF9BbGNCZl9UOVpFd0NVQmRjV1pKUGJkR0R5aW5ZeUJXd2RtWmVlMzBJUU1pWEZV0gF8QVVfeXFMTW9TUTNfSWR6N3NuNVI0TGc0eUMzOExVOGdWVkdPQ25NLUVuYnVMM2ZFWW5Xck1FMWpTdGhnNzdISHY5R3ZIWG9Td1lYa0ZlcmFaanBCTHZUd2VYLUx1M2xTTlJ4ZzVabHJsWWpyVmExY3c5dkNMODF1Vzg3TA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "How the oil market shrugged off the Iran crisis - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaThXeEdicGl3ay1hQUh6SHVpei1jVUlSYzBBdFg4UnpmdnpKSmV2bnVQWXRWSHBBRkhqeVV0MEg3a2tjQWNxanU3VUhhMFQ4N2xyNENiWHB6N0pNZHRnQk1GY20zRjdTWnRDZ1BsT3VvU0JDMGNFdnpmMVNrSGwyQVhhazQ?oc=5",
+        "press": "Financial Times"
+      },
+      {
+        "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Dow logs worst day in a week, S&P 500 and Nasdaq tumble after new Fed chair underscores need to fight inflation - Market",
+        "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxNclR5Z0ZtRGxVcWhpYlQ0UDNrNm5sb0ROLTlLS2pxT3hBV1VUSzRYQlBPN2tXbzFxSHF5aFgwUlVrUHdzT3FvSnlQT2szY1FVczg5bE9CSWkxVVp6OWZWLTNwa05FdXltWHFvd3Jaa1BTSm9Bc3h5TjcyREZsc0lpZWdvNWotTjJ3eGxFeGd2aWh6RWxmMUJqUjBTc0Y5ZU83VE5uTDFuUzFVN1JCdDNpbW9TNFJCTEVkTFVHSTVQVmJBUTM1T0Zrc01fYXBMZFl5dWtkVXFILUZ5TnZUYWdUcUpyb19BblFqV3ZQVzFnTXkyV3pjdk56N2JHc3F5dW1ZREVpdzBOeWZYMGg3M0NWLTRBN1Nvd2g5OTFHWFNFUlpKR1RhOHYxZGdZTDZXZFBjUTQ3cC1lUzJQZ0NzVFJ5eUFBdlQ4a3FKb2dhY21UblpnQkJnejk2cXZkWVZtQTlTWUI3aDgtcER4dU5mTjhsN2hSMjlYMXZ5SUpERVB4TTNwdG9hMUJHQ2hoLXNsSUNuNXl3YmtFM0EwR2ZIUkZpU3VXMXZvalU?oc=5",
+        "press": "MarketWatch"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Will the KOSPI Surpass 11,500? Securities Firms Forecast Continued Bull Market [1-Minute Brief] - 아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUU1lRZEhkVDV2eHdCN25GamMwWm52MjNCVGpuRkozRmFwdktBOWFPNkk1NjU1b095Mm5YMHZuMnJueTZGUFBNVmRVWUI3bm5VdUlsdHBmNjNoN1BCSUxENV9vRnQ?oc=5",
+        "press": "아시아경제"
+      },
+      {
+        "title": "Naver Launches Certification Program for Advertising Partners - thelec.net",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1c0tJZy1nY2FHQkZLMWZLMXVrd3hpMm12Zm9rRS1LczlMcjJOdmlqbm1waVo4QWYwbG1mYXowS0tYcF9EamM0RGJWSFVrZEhySkVyZXh2N29fRkZzRUZCUVRpMF9Gazg?oc=5",
+        "press": "thelec.net"
+      },
+      {
+        "title": "Dunamu Sells Stake in Naver Pay for 29.4 Billion Won - aju press",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pUXdpYlVhWEgxLXpURDM2T3llZC0ySkdxaDM4R3I3SFU4MXNaUzdUZnZQeHZVTTJmMngyUE0tc1pnZ1YzVEMxbl9nTVBpUHEzSTBYZVJaNNIBV0FVX3lxTE9pUXdpYlVhWEgxLXpURDM2T3llZC0ySkdxaDM4R3I3SFU4MXNaUzdUZnZQeHZVTTJmMngyUE0tc1pnZ1YzVEMxbl9nTVBpUHEzSTBYZVJaNA?oc=5",
+        "press": "aju press"
+      },
+      {
+        "title": "Bank of Korea Warns Inflation Risks Until Next Year - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTDl5WEtuMGNVQ29mVVMxYVJRT3R4LTlwb2l0Rl9BTUZfMDlBd1lrTDZLMjMzTGdEQzZPcUpxQXlRcmZGM1Q3SUIzTUxyTWp6eVpjQTEwb2EwVlpKWmZzV1Vkc2FuM1FfYTJ5Tk9mLThpcHdER3AtamhxbkN6MDUyQXB6SkVvYkhGZGx1N1lB?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "[전문] 연준, 기준금리 동결(영문) - 연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vX19XRGhnMUwtb0RMRXlJTFpydFozcTdvbFByM0xrT1d5NjFwd1Qtb1lnTW9yYzJNRVYzVFBiUEJ4Q3FXSlpxUWlFM09GWk5ocDk0N1BOVkZ3dWJfVThDZWdFOVFPWU1Ed25FNV84ZkJ1WXNE0gF0QVVfeXFMTm9fX1dEaGcxTC1vRExFeUlMWnJ0WjNxN29sUHIzTGtPV3k2MXB3VC1vWWdNb3JjMk1FVjNUUGJQQnhDcVdKWnFRaUUzT0ZaTmhwOTQ3UE5WRnd1Yl9VOENlZ0U5UU9ZTUR3bkU1XzhmQnVZc0Q?oc=5",
+        "press": "연합인포맥스"
+      }
+    ],
+    "naver": [
+      {
+        "title": "케빈 워시 체제 연준, '데이터 중심' 전환에 증시 변동성 커지나",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1712964",
+        "press": "www.ebn.co.kr"
+      },
+      {
+        "title": "[증시 포인트] 매파적 FOMC에 하락 출발 예상",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=140204",
+        "press": "www.opinionnews.co.kr"
+      },
+      {
+        "title": "[박정식의 국내 주식시황] FOMC 매파적 성향에 증시 상승 탄력성은 둔화...",
+        "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=268052",
+        "press": "www.newsquest.co.kr"
+      },
+      {
+        "title": "[특징주] 클로봇, DLS 인수로 물류 자동화 확장…1분기 매출 65%↑",
+        "url": "https://www.newstnt.com/news/articleView.html?idxno=706835",
+        "press": "www.newstnt.com"
+      },
+      {
+        "title": "와이즈버즈, 미국 제약바이오 디지털 광고 시장 진입…전담팀 신설로 지...",
+        "url": "https://n.news.naver.com/mnews/article/215/0001255779?sid=101",
+        "press": "www.wowtv.co.kr"
+      },
+      {
+        "title": "국회로 간 비덴트 소액주주들 \"상장폐지 절차 부당\"",
+        "url": "https://news.dealsitetv.com/articles/171989",
+        "press": "news.dealsitetv.com"
+      },
+      {
+        "title": "삼성전자, '갤럭시 A37 5G' 국내 출시…출고가 59만원",
+        "url": "https://n.news.naver.com/mnews/article/030/0003438725?sid=105",
+        "press": "www.etnews.com"
+      },
+      {
+        "title": "앤트로픽, 서울 오피스 공식 개소",
+        "url": "https://byline.network/?p=9004111222608049",
+        "press": "byline.network"
+      },
+      {
+        "title": "[포토]삼성전자, 유럽 최대 스타트업 박람회 '비바테크' 참가",
+        "url": "https://n.news.naver.com/mnews/article/018/0006308640?sid=101",
+        "press": "www.edaily.co.kr"
+      },
+      {
+        "title": "성과급 늘어도 실적 더 간다…삼성전자 목표가 48만원[애널리스트의 시...",
+        "url": "https://www.newsway.co.kr/news/view?ud=2026061808004485260",
+        "press": "www.newsway.co.kr"
+      },
+      {
+        "title": "서학개미, 스페이스X 5000억 추가 매수…이틀간 순매수액 1.7조",
+        "url": "https://www.getnews.co.kr/news/articleView.html?idxno=872687",
+        "press": "www.getnews.co.kr"
+      },
+      {
+        "title": "[프리마켓 포커스] 뉴욕증시 끌어내린 '매파 연준'에도 프리마켓 0.39%↑",
+        "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=722795",
+        "press": "www.the-biz.co.kr"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "ALMOST ALL JAPANESE COMPANIES REMAIN WORRIED ABOUT OIL AND FUEL PROCUREMENT, WHILE 30% IDENTIFY MISU",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "S&P 500 FUTURES UP 0.5%, NASDAQ FUTURES GAIN 0.8% AS US CRUDE FALLS 1%. [...](https://x.com/FirstSqu",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "*TRUMP SAYS HE'S JUST SIGNED IRAN DEAL [...](https://x.com/diegobloomberg/status/2067383417692434921",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "US OFFICIAL CONFIRMS IRAN MOU WAS SIGNED DIGITALLY ON SUNDAY BY VP VANCE AND IRAN PARLIAMENT SPEAKER",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "US AND IRAN SIGN AGREEMENT TO END CONFLICT AND REOPEN STRAIT OF HORMUZ; DEAL ENTERED INTO FORCE FOLL",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "NIPPON STEEL ‘NOT YET SATISFIED’ WITH US STEEL REFORMS, VICE PRESIDENT TAKAHIRO MORI SAYS - NIKKEI [",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "IRAN'S BAGHAEI CONFIRMS US COMMITTED TO REMOVING ALL OBSTACLES TO IRAN'S FROZEN FUNDS, SAYS 60-DAY P",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "NEW ZEALAND GDP SA (Q/Q) Q1: 0.8% (EST 0.8%; PREV 0.2%)\n\n- GDP (Y/Y) Q1: 1.5% (EST 1.1%; PREV 1.3%) ",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}
