@@ -1,0 +1,395 @@
+{
+  "meta": {
+    "generated_at": "2026-06-18T23:37:13.423776+00:00",
+    "run_date": "20260619"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [
+      {
+        "title": "고객예탁금: 1,246,320억원 (+804억원)",
+        "description": "신용융자잔고: 378,005억원"
+      }
+    ],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 -96,130백만원 (차익 +0 / 비차익 -96,130)",
+        "description": "기준일: 20260619"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 동화약품 (+0.00%)",
+        "description": "현재가: 5,190, 거래량: 0"
+      },
+      {
+        "title": "#2 KR모터스 (+0.00%)",
+        "description": "현재가: 335, 거래량: 0"
+      },
+      {
+        "title": "#3 경방 (+0.00%)",
+        "description": "현재가: 8,450, 거래량: 0"
+      },
+      {
+        "title": "#4 삼양홀딩스 (+0.00%)",
+        "description": "현재가: 54,500, 거래량: 0"
+      },
+      {
+        "title": "#5 하이트진로 (+0.00%)",
+        "description": "현재가: 15,630, 거래량: 0"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 0억원",
+        "description": "현재가: 64, 거래량: 197,258주"
+      },
+      {
+        "title": "#2 JW신약 거래대금 0억원",
+        "description": "현재가: 2,065, 거래량: 8,096주"
+      },
+      {
+        "title": "#3 TIGER 리츠부동산인프라 거래대금 0억원",
+        "description": "현재가: 4,220, 거래량: 7,462주"
+      },
+      {
+        "title": "#4 대우건설 거래대금 1억원",
+        "description": "현재가: 22,950, 거래량: 5,216주"
+      },
+      {
+        "title": "#5 한신기계 거래대금 0억원",
+        "description": "현재가: 2,985, 거래량: 4,623주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 -535,296,569주 / 기관 -697,714,878주 / 개인 +1,167,818,212주",
+        "description": "직전 영업일(20260618) 순매수 수량"
+      },
+      {
+        "title": "JW신약 외국인 -699,281주 / 기관 -31,512주 / 개인 +1,016,427주",
+        "description": "직전 영업일(20260618) 순매수 수량"
+      },
+      {
+        "title": "TIGER 리츠부동산인프라 외국인 +98,019주 / 기관 +69,333주 / 개인 -378,762주",
+        "description": "직전 영업일(20260618) 순매수 수량"
+      },
+      {
+        "title": "대우건설 외국인 -412,528주 / 기관 -224,569주 / 개인 +638,902주",
+        "description": "직전 영업일(20260618) 순매수 수량"
+      },
+      {
+        "title": "한신기계 외국인 -364,769주 / 기관 -115주 / 개인 +363,463주",
+        "description": "직전 영업일(20260618) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.81 (+0.72%)",
+        "description": "전일종가 100.09 / 변동 +0.7240"
+      },
+      {
+        "title": "VIX 변동성지수: 16.40 (-11.06%)",
+        "description": "전일종가 18.44 / 변동 -2.0400"
+      },
+      {
+        "title": "S&P 500: 7500.58 (+1.08%)",
+        "description": "전일종가 7420.10 / 변동 +80.4800"
+      },
+      {
+        "title": "나스닥100: 30406.19 (+2.48%)",
+        "description": "전일종가 29670.95 / 변동 +735.2441"
+      },
+      {
+        "title": "다우존스: 51564.70 (+0.14%)",
+        "description": "전일종가 51492.55 / 변동 +72.1484"
+      },
+      {
+        "title": "USD/KRW: 1525.42 (+0.96%)",
+        "description": "전일종가 1510.96 / 변동 +14.4601"
+      },
+      {
+        "title": "USD/JPY: 161.34 (+0.46%)",
+        "description": "전일종가 160.60 / 변동 +0.7380"
+      },
+      {
+        "title": "코스피: 8864.24 (+1.58%)",
+        "description": "전일종가 8726.60 / 변동 +137.6406"
+      },
+      {
+        "title": "코스닥: 1031.96 (+1.30%)",
+        "description": "전일종가 1018.68 / 변동 +13.2800"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.708 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 3.14 | GEX +3.2B$ (만기:2026-06-18)",
+        "description": "콜OI 994,749 / 풋OI 3,123,220 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 2.01 | GEX +2.4B$ (만기:2026-06-18)",
+        "description": "콜OI 1,185,665 / 풋OI 2,381,441 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $219.20 (+6.89%)",
+        "description": "거래량 18,258,339주 (평균대비 1.0x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $750.11 (+1.01%)",
+        "description": "거래량 6,762,242주 (평균대비 0.4x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 57.3% (114/199종목)",
+        "description": "평균 MA 대비 위치: +0.8%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 15/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-05-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-05-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 333.979",
+        "description": "Date: 2026-05-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 1.6",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.49",
+        "description": "Date: 2026-06-17, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.74조달러",
+        "description": "기준일: 2026-06-17 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.34조달러",
+        "description": "기준일: 2026-06-17 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 9565.02억달러",
+        "description": "기준일: 2026-06-17 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.00억달러",
+        "description": "기준일: 2026-06-18 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 263bp (2.63%)",
+        "description": "기준일: 2026-06-17 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 74bp (0.74%)",
+        "description": "기준일: 2026-06-17 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rally as Iran deal optimism offsets Fed hike worries - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYkRHUGF1b0hMYTROMXo0Q0pfLVpJSVNlSXFvSllmYUh0WnNwSGIwLVZVbnN5OEtrTFJXMXpQTWtWR3JUUkk2OUxlUHBuRDQ2LWxpUjBkYmdqM2duMHRZZEtfRDdKLVBZd3VNS3kwRUJGT0R2bVJNVy1MRHhIdm9mSlJ5bkZ6MjJKdFJRbUdUakZ3MV9MYzl6OHkzQ1JISDFlNzVDalJMSkxRejh2V2tfdmN3b042ZzUzelFRQWNxbVNqUzgtX3dhSEN2MU13amhWMGdDYUhEVkZBRUU?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market Today, June 18: Comcast Falls as Cable Pressure Builds Before July Earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUElzM0FLVVZnN3ZOZGRPcXlmRDdvZU1DRm1ScHUxTnllTGdLNHNEeVM0SmRCeTQ4RXR5QXhMbmRibXdNc0xpUmRzcGN2U0QzVGFteHJRc0lzcmFmNGhCTjFoUzFWSm9ZbC1aVWJ4dEdoVjZIRUwtMWtxc2VtNVVfbkp3UVlBM2l6Z3I2MnVMeUlRZkVOc0E?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Asian Stocks to Rise as US-Iran Deal Lifts Mood: Markets Wrap - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN1Q0N0xSek9vTVowa2JvcU5pM2MzNFV4dkxPcmYtQnhRamw4eWx5MmE5Q0I5QWpxRElUSUE0Y19xNnVDdmJOQnhJclNKMTNyR0R5dE5vLVZyLWVyMnRnRUxBam1TcUwwbUpxcmNjcGYxcm5ncGhMbzZuQkk1cHBQb0plY1JTZy1aNWJmSG95MC1SYU1yenpJZVZCcFZ5elVwdU1udEtqTzlGZElxQVFYcg?oc=5",
+        "press": "Bloomberg"
+      },
+      {
+        "title": "S&P 500 closes higher, Nasdaq climbs nearly 2% as chips fuel comeback from Fed sell-off: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KTnpsQTRpT1dTMHotblVRbHFZVUlWcmd4MXloSEZIaWRJQXllTXFsWDVWT1V0UW9KQWpmbDk5X1d5TVBIUks1ZF9BbGNCZl9UOVpFd0NVQmRjV1pKUGJkR0R5aW5ZeUJXd2RtWmVlMzBJUU1pWEZV0gF8QVVfeXFMTW9TUTNfSWR6N3NuNVI0TGc0eUMzOExVOGdWVkdPQ25NLUVuYnVMM2ZFWW5Xck1FMWpTdGhnNzdISHY5R3ZIWG9Td1lYa0ZlcmFaanBCTHZUd2VYLUx1M2xTTlJ4ZzVabHJsWWpyVmExY3c5dkNMODF1Vzg3TA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Is the stock market open on Juneteenth? Here's the holiday trading schedule in 2026. - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTEJBcExKbmRSMlRkN3c2MGZnUTk4QVJRcjZkaDVCU2VaYjU2eFNCalRRTDM1MWZKeXZ5ZWptTGVfdnFuM2s3dGZXempMTWtTOXQ5QnY0VXcwMmswdS0xQ1FsQ3BHZC03ZHdTaDJYeEU4Zm9TNnNMeVhEajV4cXpoaXhKTklpMDExSGRNUDdRVGFwblEyU3F2Z3h6MkJJRjJJdTcxNHhvWDNhVFpzSHpWOGtpcmkwSmFHbm5SM21kejZwaFJzZHJKQ1QxZHd1Zkl0TVlJRHhOX29tTWVRZ3o5YjdJN3BINHBwYkdoZ3hB?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Semiconductors Stocks Q1 In Review: Western Digital (NASDAQ:WDC) Vs Peers - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZi1aeHlnTmtwTG5sUWx6aUhXZGt4cmhiM3MxMkFSVmZDeEx3dXNkRDRhNTFFVl9mTVNTRHlqOTlyVV9kLVpxSUN1T29acVU0YmlSM250Q0pITFQyNWl1bTBwNGhaVk5FN2lSdmJUZjlzYzZaQ2d6d0hhZk9peHZIT2hYZThmbUo4LURYUjdhaEtzWmxKVXNuS3ZnQ28tTTJVc1Nadl9kaw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Tech stocks today: Uber and Lucid expanding in Houston, Intel's latest chip moves - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdE5uUDhvdTdDVUx4b0FmUWJwYVh5c2FUNGxpVXdpWkJydnh6M3ZQVDgwOWxGMmtxbWlqQURmaG16bHNiODh0WnNCM0c4ZF8xLVR0XzZHXzBvZktGbzZTaWZEVTZ5NUxSU09oX2g3dEV4cXBSdlpObzJkRjVuTmFCVm5rUTRNbjhGQ2U5Sm9peEhpdkp1cDlMdlhwZ19kcUM0RDJCak85dFhqVEZxcGk0U3V2dWNKNjRmTDJfSHFrejRfZHRtOU1oZTZ3dWFBNzZr?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market Forecast For Next Six Months: Why More Gains May Lie Ahead - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeTFDTVlOLU9tckVpTGRXVDVPZV82elNENmpvN2pQSkpISk1iQmJoZXg0QzFCb0Zhb1ByNVR2eGhLSDZWU2thRVcydG9GTTZyY2tOOXZTdENHTW5ac3N0VERtVkZUdG1HbVV1aFVHcS1kdWtuLUN4S1MtSmlSQ0w3Mk5rbHl0bjJ2ZE5VeA?oc=5",
+        "press": "Investor's Business Daily"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "While KOSPI Eyes 10,000, Half of Listed VCs Fail to Exit in Q1 Due to 'IPO Blockage' [VC Now] - 아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16NlZoTEtoQmU5Vy1NNVJDNndGcmJqYVFWSy1EWDlrWGFrdkNPbXo3LXhmMWYta0xTVEltSGx4UmtPQXBwUTdqckNfMldjVFVwNG8tSXFnQUptQTF6NUNhZU9KTHg?oc=5",
+        "press": "아시아경제"
+      },
+      {
+        "title": "Long-Term KOSPI Investment Eliminates Loss Risk, Study Finds - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTDBLb2dpeW00dmxXZEJzTmhsNVVpN2dEcU9BWUZjaTgxbVZ2SXBBem5HSXFfemVQaFgxTXlDNm0ydVVoSW9DR3VlbXR2SExlbFZlOVMtOTEzVEx3TEFYTkVqT1p5VzZUUUVKOTlPemFCZHFQd2N0dk1VblQ0VC1JWWRyYjktbEdOeHZ3Q1RR?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "BTC to KRW: Bitcoin Price in South Korean Won - CoinGecko",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44YjVOeDFhVEVRRlVuclpKaGlIS3dtSjN6TFRncnlGSTh5Q2RwNTY1bzlCc3RHeEdNQzZLdElxWVpWR0FZdi1GNGJyaTNwOXFHbDBXTXhRTzRadw?oc=5",
+        "press": "CoinGecko"
+      },
+      {
+        "title": "Naver's Chzzk Sees User Surge, Stock Jump During World Cup - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRl9KLXUzMTZSTF90czgwZWNRU0luUnNoWERjd01HR2I3V0J0cW1EZlNrMHd6VHM3NE5uMFV1SGFmYVFkMHp5YjdfdnVGYzVNdmJjV25semhaOUdORWVIQ29ELWFMZ1hNMzd6QTZ1N0EyZUVxZklBWDVKenU4bG0wSHVtZWh3bFND?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "South Korea Producer Inflation Nears Four-Year High - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenptVGkxbGl2SWRGZ1JHaWc0OGZhb194R1ZHejBxN20wa0RxTWhzOXlNdFd2TEt4aWhSQWhaZ0Fpd28wRFlXWlVBZ2FtUHhjeTIyQklDdW5VZDBZNGRCUXdhNkFwWU85OVR4R3V0NDQ4emdOYTRGNnNFc2x2dl9UR1F0MnNUbHdXYldVN3BOUmFKbVROYmljOWo3SXdCUU93MUZMaQ?oc=5",
+        "press": "TradingView"
+      }
+    ],
+    "naver": [
+      {
+        "title": "[마켓 프리뷰] 코스피 9000선 안착할까…반도체 훈풍에 추가 상승 기대",
+        "url": "https://www.ajunews.com/view/20260619082902393",
+        "press": "www.ajunews.com"
+      },
+      {
+        "title": "[어제장 오늘장] 케빈 워시도 막지 못한 코스피 질주…사상 첫 9000피",
+        "url": "https://n.news.naver.com/mnews/article/374/0000517019?sid=101",
+        "press": "biz.sbs.co.kr"
+      },
+      {
+        "title": "IPO 그린 슈 옵션, 반도체 주가 더 끌어올린다! 삼전닉스 등 韓 증시, MS...",
+        "url": "https://n.news.naver.com/mnews/article/215/0001255920?sid=101",
+        "press": "www.wowtv.co.kr"
+      },
+      {
+        "title": "[어제장 오늘장] 케빈 워시도 막지 못한 코스피 질주…사상 첫 9000피",
+        "url": "https://n.news.naver.com/mnews/article/374/0000517019?sid=101",
+        "press": "biz.sbs.co.kr"
+      },
+      {
+        "title": "IPO 그린 슈 옵션, 반도체 주가 더 끌어올린다! 삼전닉스 등 韓 증시, MS...",
+        "url": "https://n.news.naver.com/mnews/article/215/0001255920?sid=101",
+        "press": "www.wowtv.co.kr"
+      },
+      {
+        "title": "영광, 코스닥 상장예비심사청구서 제출…상장 절차 본격화",
+        "url": "https://n.news.naver.com/mnews/article/018/0006309559?sid=101",
+        "press": "www.edaily.co.kr"
+      },
+      {
+        "title": "\"사전 쿠폰 받아가세요\"…네이버, 상반기 최대 쇼핑축제 시동",
+        "url": "https://n.news.naver.com/mnews/article/015/0005300517?sid=101",
+        "press": "www.hankyung.com"
+      },
+      {
+        "title": "IPO 그린 슈 옵션, 반도체 주가 더 끌어올린다! 삼전닉스 등 韓 증시, MS...",
+        "url": "https://n.news.naver.com/mnews/article/215/0001255920?sid=101",
+        "press": "www.wowtv.co.kr"
+      },
+      {
+        "title": "38만전자·280만닉스 돌파…반도체주 나란히 사상 최고가[특징주]",
+        "url": "https://n.news.naver.com/mnews/article/018/0006309561?sid=101",
+        "press": "www.edaily.co.kr"
+      },
+      {
+        "title": "[어제장 오늘장] 케빈 워시도 막지 못한 코스피 질주…사상 첫 9000피",
+        "url": "https://n.news.naver.com/mnews/article/374/0000517019?sid=101",
+        "press": "biz.sbs.co.kr"
+      },
+      {
+        "title": "[마켓 프리뷰] 코스피 9000선 안착할까…반도체 훈풍에 추가 상승 기대",
+        "url": "https://www.ajunews.com/view/20260619082902393",
+        "press": "www.ajunews.com"
+      },
+      {
+        "title": "[기업이슈] SK하닉, 장중 사상 최고가…시총 1900조 원 넘었다",
+        "url": "https://n.news.naver.com/mnews/article/374/0000517018?sid=101",
+        "press": "biz.sbs.co.kr"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "JAPAN MAY CORE-CORE CPI INCREASES AT SLOWEST RATE SINCE SEPTEMBER 2022 [...](https://x.com/financial",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "JAPAN NATL CPI (Y/Y) MAY: 1.5% (EST 1.5%; PREV 1.4%)\n\n- NATL CPI EX FRESH FOOD (Y/Y): 1.4% (EST 1.4%",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "JAPAN CPI EXCLUDING FRESH FOOD, ENERGY RISES 1.8% YR/YR: GOVT [...](https://x.com/financialjuice/sta",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "JAPAN MAY NATIONWIDE CPI: +1.5% Y/Y IN LINE (PREV +1.4%); CORE CPI: +1.4% Y/Y IN LINE (PREV +1.4%). ",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "JAPAN'S NATIONWIDE CORE CPI RISES 1.4% YEAR ON YEAR, GOVERNMENT SAYS (POLL: 1.4%) [...](https://x.co",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "JAPAN MAY NATIONWIDE OVERALL CPI RISES 1.5% YR/YR: GOVERNMENT [...](https://x.com/financialjuice/sta",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "🔴 JAPANESE CORE CPI NATIONWIDE YOY ACTUAL 1.4% (FORECAST 1.4%, PREVIOUS 1.4%) $MACRO [...](https://x",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "🔴 ⚠️ BREAKING: JAPANESE CPI OVERALL NATIONWIDE ACTUAL 1.5% (FORECAST 1.5%, PREVIOUS 1.4%) $MACRO [..",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}

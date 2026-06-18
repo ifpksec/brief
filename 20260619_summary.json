@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "generated_at": "2026-06-18T23:37:13.424992+00:00",
+    "run_date": "20260619"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 15,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 100.81,
+      "change": 0.72,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 16.4,
+      "change": -11.06,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7500.58,
+      "change": 1.08,
+      "insight": "전일종가 7420.10 / 변동 +80.4800",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 30406.19,
+      "change": 2.48,
+      "insight": "전일종가 29670.95 / 변동 +735.2441",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51564.7,
+      "change": 0.14,
+      "insight": "전일종가 51492.55 / 변동 +72.1484",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1525.42,
+      "change": 0.96,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 161.34,
+      "change": 0.46,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    },
+    {
+      "name": "코스피",
+      "value": 8864.24,
+      "change": 1.58,
+      "insight": "국내 대형주 지수 (전일 종가 기준)",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "코스피, 반도체 훈풍과 IPO 그린슈 옵션 기대감에 사상 첫 9000선 돌파",
+      "tag": "Bullish"
+    },
+    {
+      "point": "고객예탁금 124조원대 소폭 증가, 신용융자잔고 37조원 유지로 투자심리 양호",
+      "tag": "Bullish"
+    },
+    {
+      "point": "국내 생산자 물가 4년 만에 최고치 기록, 인플레이션 압력 가중",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VC 업계, IPO 시장 경색으로 1분기 엑시트 실패 기업 속출",
+      "tag": "Bearish"
+    },
+    {
+      "point": "네이버 치지직 등 주요 플랫폼 이용자 급증하며 소비 심리 회복 기대",
+      "tag": "Bullish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "이란과의 거래 낙관론 및 반도체 섹터 강세로 S&P500 등 주요 지수 반등",
+      "tag": "Bullish"
+    },
+    {
+      "point": "VIX 변동성 지수 11% 급락하며 시장 불안감 완화",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 15로 극단적 공포 구간 진입, 역발상 매수 신호 포착",
+      "tag": "Bullish"
+    },
+    {
+      "point": "달러인덱스 100.81로 상승, 원/달러 환율 1525원 돌파로 외환시장 변동성 확대",
+      "tag": "Bearish"
+    },
+    {
+      "point": "일본 5월 CPI 전년 대비 1.5% 상승하며 시장 예상치 부합",
+      "tag": "Neutral"
+    },
+    {
+      "point": "SPY-IEF 상관계수 0.7 수준으로 시스템 위기 또는 강한 인플레이션 국면 시사",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "[어제장 오늘장] 케빈 워시도 막지 못한 코스피 질주…사상 첫 9000피",
+      "url": "https://n.news.naver.com/mnews/article/374/0000517019?sid=101",
+      "press": "SBS Biz",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "IPO 그린 슈 옵션, 반도체 주가 더 끌어올린다! 삼전닉스 등 韓 증시, MS...",
+      "url": "https://n.news.naver.com/mnews/article/215/0001255920?sid=101",
+      "press": "한국경제TV",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "[마켓 프리뷰] 코스피 9000선 안착할까…반도체 훈풍에 추가 상승 기대",
+      "url": "https://www.ajunews.com/view/20260619082902393",
+      "press": "아주경제",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "While KOSPI Eyes 10,000, Half of Listed VCs Fail to Exit in Q1 Due to 'IPO Blockage'",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16NlZoTEtoQmU5Vy1NNVJDNndGcmJqYVFWSy1EWDlrWGFrdkNPbXo3LXhmMWYta0xTVEltSGx4UmtPQXBwUTdqckNfMldjVFVwNG8tSXFnQUptQTF6NUNhZU9KTHg?oc=5",
+      "press": "아시아경제",
+      "source": "domestic"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "South Korea Producer Inflation Nears Four-Year High",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNenptVGkxbGl2SWRGZ1JHaWc0OGZhb194R1ZHejBxN20wa0RxTWhzOXlNdFd2TEt4aWhSQWhaZ0Fpd28wRFlXWlVBZ2FtUHhjeTIyQklDdW5VZDBZNGRCUXdhNkFwWU85OVR4R3V0NDQ4emdOYTRGNnNFc2x2dl9UR1F0MnNUbHdXYldVN3BOUmFKbVROYmljOWo3SXdCUU93MUZMaQ?oc=5",
+      "press": "TradingView",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "JAPAN MAY NATIONWIDE CPI: +1.5% Y/Y IN LINE",
+      "url": "https://x.com/financialjuice/status/...",
+      "press": "Market News Feed",
+      "source": "telegram"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "주식 시장 오늘: 이란 거래 낙관론이 연준 인상 우려를 상쇄하며 다우, S&P 500, 나스닥 랠리",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYkRHUGF1b0hMYTROMXo0Q0pfLVpJSVNlSXFvSllmYUh0WnNwSGIwLVZVbnN5OEtrTFJXMXpQTWtWR3JUUkk2OUxlUHBuRDQ2LWxpUjBkYmdqM2duMHRZZEtfRDdKLVBZd3VNS3kwRUJGT0R2bVJNVy1MRHhIdm9mSlJ5bkZ6MjJKdFJRbUdUakZ3MV9MYzl6OHkzQ1JISDFlNzVDalJMSkxRejh2V2tfdmN3b042ZzUzelFRQWNxbVNqUzgtX3dhSEN2MU13amhWMGdDYUhEVkZBRUU?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "S&P 500 상승 마감, 칩 섹터가 연준 매도세 이후 회복 주도하며 나스닥 2% 가까이 상승",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9KTnpsQTRpT1dTMHotblVRbHFZVUlWcmd4MXloSEZIaWRJQXllTXFsWDVWT1V0UW9KQWpmbDk5X1d5TVBIUks1ZF9BbGNCZl9UOVpFd0NVQmRjV1pKUGJkR0R5aW5ZeUJXd2RtWmVlMzBJUU1pWEZV0gF8QVVfeXFMTW9TUTNfSWR6N3NuNVI0TGc0eUMzOExVOGdWVkdPQ25NLUVuYnVMM2ZFWW5Xck1FMWpTdGhnNzdISHY5R3ZIWG9Td1lYa0ZlcmFaanBCTHZUd2VYLUx1M2xTTlJ4ZzVabHJsWWpyVmExY3c5dkNMODF1Vzg3TA?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미-이란 거래로 분위기 반전, 아시아 증시 상승 예상",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN1Q0N0xSek9vTVowa2JvcU5pM2MzNFV4dkxPcmYtQnhRamw4eWx5MmE5Q0I5QWpxRElUSUE0Y19xNnVDdmJOQnhJclNKMTNyR0R5dE5vLVZyLWVyMnRnRUxBam1TcUwwbUpxcmNjcGYxcm5ncGhMbzZuQkk1cHBQb0plY1JTZy1aNWJmSG95MC1SYU1yenpJZVZCcFZ5elVwdU1udEtqTzlGZElxQVFYcg?oc=5",
+      "press": "Bloomberg",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "반도체 주식 1분기 리뷰: 웨스턴 디지털 vs 동종 업계",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZi1aeHlnTmtwTG5sUWx6aUhXZGt4cmhiM3MxMkFSVmZDeEx3dXNkRDRhNTFFVl9mTVNTRHlqOTlyVV9kLVpxSUN1T29acVU0YmlSM250Q0pITFQyNWl1bTBwNGhaVk5FN2lSdmJUZjlzYzZaQ2d6d0hhZk9peHZIT2hYZThmbUo4LURYUjdhaEtzWmxKVXNuS3ZnQ28tTTJVc1Nadl9kaw?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "기술주 오늘: 우버와 루시드, 휴스턴으로 확장 및 인텔의 최신 칩 전략",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdE5uUDhvdTdDVUx4b0FmUWJwYVh5c2FUNGxpVXdpWkJydnh6M3ZQVDgwOWxGMmtxbWlqQURmaG16bHNiODh0WnNCM0c4ZF8xLVR0XzZHXzBvZktGbzZTaWZEVTZ5NUxSU09oX2g3dEV4cXBSdlpObzJkRjVuTmFCVm5rUTRNbjhGQ2U5Sm9peEhpdkp1cDlMdlhwZ19kcUM0RDJCak85dFhqVEZxcGk0U3V2dWNKNjRmTDJfSHFrejRfZHRtOU1oZTZ3dWFBNzZr?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "준틴스(Juneteenth) 휴일에 주식 시장은 열리나요? 2026년 거래 일정 안내",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTEJBcExKbmRSMlRkN3c2MGZnUTk4QVJRcjZkaDVCU2VaYjU2eFNCalRRTDM1MWZKeXZ5ZWptTGVfdnFuM2s3dGZXempMTWtTOXQ5QnY0VXcwMmswdS0xQ1FsQ3BHZC03ZHdTaDJYeEU4Zm9TNnNMeVhEajV4cXpoaXhKTklpMDExSGRNUDdRVGFwblEyU3F2Z3h6MkJJRjJJdTcxNHhvWDNhVFpzSHpWOGtpcmkwSmFHbm5SM21kejZwaFJzZHJKQ1QxZHd1Zkl0TVlJRHhOX29tTWVRZ3o5YjdJN3BINHBwYkdoZ3hB?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    }
+  ]
+}
