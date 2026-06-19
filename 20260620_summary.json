@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "generated_at": "2026-06-19T23:35:51.637810+00:00",
+    "run_date": "20260620"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 14,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 100.85,
+      "change": -0.0,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 16.78,
+      "change": 2.32,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7500.58,
+      "change": 1.08,
+      "insight": "전일종가 7420.10 / 변동 +80.4800",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 30406.19,
+      "change": 2.48,
+      "insight": "전일종가 29670.95 / 변동 +735.2402",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51564.7,
+      "change": 0.14,
+      "insight": "전일종가 51492.55 / 변동 +72.1484",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1529.89,
+      "change": 0.29,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 161.28,
+      "change": 0.42,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    },
+    {
+      "name": "코스피",
+      "value": 9063.84,
+      "change": 2.25,
+      "insight": "국내 대형주 지수 (전일 종가 기준)",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "코스피 9,000선 돌파하며 역사적 신고가 경신",
+      "tag": "Bullish"
+    },
+    {
+      "point": "개인 투자자 예탁금 및 신용융자 동반 급증세",
+      "tag": "Bullish"
+    },
+    {
+      "point": "삼성전자 하드웨어 패권 독점 기대감 확산",
+      "tag": "Bullish"
+    },
+    {
+      "point": "원/달러 환율 1,500원대 장기화로 변동성 상존",
+      "tag": "Bearish"
+    },
+    {
+      "point": "EWY(한국 ETF) 거래량 폭발하며 외인 수급 유입",
+      "tag": "Bullish"
+    },
+    {
+      "point": "로봇 및 코스닥 우량 벤처 육성 정책 모멘텀",
+      "tag": "Bullish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "나스닥 2.48% 급등, 기술주 중심 강한 반등",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 14점, 극단적 공포에 따른 저가 매수",
+      "tag": "Neutral"
+    },
+    {
+      "point": "주식-채권 상관계수 상승으로 시스템 리스크 경계",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미-이란 핵 합의 논의 및 호르무즈 해협 개방 호재",
+      "tag": "Bullish"
+    },
+    {
+      "point": "QQQ 풋 우세로 단기 변동성 확대 가능성 상존",
+      "tag": "Bearish"
+    },
+    {
+      "point": "신용 스프레드 안정세로 기업 펀더멘털 신뢰 유지",
+      "tag": "Bullish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 9,000선 돌파, 상승 기대에 투자 자금 급증",
+      "url": "https://www.tokenpost.kr/news/economy/371216",
+      "press": "www.tokenpost.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "전 세계 유일무이한 하드웨어 패권 삼성전자 독점 시장",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4420999",
+      "press": "news.einfomax.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "9천피에 개미들 '더 오른다'...빚투·대기자금 상승",
+      "url": "https://n.news.naver.com/mnews/article/215/0001256026?sid=101",
+      "press": "www.wowtv.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "환율, 24거래일 연속 1500원대 유지",
+      "url": "https://www.newscj.com/news/articleView.html?idxno=3410721",
+      "press": "www.newscj.com",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "엔젤로보틱스, 사업 성장을 주도할 충분한 자금력 보유",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMnE4SXVILUFYUW12U0FkcjIzUUxBdjIyM0pQYklidnFLWnIzZ2tjRnh5TVFyT3VKbWFfWFJjbDNkOW5FdVdCY1V1VXZsdWdZSWdkaDNpQVZrc0laeDljRDJiUk5qNnVxU1NvVldIVFRvZFJyR0FoTUFRNWt0RmVzLVNuM1U3SXJMSWQzRUZZdVFZRkR6NjhrZ2E0bDViVDlLSDVDbWhiWkloNm5HMmVROTY3dU5rV0xaTWJOOTAzY3dxWm1tZnRWb3Z3QlhRNDc5V1VPWnNaVEhHUlR3Q1HSAeMBQVVfeXFMTS1pVVRGMnJHSFZjYWZrQjJuM0xVX0g0V0VhOFQ1RG1BRFNZMjBMSGlyNkt0ZnM0ZmtJUmdPWWljUEVqc09MWXRaZFFGX0RXZnRmekZIVFNKWWd2eF9RRGpldTE2UU9ULTl5TEZHcDRydFg2T2c4Qm53c29VaFczbDFHT0FOUnRVcHNnMmZsa3E5bEhyQVJCdDJTNG94akplbFF3UFdIa3YycnJLd2oxT1pxZW9mRXBmb3ZxWk4wd2pKSU52b1o3MUt5dXYwMGtyUE5QQkdaWXl0QktBaXJJTkRVV2s?oc=5",
+      "press": "simplywall.st",
+      "source": "domestic"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "백악관 특사, 이란과 핵 합의 논의 위해 스위스행",
+      "url": "https://t.me/marketnews_feed",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "갤럭시 스마트폰, '이것'까지 차단하는 반가운 소식",
+      "url": "https://www.wikitree.co.kr/articles/1141574",
+      "press": "www.wikitree.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "코스닥 세분화 위한 KRX 자문단에 벤처 그룹 합류",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNVBCU1ltcG9tRW85SHZDalZKQTYzZDBoeDJJVmZzS0xYZkk3c1B5dlRDcXVKS2ZqOEZYZ2xFaFEzb2U1ZzVVRndaMG9LTjRzcTlGZWpUTG9FY2xWQkpXaE5QenRmVHZqVjN6ZmtIUTJTcEdZc1dRdTd5dkNVSjZ2bEVMRDJ1ZllpcWR4bnRnQzN5bFZxUWwyY3paeHVFRTg?oc=5",
+      "press": "Seoul Economic Daily",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "에너지·원자재",
+      "title": "미-이란 항로 개방 합의 후 호르무즈 해협 유조선 통행 급증",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRHdNd05CR2hzb1cyLTdhWmxTazZUdGNvZEFNcjdqTENtM0JHRW5wWDMxQzl3aGZ1eFUzWVBwQkxWVTNUcDhVZ1U2T2tleThMNmlGLXdIUzMyQjdHa3U5dFcwdnNfeV9pU0Q2eDloQ3RXMTlaSnlxV3c1OXVfcmRtSFJoR3V0RVEtSTVmRdIBkgFBVV95cUxPN3lPRkw3MHNDVmxWS0NFVE4wU0Z4cFBuY0Vva1E2a2ctckRKek9iUDNia2ZON0JhX2Q1X2Nsa2tkV3BHbVZjcmROLVZsekNUb3Nlc3dvbzVsX0FQaWNrUllEOVVEeXhaWEJZb213TlNibG16NFdxNjBDWVJnUXVxT250bnNkZjFWRFdPcEV2dEcxdw?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "찰스 슈왑, 이벤트 트레이딩 주류화에 따른 S&P 500 예측 시장 계획",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdnAyTWlOTWlHMFBlZlFacmRlWGUya2pIcUgwREpQUTkwZVFrSHA4bEQtSFFQMEVQRWR5NUJid0o1cnU0TDYwd0VWZTBiSEpiMHhPOHExQ3I5NTRjRG1KcEVZUUQ4cDgteFZOQ2x0bVFNM1NJQmZUS1N4Qk95Y3M5ZjFRLWw5VXE0aGFFb2MxWWROMHR2eG5DbkNjTQ?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "쿠바, 혁명 이후 최대 규모의 자유 시장 개혁 추진",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbC1OblBwRHE5UkZWWWV4SnJJd3lXYjV6bGxBV0RURFpHT09UYlg5OTU4SEk2MFdUUC1oSFo4bU0wdm5lbEk5aks2bzB0TFpzVDFlOVM4MkV1dmt0ZmRZNGpHYWo1R0dMNDNFZUlYZmkyN2RYaEVUTHp5UnNiMl9SUDhNa3l0WTZac1E2ZklHS0gzUWxIb2kwR1d4X25kRnM?oc=5",
+      "press": "Newsday",
+      "source": "international"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "트럼프의 주식 거래 급증 이면의 내막",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMkt4a0FHbi1ualg1RFNZd3diNXhFdDZhX3ZNNjQtUS1UN2MyOUVGQTFWSWNyUy1ieW1aUDctTjl5WnJNTjFoODBEMkVWSmxGQVN3d0tRUGdpVm9qcTZJQzJ2QlpLbE9nY1h1THVnMmYxN3JfUXV4UXBZQlpaOEdQOXBKWEJyNU9OaTh2ajVB?oc=5",
+      "press": "The New York Times",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "가장 위험한 스페이스X 주식 거래, 첫 주 강세 기록",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRMFpFeENNVHlmdFRFSG40ZWo1dnZMbktNaFFaaTFlbklTWnRhWVdXTm5ERURKdHJVRjBkQ1p5dXZ3N0JYYUNaRHotdmJmbEFTSHJqV3RnWmloelVMNVBZbDl3cmpVaHdmZF9nMUgwSk_SAXZBVV95cUxPWlhDNzU5S0VfQkRiUUhGd25Ha3FiMWF1TW9WyXRJdlFORWN1eTloWVktZVhnQkdwVnZwS0dsbF80aU5fOERIV3YtNHJLOGUzZmtmRkVSSTJKdjZwTDlBWEQzanBRYzJNR001cVhPSFVxVm1NS2pn?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "금 가격 하락, 미국 시장 개장 전 약세",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMGhtTzRRZ19WNnlCSmpUQmhVeXk3elZ1NlpKWUdoaUdvNll5WUI0Z1dXVl9fRmtiNVVOcUFyM0tiUXdiQ3VwVlRUcWV4NnZRdUxNTjdOdFc2Q04zS0t0RmJPd3B5cy1WYjZtVWFBdjZhM3BLMVBpZFpUOXhvdjR5b2FIMzlQYXIyWEE5MTRpdWxqUQ?oc=5",
+      "press": "GoldSilver",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "다음 주 주식 시장에서 지켜봐야 할 3가지 요소",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa3ZKd1UwQ0RzbWJCamxKb0N2a3B5aFNZc210R1IyWnJSSVd0MlFEN0pkTUFiY2NvR3VPMmFpQ3huS2pUcHpoajVQM09xekRmZUVORXhXRFJrQ0ppWC1CSjhVWDd0T2RBN2RqeVFKVTJUUDY5LUxjNGVwX0ZRWld4amNsd1ZsaHFFUm5VXzdDczBnTW1qWGtN?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    }
+  ]
+}

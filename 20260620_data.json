@@ -1,0 +1,370 @@
+{
+  "meta": {
+    "generated_at": "2026-06-19T23:35:51.636976+00:00",
+    "run_date": "20260620"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [
+      {
+        "title": "#1 다스코 (+29.96%)",
+        "description": "현재가: 3,470, 거래량: 9,393,941"
+      },
+      {
+        "title": "#2 보해양조 (+29.88%)",
+        "description": "현재가: 2,130, 거래량: 2,384,142"
+      },
+      {
+        "title": "#3 화신 (+19.12%)",
+        "description": "현재가: 14,330, 거래량: 12,028,092"
+      },
+      {
+        "title": "#4 경동인베스트 (+16.36%)",
+        "description": "현재가: 57,600, 거래량: 120,814"
+      },
+      {
+        "title": "#5 삼성전기우 (+11.43%)",
+        "description": "현재가: 809,000, 거래량: 359,906"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 6,599억원",
+        "description": "현재가: 63, 거래량: 10,485,647,308주"
+      },
+      {
+        "title": "#2 KODEX 인버스 거래대금 10,566억원",
+        "description": "현재가: 859, 거래량: 1,234,968,115주"
+      },
+      {
+        "title": "#3 메리츠제2호스팩 거래대금 8,981억원",
+        "description": "현재가: 1,970, 거래량: 212,864,802주"
+      },
+      {
+        "title": "#4 SOL SK하이닉스선물단일종목인버스2X 거래대금 15,854억원",
+        "description": "현재가: 7,740, 거래량: 205,426,177주"
+      },
+      {
+        "title": "#5 KODEX SK하이닉스단일종목레버리지 거래대금 69,530억원",
+        "description": "현재가: 39,200, 거래량: 174,518,957주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 +253,151,174주 / 기관 -391,773,058주 / 개인 +179,721,589주",
+        "description": "직전 영업일(20260619) 순매수 수량"
+      },
+      {
+        "title": "KODEX 인버스 외국인 +14,591,498주 / 기관 -28,499,186주 / 개인 +15,227,930주",
+        "description": "직전 영업일(20260619) 순매수 수량"
+      },
+      {
+        "title": "메리츠제2호스팩 외국인 +66,771주 / 기관 -4,544,245주 / 개인 +4,763,523주",
+        "description": "직전 영업일(20260619) 순매수 수량"
+      },
+      {
+        "title": "SOL SK하이닉스선물단일종목인버스2X 외국인 +1,141,344주 / 기관 -5,375,431주 / 개인 +4,238,080주",
+        "description": "직전 영업일(20260619) 순매수 수량"
+      },
+      {
+        "title": "KODEX SK하이닉스단일종목레버리지 외국인 +839,329주 / 기관 -1,236,212주 / 개인 +124,124주",
+        "description": "직전 영업일(20260619) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.85 (-0.00%)",
+        "description": "전일종가 100.85 / 변동 -0.0010"
+      },
+      {
+        "title": "VIX 변동성지수: 16.78 (+2.32%)",
+        "description": "전일종가 16.40 / 변동 +0.3800"
+      },
+      {
+        "title": "S&P 500: 7500.58 (+1.08%)",
+        "description": "전일종가 7420.10 / 변동 +80.4800"
+      },
+      {
+        "title": "나스닥100: 30406.19 (+2.48%)",
+        "description": "전일종가 29670.95 / 변동 +735.2402"
+      },
+      {
+        "title": "다우존스: 51564.70 (+0.14%)",
+        "description": "전일종가 51492.55 / 변동 +72.1484"
+      },
+      {
+        "title": "USD/KRW: 1529.89 (+0.29%)",
+        "description": "전일종가 1525.42 / 변동 +4.4700"
+      },
+      {
+        "title": "USD/JPY: 161.28 (+0.42%)",
+        "description": "전일종가 160.60 / 변동 +0.6800"
+      },
+      {
+        "title": "코스피: 9063.84 (+2.25%)",
+        "description": "전일종가 8864.24 / 변동 +199.5996"
+      },
+      {
+        "title": "코스닥: 1000.93 (-3.01%)",
+        "description": "전일종가 1031.96 / 변동 -31.0300"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.714 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.65 | GEX +0.0B$ (만기:2026-06-22)",
+        "description": "콜OI 157,295 / 풋OI 102,387 → 콜 우세(상방기대) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 3.12 | GEX -0.1B$ (만기:2026-06-22)",
+        "description": "콜OI 55,436 / 풋OI 173,044 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $219.20 (+6.89%)",
+        "description": "거래량 18,398,500주 (평균대비 1.0x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $750.11 (+1.01%)",
+        "description": "거래량 11,639,300주 (평균대비 0.7x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 57.3% (114/199종목)",
+        "description": "평균 MA 대비 위치: +0.8%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 14/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-05-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-05-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 333.979",
+        "description": "Date: 2026-05-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 1.6",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.49",
+        "description": "Date: 2026-06-17, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.74조달러",
+        "description": "기준일: 2026-06-17 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.34조달러",
+        "description": "기준일: 2026-06-17 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 9565.02억달러",
+        "description": "기준일: 2026-06-17 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.00억달러",
+        "description": "기준일: 2026-06-18 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 263bp (2.63%)",
+        "description": "기준일: 2026-06-17 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 74bp (0.74%)",
+        "description": "기준일: 2026-06-17 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "3 Things to Watch in the Stock Market Next Week - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNa3ZKd1UwQ0RzbWJCamxKb0N2a3B5aFNZc210R1IyWnJSSVd0MlFEN0pkTUFiY2NvR3VPMmFpQ3huS2pUcHpoajVQM09xekRmZUVORXhXRFJrQ0ppWC1CSjhVWDd0T2RBN2RqeVFKVTJUUDY5LUxjNGVwX0ZRWld4amNsd1ZsaHFFUm5VXzdDczBnTW1qWGtN?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Gold Is Down Today. The US Market Isn’t Open Yet. - GoldSilver",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMGhtTzRRZ19WNnlCSmpUQmhVeXk3elZ1NlpKWUdoaUdvNll5WUI0Z1dXVl9fRmtiNVVOcUFyM0tiUXdiQ3VwVlRUcWV4NnZRdUxNTjdOdFc2Q04zS0t0RmJPd3B5cy1WYjZtVWFBdjZhM3BLMVBpZFpUOXhvdjR5b2FIMzlQYXIyWEE5MTRpdWxqUQ?oc=5",
+        "press": "GoldSilver"
+      },
+      {
+        "title": "Cuba pushes through sweeping free-market reforms in biggest economic shift since the revolution - Newsday",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbC1OblBwRHE5UkZWWWV4SnJJd3lXYjV6bGxBV0RURFpHT09UYlg5OTU4SEk2MFdUUC1oSFo4bU0wdm5lbEk5aks2bzB0TFpzVDFlOVM4MkV1dmt0ZmRZNGpHYWo1R0dMNDNFZUlYZmkyN2RYaEVUTHp5UnNiMl9SUDhNa3l0WTZac1E2ZklHS0gzUWxIb2kwR1d4X25kRnM?oc=5",
+        "press": "Newsday"
+      },
+      {
+        "title": "Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRHdNd05CR2hzb1cyLTdhWmxTazZUdGNvZEFNcjdqTENtM0JHRW5wWDMxQzl3aGZ1eFUzWVBwQkxWVTNUcDhVZ1U2T2tleThMNmlGLXdIUzMyQjdHa3U5dFcwdnNfeV9pU0Q2eDloQ3RXMTlaSnlxV3c1OXVfcmRtSFJoR3V0RVEtSTVmRdIBkgFBVV95cUxPN3lPRkw3MHNDVmxWS0NFVE4wU0Z4cFBuY0Vva1E2a2ctckRKek9iUDNia2ZON0JhX2Q1X2Nsa2tkV3BHbVZjcmROLVZsekNUb3Nlc3dvbzVsX0FQaWNrUllEOVVEeXhaWEJZb213TlNibG16NFdxNjBDWVJnUXVxT250bnNkZjFWRFdPcEV2dEcxdw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Schwab Plans S&P 500 Prediction Markets as Event Trading Moves Mainstream - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdnAyTWlOTWlHMFBlZlFacmRlWGUya2pIcUgwREpQUTkwZVFrSHA4bEQtSFFQMEVQRWR5NUJid0o1cnU0TDYwd0VWZTBiSEpiMHhPOHExQ3I5NTRjRG1KcEVZUUQ4cDgteFZOQ2x0bVFNM1NJQmZUS1N4Qk95Y3M5ZjFRLWw5VXE0aGFFb2MxWWROMHR2eG5DbkNjTQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Inside Trump’s Stock Trading Surge - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMkt4a0FHbi1ualg1RFNZd3diNXhFdDZhX3ZNNjQtUS1UN2MyOUVGQTFWSWNyUy1ieW1aUDctTjl5WnJNTjFoODBEMkVWSmxGQVN3d0tRUGdpVm9qcTZJQzJ2QlpLbE9nY1h1THVnMmYxN3JfUXV4UXBZQlpaOEdQOXBKWEJyNU9OaTh2ajVB?oc=5",
+        "press": "The New York Times"
+      },
+      {
+        "title": "The riskiest SpaceX stock trade of all had a big first week - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRMFpFeENNVHlmdFRFSG40ZWo1dnZMbktNaFFaaTFlbklTWnRhWVdXTm5ERURKdHJVRjBkQ1p5dXZ3N0JYYUNaRHotdmJmbEFTSHJqV3RnWmloelVMNVBZbDl3cmpVaHdmZF9nMUgwSk_SAXZBVV95cUxPWlhDNzU5S0VfQkRiUUhGd25Ha3FiMWF1TW9WeXRJdlFORWN1eTloWVktZVhnQkdwVnZwS0dsbF80aU5fOERIV3YtNHJLOGUzZmtmRkVSSTJKdjZwTDlBWEQzanBRYzJNR001cVhPSFVxVm1NS2pn?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Latin America and the Caribbean DNA Helicases - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdEVVbmdyNERfNW5uaVg2bXZWUzBfTTBoSTYzUGtTaDdkcEdFa2RiQTAxMlVwSnFXcEZ3UWR2bXlCYmR1a291SXdWT3pldHZ3VHhLUmtSelVHR21vaGJvN2ZwNXRlNmViMy1pOVlmbzR4Sk9Gc2RzOXgxaUZtTGlEUGpvZkl4djJVYkxrYWNjdWlDaFJpQ0piOTJFaXlHMWRzQllpZ1NHNktrUzZPU05weWJrX1d1Q2tnUzRsQko3bmZScTh0?oc=5",
+        "press": "IndexBox"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "We Think ANGEL ROBOTICS (KOSDAQ:455900) Can Afford To Drive Business Growth - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMnE4SXVILUFYUW12U0FkcjIzUUxBdjIyM0pQYklidnFLWnIzZ2tjRnh5TVFyT3VKbWFfWFJjbDNkOW5FdVdCY1V1VXZsdWdZSWdkaDNpQVZrc0laeDljRDJiUk5qNnVxU1NvVldIVFRvZFJyR0FoTUFRNWt0RmVzLVNuM1U3SXJMSWQzRUZZdVFZRkR6NjhrZ2E0bDViVDlLSDVDbWhiWkloNm5HMmVROTY3dU5rV0xaTWJOOTAzY3dxWm1tZnRWb3Z3QlhRNDc5V1VPWnNaVEhHUlR3Q1HSAeMBQVVfeXFMTS1pVVRGMnJHSFZjYWZrQjJuM0xVX0g0V0VhOFQ1RG1BRFNZMjBMSGlyNkt0ZnM0ZmtJUmdPWWljUEVqc09MWXRaZFFGX0RXZnRmekZIVFNKWWd2eF9RRGpldTE2UU9ULTl5TEZHcDRydFg2T2c4Qm53c29VaFczbDFHT0FOUnRVcHNnMmZsa3E5bEhyQVJCdDJTNG94akplbFF3UFdIa3YycnJLd2oxT1pxZW9mRXBmb3ZxWk4wd2pKSU52b1o3MUt5dXYwMGtyUE5QQkdaWXl0QktBaXJJTkRVV2s?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Venture Group Joins KRX Advisory Panel on KOSDAQ Tiering - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNVBCU1ltcG9tRW85SHZDalZKQTYzZDBoeDJJVmZzS0xYZkk3c1B5dlRDcXVKS2ZqOEZYZ2xFaFEzb2U1ZzVVRndaMG9LTjRzcTlGZWpUTG9FY2xWQkpXaE5QenRmVHZqVjN6ZmtIUTJTcEdZc1dRdTd5dkNVSjZ2bEVMRDJ1ZllpcWR4bnRnQzN5bFZxUWwyY3paeHVFRTg?oc=5",
+        "press": "Seoul Economic Daily"
+      }
+    ],
+    "naver": [
+      {
+        "title": "코스피 9,000선 돌파, 상승 기대에 투자 자금 급증",
+        "url": "https://www.tokenpost.kr/news/economy/371216",
+        "press": "www.tokenpost.kr"
+      },
+      {
+        "title": "종전에도 오른다… 환율, 24거래일 연속 1500원대",
+        "url": "https://www.newscj.com/news/articleView.html?idxno=3410721",
+        "press": "www.newscj.com"
+      },
+      {
+        "title": "9천피에 개미들 \"더 오른다\"...빚투·대기자금 모두 상승",
+        "url": "https://n.news.naver.com/mnews/article/215/0001256026?sid=101",
+        "press": "www.wowtv.co.kr"
+      },
+      {
+        "title": "코스피 9,000선 돌파, 상승 기대에 투자 자금 급증",
+        "url": "https://www.tokenpost.kr/news/economy/371216",
+        "press": "www.tokenpost.kr"
+      },
+      {
+        "title": "9천피에 개미들 \"더 오른다\"...빚투·대기자금 모두 상승",
+        "url": "https://n.news.naver.com/mnews/article/215/0001256026?sid=101",
+        "press": "www.wowtv.co.kr"
+      },
+      {
+        "title": "코스피 9000 돌파에 개인투자자 예탁금·빚투 동반 증가",
+        "url": "https://www.slist.kr/news/articleView.html?idxno=746484",
+        "press": "www.slist.kr"
+      },
+      {
+        "title": "전 세계 유일무이한 하드웨어 패권 삼성전자 독점 시장 열린다",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4420999",
+        "press": "news.einfomax.co.kr"
+      },
+      {
+        "title": "'이것'까지 차단한다…갤럭시 스마트폰과 관련해 반가운 소식 전해졌다",
+        "url": "https://www.wikitree.co.kr/articles/1141574",
+        "press": "www.wikitree.co.kr"
+      },
+      {
+        "title": "2D 반도체 전환 가속… 삼성·TSMC 패권, 400℃ 공정에 달렸다",
+        "url": "https://www.g-enews.com/view.php?ud=202606200804118469fbbec65dfb_1",
+        "press": "www.g-enews.com"
+      },
+      {
+        "title": "코스피 9,000선 돌파, 상승 기대에 투자 자금 급증",
+        "url": "https://www.tokenpost.kr/news/economy/371216",
+        "press": "www.tokenpost.kr"
+      },
+      {
+        "title": "2D 반도체 전환 가속… 삼성·TSMC 패권, 400℃ 공정에 달렸다",
+        "url": "https://www.g-enews.com/view.php?ud=202606200804118469fbbec65dfb_1",
+        "press": "www.g-enews.com"
+      },
+      {
+        "title": "코스피 9000 돌파에 개인투자자 예탁금·빚투 동반 증가",
+        "url": "https://www.slist.kr/news/articleView.html?idxno=746484",
+        "press": "www.slist.kr"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "WHITE HOUSE ENVOY EN ROUTE TO SWITZERLAND FOR DISCUSSIONS WITH IRAN ON POTENTIAL NUCLEAR AGREEMENT: ",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "*TRUMP ENVOY WITKOFF HEADS TO SWITZERLAND AHEAD OF POTENTIAL IRAN TALKS - AXIOS\n\n*IRAN TALKS WERE PR",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "**Follow us on X for even faster headlines!**\n\nhttps://x.com/MarketNews_Feed",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "RUBIO TO HOLD SUMMIT WITH GCC FOREIGN MINISTERS IN BAHRAIN: AXIOS [...](https://x.com/financialjuice",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "XIAO-I CORP: COURT DENIES APPLE’S REQUEST FOR 2 MLN RMB IN LEGAL COSTS [...](https://x.com/financial",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "XIAO-I CORP: COURT RULES IPHONE MODELS FEATURING SIRI DO NOT VIOLATE XIAO-I PATENT [...](https://x.c",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "XIAO-I CORP: COURT REJECTS XIAO-I'S PATENT INFRINGEMENT ALLEGATIONS AGAINST APPLE'S SIRI [...](https",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "*ISRAEL IS LIKELY TO CONTINUE ATTACKS IN LEBANON, U.S. INTELLIGENCE CONCLUDES - NYT [...](https://x.",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}
