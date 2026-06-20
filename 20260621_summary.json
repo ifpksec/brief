@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "generated_at": "2026-06-20T23:35:49.258261+00:00",
+    "run_date": "20260621"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 23,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 100.85,
+      "change": -0.0,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 16.4,
+      "change": -11.06,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7500.58,
+      "change": 1.08,
+      "insight": "전일종가 7420.10 / 변동 +80.4800",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 30406.19,
+      "change": 2.48,
+      "insight": "전일종가 29670.95 / 변동 +735.2402",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51564.7,
+      "change": 0.14,
+      "insight": "전일종가 51492.55 / 변동 +72.1484",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1529.89,
+      "change": 0.29,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 161.27,
+      "change": -0.01,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    },
+    {
+      "name": "코스피",
+      "value": 9052.42,
+      "change": -0.13,
+      "insight": "국내 대형주 지수 (전일 종가 기준)",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "코스피 9000선 돌파 후 9052선에서 소폭 조정 국면",
+      "tag": "Neutral"
+    },
+    {
+      "point": "가계대출 2개월 사이 6조 원 폭증하며 부채 리스크 확대",
+      "tag": "Bearish"
+    },
+    {
+      "point": "국내 주식형 ETF 비중 50% 첫 돌파하며 수급 주체 변화",
+      "tag": "Bullish"
+    },
+    {
+      "point": "반도체 업황 고점 우려와 실적 기대감 사이의 팽팽한 대립",
+      "tag": "Neutral"
+    },
+    {
+      "point": "알테오젠 등 바이오 대형주 약세에 코스닥 1000선 붕괴",
+      "tag": "Bearish"
+    },
+    {
+      "point": "원/달러 환율 1529원대 급등하며 외환시장 변동성 경계",
+      "tag": "Bearish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "S&P500 7500·나스닥 3만 시대 개막하며 강세장 지속",
+      "tag": "Bullish"
+    },
+    {
+      "point": "VIX 지수 11% 급락하며 시장 내 공포 심리 일시 완화",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 23점 기록, 가격 상승에도 극단적 공포 여전",
+      "tag": "Bearish"
+    },
+    {
+      "point": "주식-채권 상관계수 0.7 수준으로 인플레이션 리스크 상존",
+      "tag": "Bearish"
+    },
+    {
+      "point": "기술주(QQQ) 딜러 숏감마 상태로 변동성 확대 가능성",
+      "tag": "Bearish"
+    },
+    {
+      "point": "연준 자산 6.74조 달러 및 지급준비금 감소세 지속",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "서학개미 시대 끝? 국내 주식형 ETF 비중 첫 50% 돌파",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1713283",
+      "press": "www.ebn.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "부동산·유동성",
+      "title": "코스피 9000·집값 상승에 가계대출 두 달 새 6조 폭증",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1713282",
+      "press": "www.ebn.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "증시 호조 속 국민연금 고갈 전망 4~7년 늦춰져",
+      "url": "https://www.sentv.co.kr/article/view/sentv202606210002",
+      "press": "www.sentv.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "알테오젠 약세에 코스닥 1000선 하회, 시총 1위 향방은",
+      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=583423",
+      "press": "www.cbci.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "재점화된 반도체 고점 우려 속 '의심 멈춰라' 이유는",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4421039",
+      "press": "news.einfomax.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "9000선 넘은 코스피 행방은... PCE·마이크론 실적 주목",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676881",
+      "press": "www.digitaltoday.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자·하이닉스 직원 역대급 성과급 규모 화제",
+      "url": "https://www.wikitree.co.kr/articles/1142400",
+      "press": "www.wikitree.co.kr",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "지금 1,000달러로 매수하기 가장 좋은 반도체 ETF 추천",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDkwWHRHSkJpQzlxVXdpVENlU0F4V28zV19NZkszZXFPblFQcERtdGpVYk5GSjIyMEpTWG5qLXVlWFlpQlh3M3JsbG5aX2ttLWhPaTg3bE42LVNwWWc3cDFwejNoUi1hcmR5MHFVT3hlRWRQdFZyampWZVBKVWJHWHY1aDVub0pYamRPcF85X3lCYXBpWm4tcQ?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "캐시 우드, 급등 중인 기술주 5,200만 달러 상당 공격적 매수",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORmdJa1lIY3NvRzR1Rkp6eUkwMGpfb3kxSHBPUW94WG9ackpVTEYzUjFXOFQyazdfLUJXU2RPdDA4blNRajA1bUFKbDFCSHJxSmhEU01mcTBJU3BVYlJZOWEwS3dzVXNCMm9Zc29ydEluNUlNSkY2Y1IxQzlOZGZseUtEVWsxNWwzc1ZlSF9rZ1ljai1MOU5n?oc=5",
+      "press": "thestreet.com",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "웰스파고의 새로운 S&P 500 목표치 설정, 시장에 명확한 신호",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQek1JMFJsbUJMczBISjIwamRBOEtWSzNTZlNEcVNYei1JRkRrcGcxR3NpcWhGTlp3aVd1RTVnRk51NElTQUE5ZGZIYXFGSlBLUTZWb0lwV25qSGdveHhta2dNVlNBbUxNck9ZeTVfUnhkWjVNOEE0WXpIcVRMcFVSTXhnNE52NWtSM2k1Uk5MTGU2Zw?oc=5",
+      "press": "thestreet.com",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "뱅가드 S&P 500 ETF(VOO)를 뛰어넘는 매력적인 투자 대안",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZXZvc1NkeFFvaEd4Mm1rUzdhWktyc3N1YUREWEVqbDVnT0FKLTFIbjlmQ3dWWGxGUjBqR0NYTU91SWRvMUZqcjdMU0I5WWIyWWxabmJQaXhKdnM5THdlT3UycDJvYVQ4RU9tanRMcXFBRkM0UkFLdmxWdlBaMWtaNC15RWplMWowT1JuNnloaF8?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "일론 머스크 'AI 지배 시대, 재무부는 국민에게 직접 현금 지급해야'",
+      "url": "https://x.com/MarketNews_Feed",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "시장·기타",
+      "title": "밴스 의원 '핵 협상 진전 및 레바논 휴전 추진 희망'",
+      "url": "https://x.com/financialjui",
+      "press": "Market News Feed",
+      "source": "telegram"
+    }
+  ]
+}

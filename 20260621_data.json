@@ -1,0 +1,359 @@
+{
+  "meta": {
+    "generated_at": "2026-06-20T23:35:49.256963+00:00",
+    "run_date": "20260621"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [
+      {
+        "title": "#1 다스코 (+29.96%)",
+        "description": "현재가: 3,470, 거래량: 9,393,941"
+      },
+      {
+        "title": "#2 보해양조 (+29.88%)",
+        "description": "현재가: 2,130, 거래량: 2,384,142"
+      },
+      {
+        "title": "#3 화신 (+19.12%)",
+        "description": "현재가: 14,330, 거래량: 12,028,092"
+      },
+      {
+        "title": "#4 경동인베스트 (+16.36%)",
+        "description": "현재가: 57,600, 거래량: 120,814"
+      },
+      {
+        "title": "#5 삼성전기우 (+11.43%)",
+        "description": "현재가: 809,000, 거래량: 359,906"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 6,599억원",
+        "description": "현재가: 63, 거래량: 10,485,647,308주"
+      },
+      {
+        "title": "#2 KODEX 인버스 거래대금 10,566억원",
+        "description": "현재가: 859, 거래량: 1,234,968,115주"
+      },
+      {
+        "title": "#3 메리츠제2호스팩 거래대금 8,981억원",
+        "description": "현재가: 1,970, 거래량: 212,864,802주"
+      },
+      {
+        "title": "#4 SOL SK하이닉스선물단일종목인버스2X 거래대금 15,854억원",
+        "description": "현재가: 7,740, 거래량: 205,426,177주"
+      },
+      {
+        "title": "#5 KODEX SK하이닉스단일종목레버리지 거래대금 69,530억원",
+        "description": "현재가: 39,200, 거래량: 174,518,957주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 +253,151,174주 / 기관 -391,773,058주 / 개인 +179,721,589주",
+        "description": "직전 영업일(20260619) 순매수 수량"
+      },
+      {
+        "title": "KODEX 인버스 외국인 +14,591,498주 / 기관 -28,499,186주 / 개인 +15,227,930주",
+        "description": "직전 영업일(20260619) 순매수 수량"
+      },
+      {
+        "title": "메리츠제2호스팩 외국인 +66,771주 / 기관 -4,544,245주 / 개인 +4,763,523주",
+        "description": "직전 영업일(20260619) 순매수 수량"
+      },
+      {
+        "title": "SOL SK하이닉스선물단일종목인버스2X 외국인 +1,141,344주 / 기관 -5,375,431주 / 개인 +4,238,080주",
+        "description": "직전 영업일(20260619) 순매수 수량"
+      },
+      {
+        "title": "KODEX SK하이닉스단일종목레버리지 외국인 +839,329주 / 기관 -1,236,212주 / 개인 +124,124주",
+        "description": "직전 영업일(20260619) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.85 (-0.00%)",
+        "description": "전일종가 100.85 / 변동 -0.0010"
+      },
+      {
+        "title": "VIX 변동성지수: 16.40 (-11.06%)",
+        "description": "전일종가 18.44 / 변동 -2.0400"
+      },
+      {
+        "title": "S&P 500: 7500.58 (+1.08%)",
+        "description": "전일종가 7420.10 / 변동 +80.4800"
+      },
+      {
+        "title": "나스닥100: 30406.19 (+2.48%)",
+        "description": "전일종가 29670.95 / 변동 +735.2402"
+      },
+      {
+        "title": "다우존스: 51564.70 (+0.14%)",
+        "description": "전일종가 51492.55 / 변동 +72.1484"
+      },
+      {
+        "title": "USD/KRW: 1529.89 (+0.29%)",
+        "description": "전일종가 1525.42 / 변동 +4.4700"
+      },
+      {
+        "title": "USD/JPY: 161.27 (-0.01%)",
+        "description": "전일종가 161.29 / 변동 -0.0140"
+      },
+      {
+        "title": "코스피: 9052.42 (-0.13%)",
+        "description": "전일종가 9063.84 / 변동 -11.4199"
+      },
+      {
+        "title": "코스닥: 966.59 (-3.43%)",
+        "description": "전일종가 1000.93 / 변동 -34.3400"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.714 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.65 | GEX +0.0B$ (만기:2026-06-22)",
+        "description": "콜OI 157,295 / 풋OI 102,387 → 콜 우세(상방기대) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 3.12 | GEX -0.1B$ (만기:2026-06-22)",
+        "description": "콜OI 55,436 / 풋OI 173,044 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $219.20 (+6.89%)",
+        "description": "거래량 18,398,500주 (평균대비 1.0x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $750.11 (+1.01%)",
+        "description": "거래량 11,639,300주 (평균대비 0.7x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 57.3% (114/199종목)",
+        "description": "평균 MA 대비 위치: +0.8%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 23/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-05-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-05-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 333.979",
+        "description": "Date: 2026-05-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 1.6",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.49",
+        "description": "Date: 2026-06-17, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.74조달러",
+        "description": "기준일: 2026-06-17 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.34조달러",
+        "description": "기준일: 2026-06-17 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 9565.02억달러",
+        "description": "기준일: 2026-06-17 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.00억달러",
+        "description": "기준일: 2026-06-18 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 263bp (2.63%)",
+        "description": "기준일: 2026-06-17 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 74bp (0.74%)",
+        "description": "기준일: 2026-06-17 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "The Best Semiconductor ETF to Buy With $1,000 Right Now - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaDkwWHRHSkJpQzlxVXdpVENlU0F4V28zV19NZkszZXFPblFQcERtdGpVYk5GSjIyMEpTWG5qLXVlWFlpQlh3M3JsbG5aX2ttLWhPaTg3bE42LVNwWWc3cDFwejNoUi1hcmR5MHFVT3hlRWRQdFZyampWZVBKVWJHWHY1aDVub0pYamRPcF85X3lCYXBpWm4tcQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Cathie Wood buys $52 million of surging tech stock - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORmdJa1lIY3NvRzR1Rkp6eUkwMGpfb3kxSHBPUW94WG9ackpVTEYzUjFXOFQyazdfLUJXU2RPdDA4blNRajA1bUFKbDFCSHJxSmhEU01mcTBJU3BVYlJZOWEwS3dzVXNCMm9Zc29ydEluNUlNSkY2Y1IxQzlOZGZseUtEVWsxNWwzc1ZlSF9rZ1ljai1MOU5n?oc=5",
+        "press": "thestreet.com"
+      },
+      {
+        "title": "Wells Fargo new S&P 500 target sends investors clear signal - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQek1JMFJsbUJMczBISjIwamRBOEtWSzNTZlNEcVNYei1JRkRrcGcxR3NpcWhGTlp3aVd1RTVnRk51NElTQUE5ZGZIYXFGSlBLUTZWb0lwV25qSGdveHhta2dNVlNBbUxNck9ZeTVfUnhkWjVNOEE0WXpIcVRMcFVSTXhnNE52NWtSM2k1Uk5MTGU2Zw?oc=5",
+        "press": "thestreet.com"
+      },
+      {
+        "title": "The Vanguard S&P 500 ETF (VOO) Is the Most Popular ETF in the World. Here's One I Like Even Better. - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZXZvc1NkeFFvaEd4Mm1rUzdhWktyc3N1YUREWEVqbDVnT0FKLTFIbjlmQ3dWWGxGUjBqR0NYTU91SWRvMUZqcjdMU0I5WWIyWWxabmJQaXhKdnM5THdlT3UycDJvYVQ4RU9tanRMcXFBRkM0UkFLdmxWdlBaMWtaNC15RWplMWowT1JuNnloaF8?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Northern America Phase-Locked Loop ICs - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNkdjb2l1TDJiQjhIYnBHM3dtTmFEQ0Z5TkpLUUgzeEpBbVhscGI2V21UZ1BSVVpBRzl3b1RpZXhydlJ0Vl9PcVZlblVVWTMxcTZWbVVPZzBCMEV0STFqN19NUzF2cGRGRDhjSzVHbmdWZVhaWUtOZXVwcEU1TE9NS3czN3dScDU5dzVYTFAxdHkweXhZWDkxZWlwek94OGxYUWtRdE9SS2ZXblozYlhENkhudm1kaWVZVmI0?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Northern America Polyvinylidene Chloride Barrier Film - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUWpkTndmdlZ3SkRNSXMxb29uMnN1dFllVGxWMW1mQlVWTnR4OTYzU25JUDQ4WmFtY0NIVE1CekMyQWNfM0FaSHpJN1hOU0xlalc1LWtaN2NwNmlfNDQxNWdDOGNtMG1UNmF5R2wyb1BPOHExN2lPV2xOclVCNF9WcE40QWREUmFETDJaTE1wNWl2eE82S1o3V2NKVGVhcnBHYWwxN2ZtNG9XQ3gwNWx4b054WHREN180dFF3a2dxM0FwOFBiaThmZFFXS3huekk?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Asia-Pacific Wafer Carrying Boat Materials - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeFoyUkFYU3U3eXJiSk9DNU5PWXBUR2tEVGRic3BOZkNwYjNYLV9mbVBqX0FheS1EN3NSQ0FfVGhqM01WUlY1Z3V0Ump2RHZDakd5a3F5Wlo2X1hxeFRYUmpxUU1qV0NMc3k2VFNITUlVQ3ZIRDF0WVZLeWRSMVdPdHU1RWczSFAxZWRNX3k2aEwtR3NORUN6TlJXSk9qcGxuaEpqc2VFMnFlRnNhc3BRa0ZHaXktOUEtTktkaUhTWkw?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Asia-Pacific Wafer Carrying Boat Materials - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeFoyUkFYU3U3eXJiSk9DNU5PWXBUR2tEVGRic3BOZkNwYjNYLV9mbVBqX0FheS1EN3NSQ0FfVGhqM01WUlY1Z3V0Ump2RHZDakd5a3F5Wlo2X1hxeFRYUmpxUU1qV0NMc3k2VFNITUlVQ3ZIRDF0WVZLeWRSMVdPdHU1RWczSFAxZWRNX3k2aEwtR3NORUN6TlJXSk9qcGxuaEpqc2VFMnFlRnNhc3BRa0ZHaXktOUEtTktkaUhTWkw?oc=5",
+        "press": "IndexBox"
+      }
+    ],
+    "domestic": [],
+    "naver": [
+      {
+        "title": "\"서학개미 시대 끝?\"…국내 주식형 ETF 비중 첫 50% 돌파",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1713283",
+        "press": "www.ebn.co.kr"
+      },
+      {
+        "title": "코스피 9000·집값 상승에 '빚의 역습'…두 달 새 가계대출 6조 폭증",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1713282",
+        "press": "www.ebn.co.kr"
+      },
+      {
+        "title": "증시 호조 속 국민연금 고갈 전망 4~7년 늦춰져",
+        "url": "https://www.sentv.co.kr/article/view/sentv202606210002",
+        "press": "www.sentv.co.kr"
+      },
+      {
+        "title": "알테오젠 주가 약세 마감…코스닥 1000선 하회, '시총 1위' 새주 향방은",
+        "url": "https://www.cbci.co.kr/news/articleView.html?idxno=583423",
+        "press": "www.cbci.co.kr"
+      },
+      {
+        "title": "재점화된 반도체 고점 우려 속…\"의심 멈춰라\" 이유는",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4421039",
+        "press": "news.einfomax.co.kr"
+      },
+      {
+        "title": "[증시전망] 9000선 넘은 코스피 행방은...PCE·마이크론 실적 주목",
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=676881",
+        "press": "www.digitaltoday.co.kr"
+      },
+      {
+        "title": "\"서학개미 시대 끝?\"…국내 주식형 ETF 비중 첫 50% 돌파",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1713283",
+        "press": "www.ebn.co.kr"
+      },
+      {
+        "title": "삼성전자·하이닉스 직원 성과급 액수가 워낙 엄청나서 벌어지는 일",
+        "url": "https://www.wikitree.co.kr/articles/1142400",
+        "press": "www.wikitree.co.kr"
+      },
+      {
+        "title": "반도체 계약학과 합격선, 서울대 자연계 넘었다…“삼전닉스 효과”",
+        "url": "https://n.news.naver.com/mnews/article/018/0006311170?sid=102",
+        "press": "www.edaily.co.kr"
+      },
+      {
+        "title": "\"서학개미 시대 끝?\"…국내 주식형 ETF 비중 첫 50% 돌파",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1713283",
+        "press": "www.ebn.co.kr"
+      },
+      {
+        "title": "삼성전자·하이닉스 직원 성과급 액수가 워낙 엄청나서 벌어지는 일",
+        "url": "https://www.wikitree.co.kr/articles/1142400",
+        "press": "www.wikitree.co.kr"
+      },
+      {
+        "title": "반도체 계약학과 합격선, 서울대 자연계 넘었다…“삼전닉스 효과”",
+        "url": "https://n.news.naver.com/mnews/article/018/0006311170?sid=102",
+        "press": "www.edaily.co.kr"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "**Follow us on X for even faster headlines!**\n\nhttps://x.com/MarketNews_Feed",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "LONDON FIRE BRIGADE: THREE KILLED IN FIRE ON NEW ZEALAND WAY, WHITE CITY [...](https://x.com/financi",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "UK PM STARMER FOCUSED ON MOVING FORWARD WITH JOB: GOVERNMENT SOURCE [...](https://x.com/financialjui",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "UK PM STARMER EXPECTED TO STEP DOWN MONDAY AND OUTLINE ORDERLY DEPARTURE: OBSERVER REPORT [...](http",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "[ Z ]\n\nINFAMOUS MEV BOT “JAREDFROMSUBWAY” GETS EXPLOITED FOR OVER $15M: ONCHAIN [...](https://x.com/",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "MELONI’S SPAT WITH TRUMP SHOWS READINESS TO RISK A BIGGER FIGHT [...](https://x.com/diegobloomberg/s",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "JUST IN: ELON MUSK SAYS THE TREASURY SHOULD \"SEND MONEY DIRECTLY TO THE PEOPLE\" IN AN AI-DOMINATED W",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "VANCE: HOPING TO ADVANCE NUCLEAR TALKS, PUSH FORWARD LEBANON CEASEFIRE EFFORTS [...](https://x.com/f",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}
