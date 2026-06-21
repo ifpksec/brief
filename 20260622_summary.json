@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "generated_at": "2026-06-21T23:36:00.306185+00:00",
+    "run_date": "20260622"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 23,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 100.83,
+      "change": -0.02,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.45,
+      "change": -0.27,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 16.4,
+      "change": -11.06,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7500.58,
+      "change": 1.08,
+      "insight": "전일종가 7420.10 / 변동 +80.4800",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 30406.19,
+      "change": 2.48,
+      "insight": "전일종가 29670.95 / 변동 +735.2402",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51564.7,
+      "change": 0.14,
+      "insight": "전일종가 51492.55 / 변동 +72.1484",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1529.1,
+      "change": -0.55,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 161.44,
+      "change": 0.09,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "고객예탁금 3.7조 원 급증하며 증시 대기 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "point": "반도체 업황 개선에 따른 4년 만의 이익 반등 본격화",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 23포인트로 역발상 매수 구간 진입",
+      "tag": "Bullish"
+    },
+    {
+      "point": "코스닥 세분화로 의료기기 상승 및 바이오 종목 차별화",
+      "tag": "Neutral"
+    },
+    {
+      "point": "원/달러 환율 1529원대 하락세에도 절대 수준은 부담",
+      "tag": "Neutral"
+    },
+    {
+      "point": "프로그램 비차익 매도 우위로 수급상 상단 제한 우려",
+      "tag": "Bearish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "나스닥 100 지수 2.48% 급등하며 기술주 중심 랠리",
+      "tag": "Bullish"
+    },
+    {
+      "point": "VIX 지수 11% 하락하며 시장 내 변동성 공포 완화",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미 국채 10년물 금리 하락으로 성장주 투자심리 개선",
+      "tag": "Bullish"
+    },
+    {
+      "point": "중동 긴장 재고조에 따른 유가 변동성 확대 주의",
+      "tag": "Bearish"
+    },
+    {
+      "point": "SPY 딜러 롱감마 상태로 지수 하방 경직성 확보",
+      "tag": "Bullish"
+    },
+    {
+      "point": "QQQ 풋 우세 및 숏감마로 기술주 변동성 확대 가능성",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "한국 반도체 주도로 4년 만에 기업 이익 반등세 기록",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNjlxamJkV0FQYUQtRXdsMXFlQ1ItWi1kaklORFZNZ25MWGZXeTJJZEY3andXdjk2LUluNTQ4UXkzUjNqbzNxVlg2YkxCQjRUMWp3N0JiVUxuODAzc042SUJZT3ZmdmxiZUtQa2lVdEZUMDhhTE5OS0VJQncyamNGMEVWc1NzWXZfVk9TMmh3?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "빅테크 주도 메모리 호황에 삼성전자·SK하이닉스 수익 급증",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xYjhfcGl3ODJKODQ3czkwWER5bUYwdjd5d2RHb25xc19CMDdrTktWNjBDblJ2V0V5QXl0d2cwZ3FkeWd3dU1sY3NzTHh6QXhXQ2lpWlcyYVhzV0pOekdGbUlTanpHbG00WDZOVFViamNzcDdDWkxrT2JR0gGOAUFVX3lxTE05aDNpZmZmdnZuTGhKWFJFTTFIaTdGX3U4VURCaWRucjNzcXl6S0xpMHpQNG1oT0NzMG9sVDFtMXlzLWdfM0pmREl5TkxKVkZWMFdpOFdOY2VpMTQydFpyUTM5QzNJZUhac3BRWnVyTjUxb3I0aC12LW4zVzNtMkRYYlFuT2I2a3RWQVZCMHc?oc=5",
+      "press": "Chosunbiz",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "자산운용사 1분기 순이익 1조4664억원, 주가 상승에 역대급",
+      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=695621",
+      "press": "newsfreezone",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "이번 주 마이크론 실적 발표... 반도체 랠리 유지될까 주목",
+      "url": "https://n.news.naver.com/mnews/article/374/0000517332?sid=101",
+      "press": "biz.sbs.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "상반기 한국 증시 결산... 결국 돌고 돌아 다시 반도체",
+      "url": "https://n.news.naver.com/mnews/article/018/0006311716?sid=101",
+      "press": "edaily",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "제2 셀트리온 노린다... 실적 장세 속 빛나는 강소 CDMO 3사",
+      "url": "https://n.news.naver.com/mnews/article/018/0006311719?sid=101",
+      "press": "edaily",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자, 인도 초프리미엄 주거단지에 고효율 HVAC 솔루션 공급",
+      "url": "https://www.businessplus.kr/news/articleView.html?idxno=113125",
+      "press": "businessplus",
+      "source": "naver"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "트럼프, 헤즈볼라 공격 시 이란 보복 타격 위협에 유가 상승",
+      "url": "telegram_feed_oil",
+      "press": "Market News Feed",
+      "source": "telegram"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "미국 증시 선물 하락... 미-이란 평화 및 인플레이션 지표에 집중",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdGJEWFNYcGZVc01vZE43a1htczYycklNQTNydkVYWkJLOVoyaFYtcWhBUF94b0RMRTdEeldURVQtZ2ZJXzczVE53MWNOQXlHT3Y2WUhOeG5jRlQ4eHItaUZUcVZLQnlFc3REZzVUb3hwdDF3dm50blBmX0piVTY2Wk9VbWFvNFZHeTQ4blhiVXlaNmdMSlQ1dXRR?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "인플레이션 수치 대기 중인 투자자들, 유가 상승 속 선물 약세",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CelRxTzBHZGRkR2ZkMV96TmFKUTdRZE9lcmRlV0phNmswRWc2YVpYaGhmVm9kUHEyY3FTb01IbDNfdm5FZXFSTVFkZEF4QnU1NGhJQ3FZb2ZOQzhqTkE0VEZTZjZORHdjdmxFSFFlMkxBMkNMU0h30gF8QVVfeXFMUGcyeVpfbmxELVRYS0p0X1hRVUpwOHR2aDFHMktxNWlDeDdWUzRXMU9hR0tPX2xvTjBWZ0ZjMEotOFBPeXE3d3BzUk1QdXItTVFpODRTTHpjYVhrd3B5QXRRRlI2eVptNWtwcjlBdVZ3bXZaV2szYmU1UHNmRw?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "미 선물 소폭 하락, 이란 위협 재점화에 따른 유가 급등세",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU3ZMVXh1eVRpWWc0ZWFzRThVengtRlZXUFVPSngtbTJEMEpRVUlBMktMQkhfd18xYWpuV0RMSUtReXlvU25lWVZUMThLYUNLYU1xNGZaS0c5TUVKMnFLQzFlZjI2U2Q5Nk8tR2tlTEZOSElIZnJFRm1aYmdkT2tEaHU1VGxVWmVFaENjdHltWkthbnZTeGhzZXl4eEc4MlNBQkU3UGxfQy1yU3dxRUtYTnRONA?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "캐시 우드, 급등하는 기술주 5,200만 달러 상당 추가 매수",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORmdJa1lIY3NvRzR1Rkp6eUkwMGpfb3kxSHBPUW94WG9ackpVTEYzUjFXOFQyazdfLUJXU2RPdDA4blNRajA1bUFKbDFCSHJxSmhEU01mcTBJU3BVYlJZOWEwS3dzVXNCMm9Zc29ydEluNUlNSkY2Y1IxQzlOZGZseUtEVWsxNWwzc1ZlSF9rZ1ljai1MOU5n?oc=5",
+      "press": "thestreet.com",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "수익 성장에도 불구하고 밸류에이션 리스크 높은 미 반도체 3선",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWVVNaDZDTVVCb082YWttZHJvZkVUZlo1TmU1Nk1MX01FNXpyZ0lXcTdjTnBjcUh6T290LUp5R3pIU1FraWtQNU9JU1hDREdkam9YMHMzNEhUMC13eTlsS1ZMajVlWTk1emU2WTc5dmp1TUtfZFUyNGxRN0tCQlpIM0hTLWMzbWt6d3NLc0d2Vm12Ymwtdm4wS2JWRkxOQ3lZOURCOENIMkNIRVJ5ZjBLV1ZIckFtaEZaX2h4UjhjcFZJUmlzM1hQatIBzgFBVV95cUxNNGt0ZXNONnd3YWtkeTNmbVBfcEdMdklPTG5Fd0VYY1pQTXpSZ3dHMmo2bDA3NW44ZUZiTEZQUTlPbWRrbDZvcUZYWTlycVNMYU85b0RSQllXcWJvZUVBSnNNeXBlTFo3Qkc5MU1MNHExUWh3ZlRIUHhKZGxZMlNGN2RpMEVUMlluTTEyWElDNWduZ0YtZV9ZTlVIS253UXlNQmNTUjZpT1RPWHkwUHZueUJvR0NWWTRFSWtNSVl2amdQQXMyRkJHX3ZUclJZQQ?oc=5",
+      "press": "simplywall.st",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "상하이 일루바타 코어X 반도체, 월간 42% 폭등 후 고평가 징후",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWdhSGFNdzRvWmUycmFialN0alY0NmZPa255QnJtcy1NYmNDQW5sNzVOeDE1ZmZRVFMwRXFVN2ppSHFfSHNGU1F3YXVJcXN2bkhaTTVjZVRVM215TkNwdkgzWWxzSnpqUW5jMElfdEtYRzhnVDBPYzlSVzlVOW5vSDZYenpGSDdQOXJKdS1LTUhjcUJoUE1PZ1JBREc4eGFqUWYzSGJFRWtvcWM?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    }
+  ]
+}
