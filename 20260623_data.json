@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22T23:37:07.405962+00:00",
+    "run_date": "20260623"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [
+      {
+        "title": "고객예탁금: 1,293,535억원 (+9,448억원)",
+        "description": "신용융자잔고: 384,787억원"
+      }
+    ],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 -163,542백만원 (차익 +0 / 비차익 -163,542)",
+        "description": "기준일: 20260623"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 동화약품 (+0.00%)",
+        "description": "현재가: 5,030, 거래량: 0"
+      },
+      {
+        "title": "#2 KR모터스 (+0.00%)",
+        "description": "현재가: 298, 거래량: 0"
+      },
+      {
+        "title": "#3 경방 (+0.00%)",
+        "description": "현재가: 8,080, 거래량: 0"
+      },
+      {
+        "title": "#4 삼양홀딩스 (+0.00%)",
+        "description": "현재가: 54,200, 거래량: 0"
+      },
+      {
+        "title": "#5 하이트진로 (+0.00%)",
+        "description": "현재가: 15,110, 거래량: 0"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 0억원",
+        "description": "현재가: 62, 거래량: 1,292,149주"
+      },
+      {
+        "title": "#2 KODEX 인버스 거래대금 0억원",
+        "description": "현재가: 852, 거래량: 55,716주"
+      },
+      {
+        "title": "#3 아이엠 거래대금 0억원",
+        "description": "현재가: 45, 거래량: 32,726주"
+      },
+      {
+        "title": "#4 SOL SK하이닉스선물단일종목인버스2X 거래대금 0억원",
+        "description": "현재가: 6,805, 거래량: 11,142주"
+      },
+      {
+        "title": "#5 우듬지팜 거래대금 0억원",
+        "description": "현재가: 600, 거래량: 8,000주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 +130,077,758주 / 기관 -147,853,901주 / 개인 +22,461,082주",
+        "description": "직전 영업일(20260622) 순매수 수량"
+      },
+      {
+        "title": "KODEX 인버스 외국인 +5,728,167주 / 기관 -4,407,098주 / 개인 -2,761,565주",
+        "description": "직전 영업일(20260622) 순매수 수량"
+      },
+      {
+        "title": "아이엠 외국인 -69,042주 / 기관 -8,863주 / 개인 +77,995주",
+        "description": "직전 영업일(20260622) 순매수 수량"
+      },
+      {
+        "title": "SOL SK하이닉스선물단일종목인버스2X 외국인 -18,249주 / 기관 -4,528,196주 / 개인 +3,944,678주",
+        "description": "직전 영업일(20260622) 순매수 수량"
+      },
+      {
+        "title": "우듬지팜 외국인 +18,509주 / 기관 +0주 / 개인 +16,141주",
+        "description": "직전 영업일(20260622) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.00 (+0.14%)",
+        "description": "전일종가 100.85 / 변동 +0.1460"
+      },
+      {
+        "title": "미국 10년물 금리: 4.51 (+1.30%)",
+        "description": "전일종가 4.45 / 변동 +0.0580"
+      },
+      {
+        "title": "VIX 변동성지수: 17.28 (+5.37%)",
+        "description": "전일종가 16.40 / 변동 +0.8800"
+      },
+      {
+        "title": "S&P 500: 7472.79 (-0.37%)",
+        "description": "전일종가 7500.58 / 변동 -27.7900"
+      },
+      {
+        "title": "나스닥100: 30347.08 (-0.19%)",
+        "description": "전일종가 30406.19 / 변동 -59.1074"
+      },
+      {
+        "title": "다우존스: 51712.71 (+0.29%)",
+        "description": "전일종가 51564.70 / 변동 +148.0117"
+      },
+      {
+        "title": "USD/KRW: 1536.10 (+0.31%)",
+        "description": "전일종가 1531.33 / 변동 +4.7700"
+      },
+      {
+        "title": "USD/JPY: 161.57 (+0.08%)",
+        "description": "전일종가 161.43 / 변동 +0.1360"
+      },
+      {
+        "title": "코스피: 9052.42 (-0.13%)",
+        "description": "전일종가 9063.84 / 변동 -11.4199"
+      },
+      {
+        "title": "코스닥: 966.59 (-3.43%)",
+        "description": "전일종가 1000.93 / 변동 -34.3400"
+      },
+      {
+        "title": "KOSPI200: 1459.48 (+0.02%)",
+        "description": "전일종가 1459.23 / 변동 +0.2500"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.702 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.09 | GEX +1.6B$ (만기:2026-06-22)",
+        "description": "콜OI 246,248 / 풋OI 268,290 → 균형 | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 3.98 | GEX -1.6B$ (만기:2026-06-22)",
+        "description": "콜OI 87,413 / 풋OI 347,896 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $219.02 (-0.08%)",
+        "description": "거래량 10,598,127주 (평균대비 0.6x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $747.78 (-0.31%)",
+        "description": "거래량 16,404,586주 (평균대비 1.0x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 55.8% (111/199종목)",
+        "description": "평균 MA 대비 위치: +0.8%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 20/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-05-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-05-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 333.979",
+        "description": "Date: 2026-05-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 1.6",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.46",
+        "description": "Date: 2026-06-18, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.74조달러",
+        "description": "기준일: 2026-06-17 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.34조달러",
+        "description": "기준일: 2026-06-17 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 9565.02억달러",
+        "description": "기준일: 2026-06-17 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.04억달러",
+        "description": "기준일: 2026-06-22 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 266bp (2.66%)",
+        "description": "기준일: 2026-06-19 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 74bp (0.74%)",
+        "description": "기준일: 2026-06-19 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "S&P 500 closes lower as tech stocks slide; SpaceX notches 3-day losing streak - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CelRxTzBHZGRkR2ZkMV96TmFKUTdRZE9lcmRlV0phNmswRWc2YVpYaGhmVm9kUHEyY3FTb01IbDNfdm5FZXFSTVFkZEF4QnU1NGhJQ3FZb2ZOQzhqTkE0VEZTZjZORHdjdmxFSFFlMkxBMkNMU0h30gF8QVVfeXFMUGcyeVpfbmxELVRYS0p0X1hRVUpwOHR2aDFHMktxNWlDeDdWUzRXMU9hR0tPX2xvTjBWZ0ZjMEotOFBPeXE3d3BzUk1QdXItTVFpODRTTHpjYVhrd3B5QXRRRlI2eVptNWtwcjlBdVZ3bXZaV2szYmU1UHNmRw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "The stock market is on a tear but 3 things could go wrong - MSN",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObEJncklwN2Z1dE4wTkJoRlFOOE9FaC01dGV0NWM3bjB2Snk4bDBnTW9MM1RpeTdXYTNTUUVIbHAxN09XdnJaZ3dkckNMbTBtOTVrYUxqQnJGU0E0RHN6N19lLUdEZGJFRXJad3FxVUtsWmNGLURweTJTblc5clNpT1hYaUIwXzJjQy1hNlVuQ0pqTUZ6MVZvdDRtZ1BqYVE4cm5kUWQ5X3BlaUUtUG1KWW9DMVp5QkRySEkwdWpMd2NGSDVUNk9wUktzbUtUUG96?oc=5",
+        "press": "MSN"
+      },
+      {
+        "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONllnQzBGNlgtWnhpeDhQMTdCOE5tNXlfUFYtbmlYc2ZPbFM2bVlFZENxUS0xNGl0RGZKVmE2MThWM2pvLXQwNFVTN0dVQzJNX0h6Qm9Rbjh0V0RnREVaM1lBbDcydVVKdFBvM0xJY1lxRGlwVFFmb2piYU5MUzgyWFphMUZ0X2djNHlwUFlBU0N0NmlFV1Bab0VISQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "The future of oil prices may depend on China - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanNZUkhKSHE1M3JWWHNzdTZwdW5oRHpBT2FKcGZWM0tMcTZTU2RFcDZDdjNKZ1V1SkFBLUJsRHM0a2k2MWxKcFNuaE5iNnQyN3JONlpTaXMybTUtMm0teTk3azRLM3BBSmVVUzZKVFdUVllQYzVjcS1PUWFBV0lyQXZoR3Vfdi11NXc?oc=5",
+        "press": "CNN"
+      },
+      {
+        "title": "Stock market today: S&P 500, Nasdaq slide as Big Tech, SpaceX hammered - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ3VRdElEY2hFbzFmOVhTZVZ6THE4OHpwV3c2TFVYNElXNDc2Ny1ENVRBWkxnbUZpWFkxc3JMUWxCZmp3V2JHSVVudkRGcXJCODBib1FHbmxIRnVSbThFS095MldlbkVucFNMSGxHM1JINnQ1M1JfWTRQdkFPeVRKdm9zallqbUE2dm1xRHFoMDE4RTc4ckFaT0xzc2tVN1VBOGtaWE00Sld1dkNoNVlQbktiRU9zM3p4WHNGVWlUWGt5VTY0SWc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock futures are little changed after tech sell-off drags down S&P 500: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9abTBDT1R4RFlQUHZoYkJ2TlYtV1dkNm1VOGdQUnBqc0ZiZGQ1Q3J6SVlTNzlBZER6ZlNTdHVHUVNkVzhRV2t3VlByTFlJWnJ1MnZjTDB2S0NkaFlXYUd0dlpiWUljcm92VGhsdEU2TS0wVVNsNFN30gF8QVVfeXFMT19qQ24zQl9pSUF4dTktMmx5aGV6Q0RONUlWV0I1ZTVfc1QwTjZXdWhMYmJ3Y2luNXFNWjlIWmw5bWMxZkVGbGlaWmNCOGZRWmxPYUp0S09SZk5wSHlfWkx4SzdxWjlqT1VvRDZMdmlCV290amp5bEE3VUJJOQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "S&P 500 closes lower as tech stocks slide; SpaceX notches 3-day losing streak - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CelRxTzBHZGRkR2ZkMV96TmFKUTdRZE9lcmRlV0phNmswRWc2YVpYaGhmVm9kUHEyY3FTb01IbDNfdm5FZXFSTVFkZEF4QnU1NGhJQ3FZb2ZOQzhqTkE0VEZTZjZORHdjdmxFSFFlMkxBMkNMU0h30gF8QVVfeXFMUGcyeVpfbmxELVRYS0p0X1hRVUpwOHR2aDFHMktxNWlDeDdWUzRXMU9hR0tPX2xvTjBWZ0ZjMEotOFBPeXE3d3BzUk1QdXItTVFpODRTTHpjYVhrd3B5QXRRRlI2eVptNWtwcjlBdVZ3bXZaV2szYmU1UHNmRw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Markets News, June 22, 2026: Dow Ekes Out Gain as Big Tech Stocks Weigh on Nasdaq; SpaceX Falls To Lowest Close Ever - I",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOVZXVVZZeVZHbWhrUE5KQnFDTExQX3dLVzhyRVk1XzgzNEJpcDlhQlhDejY5dXROQ1doVTdnMXhEUUtfVTNhTmh0OGlPa0lIMXNtXzVlek5KZzUyUzdRS2ZaNjlwcERrOWFQRUxKNDNRTXRUVnd6RzhOdkJKZ0ZQME9lQU5wMGx3eWZTWUE1TGo?oc=5",
+        "press": "Investopedia"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Korea stocks climb as volume drops, concentration centers on Samsung, SK hynix - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWlp6V1hGQ3dNanY0TFppTjZhNmZhckVLa2hlOUFLVjIyemt2TC1vcHpHd2UtR3RQTTFiN2ItWVFKMklEVjh2X1JVOVgtZnNrWWh0eXpsZGd0SkVkT2d3Y2xNSkJhYjZLTVl6QkFVMm16TkMweldwb1lTOEJmYTFyNtIBlAFBVV95cUxNN0poR1JVTV94anVIZVRnQTFZMXc1WEFHTEhPRm40LVR1UUNHMnFkOHdLSksxZTZKQ3ViWUY1ZlFkcGtFZW9sNDFLZ3RMQjdDV0NHMlluSzFLSGZ1bXRFakdXTlZJSG51Z2dDUDZOT0NtZVlKUzc0LVE0TVdiZ01pZ2RFdDVfVHZWb0JHdFNpS2lqR1pF?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "SimPlatform (KOSDAQ:444530) Is In A Good Position To Deliver On Growth Plans - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMFNuQjg4eWZnWjl6TlJ1NExKNHRoSWRJVVIyUnBucGlmdE1oajNNQjNxMU9sOXRrOC1fSk1za1pCWkF0N0REXzJPR2lmNkt3a2hnSHdTSGFYa1NRaU1nZXdBWGZESzctNHVtN0ctd0RpLWItOUZnSkdQS0g3R29lU0pqVkVkanlmWFJGVWVRQVNBRHlrbnVZeVY5LXlJcTBkODVqd1oybU12TG9Cbm12YmhEcEhvbC05Rk8tb1lzUEQtRzJrb3B5Mmw3QUxfUU42d0U1UllLMNIB3AFBVV95cUxOSzczU1cyc3E2OXgwWUFncEU5V1hLXzFDWU5Bd2R1OHd1ZkVxY3FodXlmRUpUYkRubFRQcy1EeDc4aGF6MDk2ZVBaSGNlaVJtNEJQV19oS1lEY1JJMVNsZDBIaVI4Ukg5UFNsSGF1clRyenZQbkdKbURqRVFXOEZ5bEo2dUgtd19fQmtfS0g4LTNTSjEwdzFBNklhelBPaXEzU2VNNmltY1RPcWVZNU5vRUEwczltblgtdEM0Z3kwT1NjcEZuSlRWWDVzY1hCMDVaMGtyNng4YTBkcDh4?oc=5",
+        "press": "simplywall.st"
+      }
+    ],
+    "naver": [
+      {
+        "title": "[뉴스 앤 데이터] 주가 3배 뛰었지만 주주친화 50점…코스피 9000 시대의...",
+        "url": "https://www.seoultimes.news/news/article.html?no=2000096909",
+        "press": "www.seoultimes.news"
+      },
+      {
+        "title": "[아이온의 AI:온] \"상상만 하면 돼\"…생각이 곧 명령인 시대",
+        "url": "https://n.news.naver.com/mnews/article/448/0000621574?sid=004",
+        "press": "news.tvchosun.com"
+      },
+      {
+        "title": "[신율 政評] 폴더 인사로도 가려지지 않는 당청 갈등",
+        "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=360891",
+        "press": "www.ftoday.co.kr"
+      },
+      {
+        "title": "와이즈버즈, 클리오와 북미 대상 챗GPT 광고 집행…AI 마케팅 역량 강화",
+        "url": "https://n.news.naver.com/mnews/article/050/0000107657?sid=101",
+        "press": "magazine.hankyung.com"
+      },
+      {
+        "title": "[150조 머니무브] 국민성장펀드 2차전, 4대 금융지주 '분산 배치' 통할까",
+        "url": "https://n.news.naver.com/mnews/article/293/0000086636?sid=101",
+        "press": "www.bloter.net"
+      },
+      {
+        "title": "와이즈버즈-클리오, 북미 오픈AI의 챗GPT 광고 집행",
+        "url": "https://www.forbeskorea.co.kr/news/articleView.html?idxno=402191",
+        "press": "www.forbeskorea.co.kr"
+      },
+      {
+        "title": "삼성전자, 업계 최초 온디바이스 AI 최적화 'UFS 5.0' 개발…전송속도·...",
+        "url": "https://www.public25.com/news/articleView.html?idxno=48988",
+        "press": "www.public25.com"
+      },
+      {
+        "title": "삼성전자, 업계 첫 UFS 5.0 개발…온디바이스 AI 겨냥",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4421305",
+        "press": "news.einfomax.co.kr"
+      },
+      {
+        "title": "\"AI 데이터 처리도 척척\" 삼성전자, 차세대 UFS 5.0 개발",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=462233",
+        "press": "www.pinpointnews.co.kr"
+      },
+      {
+        "title": "알파벳, 구글 AI 임원들 오픈AI·앤스로픽 이직에 5% 급락 [뉴욕증시 무...",
+        "url": "https://www.etoday.co.kr/news/view/2596163",
+        "press": "www.etoday.co.kr"
+      },
+      {
+        "title": "마이크론 6% 급등·하이닉스 ‘시총 1위’ 역전…환호 속 부각된 ‘2028 ...",
+        "url": "https://n.news.naver.com/mnews/article/215/0001256262?sid=101",
+        "press": "www.wowtv.co.kr"
+      },
+      {
+        "title": "뉴욕 증시, 메가캡 ‘빛과 그림자’ 뚜렷…AI 인재 유출·규제 리스크 속...",
+        "url": "https://n.news.naver.com/mnews/article/215/0001256260?sid=101",
+        "press": "www.wowtv.co.kr"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "U.S. SENATE ADVANCES TRUMP-BACKED HOUSING REFORM BILL AIMED AT LIMITING INSTITUTIONAL INVESTOR HOME ",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "AUSTRALIA'S JUNE FLASH MANUFACTURING PMI ROSE TO 51.2 FROM 50.7, SIGNALING FURTHER EXPANSION IN FACT",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "*US JUDGE BLOCKS TRUMP ADMINISTRATION SNAP RESTRICTIONS ON SODA, CANDY [...](https://x.com/tradfi/st",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "BRITAIN TO HAVE ADEQUATE POWER SUPPLY THIS WINTER, GRID OPERATOR SAYS [...](https://x.com/financialj",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "AUSTRALIA S&P GLOBAL PMI COMPOSITE JUN P: 49.8 (PREV 48.7)\n\n- PMI MANUFACTURING: 51.2 (PREV 50.7)\n- ",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "AUSTRALIA S&P GLOBAL JUNE FLASH MANUFACTURING PMI RISES TO 51.2 FROM 50.7 IN MAY [...](https://x.com",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "AUSTRALIA S&P GLOBAL JUNE FLASH COMPOSITE PMI AT 49.8 VS 48.7 IN MAY [...](https://x.com/financialju",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "AUSTRALIA S&P GLOBAL JUNE FLASH SERVICES PMI AT 49.9 VS 48.7 IN MAY [...](https://x.com/financialjui",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}

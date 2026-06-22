@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "generated_at": "2026-06-22T23:37:07.407298+00:00",
+    "run_date": "20260623"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 20,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 101.0,
+      "change": 0.14,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.51,
+      "change": 1.3,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 17.28,
+      "change": 5.37,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7472.79,
+      "change": -0.37,
+      "insight": "전일종가 7500.58 / 변동 -27.7900",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 30347.08,
+      "change": -0.19,
+      "insight": "전일종가 30406.19 / 변동 -59.1074",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51712.71,
+      "change": 0.29,
+      "insight": "전일종가 51564.70 / 변동 +148.0117",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1536.1,
+      "change": 0.31,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 161.57,
+      "change": 0.08,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "고객예탁금 129조 돌파(+9,448억), 증시 대기 자금 유입세 지속",
+      "tag": "Bullish"
+    },
+    {
+      "point": "원/달러 환율 1,536원 기록, 고환율에 따른 외인 수급 경계감 고조",
+      "tag": "Bearish"
+    },
+    {
+      "point": "삼성전자·SK하이닉스 등 대형 반도체 종목으로의 거래 쏠림 심화",
+      "tag": "Neutral"
+    },
+    {
+      "point": "삼성전자, 온디바이스 AI 최적화 UFS 5.0 세계 최초 개발 성공",
+      "tag": "Bullish"
+    },
+    {
+      "point": "KOSPI 프로그램 매도(-1,635억) 지속되며 수급상 하방 압력 작용",
+      "tag": "Bearish"
+    },
+    {
+      "point": "신용융자잔고 38조 원대 유지하며 개인 투자 심리는 중립 수준",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "공포탐욕지수 20(Extreme Fear) 기록, 극단적 공포 국면 진입",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미국 10년물 금리 4.51% 급등, 기술주 밸류에이션 부담 가중",
+      "tag": "Bearish"
+    },
+    {
+      "point": "QQQ PCR 3.98 및 GEX 숏감마 상태로 기술주 변동성 확대 경고",
+      "tag": "Bearish"
+    },
+    {
+      "point": "S&P 500-IEF 상관계수 0.702, 시스템 위기 또는 인플레 우려 반영",
+      "tag": "Bearish"
+    },
+    {
+      "point": "역레포 잔액 0.04억 달러로 급감, 시장 내 초과 유동성 고갈 시그널",
+      "tag": "Bearish"
+    },
+    {
+      "point": "하이일드 스프레드(266bp)는 안정적이나 VIX 지수(+5.37%) 상승세",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자, 업계 첫 온디바이스 AI용 UFS 5.0 개발 성공",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4421305",
+      "press": "news.einfomax.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "와이즈버즈, 클리오와 북미 대상 챗GPT 광고 집행 및 AI 강화",
+      "url": "https://n.news.naver.com/mnews/article/050/0000107657?sid=101",
+      "press": "magazine.hankyung.com",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "한국 증시 거래량 감소 속 삼성전자·SK하이닉스 쏠림 현상",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWlp6V1hGQ3dNanY0TFppTjZhNmZhckVLa2hlOUFLVjIyemt2TC1vcHpHd2UtR3RQTTFiN2ItWVFKMklEVjh2X1JVOVgtZnNrWWh0eXpsZGd0SkVkT2d3Y2xNSkJhYjZLTVl6QkFVMm16TkMweldwb1lTOEJmYTFyNtIBlAFBVV95cUxNN0poR1JVTV94anVIZVRnQTFZMXc1WEFHTEhPRm40LVR1UUNHMnFkOHdLSksxZTZKQ3ViWUY1ZlFkcGtFZW9sNDFLZ3RMQjdDV0NHMlluSzFLSGZ1bXRFakdXTlZJSG51Z2dDUDZOT0NtZVlKUzc0LVE0TVdiZ01pZ2RFdDVfVHZWb0JHdFNpS2lqR1pF?oc=5",
+      "press": "Chosunbiz",
+      "source": "domestic"
+    },
+    {
+      "category": "부동산·유동성",
+      "title": "150조 머니무브: 국민성장펀드 2차전, 4대 금융지주 분산 배치",
+      "url": "https://n.news.naver.com/mnews/article/293/0000086636?sid=101",
+      "press": "www.bloter.net",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "주가 3배 뛰었지만 주주친화는 50점…코스피 9000 시대의 과제",
+      "url": "https://www.seoultimes.news/news/article.html?no=2000096909",
+      "press": "www.seoultimes.news",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "아이온의 AI:온, 상상하면 생각이 곧 명령이 되는 시대",
+      "url": "https://n.news.naver.com/mnews/article/448/0000621574?sid=004",
+      "press": "news.tvchosun.com",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "호주 6월 제조업 PMI 51.2로 상승, 경기 확장세 신호",
+      "url": "https://x.com/financialju",
+      "press": "Market News Feed",
+      "source": "telegram"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "테크주 매도세에 S&P 500 하락 마감; 엔비디아 하락세 지속",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CelRxTzBHZGRkR2ZkMV96TmFKUTdRZE9lcmRlV0phNmswRWc2YVpYaGhmVm9kUHEyY3FTb01IbDNfdm5FZXFSTVFkZEF4QnU1NGhJQ3FZb2ZOQzhqTkE0VEZTZjZORHdjdmxFSFFlMkxBMkNMU0h30gF8QVVfeXFMUGcyeVpfbmxELVRYS0p0X1hRVUpwOHR2aDFHMktxNWlDeDdWUzRXMU9hR0tPX2xvTjBWZ0ZjMEotOFBPeXE3d3BzUk1QdXItTVFpODRTTHpjYVhrd3B5QXRRRlI2eVptNWtwcjlBdVZ3bXZaV2szYmU1UHNmRw?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "증시 질주 중이나 위협할 수 있는 세 가지 리스크 요소",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObEJncklwN2Z1dE4wTkJoRlFOOE9FaC01dGV0NWM3bjB2Snk4bDBnTW9MM1RpeTdXYTNTUUVIbHAxN09XdnJaZ3dkckNMbTBtOTVrYUxqQnJGU0E0RHN6N19lLUdEZGJFRXJad3FxVUtsWmNGLURweTJTblc5clNpT1hYaUIwXzJjQy1hNlVuQ0pqTUZ6MVZvdDRtZ1BqYVE4cm5kUWQ5X3BlaUUtUG1KWW9DMVp5QkRySEkwdWpMd2NGSDVUNk9wUktzbUtUUG96?oc=5",
+      "press": "MSN",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "빅테크 및 스페이스X 급락으로 S&P 500, 나스닥 동반 하락",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ3VRdElEY2hFbzFmOVhTZVZ6THE4OHpwV3c2TFVYNElXNDc2Ny1ENVRBWkxnbUZpWFkxc3JMUWxCZmp3V2JHSVVudkRGcXJCODBib1FHbmxIRnVSbThFS095MldlbkVucFNMSGxHM1JINnQ1M1JfWTRQdkFPeVRKdm9zallqbUE2dm1xRHFoMDE4RTc4ckFaT0xzc2tVN1VBOGtaWE00Sld1dkNoNVlQbktiRU9zM3p4WHNGVWlUWGt5VTY0SWc?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "향후 유가 향방, 중국의 수요 회복 여부에 달려",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOanNZUkhKSHE1M3JWWHNzdTZwdW5oRHpBT2FKcGZWM0tMcTZTU2RFcDZDdjNKZ1V1SkFBLUJsRHM0a2k2MWxKcFNuaE5iNnQyN3JONlpTaXMybTUtMm0teTk3azRLM3BBSmVVUzZKVFdUVllQYzVjcS1PUWFBV0lyQXZoR3Vfdi11NXc?oc=5",
+      "press": "CNN",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "기술주 매도세 이후 보합권 머무는 미국 지수 선물",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9abTBDT1R4RFlQUHZoYkJ2TlYtV1dkNm1VOGdQUnBqc0ZiZGQ1Q3J6SVlTNzlBZER6ZlNTdHVHUVNkVzhRV2t3VlByTFlJWnJ1MnZjTDB2S0NkaFlXYUd0dlpiWUljcm92VGhsdEU2TS0wVVNsNFN30gF8QVVfeXFMT19qQ24zQl9pSUF4dTktMmx5aGV6Q0RONUlWV0I1ZTVfc1QwTjZXdWhMYmJ3Y2luNXFNWjlIWmw5bWMxZkVGbGlaWmNCOGZRWmxPYUp0S09SZk5wSHlfWkx4SzdxWjlqT1VvRDZMdmlCV290amp5bEE3VUJJOQ?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "부동산·유동성",
+      "title": "미 상원, 기관 투자자의 주택 매수 제한하는 부동산 개혁안 추진",
+      "url": "https://x.com/tradfi/st",
+      "press": "Market News Feed",
+      "source": "telegram"
+    }
+  ]
+}
