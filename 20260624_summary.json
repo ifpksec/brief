@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "generated_at": "2026-06-23T23:37:01.566522+00:00",
+    "run_date": "20260624"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 23,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 101.39,
+      "change": 0.37,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.49,
+      "change": 0.94,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 19.49,
+      "change": 12.79,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7365.46,
+      "change": -1.44,
+      "insight": "전일종가 7472.79 / 변동 -107.3301",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29347.27,
+      "change": -3.29,
+      "insight": "전일종가 30347.08 / 변동 -999.8066",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51666.84,
+      "change": -0.09,
+      "insight": "전일종가 51712.71 / 변동 -45.8711",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1530.57,
+      "change": -0.55,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 161.57,
+      "change": -0.0,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "고객예탁금 2.8조 원 순증하며 증시 대기 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "point": "KOSPI 프로그램 순매수 유입에도 차익 매물 출회",
+      "tag": "Neutral"
+    },
+    {
+      "point": "반도체 랠리 속 코스닥 바이오 및 소형주 소외 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "SK하이닉스 미 ADR 발행 및 증시 상장 추진 주목",
+      "tag": "Bullish"
+    },
+    {
+      "point": "원/달러 환율 1,530원대 유지로 외인 수급 부담 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "레버리지 ETF 급성장에 따른 시장 변동성 확대 경고",
+      "tag": "Bearish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "AI 수익성 우려 및 반도체 매도세로 나스닥 3.2% 급락",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VIX 지수 19.49로 폭등하며 시장 공포 심리 확산",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 23포인트 기록, 극단적 공포 국면 진입",
+      "tag": "Neutral"
+    },
+    {
+      "point": "10년물 금리 4.49% 상승하며 기술주 밸류에이션 압박",
+      "tag": "Bearish"
+    },
+    {
+      "point": "옵션 시장 풋 우세 및 숏감마 상태로 하방 변동성 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "FedEx 실적 부진 및 무역 정책 불확실성 리스크 부각",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "SK하이닉스 미국 ADR 발행 추진 및 FSS 신고 계획",
+      "url": "https://t.me/marketnewsfeed",
+      "press": "Market News Feed",
+      "source": "telegram"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "레버리지 ETF 급성장에 블룸버그 '한국 AI주 변동성' 경고",
+      "url": "https://www.tjb.co.kr/news05/bodo/view/id/99907",
+      "press": "www.tjb.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "마이크론 폭락에도 프리마켓 반등, 하이닉스·삼성전자 주목",
+      "url": "https://n.news.naver.com/mnews/article/421/0009019993?sid=101",
+      "press": "www.news1.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "KOSPI 상승에도 종목 70% 하락, 지수 왜곡 현상 심화",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOazdqX25aZDRMdnI3VDdTVEZjREliUWRXWGViQmFuVEJZdnVfYWdzclJVbzVsSlJweERrRnd4NDhsYkR3SXlIdmxGMlgyYnFqQzRnYXhsMXBWbGFMTDVFbkhlRmNEei16ZEVXUmtpUDBZSU5SOGpfR0wtVE9tbTRFdTJWcW04OXAyNGJEODhB?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "가상자산 2단계법 하반기 통과 목표, 시장 규제 구체화",
+      "url": "https://dealsite.co.kr/articles/164106",
+      "press": "dealsite.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "이녹스첨단소재, 본업 다각화 및 역사적 저점 밸류 매력",
+      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=263711",
+      "press": "www.financialpost.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "반도체 랠리에 가려진 코스닥 바이오 및 중소형주 슬럼프",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RbE1KNjVQY0hCM1pOaFUzV1BJbzNrekZ3MVNwcXd3cDJhSTZfaVFSb0w1dFNEVXJacm1VQm13LW0yUm5pT0d1UE8tcHFRSW9wVjBCU0JJOUNScUN3cWd2bUNpM0t4SV9iSVR4Sk83RGlJU2c?oc=5",
+      "press": "마켓인",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "반도체 섹터 대량 매도로 S&P·나스닥 하락, AI 지출 우려",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQnlIcE1UTlduazdvRTZrdlV4TjhDcXNaOVNpbEJoRnRrd3VqdzJCcElQRVNvZXg1UU5IbVE1THNwXzJJTVB1MldQNFNpY0VwV0JOR0VhUk1idktydVlGN19XVHJkQjFtS3lHNUY4dnZNZXhJNUkxYXI1UnZIQ2xqMTNVNkhiaS1KWGpwaWNUN0pTUGF4OUE?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "FedEx 주가 폭락, 무역 정책 변화가 실적에 타격",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcmcwbFFzeUNndHJyN2xaWTE2YlZJbndhVkRZRVh6bklMOFpWTUhGR2pJN0dLaFA0b1MtamJKNm1TWElZVF9nNHoxOElfLXdRdVR6eUE2dk5ueEJXNGlVX25BZFZ0c2F0V0dCdzIzMS1RMWk0VUhHbHV1Rnk0NG9CMU9UeFByX0xOQWxLWnhQaVN2eHlFOUJBWjJJb0xFZDg4SVY3QzJOWGpFVVpaMGV3dw?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "부동산·유동성",
+      "title": "미 하원, 저렴한 주택 건설 지원 법안 압도적 통과",
+      "url": "https://t.me/marketnewsfeed",
+      "press": "Market News Feed",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "AI 주식 급락, 단순 차익 실현인가 시장의 근본적 불안인가",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jWGJ4M29wZ0l5ck13OFhXME02TUF4bWg2Rk42MjJzYlo0N2hfcGc0QUJzY2dYd0xheS1pZkh2Zm9kbm9LSlNNTXV4blFrWWVsTXhRZTFWMmdBX0h2QXhFbDN2OU9mclRza2JwbTEyNWtJYmpETWh4UEVR?oc=5",
+      "press": "Boston Herald",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "미국 25개 주, 칼시 등 예측 시장에 대한 규제 및 제한 도입",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFdVSjNxTW4yT1E4TGxScThneHo4NDRqcUhNZDB2Q0ZpSlJ0YmxSQ3lKclBERzVZNkw0SWhFSW10TVJUTEJFV1dGMG1NMGk4VEp5bHFkLUJNSnBGQTVrRU1HRWtydGQxOGhYb2VicU1ucW14X2ZhV3NiS01YY0tMZ3VrYzE2MWQtMEdIR3dDZ1pSd0ttZndVZ1NJYURZTU9XQ0dIZjFuQTJfUVJ3akphRmxESXo0WVV0UUx3VFYtNXZpLWpEd01hcVZleExGSVVZR3c?oc=5",
+      "press": "USA Today",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "트럼프, 이란 동결 자금 해제 옹호 및 에스크로 계좌 관리 강조",
+      "url": "https://t.me/marketnewsfeed",
+      "press": "Market News Feed",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "독일, 2차 세계대전 이후 최대 규모 군함 건조 계획 폐기",
+      "url": "https://t.me/marketnewsfeed",
+      "press": "Market News Feed",
+      "source": "international"
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "meta": {
+    "generated_at": "2026-06-23T23:37:01.564374+00:00",
+    "run_date": "20260624"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [
+      {
+        "title": "고객예탁금: 1,321,857억원 (+28,323억원)",
+        "description": "신용융자잔고: 385,312억원"
+      }
+    ],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 +3,537백만원 (차익 -40,824 / 비차익 +44,361)",
+        "description": "기준일: 20260624"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 동화약품 (+0.00%)",
+        "description": "현재가: 4,810, 거래량: 0"
+      },
+      {
+        "title": "#2 KR모터스 (+0.00%)",
+        "description": "현재가: 273, 거래량: 0"
+      },
+      {
+        "title": "#3 경방 (+0.00%)",
+        "description": "현재가: 7,600, 거래량: 0"
+      },
+      {
+        "title": "#4 삼양홀딩스 (+0.00%)",
+        "description": "현재가: 53,700, 거래량: 0"
+      },
+      {
+        "title": "#5 하이트진로 (+0.00%)",
+        "description": "현재가: 15,030, 거래량: 0"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 5억원",
+        "description": "현재가: 76, 거래량: 7,506,012주"
+      },
+      {
+        "title": "#2 KODEX 인버스 거래대금 10억원",
+        "description": "현재가: 944, 거래량: 1,140,732주"
+      },
+      {
+        "title": "#3 바이온 거래대금 0억원",
+        "description": "현재가: 32, 거래량: 201,003주"
+      },
+      {
+        "title": "#4 아이엠 거래대금 0억원",
+        "description": "현재가: 53, 거래량: 26,572주"
+      },
+      {
+        "title": "#5 KODEX SK하이닉스단일종목레버리지 거래대금 8억원",
+        "description": "현재가: 32,790, 거래량: 25,461주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 +779,922,922주 / 기관 +981,030,489주 / 개인 -1,733,559,187주",
+        "description": "직전 영업일(20260623) 순매수 수량"
+      },
+      {
+        "title": "KODEX 인버스 외국인 +6,045,004주 / 기관 +62,557,019주 / 개인 -66,106,366주",
+        "description": "직전 영업일(20260623) 순매수 수량"
+      },
+      {
+        "title": "바이온 외국인 -68,836주 / 기관 +0주 / 개인 +2,647,597주",
+        "description": "직전 영업일(20260623) 순매수 수량"
+      },
+      {
+        "title": "아이엠 외국인 -40,438주 / 기관 +0주 / 개인 +14,125주",
+        "description": "직전 영업일(20260623) 순매수 수량"
+      },
+      {
+        "title": "KODEX SK하이닉스단일종목레버리지 외국인 +5,861,079주 / 기관 -23,699,251주 / 개인 +17,013,069주",
+        "description": "직전 영업일(20260623) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.39 (+0.37%)",
+        "description": "전일종가 101.02 / 변동 +0.3700"
+      },
+      {
+        "title": "미국 10년물 금리: 4.49 (+0.94%)",
+        "description": "전일종가 4.45 / 변동 +0.0420"
+      },
+      {
+        "title": "VIX 변동성지수: 19.49 (+12.79%)",
+        "description": "전일종가 17.28 / 변동 +2.2100"
+      },
+      {
+        "title": "S&P 500: 7365.46 (-1.44%)",
+        "description": "전일종가 7472.79 / 변동 -107.3301"
+      },
+      {
+        "title": "나스닥100: 29347.27 (-3.29%)",
+        "description": "전일종가 30347.08 / 변동 -999.8066"
+      },
+      {
+        "title": "다우존스: 51666.84 (-0.09%)",
+        "description": "전일종가 51712.71 / 변동 -45.8711"
+      },
+      {
+        "title": "USD/KRW: 1530.57 (-0.55%)",
+        "description": "전일종가 1539.05 / 변동 -8.4801"
+      },
+      {
+        "title": "USD/JPY: 161.57 (-0.00%)",
+        "description": "전일종가 161.57 / 변동 -0.0020"
+      },
+      {
+        "title": "코스피: 9114.55 (+0.69%)",
+        "description": "전일종가 9052.42 / 변동 +62.1299"
+      },
+      {
+        "title": "코스닥: 968.40 (+0.19%)",
+        "description": "전일종가 966.59 / 변동 +1.8100"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.645 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.26 | GEX -1.2B$ (만기:2026-06-23)",
+        "description": "콜OI 191,345 / 풋OI 241,484 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.24 | GEX -0.8B$ (만기:2026-06-23)",
+        "description": "콜OI 88,593 / 풋OI 198,032 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $192.20 (-12.25%)",
+        "description": "거래량 42,714,223주 (평균대비 2.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $737.14 (-1.42%)",
+        "description": "거래량 3,983,116주 (평균대비 0.2x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 61.3% (122/199종목)",
+        "description": "평균 MA 대비 위치: +0.6%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 23/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-05-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-05-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 333.979",
+        "description": "Date: 2026-05-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 1.6",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.51",
+        "description": "Date: 2026-06-22, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.74조달러",
+        "description": "기준일: 2026-06-17 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.34조달러",
+        "description": "기준일: 2026-06-17 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 9565.02억달러",
+        "description": "기준일: 2026-06-17 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.06억달러",
+        "description": "기준일: 2026-06-23 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 265bp (2.65%)",
+        "description": "기준일: 2026-06-22 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 74bp (0.74%)",
+        "description": "기준일: 2026-06-22 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market Today: SpaceX Inches Up; Nasdaq, S&P 500 Fall as AI Fears Grow - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORU55eHdYdkt5V3pydzQ2aDlIQ1Z1RVJHSnNhTjU5YW0ydjZ3Rm9TT3hUZmh4NlBhN3FfMlFhSUQ0eDhqRTdaU1laNjAtUV9mZFQzd0xzQ2RJUHR3RWlyVjk2eW5EYmtfbzQzNTdadjYwWmpVSUJPYURGUm9HdjhUSFVVODBRNGc?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "FedEx sinks as trade policy whiplash weighs on results - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcmcwbFFzeUNndHJyN2xaWTE2YlZJbndhVkRZRVh6bklMOFpWTUhGR2pJN0dLaFA0b1MtamJKNm1TWElZVF9nNHoxOElfLXdRdVR6eUE2dk5ueEJXNGlVX25BZFZ0c2F0V0dCdzIzMS1RMWk0VUhHbHV1Rnk0NG9CMU9UeFByX0xOQWxLWnhQaVN2eHlFOUJBWjJJb0xFZDg4SVY3QzJOWGpFVVpaMGV3dw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "AI stock slump raises the question if investors are just taking profits or getting very nervous - Boston Herald",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jWGJ4M29wZ0l5ck13OFhXME02TUF4bWg2Rk42MjJzYlo0N2hfcGc0QUJzY2dYd0xheS1pZkh2Zm9kbm9LSlNNTXV4blFrWWVsTXhRZTFWMmdBX0h2QXhFbDN2OU9mclRza2JwbTEyNWtJYmpETWh4UEVR?oc=5",
+        "press": "Boston Herald"
+      },
+      {
+        "title": "Half of US states have put limits on prediction markets like Kalshi - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFdVSjNxTW4yT1E4TGxScThneHo4NDRqcUhNZDB2Q0ZpSlJ0YmxSQ3lKclBERzVZNkw0SWhFSW10TVJUTEJFV1dGMG1NMGk4VEp5bHFkLUJNSnBGQTVrRU1HRWtydGQxOGhYb2VicU1ucW14X2ZhV3NiS01YY0tMZ3VrYzE2MWQtMEdIR3dDZ1pSd0ttZndVZ1NJYURZTU9XQ0dIZjFuQTJfUVJ3akphRmxESXo0WVV0UUx3VFYtNXZpLWpEd01hcVZleExGSVVZR3c?oc=5",
+        "press": "USA Today"
+      },
+      {
+        "title": "Wall Street ends lower on semiconductor selloff as AI spending concerns mount - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQnlIcE1UTlduazdvRTZrdlV4TjhDcXNaOVNpbEJoRnRrd3VqdzJCcElQRVNvZXg1UU5IbVE1THNwXzJJTVB1MldQNFNpY0VwV0JOR0VhUk1idktydVlGN19XVHJkQjFtS3lHNUY4dnZNZXhJNUkxYXI1UnZIQ2xqMTNVNkhiaS1KWGpwaWNUN0pTUGF4OUE?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "S&P, Nasdaq end lower on semiconductor selloff as AI spending concerns mount By Reuters - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDRRSlU1QjZSWVVxak0zYXl6ZnJzQ1RLQl9aV3ZfeVQzN0pXbHFySEM1X1NmbW5ldHhDRXNyWlB3MFFncGwtNjNSUnFVRlBHZjZhT0szWVdQQk5kem9ZMWM1VUpPeEdfajZRc3g4Ym55UUplTFM1SGJra3hCQ00zUzdZR19wWThrZXZRRzQ4S2hUVEM5M205QVktRm8ya1lrb2JKdVRTTmFidlYy?oc=5",
+        "press": "Investing.com"
+      },
+      {
+        "title": "Stock market today: S&P 500, Nasdaq sink as AI trade cools off, semiconductor stocks retreat - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZUZuUlFGRTQwTHdXTlR1SnBwcURfOGdLd0FJbGw2ajduU1Qwb0RvUWxMZ1NOdm5ob3g2alZ4eTczdHdJQ3V4dWF3UUlJQnNRa2dqdFFHT1I4ak9BQi1SdEt0VTlDeVV4QXdPdEROQXVUc0ZNOFhzMGV4UG84N2FQcFlUYzBUSnJLS2NJOWMtSng3MnRYZTJDMVQ2amVyUHFPdFVpWXdSVGpscWxUUlMzaTJCdXNKWG93eTQxV0VnLWYwY0FfcW56b1F6aVAtd1VxSVFZeXFwTFhkQQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Is AI 'one big bubble'? Behind the tech sell-off - NPR",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdWU0VkdBSm4xdno0NjBPZDNmZlJ3dS02MVc4akhFVlpEalFDNXJoMzRQWmxaNnowWUxzM0w2N1RRZUVUUHFMZGprejR6Z2ltUkdYOE1Na3lfcVRNLVJOQzQ4c1puRUNSS1lLVndFV0lhNnFLZTNJYzB0Z2Y0YUVIRWZYd2NDdFQy?oc=5",
+        "press": "NPR"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "S&P 500 falls on global chip rout with Nasdaq off 2%, led by Micron: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9abTBDT1R4RFlQUHZoYkJ2TlYtV1dkNm1VOGdQUnBqc0ZiZGQ1Q3J6SVlTNzlBZER6ZlNTdHVHUVNkVzhRV2t3VlByTFlJWnJ1MnZjTDB2S0NkaFlXYUd0dlpiWUljcm92VGhsdEU2TS0wVVNsNFN30gF8QVVfeXFMT19qQ24zQl9pSUF4dTktMmx5aGV6Q0RONUlWV0I1ZTVfc1QwTjZXdWhMYmJ3Y2luNXFNWjlIWmw5bWMxZkVGbGlaWmNCOGZRWmxPYUp0S09SZk5wSHlfWkx4SzdxWjlqT1VvRDZMdmlCV290amp5bEE3VUJJOQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Should You Investigate SungEel HiTech Co., Ltd. (KOSDAQ:365340) At ₩43,050? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdVNERE85TlVfQ21qdWJoc0VxSW5vVzRJYl9UcGNnbGJhcURCbGVvMUVMbGtzN2FMSXhUZDV0TXJzeGVOYndNZlRnbVJsaFdBRzV2WXFDa1l4NEpkVEFYTHdxbXJVZGtEVmhUOF9kaXM2cHpwajJqeVBUZmp6d3BIMHBIY2xQNFpoYXJ4RlVXQ0RUaWFzcVBxYWFVVzZreVlnRGRRM0RxcDYwWU9BOFFZd3NFblBSdngzSjNHY1RtQXJXN2NsRzNSYkQ3Z3VhaTlhMGRuN210R00yTkFFT2xna01QenNDSjZwVGfSAe8BQVVfeXFMUFRWb01kSHViYjMwMzRMenBYM0xTc3pHZnl2QU0zTEhMM0lCUU1sY184ak5haU9kM1lQNWp5ZUZmMXF1MGNqbEtKcFlXOU9sSTlTMTdGNDAtanRMaGRUb1RSTGN5Q184Q2gwNm9LTV9sVlBNTmJwY2hwUm1rUDRzcnVXQlp1UDRKR2c1dm9tUTVubzh2MDRwMVNqQ012cldWN0dEaU1kR1RHR2tqYXNsN0xPV0VwcmdfVUI2MVRaUGJaakJSdjJkckRYXzZVVElCVFR6MDR6bWRGQ0xBZEJLVzNTQ01WVzA4V3VCeGJ3Ymc?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "KOSPI Surge Masks 70% Stock Decline - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOazdqX25aZDRMdnI3VDdTVEZjREliUWRXWGViQmFuVEJZdnVfYWdzclJVbzVsSlJweERrRnd4NDhsYkR3SXlIdmxGMlgyYnFqQzRnYXhsMXBWbGFMTDVFbkhlRmNEei16ZEVXUmtpUDBZSU5SOGpfR0wtVE9tbTRFdTJWcW04OXAyNGJEODhB?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Chip Rally Deepens KOSDAQ Biotech Slump - 마켓인",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RbE1KNjVQY0hCM1pOaFUzV1BJbzNrekZ3MVNwcXd3cDJhSTZfaVFSb0w1dFNEVXJacm1VQm13LW0yUm5pT0d1UE8tcHFRSW9wVjBCU0JJOUNScUN3cWd2bUNpM0t4SV9iSVR4Sk83RGlJU2c?oc=5",
+        "press": "마켓인"
+      },
+      {
+        "title": "Why Samsung Lost Its Market-Cap Crown to SK hynix - 한국금융신문",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1UOW9IQVdpNGprTnNyRU40aEVySW8wTTh6blVpUE9oODhGM2NMNThCZWQ4dVl0RXdyclU1eTFxVHh1OXpCM0k2SExDQVc5NGhycUw5OFU4NEdORG92ZE9YVFUwYkd0X0FpU09JeWNnV2o5OTJDd2o4aWRjR08?oc=5",
+        "press": "한국금융신문"
+      },
+      {
+        "title": "KB Securities sees SK hynix gain as Korea memory shortage lifts prices - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUDF3WnB2SG9BWHRUMHhQV0MxNlpka05NNy03bVZpOEk2ZHd4Z3dvZkRTQllfMFVfUm1VejZjdWFiMkNQU3NLWE5EeGtSbnJTNVpHdDNsQzk1cGNoM0ZxV3dXRjhyS2x0ZFlSMC16RFgzYnk1endLa2hkMW1Nd0ZkctIBlAFBVV95cUxQR3VSOHJleTloZFpvUUxkbUdGcThKVHBfcVRJNk8zWjc5eEZXQmtTLW03bXlyVWZPX2JpWmpQSEhJUnllMzlXUFpZYW8wdjk0bjEweXlCRTdGQ3NhTnZJb2duaEJXU01pNUNyaUswMmowQjdhN0U2cmVlM1d4aUdpRldsRlRqMjhFdE9ZSjFmcTBHczhu?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [
+      {
+        "title": "레버리지 ETF 급성장에 시장 경고음…블룸버그 \"韓 AI주 변동성 키워\"",
+        "url": "https://www.tjb.co.kr/news05/bodo/view/id/99907",
+        "press": "www.tjb.co.kr"
+      },
+      {
+        "title": "[증시 포인트] 하락 출발 전망...반발 매수세 유입도 기대",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=140494",
+        "press": "www.opinionnews.co.kr"
+      },
+      {
+        "title": "'마이크론 -13%' 美 냉기류에도 프리마켓 강보합…닉스·전자 소폭 반등",
+        "url": "https://n.news.naver.com/mnews/article/421/0009019993?sid=101",
+        "press": "www.news1.kr"
+      },
+      {
+        "title": "[증시 포인트] 하락 출발 전망...반발 매수세 유입도 기대",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=140494",
+        "press": "www.opinionnews.co.kr"
+      },
+      {
+        "title": "이녹스첨단소재, 본업 다각화+신사업 장착까지…\"역사적 최저점 밸류에...",
+        "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=263711",
+        "press": "www.financialpost.co.kr"
+      },
+      {
+        "title": "온로우, 강락근 대표 취임 ··· 차세대 인증·AI 보안 시장 강공",
+        "url": "https://www.datanet.co.kr/news/articleView.html?idxno=212526",
+        "press": "www.datanet.co.kr"
+      },
+      {
+        "title": "삼성전자서비스, 국가서비스대상 가전AS 부문 2년 연속 대상",
+        "url": "https://n.news.naver.com/mnews/article/421/0009020002?sid=101",
+        "press": "www.news1.kr"
+      },
+      {
+        "title": "與안도걸 “가상자산 2단계법 하반기 통과 목표”",
+        "url": "https://dealsite.co.kr/articles/164106",
+        "press": "dealsite.co.kr"
+      },
+      {
+        "title": "레버리지 ETF 급성장에 시장 경고음…블룸버그 \"韓 AI주 변동성 키워\"",
+        "url": "https://www.tjb.co.kr/news05/bodo/view/id/99907",
+        "press": "www.tjb.co.kr"
+      },
+      {
+        "title": "與안도걸 “가상자산 2단계법 하반기 통과 목표”",
+        "url": "https://dealsite.co.kr/articles/164106",
+        "press": "dealsite.co.kr"
+      },
+      {
+        "title": "레버리지 ETF 급성장에 시장 경고음…블룸버그 \"韓 AI주 변동성 키워\"",
+        "url": "https://www.tjb.co.kr/news05/bodo/view/id/99907",
+        "press": "www.tjb.co.kr"
+      },
+      {
+        "title": "KB증권 “SK하이닉스 급락은 MSCI 등 투심 위축”… 목표가 380만원 유지",
+        "url": "https://www.g-enews.com/view.php?ud=202606240758303049923c501012_1",
+        "press": "www.g-enews.com"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "U.S. HOUSE PASSES AFFORDABLE HOUSING BILL OVERWHELMINGLY: SENDS TO TRUMP FOR ENACTMENT [...](https:/",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "*SK HYNIX TO BEGIN U.S. ADR PROCESS, FILE ADR-LINKED SHARE SALE PLAN WITH SOUTH KOREA'S FSS: DAILY [",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "GERMAN RAILWAY OPERATOR DEUTSCHE BAHN: TRAIN RADIO GLITCH FIXED, SERVICE RESTARTING [...](https://x.",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "GERMAN RAILWAY OPERATOR DEUTSCHE BAHN: TRAIN RADIO GLITCH FIXED, SERVICE RESTARTING [...](https://x.",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "MAJORITY OF U.S. HOUSE BACKS BIPARTISAN BILL TO BOOST AFFORDABLE HOUSING CONSTRUCTION AMID SEVERE SH",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "AUSTRALIAN OIL COMPANY ADVANCES COST CUTS AND OPERATIONAL EFFICIENCIES, WITH REC BOARD WELLS SET TO ",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "TRUMP DEFENDED THE RELEASE OF FROZEN IRANIAN FUNDS, SAYING THE MONEY WOULD BE HELD IN ESCROW AND USE",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "GERMANY SET TO SCRAP PLANS TO BUILD ITS BIGGEST WARSHIP SINCE SECOND WORLD WAR – FT\n\n [...](https://",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}
