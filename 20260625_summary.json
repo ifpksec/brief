@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "generated_at": "2026-06-24T23:35:50.066709+00:00",
+    "run_date": "20260625"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 17,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 101.58,
+      "change": 0.17,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 18.63,
+      "change": -4.41,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7358.22,
+      "change": -0.1,
+      "insight": "전일종가 7365.46 / 변동 -7.2397",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29220.06,
+      "change": -0.43,
+      "insight": "전일종가 29347.27 / 변동 -127.2129",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51848.9,
+      "change": 0.35,
+      "insight": "전일종가 51666.84 / 변동 +182.0586",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1539.63,
+      "change": 0.29,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 161.78,
+      "change": 0.11,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    },
+    {
+      "name": "코스피",
+      "value": 8203.84,
+      "change": -9.99,
+      "insight": "국내 대형주 지수 (전일 종가 기준)",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "코스피 -9.99% 폭락하며 8200선으로 후퇴",
+      "tag": "Bearish"
+    },
+    {
+      "point": "고객예탁금 4.6조 급증하며 증시 대기 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "point": "원/달러 환율 1539원 돌파하며 원화 약세 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "마이크론 호실적에 따른 국내 반도체주 반등 기대",
+      "tag": "Bullish"
+    },
+    {
+      "point": "상장폐지 규정 강화로 인한 코스닥 하방 압력",
+      "tag": "Bearish"
+    },
+    {
+      "point": "주식 활동 계좌 1억 개 돌파하며 투자 열기 지속",
+      "tag": "Bullish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "공포탐욕지수 17점, 극단적 공포에 따른 패닉 셀",
+      "tag": "Bearish"
+    },
+    {
+      "point": "기술주 매도세 재개되며 나스닥 0.43% 하락",
+      "tag": "Bearish"
+    },
+    {
+      "point": "QQQ PCR 2.01로 하방 압력 및 변동성 확대",
+      "tag": "Bearish"
+    },
+    {
+      "point": "SPY-IEF 높은 상관관계로 시스템 리스크 우려",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미국 하이일드 스프레드 271bp로 신용 안정 유지",
+      "tag": "Bullish"
+    },
+    {
+      "point": "연준 자산 축소 및 지급준비금 감소세 지속",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "KB증권, 메모리 호황에 삼성전자 목표가 55만원 상향",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX29JMUZZMm5QMWRkRFUzUGk1MW96d3JoZlppMkhqdkhRV2dxcmd2MzRfc3VJZ1FJaEU5VndaeVRyOWV4NGdMSXNwSl8xdHlGZjJQMnV3NFQyZDgzVUM2RkpueDlLSEZCcGhJSjFwbmlMQmwtTWpjemZKVGR4MC1QatIBlAFBVV95cUxQLUZwajlMM2lMYUtrd2E0d0s0bWlseVNaUW9oRy13cXprdlFwR2V6bEtuOTdhS01sbnFRWmM1Z2F5R0RDZGhLM0ZjYllmOVdNYTlMWFdWWlJtcnM5M05VNXlxNlltdmNaZlpyOWJ5S1MxTWVDR0V1WTk5dk11T3R1Y3RfWEMxbGFGbG5oVWhXaUZtT0xI?oc=5",
+      "press": "CHOSUNBIZ",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "마이크론 깜짝 실적에 삼성전자·SK하이닉스 청신호",
+      "url": "https://www.techm.kr/news/articleView.html?idxno=152879",
+      "press": "테크M",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 불장에 투자 열풍…주식 활동 계좌 1억개 넘어",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=711020",
+      "press": "컨슈머타임스",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "환율 1530~1545원 예상, 연준 금리 인상 베팅 영향",
+      "url": "https://www.newspim.com/news/view/20260625000104",
+      "press": "뉴스핌",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "강환국, 코스피 1만 포인트 돌파 가능성 전망",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcmwxQUpJSjUwS1V5bjNQMERhVXV4dWh1SHRWcTN6dTRVMXlVeWNDS2c0OXZRbEJmSDNLVjhFZDd0SnBiOWZaeFVMRE5lZ3R1dVBGTW5vY2NPeXdDQldWZUZiVi1sTzhsbW00RldWTk5XcThhaEp2STkwSkk2czBSUDE0T1RXT1BRTUJfOExn?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스닥 동전주 상장폐지 규정 강화 우려에 소외",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTZ4V1UtYzN5V0RjdUtod2lMTmJmcXp3OHVxV2ItamNWU0U5enFwMVJvLVFDeV9LaE5pMFBQc0g2QThfWlBiSWM3Z21KRmdkcUw1N1VkYWpsYndmUk1EemV5RVlqaTB3dnVwZHJuXzhsTHpxeVc4RTd0dEhmS2ZIMEZubGRKYW0yR1Q3OWEzaV9VUUdIMEV5RFhiQTJaMS1EME5QMlhCSnN2SFU?oc=5",
+      "press": "디지털투데이",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "중국 DRAM 1위 CXMT 상장 임박, 메모리 투자 변수",
+      "url": "http://www.metroseoul.co.kr/article/20260625500037",
+      "press": "메트로신문",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "SK하이닉스 프리마켓서 마이크론 훈풍에 10% 급등",
+      "url": "https://n.news.naver.com/mnews/article/029/0003033611?sid=101",
+      "press": "디지털타임스",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "마이크론, 실적 호조에 시간외 거래 12% 이상 급등",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVTQyeF9qV1VmRHREd2llck5IcXlOU2czVXRDdGtiQXl2MkxfR1B0alZjVko5a2MwXzBZakZvMG9FWXRXcVdIUFpuZk84YmE3d1hXT0hQeVdBbWt6OHJMQmR6Wm5NdGRhT2xZMURIZzJDakszNVliVERMNGphbVBfbi1kMXNZeXA2aWRHRDFzUVVXZzdvWE9sbm5WSmVlUi04UEE2TDF3Z1pucVBLNzBYX0pCNWl5VkxGTG5VOEZ3STF6MmowUVctczRDeGN1SG9GX3pOVlV1dHBxX0xjaWxYa1hLYW8?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "반도체주 매도세 재개에 나스닥 하락, 마이크론 손실 확대",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtYnZuUFdLRFE1bkQwQk5wZVlkdjNrN2pfbEhoUUxZMHd6c0tUNkxyTW9CRFhsbklTTzAxZUhMVEpYTjNhSG04TlJGU2VkWHFmOFExdnphUmJZYjhIVXp1NlN2NklneHg5RDRDbG1rLW5TWGlnM3I40gF8QVVfeXFMT0pScGYwaUVieUgxOHpSUHNYb0xBNmQzclF1ZXVUcjlLR2VRNnJ0WlExblJBajd4N3JabEY5SmR1THlkYnlhN0I0UFBpalE1ME13SkJ2NXNlQmdjc2dkalVyU3c2Q2thTmxEeGlXZHRDV2hsako4aFpTQnhqWg?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "SK하이닉스, AI 수요 급증 속 290억 달러 규모 미국 상장 추진",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcHZpd3FfSXFqZWF1UlNscmxPUVJtSEhLMTNxNjhUYktCaWRWbmRjUzNGSzRKWEE5MklCWGU4cm8zN1RGeEhTWTgyV0pXR2ZVMFVUMXhWczFkNTRXTjlUU2ltLWFMbG9PbGhOdUNVRktKNXVOMVFDbnk5RkdXSnVEM01id1pNZDc2dWFPQkQ3OFRmYXZtbmNRQTdkdDNMbXN4d1FwRTVOTndDUjJpZ3c?oc=5",
+      "press": "Reuters",
+      "source": "international"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "한국 IPO 시장 부진, 재벌 구조가 상장의 걸림돌",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMVNPNG56bmMyMnlhNHMyV2JxUVU3TzB0UlVVRDZOQ0NCcldvTjN1d2pQaFE2Z09RNXFFRW4xbFgyRkU1R3VpZW9JLWRlRm5zblg3YnpJY0ZTY2VjUklRVTE5bkVOcVZWM2JDZzdLaTJvTFNiUUpEak4zanJDRmJZSGJzOFp3MTTSAYwBQVVfeXFMT0hzblZ6TG9WYU83T0FNN1pvbFh6Q1NkZENZdFI1U3ZydmpOenlwRzBXWkpXLXg4cXNxOUhLUy05dmQyMFhPS054dklkSzJiWk16X2p5MmJnVUhmMXFqNkVFZlFVWFlGS1dkQmlxYlo5NTlNUkJZODRsNzV6Mnc3TnIyazRMM3l3REFiNDE?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "AI 불안감 재확산에 S&P 500 및 나스닥 하락",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQODhqa3NjT3Fja0p4emN0SGtZMDQ0c1dhcmgwWGFnYlRYOEpiYXpHVURZdHk4VUpPMHRrNGREOUVCVTRSZ1o1X2JGYVhnMFFDdGZMd2prSG5OQlJBR2hobkVISTgtTUxkYWhMZTRpXzZHS2xpRXBCbXNEV3djMFc4THEwYWh6Tnk1YnZJOGhlMklLbjBfcmhBN1Fmb0xCWVhSajNfeHA0LV9RVFNma1RaZFhFNlJNbjA2RkNZeGdqaHI3OTVvaEVhODg3NHVkbjFXMklYa0V6OFdxb3Vf?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "트럼프, NATO에 충성 요구 및 이란 전쟁 지원 부족 비판",
+      "url": "https://x.com/financialjuice",
+      "press": "Telegram",
+      "source": "telegram"
+    }
+  ]
+}

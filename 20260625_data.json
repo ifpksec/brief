@@ -1,0 +1,385 @@
+{
+  "meta": {
+    "generated_at": "2026-06-24T23:35:50.065299+00:00",
+    "run_date": "20260625"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [
+      {
+        "title": "고객예탁금: 1,368,314억원 (+46,456억원)",
+        "description": "신용융자잔고: 380,936억원"
+      }
+    ],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 +189,327백만원 (차익 +146,304 / 비차익 +43,023)",
+        "description": "기준일: 20260625"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 동화약품 (+0.00%)",
+        "description": "현재가: 4,970, 거래량: 0"
+      },
+      {
+        "title": "#2 KR모터스 (+0.00%)",
+        "description": "현재가: 285, 거래량: 0"
+      },
+      {
+        "title": "#3 경방 (+0.00%)",
+        "description": "현재가: 7,720, 거래량: 0"
+      },
+      {
+        "title": "#4 삼양홀딩스 (+0.00%)",
+        "description": "현재가: 52,800, 거래량: 0"
+      },
+      {
+        "title": "#5 하이트진로 (+0.00%)",
+        "description": "현재가: 14,690, 거래량: 0"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 노블엠앤비 거래대금 0억원",
+        "description": "현재가: 21, 거래량: 33,609주"
+      },
+      {
+        "title": "#2 방림 거래대금 0억원",
+        "description": "현재가: 5,060, 거래량: 17,800주"
+      },
+      {
+        "title": "#3 부국철강 거래대금 0억원",
+        "description": "현재가: 3,455, 거래량: 12,994주"
+      },
+      {
+        "title": "#4 모헨즈 거래대금 0억원",
+        "description": "현재가: 5,570, 거래량: 11,914주"
+      },
+      {
+        "title": "#5 HB테크놀러지 거래대금 0억원",
+        "description": "현재가: 2,440, 거래량: 10,000주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "노블엠앤비 외국인 +345,158주 / 기관 +0주 / 개인 -345,158주",
+        "description": "직전 영업일(20260624) 순매수 수량"
+      },
+      {
+        "title": "방림 외국인 -38,368주 / 기관 -5,350주 / 개인 +27,662주",
+        "description": "직전 영업일(20260624) 순매수 수량"
+      },
+      {
+        "title": "부국철강 외국인 +173,594주 / 기관 -5,659주 / 개인 -166,153주",
+        "description": "직전 영업일(20260624) 순매수 수량"
+      },
+      {
+        "title": "모헨즈 외국인 -54,929주 / 기관 +3,248주 / 개인 +55,086주",
+        "description": "직전 영업일(20260624) 순매수 수량"
+      },
+      {
+        "title": "HB테크놀러지 외국인 +217,030주 / 기관 -35주 / 개인 -216,995주",
+        "description": "직전 영업일(20260624) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.58 (+0.17%)",
+        "description": "전일종가 101.41 / 변동 +0.1740"
+      },
+      {
+        "title": "VIX 변동성지수: 18.63 (-4.41%)",
+        "description": "전일종가 19.49 / 변동 -0.8600"
+      },
+      {
+        "title": "S&P 500: 7358.22 (-0.10%)",
+        "description": "전일종가 7365.46 / 변동 -7.2397"
+      },
+      {
+        "title": "나스닥100: 29220.06 (-0.43%)",
+        "description": "전일종가 29347.27 / 변동 -127.2129"
+      },
+      {
+        "title": "다우존스: 51848.90 (+0.35%)",
+        "description": "전일종가 51666.84 / 변동 +182.0586"
+      },
+      {
+        "title": "USD/KRW: 1539.63 (+0.29%)",
+        "description": "전일종가 1535.25 / 변동 +4.3800"
+      },
+      {
+        "title": "USD/JPY: 161.78 (+0.11%)",
+        "description": "전일종가 161.60 / 변동 +0.1790"
+      },
+      {
+        "title": "코스피: 8203.84 (-9.99%)",
+        "description": "전일종가 9114.55 / 변동 -910.7100"
+      },
+      {
+        "title": "코스닥: 891.52 (-7.94%)",
+        "description": "전일종가 968.40 / 변동 -76.8800"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.578 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.99 | GEX -0.1B$ (만기:2026-06-24)",
+        "description": "콜OI 173,483 / 풋OI 172,179 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.01 | GEX -2.1B$ (만기:2026-06-24)",
+        "description": "콜OI 128,653 / 풋OI 258,155 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $197.26 (+2.63%)",
+        "description": "거래량 19,900,800주 (평균대비 0.9x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $736.66 (-0.07%)",
+        "description": "거래량 8,688,289주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 65.3% (130/199종목)",
+        "description": "평균 MA 대비 위치: +1.4%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 17/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-05-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-05-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 333.979",
+        "description": "Date: 2026-05-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 1.6",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.5",
+        "description": "Date: 2026-06-23, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.74조달러",
+        "description": "기준일: 2026-06-17 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.34조달러",
+        "description": "기준일: 2026-06-17 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 9565.02억달러",
+        "description": "기준일: 2026-06-17 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.05억달러",
+        "description": "기준일: 2026-06-24 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 271bp (2.71%)",
+        "description": "기준일: 2026-06-23 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 74bp (0.74%)",
+        "description": "기준일: 2026-06-23 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Nasdaq closes lower as chip sell-off resumes; Micron shares extend losses - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtYnZuUFdLRFE1bkQwQk5wZVlkdjNrN2pfbEhoUUxZMHd6c0tUNkxyTW9CRFhsbklTTzAxZUhMVEpYTjNhSG04TlJGU2VkWHFmOFExdnphUmJZYjhIVXp1NlN2NklneHg5RDRDbG1rLW5TWGlnM3I40gF8QVVfeXFMT0pScGYwaUVieUgxOHpSUHNYb0xBNmQzclF1ZXVUcjlLR2VRNnJ0WlExblJBajd4N3JabEY5SmR1THlkYnlhN0I0UFBpalE1ME13SkJ2NXNlQmdjc2dkalVyU3c2Q2thTmxEeGlXZHRDV2hsako4aFpTQnhqWg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: Dow rises, S&P 500 and Nasdaq slip as AI jitters return ahead of Micron earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQODhqa3NjT3Fja0p4emN0SGtZMDQ0c1dhcmgwWGFnYlRYOEpiYXpHVURZdHk4VUpPMHRrNGREOUVCVTRSZ1o1X2JGYVhnMFFDdGZMd2prSG5OQlJBR2hobkVISTgtTUxkYWhMZTRpXzZHS2xpRXBCbXNEV3djMFc4THEwYWh6Tnk1YnZJOGhlMklLbjBfcmhBN1Fmb0xCWVhSajNfeHA0LV9RVFNma1RaZFhFNlJNbjA2RkNZeGdqaHI3OTVvaEVhODg3NHVkbjFXMklYa0V6OFdxb3Vf?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "South Korea’s IPO bust clouds equity markets as Chaebol structure restrains listings - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMVNPNG56bmMyMnlhNHMyV2JxUVU3TzB0UlVVRDZOQ0NCcldvTjN1d2pQaFE2Z09RNXFFRW4xbFgyRkU1R3VpZW9JLWRlRm5zblg3YnpJY0ZTY2VjUklRVTE5bkVOcVZWM2JDZzdLaTJvTFNiUUpEak4zanJDRmJZSGJzOFp3MTTSAYwBQVVfeXFMT0hzblZ6TG9WYU83T0FNN1pvbFh6Q1NkZENZdFI1U3ZydmpOenlwRzBXWkpXLXg4cXNxOUhLUy05dmQyMFhPS054dklkSzJiWk16X2p5MmJnVUhmMXFqNkVFZlFVWFlGS1dkQmlxYlo5NTlNUkJZODRsNzV6Mnc3TnIyazRMM3l3REFiNDE?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "SK Hynix targets $29 billion US listing as AI demand surges - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcHZpd3FfSXFqZWF1UlNscmxPUVJtSEhLMTNxNjhUYktCaWRWbmRjUzNGSzRKWEE5MklCWGU4cm8zN1RGeEhTWTgyV0pXR2ZVMFVUMXhWczFkNTRXTjlUU2ltLWFMbG9PbGhOdUNVRktKNXVOMVFDbnk5RkdXSnVEM01id1pNZDc2dWFPQkQ3OFRmYXZtbmNRQTdkdDNMbXN4d1FwRTVOTndDUjJpZ3c?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Nasdaq closes lower as chip sell-off resumes; Micron shares extend losses - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAtYnZuUFdLRFE1bkQwQk5wZVlkdjNrN2pfbEhoUUxZMHd6c0tUNkxyTW9CRFhsbklTTzAxZUhMVEpYTjNhSG04TlJGU2VkWHFmOFExdnphUmJZYjhIVXp1NlN2NklneHg5RDRDbG1rLW5TWGlnM3I40gF8QVVfeXFMT0pScGYwaUVieUgxOHpSUHNYb0xBNmQzclF1ZXVUcjlLR2VRNnJ0WlExblJBajd4N3JabEY5SmR1THlkYnlhN0I0UFBpalE1ME13SkJ2NXNlQmdjc2dkalVyU3c2Q2thTmxEeGlXZHRDV2hsako4aFpTQnhqWg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Tech stocks live: Semiconductor stocks resume sell-off ahead of Micron earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVS1MWGhtczI5Qmdobl9WZUtyTXoxRGJXM055RllBNEVUTzZzNklaNFFJck4zUmhYT1NmLVRNeWE3bEdKWnU3M1E5c0lOd1JjNWxzQ0VBbVFaRFFZaE5fa2l4ZHQ1V3R0djdMQVlzd0dFazIwNDZJUzhabmxVSnZsRnVIZ1pGRFFXVEYwRG1uQnJxdmhlTkVmUTZOSXFfcjIwV3Vid2xLbnRQdU1FMUhDTVRCcGZoQjJyMUF1aWxxc0NHcHJlNTlVWk5LSEJVWExE?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Tech stocks live: Micron stock jumps over 12% on earnings beat after tumbling earlier this week - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVTQyeF9qV1VmRHREd2llck5IcXlOU2czVXRDdGtiQXl2MkxfR1B0alZjVko5a2MwXzBZakZvMG9FWXRXcVdIUFpuZk84YmE3d1hXT0hQeVdBbWt6OHJMQmR6Wm5NdGRhT2xZMURIZzJDakszNVliVERMNGphbVBfbi1kMXNZeXA2aWRHRDFzUVVXZzdvWE9sbm5WSmVlUi04UEE2TDF3Z1pucVBLNzBYX0pCNWl5VkxGTG5VOEZ3STF6MmowUVctczRDeGN1SG9GX3pOVlV1dHBxX0xjaWxYa1hLYW8?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Barclays upgrades Pakistan's sovereign debt to 'overweight' on improved oil market outlook: report - Dawn",
+        "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2WXRFa1Rob0htU0ZQNnJma3hpU0wySTlWRFd0MDFxdXFuby1EOU92N2tSTTVuUDJzMGtpWGlmUFNqTENYSUdiNw?oc=5",
+        "press": "Dawn"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Kang Hwan-guk Predicts KOSPI 10,000-point Breakthrough - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcmwxQUpJSjUwS1V5bjNQMERhVXV4dWh1SHRWcTN6dTRVMXlVeWNDS2c0OXZRbEJmSDNLVjhFZDd0SnBiOWZaeFVMRE5lZ3R1dVBGTW5vY2NPeXdDQldWZUZiVi1sTzhsbW00RldWTk5XcThhaEp2STkwSkk2czBSUDE0T1RXT1BRTUJfOExn?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "KOSDAQ left behind as penny stock delisting rules loom - 디지털투데이",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTZ4V1UtYzN5V0RjdUtod2lMTmJmcXp3OHVxV2ItamNWU0U5enFwMVJvLVFDeV9LaE5pMFBQc0g2QThfWlBiSWM3Z21KRmdkcUw1N1VkYWpsYndmUk1EemV5RVlqaTB3dnVwZHJuXzhsTHpxeVc4RTd0dEhmS2ZIMEZubGRKYW0yR1Q3OWEzaV9VUUdIMEV5RFhiQTJaMS1EME5QMlhCSnN2SFU?oc=5",
+        "press": "디지털투데이"
+      },
+      {
+        "title": "KB Securities hails memory boom, lifts Samsung Electronics target to 550,000 won - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX29JMUZZMm5QMWRkRFUzUGk1MW96d3JoZlppMkhqdkhRV2dxcmd2MzRfc3VJZ1FJaEU5VndaeVRyOWV4NGdMSXNwSl8xdHlGZjJQMnV3NFQyZDgzVUM2RkpueDlLSEZCcGhJSjFwbmlMQmwtTWpjemZKVGR4MC1QatIBlAFBVV95cUxQLUZwajlMM2lMYUtrd2E0d0s0bWlseVNaUW9oRy13cXprdlFwR2V6bEtuOTdhS01sbnFRWmM1Z2F5R0RDZGhLM0ZjYllmOVdNYTlMWFdWWlJtcnM5M05VNXlxNlltdmNaZlpyOWJ5S1MxTWVDR0V1WTk5dk11T3R1Y3RfWEMxbGFGbG5oVWhXaUZtT0xI?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [
+      {
+        "title": "코스피 불장에 투자 열풍…주식 활동 계좌 1억개 넘어",
+        "url": "https://www.cstimes.com/news/articleView.html?idxno=711020",
+        "press": "www.cstimes.com"
+      },
+      {
+        "title": "SK하닉 10%·삼전 5%…프리마켓 마이크론 ‘훈풍’",
+        "url": "https://n.news.naver.com/mnews/article/029/0003033611?sid=101",
+        "press": "www.dt.co.kr"
+      },
+      {
+        "title": "[모닝 리포트] 앞서간 연준 인상 베팅…환율 1530~1545원 예상",
+        "url": "https://www.newspim.com/news/view/20260625000104",
+        "press": "www.newspim.com"
+      },
+      {
+        "title": "이에스티, 코스닥 상장예심 청구…기술특례 IPO 본격화",
+        "url": "https://n.news.naver.com/mnews/article/018/0006314280?sid=101",
+        "press": "www.edaily.co.kr"
+      },
+      {
+        "title": "[IB탈탈털기] 피노텍 '85억 수혈'의 이면…완전자본잠식에도 전환 후 과...",
+        "url": "http://www.newsworker.co.kr/news/articleView.html?idxno=433025",
+        "press": "www.newsworker.co.kr"
+      },
+      {
+        "title": "[모닝 리포트] 앞서간 연준 인상 베팅…환율 1530~1545원 예상",
+        "url": "https://www.newspim.com/news/view/20260625000104",
+        "press": "www.newspim.com"
+      },
+      {
+        "title": "마이크론, 5월 분기 '깜짝실적'...삼성전자·SK하이닉스 '청신호'",
+        "url": "https://www.techm.kr/news/articleView.html?idxno=152879",
+        "press": "www.techm.kr"
+      },
+      {
+        "title": "中 DRAM 1위 CXMT 상장 임박…메모리 투자 새 변수 -신한證",
+        "url": "http://www.metroseoul.co.kr/article/20260625500037",
+        "press": "www.metroseoul.co.kr"
+      },
+      {
+        "title": "갤럭시Z폴드8 울트라, 화면 해상도 대폭 향상 전망",
+        "url": "https://n.news.naver.com/mnews/article/092/0002427952?sid=105",
+        "press": "zdnet.co.kr"
+      },
+      {
+        "title": "현대차증권 \"2028년까지 메모리 공급 부족…SK하이닉스 TP 330만원 상향\"",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4421740",
+        "press": "news.einfomax.co.kr"
+      },
+      {
+        "title": "[만평] 김장호 경북 구미시장 \"반도체 증설 공장은 물과 전기, 부지가 있...",
+        "url": "https://n.news.naver.com/mnews/article/657/0000052730?sid=101",
+        "press": "dgmbc.com"
+      },
+      {
+        "title": "이재용 삼성전자 회장, 이재명 대통령과 비공개 회동",
+        "url": "https://www.cstimes.com/news/articleView.html?idxno=711019",
+        "press": "www.cstimes.com"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "TRUMP DEMANDS ‘LOYALTY’ FROM NATO ALLIES AND SLAMS LACK OF SUPPORT IN IRAN WAR – FT\n\n [...](https://",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "US TSUNAMI WARNING SYSTEM: VENEZUELA QUAKE ADVISORY CANCELED FOR PUERTO RICO, U.S. VIRGIN ISLANDS AN",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "U.S. TSUNAMI WARNING SYSTEM: VENEZUELA QUAKE NO LONGER POSES TSUNAMI THREAT [...](https://x.com/fina",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "UK CAR PRODUCTION ROSE 3.2% TO 49,249 UNITS IN MAY, COMMERCIAL VEHICLE OUTPUT DROPPED 7.6%: SMMT [..",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "UK VEHICLE OUTPUT CLIMBS 2.7% IN MAY TO 51,178 UNITS: SMMT [...](https://x.com/financialjuice/status",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "*TSUNAMI WARNING CENTER SAYS WAVES COULD HIT VENEZUELA COAST [...](https://x.com/diegobloomberg/stat",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "U.S. TSUNAMI WARNING SYSTEM: NO ALERT, ADVISORY, WATCH, OR THREAT FOLLOWING JAPAN QUAKE [...](https:",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "A MAGNITUDE 6.9 EARTHQUAKE STRUCK OFF THE COAST OF IWATE PREFECTURE NEAR THE EAST COAST OF HONSHU, A",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}
