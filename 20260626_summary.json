@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "generated_at": "2026-06-25T23:36:55.259788+00:00",
+    "run_date": "20260626"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 12,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 101.44,
+      "change": -0.17,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 18.89,
+      "change": 1.4,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7357.49,
+      "change": -0.01,
+      "insight": "전일종가 7358.22 / 변동 -0.7300",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29440.32,
+      "change": 0.75,
+      "insight": "전일종가 29220.06 / 변동 +220.2617",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51920.62,
+      "change": 0.14,
+      "insight": "전일종가 51848.90 / 변동 +71.7227",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1542.76,
+      "change": 0.49,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 161.8,
+      "change": 0.02,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    },
+    {
+      "name": "코스피",
+      "value": 8471.02,
+      "change": 3.26,
+      "insight": "국내 대형주 지수 (전일 종가 기준)",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "SK하이닉스 등 AI 반도체주 강세로 코스피 지수 3% 이상 급등",
+      "tag": "Bullish"
+    },
+    {
+      "point": "고객예탁금 감소세 지속 및 외국인 셀코리아 기조 유지",
+      "tag": "Bearish"
+    },
+    {
+      "point": "원/달러 환율 1,540원대 돌파, 글로벌 매크로 환경 악화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "기관 ETF 수급상 한국물 선호도 상승세 관찰",
+      "tag": "Bullish"
+    },
+    {
+      "point": "삼성전자·SK하이닉스 등 대형주 중심의 분기 실적 기대감 고조",
+      "tag": "Bullish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "애플 주가 하락 여파로 나스닥 4일 연속 하락세",
+      "tag": "Bearish"
+    },
+    {
+      "point": "마이크론 호실적에도 불구하고 기술주 전반의 조정 압력 강화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "변동성 지수(VIX) 상승 및 극단적 공포 심리 유지",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미국 고용지표 및 인플레이션 압력 등 매크로 불확실성 지속",
+      "tag": "Neutral"
+    },
+    {
+      "point": "폴스타의 미국 시장 철수 결정 등 산업계 재편 가속화",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "SK하이닉스 주가 11% 급등, AI 반도체주 관심 집중",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb01wajJ5MF9oYjdJR3hTZnlIQTlUNDRHaWIxLVQxZEZXbnVjdHM3Z0dtZWZkVDAwb1JnQkVGZWZRUG9Jcmpzd1N4b292cHJXWmpvZE9CX0o4eGNqNHpUa2s3YlgzWG1vYS0ySF9waWRuTXZQa2hKOU1ONl9xWVUyVEZXeTdvT1k5OGNnbzZoRE11V2U3eTRUZXY4bENfWEFvVFJYVnZWVmFlWi1LX3doXzItTFNMd3NBN3lseFFmVmh0aHdiSXU1ZE1xZGRYd3NQdzc5Rm1kNWNLUU10NnZz0gHkAUFVX3lxTE1XNjRwWmJwbC1Nbmh4eFltRTk4UmMycWhiMi1SazMtaWlJbkh0MUNDTWZLZWJSN3htQTJ0NDRUUVJXNGQ0ZW5oaXpRb3hvbEJYRmFBNWEzZEc3TXBtWGdVcU03TUJnQ19maTBtUHNpaU9fRW1TTDhsYmtvVnNKQjVfbXpHT2lGS24xQmxlUm1aU2NtdGFvTm1samhuQlhnZ0p1ZExxTGxuRTRZWFcyVlJhSWFvUkwxSzhSQVowQWNqSXh2enVhTHcwR0IwWTVsM3hvYXYtZ014QVgwUHlESFRjLXg2MA?oc=5",
+      "press": "simplywall.st",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성·SK하이닉스, 2분기 영업이익 150조 원 전망",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc3FPSTZSOG1BTjFuZzZBaFROWDQ1dnFkQmcwN2l6MU4zWDRUci1Sa01nRXo0blowSkFLaXQzNVJfVlVMbFgxaUpjRkZoYUNWTHh4SHVEWHQyQV85czV3c2RXS0Ywb0Nscjl0NDdkd1lkbWhGYVIxdDBpakxiaFlFYzhMVUJlYzRk?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "네이버, 대화형 검색 'AI 탭' 출시",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYXJubkRyZnM2T0ZXMXZnV2xKeHR0UGF4Ukhvd09SNEJNbVpkS3pGRXJJbDVxT1hVNkNDQko3Q1JQWkxtRXVNRkFNNVdDQ0YzOXBOejhhVElXd0hlY3hSR1NSMG8yQzh2MXhjZ1ctaTEtNUw5UXlmSllPTmUtTGFSbEFXMWFvOXNw?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "외국인 5개월째 '셀코리아'…보유 한국주식 평가액은 두 배",
+      "url": "https://www.raonnews.com/news/article.html?no=59089",
+      "press": "라온뉴스",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "값싼 AI 뒤의 비싼 전쟁…빅테크의 승부수",
+      "url": "https://n.news.naver.com/mnews/article/448/0000622354?sid=004",
+      "press": "TV조선",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "삼성전자 감사 페스티벌 종료 9일 전, 막판 수요 집중",
+      "url": "https://www.ajunews.com/view/20260626082955734",
+      "press": "아주경제",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "나스닥 4일 연속 하락, 애플 약세가 마이크론 호실적 상쇄",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBybXVXek5NVzgzZUpoRWliLXJTN2FqTElKVWczTV9qa25BZlVVZE5pcFRCbzBKVjFfU0pKc2pkOE43S0R4UFJScFB3MVYwSHN4Y1dKbkRpTWRKc1ZXVFFza1hPbzlCSEZqWG4xRXdYVnlIVzBDRDhZ0gF8QVVfeXFMTzE1RmZFSno3UWtmTF9LU0ZsajUtSUFfWjRVSmVFa3J4VEZpc0VCNDhOUk5hQVhYT2tVNzU2dVFzdVhiQ1dkQlJ3OTJsSjlGRnFSd2x1clNQYzBVZWFwa1Z0X1VLWVJTTzFnSXlRQS1zcnFXNE9vYjZfM2ZrWA?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "다우 상승, S&P500·나스닥 하락…기술주 약세",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNzNyeGNRbGtKNWJUOS1Hc3EzbnVKdC1nRjM3RF9hMHlnQk9DcmRtUWYxcjR4WjhQWXYwaDJKaHZXRW1QZDJPV3dEZ3pqbGE2Ukw1bzhPWklzZWl1YXlCMFR5REk4cGhBSTRFdzFhZzU1NmdBeVFCUm9ablpOamxpalRTRkNMQkZZQlR2akg5SkFNVDY3UEo0S2JKYU5iMExyTG54RVpSMGZYWFFfRkVWSEpzeWN5c3RXdGFuSk5YZWVhR0I3YW1nUFdweXd0VW9xa09Yc1hReVZJWG9FT3VGSUJn?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "온세미컨덕터, 피지컬 AI 강화 위해 시냅틱스 70억 달러 인수",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIbElaaWZlRDNuZ2hrSnU5cTVrcjduamt1SWRDb1VhUmt5c3lFa0dDWWJwVXBMeHFHTndiZ2s0UmZLblRERG04b3M2V3o3ZXVtZXE5SFlFUjZXcFU1Q3EteURPMXNadHhFSm01YlNHOVN4cnRfZFE3M1d1Y9IBgAFBVV95cUxNc3VMcElMaUdCdXFrV1ZURnJ4WVZHckdlVFd0TkdTNzZsUnFiV1Y4bEI1VW45OGVCMEI2b1g1XzY1NFA2RGN1aWg5Ry1QSUVvM090ZlcwRW5MZzdvM0JvMXJyWkZVUld5SU1GWlFlWjNNSXVockVVVmRMZVduUjBKVw?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "폴스타, 2027년 미국 시장 철수 예정",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05LWs3SkNkRm9MSTdnRngycDNVeGRWSjZxZ3lJR3lMVzI2RTRubHBzQXdTVmRnamtNa1VaUWZOT1puVjZiZWJCQldROTZNSjJ6QmN1dFhmTHFhVHNfTUJBeG0wSHI5Z2pSZWcyWWpYcGxodw?oc=5",
+      "press": "MotorTrend",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "폴스타, 커넥티드 차량 기술 규제 여파로 미국 시장 철수",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeGFURElyWlViNkJTQTFBUy1LNzRkQVV6alFpNU5ETmtRaEdWY1RfRjk4d1FPQ1JtTnRDRUc2elE3Q3oxSHRnRXY2Q1BYZHJyZkRvM0x1Y0dweVp4Vi1ySVVVRjMxQU0taVRVdV9FLW40cjJWUnVRNVJqeG9uV09HaDVBMVJoMVJUX0JKcWtBVzdiY3QwZGJfS2xJN3FwUHd1MlV2bmVXOTlQSXdCLUh0eEE1RjI5UmFGd3Vubm1BUS1QOTR0X0ZuNmx5X1FveXlNQVIyUUZmUTZraE11YTJv?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    }
+  ]
+}
