@@ -1,0 +1,380 @@
+{
+  "meta": {
+    "generated_at": "2026-06-26T23:36:56.588836+00:00",
+    "run_date": "20260627"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [
+      {
+        "title": "#1 금호전기 (+30.00%)",
+        "description": "현재가: 845, 거래량: 10,609,560"
+      },
+      {
+        "title": "#2 금호건설 (+30.00%)",
+        "description": "현재가: 6,630, 거래량: 9,084,096"
+      },
+      {
+        "title": "#3 광주신세계 (+29.98%)",
+        "description": "현재가: 52,900, 거래량: 2,856,213"
+      },
+      {
+        "title": "#4 금호건설우 (+29.87%)",
+        "description": "현재가: 20,000, 거래량: 33,953"
+      },
+      {
+        "title": "#5 디와이에이 (+25.79%)",
+        "description": "현재가: 990, 거래량: 9,008,809"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 11,910억원",
+        "description": "현재가: 69, 거래량: 17,272,386,500주"
+      },
+      {
+        "title": "#2 KODEX 인버스 거래대금 11,285억원",
+        "description": "현재가: 907, 거래량: 1,247,173,351주"
+      },
+      {
+        "title": "#3 SOL SK하이닉스선물단일종목인버스2X 거래대금 24,693억원",
+        "description": "현재가: 7,260, 거래량: 351,171,196주"
+      },
+      {
+        "title": "#4 KODEX SK하이닉스단일종목레버리지 거래대금 62,960억원",
+        "description": "현재가: 34,545, 거래량: 174,889,126주"
+      },
+      {
+        "title": "#5 TIGER 200선물인버스2X 거래대금 89억원",
+        "description": "현재가: 73, 거래량: 121,977,319주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 +444,238,731주 / 기관 +143,097,956주 / 개인 -569,004,795주",
+        "description": "직전 영업일(20260626) 순매수 수량"
+      },
+      {
+        "title": "KODEX 인버스 외국인 +3,592,987주 / 기관 +30,738,744주 / 개인 -32,743,255주",
+        "description": "직전 영업일(20260626) 순매수 수량"
+      },
+      {
+        "title": "SOL SK하이닉스선물단일종목인버스2X 외국인 -478,842주 / 기관 +11,196,375주 / 개인 -10,638,266주",
+        "description": "직전 영업일(20260626) 순매수 수량"
+      },
+      {
+        "title": "KODEX SK하이닉스단일종목레버리지 외국인 +25,433주 / 기관 -17,351,758주 / 개인 +19,023,201주",
+        "description": "직전 영업일(20260626) 순매수 수량"
+      },
+      {
+        "title": "TIGER 200선물인버스2X 외국인 +20,188,905주 / 기관 +7,792,774주 / 개인 -27,981,679주",
+        "description": "직전 영업일(20260626) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.37 (-0.06%)",
+        "description": "전일종가 101.43 / 변동 -0.0640"
+      },
+      {
+        "title": "VIX 변동성지수: 18.41 (-2.54%)",
+        "description": "전일종가 18.89 / 변동 -0.4800"
+      },
+      {
+        "title": "S&P 500: 7354.02 (-0.05%)",
+        "description": "전일종가 7357.49 / 변동 -3.4702"
+      },
+      {
+        "title": "나스닥100: 29118.24 (-1.09%)",
+        "description": "전일종가 29440.32 / 변동 -322.0820"
+      },
+      {
+        "title": "다우존스: 51876.11 (-0.09%)",
+        "description": "전일종가 51920.62 / 변동 -44.5117"
+      },
+      {
+        "title": "USD/KRW: 1535.00 (-0.50%)",
+        "description": "전일종가 1542.76 / 변동 -7.7600"
+      },
+      {
+        "title": "USD/JPY: 161.73 (-0.02%)",
+        "description": "전일종가 161.76 / 변동 -0.0330"
+      },
+      {
+        "title": "코스피: 8930.30 (+5.42%)",
+        "description": "전일종가 8471.02 / 변동 +459.2803"
+      },
+      {
+        "title": "코스닥: 887.81 (-2.36%)",
+        "description": "전일종가 909.31 / 변동 -21.5000"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.540 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 2.02 | GEX +0.8B$ (만기:2026-06-26)",
+        "description": "콜OI 434,864 / 풋OI 876,415 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 2.00 | GEX -3.0B$ (만기:2026-06-26)",
+        "description": "콜OI 245,815 / 풋OI 491,400 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $197.28 (-3.77%)",
+        "description": "거래량 17,061,724주 (평균대비 0.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $730.17 (-0.86%)",
+        "description": "거래량 5,880,677주 (평균대비 0.4x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 64.8% (129/199종목)",
+        "description": "평균 MA 대비 위치: +2.9%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 13/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-05-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-05-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 333.979",
+        "description": "Date: 2026-05-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 2.1",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.4",
+        "description": "Date: 2026-06-25, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.74조달러",
+        "description": "기준일: 2026-06-24 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.34조달러",
+        "description": "기준일: 2026-06-24 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 9018.45억달러",
+        "description": "기준일: 2026-06-24 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.06억달러",
+        "description": "기준일: 2026-06-26 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 278bp (2.78%)",
+        "description": "기준일: 2026-06-25 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 76bp (0.76%)",
+        "description": "기준일: 2026-06-25 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market Today, June 26: Keel Infrastructure Rises as Convertible Financing Backs AI Data Center Push - Yahoo Financ",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT3FzeGI2NzBza00wT1ZPd2NWb1FPc0UxRkc5T1BrRG1IX3lEYkFFMjIxTXI3VkloaS0zVVhEQnNQb1RYa1pWSnZtT2hTalAxQmxVTUFNTlZQWTNlOHhuc2hsN0ZVdF8wYmRuNXgxOFVBVmJ6NHYwMld5NkpTdzR0OS14Z2otbkNsd1NmYjJ2Uk9EN2RTSXc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stocks End the Week With Some Notable Losing Streaks - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTFV5ZWJDU0prMWpEOG1PWVRZcmg4bHYxNTlyRzd5YTZMWGJQZ2g5VDRQa3FSVzVESEFhTk5FSkxyVWp3c3hXNlZnWnhJeGNGZ3p3a2RZZ3JObFpyaFBBRFFMQVlvbm9yZ0lKRV9tX24xc3YxT25TTnNOcU1MQVJqZ3R2SnpzOGN2VC1ITjFsRC1jZldKMkdHQTZCLXVvMl9RUHAzNjdlbTVJcTM1djdHWTIzZzFPOVVoSF93R0JmUHZRNnhMY3JMWU1hSzZQNjJaazVkMGVySWJaVTV4RURiSmkzb0xNWVdQQ1dpM0pnbXk?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "US derivatives watchdog probes predictions market Polymarket - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oaUZWdlNjY29TWDNnaHNuUTJOQXFuRTVhNHJLcXRScXBZVHJxLWNvWFBuNXlUc1NpUmozUkxQRXVNNklKTmFFZFNhWUhVYUhOaFNfV2FOVUx3bkpVTUtRNzN4NGtJaWVxei1OZVdXekY?oc=5",
+        "press": "Financial Times"
+      },
+      {
+        "title": "Nasdaq Composite posts fifth losing session Friday as chip stocks tumble: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JX0Jubl9FdWNRZU5YbkcxTXdXaDZtUFFfeUZDbTNuVzVSb0xiUUt5UE41MEZLaWYwZTI5Rkk0eF9LZm15TDRQYURRcWl6dE1XUG5LZU5TaUFkU0ZVb2JpN1l2N1VxWWFIemJzdnE5UHVIdnJFYjZJ0gF8QVVfeXFMT0Vfc2cxcjd2S2tsUHVDUGIxWjZOdmRNVUxtZVNaYUJoa3g3MDhOdnk2T08tNUNJc0RIVllyMmw2aFJYOXJpbHltYWZjbG1JVmRTeWNpZi02U1JkNW11T3dJWThYa0lfN3NBZTZGOXpOazc3cEs1UUM5NHNydg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "ON Semiconductor records worst day since 2020 as CEO defends Synaptics deal - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVzgwNUMwY2c5cDN6NG5yLWl6TURJZU1wQ0RXWVo2dkt6WFEzTmh0NWpEMHQ0VnMyYk9VbHRHWmRtamNSZXB3d1I0YUdQc2czc2J6Q2pHVVVTVFFUNkRjVW1fY1BvbTk2MTFjRUVNSHQxOWstX0d0a3RoN2hyaXZPS01ORmttdFlyX1HSAY8BQVVfeXFMUGxiMmtPRm1Wd3dZUlNLN3Rodzd4WW1EYW5hVkNac3A5ZkJLY00zVTlIbng4ZHJqSXkzNjNmdFFsRk0td09KaFJXa2Rtd1VwY0xhOUtWNjBqaEtjNDVqRTFnTnA5ZXBqcmFPSGRzWC1WSTJxNk1FYlJHZDJVYWJleU9ULWQzVlRaSVVSZXhkSjg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Here's Why ON Semiconductor Stock Crashed Hard Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSEE5RERmNXYzWVlTTjRsR0pNWldhRlo1YXRxWlYwUFJRMzdKaVREOWZsNF9TdThhOFEtT1F2TzVjRWRjVXNCN0pKWWczR0ZsOHFhWmFVMks2MzROTHE0aUxmdlVXSXJjSldhQzQyTjE0RDc5T21sc3d4enBMaUJBdENfcUQzQndjRHpzb3lZaWIxYzB0NXBoUVJtZkJ3cE9MUGNuTg?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Markets News, June 26, 2026: S&P 500, Nasdaq Post Weekly Losses as Tech Sell-Off Continues - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2I4a0Nwa01PR3YyTF8xRDkyV0czRU5hbTBfWFhaNHlKTFg5ZzRNa2JlMW1FejdDakkzajVUNUZnZDFfZUluV1haUHB2MkZ2b0RkZ1NPODVwam9oTTItcWpJZ0hqUTNXNjFRRlhaM0xhdVg0MkFad2U3UWNmb3ViTjg0RFZma1V6MlM2bU1IcVY?oc=5",
+        "press": "Investopedia"
+      },
+      {
+        "title": "US derivatives watchdog probes predictions market Polymarket - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oaUZWdlNjY29TWDNnaHNuUTJOQXFuRTVhNHJLcXRScXBZVHJxLWNvWFBuNXlUc1NpUmozUkxQRXVNNklKTmFFZFNhWUhVYUhOaFNfV2FOVUx3bkpVTUtRNzN4NGtJaWVxei1OZVdXekY?oc=5",
+        "press": "Financial Times"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Micron Stock Falls After Memory Rivals SK Hynix, Samsung Sink KOSPI Index - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZTd2ZTBCNmpUMS1US0JQeW1IY0xaUXM2SU0yY05nTHl3bWZ3RFlSaGp2YUF4eTRmS0VRMGc2X0VuaXRQbmJEeUgtT3hBclVVTHhMc1NWUFd5Ym02ejJzLWFpZ2dzRGY5LUpTeUh6MGdtdFdkZThHMWJFeXRVNm5pZG1RaWJpR1EteFow?oc=5",
+        "press": "Barron's"
+      },
+      {
+        "title": "SK hynix ADR listing on Nasdaq draws ETF inflows and arbitrage bets - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYkJnZ2MzY3Vibzd0SFVzTE56OEVoUXJZbDU2ZGwzLS1wdjZNWDFOM0ZmTUlvQ3hvSXZ6ZEVtRFlFcjJ1NTRMVWVWTVBNYmRkTDMtVFQzU0c5Ujc1NV94U0dxUWw2OERfaUtLbzAyMk9KSVlzbW1UTXJtMm1BdEpmMdIBlAFBVV95cUxNNlYxZjQ5Mnk5MTR1WDhubTVrOFdHNU1GbnhPTTg3N0hyWnUybUZKcnJhOG1fMXpYVVNhVkdwRUV4WVhWTDhvMWFlS3ZKRGxpY2JHbldjd0EwZlBDaG9mRktpMzcyOS12cXM2MmdhUDJmQU9WZWdFSmZUdXRZd3EwUU9aQXB0SXQ3THZySjRrU2Y4X0VX?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "South Korea: Exports and inflation support rate hike path – DBS - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbkZLSHJwLVJldXpZVHg2U01rY3FsenRnVmJ4dEN4Z2tFLUJzT2Q2dXpGcE5uM0IyVHpKSzNHcnhRVDdIdi1Wdy1zODE3aF9UMkpOZUptdEZrNkJsWVBYS25qNG9NYkVtWU54TlU0RGk5YVV2YnVwQUdGeUFmXzFFeklOY2xTYm95M3ZvcGRNVTlyczRUZG91bFo2aVVZY3A2WjVSYXFR?oc=5",
+        "press": "FXStreet"
+      },
+      {
+        "title": "Asia week ahead: Key data from Indonesia, China, Japan, and South Korea - ING THINK economic and financial analysis | IN",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VTDdIQ1lsNWtOVDJ2Q0R6S1ZMeUV0bXJ6eUw2dXoxM1B5cWE1SXhqVDFvamNSeHN2NVYyZFBNbzU2bmxJQUxOYWZueG9mSXFVaURvM0V2MVo2a3BVWXBsbno4Z0o?oc=5",
+        "press": "ING THINK economic and financial analysis | ING THINK"
+      }
+    ],
+    "naver": [
+      {
+        "title": "美 증시, 2주 저점 추락...반도체發 폭락 도미노, 어디까지 가나?",
+        "url": "http://coinreaders.com/244812",
+        "press": "coinreaders.com"
+      },
+      {
+        "title": "1550원 넘보던 환율 1530원대 급락…당국 개입 추정",
+        "url": "https://www.sentv.co.kr/article/view/sentv202606270003",
+        "press": "www.sentv.co.kr"
+      },
+      {
+        "title": "靑경제수석, 부동산 정책 '집값' 넘어 '자산 이동'…생산·투자 중심 전...",
+        "url": "https://n.news.naver.com/mnews/article/666/0000112875?sid=100",
+        "press": "www.kyeonggi.com"
+      },
+      {
+        "title": "'닉스레버리지' ETF, 4주 만에 개인 순매수 1위 재등",
+        "url": "https://www.sentv.co.kr/article/view/sentv202606270007",
+        "press": "www.sentv.co.kr"
+      },
+      {
+        "title": "SK하이닉스 레버리지 펀드, 나스닥 상장 기대에 개인 투자자들 '눈독'",
+        "url": "https://www.tokenpost.kr/news/market/373181",
+        "press": "www.tokenpost.kr"
+      },
+      {
+        "title": "시총 요건 강화되는데…코스닥社, '관리종목 지정' 우려 잇따라",
+        "url": "https://www.sentv.co.kr/article/view/sentv202606260058",
+        "press": "www.sentv.co.kr"
+      },
+      {
+        "title": "[나동준 시선의 ESG] 병원 이사회 회의록 공개를 요구하다",
+        "url": "https://www.lecturernews.com/news/articleView.html?idxno=205122",
+        "press": "www.lecturernews.com"
+      },
+      {
+        "title": "김민석 “용인만으론 부족”…호남 반도체 투자 비판론 일축",
+        "url": "https://www.bntnews.co.kr/article/view/bnt202606270048",
+        "press": "www.bntnews.co.kr"
+      },
+      {
+        "title": "SK하이닉스 레버리지 펀드, 나스닥 상장 기대에 개인 투자자들 '눈독'",
+        "url": "https://www.tokenpost.kr/news/market/373181",
+        "press": "www.tokenpost.kr"
+      },
+      {
+        "title": "'닉스레버리지' ETF, 4주 만에 개인 순매수 1위 재등",
+        "url": "https://www.sentv.co.kr/article/view/sentv202606270007",
+        "press": "www.sentv.co.kr"
+      },
+      {
+        "title": "정옥임 \"장동혁, 한동훈파 징계 언급? 의원들 쉽게 보는 것\"[한판승부]",
+        "url": "https://n.news.naver.com/mnews/article/079/0004162348?sid=100",
+        "press": "www.nocutnews.co.kr"
+      },
+      {
+        "title": "SK하이닉스 레버리지 펀드, 나스닥 상장 기대에 개인 투자자들 '눈독'",
+        "url": "https://www.tokenpost.kr/news/market/373181",
+        "press": "www.tokenpost.kr"
+      }
+    ],
+    "telegram": [
+      {
+        "title": "PREDICTION MARKETS HIT A RECORD $10.8 BILLION IN WEEKLY TRADING VOLUME IN THE WEEK ENDING JUNE 15 — ",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "META ASKS CALIFORNIA LAWMAKERS FOR PROTECTION FROM CHILD HARM PENALTIES - POLITICO [...](https://x.c",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "*PEMEX NAMES ELIZABETH GONZÁLEZ GARDUÑO AS NEW CFO [...](https://x.com/diegobloomberg/status/2070644",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "*US ALLOWS TRUSTED PARTNERS TO USE ANTHROPIC'S MYTHOS 5 AI MODEL [...](https://x.com/diegobloomberg/",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "*US SEIZES NEARLY 400 WEBSITES THAT WERE ILLEGALLY STREAMING WORLD CUP, DOJ SAYS [...](https://x.com",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "U.S. UNVEILS ANTHROPIC MODEL MYTHOS TO SELECT AMERICAN FIRMS: SOURCE [...](https://x.com/financialju",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "US LIFTS BAN ON ANTHROPIC’S POWERFUL CLAUDE MYTHOS 5 AI MODEL, LETS COMPANY DISTRIBUTE TO OVER 100 U",
+        "url": "",
+        "press": "Market News Feed"
+      },
+      {
+        "title": "US LIFTS RESTRICTION ON ANTHROPIC’S POWERFUL CLAUDE MYTHOS 5 AI MODEL: COMPANY CAN DEPLOY TO OVER 10",
+        "url": "",
+        "press": "Market News Feed"
+      }
+    ]
+  }
+}

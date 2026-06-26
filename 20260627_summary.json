@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "generated_at": "2026-06-26T23:36:56.590295+00:00",
+    "run_date": "20260627"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 13,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 101.37,
+      "change": -0.06,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 18.41,
+      "change": -2.54,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7354.02,
+      "change": -0.05,
+      "insight": "전일종가 7357.49 / 변동 -3.4702",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29118.24,
+      "change": -1.09,
+      "insight": "전일종가 29440.32 / 변동 -322.0820",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51876.11,
+      "change": -0.09,
+      "insight": "전일종가 51920.62 / 변동 -44.5117",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1535.0,
+      "change": -0.5,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 161.73,
+      "change": -0.02,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    },
+    {
+      "name": "코스피",
+      "value": 8930.3,
+      "change": 5.42,
+      "insight": "국내 대형주 지수 (전일 종가 기준)",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "코스피, 반도체 급락에도 불구하고 5.42% 급반등하며 시장 방어 성공",
+      "tag": "Bullish"
+    },
+    {
+      "point": "원·달러 환율 1530원대로 급락, 외환당국의 개입 경계감 확산",
+      "tag": "Neutral"
+    },
+    {
+      "point": "SK하이닉스 나스닥 ADR 상장 기대감에 개인 투자자 자금 유입 지속",
+      "tag": "Bullish"
+    },
+    {
+      "point": "메모리 경쟁사 실적 우려로 인한 SK하이닉스·삼성전자 동반 약세 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "코스닥 시총 요건 강화로 관리종목 지정 우려 확산되며 불확실성 증대",
+      "tag": "Bearish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "나스닥 5거래일 연속 하락, 반도체 섹터 중심의 매도세 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 13(극단적 공포), 시장 패닉 매도 현상 가속화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "온 세미컨덕터 실적 충격으로 2020년 이후 최악의 하락세 기록",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미국 정부, 앤스로픽의 최신 AI 모델 '클로드 마이토스 5' 사용 허가",
+      "tag": "Bullish"
+    },
+    {
+      "point": "예측 시장(Polymarket) 거래량 급증, 미 당국의 규제 조사 착수",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "SK하이닉스, 삼성전자 동반 약세에 코스피 휘청",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZTd2ZTBCNmpUMS1US0JQeW1IY0xaUXM2SU0yY05nTHl3bWZ3RFlSaGp2YUF4eTRmS0VRMGc2X0VuaXRQbmJEeUgtT3hBclVVTHhMc1NWUFd5Ym02ejJzLWFpZ2dzRGY5LUpTeUh6MGdtdFdkZThHMWJFeXRVNm5pZG1RaWJpR1EteFow?oc=5",
+      "press": "Barron's",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "SK하이닉스 나스닥 상장 추진, ETF 유입 및 차익거래 기대",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYkJnZ2MzY3Vibzd0SFVzTE56OEVoUXJZbDU2ZGwzLS1wdjZNWDFOM0ZmTUlvQ3hvSXZ6ZEVtRFlFcjJ1NTRMVWVWTVBNYmRkTDMtVFQzU0c5Ujc1NV94U0dxUWw2OERfaUtLbzAyMk9KSVlzbW1UTXJtMm1BdEpmMdIBlAFBVV95cUxNNlYxZjQ5Mnk5MTR1WDhubTVrOFdHNU1GbnhPTTg3N0hyWnUybUZKcnJhOG1fMXpYVVNhVkdwRUV4WVhWTDhvMWFlS3ZKRGxpY2JHbldjd0EwZlBDaG9mRktpMzcyOS12cXM2MmdhUDJmQU9WZWdFSmZUdXRZd3EwUU9aQXB0SXQ3THZySjRrU2Y4X0VX?oc=5",
+      "press": "Chosunbiz",
+      "source": "domestic"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "환율 1530원대로 급락…당국 개입 추정",
+      "url": "https://www.sentv.co.kr/article/view/sentv202606270003",
+      "press": "sentv",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "美 증시, 반도체발 폭락 도미노…어디까지 가나?",
+      "url": "http://coinreaders.com/244812",
+      "press": "coinreaders",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "'닉스레버리지' ETF, 개인 순매수 1위 재등극",
+      "url": "https://www.sentv.co.kr/article/view/sentv202606270007",
+      "press": "sentv",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "시총 요건 강화에 코스닥 관리종목 지정 우려 확산",
+      "url": "https://www.sentv.co.kr/article/view/sentv202606260058",
+      "press": "sentv",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "나스닥, 반도체 주식 급락으로 5거래일 연속 하락",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JX0Jubl9FdWNRZU5YbkcxTXdXaDZtUFFfeUZDbTNuVzVSb0xiUUt5UE41MEZLaWYwZTI5Rkk0eF9LZm15TDRQYURRcWl6dE1XUG5LZU5TaUFkU0ZVb2JpN1l2N1VxWWFIemJzdnE5UHVIdnJFYjZJ0gF8QVVfeXFMT0Vfc2cxcjd2S2tsUHVDUGIxWjZOdmRNVUxtZVNaYUJoa3g3MDhOdnk2T08tNUNJc0RIVllyMmw2aFJYOXJpbHltYWZjbG1JVmRTeWNpZi02U1JkNW11T3dJWThYa0lfN3NBZTZGOXpOazc3cEs1UUM5NHNydg?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "온 세미컨덕터, CEO의 인수 방어에도 2020년 이후 최악의 날 기록",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVzgwNUMwY2c5cDN6NG5yLWl6TURJZU1wQ0RXWVo2dkt6WFEzTmh0NWpEMHQ0VnMyYk9VbHRHWmRtamNSZXB3d1I0YUdQc2czc2J6Q2pHVVVTVFFUNkRjVW1fY1BvbTk2MTFjRUVNSHQxOWstX0d0a3RoN2hyaXZPS01ORmttdFlyX1HSAY8BQVVfeXFMUGxiMmtPRm1Wd3dZUlNLN3Rodzd4WW1EYW5hVkNac3A5ZkJLY00zVTlIbng4ZHJqSXkzNjNmdFFsRk0td09KaFJXa2Rtd1VwY0xhOUtWNjBqaEtjNDVqRTFnTnA5ZXBqcmFPSGRzWC1WSTJxNk1FYlJHZDJVYWJleU9ULWQzVlRaSVVSZXhkSjg?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미국 파생상품 감시당국, 예측 시장 폴리마켓 조사 착수",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oaUZWdlNjY29TWDNnaHNuUTJOQXFuRTVhNHJLcXRScXBZVHJxLWNvWFBuNXlUc1NpUmozUkxQRXVNNklKTmFFZFNhWUhVYUhOaFNfV2FOVUx3bkpVTUtRNzN4NGtJaWVxei1OZVdXekY?oc=5",
+      "press": "Financial Times",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "S&P 500과 나스닥, 기술주 매도세 지속으로 주간 손실 기록",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNU2I4a0Nwa01PR3YyTF8xRDkyV0czRU5hbTBfWFhaNHlKTFg5ZzRNa2JlMW1FejdDakkzajVUNUZnZDFfZUluV1haUHB2MkZ2b0RkZ1NPODVwam9oTTItcWpJZ0hqUTNXNjFRRlhaM0xhdVg0MkFad2U3UWNmb3ViTjg0RFZma1V6MlM2bU1IcVY?oc=5",
+      "press": "Investopedia",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "온 세미컨덕터 주가 폭락의 이유",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSEE5RERmNXYzWVlTTjRsR0pNWldhRlo1YXRxWlYwUFJRMzdKaVREOWZsNF9TdThhOFEtT1F2TzVjRWRjVXNCN0pKWWczR0ZsOHFhWmFVMks2MzROTHE0aUxmdlVXSXJjSldhQzQyTjE0RDc5T21sc3d4enBMaUJBdENfcUQzQndjRHpzb3lZaWIxYzB0NXBoUVJtZkJ3cE9MUGNuTg?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "주식 시장 현황: AI 데이터 센터 인프라 투자 확대로 관련주 상승",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT3FzeGI2NzBza00wT1ZPd2NWb1FPc0UxRkc5T1BrRG1IX3lEYkFFMjIxTXI3VkloaS0zVVhEQnNQb1RYa1pWSnZtT2hTalAxQmxVTUFNTlZQWTNlOHhuc2hsN0ZVdF8wYmRuNXgxOFVBVmJ6NHYwMld5NkpTdzR0OS14Z2otbkNsd1NmYjJ2Uk9EN2RTSXc?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    }
+  ]
+}
