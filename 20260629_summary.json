@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "generated_at": "2026-06-28T23:33:15.135421+00:00",
+    "run_date": "20260629"
+  },
+  "market_mood": {
+    "status": "Neutral",
+    "score": 50,
+    "label": "확인 매매 구간"
+  },
+  "key_indicators": [],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "현재 입력된 국내 시장 분석 데이터가 없습니다.",
+      "tag": "Neutral"
+    },
+    {
+      "point": "국내 주요 지수 및 업종별 등락 정보가 부재합니다.",
+      "tag": "Neutral"
+    },
+    {
+      "point": "시장 수급 및 특징주 관련 데이터가 확인되지 않습니다.",
+      "tag": "Neutral"
+    },
+    {
+      "point": "국내 경제 지표 및 공시 데이터 업데이트가 없습니다.",
+      "tag": "Neutral"
+    },
+    {
+      "point": "데이터 부재로 인해 시장 방향성 판단이 유보됩니다.",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "현재 입력된 글로벌 매크로 시장 데이터가 없습니다.",
+      "tag": "Neutral"
+    },
+    {
+      "point": "미국 증시 3대 지수 및 선물 지수 정보가 부재합니다.",
+      "tag": "Neutral"
+    },
+    {
+      "point": "FRED 및 주요 경제 지표 데이터가 입력되지 않았습니다.",
+      "tag": "Neutral"
+    },
+    {
+      "point": "해외 주요 기업 뉴스 및 정책 동향 정보가 없습니다.",
+      "tag": "Neutral"
+    },
+    {
+      "point": "글로벌 금리 및 원자재 가격 데이터가 확인되지 않습니다.",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "시장·기타",
+      "title": "현재 업데이트된 국내 시장 뉴스가 없습니다.",
+      "url": "",
+      "press": "-",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "국내 증시 및 금융 시장 데이터 제공 대기 중입니다.",
+      "url": "",
+      "press": "-",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "네이버 뉴스 및 텔레그램 속보 데이터가 부재합니다.",
+      "url": "",
+      "press": "-",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "실시간 기업 공시 및 투자 정보가 입력되지 않았습니다.",
+      "url": "",
+      "press": "-",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "시장 분석을 위한 유효한 뉴스 소스가 없습니다.",
+      "url": "",
+      "press": "-",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "최신 국내 시장 소식 업데이트가 필요합니다.",
+      "url": "",
+      "press": "-",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "시장·기타",
+      "title": "현재 업데이트된 글로벌 시장 뉴스가 없습니다.",
+      "url": "",
+      "press": "-",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "미국 증시 및 매크로 경제 뉴스 데이터가 부재합니다.",
+      "url": "",
+      "press": "-",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "주요 외신 및 글로벌 금융 정보 소스가 입력되지 않았습니다.",
+      "url": "",
+      "press": "-",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "연준 정책 및 금리 관련 실시간 뉴스가 없습니다.",
+      "url": "",
+      "press": "-",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "글로벌 기술주 및 산업 섹터별 정보가 부재합니다.",
+      "url": "",
+      "press": "-",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "해외 금융 시장 모니터링 데이터가 부족한 상태입니다.",
+      "url": "",
+      "press": "-",
+      "source": "international"
+    }
+  ]
+}

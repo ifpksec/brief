@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "generated_at": "2026-06-28T23:33:15.134481+00:00",
+    "run_date": "20260629"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [],
+    "correlation": [],
+    "gex": [],
+    "inst_flows": [],
+    "breadth": []
+  },
+  "sentiment": [],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [],
+    "domestic": [],
+    "naver": [],
+    "telegram": []
+  }
+}
