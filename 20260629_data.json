@@ -1,31 +1,104 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T11:31:58.077522+00:00",
+    "generated_at": "2026-06-29T11:41:55.064467+00:00",
     "run_date": "20260629"
   },
   "market": {
     "domestic": [],
     "overseas": [],
     "forex_rates": [],
-    "funds": [],
-    "program": [],
-    "gainers": [],
-    "traders": [],
-    "investor_trends": []
+    "funds": [
+      {
+        "title": "고객예탁금: 1,266,049억원 (-3,875억원)",
+        "description": "신용융자잔고: 377,616억원"
+      }
+    ],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 -5,067,088백만원 (차익 +555,474 / 비차익 -5,622,562)",
+        "description": "기준일: 20260629"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 금호건설우 (+30.00%)",
+        "description": "현재가: 26,000, 거래량: 21,484"
+      },
+      {
+        "title": "#2 차AI헬스케어 (+30.00%)",
+        "description": "현재가: 7,410, 거래량: 150,508"
+      },
+      {
+        "title": "#3 다스코 (+29.99%)",
+        "description": "현재가: 4,465, 거래량: 14,414,434"
+      },
+      {
+        "title": "#4 금호전기 (+29.94%)",
+        "description": "현재가: 1,098, 거래량: 19,541,505"
+      },
+      {
+        "title": "#5 금호건설 (+29.86%)",
+        "description": "현재가: 8,610, 거래량: 1,287,796"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 7,901억원",
+        "description": "현재가: 71, 거래량: 10,927,228,115주"
+      },
+      {
+        "title": "#2 KODEX 인버스 거래대금 9,682억원",
+        "description": "현재가: 912, 거래량: 1,045,692,904주"
+      },
+      {
+        "title": "#3 SOL SK하이닉스선물단일종목인버스2X 거래대금 20,788억원",
+        "description": "현재가: 7,435, 거래량: 269,576,368주"
+      },
+      {
+        "title": "#4 KODEX SK하이닉스단일종목레버리지 거래대금 47,382억원",
+        "description": "현재가: 33,660, 거래량: 144,984,196주"
+      },
+      {
+        "title": "#5 삼성 인버스 2X WTI원유 선물 ETN 거래대금 36억원",
+        "description": "현재가: 26, 거래량: 141,772,938주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 +444,238,731주 / 기관 +143,097,956주 / 개인 -569,004,795주",
+        "description": "직전 영업일(20260626) 순매수 수량"
+      },
+      {
+        "title": "KODEX 인버스 외국인 +3,592,987주 / 기관 +30,738,744주 / 개인 -32,743,255주",
+        "description": "직전 영업일(20260626) 순매수 수량"
+      },
+      {
+        "title": "SOL SK하이닉스선물단일종목인버스2X 외국인 -478,842주 / 기관 +11,196,375주 / 개인 -10,638,266주",
+        "description": "직전 영업일(20260626) 순매수 수량"
+      },
+      {
+        "title": "KODEX SK하이닉스단일종목레버리지 외국인 +25,433주 / 기관 -17,351,758주 / 개인 +19,023,201주",
+        "description": "직전 영업일(20260626) 순매수 수량"
+      },
+      {
+        "title": "삼성 인버스 2X WTI원유 선물 ETN 외국인 +0주 / 기관 +16,844,749주 / 개인 -16,744,750주",
+        "description": "직전 영업일(20260626) 순매수 수량"
+      }
+    ]
   },
   "macro": {
     "global": [
       {
-        "title": "달러인덱스(DXY): 101.23 (-0.13%)",
-        "description": "전일종가 101.36 / 변동 -0.1270"
+        "title": "달러인덱스(DXY): 101.24 (-0.12%)",
+        "description": "전일종가 101.36 / 변동 -0.1170"
       },
       {
         "title": "미국 10년물 금리: 4.37 (-0.46%)",
         "description": "전일종가 4.39 / 변동 -0.0200"
       },
       {
-        "title": "VIX 변동성지수: 18.27 (-0.76%)",
-        "description": "전일종가 18.41 / 변동 -0.1400"
+        "title": "VIX 변동성지수: 18.32 (-0.49%)",
+        "description": "전일종가 18.41 / 변동 -0.0900"
       },
       {
         "title": "S&P 500: 7354.02 (-0.05%)",
@@ -40,12 +113,12 @@
         "description": "전일종가 51920.62 / 변동 -44.5117"
       },
       {
-        "title": "USD/KRW: 1542.76 (-0.24%)",
-        "description": "전일종가 1546.48 / 변동 -3.7200"
+        "title": "USD/KRW: 1542.61 (-0.25%)",
+        "description": "전일종가 1546.48 / 변동 -3.8700"
       },
       {
         "title": "USD/JPY: 161.84 (+0.02%)",
-        "description": "전일종가 161.80 / 변동 +0.0330"
+        "description": "전일종가 161.80 / 변동 +0.0380"
       },
       {
         "title": "코스피: 8394.65 (-0.20%)",
@@ -68,8 +141,8 @@
     ],
     "gex": [
       {
-        "title": "SPY PCR 5.11 | GEX -0.0B$ (만기:2026-06-29)",
-        "description": "콜OI 34,151 / 풋OI 174,435 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+        "title": "SPY PCR 0.87 | GEX +0.0B$ (만기:2026-06-29)",
+        "description": "콜OI 200,290 / 풋OI 174,435 → 균형 | 딜러 롱감마(시장안정화)"
       },
       {
         "title": "QQQ PCR 1.87 | GEX +0.0B$ (만기:2026-06-29)",
@@ -165,14 +238,19 @@
         "press": "WSJ"
       },
       {
-        "title": "How Buying SpaceX Shares Is Sending This Stock Higher - Barron's",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xS2xxOWtBVzlUMXdmV05LUFhmYTZrU0JVS29mc0NpYXZvN2hBVW9hcGJWdlJud1ptalkwMGY4S0pXMjRjWmxEZERQTk1raFpCcy1UMGJaS0VTbGZwOEl0MGVhOWMxOXkzZ3NZM1Jn?oc=5",
-        "press": "Barron's"
+        "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to climb after U.S. and Iran agree to stop fighting over Strait of Hormu",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHB2bENqM0J4bDVuT2ROSnV0aU1RdjhnekVCZDBXd0ROR1Z4a0I3c2huZHpDYlZFZEh4SXFmQzdncEtveW1ITGRHdExPRklMSklxa1cyTXZ1b1huRkhyRndHbjJaSmtxc2R4d3NMUndTcHU2cjFGOF9rVm55NjJ2aURwaml2OEZiZzA0dnBlcFktRXdtNXo4RF92M3ZNMFFlaEMtSTdnTm9NUQ?oc=5",
+        "press": "MarketWatch"
       },
       {
         "title": "Oil Prices Climb as U.S.-Iran Flare-Up Shakes Market Complacency - Crude Oil Prices Today | OilPrice.com",
         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcVhhTkVDZ1RpYUNYUGxpT1hRSlU2Y09PWHM0S19XWU1HeFcwQUp2S2dNZGtoSXd3QnJHZkNYWndHMFJlak5FTmdJTHgxTGdib3hNUG5abEhkUW82V0NyWU1WUTZTUDNTcWR5OS1EdnlGOUJvWV9VaVBQQ0JSRWhVdkVVOU1VbkJCQ3pXOFRrR1F0aE9jX1E3TE8tQzFFRW1IUDZoUDByLUNkTGR1Sm4zNVdJWG82UGNHNVHSAb8BQVVfeXFMT0lXTUJ4bkxXOFR2bU5kWXFiVXJGcVpJMlcwaVRVWW94dnBzLXpqOXBaejBOT2ltUXBsYU85b0oxNUkxTVpnUFk2SXBHbjl0TmJ6NFpZX2VWbl81MVYySXg2MGt0aXN4d2dveE9BcjhJNFJmTHc1amVORWFOcU5haVB3Qll0cWJOWUxudVBNbkY4dkFQSkVYajRHQmo4Y0dBNTNzTkU1STh0OTRiUjBSa2VOX1MwaTl4X3B5dHlBV2M?oc=5",
         "press": "Crude Oil Prices Today | OilPrice.com"
+      },
+      {
+        "title": "Opinion | China could have the keys to your life savings - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMGxQY0ZXLTlrcDhlRFRVVmR5Z2I0N2dUOFc0MENJakV4Vi1zSXdFajktUG82LWE2V0JybjZldzFWZjY1cENkZWUybnJrdmlZSi1JZWV2dUdFalNueDRaZ0hwYTNoNzlVVk9pN19OMHpPdlNobzhSM3NaS010cHZfb1NRU3g4d3hxSkwwZjYzNWkwQmVCNU5ITGw4QUNxb2tNTGZmZjlRd0NTY3dkWEhqLThfSGc?oc=5",
+        "press": "The Washington Post"
       },
       {
         "title": "Broadcom (AVGO) The Best High Growth Semiconductor to Buy Now? - Yahoo Finance",
@@ -185,14 +263,9 @@
         "press": "The Motley Fool"
       },
       {
-        "title": "World shares are mixed as tech stocks in Japan and South Korea extend losses - Newsday",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS3lPc0VFX3lHLUlIQXF0Uk5WVm5LRHY3OFRIeXJ3NXZtRHY2T01ud0hGMUIyd2g3WDFIYXpxY2s0MER4Y1U4M3pZajFlSTFlMUdhRXpoMDk0enZfS1NXMDZQUFp3N2tHaXUtN0lGdDMySlpsNi1FVFFtRE4tU252VVdR?oc=5",
-        "press": "Newsday"
-      },
-      {
-        "title": "Asian shares are mixed as tech stocks fall in Japan and South Korea - 10TV",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQY0NFWGdLS3JMdDNpVVBud1daN3pxSmZrUm9kSVlpQzhuVEJLdDNPY0pxT0xWU2FGWlRkVmVtTENCRDB2VlZyY2tiaFN2eThlUjU3Qy1hM0cxQ2dCTFVVV09xUW9VeVlQVlB6ckZXcThoNmIwOFlIM3dHLTRyREtMNTFqQXU3d3lRMkhDYTJjbmF5amZUMEY0dGN3YnN5YUNXcGoyRHhiM2t6ZHFxT1lUVzRGMU5ZSUVEQVhxd2I5bTNnUEhWLXRZQUtoOWZJQml4c0ZVUlphMGFqV0F1cHlPY1QxQ0dsZmhxWWlSMFFGMTVTSW95YnpqMg?oc=5",
-        "press": "10TV"
+        "title": "World shares are mixed as tech stocks in Japan and South Korea extend losses - AP News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYTBrZkhPRzlzdzlwU0pDMk40NDNtYy1zZDdvVkFFSVk5UHFjSXdVRzdPcW14Ykx2NWVtelNDYzNySHJvU2tLOV84T1JUM2NONGlibWYtTlA4eFlXOGpDcjRIV0s4SzhCMDhGU3daZU94cEpmOEhidFozWVVnUjdsMlVrNHNjQXVUTHF3b05sVGFaRjd1MEtCSXcwRGE?oc=5",
+        "press": "AP News"
       }
     ],
     "domestic": [
@@ -207,9 +280,9 @@
         "press": "TradingKey"
       },
       {
-        "title": "KOSPI Up to 150x, Samsung-Hynix Up to 50x Leverage Released... \"Virtually a Gambling Den\" Controversy - 아시아경제",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jT25nYkhFUjl6bnJFLXhIWGhJbnhvby1TUXlTa09qQWh6V3ltemFqNk5JY1ZnRnBqcnItN0JsNEM2c2Z1VzZEOGI1ZzV4ZHFBN0xZRFI2NndNSjdRMm5tY05ERmo4ZHlraEQwcU02eW50cm5ZTkZuWmU5Yw?oc=5",
-        "press": "아시아경제"
+        "title": "Korea's $519 bil. chip megaproject sparks Kosdaq rally, fails to lift KOSPI - The Korea Times",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZFlTenBPX3lxNnhieW1CZUVJY2g0eVdOSFY2dWdnU0RDckVFYllPM0RsdEJGd2FTZGxsek83NloybGhURThOeTBkRVJOa0JZRkZfdzkydlNyOXJJUi0tNDdKNjdmRVBBM0lwSE4wZ3BNYVR2ZC1jNTNYM1FPUnVYVVkxd2Jkd2ltaFl5RnNGVEhBdXNWTUdWdlhMcmVnXzRpNkthcjFFNm9KQmJubkNieEFhUkRxWHVY0gG-AUFVX3lxTE1OUkgxWTdzOTNZY3ZfMk53R0pad19fTGhyVVhSaHlfeDlmUnFCS0pKNGtwdGU3UExCNnQxRHJsLXBPOVkxZWtLWVZaM1ZHdjFSRGotbnBISTB5cl9zWEk3bW1peXlfWEFSVmVCYmlmbkd0SXJSV1FFOVNBVUxzUk1ZNHRsVTZFZVZpT1hRYy00V0w4VkZTMkkta1k3aFlKY09QZ2xOVmdSd0Y5YWFmdV92OGRPbmM3ejR3YUxJWlE?oc=5",
+        "press": "The Korea Times"
       },
       {
         "title": "South Korea Chip Stocks Retail Investors Are Watching After The $1tn AI Buildout - simplywall.st",
@@ -259,34 +332,14 @@
     ],
     "naver": [
       {
-        "title": "[증권가 중계] 미래에셋증권, 신한투자증권, KB증권",
-        "url": "http://www.bizwnews.com/news/articleView.html?idxno=139606",
-        "press": "www.bizwnews.com"
+        "title": "[EBN 오늘(29일) 이슈 종합] 삼성·SK, 호남으로…'초격차 지도' 다시 그...",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1714369",
+        "press": "www.ebn.co.kr"
       },
       {
-        "title": "[최병문 칼럼] '독재 대 민주'의 이분법을 넘어: 민주화 이후 진보정치...",
-        "url": "http://www.ujeil.com/news/articleView.html?idxno=387985",
-        "press": "www.ujeil.com"
-      },
-      {
-        "title": "주가 올라도, 빠져도 “반도체 사라”… 낙수 효과 끊긴 증시",
-        "url": "https://n.news.naver.com/mnews/article/081/0003656842?sid=101",
-        "press": "www.seoul.co.kr"
-      },
-      {
-        "title": "매드업, 7월 1일 코스닥 입성...디지털 마케팅 AI 기업 신규 상장",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464043",
-        "press": "www.pinpointnews.co.kr"
-      },
-      {
-        "title": "한국거래소, 코스닥 상장예심 신청 2곳 접수...바이다·싸이몬 심사 착...",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464042",
-        "press": "www.pinpointnews.co.kr"
-      },
-      {
-        "title": "코스피200 변동성지수, 사상 최고 수준 돌파… 한국 증시 '공포 지수' 비...",
-        "url": "https://www.tokenpost.kr/news/market/373667",
-        "press": "www.tokenpost.kr"
+        "title": "‘3조 대어’ 소노인터내셔널, 하반기 IPO 출격…중복상장·자회사 리스...",
+        "url": "https://n.news.naver.com/mnews/article/117/0004079672?sid=103",
+        "press": "www.mydaily.co.kr"
       },
       {
         "title": "[증권가 중계] 미래에셋증권, 신한투자증권, KB증권",
@@ -294,29 +347,49 @@
         "press": "www.bizwnews.com"
       },
       {
-        "title": "‘삼전닉스’ 800조 투자…전남광주 ‘반도체 허브’로",
-        "url": "http://www.kjdaily.com/article.php?aid=1782731883681319002",
-        "press": "www.kjdaily.com"
+        "title": "[EBN 오늘(29일) 이슈 종합] 삼성·SK, 호남으로…'초격차 지도' 다시 그...",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1714369",
+        "press": "www.ebn.co.kr"
       },
       {
-        "title": "삼성, 국내에 2,655조원 투자…광주 반도체 클러스터·전국 AI 인프라 구...",
-        "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2216269",
-        "press": "www.webeconomy.co.kr"
+        "title": "후성, 투자경고종목 해제→재지정 예고…투자주의 환기",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16117245",
+        "press": "www.topstarnews.net"
       },
       {
-        "title": "[증권가 중계] 미래에셋증권, 신한투자증권, KB증권",
-        "url": "http://www.bizwnews.com/news/articleView.html?idxno=139606",
-        "press": "www.bizwnews.com"
+        "title": "‘3조 대어’ 소노인터내셔널, 하반기 IPO 출격…중복상장·자회사 리스...",
+        "url": "https://n.news.naver.com/mnews/article/117/0004079672?sid=103",
+        "press": "www.mydaily.co.kr"
       },
       {
-        "title": "[인터뷰] 이상일 용인시장 \"정부 호남 투자 NO반대…용인 국가산단 손끝...",
-        "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7172050",
-        "press": "weekly.hankooki.com"
+        "title": "정부 '3대 메가프로젝트' 발표, 사실상 소외된 PK",
+        "url": "https://news.knn.co.kr/news/article/189396",
+        "press": "news.knn.co.kr"
       },
       {
-        "title": "호남 반도체·충청 AI 데이터센터·영남 피지컬 AI 로봇 3대 축으로 경제...",
-        "url": "http://www.kwangju.co.kr/article.php?aid=1782732000800696004",
-        "press": "www.kwangju.co.kr"
+        "title": "[EBN 오늘(29일) 이슈 종합] 삼성·SK, 호남으로…'초격차 지도' 다시 그...",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1714369",
+        "press": "www.ebn.co.kr"
+      },
+      {
+        "title": "이상일 “용인 반도체 국가산단 지연 책임 정부에…속도전 나서야”",
+        "url": "https://n.news.naver.com/mnews/article/277/0005782992?sid=102",
+        "press": "view.asiae.co.kr"
+      },
+      {
+        "title": "[EBN 오늘(29일) 이슈 종합] 삼성·SK, 호남으로…'초격차 지도' 다시 그...",
+        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1714369",
+        "press": "www.ebn.co.kr"
+      },
+      {
+        "title": "정부 '3대 메가프로젝트' 발표, 사실상 소외된 PK",
+        "url": "https://news.knn.co.kr/news/article/189396",
+        "press": "news.knn.co.kr"
+      },
+      {
+        "title": "이상일 “용인 반도체 국가산단 지연 책임 정부에…속도전 나서야”",
+        "url": "https://n.news.naver.com/mnews/article/277/0005782992?sid=102",
+        "press": "view.asiae.co.kr"
       }
     ],
     "telegram": []

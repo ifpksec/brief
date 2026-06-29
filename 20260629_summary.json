@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T11:31:58.078726+00:00",
+    "generated_at": "2026-06-29T11:41:55.066141+00:00",
     "run_date": "20260629"
   },
   "market_mood": {
@@ -11,8 +11,8 @@
   "key_indicators": [
     {
       "name": "달러인덱스(DXY)",
-      "value": 101.23,
-      "change": -0.13,
+      "value": 101.24,
+      "change": -0.12,
       "insight": "원화 강세 유도 — 외인 수급 긍정적",
       "tag": "Bullish"
     },
@@ -25,8 +25,8 @@
     },
     {
       "name": "VIX 변동성지수",
-      "value": 18.27,
-      "change": -0.76,
+      "value": 18.32,
+      "change": -0.49,
       "insight": "변동성 안정 — 리스크온 환경",
       "tag": "Bullish"
     },
@@ -53,8 +53,8 @@
     },
     {
       "name": "USD/KRW",
-      "value": 1542.76,
-      "change": -0.24,
+      "value": 1542.61,
+      "change": -0.25,
       "insight": "원달러 환율 — 약세 시 외인 자금 유입",
       "tag": "Bullish"
     },
@@ -76,133 +76,133 @@
   },
   "kr_briefing": [
     {
-      "point": "코스피, 반도체 투심 악화와 레버리지 투자 논란 속 하락세 지속",
+      "point": "코스피 3% 급락 및 반도체 섹터 약세로 국내 증시 투자심리 위축",
       "tag": "Bearish"
     },
     {
-      "point": "반도체 메가 프로젝트 발표에도 불구하고 낙수 효과 실종으로 증시 부진",
+      "point": "고객예탁금 3,875억 원 감소 등 증시 대기 자금 유입 부족",
       "tag": "Bearish"
     },
     {
-      "point": "코스피200 변동성지수 사상 최고 수준 돌파, 시장 공포감 극대화",
+      "point": "삼성전자·SK하이닉스 등 대형주 중심의 수급 불균형 심화",
       "tag": "Bearish"
     },
     {
-      "point": "SK하이닉스 등 주요 종목 쏠림 현상 심화로 K-증시 양극화 가속",
-      "tag": "Bearish"
+      "point": "정부의 메가 프로젝트 발표에도 소외된 특정 지역 및 종목 간 양극화",
+      "tag": "Neutral"
     },
     {
-      "point": "개별 종목 레버리지 ETF 투자 과열에 대한 경고음 지속",
+      "point": "단일 종목 ETF 쏠림 현상으로 인한 시장 변동성 확대 우려",
       "tag": "Bearish"
     }
   ],
   "us_briefing": [
     {
-      "point": "나스닥 1.09% 하락 등 기술주 중심의 변동성 확대 및 차익실현 지속",
+      "point": "미-이란 긴장 완화에도 나스닥 1.09% 하락하며 기술주 약세 지속",
       "tag": "Bearish"
     },
     {
-      "point": "달러인덱스 101.23으로 소폭 하락, 미국 10년물 금리 하향 안정세",
-      "tag": "Neutral"
-    },
-    {
-      "point": "미국-이란 휴전 불안감으로 유가 등 원자재 시장 불확실성 증대",
-      "tag": "Neutral"
-    },
-    {
-      "point": "시장 공포탐욕지수 12(극단적 공포)로 투심 위축, 패닉 매도 구간",
+      "point": "공포탐욕지수 12(Extreme Fear) 기록, 극단적 공포 구간 진입",
       "tag": "Bearish"
     },
     {
-      "point": "딜러 숏감마 영향으로 옵션 시장 하방 압력 및 변동성 확대 여지 존재",
+      "point": "미 10년물 국채 금리 4.37%로 소폭 하락, 시장 안정화 시도",
+      "tag": "Neutral"
+    },
+    {
+      "point": "QQQ 풋옵션 우세로 기술주 하방 압력 강하게 유지",
+      "tag": "Bearish"
+    },
+    {
+      "point": "SPY-IEF 20일 상관계수 0.54, 자산 간 동조화로 인한 리스크 존재",
       "tag": "Bearish"
     }
   ],
   "kr_news": [
     {
       "category": "K-증시·수급",
-      "title": "주가 올라도, 빠져도 “반도체 사라”… 낙수 효과 끊긴 증시",
-      "url": "https://n.news.naver.com/mnews/article/081/0003656842?sid=101",
-      "press": "서울신문",
-      "source": "naver"
-    },
-    {
-      "category": "K-증시·수급",
-      "title": "코스피200 변동성지수, 사상 최고 수준 돌파… 한국 증시 '공포 지수' 비상",
-      "url": "https://www.tokenpost.kr/news/market/373667",
-      "press": "토큰포스트",
-      "source": "naver"
+      "title": "일본·한국 증시 동반 약세; 코스피 3% 급락",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVHQwdk04WjBfVmFZMVp6bnBtZVhwNWgyemxXUHkwcVB1ak44QlhfNkVaVjlSMkh1TVlCUnBIUmtodks0b3dFUm5HbGZzTHpfZGZuUFMtSHl2VjVPU2xVSEdSQjRLX0Jmb1RhR0UzczZHVnRzcC1tYUZTWnpvTHNEcnY0QVVKUzRRUUFPSE9LSlRTZG5IWkR3Z2ctczc0eVByYm53Ym01dE5QdzhDdldoWjJhR3BiUGlFRV9lbzlhY2tjemtFeWdLUF85TQ?oc=5",
+      "press": "TradingKey",
+      "source": "domestic"
     },
     {
       "category": "반도체·AI",
-      "title": "‘삼전닉스’ 800조 투자…전남광주 ‘반도체 허브’로",
-      "url": "http://www.kjdaily.com/article.php?aid=1782731883681319002",
-      "press": "광주매일신문",
-      "source": "naver"
+      "title": "정부 519조 반도체 메가 프로젝트, 코스닥 살렸지만 코스피는 외면",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZFlTenBPX3lxNnhieW1CZUVJY2g0eVdOSFY2dWdnU0RDckVFYllPM0RsdEJGd2FTZGxsek83NloybGhURThOeTBkRVJOa0JZRkZfdzkydlNyOXJJUi0tNDdKNjdmRVBBM0lwSE4wZ3BNYVR2ZC1jNTNYM1FPUnVYVVkxd2Jkd2ltaFl5RnNGVEhBdXNWTUdWdlhMcmVnXzRpNkthcjFFNm9KQmJubkNieEFhUkRxWHVY0gG-AUFVX3lxTE1OUkgxWTdzOTNZY3ZfMk53R0pad19fTGhyVVhSaHlfeDlmUnFCS0pKNGtwdGU3UExCNnQxRHJsLXBPOVkxZWtLWVZaM1ZHdjFSRGotbnBISTB5cl9zWEk3bW1peXlfWEFSVmVCYmlmbkd0SXJSV1FFOVNBVUxzUk1ZNHRsVTZFZVZpT1hRYy00V0w4VkZTMkkta1k3aFlKY09QZ2xOVmdSd0Y5YWFmdV92OGRPbmM3ejR3YUxJWlE?oc=5",
+      "press": "The Korea Times",
+      "source": "domestic"
     },
     {
-      "category": "K-증시·수급",
-      "title": "Korea concentrates single-stock ETF bets on Samsung, SK hynix, stoking volatility",
+      "category": "반도체·AI",
+      "title": "삼성·SK 집중 투자 ETF 쏠림 현상, 변동성 키운다",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMXlCaENhQ0pibTZTMndLaVRlMm15U01LNG42LXVULVVNb2hsRy1wbElDT29fdk1zM1hjMmlpOElmOWI3Wk96ZENUbVJONTZaODlFM21ENmVQSXdSSjBVTnZpaUQwZDFhZllfXzByWGNzYTZMN2hUWUg5bTkxS2dPcdIBlAFBVV95cUxNNEU5YVBMa2tvd2ZEcDRFWFB1aTh1bVNQRHNKZ0w1X08tbEF0ZkFxMGlPRWRfbkZQcS1uMGk2a2RBcndNdUgtei1wcFdiVnV5cVdXcDdJMUtXbkN5ekh4M1YwWWtBY2ZyQmM0VHNiWGpxNkpoaE16ZjFNWUJmNV9JdVo0MGpjdkhiaGdWamxxS3Y0RjFq?oc=5",
       "press": "Chosunbiz",
       "source": "domestic"
     },
     {
       "category": "시장·기타",
-      "title": "SK bioscience Publishes 2026 ESG Report",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95aFhYMmxvM3VmcHdDbFVEQkRUckdTZXV4ZS1UYXlla0dQcGd3dV9ZRkJWQUo5My1iSXFyeFFoSFY0ZHgyQ3QyNVBtTDAyN1RiOVpKVdIBVEFVX3lxTE95aFhYMmxvM3VmcHdDbFVEQkRUckdTZXV4ZS1UYXlla0dQcGd3dV9ZRkJWQUo5My1iSXFyeFFoSFY0ZHgyQ3QyNVBtTDAyN1RiOVpKVQ?oc=5",
-      "press": "한국경제",
-      "source": "domestic"
+      "title": "소노인터내셔널, 하반기 3조 대어 IPO 출격",
+      "url": "https://n.news.naver.com/mnews/article/117/0004079672?sid=103",
+      "press": "mydaily",
+      "source": "naver"
     },
     {
-      "category": "K-증시·수급",
-      "title": "Japan and South Korea Stocks Open Lower; KOSPI Tumbles 3%",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVHQwdk04WjBfVmFZMVp6bnBtZVhwNWgyemxXUHkwcVB1ak44QlhfNkVaVjlSMkh1TVlCUnBIUmtodks0b3dFUm5HbGZzTHpfZGZuUFMtSHl2VjVPU2xVSEdSQjRLX0Jmb1RhR0UzczZHVnRzcC1tYUZTWnpvTHNEcnY0QVVKUzRRUUFPSE9LSlRTZG5IWkR3Z2ctczc0eVByYm53Ym01dE5QdzhDdldoWjJhR3BiUGlFRV9lbzlhY2tjemtFeWdLUF85TQ?oc=5",
-      "press": "TradingKey",
-      "source": "domestic"
+      "category": "시장·기타",
+      "title": "삼성·SK, 호남으로… 초격차 지도 재편",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1714369",
+      "press": "EBN",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "후성, 투자경고종목 해제 및 재지정 예고",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16117245",
+      "press": "Topstarnews",
+      "source": "naver"
     }
   ],
   "us_news": [
     {
       "category": "매크로·금리",
-      "title": "미국-이란 휴전 불안감 속 유가 상승 및 주식 선물 혼조세",
+      "title": "주식 선물 상승세, 미-이란 휴전에도 유가 시장 경계심 지속",
       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TU0NGQ09YelllZHBxYzEtRTQwU1o5LXM1WEZ2VFNtd01hZXF6N3lMdDd3WVJmT1BBM0tNN2FjdG5vbU9VY2ZrUkRNemlFeDVsVlB3dEx3Nl9sM3BYbzQxaDRiNDBTenYzY0J0QUd5VW1mOEx1UjdHQdIBfkFVX3lxTE1yRFlHdnhwX2QydWJWbHFhY3ZXUXR0LTRHV1NJNmFLdG1laUU0Y3lCbi1rM3VQU2k2SllNV1FuLVkzUGVqa3UwcVpzampLWHZ4ZlM3d0FZUVhpMkY0OExQTkJaSGdNOHZXemdJOW0wTFpzQjN5NEFHTlh1ZmlYQQ?oc=5",
       "press": "CNBC",
       "source": "international"
     },
     {
       "category": "시장·기타",
-      "title": "나스닥 반등 시도, 컴캐스트 분할 발표에 주가 급등",
+      "title": "나스닥 연패 탈출 시도, 컴캐스트 분할 계획에 주가 급등",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9vaXJhWDZsS2U0U0NEOXlQQVlmWVAtdnJIeGFmWnZmaEtxeHpSQk1VNzZTUjZBc1pTcWZZMTl4NjlobEJ1UnpQNGpKNWNuZUhVb0hZb3RNOGdOMTRFZ0ptWThPRG5IS1NCRENkdnhPeFJJVlBIdjRuVGF0VzVIRGROSmhYRVU?oc=5",
       "press": "WSJ",
       "source": "international"
     },
     {
+      "category": "에너지·원자재",
+      "title": "미-이란 갈등 고조에 따른 유가 상승 및 시장 불안",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcVhhTkVDZ1RpYUNYUGxpT1hRSlU2Y09PWHM0S19XWU1HeFcwQUp2S2dNZGtoSXd3QnJHZkNYWndHMFJlak5FTmdJTHgxTGdib3hNUG5abEhkUW82V0NyWU1WUTZTUDNTcWR5OS1EdnlGOUJvWV9VaVBQQ0JSRWhVdkVVOU1VbkJCQ3pXOFRrR1F0aE9jX1E3TE8tQzFFRW1IUDZoUDByLUNkTGR1Sm4zNVdJWG82UGNHNVHSAb8BQVVfeXFMT0lXTUJ4bkxXOFR2bU5kWXFiVXJGcVpJMlcwaVRVWW94dnBzLXpqOXBaejBOT2ltUXBsYU85b0oxNUkxTVpnUFk2SXBHbjl0TmJ6NFpZX2VWbl81MVYySXg2MGt0aXN4d2dveE9BcjhJNFJmTHc1amVORWFOcU5haVB3Qll0cWJOWUxudVBNbkY4dkFQSkVYajRHQmo4Y0dBNTNzTkU1STh0OTRiUjBSa2VOX1MwaTl4X3B5dHlBV2M?oc=5",
+      "press": "OilPrice.com",
+      "source": "international"
+    },
+    {
       "category": "반도체·AI",
-      "title": "브로드컴(AVGO), 지금 매수해야 할 최고의 고성장 반도체주인가?",
+      "title": "브로드컴(AVGO), 지금 매수해야 할 최고의 고성장 반도체주?",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3UyVWxBNkhZNnVRb01PbDY3RlltTnRXcWhVNXRiRklkTWh5M2ZNbVQ0b1RLYzFhTjZJZEc1RWM3eG5vWnVHZ3hCc24wR0E3YXRBaXk5R2l5aTdfRzg1eHFEV2FzRDdwdXVRdDBTVkxkdi1jLU9MYVRjM2w4NHBtUGh1WEJva1FfTDNRS0hoTWRnQmo5YzZIT0ZB?oc=5",
       "press": "Yahoo Finance",
       "source": "international"
     },
     {
-      "category": "시장·기타",
-      "title": "스페이스X 지분 매입이 주가 상승을 견인하는 방법",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xS2xxOWtBVzlUMXdmV05LUFhmYTZrU0JVS29mc0NpYXZvN2hBVW9hcGJWdlJud1ptalkwMGY4S0pXMjRjWmxEZERQTk1raFpCcy1UMGJaS0VTbGZwOEl0MGVhOWMxOXkzZ3NZM1Jn?oc=5",
-      "press": "Barron's",
-      "source": "international"
-    },
-    {
       "category": "반도체·AI",
-      "title": "예측: 이 AI 반도체 주식은 2028년까지 1조 달러 클럽에 합류할 것",
+      "title": "2028년까지 1조 달러 클럽에 합류할 AI 반도체 주식 예측",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDZiVjRnNlZsQW9LTWNnMC1MM0JEdi0zZUk4emMxMEs4Vld3bms2RlpyR3k3cHhucjhpSTBIUDhrYV9rRXdSMUZUb3VCeENvbGtxRngwNkRYUkVFeE5HTWFBcEhpQjZmcnExM0VNN3FsYTRwTDZueW91NVdobk1uUkROeGwyNjBLcXU4WUFTYmdrVzNlNkNhNw?oc=5",
       "press": "The Motley Fool",
       "source": "international"
     },
     {
       "category": "매크로·금리",
-      "title": "일본 및 한국 기술주 하락세 연장으로 세계 증시 혼조",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS3lPc0VFX3lHLUlIQXF0Uk5WVm5LRHY3OFRIeXJ3NXZtRHY2T01ud0hGMUIyd2g3WDFIYXpxY2s0MER4Y1U4M3pZajFlSTFlMUdhRXpoMDk0enZfS1NXMDZQUFp3N2tHaXUtN0lGdDMySlpsNi1FVFFtRE4tU252VVdR?oc=5",
-      "press": "Newsday",
+      "title": "중국, 당신의 노후 자금을 좌우할 열쇠가 될 수도 있다",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMGxQY0ZXLTlrcDhlRFRVVmR5Z2I0N2dUOFc0MENJakV4Vi1zSXdFajktUG82LWE2V0JybjZldzFWZjY1cENkZWUybnJrdmlZSi1JZWV2dUdFalNueDRaZ0hwYTNoNzlVVk9pN19OMHpPdlNobzhSM3NaS010cHZfb1NRU3g4d3hxSkwwZjYzNWkwQmVCNU5ITGw4QUNxb2tNTGZmZjlRd0NTY3dkWEhqLThfSGc?oc=5",
+      "press": "The Washington Post",
       "source": "international"
     }
   ]
