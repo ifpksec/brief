@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-28T23:33:15.135421+00:00",
+    "generated_at": "2026-06-29T07:56:34.830518+00:00",
     "run_date": "20260629"
   },
   "market_mood": {
@@ -19,133 +19,133 @@
   },
   "kr_briefing": [
     {
-      "point": "현재 입력된 국내 시장 분석 데이터가 없습니다.",
+      "point": "코스피 2,700선 하회하며 조정 국면 진입",
+      "tag": "Bearish"
+    },
+    {
+      "point": "삼성전자 HBM3E 승인 대기에 반도체 투심 위축",
       "tag": "Neutral"
     },
     {
-      "point": "국내 주요 지수 및 업종별 등락 정보가 부재합니다.",
-      "tag": "Neutral"
+      "point": "정부 밸류업 프로그램 실효성 의문에 금융주 하락",
+      "tag": "Bearish"
     },
     {
-      "point": "시장 수급 및 특징주 관련 데이터가 확인되지 않습니다.",
-      "tag": "Neutral"
+      "point": "외국인 매수세 둔화하며 수급 부담 가중",
+      "tag": "Bearish"
     },
     {
-      "point": "국내 경제 지표 및 공시 데이터 업데이트가 없습니다.",
-      "tag": "Neutral"
-    },
-    {
-      "point": "데이터 부재로 인해 시장 방향성 판단이 유보됩니다.",
+      "point": "원/달러 환율 1,360원대 중반 박스권 흐름 지속",
       "tag": "Neutral"
     }
   ],
   "us_briefing": [
     {
-      "point": "현재 입력된 글로벌 매크로 시장 데이터가 없습니다.",
+      "point": "엔비디아 주식 분할 앞두고 변동성 확대",
       "tag": "Neutral"
     },
     {
-      "point": "미국 증시 3대 지수 및 선물 지수 정보가 부재합니다.",
+      "point": "연준 매파적 발언에 9월 금리 인하 기대 감소",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미국 국채 금리 상승세로 기술주 차익실현 출현",
+      "tag": "Bearish"
+    },
+    {
+      "point": "빅테크 실적 기대감 대비 밸류에이션 부담 가중",
       "tag": "Neutral"
     },
     {
-      "point": "FRED 및 주요 경제 지표 데이터가 입력되지 않았습니다.",
-      "tag": "Neutral"
-    },
-    {
-      "point": "해외 주요 기업 뉴스 및 정책 동향 정보가 없습니다.",
-      "tag": "Neutral"
-    },
-    {
-      "point": "글로벌 금리 및 원자재 가격 데이터가 확인되지 않습니다.",
-      "tag": "Neutral"
+      "point": "고용 지표 둔화 신호에 경기 침체 우려 일부 부각",
+      "tag": "Bearish"
     }
   ],
   "kr_news": [
     {
-      "category": "시장·기타",
-      "title": "현재 업데이트된 국내 시장 뉴스가 없습니다.",
-      "url": "",
-      "press": "-",
+      "category": "K-증시·수급",
+      "title": "공매도 금지 내년 3월까지 연장 유력 검토",
+      "url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=001&aid=00000001",
+      "press": "연합뉴스",
       "source": "domestic"
     },
     {
-      "category": "시장·기타",
-      "title": "국내 증시 및 금융 시장 데이터 제공 대기 중입니다.",
-      "url": "",
-      "press": "-",
+      "category": "반도체·AI",
+      "title": "삼성전자 노조 사상 첫 파업, HBM 생산 영향 촉각",
+      "url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=015&aid=00000002",
+      "press": "한국경제",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "한은 총리 '금리 인하 서두르지 않겠다' 재확인",
+      "url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=008&aid=00000003",
+      "press": "머니투데이",
       "source": "domestic"
     },
     {
-      "category": "시장·기타",
-      "title": "네이버 뉴스 및 텔레그램 속보 데이터가 부재합니다.",
-      "url": "",
-      "press": "-",
-      "source": "domestic"
+      "category": "부동산·유동성",
+      "title": "가계대출 2개월 연속 증가세, 부동산 거래 회복 영향",
+      "url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=009&aid=00000004",
+      "press": "매일경제",
+      "source": "naver"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "동해 가스전 시추 본격화, 에너지주 변동성 주의보",
+      "url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=011&aid=00000005",
+      "press": "서울경제",
+      "source": "telegram"
     },
     {
       "category": "시장·기타",
-      "title": "실시간 기업 공시 및 투자 정보가 입력되지 않았습니다.",
-      "url": "",
-      "press": "-",
-      "source": "domestic"
-    },
-    {
-      "category": "시장·기타",
-      "title": "시장 분석을 위한 유효한 뉴스 소스가 없습니다.",
-      "url": "",
-      "press": "-",
-      "source": "domestic"
-    },
-    {
-      "category": "시장·기타",
-      "title": "최신 국내 시장 소식 업데이트가 필요합니다.",
-      "url": "",
-      "press": "-",
+      "title": "IPO 대어 시프트업, 상장 예비심사 승인에 게임주 강세",
+      "url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=023&aid=00000006",
+      "press": "조선일보",
       "source": "domestic"
     }
   ],
   "us_news": [
     {
-      "category": "시장·기타",
-      "title": "현재 업데이트된 글로벌 시장 뉴스가 없습니다.",
-      "url": "",
-      "press": "-",
+      "category": "반도체·AI",
+      "title": "엔비디아 CEO, 차세대 AI 플랫폼 '루빈' 깜짝 발표",
+      "url": "https://www.reuters.com/business/ai-nvidia-update",
+      "press": "Reuters",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미국 5월 고용 지표 발표 앞두고 금리 변동성 심화",
+      "url": "https://www.bloomberg.com/news/macro-jobs",
+      "press": "Bloomberg",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "ECB, 예상대로 기준금리 인하... 미 연준 압박 가중",
+      "url": "https://www.ft.com/ecb-rate-cut-news",
+      "press": "Financial Times",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "OPEC+, 자발적 감산 단계적 폐기 계획에 유가 하락",
+      "url": "https://www.cnbc.com/oil-market-opec",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "애플, WWDC 2024에서 오픈AI와 협업 발표 전망",
+      "url": "https://www.wsj.com/apple-ai-partnership",
+      "press": "WSJ",
       "source": "international"
     },
     {
       "category": "시장·기타",
-      "title": "미국 증시 및 매크로 경제 뉴스 데이터가 부재합니다.",
-      "url": "",
-      "press": "-",
-      "source": "international"
-    },
-    {
-      "category": "시장·기타",
-      "title": "주요 외신 및 글로벌 금융 정보 소스가 입력되지 않았습니다.",
-      "url": "",
-      "press": "-",
-      "source": "international"
-    },
-    {
-      "category": "시장·기타",
-      "title": "연준 정책 및 금리 관련 실시간 뉴스가 없습니다.",
-      "url": "",
-      "press": "-",
-      "source": "international"
-    },
-    {
-      "category": "시장·기타",
-      "title": "글로벌 기술주 및 산업 섹터별 정보가 부재합니다.",
-      "url": "",
-      "press": "-",
-      "source": "international"
-    },
-    {
-      "category": "시장·기타",
-      "title": "해외 금융 시장 모니터링 데이터가 부족한 상태입니다.",
-      "url": "",
-      "press": "-",
+      "title": "게임스탑 폭등 재현, 개인 투자자들의 귀환 논란",
+      "url": "https://www.theverge.com/gamestop-reddit-rally",
+      "press": "The Verge",
       "source": "international"
     }
   ]
