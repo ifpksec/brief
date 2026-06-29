@@ -1,14 +1,71 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T07:56:34.830518+00:00",
+    "generated_at": "2026-06-29T11:31:58.078726+00:00",
     "run_date": "20260629"
   },
   "market_mood": {
-    "status": "Neutral",
-    "score": 50,
-    "label": "확인 매매 구간"
+    "status": "Fear",
+    "score": 12,
+    "label": "매도 우세 — 반등 탐색"
   },
-  "key_indicators": [],
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 101.23,
+      "change": -0.13,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.37,
+      "change": -0.46,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 18.27,
+      "change": -0.76,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7354.02,
+      "change": -0.05,
+      "insight": "전일종가 7357.49 / 변동 -3.4702",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29118.24,
+      "change": -1.09,
+      "insight": "전일종가 29440.32 / 변동 -322.0801",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51876.11,
+      "change": -0.09,
+      "insight": "전일종가 51920.62 / 변동 -44.5117",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1542.76,
+      "change": -0.24,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 161.84,
+      "change": 0.02,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
   "cat_labels": {
     "반도체·AI": "💻 반도체·AI",
     "매크로·금리": "🏦 매크로·금리",
@@ -19,133 +76,133 @@
   },
   "kr_briefing": [
     {
-      "point": "코스피 2,700선 하회하며 조정 국면 진입",
+      "point": "코스피, 반도체 투심 악화와 레버리지 투자 논란 속 하락세 지속",
       "tag": "Bearish"
     },
     {
-      "point": "삼성전자 HBM3E 승인 대기에 반도체 투심 위축",
-      "tag": "Neutral"
-    },
-    {
-      "point": "정부 밸류업 프로그램 실효성 의문에 금융주 하락",
+      "point": "반도체 메가 프로젝트 발표에도 불구하고 낙수 효과 실종으로 증시 부진",
       "tag": "Bearish"
     },
     {
-      "point": "외국인 매수세 둔화하며 수급 부담 가중",
+      "point": "코스피200 변동성지수 사상 최고 수준 돌파, 시장 공포감 극대화",
       "tag": "Bearish"
     },
     {
-      "point": "원/달러 환율 1,360원대 중반 박스권 흐름 지속",
-      "tag": "Neutral"
+      "point": "SK하이닉스 등 주요 종목 쏠림 현상 심화로 K-증시 양극화 가속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "개별 종목 레버리지 ETF 투자 과열에 대한 경고음 지속",
+      "tag": "Bearish"
     }
   ],
   "us_briefing": [
     {
-      "point": "엔비디아 주식 분할 앞두고 변동성 확대",
-      "tag": "Neutral"
-    },
-    {
-      "point": "연준 매파적 발언에 9월 금리 인하 기대 감소",
+      "point": "나스닥 1.09% 하락 등 기술주 중심의 변동성 확대 및 차익실현 지속",
       "tag": "Bearish"
     },
     {
-      "point": "미국 국채 금리 상승세로 기술주 차익실현 출현",
-      "tag": "Bearish"
-    },
-    {
-      "point": "빅테크 실적 기대감 대비 밸류에이션 부담 가중",
+      "point": "달러인덱스 101.23으로 소폭 하락, 미국 10년물 금리 하향 안정세",
       "tag": "Neutral"
     },
     {
-      "point": "고용 지표 둔화 신호에 경기 침체 우려 일부 부각",
+      "point": "미국-이란 휴전 불안감으로 유가 등 원자재 시장 불확실성 증대",
+      "tag": "Neutral"
+    },
+    {
+      "point": "시장 공포탐욕지수 12(극단적 공포)로 투심 위축, 패닉 매도 구간",
+      "tag": "Bearish"
+    },
+    {
+      "point": "딜러 숏감마 영향으로 옵션 시장 하방 압력 및 변동성 확대 여지 존재",
       "tag": "Bearish"
     }
   ],
   "kr_news": [
     {
       "category": "K-증시·수급",
-      "title": "공매도 금지 내년 3월까지 연장 유력 검토",
-      "url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=001&aid=00000001",
-      "press": "연합뉴스",
-      "source": "domestic"
+      "title": "주가 올라도, 빠져도 “반도체 사라”… 낙수 효과 끊긴 증시",
+      "url": "https://n.news.naver.com/mnews/article/081/0003656842?sid=101",
+      "press": "서울신문",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피200 변동성지수, 사상 최고 수준 돌파… 한국 증시 '공포 지수' 비상",
+      "url": "https://www.tokenpost.kr/news/market/373667",
+      "press": "토큰포스트",
+      "source": "naver"
     },
     {
       "category": "반도체·AI",
-      "title": "삼성전자 노조 사상 첫 파업, HBM 생산 영향 촉각",
-      "url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=015&aid=00000002",
-      "press": "한국경제",
+      "title": "‘삼전닉스’ 800조 투자…전남광주 ‘반도체 허브’로",
+      "url": "http://www.kjdaily.com/article.php?aid=1782731883681319002",
+      "press": "광주매일신문",
       "source": "naver"
     },
     {
-      "category": "매크로·금리",
-      "title": "한은 총리 '금리 인하 서두르지 않겠다' 재확인",
-      "url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=008&aid=00000003",
-      "press": "머니투데이",
+      "category": "K-증시·수급",
+      "title": "Korea concentrates single-stock ETF bets on Samsung, SK hynix, stoking volatility",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMXlCaENhQ0pibTZTMndLaVRlMm15U01LNG42LXVULVVNb2hsRy1wbElDT29fdk1zM1hjMmlpOElmOWI3Wk96ZENUbVJONTZaODlFM21ENmVQSXdSSjBVTnZpaUQwZDFhZllfXzByWGNzYTZMN2hUWUg5bTkxS2dPcdIBlAFBVV95cUxNNEU5YVBMa2tvd2ZEcDRFWFB1aTh1bVNQRHNKZ0w1X08tbEF0ZkFxMGlPRWRfbkZQcS1uMGk2a2RBcndNdUgtei1wcFdiVnV5cVdXcDdJMUtXbkN5ekh4M1YwWWtBY2ZyQmM0VHNiWGpxNkpoaE16ZjFNWUJmNV9JdVo0MGpjdkhiaGdWamxxS3Y0RjFq?oc=5",
+      "press": "Chosunbiz",
       "source": "domestic"
     },
     {
-      "category": "부동산·유동성",
-      "title": "가계대출 2개월 연속 증가세, 부동산 거래 회복 영향",
-      "url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=009&aid=00000004",
-      "press": "매일경제",
-      "source": "naver"
-    },
-    {
-      "category": "에너지·원자재",
-      "title": "동해 가스전 시추 본격화, 에너지주 변동성 주의보",
-      "url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=011&aid=00000005",
-      "press": "서울경제",
-      "source": "telegram"
-    },
-    {
       "category": "시장·기타",
-      "title": "IPO 대어 시프트업, 상장 예비심사 승인에 게임주 강세",
-      "url": "https://news.naver.com/main/read.nhn?mode=LSD&mid=shm&sid1=101&oid=023&aid=00000006",
-      "press": "조선일보",
+      "title": "SK bioscience Publishes 2026 ESG Report",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95aFhYMmxvM3VmcHdDbFVEQkRUckdTZXV4ZS1UYXlla0dQcGd3dV9ZRkJWQUo5My1iSXFyeFFoSFY0ZHgyQ3QyNVBtTDAyN1RiOVpKVdIBVEFVX3lxTE95aFhYMmxvM3VmcHdDbFVEQkRUckdTZXV4ZS1UYXlla0dQcGd3dV9ZRkJWQUo5My1iSXFyeFFoSFY0ZHgyQ3QyNVBtTDAyN1RiOVpKVQ?oc=5",
+      "press": "한국경제",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "Japan and South Korea Stocks Open Lower; KOSPI Tumbles 3%",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVHQwdk04WjBfVmFZMVp6bnBtZVhwNWgyemxXUHkwcVB1ak44QlhfNkVaVjlSMkh1TVlCUnBIUmtodks0b3dFUm5HbGZzTHpfZGZuUFMtSHl2VjVPU2xVSEdSQjRLX0Jmb1RhR0UzczZHVnRzcC1tYUZTWnpvTHNEcnY0QVVKUzRRUUFPSE9LSlRTZG5IWkR3Z2ctczc0eVByYm53Ym01dE5QdzhDdldoWjJhR3BiUGlFRV9lbzlhY2tjemtFeWdLUF85TQ?oc=5",
+      "press": "TradingKey",
       "source": "domestic"
     }
   ],
   "us_news": [
     {
-      "category": "반도체·AI",
-      "title": "엔비디아 CEO, 차세대 AI 플랫폼 '루빈' 깜짝 발표",
-      "url": "https://www.reuters.com/business/ai-nvidia-update",
-      "press": "Reuters",
-      "source": "international"
-    },
-    {
       "category": "매크로·금리",
-      "title": "미국 5월 고용 지표 발표 앞두고 금리 변동성 심화",
-      "url": "https://www.bloomberg.com/news/macro-jobs",
-      "press": "Bloomberg",
-      "source": "international"
-    },
-    {
-      "category": "매크로·금리",
-      "title": "ECB, 예상대로 기준금리 인하... 미 연준 압박 가중",
-      "url": "https://www.ft.com/ecb-rate-cut-news",
-      "press": "Financial Times",
-      "source": "international"
-    },
-    {
-      "category": "에너지·원자재",
-      "title": "OPEC+, 자발적 감산 단계적 폐기 계획에 유가 하락",
-      "url": "https://www.cnbc.com/oil-market-opec",
+      "title": "미국-이란 휴전 불안감 속 유가 상승 및 주식 선물 혼조세",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TU0NGQ09YelllZHBxYzEtRTQwU1o5LXM1WEZ2VFNtd01hZXF6N3lMdDd3WVJmT1BBM0tNN2FjdG5vbU9VY2ZrUkRNemlFeDVsVlB3dEx3Nl9sM3BYbzQxaDRiNDBTenYzY0J0QUd5VW1mOEx1UjdHQdIBfkFVX3lxTE1yRFlHdnhwX2QydWJWbHFhY3ZXUXR0LTRHV1NJNmFLdG1laUU0Y3lCbi1rM3VQU2k2SllNV1FuLVkzUGVqa3UwcVpzampLWHZ4ZlM3d0FZUVhpMkY0OExQTkJaSGdNOHZXemdJOW0wTFpzQjN5NEFHTlh1ZmlYQQ?oc=5",
       "press": "CNBC",
       "source": "international"
     },
     {
-      "category": "반도체·AI",
-      "title": "애플, WWDC 2024에서 오픈AI와 협업 발표 전망",
-      "url": "https://www.wsj.com/apple-ai-partnership",
+      "category": "시장·기타",
+      "title": "나스닥 반등 시도, 컴캐스트 분할 발표에 주가 급등",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9vaXJhWDZsS2U0U0NEOXlQQVlmWVAtdnJIeGFmWnZmaEtxeHpSQk1VNzZTUjZBc1pTcWZZMTl4NjlobEJ1UnpQNGpKNWNuZUhVb0hZb3RNOGdOMTRFZ0ptWThPRG5IS1NCRENkdnhPeFJJVlBIdjRuVGF0VzVIRGROSmhYRVU?oc=5",
       "press": "WSJ",
       "source": "international"
     },
     {
+      "category": "반도체·AI",
+      "title": "브로드컴(AVGO), 지금 매수해야 할 최고의 고성장 반도체주인가?",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3UyVWxBNkhZNnVRb01PbDY3RlltTnRXcWhVNXRiRklkTWh5M2ZNbVQ0b1RLYzFhTjZJZEc1RWM3eG5vWnVHZ3hCc24wR0E3YXRBaXk5R2l5aTdfRzg1eHFEV2FzRDdwdXVRdDBTVkxkdi1jLU9MYVRjM2w4NHBtUGh1WEJva1FfTDNRS0hoTWRnQmo5YzZIT0ZB?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
       "category": "시장·기타",
-      "title": "게임스탑 폭등 재현, 개인 투자자들의 귀환 논란",
-      "url": "https://www.theverge.com/gamestop-reddit-rally",
-      "press": "The Verge",
+      "title": "스페이스X 지분 매입이 주가 상승을 견인하는 방법",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xS2xxOWtBVzlUMXdmV05LUFhmYTZrU0JVS29mc0NpYXZvN2hBVW9hcGJWdlJud1ptalkwMGY4S0pXMjRjWmxEZERQTk1raFpCcy1UMGJaS0VTbGZwOEl0MGVhOWMxOXkzZ3NZM1Jn?oc=5",
+      "press": "Barron's",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "예측: 이 AI 반도체 주식은 2028년까지 1조 달러 클럽에 합류할 것",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDZiVjRnNlZsQW9LTWNnMC1MM0JEdi0zZUk4emMxMEs4Vld3bms2RlpyR3k3cHhucjhpSTBIUDhrYV9rRXdSMUZUb3VCeENvbGtxRngwNkRYUkVFeE5HTWFBcEhpQjZmcnExM0VNN3FsYTRwTDZueW91NVdobk1uUkROeGwyNjBLcXU4WUFTYmdrVzNlNkNhNw?oc=5",
+      "press": "The Motley Fool",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "일본 및 한국 기술주 하락세 연장으로 세계 증시 혼조",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS3lPc0VFX3lHLUlIQXF0Uk5WVm5LRHY3OFRIeXJ3NXZtRHY2T01ud0hGMUIyd2g3WDFIYXpxY2s0MER4Y1U4M3pZajFlSTFlMUdhRXpoMDk0enZfS1NXMDZQUFp3N2tHaXUtN0lGdDMySlpsNi1FVFFtRE4tU252VVdR?oc=5",
+      "press": "Newsday",
       "source": "international"
     }
   ]

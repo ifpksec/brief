@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T07:56:34.829919+00:00",
+    "generated_at": "2026-06-29T11:31:58.077522+00:00",
     "run_date": "20260629"
   },
   "market": {
@@ -14,23 +14,311 @@
     "investor_trends": []
   },
   "macro": {
-    "global": [],
-    "correlation": [],
-    "gex": [],
-    "inst_flows": [],
-    "breadth": []
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.23 (-0.13%)",
+        "description": "전일종가 101.36 / 변동 -0.1270"
+      },
+      {
+        "title": "미국 10년물 금리: 4.37 (-0.46%)",
+        "description": "전일종가 4.39 / 변동 -0.0200"
+      },
+      {
+        "title": "VIX 변동성지수: 18.27 (-0.76%)",
+        "description": "전일종가 18.41 / 변동 -0.1400"
+      },
+      {
+        "title": "S&P 500: 7354.02 (-0.05%)",
+        "description": "전일종가 7357.49 / 변동 -3.4702"
+      },
+      {
+        "title": "나스닥100: 29118.24 (-1.09%)",
+        "description": "전일종가 29440.32 / 변동 -322.0801"
+      },
+      {
+        "title": "다우존스: 51876.11 (-0.09%)",
+        "description": "전일종가 51920.62 / 변동 -44.5117"
+      },
+      {
+        "title": "USD/KRW: 1542.76 (-0.24%)",
+        "description": "전일종가 1546.48 / 변동 -3.7200"
+      },
+      {
+        "title": "USD/JPY: 161.84 (+0.02%)",
+        "description": "전일종가 161.80 / 변동 +0.0330"
+      },
+      {
+        "title": "코스피: 8394.65 (-0.20%)",
+        "description": "전일종가 8411.21 / 변동 -16.5596"
+      },
+      {
+        "title": "코스닥: 920.57 (+8.13%)",
+        "description": "전일종가 851.37 / 변동 +69.2000"
+      },
+      {
+        "title": "KOSPI200: 1352.54 (-1.02%)",
+        "description": "전일종가 1366.49 / 변동 -13.9500"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.540 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 5.11 | GEX -0.0B$ (만기:2026-06-29)",
+        "description": "콜OI 34,151 / 풋OI 174,435 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.87 | GEX +0.0B$ (만기:2026-06-29)",
+        "description": "콜OI 110,109 / 풋OI 205,498 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $197.28 (-3.77%)",
+        "description": "거래량 17,099,800주 (평균대비 0.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $730.17 (-0.86%)",
+        "description": "거래량 5,944,000주 (평균대비 0.4x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 64.3% (128/199종목)",
+        "description": "평균 MA 대비 위치: +2.2%"
+      }
+    ]
   },
-  "sentiment": [],
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 12/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
   "fred": {
-    "standard": [],
-    "liquidity": [],
-    "credit": []
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-05-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.3",
+        "description": "Date: 2026-05-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 333.979",
+        "description": "Date: 2026-05-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 2.1",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.4",
+        "description": "Date: 2026-06-25, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.74조달러",
+        "description": "기준일: 2026-06-24 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.34조달러",
+        "description": "기준일: 2026-06-24 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 9018.45억달러",
+        "description": "기준일: 2026-06-24 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.06억달러",
+        "description": "기준일: 2026-06-26 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 278bp (2.78%)",
+        "description": "기준일: 2026-06-25 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 76bp (0.76%)",
+        "description": "기준일: 2026-06-25 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
   },
   "dart": [],
   "news": {
-    "international": [],
-    "domestic": [],
-    "naver": [],
+    "international": [
+      {
+        "title": "Stock futures rise, but fragile U.S.-Iran truce keeps oil markets on edge: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TU0NGQ09YelllZHBxYzEtRTQwU1o5LXM1WEZ2VFNtd01hZXF6N3lMdDd3WVJmT1BBM0tNN2FjdG5vbU9VY2ZrUkRNemlFeDVsVlB3dEx3Nl9sM3BYbzQxaDRiNDBTenYzY0J0QUd5VW1mOEx1UjdHQdIBfkFVX3lxTE1yRFlHdnhwX2QydWJWbHFhY3ZXUXR0LTRHV1NJNmFLdG1laUU0Y3lCbi1rM3VQU2k2SllNV1FuLVkzUGVqa3UwcVpzampLWHZ4ZlM3d0FZUVhpMkY0OExQTkJaSGdNOHZXemdJOW0wTFpzQjN5NEFHTlh1ZmlYQQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock Market Today: Nasdaq Poised to Break Losing Streak. Comcast Stock Soars on Split Plan — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9vaXJhWDZsS2U0U0NEOXlQQVlmWVAtdnJIeGFmWnZmaEtxeHpSQk1VNzZTUjZBc1pTcWZZMTl4NjlobEJ1UnpQNGpKNWNuZUhVb0hZb3RNOGdOMTRFZ0ptWThPRG5IS1NCRENkdnhPeFJJVlBIdjRuVGF0VzVIRGROSmhYRVU?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "How Buying SpaceX Shares Is Sending This Stock Higher - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xS2xxOWtBVzlUMXdmV05LUFhmYTZrU0JVS29mc0NpYXZvN2hBVW9hcGJWdlJud1ptalkwMGY4S0pXMjRjWmxEZERQTk1raFpCcy1UMGJaS0VTbGZwOEl0MGVhOWMxOXkzZ3NZM1Jn?oc=5",
+        "press": "Barron's"
+      },
+      {
+        "title": "Oil Prices Climb as U.S.-Iran Flare-Up Shakes Market Complacency - Crude Oil Prices Today | OilPrice.com",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcVhhTkVDZ1RpYUNYUGxpT1hRSlU2Y09PWHM0S19XWU1HeFcwQUp2S2dNZGtoSXd3QnJHZkNYWndHMFJlak5FTmdJTHgxTGdib3hNUG5abEhkUW82V0NyWU1WUTZTUDNTcWR5OS1EdnlGOUJvWV9VaVBQQ0JSRWhVdkVVOU1VbkJCQ3pXOFRrR1F0aE9jX1E3TE8tQzFFRW1IUDZoUDByLUNkTGR1Sm4zNVdJWG82UGNHNVHSAb8BQVVfeXFMT0lXTUJ4bkxXOFR2bU5kWXFiVXJGcVpJMlcwaVRVWW94dnBzLXpqOXBaejBOT2ltUXBsYU85b0oxNUkxTVpnUFk2SXBHbjl0TmJ6NFpZX2VWbl81MVYySXg2MGt0aXN4d2dveE9BcjhJNFJmTHc1amVORWFOcU5haVB3Qll0cWJOWUxudVBNbkY4dkFQSkVYajRHQmo4Y0dBNTNzTkU1STh0OTRiUjBSa2VOX1MwaTl4X3B5dHlBV2M?oc=5",
+        "press": "Crude Oil Prices Today | OilPrice.com"
+      },
+      {
+        "title": "Broadcom (AVGO) The Best High Growth Semiconductor to Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN3UyVWxBNkhZNnVRb01PbDY3RlltTnRXcWhVNXRiRklkTWh5M2ZNbVQ0b1RLYzFhTjZJZEc1RWM3eG5vWnVHZ3hCc24wR0E3YXRBaXk5R2l5aTdfRzg1eHFEV2FzRDdwdXVRdDBTVkxkdi1jLU9MYVRjM2w4NHBtUGh1WEJva1FfTDNRS0hoTWRnQmo5YzZIT0ZB?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Prediction: This Artificial Intelligence (AI) Semiconductor Stock Will Join the $1 Trillion Club by 2028 - The Motley Fo",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcDZiVjRnNlZsQW9LTWNnMC1MM0JEdi0zZUk4emMxMEs4Vld3bms2RlpyR3k3cHhucjhpSTBIUDhrYV9rRXdSMUZUb3VCeENvbGtxRngwNkRYUkVFeE5HTWFBcEhpQjZmcnExM0VNN3FsYTRwTDZueW91NVdobk1uUkROeGwyNjBLcXU4WUFTYmdrVzNlNkNhNw?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "World shares are mixed as tech stocks in Japan and South Korea extend losses - Newsday",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNS3lPc0VFX3lHLUlIQXF0Uk5WVm5LRHY3OFRIeXJ3NXZtRHY2T01ud0hGMUIyd2g3WDFIYXpxY2s0MER4Y1U4M3pZajFlSTFlMUdhRXpoMDk0enZfS1NXMDZQUFp3N2tHaXUtN0lGdDMySlpsNi1FVFFtRE4tU252VVdR?oc=5",
+        "press": "Newsday"
+      },
+      {
+        "title": "Asian shares are mixed as tech stocks fall in Japan and South Korea - 10TV",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQY0NFWGdLS3JMdDNpVVBud1daN3pxSmZrUm9kSVlpQzhuVEJLdDNPY0pxT0xWU2FGWlRkVmVtTENCRDB2VlZyY2tiaFN2eThlUjU3Qy1hM0cxQ2dCTFVVV09xUW9VeVlQVlB6ckZXcThoNmIwOFlIM3dHLTRyREtMNTFqQXU3d3lRMkhDYTJjbmF5amZUMEY0dGN3YnN5YUNXcGoyRHhiM2t6ZHFxT1lUVzRGMU5ZSUVEQVhxd2I5bTNnUEhWLXRZQUtoOWZJQml4c0ZVUlphMGFqV0F1cHlPY1QxQ0dsZmhxWWlSMFFGMTVTSW95YnpqMg?oc=5",
+        "press": "10TV"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "SK bioscience Publishes 2026 ESG Report - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95aFhYMmxvM3VmcHdDbFVEQkRUckdTZXV4ZS1UYXlla0dQcGd3dV9ZRkJWQUo5My1iSXFyeFFoSFY0ZHgyQ3QyNVBtTDAyN1RiOVpKVdIBVEFVX3lxTE95aFhYMmxvM3VmcHdDbFVEQkRUckdTZXV4ZS1UYXlla0dQcGd3dV9ZRkJWQUo5My1iSXFyeFFoSFY0ZHgyQ3QyNVBtTDAyN1RiOVpKVQ?oc=5",
+        "press": "한국경제"
+      },
+      {
+        "title": "Japan and South Korea Stocks Open Lower; KOSPI Tumbles 3% to Lead Asian Tech Stocks, Samsung Electronics, SK Hynix and S",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVHQwdk04WjBfVmFZMVp6bnBtZVhwNWgyemxXUHkwcVB1ak44QlhfNkVaVjlSMkh1TVlCUnBIUmtodks0b3dFUm5HbGZzTHpfZGZuUFMtSHl2VjVPU2xVSEdSQjRLX0Jmb1RhR0UzczZHVnRzcC1tYUZTWnpvTHNEcnY0QVVKUzRRUUFPSE9LSlRTZG5IWkR3Z2ctczc0eVByYm53Ym01dE5QdzhDdldoWjJhR3BiUGlFRV9lbzlhY2tjemtFeWdLUF85TQ?oc=5",
+        "press": "TradingKey"
+      },
+      {
+        "title": "KOSPI Up to 150x, Samsung-Hynix Up to 50x Leverage Released... \"Virtually a Gambling Den\" Controversy - 아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1jT25nYkhFUjl6bnJFLXhIWGhJbnhvby1TUXlTa09qQWh6V3ltemFqNk5JY1ZnRnBqcnItN0JsNEM2c2Z1VzZEOGI1ZzV4ZHFBN0xZRFI2NndNSjdRMm5tY05ERmo4ZHlraEQwcU02eW50cm5ZTkZuWmU5Yw?oc=5",
+        "press": "아시아경제"
+      },
+      {
+        "title": "South Korea Chip Stocks Retail Investors Are Watching After The $1tn AI Buildout - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVzZtWmR6NlNId0I5Y1UycGdJNTVGclRzaFZUV3BGelU4eVFIZUxndXVLb0tvUFNhRFNsRmxBSTduRkxBZXFiTkUzOWs4eEd4T19iTnViakhiYkZLbEdLR0hHaWZLNVpIOGtVWE5VNE9TS0cySFhPWVVLUzhMQUlIMWJGeEJQaEdUZVV6WTNfNkZ2VUZnRnlYUXJEZDdQMklMa1lQSTYxaVRfS1BEOXZ6LWI2V2pmYkRYa21vM3V3R3JTVDJtYW8zSVNfREsxTEpJRFRIctIB2gFBVV95cUxNanFGQkVxNzhNZ3phUmlOVzdVSGp2WVlVci1zZEdnY2dlcjMzSUJ3SU1BT1VDWTMtQy1BX2VJd3BGQktKUXl6VFNfalJtbl82d0YzMFUtN2M4WGdyOXdtV1dPSk1SNTJiZEJsenNSV09TTUswdjU5NEYydExVMlhHNUZ6YnBsM2ljM0lGQXJ0YmhrVktUR0xDOHhtREd0MW54NFVaNThxWjFoSXUwODhDamlhUlVsT285ZU5sMXhoQXZqUFJFZmJVUzJ1bV96LV9uSGdJc29BYlFkdw?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Korea's $519 bil. chip megaproject sparks Kosdaq rally, fails to lift KOSPI - The Korea Times",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZFlTenBPX3lxNnhieW1CZUVJY2g0eVdOSFY2dWdnU0RDckVFYllPM0RsdEJGd2FTZGxsek83NloybGhURThOeTBkRVJOa0JZRkZfdzkydlNyOXJJUi0tNDdKNjdmRVBBM0lwSE4wZ3BNYVR2ZC1jNTNYM1FPUnVYVVkxd2Jkd2ltaFl5RnNGVEhBdXNWTUdWdlhMcmVnXzRpNkthcjFFNm9KQmJubkNieEFhUkRxWHVY0gG-AUFVX3lxTE1OUkgxWTdzOTNZY3ZfMk53R0pad19fTGhyVVhSaHlfeDlmUnFCS0pKNGtwdGU3UExCNnQxRHJsLXBPOVkxZWtLWVZaM1ZHdjFSRGotbnBISTB5cl9zWEk3bW1peXlfWEFSVmVCYmlmbkd0SXJSV1FFOVNBVUxzUk1ZNHRsVTZFZVZpT1hRYy00V0w4VkZTMkkta1k3aFlKY09QZ2xOVmdSd0Y5YWFmdV92OGRPbmM3ejR3YUxJWlE?oc=5",
+        "press": "The Korea Times"
+      },
+      {
+        "title": "Chip surge widens Korea’s K-shaped split as KOSDAQ slumps, KOSPI skews - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVG5GeE5EVlNaWS1NS3FZNS1aVVYyeDZIVk1TS2VNd3p6bm5KUWVFNWwzVkpBY0FQcC1mcVZaSnlRUWFzT1NDU2VfY1M4Qm5DWUVHYUlJcTlvMC1XV0gzMkZXd1puc3BUcWFYdTdWLWdhTzlTTEhTa0c3SEV3dGctNdIBlAFBVV95cUxNR3c1WGpBcl83ay1VTldJdlBZOHFqVWt0bk9Rb1E3V3kyZWRSRy1oTnNwNDNWemN5NzRDTzdoTGM0OENDZ193T2pMNy0tc3B1SXRhYUdZNnpMaTRkUFJNRUVURjlkbVN4U1FPcHRUVHJPZkFLZnkySHNIUV9hZWdBVkFjN2h2TElxT3hxOUpPN18tZWxG?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "SK bioscience Publishes 2026 ESG Report - 한국경제",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95aFhYMmxvM3VmcHdDbFVEQkRUckdTZXV4ZS1UYXlla0dQcGd3dV9ZRkJWQUo5My1iSXFyeFFoSFY0ZHgyQ3QyNVBtTDAyN1RiOVpKVdIBVEFVX3lxTE95aFhYMmxvM3VmcHdDbFVEQkRUckdTZXV4ZS1UYXlla0dQcGd3dV9ZRkJWQUo5My1iSXFyeFFoSFY0ZHgyQ3QyNVBtTDAyN1RiOVpKVQ?oc=5",
+        "press": "한국경제"
+      },
+      {
+        "title": "Korea concentrates single-stock ETF bets on Samsung, SK hynix, stoking volatility - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMXlCaENhQ0pibTZTMndLaVRlMm15U01LNG42LXVULVVNb2hsRy1wbElDT29fdk1zM1hjMmlpOElmOWI3Wk96ZENUbVJONTZaODlFM21ENmVQSXdSSjBVTnZpaUQwZDFhZllfXzByWGNzYTZMN2hUWUg5bTkxS2dPcdIBlAFBVV95cUxNNEU5YVBMa2tvd2ZEcDRFWFB1aTh1bVNQRHNKZ0w1X08tbEF0ZkFxMGlPRWRfbkZQcS1uMGk2a2RBcndNdUgtei1wcFdiVnV5cVdXcDdJMUtXbkN5ekh4M1YwWWtBY2ZyQmM0VHNiWGpxNkpoaE16ZjFNWUJmNV9JdVo0MGpjdkhiaGdWamxxS3Y0RjFq?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Samsung, SK Chairmen Stress Honam Investment Preconditions - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNem9ndU93U1FGX3Y2OThKNTdoUm5rR19OVmd1OFVSdi03eVpDMVpWMVlaOFNXYUdSR2xHblZMM3MzeFFYU015LUt6U0tpU2czQTBsR0JqdzJOaTJTeEFHWUNPLThQbVFrVGdSZno0dFU4SnhwRVU4VndyenpGRlBJUVdNd1d3R1Fs?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Samsung, SK to Invest Trillions in Regional Semiconductor, AI Hubs - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV0kyQmN5RDQxYi1qdk5wMEFzZzlnMnJ0Y0pCcWNGaE1iMjlwcDdXVHc2eUtuTlFaZ0ZTUnd0dVFiTUdKZWhJTDRKQU1nWk9GVms5ZWJWZV9vU1JWVEE4YUdoSFpFWms1ZEFQM1l4amZ3ekF3UHlhR0d0OU5GTGdjRl9ZTjQzV2x5?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Naver launches “full-scale partnership” with Hyundai - Yahoo Autos",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNakdzZzNkMFJldU9KWE1UMjEtRmFyX19YcmVpZ2draFBVdEpaRU05MllqUGhsbTZxUkVPT2lyT0xEUnhhTnFQOGdSa0pWNlA1SEhYckhtTWpJaGVMQ0pxTkhmTzEzTjJlYjRpSTZFbllxNnFwWjlHUmxNdGhDUEFDU0F4eW0weDlHT294cmF5R1IxMjdHdmVNOFNwM2I5aXJPSm1xbDNWTQ?oc=5",
+        "press": "Yahoo Autos"
+      },
+      {
+        "title": "South Korea's Inflation Rate Surpasses 3%, Impacts Economic Poli - GuruFocus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM2x4ZEhxd28tRlBNY09mVHZFUndETmp3VnRQNkh0N3VBZjdEdmEzOG9vd0JobXVXVklCemtTZV9hcFdkeHdSZ3E3Nzg4WjdfMDlmakVIUXhSbm9vSzNidU1pU1NWVjFMWjlxOHNpWi1GTGIwTVRFbmc2R2NDWWJ0YTZMVnlyS0lrNk1iTkhnd3NXSExCRERiSmhnTzZTSm5ReDJvTVVmZkJHMFRJdU5zbHlreWY?oc=5",
+        "press": "GuruFocus"
+      }
+    ],
+    "naver": [
+      {
+        "title": "[증권가 중계] 미래에셋증권, 신한투자증권, KB증권",
+        "url": "http://www.bizwnews.com/news/articleView.html?idxno=139606",
+        "press": "www.bizwnews.com"
+      },
+      {
+        "title": "[최병문 칼럼] '독재 대 민주'의 이분법을 넘어: 민주화 이후 진보정치...",
+        "url": "http://www.ujeil.com/news/articleView.html?idxno=387985",
+        "press": "www.ujeil.com"
+      },
+      {
+        "title": "주가 올라도, 빠져도 “반도체 사라”… 낙수 효과 끊긴 증시",
+        "url": "https://n.news.naver.com/mnews/article/081/0003656842?sid=101",
+        "press": "www.seoul.co.kr"
+      },
+      {
+        "title": "매드업, 7월 1일 코스닥 입성...디지털 마케팅 AI 기업 신규 상장",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464043",
+        "press": "www.pinpointnews.co.kr"
+      },
+      {
+        "title": "한국거래소, 코스닥 상장예심 신청 2곳 접수...바이다·싸이몬 심사 착...",
+        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464042",
+        "press": "www.pinpointnews.co.kr"
+      },
+      {
+        "title": "코스피200 변동성지수, 사상 최고 수준 돌파… 한국 증시 '공포 지수' 비...",
+        "url": "https://www.tokenpost.kr/news/market/373667",
+        "press": "www.tokenpost.kr"
+      },
+      {
+        "title": "[증권가 중계] 미래에셋증권, 신한투자증권, KB증권",
+        "url": "http://www.bizwnews.com/news/articleView.html?idxno=139606",
+        "press": "www.bizwnews.com"
+      },
+      {
+        "title": "‘삼전닉스’ 800조 투자…전남광주 ‘반도체 허브’로",
+        "url": "http://www.kjdaily.com/article.php?aid=1782731883681319002",
+        "press": "www.kjdaily.com"
+      },
+      {
+        "title": "삼성, 국내에 2,655조원 투자…광주 반도체 클러스터·전국 AI 인프라 구...",
+        "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2216269",
+        "press": "www.webeconomy.co.kr"
+      },
+      {
+        "title": "[증권가 중계] 미래에셋증권, 신한투자증권, KB증권",
+        "url": "http://www.bizwnews.com/news/articleView.html?idxno=139606",
+        "press": "www.bizwnews.com"
+      },
+      {
+        "title": "[인터뷰] 이상일 용인시장 \"정부 호남 투자 NO반대…용인 국가산단 손끝...",
+        "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7172050",
+        "press": "weekly.hankooki.com"
+      },
+      {
+        "title": "호남 반도체·충청 AI 데이터센터·영남 피지컬 AI 로봇 3대 축으로 경제...",
+        "url": "http://www.kwangju.co.kr/article.php?aid=1782732000800696004",
+        "press": "www.kwangju.co.kr"
+      }
+    ],
     "telegram": []
   }
 }
