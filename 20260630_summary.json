@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "generated_at": "2026-06-29T23:36:51.820938+00:00",
+    "run_date": "20260630"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 12,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 101.11,
+      "change": -0.25,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.37,
+      "change": 0.05,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 17.65,
+      "change": -4.13,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7440.43,
+      "change": 1.18,
+      "insight": "전일종가 7354.02 / 변동 +86.4102",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29774.75,
+      "change": 2.25,
+      "insight": "전일종가 29118.24 / 변동 +656.5117",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 52182.74,
+      "change": 0.59,
+      "insight": "전일종가 51876.11 / 변동 +306.6289",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1535.24,
+      "change": -0.73,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 161.91,
+      "change": 0.08,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "고객예탁금 126조 원대 유지하며 소폭 감소세",
+      "tag": "Neutral"
+    },
+    {
+      "point": "신용융자잔고 37.7조 원 수준으로 유동성 관망세",
+      "tag": "Neutral"
+    },
+    {
+      "point": "프로그램 매매 1,893억 원 순매도로 수급 부담",
+      "tag": "Bearish"
+    },
+    {
+      "point": "삼성전자·SK하이닉스 ETF 출시 후 변동성 확대",
+      "tag": "Neutral"
+    },
+    {
+      "point": "코스피 8400선 회복 도전 및 리밸런싱 여파 대비",
+      "tag": "Neutral"
+    },
+    {
+      "point": "국내 한계기업 비중 증가 속도 주요국 중 최고 수준",
+      "tag": "Bearish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "나스닥 2.25% 급등, 기술주 중심 강력한 반등",
+      "tag": "Bullish"
+    },
+    {
+      "point": "다우 지수 52,000선 돌파하며 사상 최고치 경신",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 12, 극단적 공포에 따른 역발상 구간",
+      "tag": "Bullish"
+    },
+    {
+      "point": "달러 인덱스 101.11 하락하며 위험자산 선호 회복",
+      "tag": "Bullish"
+    },
+    {
+      "point": "딜러 롱감마 상태 지속되며 시장 변동성 억제 기여",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미 국채 금리 상승에도 빅테크가 증시 견인 주도",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "코스피 1만 시대 기대 속 반도체 매수 권고",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU2NLNGxCR1d2dVRleGdLZU5YbkNHR0l3WW84ckczTmpqTndGNmpXaTRuQXoxSFNxNDZFMUdsQ2M0cjBJcG9VendKazRmUVR4ZjdkTW1GVlpjVTJGZ1JIZ3NuNW1Sa0FFMkM5bFpJWXFGVTN4UkhNN25zYzRPTnJyRU4wZkpidzJKU3ppUFRR?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자·SK하이닉스, ETF 출시 후 변동성 확대",
+      "url": "https://www.etoday.co.kr/news/view/2598506",
+      "press": "이투데이",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "한국 한계기업 비중 증가 속도 주요국 중 가장 빨라",
+      "url": "https://www.epnc.co.kr/news/articleView.html?idxno=403643",
+      "press": "EPNC",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 8400선 회복 도전, 리밸런싱 여파 대비",
+      "url": "https://n.news.naver.com/mnews/article/011/0004636298?sid=101",
+      "press": "서울경제",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "삼정KPMG, 유통·소비재 기업 IPO 세미나 개최",
+      "url": "https://www.etoday.co.kr/news/view/2598507",
+      "press": "이투데이",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "반도체 반등 속 미국 우주·전기차 종목 관심",
+      "url": "https://n.news.naver.com/mnews/article/015/0005304318?sid=101",
+      "press": "한국경제",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "광명전기, 조광식 대표 체제로 새 출발",
+      "url": "https://n.news.naver.com/mnews/article/293/0000086966?sid=101",
+      "press": "블로터",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "알파벳 가세한 다우 지수, 사상 첫 52,000 돌파 마감",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TU0NGQ09YelllZHBxYzEtRTQwU1o5LXM1WEZ2VFNtd01hZXF6N3lMdDd3WVJmT1BBM0tNN2FjdG5vbU9VY2ZrUkRNemlFeDVsVlB3dEx3Nl9sM3BYbzQxaDRiNDBTenYzY0J0QUd5VW1mOEx1UjdHQdIBfkFVX3lxTE1yRFlHdnhwX2QydWJWbHFhY3ZXUXR0LTRHV1NJNmFLdG1laUU0Y3lCbi1rM3VQU2k2SllNV1FuLVkzUGVqa3UwcVpzampLWHZ4ZlM3d0FZUVhpMkY0OExQTkJaSGdNOHZXemdJOW0wTFpzQjN5NEFHTlh1ZmlYQQ?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "나스닥 상승 및 컴캐스트 분할 계획에 주가 급등",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU9vaXJhWDZsS2U0U0NEOXlQQVlmWVAtdnJIeGFmWnZmaEtxeHpSQk1VNzZTUjZBc1pTcWZZMTl4NjlobEJ1UnpQNGpKNWNuZUhVb0hZb3RNOGdOMTRFZ0ptWThPRG5IS1NCRENkdnhPeFJJVlBIdjRuVGF0VzVIRGROSmhYRVU?oc=5",
+      "press": "WSJ",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "기술주 반등 이후 다우·S&P 500·나스닥 선물 하락",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOWZnZ2pZLTR3R0U1R2xzVUpFWXFPRldKd1FvX0RoRUJiMldxZXVEYUhDN01lRFcyeHhQSlltUGFqS3JYMTRsVU84eFlsbFVIYW1LbzNjVVJKQVE0M2tneERoMndYSlhLaGt0ZVo4WWtMNXIxbktqaWstdnNPdHVkRVhCZXVxWlFkSmtlcUppX0lPcW देवेंद्र-ز9 qFllnkDT_n1ky-mubob6cr9Jc5Uc7-f0gz-sf5?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "기술주 강세 및 미-이란 공격 중단 호소에 증시 상승",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS0FSelVOV005QXlFX093NXJvalhjUTdZNG1neXdRYWt5SlJuRjRuOWh6clJUMDdfWWVocmhpQk5yMXZyMnE4akVWeEtKTDZGTTJhbGVhWEFNeEt3aWl1dWVDVHJub254MkphQ3haZDRPRXkyQXVRdGZZS3JibUhaZVlKeDlVaWdaUlY3YklTU1pwTVJkbGNsZmdR?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "평생 저축의 보안 열쇠가 위태로울 수 있다는 의견",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMGxQY0ZXLTlrcDhlRFRVVmR5Z2I0N2dUOFc0MENJakV4Vi1zSXdFajktUG82LWE2V0JybjZldzFWZjY1cENkZWUybnJrdmlZSi1JZWV2dUdFalNueDRaZ0hwYTNoNzlVVk9pN19OMHpPdlNobzhSM3NaS010cHZfb1NRU3g4d3hxSkwwZjYzNWkwQmVCNU5ITGw4QUNxb2tNTGZmZjlRd0NTY3dkWEhqLThfSGc?oc=5",
+      "press": "The Washington Post",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미국 시장 마감: 기술주 강력 반등으로 다우 최고치",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObGFRZmdmX3phZjNiVElZN2Y0UTljR0pLVVBzbnJvMVNkSnZMRVBTWWhRcDFBaUVCdWNRbHpFZjE4WTllNTNDM2liS09CWGRFUVJlYTQ4Ym9JZVJtemtmX3RqT2RSMFprbUx1M0VuTnA4YnZlazRyb3pPWHplMkVYamFwekZSUEYzTm1WTUZxc2NlUmtsd3BoS0pvUFRYNnhjNkJr?oc=5",
+      "press": "富途牛牛",
+      "source": "international"
+    }
+  ]
+}
