@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-06-29T11:41:55.064467+00:00",
+    "generated_at": "2026-06-29T11:59:21.471421+00:00",
     "run_date": "20260629"
   },
   "market": {
@@ -89,16 +89,16 @@
   "macro": {
     "global": [
       {
-        "title": "달러인덱스(DXY): 101.24 (-0.12%)",
-        "description": "전일종가 101.36 / 변동 -0.1170"
+        "title": "달러인덱스(DXY): 101.27 (-0.09%)",
+        "description": "전일종가 101.36 / 변동 -0.0910"
       },
       {
         "title": "미국 10년물 금리: 4.37 (-0.46%)",
         "description": "전일종가 4.39 / 변동 -0.0200"
       },
       {
-        "title": "VIX 변동성지수: 18.32 (-0.49%)",
-        "description": "전일종가 18.41 / 변동 -0.0900"
+        "title": "VIX 변동성지수: 18.30 (-0.60%)",
+        "description": "전일종가 18.41 / 변동 -0.1100"
       },
       {
         "title": "S&P 500: 7354.02 (-0.05%)",
@@ -113,12 +113,12 @@
         "description": "전일종가 51920.62 / 변동 -44.5117"
       },
       {
-        "title": "USD/KRW: 1542.61 (-0.25%)",
-        "description": "전일종가 1546.48 / 변동 -3.8700"
+        "title": "USD/KRW: 1543.05 (-0.22%)",
+        "description": "전일종가 1546.48 / 변동 -3.4299"
       },
       {
-        "title": "USD/JPY: 161.84 (+0.02%)",
-        "description": "전일종가 161.80 / 변동 +0.0380"
+        "title": "USD/JPY: 161.81 (+0.00%)",
+        "description": "전일종가 161.80 / 변동 +0.0070"
       },
       {
         "title": "코스피: 8394.65 (-0.20%)",
@@ -238,14 +238,14 @@
         "press": "WSJ"
       },
       {
-        "title": "Stock Market Today: Dow, S&P 500 and Nasdaq set to climb after U.S. and Iran agree to stop fighting over Strait of Hormu",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeHB2bENqM0J4bDVuT2ROSnV0aU1RdjhnekVCZDBXd0ROR1Z4a0I3c2huZHpDYlZFZEh4SXFmQzdncEtveW1ITGRHdExPRklMSklxa1cyTXZ1b1huRkhyRndHbjJaSmtxc2R4d3NMUndTcHU2cjFGOF9rVm55NjJ2aURwaml2OEZiZzA0dnBlcFktRXdtNXo4RF92M3ZNMFFlaEMtSTdnTm9NUQ?oc=5",
-        "press": "MarketWatch"
+        "title": "Wall Street Weans Itself From Tech in Early Summer Rotation - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9fLVQyX1cwMnJfVkdFb0d6MWFKcXA4bHRwZ0lOdVdfMnpYQkp5NmVhOWlWZk05a2tvQjVsYTlVNko0V2lvUkZLSndnN3F2Y0pMZ2ZXd2x4V0pGbnJZcjVXRGVxVm5oMFpNMEQwaDhpdFlqaWNOWWFWQVBLbw?oc=5",
+        "press": "Barron's"
       },
       {
-        "title": "Oil Prices Climb as U.S.-Iran Flare-Up Shakes Market Complacency - Crude Oil Prices Today | OilPrice.com",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcVhhTkVDZ1RpYUNYUGxpT1hRSlU2Y09PWHM0S19XWU1HeFcwQUp2S2dNZGtoSXd3QnJHZkNYWndHMFJlak5FTmdJTHgxTGdib3hNUG5abEhkUW82V0NyWU1WUTZTUDNTcWR5OS1EdnlGOUJvWV9VaVBQQ0JSRWhVdkVVOU1VbkJCQ3pXOFRrR1F0aE9jX1E3TE8tQzFFRW1IUDZoUDByLUNkTGR1Sm4zNVdJWG82UGNHNVHSAb8BQVVfeXFMT0lXTUJ4bkxXOFR2bU5kWXFiVXJGcVpJMlcwaVRVWW94dnBzLXpqOXBaejBOT2ltUXBsYU85b0oxNUkxTVpnUFk2SXBHbjl0TmJ6NFpZX2VWbl81MVYySXg2MGt0aXN4d2dveE9BcjhJNFJmTHc1amVORWFOcU5haVB3Qll0cWJOWUxudVBNbkY4dkFQSkVYajRHQmo4Y0dBNTNzTkU1STh0OTRiUjBSa2VOX1MwaTl4X3B5dHlBV2M?oc=5",
-        "press": "Crude Oil Prices Today | OilPrice.com"
+        "title": "5 things to know for June 29: Heat wave, Venezuela earthquakes, Strait of Hormuz, World Cup viewership, stock market - C",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUVBGaVVVU1NyQkEzVjhIYU9qMEtJc1JpVF9YejYwdVRTQ2Y1VHA1TXF6QVh0SEpaSnpOUkFlX09aamdkNEtBTUs0Y19OOF9FVWNPWFZIams1Ml83TDdVTndJaVpIbm5WVWQybXJPT0IwcmpIU0VUUlhockJtelBhczVjQXhGZFViSXRvSG11Mmd6ejVxd1NZOGpLRlhiNE9GVGx3ZFU1ZkdZeWtmOXduRm9pcGRMYXFEdkxNX2xzYTdsdkRabXVVS2cxdFlPb3JnZ2VBcVI0bllENXJFbXc?oc=5",
+        "press": "CNN"
       },
       {
         "title": "Opinion | China could have the keys to your life savings - The Washington Post",
@@ -332,19 +332,14 @@
     ],
     "naver": [
       {
-        "title": "[EBN 오늘(29일) 이슈 종합] 삼성·SK, 호남으로…'초격차 지도' 다시 그...",
-        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1714369",
-        "press": "www.ebn.co.kr"
+        "title": "'삼전닉스' 쉬고 코스닥 날았다…8%대 급등",
+        "url": "https://n.news.naver.com/mnews/article/422/0000879665?sid=161",
+        "press": "www.yonhapnewstv.co.kr"
       },
       {
-        "title": "‘3조 대어’ 소노인터내셔널, 하반기 IPO 출격…중복상장·자회사 리스...",
-        "url": "https://n.news.naver.com/mnews/article/117/0004079672?sid=103",
-        "press": "www.mydaily.co.kr"
-      },
-      {
-        "title": "[증권가 중계] 미래에셋증권, 신한투자증권, KB증권",
-        "url": "http://www.bizwnews.com/news/articleView.html?idxno=139606",
-        "press": "www.bizwnews.com"
+        "title": "한 달 동안 증시 세 번 멈췄다‥변동성 키운 '2배 ETF', 외신도 주목",
+        "url": "https://n.news.naver.com/mnews/article/214/0001508467?sid=101",
+        "press": "imnews.imbc.com"
       },
       {
         "title": "[EBN 오늘(29일) 이슈 종합] 삼성·SK, 호남으로…'초격차 지도' 다시 그...",
@@ -352,44 +347,49 @@
         "press": "www.ebn.co.kr"
       },
       {
-        "title": "후성, 투자경고종목 해제→재지정 예고…투자주의 환기",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16117245",
-        "press": "www.topstarnews.net"
+        "title": "'삼전닉스' 쉬고 코스닥 날았다…8%대 급등",
+        "url": "https://n.news.naver.com/mnews/article/422/0000879665?sid=161",
+        "press": "www.yonhapnewstv.co.kr"
       },
       {
-        "title": "‘3조 대어’ 소노인터내셔널, 하반기 IPO 출격…중복상장·자회사 리스...",
-        "url": "https://n.news.naver.com/mnews/article/117/0004079672?sid=103",
-        "press": "www.mydaily.co.kr"
+        "title": "7월 공모주 일정은?… 에이치엘지노믹스·레메디 등 '바이오·의료기기...",
+        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1166434",
+        "press": "www.ggilbo.com"
       },
       {
-        "title": "정부 '3대 메가프로젝트' 발표, 사실상 소외된 PK",
-        "url": "https://news.knn.co.kr/news/article/189396",
-        "press": "news.knn.co.kr"
+        "title": "[특징주] 샤페론, 5대 1 주식 액면병합 결정…8월 임시주총서 확정",
+        "url": "https://www.newstnt.com/news/articleView.html?idxno=708213",
+        "press": "www.newstnt.com"
       },
       {
-        "title": "[EBN 오늘(29일) 이슈 종합] 삼성·SK, 호남으로…'초격차 지도' 다시 그...",
-        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1714369",
-        "press": "www.ebn.co.kr"
+        "title": "“전북 또 빠졌지만 가능성은 남았다”…남은 변수는 ‘李대통령의 의...",
+        "url": "https://www.jjan.kr/article/20260629500537",
+        "press": "www.jjan.kr"
       },
       {
-        "title": "이상일 “용인 반도체 국가산단 지연 책임 정부에…속도전 나서야”",
-        "url": "https://n.news.naver.com/mnews/article/277/0005782992?sid=102",
-        "press": "view.asiae.co.kr"
+        "title": "민선9기 인수위, 정부 ‘반도체 메가프로젝트’ 강력 반발",
+        "url": "https://www.jjan.kr/article/20260629500536",
+        "press": "www.jjan.kr"
       },
       {
-        "title": "[EBN 오늘(29일) 이슈 종합] 삼성·SK, 호남으로…'초격차 지도' 다시 그...",
-        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1714369",
-        "press": "www.ebn.co.kr"
+        "title": "'삼전닉스' 쉬고 코스닥 날았다…8%대 급등",
+        "url": "https://n.news.naver.com/mnews/article/422/0000879665?sid=161",
+        "press": "www.yonhapnewstv.co.kr"
       },
       {
-        "title": "정부 '3대 메가프로젝트' 발표, 사실상 소외된 PK",
-        "url": "https://news.knn.co.kr/news/article/189396",
-        "press": "news.knn.co.kr"
+        "title": "'삼전닉스' 쉬고 코스닥 날았다…8%대 급등",
+        "url": "https://n.news.naver.com/mnews/article/422/0000879665?sid=161",
+        "press": "www.yonhapnewstv.co.kr"
       },
       {
-        "title": "이상일 “용인 반도체 국가산단 지연 책임 정부에…속도전 나서야”",
-        "url": "https://n.news.naver.com/mnews/article/277/0005782992?sid=102",
-        "press": "view.asiae.co.kr"
+        "title": "호남·충청·영남에 반도체·AI 1600조 투자…“초격차 대한민국 도약”",
+        "url": "https://n.news.naver.com/mnews/article/028/0002811906?sid=100",
+        "press": "www.hani.co.kr"
+      },
+      {
+        "title": "SK, 전국 AI 인프라 구축 본격화… \"AI 소비국서 수출국으로\"",
+        "url": "http://www.intn.co.kr/news/articleView.html?idxno=2051609",
+        "press": "www.intn.co.kr"
       }
     ],
     "telegram": []
