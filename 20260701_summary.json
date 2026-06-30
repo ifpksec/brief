@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "generated_at": "2026-06-30T23:36:51.155233+00:00",
+    "run_date": "20260701"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 15,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 101.17,
+      "change": 0.06,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.42,
+      "change": 1.05,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 16.45,
+      "change": -6.8,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7499.36,
+      "change": 0.79,
+      "insight": "전일종가 7440.43 / 변동 +58.9297",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 30276.35,
+      "change": 1.68,
+      "insight": "전일종가 29774.75 / 변동 +501.5977",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 52319.2,
+      "change": 0.26,
+      "insight": "전일종가 52182.74 / 변동 +136.4609",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1541.73,
+      "change": 0.42,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 162.55,
+      "change": 0.39,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "고객 예탁금 5.8조 원 급증하며 증시 대기 자금 풍부",
+      "tag": "Bullish"
+    },
+    {
+      "point": "환율 1,540원대 돌파로 외환 시장 변동성 확대",
+      "tag": "Bearish"
+    },
+    {
+      "point": "신용융자 37조 원대 고공행진으로 레버리지 리스크",
+      "tag": "Bearish"
+    },
+    {
+      "point": "AI 투자 유입 기대감에 코스피 상단 낙관론 확산",
+      "tag": "Bullish"
+    },
+    {
+      "point": "에코프로비엠 대규모 증자에 이차전지 수급 냉랭",
+      "tag": "Bearish"
+    },
+    {
+      "point": "국세 수입 19% 증가하며 정부 재정 여력 일부 개선",
+      "tag": "Bullish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "나스닥 1.6% 급등하며 반도체 기술주 강세 주도",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 15 극단적 공포로 역발상 매수 구간",
+      "tag": "Bullish"
+    },
+    {
+      "point": "금리 상승에도 기업 실적 기반 주식 시장 견조",
+      "tag": "Neutral"
+    },
+    {
+      "point": "옵션 풋 우세하나 딜러 롱감마로 변동성 억제",
+      "tag": "Neutral"
+    },
+    {
+      "point": "미국 하이일드 스프레드 280bp로 신용 시장 안정",
+      "tag": "Bullish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "“AI 투자 돈길은 한국으로”…3분기 코스피 낙관 전망",
+      "url": "https://n.news.naver.com/mnews/article/018/0006319566?sid=101",
+      "press": "www.edaily.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "SK하이닉스 나스닥 상장 재도전 및 반독점 소송 리스크",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSFlwWVZ6RTM5MUNLb0ZuaFNVdTZkNDhDdFdTOXZNMm1yMnRsX05ETFg0NFdwWG5fRHZvLU1jSDZTNFFCSEZReXdWUkxEU3psc25TZmk4WlFCaTVZSmpPS20zMTJMT0traEQ2MFBxN3Z3SnB1OGVFSmFsNWZzaFdoems3emdpeUZx0gGcAUFVX3lxTFBnalpmZVVEbUdaT3FBclR6T3dBVHZINXRhdXZCRGlVZFYyaWxnc3FpRG9qeGxIeTZEbVFXR3pIbWRHcFFORVN2a2p5TXloRjc4SE9YU1NwZFZNYlNvVmQ2SEZRX001aHQtb1JsazMzdV9rez_HyeN1Zy1XVTd2UnJ3SlRzNlNMYkpzQ3lRSWM1QnhORENsNVcwNm5rdg?oc=5",
+      "press": "Chosunbiz",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "에코프로비엠 1.2조 증자에 시장 냉랭한 반응",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4422720",
+      "press": "news.einfomax.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "한국 증시 단기 매매 성행하는 카지노 변질 우려",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQ09FWmpKSGw4MGpTbGNqVTZxUnVQTlBYQk5RS2ZlVVp0cGFCWFZpNUdIcUVKSTlTSzZTWk84Q09rV2FKQ2NDZjNIR3gtSXFZS2hjUDdRZHlFalFtSUJFS1JRdVB3TXJzRkVRc1NMTHNUVDBMRG0wQ3dGZnVVd3lXVDRLX1A1RklOUEd2eHRPLW5GRFYzSVJUclhDT25vQVl3TVhFSTlTd1FoX3dpem5TSFRjbnBCZw?oc=5",
+      "press": "Korea JoongAng Daily",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "선익시스템 KOSDAQ IR서 차세대 OLED 증착 전략 발표",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5oZ1luc1I1WklIam8yaDlGR2hqMEZxX2ZkU3daamFqT29jVFFvaXE5anoteTFDTGRYRGF1N0RLelZUSE1mQ0UtU0lvY010eVMwb3h5cFVpNXpUREFCUFA0LUtBcmNyaWs?oc=5",
+      "press": "thelec.net",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 150배 레버리지 해외 거래소 확산 투자 경고",
+      "url": "https://www.tjb.co.kr/news05/bodo/view/id/100216",
+      "press": "www.tjb.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "5월 국세 수입 35조 8천억 원, 전년 대비 19% 증가",
+      "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=51200",
+      "press": "www.koreareport.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "SJG세종, 주주가치 제고 위해 자기주식 소각 결정",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=711737",
+      "press": "www.cstimes.com",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "반도체 랠리 속 다우 사상 최고치, S&P 500 최고의 분기 마감",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObVhOMHZ6bXFMU0lFU2J6S2R4b2w5YkthUmRYdWh1ZmRna3Nqck9QVzJUU0RESmtJQ1ZyeHRZelhBaEQwMFVYcjlpbkgxWGtnejJ3NVE5ZHo1MHdndE0yRm11ZmptWXk4Yk5yTnlFdGh0ckh5bVJlRU9zNFhFb0QyOHBOZGp5NXVadFA5RUFDZ0JOSVlzckpqc2FDb21YbG1YZTJyVjFIcHJHdXFXOFdRRHNvSlQ5R2JMQzJxdTNBRV9IZjhKck5SeHpXWC1IY1JlTE9tVHc4SWdDMVZEcEl0Tk45bXFwcDBRYUp4RA?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "램리서치 및 반도체 장비주들 사상 최고가 기록",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOb056ZlBZWjJEWEh0a1ZUcnNNd1ZseFFtS3lPUmJMcEZJM2FzWm9Jc0p6U21UWHlldXloN2FEb0ZGOWZINEZwZlhUbG81Z1FSSnpQSGtzcFppT0V5YXF5blE5MXlITGxYYXhLQTZkSFZCU0hHSE5nZDBlWHUybG1YWVFvNnpBNnljeUY1VE1pRWdqMThZQlAzN1hn?oc=5",
+      "press": "Investor's Business Daily",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "기술주들 2023년 이후 최고의 상반기 실적 달성",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcU1zaVVaN0lsdWpNYnhzWVRpc0hkdDhhSmJ4Uncta0syVGNNenMtY0F1ck1WVUxyRmtTMnZUQmltZS1LVnFpaG1OdU9uREVOLXc5RXlJZGFva0dhb2d2UnR6dlBzLVlzdFEwTVBnT2lYNVNfTWpsV3FVY1d2aUNLeUVzX0Zkb3ZVU0x5RGNqc0NWUjB1cm5udjd5a1BjSGhaTFhnVTMzYlFxYTVZSkRITEYtWVlKVWh3T3ZiaDdoQ0tQdkw0eU9HTnRjM2FLYW5rWkw3d0tKR01sV3VqWWFKa0xTczhJTkJXcGxEUEJCQ29QWTB5b2hJRWJjYjBqeF9U?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "미 증시 기록적 분기 달성에 아시아 증시 동반 상승 기대",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOR25EbGViSWxWemp3UlVlUm9pTWE4S2VkXzhqN2dhVWE2SGpmVV9veDVZMlBPU2xXUnFpTWtDRXZhWi1GYWhXbVp0MjJSQmlQYkE4SHJ1NVNFR05hQ2VFZkFNdmNYVldoeVNPOXVYdlJYR0xWbFVfR29JYWt5THlqM180V0dnUWRrZ1FZMGxiUUJuNUhCVVVsZEswRkNEOEVKSWJac1lmUTRnLTNPTTVrY3g5OVY?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "다우지수 2021년 이후 상반기 최대 실적 후 선물 소폭 하락",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UTmFQVS1ub2ZfWUp5NW9FNlNiQWZ1MXd2c2RTVVVFVmNLeGVCNjZEMnJjUGRDYVczc0VuMy1FMi04cDB5cnhvVW1mVUIwRXl4WDYxV0dIWkRxR2hyMmJzemVIVllWTWdmdlVhZ19HQWhlSXhFYmZR0gF8QVVfeXFMTzNPVk43VFB2S3lwMkFnMTdxTEF4dmhNT3FRYmREY2dQdnFXOC1waTNLNzRXWVl0ck83TlRtdFprNmdXdmFvYXowSTVlM1puTmpxMXljem8xbFd6NUZZN2h5STBKQ1JUTzdBcTgxQlQ2QUtFNjF0dGJpYUwtaQ?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "오웬스 코닝 시장 수익률 상회하며 주목",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV3ByZU9NWDZIdFZlTHdoQzBWZU5HM2JGVF85RUtpdWpVQ2xaN0lqYWpydndPaXpXTWJYVHRiX196WEJjNEE4MG9FbUdrOFQ2V2JOOVdLWjdoX0hGTW55eHU5aGNrdDFrNGdqMFFMSmFMYlA0MGRtTG81VHg3WGxsS2FzSnJVOW9oSTZENWRCOVJxaTVFdmVEai1TVjA?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    }
+  ]
+}
