@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "generated_at": "2026-07-01T23:37:09.001409+00:00",
+    "run_date": "20260702"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 11,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 101.41,
+      "change": 0.22,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 16.59,
+      "change": 0.85,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Neutral"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7483.23,
+      "change": -0.22,
+      "insight": "전일종가 7499.36 / 변동 -16.1299",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29809.13,
+      "change": -1.54,
+      "insight": "전일종가 30276.35 / 변동 -467.2168",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 52305.24,
+      "change": -0.03,
+      "insight": "전일종가 52319.20 / 변동 -13.9609",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1548.61,
+      "change": 0.45,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 162.57,
+      "change": -0.04,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    },
+    {
+      "name": "코스피",
+      "value": 8476.48,
+      "change": 0.97,
+      "insight": "국내 대형주 지수 (전일 종가 기준)",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "코스피 상승에도 환율 1,540원대 급등하며 부담",
+      "tag": "Bearish"
+    },
+    {
+      "point": "고객예탁금 10.8조 원 급감하며 증시 유동성 위축",
+      "tag": "Bearish"
+    },
+    {
+      "point": "국내 물가 상승률 2.5년 만에 최고치로 한은 부담",
+      "tag": "Bearish"
+    },
+    {
+      "point": "EWY ETF 8.12% 폭락하며 외국인 이탈 우려 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "SK하이닉스 대규모 채용 등 반도체 인력 확보전",
+      "tag": "Bullish"
+    },
+    {
+      "point": "AI 프로젝트 기대감에 따른 전력 및 전기주 강세",
+      "tag": "Bullish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "공포탐욕지수 11, 극단적 공포에 따른 패닉 국면",
+      "tag": "Bearish"
+    },
+    {
+      "point": "나스닥100 1.5% 하락, 반도체 버블 우려에 급락",
+      "tag": "Bearish"
+    },
+    {
+      "point": "고용 보고서 대기하며 시장 관망세 및 혼조세 지속",
+      "tag": "Neutral"
+    },
+    {
+      "point": "BoA의 반도체 버블 리스크 경고에 주요 종목 하락",
+      "tag": "Bearish"
+    },
+    {
+      "point": "SPY GEX 롱감마 상태로 지수 하방 지지력은 유효",
+      "tag": "Neutral"
+    },
+    {
+      "point": "달러 및 금리 강세 유지되며 위험자산 선호 약화",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "SK하이닉스, 삼성 및 국영 기업 경력직 등 54개 직무 채용",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMTkyNW1ram9BQU9wWVRiMmc2bndfSXNlMy0zOUVGR0lMek9SeGVWLVBVTXFRck9ZSWdPMDR4OXNsbWZPQW15ZEVXNENSSGJ5T0kxZGxxX3hDWERUTEIyQUlKMWRJeWU4QXRXZE02djhMclI1a0F6TEp6SGl0MEJ2VtIBlAFBVV95cUxQajNVWTJqYnJtZ2JCNnVTT3dTWFBDOE0yTnlsUUV0NnV0Y0I1QV90d0UyVHV6UHkzeUNtaTc2ZUNjWkc3cUdYVkNEM0x6bklfS21LeWUyU3BmMnQzVUhuMnQ2bmNMTGprWk9Eb3RfeEN1ajhDZTRPdGRZVDJMVWFlOWVnTlVldHZiWXBuMUpDNmpGSlFO?oc=5",
+      "press": "Chosunbiz",
+      "source": "domestic"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "한국 인플레이션율 2년 6개월 만에 최고치 기록",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPS21wTEhnV2lYZjV3NlhqclBKZW0xX3AxVnh5bGluUlRYODkyTWJjZHRLYW9ENzlaM0g2Q0RJU1FPS1VuX2htblNJdEJWVFZKNjRQVl85WHB6WWxYZmItVF85cTQ1Q19LdXVnYnp5eVV1cWdwNXk5Y0pyX1RreTNPUEdlVlA5SWdVLTVydV8zMlFoeGl0dWJxcGNHOTFRc2NBR3NJMFZJVEJaUQ?oc=5",
+      "press": "Reuters",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "[어제장 오늘장] 반도체 수급 풀리며 매수세 이동…오늘 강한 섹터는?",
+      "url": "https://n.news.naver.com/mnews/article/374/0000519505?sid=101",
+      "press": "biz.sbs.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "정부 추진 인공지능 구축 프로젝트 기대감…전력전기주↑",
+      "url": "https://n.news.naver.com/mnews/article/374/0000519504?sid=101",
+      "press": "biz.sbs.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "한국 투자자들, 규제 피해 해외 코인 거래소서 150배 레버리지 베팅",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTFc3Wk9zY0d3S29FWmxNUmIwMlItR3IzclkyUldjVGVIYmhBTXRrSFpkd2wtR2ZnRVp1M0ppX3doREpTWVdielRyakVOdEpYc2MwbzcyaXBrSHV3eVpkZ0JDR0FMRUVodzRVU3Rqc3Bra2hma0VYRnBXQy1NQ0w2YlVtRFg0MW9EdE5TMk14dnV3M25GV3JxQ2xfY2x0ZVd6bG04WWFmQnNuZnRUZ3lleWZmSVZmZ0FDUGJWRmNVOG9udk00OG9aMHZHQUZyV2dkLXYtcExBLWFNS2tHT2Y3d1l3LTlSQQ?oc=5",
+      "press": "Korea JoongAng Daily",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "넥서스비, 5배 빠른 공간 분할 ALD 기술로 코스닥 IPO 추진",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85cVlnUHUyd3pLQklvdEUwTTNZdXd1WDIwNTFQWVN0bTQ5dTBNSEd0SklwSi1mQkV3Q3Y0eC1vOElRclJmaXd0eVVXak1vcW8xc3ZaTmt5Z2xGSFBaZWxCbFQ4QmdGcFk?oc=5",
+      "press": "thelec.net",
+      "source": "domestic"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "한국 물가 고공행진 지속, 한은의 매파적 성향 뒷받침",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYkUyMVhEQkUtTGpEaGk5NVoyamt1aHM4bkRMZndCMXdDdmluSUZ0VUs5b0plMkR0LWlwZWdfck45YjhtRFhvbDdwc0hxYmhFVy1KUkpfVWo2YzJBUTUxQ21jdzhLYTRIbWl0Z0pRbGptR3AyemMyaFJfcC1LQTktNTVFTkdTNm9SbVpzUFMzRjllSE9DUUw5LWFmRUtKYVVCMWlxdVVmZ1NtUlBpSzlWa1piQnBqVmJTWFFqaXdGWi04M3NDYWdCdGJzWTJnMWc?oc=5",
+      "press": "Bloomberg.com",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "인텔 7%, AMD 5%, TSMC 6% 급락... BoA '버블 리스크' 경고",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT1JFVzUxVDFibWNCX0FTZ2t0TnJucTdWZFlxUm9tNVRxLWpva1c1b044YXNERWI3SlRGNDFxVTk4eXZPWlJLNXI4cE0wOWdQMFh1UmZsRmJLMzY1OXMzTXJCVlZQUldhLUU5VHZiSDB3VlBUYno4cHJiX2ZEUWhGcFZOdWRIUFVEb242OGdHTEYzQmc?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "마이크론, 샌디스크 등 반도체 주가 급락의 배경은 무엇인가?",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQ29hVUN1bjFXdjVGNDNiSlN3TFk1dmpJemNobmhWUEp5djBMb2VBak5KNi1ZeHBrRUVBSEQycWhiTUNYcTUwTUFKYUFhZ1hIempfZkdRU1M2QmZBREFlZ0RZNWhiQ1BraWpoVVUwT3E5RkxWdlR6dEVkT0x4a2J5U3U3ZlRDWmpWYkZYdEowVXpDQTNFZEQwOS1UUE1hRE1BemlHWHNn?oc=5",
+      "press": "Invezz",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미 증시 선물, 고용보고서 발표 앞두고 보합세 유지",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wbTlpNG1pUDh4QWF1UEdjQXBjNGY4ZkhMdGNTUzJqYmM3QWF0ZFFWbzF2a2oxRktmYjNoRWFCbW1GeFFUb3ZVUUlrZXRlbnpuYUtOemIyVEpWakFiYXN4ZEZ0MWJBRFVPY2RXSmtxdWptTmt0bXVN0gF8QVVfeXFMUG5UaktlMS1BaHJEWTcyTHpkS1VxYURCWWRkQVRyZnZyd2tiT3oyVjBFT2lyYnFRNkdJQWdPWmZmT3FQdmpqMFcyUGI5UFZXNTV2U0RzajZhM2RaY2w0dkVXdEExeklXbG42NkdiRDhGcWpNUkVmVlNYcnZWdw?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "하반기 증시 랠리의 승자는 누가 될 것인가?",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xUFNnSXhiTnotS1FOQnItejBzaThHX2ZxVURuZDJUWHg3cjhvY0lEc2wybHlDYzRpMG84RHlfTzBPX0NiaFlnMllSU295VEtDS0IyTDdPQzRZTEE?oc=5",
+      "press": "Fox Business",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "트럼프, 시그니처 무역 협정 파기 원하지만 실행은 쉽지 않아",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00RURfcF9yUkRudFNaOUpBRV9ORXpDejc1VTc3WWduMEVsNmZneHdOVlAxbDJsUDZJLTc1TU9tTDJVcURMLUR3VkVNR3h4WHBmYVFOUU43R0s0eDhEM3RuaHpFNzVRN1k?oc=5",
+      "press": "CNN",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "AOL, 비메오 소유주 '벤딩 스푼스' 미국 데뷔 첫날 40% 폭등",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeC0ta0lKRWhoOEhReTE0ODJaeFNBY2cwcFM1c0ZjdDdKbGZOUlZrRk50NWp4SUVsaWJ6ci0yQnoyc0xVUWUwWHVYSXFEdXNUUU9fYXgxTTZiUUZ0Z0NUOWRfemV3Z0JtN2tSWjRFb2tWNXNCcXdaSFk0b3BteWFwVzJ6ZlFqN0pTZFk1Q3RuN2FIWDFWcGFaNU12bmFVN2E2M0ptaXBKMWs2WEhabVM0R2dKYkwxdw?oc=5",
+      "press": "Reuters",
+      "source": "international"
+    }
+  ]
+}
