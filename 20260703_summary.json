@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "generated_at": "2026-07-02T23:35:58.849620+00:00",
+    "run_date": "20260703"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 19,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 100.85,
+      "change": -0.53,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 16.15,
+      "change": -2.65,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7483.24,
+      "change": 0.0,
+      "insight": "전일종가 7483.23 / 변동 +0.0103",
+      "tag": "Neutral"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29329.21,
+      "change": -1.61,
+      "insight": "전일종가 29809.13 / 변동 -479.9180",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 52900.07,
+      "change": 1.14,
+      "insight": "전일종가 52305.24 / 변동 +594.8320",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1551.81,
+      "change": 0.21,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 161.29,
+      "change": -0.77,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    },
+    {
+      "name": "코스피",
+      "value": 8303.41,
+      "change": -2.04,
+      "insight": "국내 대형주 지수 (전일 종가 기준)",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "코스피 8,300선 붕괴하며 전일 대비 2.04% 급락",
+      "tag": "Bearish"
+    },
+    {
+      "point": "원/달러 환율 1,550원 돌파하며 원화 약세 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "고객예탁금 1.5조 원 감소하며 투자 심리 위축",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 19점, 극단적 공포 국면 진입",
+      "tag": "Neutral"
+    },
+    {
+      "point": "프로그램 매매는 비차익 중심 소폭 순매수 기록",
+      "tag": "Neutral"
+    },
+    {
+      "point": "KRX 코스닥 상장 규정 강화로 디지털 자산 업종 압박",
+      "tag": "Bearish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "다우 지수 600P 급등하며 사상 최고치 경신",
+      "tag": "Bullish"
+    },
+    {
+      "point": "나스닥 1.6% 하락, 반도체 및 테슬라 급락 영향",
+      "tag": "Bearish"
+    },
+    {
+      "point": "SPY 딜러 롱감마 상태로 하방 경직성 확보 시도",
+      "tag": "Neutral"
+    },
+    {
+      "point": "QQQ 숏감마 국면 지속으로 기술주 변동성 확대",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미국 하이일드 스프레드 안정세로 신용 리스크 제한",
+      "tag": "Bullish"
+    },
+    {
+      "point": "달러 인덱스 하락 및 금리 안정에도 기술주 차익 실현",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "8000선 내준 코스피…메타발 충격 딛고 반등할까",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000047380",
+      "press": "jnilbo.com",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "'전기먹는 공룡' 반도체 팹…전력 수급 성패 가른다",
+      "url": "https://n.news.naver.com/mnews/article/001/0016173957?sid=105",
+      "press": "yna.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "KRX, 디지털 자산 사업 전환 관련 코스닥 규정 강화",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaFpCaWMxSDZEVy16SERleGsweDRNb3dRNG11VllhVWZFWk1aem93M1pkYjVEZEl6bjgtUm9vcXJSS3hiX0tpMHFYZC1LUk92dnRYV0M2d2tHZnlaMENWcVdudlNNTGJBQ1pWb0tjMEVudlM2MGd1dnJybVBRU1BIOHhRajZfVHhFZGJic1ozV1BJOWNJbl9RUFpJbDRrdw?oc=5",
+      "press": "CryptoRank",
+      "source": "domestic"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "연준 매파적 통화정책 후퇴에 달러 약세 전망",
+      "url": "https://www.etoday.co.kr/news/view/2599868",
+      "press": "etoday.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "하락 출발 예상...장중 반발 매수세 유입 기대",
+      "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141007",
+      "press": "opinionnews.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "알로이스, '아틀라스링크'로 사명 변경 및 AI 기업 변신",
+      "url": "https://www.nbntv.kr/news/articleView.html?idxno=340411",
+      "press": "nbntv.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스닥, 규정 강화 속 K-바이오 수출 드라이브",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUUs2MU5NUThzSHlpZnlDdGliNUFrX2JrbUxjMFRSU0VHLTIwb05JM3VfNFBuX0pJNzR5RUktZm1rWkFOZWlaRHZKRVp1aVdzcmR5TW5MZkpmZ0FsSjZLSmlxalN0S0F3OG1sMUNoVHRsZ2tZOXJ3UDVNV2J3NFdkONIBlAFBVV95cUxOVm1DNFBzQ3AtaE5udWlNb2dlRGNteko5RVduZFo0ZzNiS2RId1MtUXVrVXhNemJ0RlA1NF90dm1qSk9QY2owZF8tS3dZN3U4YlhyQmJPUXVVRlcySV9tbzNzem1JTk5xc2hLNFQ0Sld3NFhfdDVvNGo0TEZiTTdqOFNIUjllcjg0QkdXTWEwMVpObXdF?oc=5",
+      "press": "Chosunbiz",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "도프, 폐기물관리법 개정 최대 수혜 기업 부상",
+      "url": "https://n.news.naver.com/mnews/article/018/0006321504?sid=101",
+      "press": "edaily.co.kr",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "시장·기타",
+      "title": "다우 지수 600포인트 급등하며 최고치 경신; 반도체 하락에 나스닥은 슬라이딩",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0wbTlpNG1pUDh4QWF1UEdjQXBjNGY4ZkhMdGNTUzJqYmM3QWF0ZFFWbzF2a2oxRktmYjNoRWFCbW1GeFFUb3ZVUUlrZXRlbnpuYUtOemIyVEpWakFiYXN4ZEZ0MWJBRFVPY2RXSmtxdWptTmt0bXVN0gF8QVVfeXFMUG5UaktlMS1BaHJEWTcyTHpkS1VxYURCWWRkQVRyZnZyd2tiT3oyVjBFT2lyYnFRNkdJQWdPWmZmT3FQdmpqMFcyUGI5UFZXNTV2U0RzajZhM2RaY2w0dkVXdEExeklXbG42NkdiRDhGcWpNUkVmVlNYcnZWdw?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "기술주 우려에 아시아 증시 이틀 연속 하락 전망",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbFp2a0lWdU9xbS1UbTZUeE9lWEQyNGsxTHB6LUJVVVJoSkJuWFA1enVrLS1CeUdqOHpKVlo0a00yN0Z0V29aSHdLdk9LMzVfaXpvRUMtZFpXd0FqZ1RWSjVGWTM2VUludFl6eEYwMnp1TnB6ZWNHVVJNdG1TUXNIMkJ1VW9TQzQ1YXBQOGw4Znptd21a?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "테슬라 급락과 반도체 하락세 지속에 S&P 500 및 나스닥 하락",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR2JzamV5ZHM2alNocnZhblRrS2l2OWFUb25JbUt1Q2RzX0M3c0JqN0NPcG5xMHI1cWt2UEtTVTQ3ZlRRR09Pb0tpVDY5YUJsbDZLVjIyQ0FkWG1GSjRibFZTdjM4TzJQejdmOFM3RW0ycW15RXpJSF95bUZ3dG8yaFBKdEc5aVV4eG1sVUtXeU1ZQQ?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "부동산·유동성",
+      "title": "주택 시장 반등 기대감이 마진 압박에 부딪히며 오픈도어 주가 하락",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbXo0bS1ma3MxeWxMX1hjWGczYXEtYTdhWk9LVWFHT3paeDU5ZnVmU3lnTjNFQTk5WVF1eUpLUDBOLWRnM1loX3BJVzRQSENWUThvZGVLNGxPY0pZN3lycko5Yk9mcU9pNUVYQm1GaWhkMHdzcEI3cUxUNkY0WXQtVklzQURNcXVUbGJWX2p0WkEtNS1L?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "온세미컨덕터 주가 3.6% 하락: 투자자가 알아야 할 사항",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbUZ3Q1EwNjBKd1lMQ0U4bXR6eWhLLXpYQjEtODJLRXpNRTAtZkZpM1FCMmpWbFl6c2h2U2pBSWJRRTFac3pDOEJ0dzJrQkJaNnFEN3ZnbkFzRHNHSDlvNl8xd0NYSDltY3N3N3dSNnhUekxTa3ZLTlhRQ3pvQWdlX0VkSGdXdTY2ZV9XY1U2a3J1ZUgycHNVODlBdU9LZw?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "MACOM 대 기타 아날로그 반도체 주식 비교 분석",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTU5DallaZ2R0dHhOTnh3Rm9jd1c3TTZfQmFhSFRBVFNGaFJObkNBeUU3eVlXOVpBSXNYWlRwR2toTUFDNVhQdFo3SXdud09lb3NtdXdVbXpSV3ZyWWtaR0hEQTZabExTUk9Db2c2c1hNa01KNks0OXdtWkVpUnZ2ekNBU1lBZHRTX0JYSjdjTmdnZnhHNnl5Vg?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    }
+  ]
+}
