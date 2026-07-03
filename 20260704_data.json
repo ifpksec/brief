@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "generated_at": "2026-07-03T23:33:04.505114+00:00",
+    "run_date": "20260704"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.86 (-0.00%)",
+        "description": "전일종가 100.86 / 변동 -0.0030"
+      },
+      {
+        "title": "VIX 변동성지수: 15.81 (-2.11%)",
+        "description": "전일종가 16.15 / 변동 -0.3400"
+      },
+      {
+        "title": "S&P 500: 7483.24 (+0.00%)",
+        "description": "전일종가 7483.23 / 변동 +0.0103"
+      },
+      {
+        "title": "나스닥100: 29329.21 (-1.61%)",
+        "description": "전일종가 29809.13 / 변동 -479.9199"
+      },
+      {
+        "title": "다우존스: 52900.07 (+1.14%)",
+        "description": "전일종가 52305.24 / 변동 +594.8320"
+      },
+      {
+        "title": "USD/KRW: 1530.15 (-1.40%)",
+        "description": "전일종가 1551.81 / 변동 -21.6600"
+      },
+      {
+        "title": "USD/JPY: 161.34 (-0.74%)",
+        "description": "전일종가 162.54 / 변동 -1.2020"
+      },
+      {
+        "title": "코스피: 7648.09 (-7.89%)",
+        "description": "전일종가 8303.41 / 변동 -655.3203"
+      },
+      {
+        "title": "코스닥: 866.72 (-6.74%)",
+        "description": "전일종가 929.35 / 변동 -62.6300"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.398 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.54 | GEX +0.3B$ (만기:2026-07-06)",
+        "description": "콜OI 109,533 / 풋OI 168,639 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.68 | GEX -0.3B$ (만기:2026-07-06)",
+        "description": "콜OI 63,634 / 풋OI 106,621 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $180.14 (-2.89%)",
+        "description": "거래량 31,714,500주 (평균대비 1.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $748.43 (-0.09%)",
+        "description": "거래량 6,040,800주 (평균대비 0.8x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 66.8% (133/199종목)",
+        "description": "평균 MA 대비 위치: +3.4%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 21/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-06-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.2",
+        "description": "Date: 2026-06-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 333.979",
+        "description": "Date: 2026-05-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 2.1",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.48",
+        "description": "Date: 2026-07-01, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.72조달러",
+        "description": "기준일: 2026-07-01 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.34조달러",
+        "description": "기준일: 2026-07-01 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 8073.59억달러",
+        "description": "기준일: 2026-07-01 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.02억달러",
+        "description": "기준일: 2026-07-02 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 275bp (2.75%)",
+        "description": "기준일: 2026-07-02 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 75bp (0.75%)",
+        "description": "기준일: 2026-07-02 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Wells Fargo doubles down on stock market and AI - Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc0hORHE1Z1ZSbV9uZWkwQUxFZVlNZ2ZvLWI3d291ZGFyem9LZnpiQ251NDE4cEdTMU1lcjBTU1pyS2lick5rNkNKREpRRnlPZFQyZEZYbmRwa0d4d0s3ZTNET0FQbzBocG50M1NLXzNoejRWMklESnVwTUQzek9tTS1FTDV6UQ?oc=5",
+        "press": "Yahoo Finance Singapore"
+      },
+      {
+        "title": "A (very) brief history of the U.S. economy - CNN",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWGpzT0QyRW1BWEt5Szg1cGRlUnJQekhOX1lnVk1yRkR4N3ozS3JiZW12elc1QzRma21ndGpMb1ZvZVBkY3JNRDJ6ampWUm95MDVWNGNXUWZPNjFmVGtTcTAwYzVmMGNKZlRHWEplY085Q2FOMk5UV1htTjQzd1dlNWhmVWU1U2c4YmlaU3l4X1FGZGUtX0lZLVpWOVduSXhvLWVaZ3l2NHJkano5Ym56LTV3?oc=5",
+        "press": "CNN"
+      },
+      {
+        "title": "Q1 Earnings Outperformers: Applied Materials (NASDAQ:AMAT) And The Rest Of The Semiconductor Manufacturing Stocks - Yaho",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM09uQ0ZDS1FONi0xNGl6U3BBVUxCV21jWTJWQXdJbmVtWEhZZWhYN2QtUU1sMF9fTkpmSGFfakFvaElaaVhMMmZ1LW5xNmF4dFJmSk5HOTdEdHozVVFJdU9XU19BVGh4NC0yVi1OeG8tNEV3c0lhX3cza1h6MGlQbXduZERpUzFPdnVMVHpiY0Y4MUNKbTFIS2l0QlBQbHNBbEtSMm9QNDdRRExK?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Is Taiwan Semiconductor Manufacturing (TSM) Fully Valued Following The Chip Stock Selloff? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOclFWb3RtUmZLQlJuZEYza2JmdnlHVUdZU19XS3RIQnpOb3duV1B6V1hvU0ZVckhwVDJ3bDJIQWtsV0JyMEhKaDlBSkctZFJsZ2ZwMDNmT0UyYUhfTlM5elZCRl9UdFl0bDhnNFpXTTZ5ZmZYV3hMSXNHMlhvS2ZaS0hvMnZKbVJyMk1RLUxfb1hVZ2RyX1Rhb1ZjeGJWV1ItYlRuUVNVTlhyZ0RKV011QzBlcnk4RTJXc2JvYWlQLTI2NnJkWlBKbUVPZ0swT0Y5bUFyVGlfUk1pWFBpVVA5LWExLUNUNDFBS2xSMdIB8gFBVV95cUxPMU1wNzF3RHdwMlFEVVJtWWdodnI1OU04SlFyRG9saEJ1TU1DRG52b0JHNENpT2QtdkZBR2Z5Q3daS0tFSThkVmw0dzQwc0RTQ0dJLWFMVG1yalV2Z01neklCUDRXbWpuWWVkVE5qRlJxbjJoNkY2U0dTeUl4aVU5ZktLcEV2YzVrUkFMZGpyUm9PT0VQS0QxeTBXYXQxSktCR0pheHBiY2VNYWc2NzUwV0dUdkNmZzJ2V2E0WG9TYUUwdkFlMTVEa1ljTWVrMnNCM2piT01WbjZBVGd2Nm85R1FsS3h1OHM5QVVGc3ZWTlVudw?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Unpacking Q1 Earnings: Qualcomm (NASDAQ:QCOM) In The Context Of Other Processors and Graphics Chips Stocks - Yahoo Finan",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjhTNkVwdTRRM3RpR1JWR0tGZWRWbHBlZnpQRTd0d0dwVkttOWxNSVhvclU5cjV2NmgyNVhPdEY0ODcxbW0xemZGTUpCZjFyVTJkeEQyRXJ1Szh1b0V1NTFTWUpwUW9Za29uU0lGNjRncUp0ZU9LcGRPR1U2aUpkanozZENvZEpYWE5fSmtjSXd4Ykw4V21aeUNEeHZ4RnlnOERHdA?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Global stock markets close higher as Europe's benchmark hits 52-week high: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CSElYTHJwdk1MbFlwTWpLNEJIbUdVYUNWMkJvOG5tSkhRb3c3NVdvaVMxM2JWTmJuSkxmdURJU19qbFdkeGMtYXZ6OTJ4ZEtLa2pMYVpvcVlFaVIxZHdRN2RGUkQ1U2tEOHoxOURDZGNkYmFuRnY00gF8QVVfeXFMT2hqVkktRzRaVjJLSFZyZzBLSjdBXzZNanppVW1Lb19xaTFrSTRLd0RPbnJJMUFIY1FpRFRMX1lwT0FISW5FcjBoX2llcTh5bUF5bWZGUjdwU3ZOTDEzdjZOcUJ0cER6R1ZELUxuMExRQkpTeEo0cGt0eVJEZw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Is Warrior Met Coal's New Russell Growth Index Exposure Altering The Investment Case For HCC? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX2VNUnZTYmJzdlIzNmpHSEdaQnFrTHlQSEROWnkwYlFBcFNSVmw0TV9jcDNwQWRUa1JKU29LOUt1cGt4Q2Z1RTBfdWs1ZGxFbjVlb0I2MmxETG5tRHY1amZsbUFhVjZabktCTERJT0dXWDYtNHVCUEp1YjQ5eVNGRVF0VWUtTXJ1NUhDSG1DaWlHTm9qRTJSMzEzZWNGaEkxb0JDNnV0bV9aMDBLRHNfRC1qUFNJWHRjNVNONjdOcUlCc0JrSmt6MlZ0Y2xPd9IB0wFBVV95cUxOemxqWWhWYWVDNHA1dllzRDFuQTdBOXI1VktFWjkzQ2RIZUtjUGwwYV9wOHhLS3FGUmRHXzVzaV9OTW9Yb1MtUVNVZ0Q3RGM0ZXIyU2xKS2s5NUg4NmRuSkxyN0RtbkZFeGJQRDBVc0N5UDJ5cEJIMFNmZmkyUi04M2J0NFNmRGsxQkdTLTlhbERfTzV0VE9GMU43V2piOTdjemQyODM3VnYtQlZ3ZVROeTZTTFZkLURHU0FmVW5SRmEzTXVlOUN6RTZvbm1CMVowMjFn?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Unpacking Q1 Earnings: Qualcomm (NASDAQ:QCOM) In The Context Of Other Processors and Graphics Chips Stocks - Yahoo Finan",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjhTNkVwdTRRM3RpR1JWR0tGZWRWbHBlZnpQRTd0d0dwVkttOWxNSVhvclU5cjV2NmgyNVhPdEY0ODcxbW0xemZGTUpCZjFyVTJkeEQyRXJ1Szh1b0V1NTFTWUpwUW9Za29uU0lGNjRncUp0ZU9LcGRPR1U2aUpkanozZENvZEpYWE5fSmtjSXd4Ykw4V21aeUNEeHZ4RnlnOERHdA?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Global stock markets close higher as Europe's benchmark hits 52-week high: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CSElYTHJwdk1MbFlwTWpLNEJIbUdVYUNWMkJvOG5tSkhRb3c3NVdvaVMxM2JWTmJuSkxmdURJU19qbFdkeGMtYXZ6OTJ4ZEtLa2pMYVpvcVlFaVIxZHdRN2RGUkQ1U2tEOHoxOURDZGNkYmFuRnY00gF8QVVfeXFMT2hqVkktRzRaVjJLSFZyZzBLSjdBXzZNanppVW1Lb19xaTFrSTRLd0RPbnJJMUFIY1FpRFRMX1lwT0FISW5FcjBoX2llcTh5bUF5bWZGUjdwU3ZOTDEzdjZOcUJ0cER6R1ZELUxuMExRQkpTeEo0cGt0eVJEZw?oc=5",
+        "press": "CNBC"
+      }
+    ],
+    "naver": [
+      {
+        "title": "7월 1주차 두산에너빌리티 주가, 8만원대 중반 변동성 확대",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16123324",
+        "press": "www.topstarnews.net"
+      },
+      {
+        "title": "7월 1주차 삼성전기 주간 변동성 속 강한 반등",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16123323",
+        "press": "www.topstarnews.net"
+      },
+      {
+        "title": "컬리의 진짜 흑자는 미국 창고에서 시작된다",
+        "url": "https://sateconomy.co.kr/news/view/1065567364832402",
+        "press": "sateconomy.co.kr"
+      },
+      {
+        "title": "비엘팜텍, 성과 구체화에 '상한가'…삼천당제약은 하락[바이오맥짚기]",
+        "url": "https://n.news.naver.com/mnews/article/018/0006322462?sid=101",
+        "press": "www.edaily.co.kr"
+      },
+      {
+        "title": "역대급 거래대금에도 소외된 증권주…“2분기 깜짝 실적·ETF가 반전 이...",
+        "url": "https://www.etoday.co.kr/news/view/2600001",
+        "press": "www.etoday.co.kr"
+      },
+      {
+        "title": "[주간증시전망] 다음주 코스피 7200~9000 전망...삼전 실적에 방향성 갈...",
+        "url": "https://www.etoday.co.kr/news/view/2600221",
+        "press": "www.etoday.co.kr"
+      },
+      {
+        "title": "[고혜영의 주린이 투자노트] 증시 쥐락펴락하는 국민연금은 뭘 샀을까…...",
+        "url": "https://www.ajunews.com/view/20260703105150879",
+        "press": "www.ajunews.com"
+      },
+      {
+        "title": "7월 1주차 삼성전자, 급락 후 30만원대 반등",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16123304",
+        "press": "www.topstarnews.net"
+      },
+      {
+        "title": "국내 증시 투자자예탁금 119조 돌파, 개인 매수 여력 주목받아",
+        "url": "https://www.tokenpost.kr/news/market/374964",
+        "press": "www.tokenpost.kr"
+      },
+      {
+        "title": "7월 1주차 SK하이닉스 주가 급락 후 반등 마감",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16123315",
+        "press": "www.topstarnews.net"
+      },
+      {
+        "title": "국내 증시 투자자예탁금 119조 돌파, 개인 매수 여력 주목받아",
+        "url": "https://www.tokenpost.kr/news/market/374964",
+        "press": "www.tokenpost.kr"
+      },
+      {
+        "title": "민형배 전남광주특별시장 “반도체 경쟁력은 사람“…맞춤형 인재 공급...",
+        "url": "https://n.news.naver.com/mnews/article/030/0003444368?sid=102",
+        "press": "www.etnews.com"
+      }
+    ],
+    "telegram": []
+  }
+}

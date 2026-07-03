@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "generated_at": "2026-07-03T23:33:04.506035+00:00",
+    "run_date": "20260704"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 21,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 100.86,
+      "change": -0.0,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 15.81,
+      "change": -2.11,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7483.24,
+      "change": 0.0,
+      "insight": "전일종가 7483.23 / 변동 +0.0103",
+      "tag": "Neutral"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29329.21,
+      "change": -1.61,
+      "insight": "전일종가 29809.13 / 변동 -479.9199",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 52900.07,
+      "change": 1.14,
+      "insight": "전일종가 52305.24 / 변동 +594.8320",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1530.15,
+      "change": -1.4,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 161.34,
+      "change": -0.74,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    },
+    {
+      "name": "코스피",
+      "value": 7648.09,
+      "change": -7.89,
+      "insight": "국내 대형주 지수 (전일 종가 기준)",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "코스피 -7.89% 폭락하며 7,600선 붕괴, 패닉 셀 발생",
+      "tag": "Bearish"
+    },
+    {
+      "point": "원/달러 환율 1,530원대 유지하며 외환 시장 불안 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "삼성전자 급락 후 30만원대 반등 시도, 하방 경직성 테스트",
+      "tag": "Neutral"
+    },
+    {
+      "point": "국민연금 수급 방향성이 증시 변동성 제어의 핵심 변수",
+      "tag": "Neutral"
+    },
+    {
+      "point": "EWY 거래량 평시 대비 1.7배 폭증하며 외국인 이탈 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "주요 대형주(삼성전기, 두산에너) 변동성 확대 속 반등 모색",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "나스닥100 -1.61% 하락, 기술주 중심 하방 압력 강화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 21(극단적 공포), 역발상 매수 구간 진입",
+      "tag": "Bearish"
+    },
+    {
+      "point": "다우지수 +1.14% 상승하며 가치주 중심 순환매 포착",
+      "tag": "Bullish"
+    },
+    {
+      "point": "QQQ 옵션 PCR 1.68 및 숏감마로 변동성 확대 우려",
+      "tag": "Bearish"
+    },
+    {
+      "point": "신용 스프레드(HY 275bp)는 안정적이나 기술적 조정 우세",
+      "tag": "Neutral"
+    },
+    {
+      "point": "10년물 국채금리 4.48% 유지, 긴축 장기화 경계감 지속",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "7월 1주차 삼성전자, 급락 후 30만원대 반등",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16123304",
+      "press": "www.topstarnews.net",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "증시 쥐락펴락하는 국민연금은 뭘 샀을까",
+      "url": "https://www.ajunews.com/view/20260703105150879",
+      "press": "www.ajunews.com",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "다음주 코스피 7200~9000 전망...삼성 실적 관건",
+      "url": "https://www.etoday.co.kr/news/view/2600221",
+      "press": "www.etoday.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성전기 주간 변동성 속 강한 반등 성공",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16123323",
+      "press": "www.topstarnews.net",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "역대급 거래대금에도 소외된 증권주 반전 가능성",
+      "url": "https://www.etoday.co.kr/news/view/2600001",
+      "press": "www.etoday.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "두산에너빌리티 주가 8만원대 중반 변동성 확대",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16123324",
+      "press": "www.topstarnews.net",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "비엘팜텍 성과 구체화에 상한가...바이오 명암",
+      "url": "https://n.news.naver.com/mnews/article/018/0006322462?sid=101",
+      "press": "www.edaily.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "컬리의 진짜 흑자는 미국 창고에서 시작된다",
+      "url": "https://sateconomy.co.kr/news/view/1065567364832402",
+      "press": "sateconomy.co.kr",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "웰스파고, 주식 시장 및 AI 투자 비중 확대",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc0hORHE1Z1ZSbV9uZWkwQUxFZVlNZ2ZvLWI3d291ZGFyem9LZnpiQ251NDE4cEdTMU1lcjBTU1pyS2lick5rNkNKREpRRnlPZFQyZEZYbmRwa0d4d0s3ZTNET0FQbzBocG50M1NLXzNoejRWMklESnVwTUQzek9tTS1FTDV6UQ?oc=5",
+      "press": "Yahoo Finance Singapore",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "1분기 실적 상회: 어플라이드 머티리얼즈 및 반도체 장비주",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM09uQ0ZDS1FONi0xNGl6U3BBVUxCV21jWTJWQXdJbmVtWEhZZWhYN2QtUU1sMF9fTkpmSGFfakFvaElaaVhMMmZ1LW5xNmF4dFJmSk5HOTdEdHozVVFJdU9XU19BVGh4NC0yVi1OeG8tNEV3c0lhX3cza1h6MGlQbXduZERpUzFPdnVMVHpiY0Y4MUNKbTFIS2l0QlBQbHNBbEtSMm9QNDdRRExK?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "대만 반도체(TSM), 기술주 매도세 이후 적정 가치 분석",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOclFWb3RtUmZLQlJuZEYza2JmdnlHVUdZU19XS3RIQnpOb3duV1B6V1hvU0ZVckhwVDJ3bDJIQWtsV0JyMEhKaDlBSkctZFJsZ2ZwMDNmT0UyYUhfTlM5elZCRl9UdFl0bDhnNFpXTTZ5ZmZYV3hMSXNHMlhvS2ZaS0hvMnZKbVJyMk1RLUxfb1hVZ2RyX1Rhb1ZjeGJWV1ItYlRuUVNVTlhyZ0RKV011QzBlcnk4RTJXc2JvYWlQLTI2NnJkWlBKbUVPZ0swT0Y5bUFyVGlfUk1pWFBpVVA5LWExLUNUNDFBS2xSMdIB8gFBVV95cUxPMU1wNzF3RHdwMlFEVVJtWWdodnI1OU04SlFyRG9saEJ1TU1DRG52b0JHNENpT2QtdkZBR2Z5Q3daS0tFSThkVmw0dzQwc0RTQ0dJLWFMVG1yalV2Z01neklCUDRXbWpuWWVkVE5qRlJxbjJoNkY2U0dTeUl4aVU5ZktLcEV2YzVrUkFMZGpyUm9PT0VQS0QxeTBXYXQxSktCR0pheHBiY2VNYWc2NzUwV0dUdkNmZzJ2V2E0WG9TYUUwdkFlMTVEa1ljTWVrMnNCM2piT01WbjZBVGd2Nm85R1FsS3h1OHM5QVVGc3ZWTlVudw?oc=5",
+      "press": "simplywall.st",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "퀄컴 1분기 실적: 프로세서 및 그래픽 칩 시장 동향",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZjhTNkVwdTRRM3RpR1JWR0tGZWRWbHBlZnpQRTd0d0dwVkttOWxNSVhvclU5cjV2NmgyNVhPdEY0ODcxbW0xemZGTUpCZjFyVTJkeEQyRXJ1Szh1b0V1NTFTWUpwUW9Za29uU0lGNjRncUp0ZU9LcGRPR1U2aUpkanozZENvZEpYWE5fSmtjSXd4Ykw4V21aeUNEeHZ4RnlnOERHdA?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "유럽 벤치마크 52주 신고가 경신 및 글로벌 증시 마감",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CSElYTHJwdk1MbFlwTWpLNEJIbUdVYUNWMkJvOG5tSkhRb3c3NVdvaVMxM2JWTmJuSkxmdURJU19qbFdkeGMtYXZ6OTJ4ZEtLa2pMYVpvcVlFaVIxZHdRN2RGUkQ1U2tEOHoxOURDZGNkYmFuRnY00gF8QVVfeXFMT2hqVkktRzRaVjJLSFZyZzBLSjdBXzZNanppVW1Lb19xaTFrSTRLd0RPbnJJMUFIY1FpRFRMX1lwT0FISW5FcjBoX2llcTh5bUF5bWZGUjdwU3ZOTDEzdjZOcUJ0cER6R1ZELUxuMExRQkpTeEo0cGt0eVJEZw?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미국 경제의 (매우) 짧은 역사 - CNN 보도",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWGpzT0QyRW1BWEt5Szg1cGRlUnJQekhOX1lnVk1yRkR4N3ozS3JiZW12elc1QzRma21ndGpMb1ZvZVBkY3JNRDJ6ampWUm95MDVWNGNXUWZPNjFmVGtTcTAwYzVmMGNKZlRHWEplY085Q2FOMk5UV1htTjQzd1dlNWhmVWU1U2c4YmlaU3l4X1FGZGUtX0lZLVpWOVduSXhvLWVaZ3l2NHJkano5Ym56LTV3?oc=5",
+      "press": "CNN",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "러셀 성장 지수 편입에 따른 워리어 메트 콜 투자 분석",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX2VNUnZTYmJzdlIzNmpHSEdaQnFrTHlQSEROWnkwYlFBcFNSVmw0TV9jcDNwQWRUa1JKU29LOUt1cGt4Q2Z1RTBfdWs1ZGxFbjVlb0I2MmxETG5tRHY1amZsbUFhVjZabktCTERJT0dXWDYtNHVCUEp1YjQ5eVNGRVF0VWUtTXJ1NUhDSG1DaWlHTm9qRTJSMzEzZWNGaEkxb0JDNnV0bV9aMDBLRHNfRC1qUFNJWHRjNVNONjdOcUlCc0JrSmt6MlZ0Y2xPd9IB0wFBVV95cUxOemxqWWhWYWVDNHA1dllzRDFuQTdBOXI1VktFWjkzQ2RIZUtjUGwwYV9wOHhLS3FGUmRHXzVzaV9OTW9Yb1MtUVNVZ0Q3RGM0ZXIyU2xKS2s5NUg4NmRuSkxyN0RtbkZFeGJQRDBVc0N5UDJ5cEJIMFNmZmkyUi04M2J0NFNmRGsxQkdTLTlhbERfTzV0VE9GMU43V2piOTdjemQyODM3VnYtQlZ3ZVROeTZTTFZkLURHU0FmVW5SRmEzTXVlOUN6RTZvbm1CMVowMjFn?oc=5",
+      "press": "simplywall.st",
+      "source": "international"
+    }
+  ]
+}
