@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "generated_at": "2026-07-04T23:36:49.013826+00:00",
+    "run_date": "20260705"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.86 (-0.00%)",
+        "description": "전일종가 100.86 / 변동 -0.0030"
+      },
+      {
+        "title": "VIX 변동성지수: 16.15 (-2.65%)",
+        "description": "전일종가 16.59 / 변동 -0.4400"
+      },
+      {
+        "title": "S&P 500: 7483.24 (+0.00%)",
+        "description": "전일종가 7483.23 / 변동 +0.0103"
+      },
+      {
+        "title": "나스닥100: 29329.21 (-1.61%)",
+        "description": "전일종가 29809.13 / 변동 -479.9199"
+      },
+      {
+        "title": "다우존스: 52900.07 (+1.14%)",
+        "description": "전일종가 52305.24 / 변동 +594.8320"
+      },
+      {
+        "title": "USD/KRW: 1530.15 (-1.40%)",
+        "description": "전일종가 1551.81 / 변동 -21.6600"
+      },
+      {
+        "title": "USD/JPY: 161.34 (-0.74%)",
+        "description": "전일종가 162.54 / 변동 -1.2020"
+      },
+      {
+        "title": "코스피: 8088.34 (+5.76%)",
+        "description": "전일종가 7648.09 / 변동 +440.2500"
+      },
+      {
+        "title": "코스닥: 868.41 (+0.19%)",
+        "description": "전일종가 866.72 / 변동 +1.6900"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.398 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.54 | GEX +0.2B$ (만기:2026-07-06)",
+        "description": "콜OI 109,533 / 풋OI 168,639 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.68 | GEX -0.4B$ (만기:2026-07-06)",
+        "description": "콜OI 63,634 / 풋OI 106,621 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $180.14 (-2.89%)",
+        "description": "거래량 31,638,400주 (평균대비 1.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $748.43 (-0.09%)",
+        "description": "거래량 6,033,600주 (평균대비 0.8x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 66.8% (133/199종목)",
+        "description": "평균 MA 대비 위치: +3.4%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 22/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-06-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.2",
+        "description": "Date: 2026-06-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 333.979",
+        "description": "Date: 2026-05-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 2.1",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.48",
+        "description": "Date: 2026-07-01, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.72조달러",
+        "description": "기준일: 2026-07-01 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.34조달러",
+        "description": "기준일: 2026-07-01 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 8073.59억달러",
+        "description": "기준일: 2026-07-01 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.02억달러",
+        "description": "기준일: 2026-07-02 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 275bp (2.75%)",
+        "description": "기준일: 2026-07-02 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 75bp (0.75%)",
+        "description": "기준일: 2026-07-02 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Visteon (VC) Stock Looks Undervalued On Cash Flow While Earnings Look Fair - Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaHA5ZXJ4ckNUcXl4aHZzSHhHWlNJay0wVnRtWTN1V1BtWmZjTDZITUcxS0xIcXVRSTFNM21hSmN4ZTFDOUZMWDBiMFg1S2h2UkN2THA4NmNCeDYyaWh5cko3bXNIbzVlTkgtVUUxSnhnRDk1ZS1UYlVLZUVuU2NuYjlvc29kMF9vOTVF?oc=5",
+        "press": "Yahoo Finance Singapore"
+      },
+      {
+        "title": "US MARKET CALL: A Bubble In Bubbles? - Yardeni QuickTakes",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SbjdUd1FFeS1NelFPdjg3M1lEYWF2Q2NUMDZ5ZFduQ3hzVHhLeW85YVFicU84RkJfb3ItWEVPRFdWaDBjUmdLSXlqTUVvVDNyMFZCVWp1V19sU3R4eU9PZ3JseUdTM1dEMnU4VnpFWHJKbnpQMzNEeQ?oc=5",
+        "press": "Yardeni QuickTakes"
+      },
+      {
+        "title": "The 1-Minute Market Report, July 4, 2026 (NYSEARCA:SPY) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRmRoakNza3RVYkNoWk5tWUZyRFJoUGdZNjZVWm51YlZ2NmFpREVvYU1RLVNtZTFQaFlicFRULWN1TVphdGtYc2ZxVldDeVdCVmJJN1lJN1FKbi1OYkNZM2YwU1RMeUdKWnp6ZVRQNl9uZjB4VGZONGVGWktBb3c4bUQ1Vi1JZw?oc=5",
+        "press": "Seeking Alpha"
+      },
+      {
+        "title": "Does Russell Defensive Index Entry And Chili’s Promo Shift The Bull Case For Brinker (EAT)? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZGt3aFBwbDNzbFVfYTFCVW56ZnVxMmNHS29FYmFNR3FadUJ5cHJQZFdpeVRicmdXdF9pT2VkQ2hzQlVUVDJPV3dvV3BmQWhwclN0eXVoWFJZNjRWMnpYYUk1X3ZZR2VCeV9aZ0NWUC1FOW13dVZCZXUyMzIzaGQ4RlhCalNYdklEQXctZXp0clo2U1ZuMDdEZXVQWHM5YWQyVjh5OE5sTXVUTGNvbnhPT3dSaUhuaHM0Q3dsSDF4VjJhUUF0TzVjT3hDWi1Jd2pjMGRhbXJ0Vy1YYkE4YmVF0gHkAUFVX3lxTE90NGl4Mm1uZXUwajk5czdENm9tTnY4dzlRV1dxdmphV3RPS29DTGFFZlNTX1BBaWN4TDU5dXIwTnJVRVN4RVNmc2c0RUhKS0hjMGZSOUJaQ0FiOGZ4N0J1WlZoYWZNaUYwZ2dFeEQ2cC1vN3RhVm9ZNlRPU3ZDSHd2QzlhdFZyQnRPSWdrMVVETTFrUVRiLXhydHA0b0xzZDNtOGNSSzFJczNRTGcwUFByeHVPc19mMVdFS0ZCaHppZG1QTTdOYnE5RU8yRkRjdU9EYlFXWXRiOVN4Zy15dGJWaF9MRA?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "United Kingdom On-Machine Distributed I/O - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc1lmczJraWxEQ3F3cTNuTnd1YmQyXzVMY3BueTBLUTdXMGg2Y1Y0YWdQeEc0UHBfNnFBZ2FnTUlGWDJYX182OFpaV0x6RUxMVDFCcVFsODVSMUlYNHlVQzJoV05qMEJKRGozWDRtWEdQbXp4dzYzT01LOTFmSFVTY2YzeEVhdGhnc2NESjE4QkdHczJtZVVDODh6VURzOF9CekNMNmpwWnpMbXZSQjJkTThRS2trNXNVUnhpLV9vbw?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Germany On-Machine Distributed I/O - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0RIS2pQSnBSNEdEcjM4b09SenNWTE1HbVBub3dkN2toZ2ZkUjJ2ZTYyLVZXZG0xR0R4ZXhMS0JLYjJSa3FJcUM1RzhDMlhzQ25SS0pIUERMMEdIRW1UY09odlk5aXNnY1pVM3RwdWFsa29uU3JZallFME80TjFwaW1CMUVPaGxabGZwdGc4NEQ4Y2FRNkc2QmZ4emZQaFV0V0pCM3BoRmtwNlRVM0ZpanBYaHpJQQ?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Germany In-Cabinet Distributed I/O - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUFdEcXpwS29rV0dHdTRGUWc1S1BtaXVDQkRNQjdNVFprZTk5X1RzMlBNY1hJOGVyRl81cUlPMjJuVkVmaHRtajM3VzZoaTEwb2tOSFhJQnU0Qk5TSktEU1d6WFFKS0VLX2c1Zm4yZjQ5bjRRS1ZONXQ4NkE3VHZrVGhIMGx0Rjk2cnhxMFBCaWNXSk05QlNOV1FRb0tqOXF6Q3RXeWc3cE1PN1dWQ0hEeXgzS1hDdw?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Stock Funds Rallied 17.1% in a Quarter That Made Investors’ Heads Spin - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFYUVPRjBmUUt5Mmw1cHhHZkJ3ZkVOYU50U05wQ1R0bXN1UmZWR0syVjJMX0lOM001eU5oWUIzU1NmTWcxeHlOcy1acFgxWkVkNUxIb2ViR3dvSzBFcWJNWklMdExBOTZZMml3UUx4OFBGOGxkYktnSDdZVQ?oc=5",
+        "press": "WSJ"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "SK hynix Inc (Derivatives) Price Today | Live 000660 Price, Chart & Market Data - Binance",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10LUhHUThScExXR3FXRnZpQ19zRWh6SjRCMUhSOUtmOV9XTHRIeEF4bTl1Q2tRU2libWV0VDJYaVZibVVkNGppU0ZrSjZpUXVtb2NMeHN4My1CTWZ5Mm14OW82SzNGTC1s?oc=5",
+        "press": "Binance"
+      }
+    ],
+    "naver": [
+      {
+        "title": "[증시전망] 코스피 8000선 회복했지만 ...삼성전자 실적에 쏠린 눈",
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681393",
+        "press": "www.digitaltoday.co.kr"
+      },
+      {
+        "title": "코스피, 반도체·AI 우려에 8,000선 급변동… 기관 매수로 반등",
+        "url": "https://www.tokenpost.kr/news/market/375086",
+        "press": "www.tokenpost.kr"
+      },
+      {
+        "title": "호텔신라·롯데·파라다이스만 보인다…호텔 개인정보 보호 평가 '물음...",
+        "url": "https://www.ngetnews.com/news/articleView.html?idxno=551279",
+        "press": "www.ngetnews.com"
+      },
+      {
+        "title": "호텔신라·롯데·파라다이스만 보인다…호텔 개인정보 보호 평가 '물음...",
+        "url": "https://www.ngetnews.com/news/articleView.html?idxno=551279",
+        "press": "www.ngetnews.com"
+      },
+      {
+        "title": "특례 상장사, ‘기업가치 제고’ 공시해야 상폐 요건 유예받는다",
+        "url": "https://www.sentv.co.kr/article/view/sentv202607030074",
+        "press": "www.sentv.co.kr"
+      },
+      {
+        "title": "새 수장 맡는 중기부…후임 장관이 맡을 과제는?",
+        "url": "https://n.news.naver.com/mnews/article/003/0014046683?sid=101",
+        "press": "www.newsis.com"
+      },
+      {
+        "title": "흔들리는 청년 고용…IT부터 법률까지 'AI 충격'",
+        "url": "https://n.news.naver.com/mnews/article/215/0001257618?sid=101",
+        "press": "www.wowtv.co.kr"
+      },
+      {
+        "title": "“장어·한우 반값, 패션은 최대 80%”…유통가, 7월 할인전 돌입",
+        "url": "https://n.news.naver.com/mnews/article/022/0004140532?sid=101",
+        "press": "www.segye.com"
+      },
+      {
+        "title": "“온누리상품권에 지갑 열었다”…알뜰폰 1.2만명 이통 3사로",
+        "url": "https://n.news.naver.com/mnews/article/022/0004140528?sid=101",
+        "press": "www.segye.com"
+      },
+      {
+        "title": "흔들리는 청년 고용…IT부터 법률까지 'AI 충격'",
+        "url": "https://n.news.naver.com/mnews/article/215/0001257618?sid=101",
+        "press": "www.wowtv.co.kr"
+      },
+      {
+        "title": "수도권 GRDP 53% 집중…3대 메가, 지역균형발전 신호탄?",
+        "url": "https://n.news.naver.com/mnews/article/003/0014046693?sid=101",
+        "press": "www.newsis.com"
+      },
+      {
+        "title": "[증시전망] 코스피 8000선 회복했지만 ...삼성전자 실적에 쏠린 눈",
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681393",
+        "press": "www.digitaltoday.co.kr"
+      }
+    ],
+    "telegram": []
+  }
+}

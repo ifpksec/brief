@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "generated_at": "2026-07-04T23:36:49.014988+00:00",
+    "run_date": "20260705"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 22,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 100.86,
+      "change": -0.0,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 16.15,
+      "change": -2.65,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7483.24,
+      "change": 0.0,
+      "insight": "전일종가 7483.23 / 변동 +0.0103",
+      "tag": "Neutral"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29329.21,
+      "change": -1.61,
+      "insight": "전일종가 29809.13 / 변동 -479.9199",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 52900.07,
+      "change": 1.14,
+      "insight": "전일종가 52305.24 / 변동 +594.8320",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1530.15,
+      "change": -1.4,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 161.34,
+      "change": -0.74,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    },
+    {
+      "name": "코스피",
+      "value": 8088.34,
+      "change": 5.76,
+      "insight": "국내 대형주 지수 (전일 종가 기준)",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "코스피 8,000선 돌파, 기관 매수세 유입에 급반등",
+      "tag": "Bullish"
+    },
+    {
+      "point": "삼성전자 실적 발표 앞두고 반도체 섹터 경계감 지속",
+      "tag": "Neutral"
+    },
+    {
+      "point": "원/달러 환율 1,530원대 하락, 외환시장 변동성 확대",
+      "tag": "Neutral"
+    },
+    {
+      "point": "특례 상장사 기업가치 제고 공시 의무화로 상폐 유예",
+      "tag": "Bullish"
+    },
+    {
+      "point": "AI 기술 확산에 따른 청년 고용 시장 충격 가시화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "유통업계 7월 대규모 할인전 돌입, 소비 심리 자극",
+      "tag": "Bullish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "공포탐욕지수 22 기록, 극단적 공포에 따른 패닉 구간",
+      "tag": "Bearish"
+    },
+    {
+      "point": "나스닥 1.6% 하락 vs 다우 1.1% 상승, 섹터 순환매",
+      "tag": "Neutral"
+    },
+    {
+      "point": "QQQ 숏감마 상태 지속으로 기술주 추가 변동성 우려",
+      "tag": "Bearish"
+    },
+    {
+      "point": "연준 지급준비금 0.34조 달러로 유동성 위축 신호",
+      "tag": "Bearish"
+    },
+    {
+      "point": "10년물 국채금리 4.48% 유지, 고금리 환경 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "신용 스프레드 안정세 유지로 기업 부도 위험은 낮음",
+      "tag": "Bullish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "[증시전망] 코스피 8000선 회복했지만...삼성전자 실적에 쏠린 눈",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681393",
+      "press": "digitaltoday",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피, 반도체·AI 우려에 8,000선 급변동… 기관 매수로 반등",
+      "url": "https://www.tokenpost.kr/news/market/375086",
+      "press": "tokenpost",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "특례 상장사, ‘기업가치 제고’ 공시해야 상폐 요건 유예받는다",
+      "url": "https://www.sentv.co.kr/article/view/sentv202607030074",
+      "press": "sentv",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "흔들리는 청년 고용…IT부터 법률까지 'AI 충격'",
+      "url": "https://n.news.naver.com/mnews/article/215/0001257618?sid=101",
+      "press": "wowtv",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "SK hynix Inc (Derivatives) Price Today | Live 000660 Price",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10LUhHUThScExXR3FXRnZpQ19zRWh6SjRCMUhSOUtmOV9XTHRIeEF4bTl1Q2tRU2libWV0VDJYaVZibVVkNGppU0ZrSjZpUXVtb2NMeHN4My1CTWZ5Mm14OW82SzNGTC1s?oc=5",
+      "press": "Binance",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "“장어·한우 반값, 패션은 최대 80%”…유통가, 7월 할인전 돌입",
+      "url": "https://n.news.naver.com/mnews/article/022/0004140532?sid=101",
+      "press": "segye",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "새 수장 맡는 중기부…후임 장관이 맡을 과제는?",
+      "url": "https://n.news.naver.com/mnews/article/003/0014046683?sid=101",
+      "press": "newsis",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "미국 시장 분석: 버블 속의 버블인가?",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5SbjdUd1FFeS1NelFPdjg3M1lEYWF2Q2NUMDZ5ZFduQ3hzVHhLeW85YVFicU84RkJfb3ItWEVPRFdWaDBjUmdLSXlqTUVvVDNyMFZCVWp1V19sU3R4eU9PZ3JseUdTM1dEMnU4VnpFWHJKbnpQMzNEeQ?oc=5",
+      "press": "Yardeni QuickTakes",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "Visteon 주가, 현금 흐름 대비 저평가 및 적정 수익 분석",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaHA5ZXJ4ckNUcXl4aHZzSHhHWlNJay0wVnRtWTN1V1BtWmZjTDZITUcxS0xIcXVRSTFNM21hSmN4ZTFDOUZMWDBiMFg1S2h2UkN2THA4NmNCeDYyaWh5cko3bXNIbzVlTkgtVUUxSnhnRDk1ZS1UYlVLZUVuU2NuYjlvc29kMF9vOTVF?oc=5",
+      "press": "Yahoo Finance Singapore",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "2026년 7월 4일 1분 마켓 리포트 (SPY)",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRmRoakNza3RVYkNoWk5tWUZyRFJoUGdZNjZVWm51YlZ2NmFpREVvYU1RLVNtZTFQaFlicFRULWN1TVphdGtYc2ZxVldDeVdCVmJJN1lJN1FKbi1OYkNZM2YwU1RMeUdKWnp6ZVRQNl9uZjB4VGZONGVGWktBb3c4bUQ1Vi1JZw?oc=5",
+      "press": "Seeking Alpha",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "러셀 방어 지수 편입과 칠리스 프로모션이 Brinker(EAT)에 미치는 영향",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZGt3aFBwbDNzbFVfYTFCVW56ZnVxMmNHS29FYmFNR3FadUJ5cHJQZFdpeVRicmdXdF9pT2VkQ2hzQlVUVDJPV3dvV3BmQWhwclN0eXVoWFJZNjRWMnpYYUk1X3ZZR2VCeV9aZ0NWUC1FOW13dVZCZXUyMzIzaGQ4RlhCalNYdklEQXctZXp0clo2U1ZuMDdEZXVQWHM5YWQyVjh5OE5sTXVUTGNvbnhPT3dSaUhuaHM0Q3dsSDF4VjJhUUF0TzVjT3hDWi1Jd2pjMGRhbXJ0Vy1YYkE4YmVF0gHkAUFVX3lxTE90NGl4Mm1uZXUwajk5czdENm9tTnY4dzlRV1dxdmphV3RPS29DTGFFZlNTX1BBaWN4TDU5dXIwTnJVRVN4RVNmc2c0RUhKS0hjMGZSOUJaQ0FiOGZ4N0J1WlZoYWZNaUYwZ2dFeEQ2cC1vN3RhVm9ZNlRPU3ZDSHd2QzlhdFZyQnRPSWdrMVVETTFrUVRiLXhydHA0b0xzZDNtOGNSSzFJczNRTGcwUFByeHVPc19mMVdFS0ZCaHppZG1QTTdOYnE5RU8yRkRjdU9EYlFXWXRiOVN4Zy15dGJWaF9MRA?oc=5",
+      "press": "simplywall.st",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "영국 온머신 분산 I/O 시장 분석, 예측 및 인사이트",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc1lmczJraWxEQ3F3cTNuTnd1YmQyXzVMY3BueTBLUTdXMGg2Y1Y0YWdQeEc0UHBfNnFBZ2FnTUlGWDJYX182OFpaV0x6RUxMVDFCcVFsODVSMUlYNHlVQzJoV05qMEJKRGozWDRtWEdQbXp4dzYzT01LOTFmSFVTY2YzeEVhdGhnc2NESjE4QkdHczJtZVVDODh6VURzOF9CekNMNmpwWnpMbXZSQjJkTThRS2trNXNVUnhpLV9vbw?oc=5",
+      "press": "IndexBox",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "독일 온머신 분산 I/O 시장 규모 및 동향 분석",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0RIS2pQSnBSNEdEcjM4b09SenNWTE1HbVBub3dkN2toZ2ZkUjJ2ZTYyLVZXZG0xR0R4ZXhMS0JLYjJSa3FJcUM1RzhDMlhzQ25SS0pIUERMMEdIRW1UY09odlk5aXNnY1pVM3RwdWFsa29uU3JZallFME80TjFwaW1CMUVPaGxabGZwdGc4NEQ4Y2FRNkc2QmZ4emZQaFV0V0pCM3BoRmtwNlRVM0ZpanBYaHpJQQ?oc=5",
+      "press": "IndexBox",
+      "source": "international"
+    }
+  ]
+}
