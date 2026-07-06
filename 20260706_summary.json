@@ -1,18 +1,18 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T23:37:18.010366+00:00",
+    "generated_at": "2026-07-06T11:22:45.820283+00:00",
     "run_date": "20260706"
   },
   "market_mood": {
     "status": "Fear",
-    "score": 23,
+    "score": 24,
     "label": "매도 우세 — 반등 탐색"
   },
   "key_indicators": [
     {
       "name": "달러인덱스(DXY)",
-      "value": 100.89,
-      "change": 0.03,
+      "value": 101.08,
+      "change": 0.22,
       "insight": "원화 강세 유도 — 외인 수급 긍정적",
       "tag": "Bearish"
     },
@@ -25,10 +25,10 @@
     },
     {
       "name": "VIX 변동성지수",
-      "value": 16.15,
-      "change": -2.65,
-      "insight": "변동성 안정 — 리스크온 환경",
-      "tag": "Bullish"
+      "value": 16.35,
+      "change": 1.24,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
     },
     {
       "name": "S&P 500",
@@ -53,15 +53,15 @@
     },
     {
       "name": "USD/KRW",
-      "value": 1529.03,
-      "change": -0.85,
+      "value": 1530.74,
+      "change": -0.74,
       "insight": "원달러 환율 — 약세 시 외인 자금 유입",
       "tag": "Bullish"
     },
     {
       "name": "USD/JPY",
-      "value": 161.45,
-      "change": 0.0,
+      "value": 162.3,
+      "change": 0.53,
       "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
       "tag": "Bearish"
     }
@@ -76,148 +76,133 @@
   },
   "kr_briefing": [
     {
-      "point": "고객예탁금 소폭 감소 및 프로그램 순매도 지속",
+      "point": "고객예탁금 소폭 감소 및 외국인 수급 이탈 우려 지속",
       "tag": "Bearish"
     },
     {
-      "point": "코스피 변동성 확대로 서킷브레이커급 장세 연출",
+      "point": "KOSPI 프로그램 매도세 심화, 수급 부담 가중",
       "tag": "Bearish"
     },
     {
-      "point": "환율 1520원대 고착화로 외국인 수급 부담 가중",
-      "tag": "Bearish"
-    },
-    {
-      "point": "삼성전자 및 SK하이닉스 주요 이벤트 앞두고 관망",
+      "point": "삼성전자·SK하이닉스 등 반도체 주도주 향방에 시장 이목 집중",
       "tag": "Neutral"
     },
     {
-      "point": "코스닥 동전주 탈출 위한 주식병합 24배 급증",
+      "point": "외국인의 대규모 매도세 이후 하반기 반등 가능성 타진",
       "tag": "Neutral"
     },
     {
-      "point": "극단적 공포 단계 진입에 따른 역발상 매수 시점",
-      "tag": "Bullish"
+      "point": "공매도 제한 및 정부 정책 관련 시장 변동성 상존",
+      "tag": "Neutral"
     }
   ],
   "us_briefing": [
     {
-      "point": "나스닥 급락 대비 다우 지수 강세로 시장 차별화",
-      "tag": "Neutral"
-    },
-    {
-      "point": "QQQ 숏감마 상태로 기술주 중심 변동성 확대 주의",
+      "point": "달러 인덱스 및 미 10년물 금리 동반 상승, 긴축 우려",
       "tag": "Bearish"
     },
     {
-      "point": "공포탐욕지수 23포인트로 극단적 공포 구간 진입",
+      "point": "나스닥 급락 및 변동성 지수(VIX) 상승으로 투자 심리 위축",
       "tag": "Bearish"
     },
     {
-      "point": "미국 국채 10년물 금리 4.49%로 상승 압력 지속",
+      "point": "옵션 시장 내 풋옵션 우세, 딜러 숏감마 변동성 확대 위험",
       "tag": "Bearish"
     },
     {
-      "point": "연준 역레포 잔액 바닥권 진입하며 유동성 우려",
-      "tag": "Bearish"
+      "point": "공포탐욕지수 24(극단적 공포), 패닉 셀링 구간 진입",
+      "tag": "Bullish"
     },
     {
-      "point": "S&P 500 고점 논란 속 실적 및 매크로 지표 주시",
-      "tag": "Neutral"
+      "point": "미국 HY/IG 스프레드 안정적 유지로 신용 리스크 제한적",
+      "tag": "Bullish"
     }
   ],
   "kr_news": [
     {
+      "category": "반도체·AI",
+      "title": "'대체 언제 돌아오나'…'삼전닉스'만 136조 내다판 외국인",
+      "url": "https://n.news.naver.com/mnews/article/215/0001257793?sid=101",
+      "press": "한국경제TV",
+      "source": "naver"
+    },
+    {
       "category": "K-증시·수급",
-      "title": "코스피 변동성 지속으로 연간 서킷브레이커 기록 경신",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEQ3alFweHYtT2NVTVBVNFQ2aDVQbTNZZGpYNlo3ZnBPUXlFRFg3YzNrRDFuRzVwZVZsNjZ5UE5Wa0RTZG55ODY3eVRmdFU2MWs4a21lWlNjUFQyVGt4X2I3cmFYbmJYSTFJbXlGRy1HWVlMWUVyc1ZHRlRZQ2RtY0xMTjFsdXBsbjVLNXdTVW9qbm9sZklTZEdnT3dDcjF0UDQ3WGhFc21FemN4MzJId05LVFZYV3dxVThPcmdrV0dia3pGTnpiR1JWb0I5ZjJrX1JjZnNzMmlMLUk?oc=5",
+      "title": "Feeling left out of Korea’s chip stock boom?",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZk9uNkhhVUk4SGE2SzFWalk0WVBKYmxYVnJBMFFBbjBnZWJvbXk5V2NydmNCOF9RdVRCRVhseTVxdE51UnljV0Y4RkZ3dEItMEJvSEt2dUIzSVhZcWRwUms3WUN4c0NVRnk0MzIwM3Y5R2dQR0dGWVVKdHFNWUtBckZ4LXRhQ09ueWQ2Rzg5WWxHc285UXBZdHZnUnhuaVhfc1hzTmx1MGZ1eHc?oc=5",
       "press": "Korea JoongAng Daily",
       "source": "domestic"
     },
     {
       "category": "K-증시·수급",
-      "title": "코스닥 동전주 탈출 작전, 주식병합 전년비 24배 증가",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50MHFtOWtyNWZOdllVdzl6UUlhdWZ4VE9DaWd3M2tGd2w4ajJWWi1Gek5YZmtUcExTaGlXQjlHTzA0MlZmelVWWkdxMndvcElyT0ZqUFJzdHlaTUlBeEJ2UjhacUtWNjRpLV9iVi1haE8tbVA4Z1E?oc=5",
-      "press": "finance.biggo.com",
+      "title": "Why Korea's IPO boom has turned into bust",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmZ2UURBOF9pVlREX3JlMXlsOVd4Um1nN2NzYWM2OUZYZ0xkVkhxS2RUWGdkVnU1eFhFUkM0SlktdS1LVXYxNmxiV2JPVENNTVpLdlVJOUVTR0JRelY3YWxtUGVDUDZIY3BRMnJLS256OHFVa1J1anlyUmc0YTNyaTJhbUFDdXM0a3hYejZ5b0lwdS1UNFlGd9IBngFBVV95cUxQNFY5YmpCMkR6MDhEblF4d3RJbWpGV3lrdjNpWF9mTjgtNjBTQXd5NGs5bzhkcWFTSWoxSWVEYWVMOTliS0xZNjU1T1E4REdyNXNLYWkydTVOVDVqanJqNXViM2VLc3VwNzVGRUdnRWZuc256TVY4MkdYSHo1NjF4VGNMQmZRZldWZDRyWWZNdHBINFBwWGYtWjZNNFJ0dw?oc=5",
+      "press": "The Korea Times",
       "source": "domestic"
     },
     {
       "category": "반도체·AI",
-      "title": "지난주 17% 급등락 롤러코스터 장세, 삼전·닉스 주목",
-      "url": "https://n.news.naver.com/mnews/article/009/0005703054?sid=101",
-      "press": "www.mk.co.kr",
-      "source": "naver"
+      "title": "Samsung Electronics, SK Hynix Face Market Turning Point",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUVBKV0pNbnR1WVlSQ2lub3d1bWVJdnpOTDdOaTRnbElTZGowclo0U2RJbktMTDV1d2htNHlpN0h0Q2g5SmdIRDVaUlE3TzMyQlk3V2pqSkdsU2NFUXpXZzI2SlhGQmZzZ1VoY3A3TFdMR29jZHBWQnFvRkk1WUJsdmZOaWYtMHY0OGpHcHV3?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
     },
     {
-      "category": "반도체·AI",
-      "title": "뉴욕증시, FOMC 의사록 및 SK하이닉스 ADR 상장 주목",
-      "url": "https://www.etoday.co.kr/news/view/2600433",
-      "press": "www.etoday.co.kr",
+      "category": "시장·기타",
+      "title": "광진실업, 공매도 과열종목 지정 연장",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16125483",
+      "press": "톱스타뉴스",
       "source": "naver"
     },
     {
       "category": "K-증시·수급",
-      "title": "코스피 8천선 회복 속 대형주 쏠림 및 역대급 변동성",
-      "url": "https://n.news.naver.com/mnews/article/374/0000520056?sid=101",
-      "press": "biz.sbs.co.kr",
-      "source": "naver"
-    },
-    {
-      "category": "반도체·AI",
-      "title": "비츠로셀, 미 빅테크 데이터센터용 배터리 공급 논의",
-      "url": "https://n.news.naver.com/mnews/article/015/0005306479?sid=101",
-      "press": "www.hankyung.com",
-      "source": "naver"
-    },
-    {
-      "category": "에너지·원자재",
-      "title": "2026년 상반기 금 시장 분석 및 전망",
-      "url": "https://n.news.naver.com/mnews/article/092/0002429322?sid=105",
-      "press": "zdnet.co.kr",
-      "source": "naver"
-    },
-    {
-      "category": "부동산·유동성",
-      "title": "삼성전자, 사내 주택대출 85㎡ 이하 국민평형으로 제한",
-      "url": "https://www.joongangenews.com/news/articleView.html?idxno=530573",
-      "press": "www.joongangenews.com",
-      "source": "naver"
+      "title": "Foreign investors may have more Korean stocks to sell",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcVJyN2Z3b19rSThfQ0I0TlpDWEJqdnlpZlo4Z3g5c01oVzZnYVVHQ3lEUlR1Z0x2anFxN2htbS00NDVTYWItTU0waXBkTzFHTy1qQTI0dWZVT0pwSDkxOC1QMlpaZDBDdS1LcG43UGl1ek9VenJnc3FmSDRXZkxVdjF6REFfNGJXZEdkX2ljUXFlVGpZOFlaVjdjQUNURVpR0gGmAUFVX3lxTE9YT0pBekNRbWRQN1ZBMzkyVlRlWHRTNjQzU0JGWUxvb1BvN2hsd0lBaEt0cTd3V0RfRC1SU1YwZFVpcFJ2WUNmMGZxWmw4QWpuRW5sZXhnN05yUENOR3g0LVN0Q0FrQ2V2X2hxYTRvalVTMWhNR0J6cmt6ZVQ1M0p0X1dqUGlDazlrVXQwWlNPVUJLcDhkVFV2WkdnNDBIWEwxNXBsbHc?oc=5",
+      "press": "The Korea Times",
+      "source": "domestic"
     }
   ],
   "us_news": [
     {
+      "category": "반도체·AI",
+      "title": "메모리 반도체 기업 SK하이닉스, 미국 상장 절차 착수",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZk14M2h1MmhFUTNqM19EdEFmdGl5Q0FlMVQwdVBDLVJmaGtMcmVBZ2E3Z3Z3bjZ6cldCUXJPY1ZjdkhyVGN5Ulh0ekhSOVhEVTVGNmxoV25BTmhnb1RwY0dDdzAxSEM1Z0x2cEFMN1NCazkxYWhCcE5iUlNmSTA5REt0ZnpEb2l3QlVSZzEyRHE2dm1JMFlTUDN6X0IzZzdFT28xMklXRQ?oc=5",
+      "press": "Bloomberg",
+      "source": "international"
+    },
+    {
       "category": "매크로·금리",
-      "title": "S&P 500 및 나스닥 선물, 강세주 이후 상승세 확장",
+      "title": "S&P 500 및 나스닥 선물, 월가 강세 흐름 이어가며 상승",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Pc1Q1a0FiQXNHdTY4YlhDQ0wtT1NBX0dxMlZiMERKVTZxZkFrZVNyZnVEc01NWkFITm5XS0dfYnc2amtRX1R5LWZIbkNuM0JnRXlyYjR3WkxtOTlKWWdzS0JpaExTMmY1amNPcGNlLUdaUXZIallB0gF8QVVfeXFMTzkzYlJJQVo2Y1ZLdnFJR0NOc2ZzZ1M3eFdRZFM5LV8xbHlWTzJ3Z2ZYcHJGc1ZaMXhGSXlEVlZZclBBYzNoU3NFZWZnSXZrRF80SHF2eXZSV19GQ1d0YlRCVnNXN2luR1dJYjlvaXM3R3hNem1ENTNDNklPSg?oc=5",
       "press": "CNBC",
       "source": "international"
     },
     {
-      "category": "에너지·원자재",
-      "title": "오일 가격 OPEC 증산에 하락, 달러는 안정세 유지",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQms1OXFMOUJXelktWldaTmFkR0E0NHoyQWx6THBGZV9zVUI3UXFiQ2lDaElWRG1POERvVXk4WGl6MDBBbTgzTWQzZC1Hak1SeFloQ1BValhNdlBqS2k2NmJIaG1jVkJWYUdFX0Noa3RBVVhBQVRhd3NyR1d5SFphR2hpX21iLVFHVllUT2EtNGlRRFls?oc=5",
-      "press": "Bloomberg.com",
-      "source": "international"
-    },
-    {
       "category": "시장·기타",
-      "title": "투기 과열로 인해 2026년 상승분 상당 부분 반납 전망",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3ZaR3hsVkZ1UWF0QzUyUlY2SDM3Vk5zNmZFQ0VZdWgwd3lYRmdHaEFNeTgyTnAzVHBJUXE3dF9EMTVzNjBHNWc3UnFHaGtPUlN6R1gyVlgtWDZueFFYMmZrcHVDR05RMGQ2WkJIZ0xaY0MyVk1xXzZZNEF2SGlRNFRyVGFSYjZacEN5eEluODNuUEk0TU5jekJYNndzSTJPNE44ZlIyNl8?oc=5",
-      "press": "Fortune",
+      "title": "트럼프, 월가 개장 종 울리며 주가 상승과 본인 치적 연결",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2xMZFhjRF9FUVZiTGFtODgxb0RnalZFcWlHQUR0UzVVcjdzb3p5M0cwUnNtaElkai1QbHZSemFhMWRKMkhwRHZXUWVmczlRbDhJYUZaLVlDbmNPMGxhaV9TakNuYWJ0ZXVGS1p2cFQ4MmtUZnIwdDdGa3N2TnZvLUxaM1hCbE5ucFhpeDNuRFBMZnVCelhZLWdjQV8wbWRjU1ZQSmYwN0N6OGxDdWJIUTJSMkoxMHNBVUJvTUdtUQ?oc=5",
+      "press": "WRAL",
       "source": "international"
     },
     {
       "category": "반도체·AI",
-      "title": "다우 선물 상승, 애플·스페이스X·로빈후드 등 기술주 주목",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUs3MDc3MGF4YjFucGU2cXFkRlprZWgxbG84MWFJVVRjQkF6RXhRaWNOeWxQNnFxYWZKbVhZSTlPY294QURpU3lDM18tMGFuV0xnTS1uYzZVMHVQcDRZSmg0TVJYMjREbnpUZVRGZmZsZDg5MUVxVDRGMXVoNjZaaVlITHVHQk1wekR4ZmZNQ2Ffem1nQjAzSE5rTEJwbk1qem9RVnNBaURaNVk?oc=5",
-      "press": "Investor's Business Daily",
+      "title": "1년간 두 배 급등한 반도체주, 번스타인은 추가 상승 전망",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSjF6dkxVRFZnNVBpRFYwTU1RcUdmdXNGN0E4TjJHQ3F5Y2JfNmJsLWlWaDF1UUpZejd4Y0t4YzNKZmppeGR1REFKVXZfbF8zeXlPZGVRaHB6dkdWanBqOGZQMUlwSjNQNHdkbmFoNXNrbHVqOUVUU2ZxSE45SjF2RGx1UzNZRFRPY241Q28tNW1xQWdOelBhVjRjXzY4Z0VfR21GVWRzZVA?oc=5",
+      "press": "CNBC",
       "source": "international"
     },
     {
       "category": "반도체·AI",
-      "title": "세계 테스팅 및 시뮬레이션 시스템 시장 분석 및 전망",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONFBLMWFZWFcxVDVwRVpmVVcwUE9KNjBuZFRzM0tGNjJlVG9SbU9UWW9SOW04REVyb3BsTEsyMVUzSk1RaTl3Wk1xVnA4TEhlZnBpdjlPaFh5aWRrWTBGT1NYYUc3d3J3Zkxnd3h5QU83b3A0NE5rQXdCRXhObFExd3RTQnFsTnJVLXBqTjN6QWVQTEd0cmZZaGpKczctOGotWTNiSDZYYlpRZ1ZiTTlkMndYSjV6bWVi?oc=5",
-      "press": "IndexBox",
+      "title": "6월 투자자들에게 수익을 안겨준 반도체 ETF 분석",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeEZMZWRNY0o0YTdqMmNmSjRmY3dEZFFaX0xYOU5uZ0syMW4yTmNqNFl6TkJXYllNUW1pbk5zem43LWVXeEJqU0RjcXEwSUJFeXdjLS1MZXJxLTAzYVlfeHVpekJzRnRHem9xUUxRdkUtZ19HYVRhNzdYcHpyVENFay1menhXY2dRVUNJZDhXcUF1LVdqVkduT0JTd3F3eHFpYnpj?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "트럼프의 주식 종목 추천, 합법이지만 좋은 조언은 아냐",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSi16c0dKbGg1RUJhZnQwZl94VDdrUWRGOGRHUXZ6NjhnTFJHdlpUZk1rR2dfRHZHNmEweTFoTkhsSkxmLWkyanZWVy00anU4WHEzTF9BQzdvQ191dktwTEx6bTVyYnpMbkpJa1pjV3BPY3E3QlUxemJLbGxFMVFwcTNiMVJMOVg1MW9tb1F1YWRhb0dVMGd4V0VpSDFBYzAzRjJz?oc=5",
+      "press": "The Washington Post",
       "source": "international"
     }
   ]

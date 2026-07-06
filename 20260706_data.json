@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-05T23:37:18.008768+00:00",
+    "generated_at": "2026-07-06T11:22:45.818772+00:00",
     "run_date": "20260706"
   },
   "market": {
@@ -15,73 +15,73 @@
     ],
     "program": [
       {
-        "title": "KOSPI 프로그램 순매수 -157,281백만원 (차익 +0 / 비차익 -157,281)",
+        "title": "KOSPI 프로그램 순매수 -1,931,404백만원 (차익 -169,133 / 비차익 -1,762,271)",
         "description": "기준일: 20260706"
       }
     ],
     "gainers": [
       {
-        "title": "#1 동화약품 (+0.00%)",
-        "description": "현재가: 5,070, 거래량: 0"
+        "title": "#1 금호건설 (+30.00%)",
+        "description": "현재가: 12,350, 거래량: 20,139,240"
       },
       {
-        "title": "#2 KR모터스 (+0.00%)",
-        "description": "현재가: 267, 거래량: 0"
+        "title": "#2 금호전기 (+29.96%)",
+        "description": "현재가: 963, 거래량: 38,105,151"
       },
       {
-        "title": "#3 경방 (+0.00%)",
-        "description": "현재가: 8,140, 거래량: 0"
+        "title": "#3 금호타이어 (+29.96%)",
+        "description": "현재가: 6,160, 거래량: 8,205,572"
       },
       {
-        "title": "#4 삼양홀딩스 (+0.00%)",
-        "description": "현재가: 57,500, 거래량: 0"
+        "title": "#4 엠앤씨솔루션 (+29.93%)",
+        "description": "현재가: 35,600, 거래량: 237,839"
       },
       {
-        "title": "#5 하이트진로 (+0.00%)",
-        "description": "현재가: 15,050, 거래량: 0"
+        "title": "#5 금호건설우 (+29.92%)",
+        "description": "현재가: 39,950, 거래량: 118,274"
       }
     ],
     "traders": [
       {
-        "title": "#1 아크솔루션스 거래대금 0억원",
-        "description": "현재가: 121, 거래량: 35,077주"
+        "title": "#1 KODEX 200선물인버스2X 거래대금 6,728억원",
+        "description": "현재가: 76, 거래량: 8,964,139,793주"
       },
       {
-        "title": "#2 TIGER 리츠부동산인프라 거래대금 0억원",
-        "description": "현재가: 4,005, 거래량: 6,373주"
+        "title": "#2 KODEX 인버스 거래대금 10,473억원",
+        "description": "현재가: 949, 거래량: 1,105,835,631주"
       },
       {
-        "title": "#3 삼기에너지솔루션즈 거래대금 0억원",
-        "description": "현재가: 1,735, 거래량: 5,260주"
+        "title": "#3 SOL SK하이닉스선물단일종목인버스2X 거래대금 24,109억원",
+        "description": "현재가: 8,365, 거래량: 298,410,353주"
       },
       {
-        "title": "#4 삼기 거래대금 0억원",
-        "description": "현재가: 1,801, 거래량: 3,719주"
+        "title": "#4 KODEX SK하이닉스단일종목레버리지 거래대금 41,583억원",
+        "description": "현재가: 25,310, 거래량: 158,090,789주"
       },
       {
-        "title": "#5 SK네트웍스 거래대금 0억원",
-        "description": "현재가: 9,500, 거래량: 2,797주"
+        "title": "#5 삼성 인버스 2X WTI원유 선물 ETN 거래대금 26억원",
+        "description": "현재가: 26, 거래량: 99,182,677주"
       }
     ],
     "investor_trends": [
       {
-        "title": "아크솔루션스 외국인 -2,412주 / 기관 +0주 / 개인 -542,220주",
+        "title": "KODEX 200선물인버스2X 외국인 -1,085,752,958주 / 기관 -646,610,837주 / 개인 +1,707,380,408주",
         "description": "직전 영업일(20260703) 순매수 수량"
       },
       {
-        "title": "TIGER 리츠부동산인프라 외국인 -1,636주 / 기관 -75,275주 / 개인 +39,898주",
+        "title": "KODEX 인버스 외국인 +3,956,792주 / 기관 -26,594,032주 / 개인 +21,304,079주",
         "description": "직전 영업일(20260703) 순매수 수량"
       },
       {
-        "title": "삼기에너지솔루션즈 외국인 +669,659주 / 기관 -28,231주 / 개인 -628,505주",
+        "title": "SOL SK하이닉스선물단일종목인버스2X 외국인 +1,116,005주 / 기관 -11,079,507주 / 개인 +10,006,392주",
         "description": "직전 영업일(20260703) 순매수 수량"
       },
       {
-        "title": "삼기 외국인 -7,451주 / 기관 -177주 / 개인 +6,665주",
+        "title": "KODEX SK하이닉스단일종목레버리지 외국인 +1,745,111주 / 기관 +3,955,458주 / 개인 -5,928,381주",
         "description": "직전 영업일(20260703) 순매수 수량"
       },
       {
-        "title": "SK네트웍스 외국인 +227,376주 / 기관 -13,731주 / 개인 -214,387주",
+        "title": "삼성 인버스 2X WTI원유 선물 ETN 외국인 +0주 / 기관 +37,944,237주 / 개인 -37,944,237주",
         "description": "직전 영업일(20260703) 순매수 수량"
       }
     ]
@@ -89,16 +89,16 @@
   "macro": {
     "global": [
       {
-        "title": "달러인덱스(DXY): 100.89 (+0.03%)",
-        "description": "전일종가 100.86 / 변동 +0.0300"
+        "title": "달러인덱스(DXY): 101.08 (+0.22%)",
+        "description": "전일종가 100.86 / 변동 +0.2220"
       },
       {
         "title": "미국 10년물 금리: 4.49 (+0.22%)",
         "description": "전일종가 4.47 / 변동 +0.0100"
       },
       {
-        "title": "VIX 변동성지수: 16.15 (-2.65%)",
-        "description": "전일종가 16.59 / 변동 -0.4400"
+        "title": "VIX 변동성지수: 16.35 (+1.24%)",
+        "description": "전일종가 16.15 / 변동 +0.2000"
       },
       {
         "title": "S&P 500: 7483.24 (+0.00%)",
@@ -113,24 +113,24 @@
         "description": "전일종가 52305.24 / 변동 +594.8320"
       },
       {
-        "title": "USD/KRW: 1529.03 (-0.85%)",
-        "description": "전일종가 1542.13 / 변동 -13.1000"
+        "title": "USD/KRW: 1530.74 (-0.74%)",
+        "description": "전일종가 1542.13 / 변동 -11.3900"
       },
       {
-        "title": "USD/JPY: 161.45 (+0.00%)",
-        "description": "전일종가 161.45 / 변동 +0.0040"
+        "title": "USD/JPY: 162.30 (+0.53%)",
+        "description": "전일종가 161.45 / 변동 +0.8490"
       },
       {
-        "title": "코스피: 8088.34 (+5.76%)",
-        "description": "전일종가 7648.09 / 변동 +440.2500"
+        "title": "코스피: 8051.33 (-0.46%)",
+        "description": "전일종가 8088.34 / 변동 -37.0098"
       },
       {
-        "title": "코스닥: 868.41 (+0.19%)",
-        "description": "전일종가 866.72 / 변동 +1.6900"
+        "title": "코스닥: 847.07 (-2.46%)",
+        "description": "전일종가 868.41 / 변동 -21.3400"
       },
       {
-        "title": "KOSPI200: 1299.30 (+6.53%)",
-        "description": "전일종가 1219.62 / 변동 +79.6801"
+        "title": "KOSPI200: 1293.13 (-0.47%)",
+        "description": "전일종가 1299.30 / 변동 -6.1700"
       }
     ],
     "correlation": [
@@ -141,12 +141,12 @@
     ],
     "gex": [
       {
-        "title": "SPY PCR 1.54 | GEX +0.3B$ (만기:2026-07-06)",
-        "description": "콜OI 109,611 / 풋OI 168,727 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+        "title": "SPY PCR 1.32 | GEX +8.6B$ (만기:2026-07-06)",
+        "description": "콜OI 226,806 / 풋OI 299,576 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
       },
       {
-        "title": "QQQ PCR 1.67 | GEX +nanB$ (만기:2026-07-06)",
-        "description": "콜OI 63,772 / 풋OI 106,624 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+        "title": "QQQ PCR 3.79 | GEX +nanB$ (만기:2026-07-06)",
+        "description": "콜OI 14,897 / 풋OI 56,397 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
       }
     ],
     "inst_flows": [
@@ -168,7 +168,7 @@
   },
   "sentiment": [
     {
-      "title": "공포탐욕지수: 23/100 (Extreme Fear)",
+      "title": "공포탐욕지수: 24/100 (Extreme Fear)",
       "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
     }
   ],
@@ -233,14 +233,19 @@
         "press": "CNBC"
       },
       {
-        "title": "Oil Edges Lower on OPEC Increase, Dollar Steady: Markets Wrap - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQms1OXFMOUJXelktWldaTmFkR0E0NHoyQWx6THBGZV9zVUI3UXFiQ2lDaElWRG1POERvVXk4WGl6MDBBbTgzTWQzZC1Hak1SeFloQ1BValhNdlBqS2k2NmJIaG1jVkJWYUdFX0Noa3RBVVhBQVRhd3NyR1d5SFphR2hpX21iLVFHVllUT2EtNGlRRFls?oc=5",
-        "press": "Bloomberg.com"
+        "title": "Trump rings Wall Street's opening bells as he ties his presidency to stock market gains - WRAL",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2xMZFhjRF9FUVZiTGFtODgxb0RnalZFcWlHQUR0UzVVcjdzb3p5M0cwUnNtaElkai1QbHZSemFhMWRKMkhwRHZXUWVmczlRbDhJYUZaLVlDbmNPMGxhaV9TakNuYWJ0ZXVGS1p2cFQ4MmtUZnIwdDdGa3N2TnZvLUxaM1hCbE5ucFhpeDNuRFBMZnVCelhZLWdjQV8wbWRjU1ZQSmYwN0N6OGxDdWJIUTJSMkoxMHNBVUJvTUdtUQ?oc=5",
+        "press": "WRAL"
       },
       {
-        "title": "Stock market outlook: S&P 500 to lose much of 2026 gains as 'speculation is hitting extreme levels' - Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3ZaR3hsVkZ1UWF0QzUyUlY2SDM3Vk5zNmZFQ0VZdWgwd3lYRmdHaEFNeTgyTnAzVHBJUXE3dF9EMTVzNjBHNWc3UnFHaGtPUlN6R1gyVlgtWDZueFFYMmZrcHVDR05RMGQ2WkJIZ0xaY0MyVk1xXzZZNEF2SGlRNFRyVGFSYjZacEN5eEluODNuUEk0TU5jekJYNndzSTJPNE44ZlIyNl8?oc=5",
-        "press": "Fortune"
+        "title": "Opinion | Trump’s stock endorsements are legal, but that doesn’t make them good advice - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSi16c0dKbGg1RUJhZnQwZl94VDdrUWRGOGRHUXZ6NjhnTFJHdlpUZk1rR2dfRHZHNmEweTFoTkhsSkxmLWkyanZWVy00anU4WHEzTF9BQzdvQ191dktwTEx6bTVyYnpMbkpJa1pjV3BPY3E3QlUxemJLbGxFMVFwcTNiMVJMOVg1MW9tb1F1YWRhb0dVMGd4V0VpSDFBYzAzRjJz?oc=5",
+        "press": "The Washington Post"
+      },
+      {
+        "title": "Memory Chipmaker SK Hynix Starts Marketing US Listing - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZk14M2h1MmhFUTNqM19EdEFmdGl5Q0FlMVQwdVBDLVJmaGtMcmVBZ2E3Z3Z3bjZ6cldCUXJPY1ZjdkhyVGN5Ulh0ekhSOVhEVTVGNmxoV25BTmhnb1RwY0dDdzAxSEM1Z0x2cEFMN1NCazkxYWhCcE5iUlNmSTA5REt0ZnpEb2l3QlVSZzEyRHE2dm1JMFlTUDN6X0IzZzdFT28xMklXRQ?oc=5",
+        "press": "Bloomberg.com"
       },
       {
         "title": "S&P 500 and Nasdaq futures extend gains after a strong week on Wall Street: Live updates - CNBC",
@@ -248,103 +253,133 @@
         "press": "CNBC"
       },
       {
-        "title": "Stock market today: S&P 500, Nasdaq, Dow futures climb after record-setting week - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY18wb0pOSlhyNk1jSU1HSmJZZm0xY0RNc0xmTkhfTEg4RFNsQV85dnBzUzJqQ0IxMENFWElUUG95S1JlWVRDNm9xYy13ek1lOG5WaFdZVU43OV9KVmx1N2JqR1owamlTa2FIOWdEdHBVU0RvakxnTlJhazV0WTNfRWp4SU1RMkpJUjEzOUNzckJDREd0Sk9DbQ?oc=5",
+        "title": "This semiconductor stock has more than doubled in a year. Bernstein sees more gains ahead - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSjF6dkxVRFZnNVBpRFYwTU1RcUdmdXNGN0E4TjJHQ3F5Y2JfNmJsLWlWaDF1UUpZejd4Y0t4YzNKZmppeGR1REFKVXZfbF8zeXlPZGVRaHB6dkdWanBqOGZQMUlwSjNQNHdkbmFoNXNrbHVqOUVUU2ZxSE45SjF2RGx1UzNZRFRPY241Q28tNW1xQWdOelBhVjRjXzY4Z0VfR21GVWRzZVA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Here's Why This Semiconductor ETF Rewarded Investors in June - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeEZMZWRNY0o0YTdqMmNmSjRmY3dEZFFaX0xYOU5uZ0syMW4yTmNqNFl6TkJXYllNUW1pbk5zem43LWVXeEJqU0RjcXEwSUJFeXdjLS1MZXJxLTAzYVlfeHVpekJzRnRHem9xUUxRdkUtZ19HYVRhNzdYcHpyVENFay1menhXY2dRVUNJZDhXcUF1LVdqVkduT0JTd3F3eHFpYnpj?oc=5",
         "press": "Yahoo Finance"
       },
       {
-        "title": "Dow Jones Futures: Techs Jump With Apple, SpaceX, Sandisk, Robinhood In Focus - Investor's Business Daily",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTUs3MDc3MGF4YjFucGU2cXFkRlprZWgxbG84MWFJVVRjQkF6RXhRaWNOeWxQNnFxYWZKbVhZSTlPY294QURpU3lDM18tMGFuV0xnTS1uYzZVMHVQcDRZSmg0TVJYMjREbnpUZVRGZmZsZDg5MUVxVDRGMXVoNjZaaVlITHVHQk1wekR4ZmZNQ2Ffem1nQjAzSE5rTEJwbk1qem9RVnNBaURaNVk?oc=5",
-        "press": "Investor's Business Daily"
-      },
-      {
-        "title": "World Testing and Simulation Systems - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONFBLMWFZWFcxVDVwRVpmVVcwUE9KNjBuZFRzM0tGNjJlVG9SbU9UWW9SOW04REVyb3BsTEsyMVUzSk1RaTl3Wk1xVnA4TEhlZnBpdjlPaFh5aWRrWTBGT1NYYUc3d3J3Zkxnd3h5QU83b3A0NE5rQXdCRXhObFExd3RTQnFsTnJVLXBqTjN6QWVQTEd0cmZZaGpKczctOGotWTNiSDZYYlpRZ1ZiTTlkMndYSjV6bWVi?oc=5",
-        "press": "IndexBox"
-      },
-      {
-        "title": "United States Edge Sensor - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNmlEVVpIV2x2R09ackMzVUVJLXlNUlFmUE15cXpGZnBJdGVsaldfODlDVDJ3Qy1uVGViRHlFVS1CTlNjUXZXUVBiSl9hdnN1aU91NUpOcHY3Tkx5NkRjM3U0SVl1Njc2RGMzYUoyRWFHV0R0LU5TcHo4TzVUVkp0M1NCLTZMQkRQeUQ5LXI1SmE3cXduSEdpUGJHSEhVcXZTTlJBZHZJd0Y0UQ?oc=5",
-        "press": "IndexBox"
+        "title": "Why Sandisk, Intel Stocks Will Lead the Tech Rebound Into Earnings Season - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1cF9FN1hvRHZ6ZmItdF9tNmhoV3pSUjJ0M1Y4bDFlZ0NHa2l2dnVmSDJsbjZlVjhTVE1NbTUyRmxPb2NpT2dQVVpPMXlNeUJLUktUSkRlVWtzWThORDF5RWNDM2hXWFBETWpBbG5Xa3UzbV92TFdaRTNQNWpZZFU?oc=5",
+        "press": "Barron's"
       }
     ],
     "domestic": [
       {
-        "title": "Kospi's continuing volatility trips off its 31st trading curb of the year, topping 2008's record - Korea JoongAng Daily",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWEQ3alFweHYtT2NVTVBVNFQ2aDVQbTNZZGpYNlo3ZnBPUXlFRFg3YzNrRDFuRzVwZVZsNjZ5UE5Wa0RTZG55ODY3eVRmdFU2MWs4a21lWlNjUFQyVGt4X2I3cmFYbmJYSTFJbXlGRy1HWVlMWUVyc1ZHRlRZQ2RtY0xMTjFsdXBsbjVLNXdTVW9qbm9sZklTZEdnT3dDcjF0UDQ3WGhFc21FemN4MzJId05LVFZYV3dxVThPcmdrV0dia3pGTnpiR1JWb0I5ZjJrX1JjZnNzMmlMLUk?oc=5",
+        "title": "Feeling left out of Korea’s chip stock boom? - Korea JoongAng Daily",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZk9uNkhhVUk4SGE2SzFWalk0WVBKYmxYVnJBMFFBbjBnZWJvbXk5V2NydmNCOF9RdVRCRVhseTVxdE51UnljV0Y4RkZ3dEItMEJvSEt2dUIzSVhZcWRwUms3WUN4c0NVRnk0MzIwM3Y5R2dQR0dGWVVKdHFNWUtBckZ4LXRhQ09ueWQ2Rzg5WWxHc285UXBZdHZnUnhuaVhfc1hzTmx1MGZ1eHc?oc=5",
         "press": "Korea JoongAng Daily"
       },
       {
-        "title": "Kosdaq's Desperate 'Penny Stock Escape': Stock Consolidations Surge 24-Fold in One Year - finance.biggo.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50MHFtOWtyNWZOdllVdzl6UUlhdWZ4VE9DaWd3M2tGd2w4ajJWWi1Gek5YZmtUcExTaGlXQjlHTzA0MlZmelVWWkdxMndvcElyT0ZqUFJzdHlaTUlBeEJ2UjhacUtWNjRpLV9iVi1haE8tbVA4Z1E?oc=5",
-        "press": "finance.biggo.com"
+        "title": "Leclerc ends wait for a win at British Grand Prix as F1 leader Antonelli hits more trouble - Japan Today",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOelU5VG5DNkhHUmhLNzJjZFdCQXlTdkk2OUNHM1hlcFAzZC1kMXJkREtTZzVwblVEcUpoamw4ekp0NVp1YllSYzNNMG1HX1RGN3RqSkFBZExQNU9fNTIta0lmckJFUUVrWk9sYU9iSkRTTXNmNWp4SXo4cHBxME91NlRzYkRwdUFIU0pZNzc2emJFYjRKd2VXN0JqQnlDRTI4SW9FUllraE1XYkhjRWN3WkVNV09EUDZ0cUIyc2VuUDh3Y1A5MkhMbA?oc=5",
+        "press": "Japan Today"
       },
       {
-        "title": "Samsung Employees' Video Highlights Bonus Disparity - 조선일보",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2paZDlIQlRGa0ptZmlna1EzUTU2RnUxSUl0b2F4U3ZTazVocTFZcmJqRkFuZF90M0c4VzV2ZHgycWczQnNkdGxydWFwVVQtSmlqdUZQcGhhQ19qZks3VV9DbzRDRmsxTUVIS3ZHaFBFR1VOVzU4R3hWQUZQcEVJTjdVMnV1ME04?oc=5",
+        "title": "Foreign investors may have more Korean stocks to sell - The Korea Times",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcVJyN2Z3b19rSThfQ0I0TlpDWEJqdnlpZlo4Z3g5c01oVzZnYVVHQ3lEUlR1Z0x2anFxN2htbS00NDVTYWItTU0waXBkTzFHTy1qQTI0dWZVT0pwSDkxOC1QMlpaZDBDdS1LcG43UGl1ek9VenJnc3FmSDRXZkxVdjF6REFfNGJXZEdkX2ljUXFlVGpZOFlaVjdjQUNURVpR0gGmAUFVX3lxTE9YT0pBekNRbWRQN1ZBMzkyVlRlWHRTNjQzU0JGWUxvb1BvN2hsd0lBaEt0cTd3V0RfRC1SU1YwZFVpcFJ2WUNmMGZxWmw4QWpuRW5sZXhnN05yUENOR3g0LVN0Q0FrQ2V2X2hxYTRvalVTMWhNR0J6cmt6ZVQ1M0p0X1dqUGlDazlrVXQwWlNPVUJLcDhkVFV2WkdnNDBIWEwxNXBsbHc?oc=5",
+        "press": "The Korea Times"
+      },
+      {
+        "title": "The KOSDAQ market was launched under the slogan of the Korean version of Nasdaq. We recently celebra.. - 매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBuVVQ3SFRQa18tQUtLTWxBQzNkTjUwYk1YamhXMGtWcnd4VF9kSHBwWTd6N1JrTVBfVGlIWVo5WGRiNUwxQzd6el9TWWNMOGs?oc=5",
+        "press": "매일경제"
+      },
+      {
+        "title": "KrX names Kim U-chan KOSDAQ market chair in South Korea - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQem90a3pNVFJ0TG0xMkdodllWRktzSGRZOS1iRlNfNVZ5TXZVZ1NrRGhLQ3laTWotbVhqRWtGaFNKNHZTTFpqTm9DWDNLUkQ5Vm1MbXQ4Q090cnBUNjhwUmtIakFTVnJIc2JvV3lzOTh5Zno0bDFCWktwOXBZX3FOOVl6LVFhSmEwRVBqRmxSWm9EdFRQ0gGUAUFVX3lxTFB6b3Rrek1UUnRMbTEyR2h2WVZGS3NIZFk5LWJGU181VnlNdlVnU2tEaEtDeVpNai1tWGpFa0ZoU0o0dlNMWmpOb0NYM0tSRDlWbUxtdDhDT3RycFQ2OHBSa0hqQVNWckhzYm9XeXM5OHlmejRsMUJaS3A5cFlfcU45WXotUWFKYTBFUGpGbFJab0R0VFA?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Why Korea's IPO boom has turned into bust - The Korea Times",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmZ2UURBOF9pVlREX3JlMXlsOVd4Um1nN2NzYWM2OUZYZ0xkVkhxS2RUWGdkVnU1eFhFUkM0SlktdS1LVXYxNmxiV2JPVENNTVpLdlVJOUVTR0JRelY3YWxtUGVDUDZIY3BRMnJLS256OHFVa1J1anlyUmc0YTNyaTJhbUFDdXM0a3hYejZ5b0lwdS1UNFlGd9IBngFBVV95cUxQNFY5YmpCMkR6MDhEblF4d3RJbWpGV3lrdjNpWF9mTjgtNjBTQXd5NGs5bzhkcWFTSWoxSWVEYWVMOTliS0xZNjU1T1E4REdyNXNLYWkydTVOVDVqanJqNXViM2VLc3VwNzVGRUdnRWZuc256TVY4MkdYSHo1NjF4VGNMQmZRZldWZDRyWWZNdHBINFBwWGYtWjZNNFJ0dw?oc=5",
+        "press": "The Korea Times"
+      },
+      {
+        "title": "Samsung Electronics, SK Hynix Face Market Turning Point with Key Events - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUVBKV0pNbnR1WVlSQ2lub3d1bWVJdnpOTDdOaTRnbElTZGowclo0U2RJbktMTDV1d2htNHlpN0h0Q2g5SmdIRDVaUlE3TzMyQlk3V2pqSkdsU2NFUXpXZzI2SlhGQmZzZ1VoY3A3TFdMR29jZHBWQnFvRkk1WUJsdmZOaWYtMHY0OGpHcHV3?oc=5",
         "press": "조선일보"
+      },
+      {
+        "title": "Samsung Electronics' Profit Expected to Top 100 Trillion Won Excluding Reserves - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZEpfTnpWYnhNYUowTk9QWU1qZUR5SmZ3cmpwb3JPQ0NqamZPQktJT1IzWWtWSkpMR284QWkwZ0tRZkozR0VHVUJpUUdSdEQzTTVnWkpnUGVmdEJyVnRxMDRwMzhfTEIxOFplZGZxNkdfdlE2OURSSTlGOE1vMW5HTkR6dWxBZ0M1?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Samsung Electronics, SK Hynix Face Market Turning Point with Key Events - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUVBKV0pNbnR1WVlSQ2lub3d1bWVJdnpOTDdOaTRnbElTZGowclo0U2RJbktMTDV1d2htNHlpN0h0Q2g5SmdIRDVaUlE3TzMyQlk3V2pqSkdsU2NFUXpXZzI2SlhGQmZzZ1VoY3A3TFdMR29jZHBWQnFvRkk1WUJsdmZOaWYtMHY0OGpHcHV3?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Naver Financial delays Dunamu merger, targets Dec. 31 share swap in Korea - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTGJLbG5BRHdPSDNKbkZ2R0ZMN09UNnJVZ1l0TjFaUmxhSWo4OVZIRW1uc2p3VEZ2SlZac1I4NE5vSk1GSWtzd2Z5azdsa054cGhEVkhsQnVxTVpNU25aVDlxdGlueGFEMi1oakVOMmk5VFU3eElYS29BSjNtc0NIcdIBlAFBVV95cUxOcGF3dnYyT1h0Z2piYnBjRG1FMnFTY1dsUU1KM0xqck9TZ2tkZzloejNnOXR6RHU1VkFJdnhuNVhOYkVuUk9McHpqNFJ6azh5MHlQNHFUVFBnSEdtYi0tMldrSE9nT0c1V2dRbllROWxJOENleVBvb0MtaHZlOEhZNHNrTHMzY0pOR1RKc1ZncEJvUzBV?oc=5",
+        "press": "Chosunbiz"
       }
     ],
     "naver": [
       {
-        "title": "지난주 17% 급등락 롤러코스피 장세 변화 올까…삼전·닉스 이벤트 주목",
-        "url": "https://n.news.naver.com/mnews/article/009/0005703054?sid=101",
-        "press": "www.mk.co.kr"
+        "title": "'대체 언제 돌아오나'…'삼전닉스'만 136조 내다판 외국인, 하반기 '폭풍...",
+        "url": "https://n.news.naver.com/mnews/article/215/0001257793?sid=101",
+        "press": "www.wowtv.co.kr"
       },
       {
-        "title": "2026년 상반기 금 시장을 다시 읽다",
-        "url": "https://n.news.naver.com/mnews/article/092/0002429322?sid=105",
-        "press": "zdnet.co.kr"
+        "title": "주식투자 권유하는 게 정부가 할 일인가[인권으로 읽는 세상]",
+        "url": "https://n.news.naver.com/mnews/article/002/0002447440?sid=102",
+        "press": "www.pressian.com"
       },
       {
-        "title": "\"정책 전반서 청년들에게 더 많은 기회 제공하려는 노력 필요\"",
-        "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=178672",
-        "press": "www.newsmaker.or.kr"
+        "title": "[기자칼럼]경제정책에도 용기가 필요하다",
+        "url": "https://n.news.naver.com/mnews/article/032/0003456418?sid=110",
+        "press": "www.khan.co.kr"
       },
       {
-        "title": "[어제장 오늘장] 코스피 8천선 회복…대형주 쏠림에 역대급 변동성",
-        "url": "https://n.news.naver.com/mnews/article/374/0000520056?sid=101",
-        "press": "biz.sbs.co.kr"
+        "title": "광진실업, 공매도 과열종목 지정 연장→공매도 거래 제한",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16125483",
+        "press": "www.topstarnews.net"
       },
       {
-        "title": "코인원 \"코인 넘어 금융으로\", 새 주주 앞세워 하반기 광고전 시동",
-        "url": "https://www.econovill.com/news/articleView.html?idxno=744345",
-        "press": "www.econovill.com"
+        "title": "[특징주] 푸드나무, 200억 자금 조달…'뉴케이드림1호' 제3자 배정",
+        "url": "https://www.newstnt.com/news/articleView.html?idxno=709192",
+        "press": "www.newstnt.com"
       },
       {
-        "title": "장승국 비츠로셀 대표 \"美빅테크용 데이터센터 배터리 공급 논의…회사...",
-        "url": "https://n.news.naver.com/mnews/article/015/0005306479?sid=101",
-        "press": "www.hankyung.com"
+        "title": "주식투자 권유하는 게 정부가 할 일인가[인권으로 읽는 세상]",
+        "url": "https://n.news.naver.com/mnews/article/002/0002447440?sid=102",
+        "press": "www.pressian.com"
       },
       {
-        "title": "삼성전자, 사내 주택대출 '국민평형'으로 제한…85㎡ 이하만 지원",
-        "url": "https://www.joongangenews.com/news/articleView.html?idxno=530573",
-        "press": "www.joongangenews.com"
+        "title": "'대체 언제 돌아오나'…'삼전닉스'만 136조 내다판 외국인, 하반기 '폭풍...",
+        "url": "https://n.news.naver.com/mnews/article/215/0001257793?sid=101",
+        "press": "www.wowtv.co.kr"
       },
       {
-        "title": "뉴욕증시, FOMC 의사록·SK하이닉스 ADR 상장 주목 [뉴욕 인사이트]",
-        "url": "https://www.etoday.co.kr/news/view/2600433",
-        "press": "www.etoday.co.kr"
+        "title": "\"'서비스 품질 평가' 석권\"…삼성전자서비스, NCSI 전자제품 AS 1위",
+        "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=265271",
+        "press": "www.financialpost.co.kr"
       },
       {
-        "title": "[Tech & Now] 삼성전자, 갤럭시 워치로 근로자 온열질환 막는다…B2B 안전...",
-        "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1715148",
-        "press": "www.ebn.co.kr"
+        "title": "광주 군공항에 호남 반도체 클러스터…\"국가균형발전의 전환점\"",
+        "url": "https://news.dealsitetv.com/articles/172903",
+        "press": "news.dealsitetv.com"
       },
       {
-        "title": "뉴욕증시, FOMC 의사록·SK하이닉스 ADR 상장 주목 [뉴욕 인사이트]",
-        "url": "https://www.etoday.co.kr/news/view/2600433",
-        "press": "www.etoday.co.kr"
+        "title": "SK하이닉스, ADR 발행 총액 45조→43조원 정정",
+        "url": "http://www.dynews.co.kr/news/articleView.html?idxno=856994",
+        "press": "www.dynews.co.kr"
       },
       {
-        "title": "충북도, 반도체·바이오 산업의 새 중심지로 도약",
-        "url": "https://www.viva100.com/article/20260705500652",
-        "press": "www.viva100.com"
+        "title": "'대체 언제 돌아오나'…'삼전닉스'만 136조 내다판 외국인, 하반기 '폭풍...",
+        "url": "https://n.news.naver.com/mnews/article/215/0001257793?sid=101",
+        "press": "www.wowtv.co.kr"
       },
       {
-        "title": "[AI MY 뉴스] 6일 중국증시 '안정적 흐름, 저평가주&고가 기술주 순환 장...",
-        "url": "https://www.newspim.com/news/view/20260706000048",
-        "press": "www.newspim.com"
+        "title": "SK하이닉스, 44조 규모 ADR 나스닥 상장…AI 반도체 판도 뒤흔드나",
+        "url": "https://www.kgnews.co.kr/news/article.html?no=902862",
+        "press": "www.kgnews.co.kr"
       }
     ],
     "telegram": []
