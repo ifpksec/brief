@@ -1,0 +1,357 @@
+{
+  "meta": {
+    "generated_at": "2026-07-06T23:37:28.149197+00:00",
+    "run_date": "20260707"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [
+      {
+        "title": "고객예탁금: 1,182,594억원 (-16,671억원)",
+        "description": "신용융자잔고: 377,922억원"
+      }
+    ],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 +160,458백만원 (차익 +47,108 / 비차익 +113,350)",
+        "description": "기준일: 20260707"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 동화약품 (+0.00%)",
+        "description": "현재가: 5,070, 거래량: 0"
+      },
+      {
+        "title": "#2 KR모터스 (+0.00%)",
+        "description": "현재가: 267, 거래량: 0"
+      },
+      {
+        "title": "#3 경방 (+0.00%)",
+        "description": "현재가: 8,250, 거래량: 0"
+      },
+      {
+        "title": "#4 삼양홀딩스 (+0.00%)",
+        "description": "현재가: 57,100, 거래량: 0"
+      },
+      {
+        "title": "#5 하이트진로 (+0.00%)",
+        "description": "현재가: 15,050, 거래량: 0"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 진흥기업 거래대금 0억원",
+        "description": "현재가: 1,070, 거래량: 59,363주"
+      },
+      {
+        "title": "#2 금호건설 거래대금 3억원",
+        "description": "현재가: 12,350, 거래량: 31,977주"
+      },
+      {
+        "title": "#3 KODEX 코스닥150레버리지 거래대금 2억원",
+        "description": "현재가: 8,465, 거래량: 30,274주"
+      },
+      {
+        "title": "#4 금호전기 거래대금 0억원",
+        "description": "현재가: 963, 거래량: 13,504주"
+      },
+      {
+        "title": "#5 서산 거래대금 0억원",
+        "description": "현재가: 3,675, 거래량: 11,945주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "진흥기업 외국인 +1,398,169주 / 기관 +34,356주 / 개인 -1,429,587주",
+        "description": "직전 영업일(20260706) 순매수 수량"
+      },
+      {
+        "title": "금호건설 외국인 +12,671주 / 기관 -97주 / 개인 +35,238주",
+        "description": "직전 영업일(20260706) 순매수 수량"
+      },
+      {
+        "title": "KODEX 코스닥150레버리지 외국인 +625,792주 / 기관 -8,258,746주 / 개인 +7,405,208주",
+        "description": "직전 영업일(20260706) 순매수 수량"
+      },
+      {
+        "title": "금호전기 외국인 +35,773주 / 기관 +47,583주 / 개인 -93,773주",
+        "description": "직전 영업일(20260706) 순매수 수량"
+      },
+      {
+        "title": "서산 외국인 -43,547주 / 기관 -724주 / 개인 +38,936주",
+        "description": "직전 영업일(20260706) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.86 (-0.00%)",
+        "description": "전일종가 100.86 / 변동 -0.0050"
+      },
+      {
+        "title": "미국 10년물 금리: 4.48 (-0.13%)",
+        "description": "전일종가 4.49 / 변동 -0.0060"
+      },
+      {
+        "title": "VIX 변동성지수: 15.57 (-3.59%)",
+        "description": "전일종가 16.15 / 변동 -0.5800"
+      },
+      {
+        "title": "S&P 500: 7537.43 (+0.72%)",
+        "description": "전일종가 7483.24 / 변동 +54.1899"
+      },
+      {
+        "title": "나스닥100: 29697.87 (+1.26%)",
+        "description": "전일종가 29329.21 / 변동 +368.6621"
+      },
+      {
+        "title": "다우존스: 53055.91 (+0.29%)",
+        "description": "전일종가 52900.07 / 변동 +155.8398"
+      },
+      {
+        "title": "USD/KRW: 1529.25 (-0.11%)",
+        "description": "전일종가 1531.00 / 변동 -1.7500"
+      },
+      {
+        "title": "USD/JPY: 162.01 (+0.35%)",
+        "description": "전일종가 161.45 / 변동 +0.5620"
+      },
+      {
+        "title": "코스피: 8088.34 (+5.76%)",
+        "description": "전일종가 7648.09 / 변동 +440.2500"
+      },
+      {
+        "title": "코스닥: 868.41 (+0.19%)",
+        "description": "전일종가 866.72 / 변동 +1.6900"
+      },
+      {
+        "title": "KOSPI200: 1299.30 (+6.53%)",
+        "description": "전일종가 1219.62 / 변동 +79.6801"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.393 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.32 | GEX +6.5B$ (만기:2026-07-06)",
+        "description": "콜OI 226,806 / 풋OI 299,576 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.26 | GEX +1.7B$ (만기:2026-07-06)",
+        "description": "콜OI 147,538 / 풋OI 186,322 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $189.85 (+5.39%)",
+        "description": "거래량 16,553,234주 (평균대비 0.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $754.76 (+0.85%)",
+        "description": "거래량 3,953,990주 (평균대비 0.5x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 68.8% (137/199종목)",
+        "description": "평균 MA 대비 위치: +3.2%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 24/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-06-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.2",
+        "description": "Date: 2026-06-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 333.979",
+        "description": "Date: 2026-05-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 2.1",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.49",
+        "description": "Date: 2026-07-02, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.72조달러",
+        "description": "기준일: 2026-07-01 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.34조달러",
+        "description": "기준일: 2026-07-01 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 8073.59억달러",
+        "description": "기준일: 2026-07-01 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.03억달러",
+        "description": "기준일: 2026-07-06 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 274bp (2.74%)",
+        "description": "기준일: 2026-07-03 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 75bp (0.75%)",
+        "description": "기준일: 2026-07-03 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Dow posts record, S&P 500 and Nasdaq rally on revived AI optimism - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTktvaWU4WlZaV3VGWTBZSGVkMUhpNG5aQ0FZUDN4TXdYTzBrc2gwWTJXS1VIaVFKYTZSVHNTc0Z6dnFvLU5sUE00a3lpS1ZoNzBkVXpRRjc1cDZuUEtZemhOV05nVXNQZlFtMEo4Vy1BeGdFdkFzaUQ2VWNJNGhRcXJJY0dvUWxTMWFXQUFrZFBSTGdEZ2tIOTlhRzhEUHNWN0RmYVNodXZEN0VR?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Texas Stock Exchange officially operational, launches trading on platform - Dallas News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcERKZjhWQjN1UG9nZjVabGs4VndHVlJUcm5OU1BpZ2FaSFRnS05vTFk1bDZWWGhMeVFNa3NmZmJIaDl3c2M0Rl9FNGxpWDhubTlMNk1zVk1GTTRRNUFjTzNGTmxnWF9jZEE5LVA4NW15cDlfZDB1WmJWM2pROWpfZHpCRFNJd0dvc0pRcUI3dWxXWk15MVh1QlBaaTNUcE1RWVZfT2VWMzRraWFz?oc=5",
+        "press": "Dallas News"
+      },
+      {
+        "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUlVUVU1NdzNCNFhwMjB2c3N1Vk1mc1JhdS1sNW02dFhEeDVwTm1ZRmQzZGNScE81cmpDbEoxbjVuRXRHcnBXUGlKTXJ3d1dEMG5OM1RHdU1lM0xNaFdETWtGUER5YzVJRlEzZ29kMzJYQmYyLTdqWmdXUXRJcnB2Qm1nbWh2dVdDQmYyVEdWN3hmdFR4aGkzeUx3Zw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Dow jumps 150 points for first close above 53,000; Nasdaq rises as chips rebound: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Pc1Q1a0FiQXNHdTY4YlhDQ0wtT1NBX0dxMlZiMERKVTZxZkFrZVNyZnVEc01NWkFITm5XS0dfYnc2amtRX1R5LWZIbkNuM0JnRXlyYjR3WkxtOTlKWWdzS0JpaExTMmY1amNPcGNlLUdaUXZIallB0gF8QVVfeXFMTzkzYlJJQVo2Y1ZLdnFJR0NOc2ZzZ1M3eFdRZFM5LV8xbHlWTzJ3Z2ZYcHJGc1ZaMXhGSXlEVlZZclBBYzNoU3NFZWZnSXZrRF80SHF2eXZSV19GQ1d0YlRCVnNXN2luR1dJYjlvaXM3R3hNem1ENTNDNklPSg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: Dow posts record, S&P 500 and Nasdaq rally on revived AI optimism - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTktvaWU4WlZaV3VGWTBZSGVkMUhpNG5aQ0FZUDN4TXdYTzBrc2gwWTJXS1VIaVFKYTZSVHNTc0Z6dnFvLU5sUE00a3lpS1ZoNzBkVXpRRjc1cDZuUEtZemhOV05nVXNQZlFtMEo4Vy1BeGdFdkFzaUQ2VWNJNGhRcXJJY0dvUWxTMWFXQUFrZFBSTGdEZ2tIOTlhRzhEUHNWN0RmYVNodXZEN0VR?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "S&P 500, Nasdaq close sharply higher as Broadcom rallies - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeURVeHcyZ0dZTjVKUU5YT1c0UFpHZjliRDdNamlueUo3M0pyaDFDYkNPYlZnTDMwY1I2Q2ZodmhPeWdKeUZNY2wzRUgxOUowQ0pLMnF0ajJqdnI2dS1uWjdIS1hSLUFkeHN3VnZadWJJYk9XZnAyczBjOVBXcmxCSlNCcVRWZjZnVkZQQWlYam9MQWZ2T0hpWnN0aHRSU2o2MU9WRlB0THYxREJzVkM2U1NSOA?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Credo Leads Rebound For Semiconductor Stocks - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYW9KbWllNzZVam1raHMzSjRCOGRlVVR4ZnZ1M2JEQmtfbjR6VnlnUVRFbE5mMHVLMnhBRmZrcUEwRlJuTWx1VFlUekFGWmRFZlF0b2lnNzEzOXB5bEZIa0xQbXI4UzhjdGNLZGlJNWxxdFFuNEVjdlNaNG9NYkFwUC15UWlQeVRjYUdOZjNoQzltVzlnQWtRaUxsR1FHUQ?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Lattice Semiconductor (LSCC) Stock Trades Up, Here Is Why - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckNEWmxtYllweTVNVUIxd003WHRSQnAxaWlMcFNMSFp5WFV3MlR1aEhZNHphTXZ4eTF1dlVYcE9tejR6ME12X2loR1ZNSU14cjUyWjlEVmduTDNFUy1wT1NHQUNWdmZjSDJWcjhiSUJ5cHJrbjB3dU4xa1NHbk9oQzJmbEwtR3NublBNbVZfdXp6U1E2YlAzMnh6Q1VnU3dwZ0IweUYtRQ?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "We Ran A Stock Scan For Earnings Growth And S&S Tech (KOSDAQ:101490) Passed With Ease - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNkgtN3lWU0c5MFB2VEExa2NiQWZGTXFRdFhweU4wTC1pTmtXTWlIY0Etek9BdmdKQzdqX2hQMHhjYUktRjNHRGtKRGVKX3RSUnhic0NJd2ppRUtPZXZENl9iT3NpeVIxcWFXNTVSdGFkdjJfa2RMdFQ4RVlxU3JCLWpNY0FsVEVQaGYySzk4QWEzcHN5bXVDYUtCRWZQbHJSUkE1NVJHdWstN2lseGhzc3dBemVieWNnNHcwZWZHUlVsTFRoaHdrWG9xX21zNGRfZWdMbzJjTmlBd9IB3wFBVV95cUxPNUlkcmtER09BcmRfTHFGQWpHem95UWc3RFJTRFVNSHJhVlI4ZmE0aFZhRVFEMHRyaU9oMHJ0S0pTV3lTY0g3Y1ZERzBEdVNGRFREdVhlbnBRZ1ZpMUxmZjJ4ZDJjS2lmZkJRd2QzTlhmNEVhdm41cS1kemMzSnp5ck9QTXFfejNDUDBpZHFEYVRGQUZVemE4a0FJbXdJMTJ1OVV1bC13R3hrWGlDaEhkZDZCREZGeGNETHB3ZjZiTWc3UDdZbWt1UWJXWDQ5cTRfUGtFemlSS2tkSVBVN3lj?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Is There Now An Opportunity In Koh Young Technology Inc. (KOSDAQ:098460)? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQk4zNHdjUEZTVnNJVTl4UlcyUFpaSnh1SkhzS1BTcmxaOThfdnZzekxDWW50dXpTN0Z3TklTUy1IUkNXdUVlTmRpbGY5WXlRRXpfOE9FRzBYZVg4cXBMMnc4SERKcGhJRlRBRlY2ZUlJc1I4SGRaT1pVdVFZYVdxYTRqRnY3a0tRbHVWQXNwNjNBY0l0WU1vVUxhbUxOZDR1V0dBSURKRENDV25hY3EyUGFoMlRNQ1N4OXFBNXdYelVsZDhQdmVsY0Y1VWRrQXNKbkxKUFkxOVJhdG5adUFKMEh6bFdobXZPcnVRdjhR0gHzAUFVX3lxTE41Nk1LUURQN05xRXZvek5sN2g2YUp2ZVRfazhlV0FBbUpoMDFJNjh3b1RZYzBGTWN4RkRESmg1RlZ5RWJzNC1QSndWYXZYanFzS0IzUHNsa0ROeE9BS1VzR2tyVU9qSXdrd1U5bXAtT180UThTeUJNVnZhaWItT1ZPbFhiQVJwbEJ4WjVKN1pFZDFnXzVvQzA0ZFVpaTlGZlRXUU9ZY3RPSEdOLVgxaVBrMWxwSE1MRm1PVlFaU3lTNlEzV25HLUVEZmhUM1BtNXJnRXBSaDAzOXI0SG55TmtSY3lybElrZDk0MDRGb1Q0SFA0dw?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "SK hynix Announces KRW 100 Trillion Cheongju Investment - Let's Data Science",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbTJGZ1Z6MVZmSlhOOHdFbllqRWtrWGVjX2dNQmtleUxJLWJsVW1OMkxNR1hFN1NhMjJoY1FzRXhIbVQ3VlAwN3pLSVJKYzREcFBBTVhaTjdQTENkdjRSM2l6TXB5V0NhLUQzNjZCRnc5VGlRR1p4YUFGX1UxbGJkZW5GdXlScjRvOVhKa3V0WWt0Yms0ay05TlBPbGl2UQ?oc=5",
+        "press": "Let's Data Science"
+      },
+      {
+        "title": "Breaking: Samsung Electronics Posts Record 89.4 Trillion Won Profit - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV0lUcl9ZM3hveGROR0ozcWNrRTktM3AzNFpTcVRCTG5qM29OXzlidWUwVUtQU3pHZnVQQWZCUi1xSlEwRHp0ZURKT3Y1NEdOajFZV2xaNHJSNkNmOXRKQ2tCNEpiOTZqQlNHTFg0T0RTMUVLWEFYeDJkLTk1aGd6LXdaLU45Mmti?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [
+      {
+        "title": "[디깅노트] 피할 수 없는 국민연금의 매도",
+        "url": "https://n.news.naver.com/mnews/article/293/0000087297?sid=110",
+        "press": "www.bloter.net"
+      },
+      {
+        "title": "[최석원 칼럼] 하반기는 상반기와 다른 자산배분이 필요하다",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141106",
+        "press": "www.opinionnews.co.kr"
+      },
+      {
+        "title": "한국이 신흥국 ETF 수익률 갈랐다⋯블랙록 웃고ㆍ뱅가드 울고",
+        "url": "https://www.etoday.co.kr/news/view/2600881",
+        "press": "www.etoday.co.kr"
+      },
+      {
+        "title": "'머크 파트너십과 혁신 플랫폼 장착' 인제니아, 기회와 위험 요소는?",
+        "url": "https://n.news.naver.com/mnews/article/018/0006324281?sid=101",
+        "press": "www.edaily.co.kr"
+      },
+      {
+        "title": "차이커뮤니케이션, AI 마케팅 기반 콘텐츠 커머스 합작법인 설립 나서",
+        "url": "https://n.news.naver.com/mnews/article/030/0003445034?sid=101",
+        "press": "www.etnews.com"
+      },
+      {
+        "title": "차이커뮤니케이션, 콘텐츠 제작·IP·AI 마케팅 결합한 커머스 신사업 추...",
+        "url": "https://n.news.naver.com/mnews/article/081/0003658927?sid=101",
+        "press": "www.seoul.co.kr"
+      },
+      {
+        "title": "삼성전자 2026년 2분기 영업이익 89조 4천억···3분기 연속 최대 실적",
+        "url": "https://n.news.naver.com/mnews/article/657/0000053113?sid=101",
+        "press": "dgmbc.com"
+      },
+      {
+        "title": "'89조 영업익' 삼성전자, 차익실현에 프리마켓 2% 하락",
+        "url": "https://n.news.naver.com/mnews/article/014/0005544563?sid=101",
+        "press": "www.fnnews.com"
+      },
+      {
+        "title": "노타, AWS 자체 AI칩 ‘최적화’ 지원…경량화 서비스 전격 출시",
+        "url": "https://n.news.naver.com/mnews/article/018/0006324282?sid=105",
+        "press": "www.edaily.co.kr"
+      },
+      {
+        "title": "'89조 영업익' 삼성전자, 차익실현에 프리마켓 2% 하락",
+        "url": "https://n.news.naver.com/mnews/article/014/0005544563?sid=101",
+        "press": "www.fnnews.com"
+      },
+      {
+        "title": "[더벨][i-point] 다나와, 소비자용 SSD 시장 회복세",
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607070801271440104910",
+        "press": "www.thebell.co.kr"
+      },
+      {
+        "title": "AI 반도체 반등에 3대 지수 상승... 다우 53,000 첫 돌파",
+        "url": "https://www.m-i.kr/news/articleView.html?idxno=1388784",
+        "press": "www.m-i.kr"
+      }
+    ],
+    "telegram": []
+  }
+}
