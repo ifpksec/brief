@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T11:22:45.820283+00:00",
+    "generated_at": "2026-07-06T11:38:55.426709+00:00",
     "run_date": "20260706"
   },
   "market_mood": {
@@ -11,8 +11,8 @@
   "key_indicators": [
     {
       "name": "달러인덱스(DXY)",
-      "value": 101.08,
-      "change": 0.22,
+      "value": 101.07,
+      "change": 0.21,
       "insight": "원화 강세 유도 — 외인 수급 긍정적",
       "tag": "Bearish"
     },
@@ -25,8 +25,8 @@
     },
     {
       "name": "VIX 변동성지수",
-      "value": 16.35,
-      "change": 1.24,
+      "value": 16.34,
+      "change": 1.18,
       "insight": "변동성 급등 — 위험 회피 경보",
       "tag": "Bearish"
     },
@@ -53,8 +53,8 @@
     },
     {
       "name": "USD/KRW",
-      "value": 1530.74,
-      "change": -0.74,
+      "value": 1530.82,
+      "change": -0.73,
       "insight": "원달러 환율 — 약세 시 외인 자금 유입",
       "tag": "Bullish"
     },
@@ -76,131 +76,146 @@
   },
   "kr_briefing": [
     {
-      "point": "고객예탁금 소폭 감소 및 외국인 수급 이탈 우려 지속",
+      "point": "고객예탁금 1.6조원 급감 및 프로그램 대거 매도",
       "tag": "Bearish"
     },
     {
-      "point": "KOSPI 프로그램 매도세 심화, 수급 부담 가중",
+      "point": "원/달러 환율 1,530원대 고공행진 지속 부담",
       "tag": "Bearish"
     },
     {
-      "point": "삼성전자·SK하이닉스 등 반도체 주도주 향방에 시장 이목 집중",
+      "point": "삼성전자·SK하이닉스 주요 이벤트 앞둔 변곡점",
       "tag": "Neutral"
     },
     {
-      "point": "외국인의 대규모 매도세 이후 하반기 반등 가능성 타진",
-      "tag": "Neutral"
+      "point": "외국인 투자자의 국내 주식 추가 매도 가능성 대두",
+      "tag": "Bearish"
     },
     {
-      "point": "공매도 제한 및 정부 정책 관련 시장 변동성 상존",
+      "point": "EWY(한국 ETF) 2.89% 급락하며 투자심리 위축",
+      "tag": "Bearish"
+    },
+    {
+      "point": "국내 IPO 시장 부진 및 코스닥 제도 개편 가시화",
       "tag": "Neutral"
     }
   ],
   "us_briefing": [
     {
-      "point": "달러 인덱스 및 미 10년물 금리 동반 상승, 긴축 우려",
+      "point": "나스닥 1.6% 하락, 기술주 중심 변동성 확대",
       "tag": "Bearish"
     },
     {
-      "point": "나스닥 급락 및 변동성 지수(VIX) 상승으로 투자 심리 위축",
+      "point": "미 10년물 금리 4.49% 상승 및 달러 인덱스 강세",
       "tag": "Bearish"
     },
     {
-      "point": "옵션 시장 내 풋옵션 우세, 딜러 숏감마 변동성 확대 위험",
+      "point": "공포탐욕지수 24점 기록, 극단적 공포 단계 진입",
       "tag": "Bearish"
     },
     {
-      "point": "공포탐욕지수 24(극단적 공포), 패닉 셀링 구간 진입",
+      "point": "다우지수는 1.14% 상승하며 가치주 순환매 양상",
       "tag": "Bullish"
     },
     {
-      "point": "미국 HY/IG 스프레드 안정적 유지로 신용 리스크 제한적",
+      "point": "SPY 딜러 롱감마 상태로 시장 하방 경직성 확보",
+      "tag": "Bullish"
+    },
+    {
+      "point": "하이일드 스프레드 275bp 안정세 유지",
       "tag": "Bullish"
     }
   ],
   "kr_news": [
     {
       "category": "반도체·AI",
-      "title": "'대체 언제 돌아오나'…'삼전닉스'만 136조 내다판 외국인",
-      "url": "https://n.news.naver.com/mnews/article/215/0001257793?sid=101",
-      "press": "한국경제TV",
-      "source": "naver"
-    },
-    {
-      "category": "K-증시·수급",
-      "title": "Feeling left out of Korea’s chip stock boom?",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZk9uNkhhVUk4SGE2SzFWalk0WVBKYmxYVnJBMFFBbjBnZWJvbXk5V2NydmNCOF9RdVRCRVhseTVxdE51UnljV0Y4RkZ3dEItMEJvSEt2dUIzSVhZcWRwUms3WUN4c0NVRnk0MzIwM3Y5R2dQR0dGWVVKdHFNWUtBckZ4LXRhQ09ueWQ2Rzg5WWxHc285UXBZdHZnUnhuaVhfc1hzTmx1MGZ1eHc?oc=5",
-      "press": "Korea JoongAng Daily",
+      "title": "삼성전자·SK하이닉스, 주요 이벤트로 시장 변곡점 맞이",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUVBKV0pNbnR1WVlSQ2lub3d1bWVJdnpOTDdOaTRnbElTZGowclo0U2RJbktMTDV1d2htNHlpN0h0Q2g5SmdIRDVaUlE3TzMyQlk3V2pqSkdsU2NFUXpXZzI2SlhGQmZzZ1UhY3A3TFdMR29jZHBWQnFvRkk1WUJsdmZOaWYtMHY0OGpHcHV3?oc=5",
+      "press": "조선일보",
       "source": "domestic"
     },
     {
       "category": "K-증시·수급",
-      "title": "Why Korea's IPO boom has turned into bust",
+      "title": "외국인 투자자, 한국 주식 추가 매도 가능성 우려",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcVJyN2Z3b19rSThfQ0I0TlpDWEJqdnlpZlo4Z3g5c01oVzZnYVVHQ3lEUlR1Z0x2anFxN2htbS00NDVTYWItTU0waXBkTzFHTy1qQTI0dWZVT0pwSDkxOC1QMlpaZDBDdS1LcG43UGl1ek9VenJnc3FmSDRXZkxVdjF6REFfNGJXZEdkX2ljUXFlVGpZOFlaVjdjQUNURVpR0gGmAUFVX3lxTE9YT0pBekNRbWRQN1ZBMzkyVlRlWHRTNjQzU0JGWUxvb1BvN2hsd0lBaEt0cTd3V0RfRC1SU1YwZFVpcFJ2WUNmMGZxWmw4QWpuRW5sZXhnN05yUENOR3g0LVN0Q0FrQ2V2X2hxYTRvalVTMWhNR0J6cmt6ZVQ1M0p0X1dqUGlDazlrVXQwWlNPVUJLcDhkVFV2WkdnNDBIWEwxNXBsbHc?oc=5",
+      "press": "The Korea Times",
+      "source": "domestic"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "24시간 외환시장 첫날, 환율 1,530원대 고점 형성",
+      "url": "https://www.betanews.net/article/view/beta202607060074",
+      "press": "www.betanews.net",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "국내 IPO 붐이 불황으로 변한 이유 분석",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmZ2UURBOF9pVlREX3JlMXlsOVd4Um1nN2NzYWM2OUZYZ0xkVkhxS2RUWGdkVnU1eFhFUkM0SlktdS1LVXYxNmxiV2JPVENNTVpLdlVJOUVTR0JRelY3YWxtUGVDUDZIY3BRMnJLS256OHFVa1J1anlyUmc0YTNyaTJhbUFDdXM0a3hYejZ5b0lwdS1UNFlGd9IBngFBVV95cUxQNFY5YmpCMkR6MDhEblF4d3RJbWpGV3lrdjNpWF9mTjgtNjBTQXd5NGs5bzhkcWFTSWoxSWVEYWVMOTliS0xZNjU1T1E4REdyNXNLYWkydTVOVDVqanJqNXViM2VLc3VwNzVGRUdnRWZuc256TVY4MkdYSHo1NjF4VGNMQmZRZldWZDRyWWZNdHBINFBwWGYtWjZNNFJ0dw?oc=5",
       "press": "The Korea Times",
       "source": "domestic"
     },
     {
       "category": "반도체·AI",
-      "title": "Samsung Electronics, SK Hynix Face Market Turning Point",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUVBKV0pNbnR1WVlSQ2lub3d1bWVJdnpOTDdOaTRnbElTZGowclo0U2RJbktMTDV1d2htNHlpN0h0Q2g5SmdIRDVaUlE3TzMyQlk3V2pqSkdsU2NFUXpXZzI2SlhGQmZzZ1VoY3A3TFdMR29jZHBWQnFvRkk1WUJsdmZOaWYtMHY0OGpHcHV3?oc=5",
+      "title": "삼성전자, 충당금 제외 영업이익 100조원 상회 기대",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZEpfTnpWYnhNYUowTk9QWU1qZUR5SmZ3cmpwb3JPQ0NqamZPQktJT1IzWWtWSkpMR284QWkwZ0tRZkozR0VHVUJpUUdSdEQzTTVnWkpnUGVmdEJyVnRxMDRwMzhfTEIxOFplZGZxNkdfdlE2OURSSTlGOE1vMW5HTkR6dWxBZ0M1?oc=5",
       "press": "조선일보",
       "source": "domestic"
     },
     {
-      "category": "시장·기타",
-      "title": "광진실업, 공매도 과열종목 지정 연장",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16125483",
-      "press": "톱스타뉴스",
+      "category": "K-증시·수급",
+      "title": "형지엘리트, 5대 1 주식병합으로 동전주 탈피 시도",
+      "url": "https://www.sentv.co.kr/article/view/sentv202607060199",
+      "press": "www.sentv.co.kr",
       "source": "naver"
     },
     {
       "category": "K-증시·수급",
-      "title": "Foreign investors may have more Korean stocks to sell",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcVJyN2Z3b19rSThfQ0I0TlpDWEJqdnlpZlo4Z3g5c01oVzZnYVVHQ3lEUlR1Z0x2anFxN2htbS00NDVTYWItTU0waXBkTzFHTy1qQTI0dWZVT0pwSDkxOC1QMlpaZDBDdS1LcG43UGl1ek9VenJnc3FmSDRXZkxVdjF6REFfNGJXZEdkX2ljUXFlVGpZOFlaVjdjQUNURVpR0gGmAUFVX3lxTE9YT0pBekNRbWRQN1ZBMzkyVlRlWHRTNjQzU0JGWUxvb1BvN2hsd0lBaEt0cTd3V0RfRC1SU1YwZFVpcFJ2WUNmMGZxWmw4QWpuRW5sZXhnN05yUENOR3g0LVN0Q0FrQ2V2X2hxYTRvalVTMWhNR0J6cmt6ZVQ1M0p0X1dqUGlDazlrVXQwWlNPVUJLcDhkVFV2WkdnNDBIWEwxNXBsbHc?oc=5",
-      "press": "The Korea Times",
+      "title": "코스닥 시장 위원장에 김우찬 선임, 개혁 속도",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQem90a3pNVFJ0TG0xMkdodllWRktzSGRZOS1iRlNfNVZ5TXZVZ1NrRGhLQ3laTWotbVhqRWtGaFNKNHZTTFpqTm9DWDNLUkQ5Vm1MbXQ4Q090cnBUNjhwUmtIakFTVnJIc2JvV3lzOTh5Zno0bDFCWktwOXBZX3FOOVl6LVFhSmEwRVBqRmxSWm9EdFRQ0gGUAUFVX3lxTFB6b3Rrek1UUnRMbTEyR2h2WVZGS3NIZFk5LWJGU181VnlNdlVnU2tEaEtDeVpNai1tWGpFa0ZoU0o0dlNMWmpOb0NYM0tSRDlWbUxtdDhDT3RycFQ2OHBSa0hqQVNWckhzYm9XeXM5OHlmejRsMUJaS3A5cFlfcU45WXotUWFKYTBFUGpGbFJab0R0VFA?oc=5",
+      "press": "Chosunbiz",
       "source": "domestic"
     }
   ],
   "us_news": [
     {
-      "category": "반도체·AI",
-      "title": "메모리 반도체 기업 SK하이닉스, 미국 상장 절차 착수",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZk14M2h1MmhFUTNqM19EdEFmdGl5Q0FlMVQwdVBDLVJmaGtMcmVBZ2E3Z3Z3bjZ6cldCUXJPY1ZjdkhyVGN5Ulh0ekhSOVhEVTVGNmxoV25BTmhnb1RwY0dDdzAxSEM1Z0x2cEFMN1NCazkxYWhCcE5iUlNmSTA5REt0ZnpEb2l3QlVSZzEyRHE2dm1JMFlTUDN6X0IzZzdFT28xMklXRQ?oc=5",
-      "press": "Bloomberg",
-      "source": "international"
-    },
-    {
-      "category": "매크로·금리",
-      "title": "S&P 500 및 나스닥 선물, 월가 강세 흐름 이어가며 상승",
+      "category": "시장·기타",
+      "title": "S&P 500 및 나스닥 선물, 강한 상승세 후 랠리 연장",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Pc1Q1a0FiQXNHdTY4YlhDQ0wtT1NBX0dxMlZiMERKVTZxZkFrZVNyZnVEc01NWkFITm5XS0dfYnc2amtRX1R5LWZIbkNuM0JnRXlyYjR3WkxtOTlKWWdzS0JpaExTMmY1amNPcGNlLUdaUXZIallB0gF8QVVfeXFMTzkzYlJJQVo2Y1ZLdnFJR0NOc2ZzZ1M3eFdRZFM5LV8xbHlWTzJ3Z2ZYcHJGc1ZaMXhGSXlEVlZZclBBYzNoU3NFZWZnSXZrRF80SHF2eXZSV19GQ1d0YlRCVnNXN2luR1dJYjlvaXM3R3hNem1ENTNDNklPSg?oc=5",
       "press": "CNBC",
       "source": "international"
     },
     {
-      "category": "시장·기타",
-      "title": "트럼프, 월가 개장 종 울리며 주가 상승과 본인 치적 연결",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2xMZFhjRF9FUVZiTGFtODgxb0RnalZFcWlHQUR0UzVVcjdzb3p5M0cwUnNtaElkai1QbHZSemFhMWRKMkhwRHZXUWVmczlRbDhJYUZaLVlDbmNPMGxhaV9TakNuYWJ0ZXVGS1p2cFQ4MmtUZnIwdDdGa3N2TnZvLUxaM1hCbE5ucFhpeDNuRFBMZnVCelhZLWdjQV8wbWRjU1ZQSmYwN0N6OGxDdWJIUTJSMkoxMHNBVUJvTUdtUQ?oc=5",
-      "press": "WRAL",
+      "category": "반도체·AI",
+      "title": "SK하이닉스, 미국 증시 상장 추진 본격화",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZk14M2h1MmhFUTNqM19EdEFmdGl5Q0FlMVQwdVBDLVJmaGtMcmVBZ2E3Z3Z3bjZ6cldCUXJPY1ZjdkhyVGN5Ulh0ekhSOVhEVTVGNmxoV25BTmhnb1RwY0dDdzAxSEM1Z0x2cEFMN1NCazkxYWhCcE5iUlNmSTA5REt0ZnpEb2l3QlVSZzEyRHE2dm1JMFlTUDN6X0IzZzdFT28xMklXRQ?oc=5",
+      "press": "Bloomberg.com",
       "source": "international"
     },
     {
       "category": "반도체·AI",
-      "title": "1년간 두 배 급등한 반도체주, 번스타인은 추가 상승 전망",
+      "title": "1년 새 두 배 뛴 반도체주, 추가 상승 가능성 시사",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSjF6dkxVRFZnNVBpRFYwTU1RcUdmdXNGN0E4TjJHQ3F5Y2JfNmJsLWlWaDF1UUpZejd4Y0t4YzNKZmppeGR1REFKVXZfbF8zeXlPZGVRaHB6dkdWanBqOGZQMUlwSjNQNHdkbmFoNXNrbHVqOUVUU2ZxSE45SjF2RGx1UzNZRFRPY241Q28tNW1xQWdOelBhVjRjXzY4Z0VfR21GVWRzZVA?oc=5",
       "press": "CNBC",
       "source": "international"
     },
     {
+      "category": "매크로·금리",
+      "title": "트럼프, 금융 공개 이후 주식 거래소 관계자 백악관 초청",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVmZMaHFRaFhqZ01vNThwemlFbnlFYzZLVGtJNWVkMnd5ZnBLMUpWRzg0VEFzTXhRS28wOWl6R01GeFhzeHlfR0x5YzluYVlmYjA2RDNoa0hPLUFJbkRBeU83WlRZbERqV0xmLTdpQ0R5T3Y1SEVtMHZTQjQwaXozS0lIYjM5QzVab3c4SHFxU2VRMlpVYzF2Snd2UQ?oc=5",
+      "press": "MS NOW",
+      "source": "international"
+    },
+    {
       "category": "반도체·AI",
       "title": "6월 투자자들에게 수익을 안겨준 반도체 ETF 분석",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeEZMZWRNY0o0YTdqMmNmSjRmY3dEZFFaX0xYOU5uZ0syMW4yTmNqNFl6TkJXYllNUW1pbk5zem43LWVXeEJqU0RjcXEwSUJFeXdjLS1MZXJxLTAzYVlfeHVpekJzRnRHem9xUUxRdkUtZ19HYVRhNzdYcHpyVENFay1menhXY2dRVUNJZDhXcUF1LVdqVkduT0JTd3F3eHFpYnpj?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeEZMZWRNY0o0YTdqMmNmSjRmY3dEZFFaX0xYOU5uZ0syMW4yTmNqNFl6TkJXYllMUW1pbk5zem43LWVXeEJqU0RjcXEwSUJFeXdjLS1MZXJxLTAzYVlfeHVpekJzRnRHem9xUUxRdkUtZ19HYVRhNzdYcHpyVENFay1menhXY2dRVUNJZDhXcUF1LVdqVkduT0JTd3F3eHFpYnpj?oc=5",
       "press": "Yahoo Finance",
       "source": "international"
     },
     {
-      "category": "매크로·금리",
-      "title": "트럼프의 주식 종목 추천, 합법이지만 좋은 조언은 아냐",
+      "category": "시장·기타",
+      "title": "트럼프의 종목 추천, 법적으론 문제없으나 투자 조언으론 의문",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSi16c0dKbGg1RUJhZnQwZl94VDdrUWRGOGRHUXZ6NjhnTFJHdlpUZk1rR2dfRHZHNmEweTFoTkhsSkxmLWkyanZWVy00anU4WHEzTF9BQzdvQ191dktwTEx6bTVyYnpMbkpJa1pjV3BPY3E3QlUxemJLbGxFMVFwcTNiMVJMOVg1MW9tb1F1YWRhb0dVMGd4V0VpSDFBYzAzRjJz?oc=5",
       "press": "The Washington Post",
       "source": "international"

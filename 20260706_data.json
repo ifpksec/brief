@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-07-06T11:22:45.818772+00:00",
+    "generated_at": "2026-07-06T11:38:55.424747+00:00",
     "run_date": "20260706"
   },
   "market": {
@@ -9,8 +9,8 @@
     "forex_rates": [],
     "funds": [
       {
-        "title": "고객예탁금: 1,199,264억원 (-1,572억원)",
-        "description": "신용융자잔고: 377,187억원"
+        "title": "고객예탁금: 1,182,594억원 (-16,671억원)",
+        "description": "신용융자잔고: 377,922억원"
       }
     ],
     "program": [
@@ -89,16 +89,16 @@
   "macro": {
     "global": [
       {
-        "title": "달러인덱스(DXY): 101.08 (+0.22%)",
-        "description": "전일종가 100.86 / 변동 +0.2220"
+        "title": "달러인덱스(DXY): 101.07 (+0.21%)",
+        "description": "전일종가 100.86 / 변동 +0.2150"
       },
       {
         "title": "미국 10년물 금리: 4.49 (+0.22%)",
         "description": "전일종가 4.47 / 변동 +0.0100"
       },
       {
-        "title": "VIX 변동성지수: 16.35 (+1.24%)",
-        "description": "전일종가 16.15 / 변동 +0.2000"
+        "title": "VIX 변동성지수: 16.34 (+1.18%)",
+        "description": "전일종가 16.15 / 변동 +0.1900"
       },
       {
         "title": "S&P 500: 7483.24 (+0.00%)",
@@ -113,12 +113,12 @@
         "description": "전일종가 52305.24 / 변동 +594.8320"
       },
       {
-        "title": "USD/KRW: 1530.74 (-0.74%)",
-        "description": "전일종가 1542.13 / 변동 -11.3900"
+        "title": "USD/KRW: 1530.82 (-0.73%)",
+        "description": "전일종가 1542.13 / 변동 -11.3101"
       },
       {
         "title": "USD/JPY: 162.30 (+0.53%)",
-        "description": "전일종가 161.45 / 변동 +0.8490"
+        "description": "전일종가 161.45 / 변동 +0.8510"
       },
       {
         "title": "코스피: 8051.33 (-0.46%)",
@@ -145,8 +145,8 @@
         "description": "콜OI 226,806 / 풋OI 299,576 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
       },
       {
-        "title": "QQQ PCR 3.79 | GEX +nanB$ (만기:2026-07-06)",
-        "description": "콜OI 14,897 / 풋OI 56,397 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+        "title": "QQQ PCR 0.70 | GEX +nanB$ (만기:2026-07-06)",
+        "description": "콜OI 147,538 / 풋OI 102,662 → 콜 우세(상방기대) | 딜러 숏감마(변동성확대)"
       }
     ],
     "inst_flows": [
@@ -233,9 +233,9 @@
         "press": "CNBC"
       },
       {
-        "title": "Trump rings Wall Street's opening bells as he ties his presidency to stock market gains - WRAL",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2xMZFhjRF9FUVZiTGFtODgxb0RnalZFcWlHQUR0UzVVcjdzb3p5M0cwUnNtaElkai1QbHZSemFhMWRKMkhwRHZXUWVmczlRbDhJYUZaLVlDbmNPMGxhaV9TakNuYWJ0ZXVGS1p2cFQ4MmtUZnIwdDdGa3N2TnZvLUxaM1hCbE5ucFhpeDNuRFBMZnVCelhZLWdjQV8wbWRjU1ZQSmYwN0N6OGxDdWJIUTJSMkoxMHNBVUJvTUdtUQ?oc=5",
-        "press": "WRAL"
+        "title": "‘Very fitting:’ Trump brings stock exchanges to White House after financial disclosures - MS NOW",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVmZMaHFRaFhqZ01vNThwemlFbnlFYzZLVGtJNWVkMnd5ZnBLMUpWRzg0VEFzTXhRS28wOWl6R01GeFhzeHlfR0x5YzluYVlmYjA2RDNoa0hPLUFJbkRBeU83WlRZbERqV0xmLTdpQ0R5T3Y1SEVtMHZTQjQwaXozS0lIYjM5QzVab3c4SHFxU2VRMlpVYzF2Snd2UQ?oc=5",
+        "press": "MS NOW"
       },
       {
         "title": "Opinion | Trump’s stock endorsements are legal, but that doesn’t make them good advice - The Washington Post",
@@ -322,64 +322,64 @@
     ],
     "naver": [
       {
-        "title": "'대체 언제 돌아오나'…'삼전닉스'만 136조 내다판 외국인, 하반기 '폭풍...",
-        "url": "https://n.news.naver.com/mnews/article/215/0001257793?sid=101",
-        "press": "www.wowtv.co.kr"
+        "title": "‘24시간 외환시장’ 첫날...원·달러 환율, 저가 매수·달러 강세에 15...",
+        "url": "https://www.betanews.net/article/view/beta202607060074",
+        "press": "www.betanews.net"
       },
       {
-        "title": "주식투자 권유하는 게 정부가 할 일인가[인권으로 읽는 세상]",
-        "url": "https://n.news.naver.com/mnews/article/002/0002447440?sid=102",
-        "press": "www.pressian.com"
+        "title": "형지엘리트, 5대 1 주식병합…동전주 퇴출 대응 나서나",
+        "url": "https://www.sentv.co.kr/article/view/sentv202607060199",
+        "press": "www.sentv.co.kr"
       },
       {
-        "title": "[기자칼럼]경제정책에도 용기가 필요하다",
-        "url": "https://n.news.naver.com/mnews/article/032/0003456418?sid=110",
-        "press": "www.khan.co.kr"
+        "title": "김종훈, 진보당 대표 출마…\"집권 준비 정당 만들겠다\"",
+        "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1065017",
+        "press": "www.iusm.co.kr"
       },
       {
-        "title": "광진실업, 공매도 과열종목 지정 연장→공매도 거래 제한",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16125483",
-        "press": "www.topstarnews.net"
+        "title": "‘24시간 외환시장’ 첫날...원·달러 환율, 저가 매수·달러 강세에 15...",
+        "url": "https://www.betanews.net/article/view/beta202607060074",
+        "press": "www.betanews.net"
       },
       {
-        "title": "[특징주] 푸드나무, 200억 자금 조달…'뉴케이드림1호' 제3자 배정",
-        "url": "https://www.newstnt.com/news/articleView.html?idxno=709192",
-        "press": "www.newstnt.com"
+        "title": "형지엘리트, 5대 1 주식병합…동전주 퇴출 대응 나서나",
+        "url": "https://www.sentv.co.kr/article/view/sentv202607060199",
+        "press": "www.sentv.co.kr"
       },
       {
-        "title": "주식투자 권유하는 게 정부가 할 일인가[인권으로 읽는 세상]",
-        "url": "https://n.news.naver.com/mnews/article/002/0002447440?sid=102",
-        "press": "www.pressian.com"
+        "title": "엘디티, 반도체 팹리스·IoT 플랫폼 '투트랙' 성장전략 공개…\"기업가치...",
+        "url": "https://news.mtn.co.kr/news-detail/2026070620153293165",
+        "press": "news.mtn.co.kr"
       },
       {
-        "title": "'대체 언제 돌아오나'…'삼전닉스'만 136조 내다판 외국인, 하반기 '폭풍...",
-        "url": "https://n.news.naver.com/mnews/article/215/0001257793?sid=101",
-        "press": "www.wowtv.co.kr"
+        "title": "이재명 대통령 \"전력·용수 문제 선제 해결…지방정부 협조 당부\"",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3627956",
+        "press": "www.gukjenews.com"
       },
       {
-        "title": "\"'서비스 품질 평가' 석권\"…삼성전자서비스, NCSI 전자제품 AS 1위",
-        "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=265271",
-        "press": "www.financialpost.co.kr"
+        "title": "[창간 35주년] '반도체 블루칩' 경기도가 뜬다",
+        "url": "https://www.joongboo.com/news/articleView.html?idxno=363730698",
+        "press": "www.joongboo.com"
       },
       {
-        "title": "광주 군공항에 호남 반도체 클러스터…\"국가균형발전의 전환점\"",
-        "url": "https://news.dealsitetv.com/articles/172903",
-        "press": "news.dealsitetv.com"
+        "title": "‘호남 반도체 클러스터’ 광주 군공항 부지 낙점",
+        "url": "http://www.kjdaily.com/article.php?aid=1783336983681805002",
+        "press": "www.kjdaily.com"
       },
       {
-        "title": "SK하이닉스, ADR 발행 총액 45조→43조원 정정",
-        "url": "http://www.dynews.co.kr/news/articleView.html?idxno=856994",
-        "press": "www.dynews.co.kr"
+        "title": "이재명 대통령 \"전력·용수 문제 선제 해결…지방정부 협조 당부\"",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3627956",
+        "press": "www.gukjenews.com"
       },
       {
-        "title": "'대체 언제 돌아오나'…'삼전닉스'만 136조 내다판 외국인, 하반기 '폭풍...",
-        "url": "https://n.news.naver.com/mnews/article/215/0001257793?sid=101",
-        "press": "www.wowtv.co.kr"
+        "title": "[창간 35주년] '반도체 블루칩' 경기도가 뜬다",
+        "url": "https://www.joongboo.com/news/articleView.html?idxno=363730698",
+        "press": "www.joongboo.com"
       },
       {
-        "title": "SK하이닉스, 44조 규모 ADR 나스닥 상장…AI 반도체 판도 뒤흔드나",
-        "url": "https://www.kgnews.co.kr/news/article.html?no=902862",
-        "press": "www.kgnews.co.kr"
+        "title": "투자 발표 1주일만에 부지까지 ‘F1급 속도전’",
+        "url": "http://www.kjdaily.com/article.php?aid=1783336987681808002",
+        "press": "www.kjdaily.com"
       }
     ],
     "telegram": []
