@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "generated_at": "2026-07-08T23:37:24.130911+00:00",
+    "run_date": "20260709"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 20,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 101.07,
+      "change": -0.07,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.57,
+      "change": 0.88,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 16.9,
+      "change": 4.77,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7482.71,
+      "change": -0.28,
+      "insight": "전일종가 7503.85 / 변동 -21.1401",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29252.56,
+      "change": 0.27,
+      "insight": "전일종가 29173.02 / 변동 +79.5430",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 52348.39,
+      "change": -1.09,
+      "insight": "전일종가 52925.15 / 변동 -576.7578",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1504.58,
+      "change": -1.01,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 162.57,
+      "change": 0.13,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "고객예탁금 1,177억 증가 및 프로그램 순매수 유입으로 수급 개선세",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미 반도체주 반등 영향으로 삼성전자·SK하이닉스 프리마켓 강세",
+      "tag": "Bullish"
+    },
+    {
+      "point": "원/달러 환율 1,500원대 하향 안정화로 외국인 이탈 압력 완화",
+      "tag": "Bullish"
+    },
+    {
+      "point": "상장사 IR 역량 강조 등 기업 밸류업 관련 논의 지속",
+      "tag": "Neutral"
+    },
+    {
+      "point": "코오롱티슈진·HLB 등 바이오 종목 임상 결과에 따른 변동성 주의",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "미-이란 긴장 고조에 따른 국제유가 급등이 시장 하방 압력으로 작용",
+      "tag": "Bearish"
+    },
+    {
+      "point": "다우 지수 1%대 하락 및 딜러 숏감마 구간 진입으로 변동성 확대",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 20(Extreme Fear) 기록, 극단적 투자 심리 위축",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미 10년물 국채금리 4.5% 상회하며 금리 경계감 재점화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "지급준비금 및 유동성 지표 확인 필요, 경기 둔화 우려 상존",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "美 반도체주 반등에 삼전·닉스 프리마켓서 28만·210만원선 회복",
+      "url": "https://n.news.naver.com/mnews/article/421/0009049044?sid=101",
+      "press": "news1.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "IR큐더스, 상장사 IR 효과 분석 보고서 발간…IR은 비용 아닌 투자",
+      "url": "https://n.news.naver.com/mnews/article/277/0005787517?sid=101",
+      "press": "view.asiae.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "코오롱티슈진·HLB, 이달 나란히 임상·허가 분수령",
+      "url": "https://n.news.naver.com/mnews/article/648/0000048755?sid=101",
+      "press": "news.bizwatch.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "지엘리서치 \"에프엔씨엔터, 멀티 IP 기반 실적 턴어라운드\"",
+      "url": "https://www.cstimes.com/news/articleView.html?idxno=712781",
+      "press": "cstimes.com",
+      "source": "domestic"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "비트코인, 6만2000달러로 후퇴…중동 긴장·연준 경계에 하락세",
+      "url": "https://www.decenter.kr/article/20065563?ref=naverdc",
+      "press": "decenter.kr",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "삼정KPMG \"지속가능성 공시, 재무보고 수준으로 전환해야\"",
+      "url": "https://www.etoday.co.kr/news/view/2601842",
+      "press": "etoday.co.kr",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "미 증시, 이란 공습 및 금리 인상 가능성에 하락",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdFlSeTNKeUFDTVIwa01qOTRWQWNZV3hjYzZJVDVsakpLWEdhZ2tnRzl5aVdydUpyQmtkai1QME9zWmlua3pjWHl2TExOUjJqcS1PemRvRnRyclNIQks4eWFUQXR1Y3hQSFJkQUItLU1sRG9TZXBvN2xCZzVCb1pFbUNZUUNtSXdDdU0xWg?oc=5",
+      "press": "The Guardian",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "미-이란 긴장 속 유가 급등, 나스닥 낙폭 축소 속 주요 지수 하락",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYldFdjdBb1o3YVVCZ1J4eWdDV1Z0LWM3Nk9ZTnZ6LWRWbkozUVFtRlNZcFM2dnNKYXprWU1XMUpoWTQ1bmNISkFCZkJUa0U5c3RtZEYyengzenQ2QVpGNTNUbTFIbXFFNkt4b1EyOFJNZmduS0ljSlcxdlVpMXhPV1pDZXRCTDFRbmhjRU5xVmc2Y1ZsRW9wSVZYRlIyV3JmTnRVVVJQd0pudWxsWGQyY0lqT1VfTVFsb1ZCMlRZZ0hudw?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "S&P 500, 트럼프의 이란 협상 종료 선언 이후 하락 마감",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcTlvb203c2gzM1N5b1NUS2FVd1NXMl9ONUhXaFN6bmJ2c29WSGtDbFB3cnd4SmRkY1NJX095NEg5TWxVcVh4WG1WRmdYWW92WUVZcTZBNlFnQlo3dHN4N1B2cWxZcG9QZ3FuOFBaRFFDUUxGNXU2MlpDYWFUX2JVTlAxZ0pwQnYzS1ppQ1pkcU8yT2VNNERkbTZ2aUxWdHJSZEFNeVA0QzJjbzcz?oc=5",
+      "press": "Reuters",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "美 이란 추가 공습 이후 주가지수 선물 하락세",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2UlJXXzJYdkQtdUh4dlpudTZWWnNGRTNybUZZc3dvQ2twQ2lqZGVFbmFELTBIeFEyYW9DdE1IUkdpZlRGdkpnYlJNX2thQ1pXc2ZYRHVlMnpPUHNjTWFHSS1kM0Rac2NFdnVMemluc1lnODhKSXlF0gF8QVVfeXFMUHJaN2NNbDVKQTNoZTJEOHZtUlE3c2twbEMxaGNFbEdMdXpLTVh6QnFkZVpWNnBGV1lWUmk5Q1JZZ3NSclllVzF6YWJmZk9fVEFoazFmXzlXaXc3bFVrUDBkRVNtR0w4cEo3T2lUZ29QYUFxbXhrelA5c3FQdA?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "3분기 주식시장 전망: 투자자들, 균형 잡힌 리스크와 기회 직면",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0tMb25qeWJ6bUx0ckNlTEFFeU5LU0JWT0R0aWdUUlh4VF9sUnZEWWJLUFBBai05U21fbFRJanRjZTM1NmRlMEVqcHItWDl2Vk1mTEJ1TkduVHgySlFzczRIbHpSdV9QMDR3RnIwOUlvQ3A1azM2U3hicFJyM3R3TmVydEFrNjVjMTJHWGc4MG9fakhYNHdKUXh6N29QM2REb21icUMtam1TNVczZUEtajNpbw?oc=5",
+      "press": "Morningstar",
+      "source": "international"
+    }
+  ]
+}

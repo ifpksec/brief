@@ -1,0 +1,338 @@
+{
+  "meta": {
+    "generated_at": "2026-07-08T23:37:24.129648+00:00",
+    "run_date": "20260709"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [
+      {
+        "title": "고객예탁금: 1,123,260억원 (+1,177억원)",
+        "description": "신용융자잔고: 370,654억원"
+      }
+    ],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 +211,127백만원 (차익 +52,593 / 비차익 +158,534)",
+        "description": "기준일: 20260709"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 동화약품 (+0.00%)",
+        "description": "현재가: 5,020, 거래량: 0"
+      },
+      {
+        "title": "#2 KR모터스 (+0.00%)",
+        "description": "현재가: 267, 거래량: 0"
+      },
+      {
+        "title": "#3 경방 (+0.00%)",
+        "description": "현재가: 8,180, 거래량: 0"
+      },
+      {
+        "title": "#4 삼양홀딩스 (+0.00%)",
+        "description": "현재가: 57,000, 거래량: 0"
+      },
+      {
+        "title": "#5 하이트진로 (+0.00%)",
+        "description": "현재가: 15,150, 거래량: 0"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 0억원",
+        "description": "현재가: 92, 거래량: 323,768주"
+      },
+      {
+        "title": "#2 KODEX 코스닥150레버리지 거래대금 3억원",
+        "description": "현재가: 7,200, 거래량: 51,257주"
+      },
+      {
+        "title": "#3 금호전기 거래대금 0억원",
+        "description": "현재가: 1,302, 거래량: 18,805주"
+      },
+      {
+        "title": "#4 한성크린텍 거래대금 0억원",
+        "description": "현재가: 1,911, 거래량: 16,153주"
+      },
+      {
+        "title": "#5 KODEX 코스닥150선물인버스 거래대금 0억원",
+        "description": "현재가: 2,700, 거래량: 16,104주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 +66,898,247주 / 기관 +1,254,775,001주 / 개인 -1,292,980,005주",
+        "description": "직전 영업일(20260708) 순매수 수량"
+      },
+      {
+        "title": "KODEX 코스닥150레버리지 외국인 -139,707주 / 기관 -23,143,886주 / 개인 +22,775,915주",
+        "description": "직전 영업일(20260708) 순매수 수량"
+      },
+      {
+        "title": "금호전기 외국인 -60,069주 / 기관 -8,000주 / 개인 +63,169주",
+        "description": "직전 영업일(20260708) 순매수 수량"
+      },
+      {
+        "title": "한성크린텍 외국인 -224,133주 / 기관 +0주 / 개인 +224,713주",
+        "description": "직전 영업일(20260708) 순매수 수량"
+      },
+      {
+        "title": "KODEX 코스닥150선물인버스 외국인 -560,094주 / 기관 +1,366,933주 / 개인 -800,649주",
+        "description": "직전 영업일(20260708) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.07 (-0.07%)",
+        "description": "전일종가 101.14 / 변동 -0.0740"
+      },
+      {
+        "title": "미국 10년물 금리: 4.57 (+0.88%)",
+        "description": "전일종가 4.53 / 변동 +0.0400"
+      },
+      {
+        "title": "VIX 변동성지수: 16.90 (+4.77%)",
+        "description": "전일종가 16.13 / 변동 +0.7700"
+      },
+      {
+        "title": "S&P 500: 7482.71 (-0.28%)",
+        "description": "전일종가 7503.85 / 변동 -21.1401"
+      },
+      {
+        "title": "나스닥100: 29252.56 (+0.27%)",
+        "description": "전일종가 29173.02 / 변동 +79.5430"
+      },
+      {
+        "title": "다우존스: 52348.39 (-1.09%)",
+        "description": "전일종가 52925.15 / 변동 -576.7578"
+      },
+      {
+        "title": "USD/KRW: 1504.58 (-1.01%)",
+        "description": "전일종가 1519.86 / 변동 -15.2800"
+      },
+      {
+        "title": "USD/JPY: 162.57 (+0.13%)",
+        "description": "전일종가 162.36 / 변동 +0.2110"
+      },
+      {
+        "title": "코스피: 7656.31 (-4.91%)",
+        "description": "전일종가 8051.33 / 변동 -395.0200"
+      },
+      {
+        "title": "코스닥: 831.23 (-1.87%)",
+        "description": "전일종가 847.07 / 변동 -15.8400"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.294 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.08 | GEX +nanB$ (만기:2026-07-08)",
+        "description": "콜OI 171,175 / 풋OI 184,678 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.48 | GEX +nanB$ (만기:2026-07-08)",
+        "description": "콜OI 123,698 / 풋OI 182,533 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $182.72 (+0.79%)",
+        "description": "거래량 22,653,855주 (평균대비 0.9x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $749.06 (-0.27%)",
+        "description": "거래량 4,484,036주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 64.3% (128/199종목)",
+        "description": "평균 MA 대비 위치: +2.1%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 20/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-06-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.2",
+        "description": "Date: 2026-06-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 333.979",
+        "description": "Date: 2026-05-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 2.1",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.55",
+        "description": "Date: 2026-07-07, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.72조달러",
+        "description": "기준일: 2026-07-01 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.34조달러",
+        "description": "기준일: 2026-07-01 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 8073.59억달러",
+        "description": "기준일: 2026-07-01 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.03억달러",
+        "description": "기준일: 2026-07-08 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 267bp (2.67%)",
+        "description": "기준일: 2026-07-07 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 76bp (0.76%)",
+        "description": "기준일: 2026-07-07 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Nasdaq pares losses, Dow and S&P 500 fall as oil jumps amid US-Iran tensions - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYldFdjdBb1o3YVVCZ1J4eWdDV1Z0LWM3Nk9ZTnZ6LWRWbkozUVFtRlNZcFM2dnNKYXprWU1XMUpoWTQ1bmNISkFCZkJUa0U5c3RtZEYyengzenQ2QVpGNTNUbTFIbXFFNkt4b1EyOFJNZmduS0ljSlcxdlVpMXhPV1pDZXRCTDFRbmhjRU5xVmc2Y1ZsRW9wSVZYRlIyV3JmTnRVVVJQd0pudWxsWGQyY0lqT1VfTVFsb1ZCMlRZZ0hudw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Franklin Resources, Paymentus, and Moody's Shares Are Falling, What You Need To Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeVhJektLVjdCQVV2MWk3Mm1LX0lFMmlTVm9zYTNxME9IUk02QzlZUDZnWTVJbUVLSTdPYXRBYklrLWlEdXk1Q2NiUWM4OGFfVEwybDRySFMwenl1WU11REZJSW9DWU52MmxCVjBDRWJ5ZmdxMzlTcEVqSFMwNUhueGF6MUVTOFNuX1VITlFZY1E3X0lOaG41bG16LWd5VWdvVVRKS0hTWkpsUzg?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "PayPal, Ameriprise Financial, and Ally Financial Shares Are Falling, What You Need To Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcWZUM2F3SVZybFViV3g2cU9sOFZrYXcydHlXM0p3bW5SRXdCQU12eTZzSFBVc3hGSHdQNkVOOTc0NElqZVdQMGUySlFDZzhTbnMyNzhWSUZKM28zdE5TRDFGUmtyWnN4YVFZNTJ5cllwalhNZDdpT01PWTBKdXJsMVB2OENyT24tMUM3ZFVCTkRUMmlBNHlkNXpiV3FSQVNKUDZybDBQYnpjd1U?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "US stock markets fall amid Iran strikes and potential higher interest rates - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdFlSeTNKeUFDTVIwa01qOTRWQWNZV3hjYzZJVDVsakpLWEdhZ2tnRzl5aVdydUpyQmtkai1QME9zWmlua3pjWHl2TExOUjJqcS1PemRvRnRyclNIQks4eWFUQXR1Y3hQSFJkQUItLU1sRG9TZXBvN2xCZzVCb1pFbUNZUUNtSXdDdU0xWg?oc=5",
+        "press": "The Guardian"
+      },
+      {
+        "title": "Stock futures slip after U.S. initiates another round of attacks against Iran: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2UlJXXzJYdkQtdUh4dlpudTZWWnNGRTNybUZZc3dvQ2twQ2lqZGVFbmFELTBIeFEyYW9DdE1IUkdpZlRGdkpnYlJNX2thQ1pXc2ZYRHVlMnpPUHNjTWFHSS1kM0Rac2NFdnVMemluc1lnODhKSXlF0gF8QVVfeXFMUHJaN2NNbDVKQTNoZTJEOHZtUlE3c2twbEMxaGNFbEdMdXpLTVh6QnFkZVpWNnBGV1lWUmk5Q1JZZ3NSclllVzF6YWJmZk9fVEFoazFmXzlXaXc3bFVrUDBkRVNtR0w4cEo3T2lUZ29QYUFxbXhrelA5c3FQdA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "S&P 500 ends down after Trump says Iran deal is 'over' - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcTlvb203c2gzM1N5b1NUS2FVd1NXMl9ONUhXaFN6bmJ2c29WSGtDbFB3cnd4SmRkY1NJX095NEg5TWxVcVh4WG1WRmdYWW92WUVZcTZBNlFnQlo3dHN4N1B2cWxZcG9QZ3FuOFBaRFFDUUxGNXU2MlpDYWFUX2JVTlAxZ0pwQnYzS1ppQ1pkcU8yT2VNNERkbTZ2aUxWdHJSZEFNeVA0QzJjbzcz?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Q3 Stock Market Outlook: Investors Face Balanced Risks, Selective Opportunities - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0tMb25qeWJ6bUx0ckNlTEFFeU5LU0JWT0R0aWdUUlh4VF9sUnZEWWJLUFBBai05U21fbFRJanRjZTM1NmRlMEVqcHItWDl2Vk1mTEJ1TkduVHgySlFzczRIbHpSdV9QMDR3RnIwOUlvQ3A1azM2U3hicFJyM3R3TmVydEFrNjVjMTJHWGc4MG9fakhYNHdKUXh6N29QM2REb21icUMtam1TNVczZUEtajNpbw?oc=5",
+        "press": "Morningstar"
+      },
+      {
+        "title": "Dow slides more than 570 points as oil spikes and Trump threatens another attack on Iran: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1UE9OUENmM01BZUNWbHBFTTg5T0x2eWl5dFFyV29lQUMwd3RRMnpSLUVBcV9LMkhsWC1NSk9xbEFXLVA3RldnNjJsUmhOWHF3dnpqMGZhV201OW1sY1dBa1A4eHBVOTB1aFByY2dYNmZJSHYxWE440gF8QVVfeXFMT1BxVjNOUy1NZWN0R3NqcFZtNnZ1QTBHT2lWV3ZYNk9WZU9CdmRnUUFHMGY0b3hhVDVBcUpZT21ZaEdpcmtWNkVrejlpMDMwLTBZbVNnYUhJU0lKbDBvZlZ1Z3QxQnNjVHN6SGlEQVN0S2RfUjZsZEFvWkdQVw?oc=5",
+        "press": "CNBC"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "What Is Intops Co., Ltd.'s (KOSDAQ:049070) Share Price Doing? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcFRab3RJMXJNREpaUFl4V0c5Ml9pNjBBUDI0RFlYUi1PMl9wSldMZ3doVTJWM1M3UzBUS3V1Tm9RcUs1Y2hSUGtLSVR6ek5hYzJ6VWdsTDJBbll5YjlhZmkyN1doNWl4S2piSldiT3JmaVB3eF9vc1B6SWpOeFFIWkdVSW5UZ2MtSEJ5WWl5LXN5NW9jUGtQek5XWDhSQWgwUkk4R2Z5Yzh5OGpoQ05neXBJTS1CbDUzeENyZkJHblhvdV9z0gHKAUFVX3lxTE5TeWxuWmlIYnk2YVVXczVMUEVjU2FQZVNiZ2NkRjhsTXZkUVY2VW0wY2x4czlMblpDdUk4WUw4Um53MUZDMzJfOFl2QVU0UVV2MHNtUGs5NmxXZ0RiWU9yci1YOUpCaXVUam02VThpLWZFYUhxT3NEZUNNSXdiLVBPMGcxSV9oSE9hT29VdkducmthdGlQMGVaRjR6amJNQVBSS05RZ3RBT0lIMHZRVWJPRnVJc29ubThESHZGZ1RWZ0RyNUVDYTM4Rnc?oc=5",
+        "press": "simplywall.st"
+      }
+    ],
+    "naver": [
+      {
+        "title": "美 반도체주 반등에 삼전·닉스 프리마켓서 28만·210만원선 회복",
+        "url": "https://n.news.naver.com/mnews/article/421/0009049044?sid=101",
+        "press": "www.news1.kr"
+      },
+      {
+        "title": "삼정KPMG \"지속가능성 공시, 재무보고 수준으로 전환해야\"",
+        "url": "https://www.etoday.co.kr/news/view/2601842",
+        "press": "www.etoday.co.kr"
+      },
+      {
+        "title": "IR큐더스, 상장사 IR 효과 분석 보고서 발간…\"IR은 비용 아닌 투자\"",
+        "url": "https://n.news.naver.com/mnews/article/277/0005787517?sid=101",
+        "press": "view.asiae.co.kr"
+      },
+      {
+        "title": "지엘리서치 \"에프엔씨엔터, 멀티 IP 기반 실적 턴어라운드\"",
+        "url": "https://www.cstimes.com/news/articleView.html?idxno=712781",
+        "press": "www.cstimes.com"
+      },
+      {
+        "title": "IR큐더스, 상장사 IR 효과 분석 보고서 발간…\"IR은 비용 아닌 투자\"",
+        "url": "https://n.news.naver.com/mnews/article/277/0005787517?sid=101",
+        "press": "view.asiae.co.kr"
+      },
+      {
+        "title": "코오롱티슈진·HLB, 이달 나란히 임상·허가 분수령",
+        "url": "https://n.news.naver.com/mnews/article/648/0000048755?sid=101",
+        "press": "news.bizwatch.co.kr"
+      },
+      {
+        "title": "美 반도체주 반등에 삼전·닉스 프리마켓서 28만·210만원선 회복",
+        "url": "https://n.news.naver.com/mnews/article/421/0009049044?sid=101",
+        "press": "www.news1.kr"
+      },
+      {
+        "title": "비트코인, 6만2000달러로 후퇴…중동 긴장·연준 경계에 하락세 [디센터...",
+        "url": "https://www.decenter.kr/article/20065563?ref=naverdc",
+        "press": "www.decenter.kr"
+      },
+      {
+        "title": "\"2배로 벌어보려다 3억 손실\"…일제히 상장가 밑으로 [분석+]",
+        "url": "https://n.news.naver.com/mnews/article/015/0005307960?sid=101",
+        "press": "www.hankyung.com"
+      },
+      {
+        "title": "美 반도체주 반등에 삼전·닉스 프리마켓서 28만·210만원선 회복",
+        "url": "https://n.news.naver.com/mnews/article/421/0009049044?sid=101",
+        "press": "www.news1.kr"
+      },
+      {
+        "title": "\"2배로 벌어보려다 3억 손실\"…일제히 상장가 밑으로 [분석+]",
+        "url": "https://n.news.naver.com/mnews/article/015/0005307960?sid=101",
+        "press": "www.hankyung.com"
+      },
+      {
+        "title": "[오늘의 브릿지경제 1면] “지자체 금고 더는 못 내줘” 지방은행 뭉쳤...",
+        "url": "https://www.viva100.com/article/20260708501120",
+        "press": "www.viva100.com"
+      }
+    ],
+    "telegram": []
+  }
+}
