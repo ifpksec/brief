@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "generated_at": "2026-07-09T23:37:22.965045+00:00",
+    "run_date": "20260710"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 22,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 100.94,
+      "change": -0.11,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.54,
+      "change": -0.66,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 15.84,
+      "change": -6.27,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7543.64,
+      "change": 0.81,
+      "insight": "전일종가 7482.71 / 변동 +60.9302",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29727.1,
+      "change": 1.62,
+      "insight": "전일종가 29252.56 / 변동 +474.5371",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 52487.41,
+      "change": 0.27,
+      "insight": "전일종가 52348.39 / 변동 +139.0195",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1505.89,
+      "change": 0.17,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 162.37,
+      "change": -0.11,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "뉴욕증시 반도체주 강세 영향으로 코스피 반등 기대감 확산",
+      "tag": "Bullish"
+    },
+    {
+      "point": "SK하이닉스 나스닥 ADR 상장 이슈가 국내 반도체주에 긍정적 모멘텀 제공",
+      "tag": "Bullish"
+    },
+    {
+      "point": "외국인 투자자의 프로그램 순매수 전환이 시장 수급 개선 신호로 작용",
+      "tag": "Bullish"
+    },
+    {
+      "point": "고객예탁금 소폭 감소했으나 신용융자잔고는 높은 수준 유지",
+      "tag": "Neutral"
+    },
+    {
+      "point": "국내 식료품 물가 부담 지속 등 민생 경제는 여전히 불확실",
+      "tag": "Bearish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "나스닥 1.62% 급등 등 반도체 및 AI 관련주가 시장 상승 견인",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미국 10년물 국채금리 하락과 달러 인덱스 약세로 위험자산 선호 심리 회복",
+      "tag": "Bullish"
+    },
+    {
+      "point": "옵션 시장에서 풋옵션 비중이 높아 하방 압력 및 변동성 우려 상존",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 22(Extreme Fear) 기록, 극단적 공포 구간 진입",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미국 고용지표 및 Fed 정책 금리 유지로 인한 매크로 불확실성 지속",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "SK하이닉스 나스닥 ADR 상장 기대감, 코스피 반등 견인",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSEZXMWpLVXVMdGtCaGZJT190OEZFTHRqcmJaLVZTUmtnVTQ0eUhEOTRfLTlPOHdBS3poZE9LTk50ZDdQZUczNHExdlNMYWhjQTl2SFh1Y05yVHFKRHBsSDkxbkduUS1iQjVVb0ZKcG5Tdy1JOWsxT0RqRGtGTV9zRDF1MFJ4UW83Tl9JcnpR?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "미 상무장관 \"삼성·하이닉스, 미국 내 생산시설 확충 희망\"",
+      "url": "https://n.news.naver.com/mnews/article/057/0001957860?sid=104",
+      "press": "MBN",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "뉴욕증시 일제히 상승…반도체주 앞세워 코스피 반등 기대",
+      "url": "https://www.ekn.kr/web/view.php?key=20260710028261155",
+      "press": "에너지경제",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "토스인사이트, '불확실성의 시대, 은행산업 전망 및 대응방안' 보고서",
+      "url": "https://www.joongangenews.com/news/articleView.html?idxno=531956",
+      "press": "중앙뉴스",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "키움증권, 리테일 편중 이익 구조 개선 및 수익 다각화 과제",
+      "url": "https://news.dealsitetv.com/articles/172978",
+      "press": "딜사이트",
+      "source": "naver"
+    },
+    {
+      "category": "부동산·유동성",
+      "title": "한국 식료품 물가, 3년 연속 OECD 최고 수준",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yTDdnZlVjcFQ0ME5sVkc2WEVPb2laYVU3VDY1dG01bVdSVWVkRXVpb3pxUzlfVkVlWUdsZWlXWDBuYm15cUxYN1lJaGdSZGNnSHpXOUlhVy1hRlBvWDNjYzU0SGcxWVZoTWc?oc=5",
+      "press": "코리아경제매거진",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "나스닥 랠리 주도…반도체 및 AI 종목 급등",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQREwyaFhQbTlOYUlKWF8xRmY3dm9iaGdXdXhLVjVaZ2pvTUZHWWRyamp6TTB6bFFlRzNGazBKcm1kd25sUU9wTHFrRFNMY1FYT2dxS0V1MFFVZXA3S2xiQ1dwbjNBSE9FeElEVkRXMDN4N3kzVElEb0tWSjVnLWREYnh2S0ZtbzJqRmZVWmkzQVhGRmRpSzRody1lX1FodlZCZlBnOGVsZw?oc=5",
+      "press": "Investor's Business Daily",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "SK하이닉스 미국 시장 진출, 무엇을 알아야 하나?",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOU0xQjhDb19GemR4WUFFN09ESFpaOUNkcHkwUXZrajR2UWNycXVlRGJqZkRQZENnSURzcTdXVWxUUExRSUZNc1lJMDJkTk5yN0JTZlJNQUoyNUpRbm9wU0pweVdmQVkzYmZ6RElOc1pBRi0wWVdxZ000bjg4NzZvNFlvOFNKLW9RTFZ6aldHTzRJd1RKMV9OVF9GNnpBT1gtdXJMMzA1dHBZVHVWM2VXOXRfendJQms?oc=5",
+      "press": "MarketWatch",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "어플라이드 머티리얼즈와 KLA 주가 급등 배경",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUTFFZVZxMWhNMGozZWg3d0pIMDRVWjRWTlE5ZkQ5aGVLQnZtWUdVczFRd19PQk0zcUhQNkhxNjBmaUJsbzdGV3VMYllhTFFiekxsQlU5NGRWUFdEZ2E0RkJzdmtkenI5UHdmQjJpeVBETDltTElGZTgzOHhCYjhrc2dSY2JybnNHbWVXb0FpYUlXN0gyYnpWWEFDQmJHdVc3Vlp6eVRiSVM?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "TSMC 2분기 실적 발표 앞두고…왜 7월 16일 전에 매수해야 하나?",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbEt1Qk5vM3VPWUo2TVJ1RC1hXzE1ZDByMjlZUUVmMm5Ld0lSdF9ubnNKbFFrNGxoVkYwUU5RRWwzTDA5YWRJUURBQVNxcDZNWDZ3WTF3SDdpei1jakdtZF9mVWdyNEw5eGF3Mk45OHk3QTBGdElMeGptOGJFa24xbDNQSlRHMER0WXZTT01PblYyd01vUHV2MA?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "트럼프의 '자유 연료' 주유소 홍보, 저렴한 가스 가격의 비밀은?",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIZlBfUjAzeUkydjlsS1ZUUzdYeDMyQXlDSlFRWUVGcDhKMnBMd2pLQlhXQ0pya3dWcWZFUzFZdHRxcFoxWXZtRXBhUkJPYWVmRUpFem85ckdfR05IWThiZHluNHlXTTNWUXdQZFRkSEdua0tKLWc?oc=5",
+      "press": "CNN",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "S&P 500, 지정학적 리스크 속 AI 주목하며 상승 마감",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTHc4eWl5WHNZYmJLVGFBcWFmSThoZ2dKRjJpajlGZktPR1lISGJMelRzNGdLNHhyd0NObkJRSWZ3NkNhUGkzem5LakJTSU9FdTJVWV9ta051d2FjLUxOSDFJZk5RY3VjWi1aR2ZXM2NSbm9yRG9aOEpmOFdURDhYNHloRGFPS1ZtaDN6YXJSZjJFd3dMeWJoTW5yRUViLUtEOFd4YU5YYw?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    }
+  ]
+}
