@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "generated_at": "2026-07-10T23:37:22.407928+00:00",
+    "run_date": "20260711"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [
+      {
+        "title": "#1 금호타이어 (+30.00%)",
+        "description": "현재가: 7,800, 거래량: 23,759,468"
+      },
+      {
+        "title": "#2 대구백화점 (+29.97%)",
+        "description": "현재가: 4,705, 거래량: 326,150"
+      },
+      {
+        "title": "#3 디와이에이 (+29.95%)",
+        "description": "현재가: 1,063, 거래량: 6,272,330"
+      },
+      {
+        "title": "#4 한성기업 (+29.95%)",
+        "description": "현재가: 8,460, 거래량: 1,528,228"
+      },
+      {
+        "title": "#5 마스턴프리미어리츠 (+29.92%)",
+        "description": "현재가: 773, 거래량: 350,840"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 7,496억원",
+        "description": "현재가: 86, 거래량: 8,955,504,419주"
+      },
+      {
+        "title": "#2 KODEX 인버스 거래대금 8,110억원",
+        "description": "현재가: 1,017, 거래량: 807,243,376주"
+      },
+      {
+        "title": "#3 SOL SK하이닉스선물단일종목인버스2X 거래대금 21,841억원",
+        "description": "현재가: 9,210, 거래량: 244,671,457주"
+      },
+      {
+        "title": "#4 KODEX SK하이닉스단일종목레버리지 거래대금 40,562억원",
+        "description": "현재가: 21,760, 거래량: 179,735,023주"
+      },
+      {
+        "title": "#5 TIGER 미국S&P500 거래대금 32,133억원",
+        "description": "현재가: 28,085, 거래량: 113,849,951주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 -24,054,155주 / 기관 -467,594,429주 / 개인 +480,255,847주",
+        "description": "직전 영업일(20260710) 순매수 수량"
+      },
+      {
+        "title": "KODEX 인버스 외국인 +233,673주 / 기관 -11,286,247주 / 개인 +12,441,533주",
+        "description": "직전 영업일(20260710) 순매수 수량"
+      },
+      {
+        "title": "SOL SK하이닉스선물단일종목인버스2X 외국인 +1,022,741주 / 기관 +1,362,547주 / 개인 -2,513,042주",
+        "description": "직전 영업일(20260710) 순매수 수량"
+      },
+      {
+        "title": "KODEX SK하이닉스단일종목레버리지 외국인 +1,361,810주 / 기관 -4,695,633주 / 개인 +3,379,928주",
+        "description": "직전 영업일(20260710) 순매수 수량"
+      },
+      {
+        "title": "TIGER 미국S&P500 외국인 +143,783주 / 기관 -1,338,039주 / 개인 +1,226,768주",
+        "description": "직전 영업일(20260710) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.96 (+0.02%)",
+        "description": "전일종가 100.94 / 변동 +0.0250"
+      },
+      {
+        "title": "미국 10년물 금리: 4.57 (+0.66%)",
+        "description": "전일종가 4.54 / 변동 +0.0300"
+      },
+      {
+        "title": "VIX 변동성지수: 15.03 (-5.11%)",
+        "description": "전일종가 15.84 / 변동 -0.8100"
+      },
+      {
+        "title": "S&P 500: 7575.39 (+0.42%)",
+        "description": "전일종가 7543.64 / 변동 +31.7500"
+      },
+      {
+        "title": "나스닥100: 29825.11 (+0.33%)",
+        "description": "전일종가 29727.10 / 변동 +98.0098"
+      },
+      {
+        "title": "다우존스: 52637.01 (+0.29%)",
+        "description": "전일종가 52487.41 / 변동 +149.6016"
+      },
+      {
+        "title": "USD/KRW: 1498.87 (-0.30%)",
+        "description": "전일종가 1503.35 / 변동 -4.4800"
+      },
+      {
+        "title": "USD/JPY: 161.67 (-0.53%)",
+        "description": "전일종가 162.54 / 변동 -0.8670"
+      },
+      {
+        "title": "코스피: 7291.91 (+0.62%)",
+        "description": "전일종가 7246.79 / 변동 +45.1201"
+      },
+      {
+        "title": "코스닥: 794.00 (+1.15%)",
+        "description": "전일종가 785.00 / 변동 +9.0000"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.324 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.40 | GEX +nanB$ (만기:2026-07-10)",
+        "description": "콜OI 380,708 / 풋OI 532,924 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.58 | GEX +3.4B$ (만기:2026-07-10)",
+        "description": "콜OI 236,071 / 풋OI 374,061 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $183.52 (-0.67%)",
+        "description": "거래량 19,956,983주 (평균대비 0.9x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $758.11 (+0.41%)",
+        "description": "거래량 3,025,389주 (평균대비 0.8x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 67.8% (135/199종목)",
+        "description": "평균 MA 대비 위치: +2.7%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 23/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-06-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.2",
+        "description": "Date: 2026-06-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 333.979",
+        "description": "Date: 2026-05-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 2.1",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.54",
+        "description": "Date: 2026-07-09, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.74조달러",
+        "description": "기준일: 2026-07-08 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.35조달러",
+        "description": "기준일: 2026-07-08 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 7492.44억달러",
+        "description": "기준일: 2026-07-08 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.01억달러",
+        "description": "기준일: 2026-07-10 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 270bp (2.70%)",
+        "description": "기준일: 2026-07-09 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 76bp (0.76%)",
+        "description": "기준일: 2026-07-09 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "MercadoLibre (MELI) Outpaces Stock Market Gains: What You Should Know - Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQml4QXdKWFRDcUZQcVhIdFk3QnlKdXhIOHRJUXlmWHpSMW9qMmU4TXJJZVRKQ0d1N1FlQ3NsQ0JGdGItUzIwYU16akxneVZfUDNuWlVJX2g3djZDLXVOZWNDck81aDZIRHhSX3RlSWY1dDBfRmk1aWIyMThGWGw3bW9BQmV6WVVtLU5pT0d4NWVrdw?oc=5",
+        "press": "Yahoo Finance Singapore"
+      },
+      {
+        "title": "Apple Shines As It Nears Fresh High, Leads 18 Hot Picks Onto Best Stock Lists - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd2NBZXlGOFdpVmFxcTRUNzd1QTluaW8zOFVCUHpCM3R3bUFmSTJSNEhJSGFoM2VOOFA5WHlObkcxZVE2bnpZZWNJdEduX0NYUkxCaHhWS19JWUsyQmxhXzlYOTZfNlpiQVdzbm82U1BrWG9OYklWSUtwd0xOSWlQZUlTNG9WNFpxdjdtMFlvUVgzTGs1Qnl6dTluejNQQkpQ?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Chip giant SK Hynix closed out its market debut roughly 13% higher on Friday. - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa0l5ZVcyaUwzY2ZZVW1HdjNWd2pxZU5qVW1KS3F6RFUwVmwwQnJyY3dheVhHYWZuQTE3cGtLYWpjYnpOLVhIVmdYbWs4QS1jMDRGTjBJVFFzQzNHNGx4aXY3MlBsYWFLQ0RTZnc4QUV1a0pTZ2VGWUxGdFM3UGY3RmZaWWlXU2Q0NkZEdkNERWJXZWhWMkNtUm1kTWktQi1Sb0dMZjhPY1Yyd0k?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "S&P 500 closes higher to notch a winning week, helped by tech gains - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kdzhhTTdONFVfRHJXdVY3U2tDenpna2NJemt0OUlNNzVVeWJOdTZDSEVoZXkyLWNBQTY2VzN3T1RyVTNnR3gzSUtIbnFtX2luRFU1bGl2SFBBM0lrUXVLeF9MUVlCdS1MZ3lCdlpEZ1RrQUlTaURv0gF8QVVfeXFMUEJ0Q1VJQ3Y1RDkyVjE4SkhkSXYzU0RoSnVlYmJPRkhGclpSZ0JqRHNkSkRseUhVVkNuc2RZMlVLY1lLcmlJb3ZiVXVhLXFGY3E2TGJ5OHQyQVlxU0plNWdKdGxyRnNxWGpIdmhEa2VHbjhhcVpFNW5pS1RrWQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "2026 Mid-Year Economic Outlook Slow Growth New Opportunities - CLA (CliftonLarsonAllen)",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmcFlzVThodVAweGxCRGJtc0wxRi03bHI0MlpITWJPMERqX0lBZWc2UldhdFpiLTMyZE5TVG1sYjlCQjBkbWtlZF9BOGRKVTVZNXk4Q2ktbFlBdDZ2bVMwZFBaT3Z6Zm1WU3RQYW9mNGV2V3R2ZlRVVkZUSQ?oc=5",
+        "press": "CLA (CliftonLarsonAllen)"
+      },
+      {
+        "title": "S&P 500 closes higher to notch a winning week, helped by tech gains - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kdzhhTTdONFVfRHJXdVY3U2tDenpna2NJemt0OUlNNzVVeWJOdTZDSEVoZXkyLWNBQTY2VzN3T1RyVTNnR3gzSUtIbnFtX2luRFU1bGl2SFBBM0lrUXVLeF9MUVlCdS1MZ3lCdlpEZ1RrQUlTaURv0gF8QVVfeXFMUEJ0Q1VJQ3Y1RDkyVjE4SkhkSXYzU0RoSnVlYmJPRkhGclpSZ0JqRHNkSkRseUhVVkNuc2RZMlVLY1lLcmlJb3ZiVXVhLXFGY3E2TGJ5OHQyQVlxU0plNWdKdGxyRnNxWGpIdmhEa2VHbjhhcVpFNW5pS1RrWQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Does Herc Holdings’ (HRI) Russell Value Index Debut Clarify Its Equipment Rental Margin Story? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUXVxdnZYY1l5R3V2WEFHWGNnNEotRVlaNjRrWW5PNzhiMWNOSGZhNTVsQkgwblZPWWl2TzhyNnBjWFBQQWlUUEQtaWFMa0hzUEFyQk9TRUV2MVh6QnJWbDV3QXEta3pXOGs4NENlSEt3cEFsNVlaNUR0WFhxbkVuSWhZbkVWQS16SGhNbU0zMEtrMUZTSVdjT283YjlqdDJhQ1hLX0ljSzM2cE52QTNDN3loNlhJNjBpdV95WXQ4UEJpYTFyWmRqaFQ2bmwzVGPSAdQBQVVfeXFMT3d2X1NvZTIxRV9ha0NhNFVQTlM4MVk3a1VsMlZwWXJ6WEVuRkF5ZDNFNmFHTm9BN2t5QTc2NjhaM0ZBYzlyc3JFMG1WZEo1cEt1cTNaQ1N4N252ZDlRMHdReXl2UFVnN3NTTUxWZW9BTnhucHI3UGVzVEQta3RMbGZZX0ZDWkJVMTlzajUxUVcxQTdNWTA0dXlhanZFWlVnUzZnWXFIZ0hEYm94UUVGalVrVkF1V0NGZ2xfSHlyTVB0RkJlNUVVMFgtN0V3dU5JUERPR2w?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Stock Market Today: S&P 500, Nasdaq rally to another weekly gain; Dow ends up 150 points but snaps 4-week win streak - M",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdmVIUng1TUJPdlBhZ0Y0WTB4RmdXUzItY0UxXzlxWUd4SGdOdlM2TmpYWnBScUE5NzVHMlJGLW5RRnBOWEhEbkZJRXR0ZmEtbHRCZ2wzWlJUNDNHUXZkSjR3bUk4R1ZJOHVkOS1MS0U5dFpNVTlfSFdCd3FvWmt4UlBpbm1QV0IwSm1qWC1XaVJOVFdpSkdEaXJqOWpFM2JfVG9JUWdwbVV3RE5xc21KNDloUjFscEFTUDlJUDlLOA?oc=5",
+        "press": "MarketWatch"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Is Now The Time To Put Ahn-Gook Pharmaceutical (KOSDAQ:001540) On Your Watchlist? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQY1pmdHVIZDNHeXBKZ0hWX2VUVzBvRzdvdDQzR3J3UkhsMEJGNXc2NTM4akQtQUEzT1NnVV9oMDF4UXRUX3V2YXM1UHUwZnRLVV9KS0RkWlhUSFU2ZXUyc1ZxOEJpcjQ3ZkFxb2xPZnZ3dng3cGEtVXgtdkFIcjJIVjIwcldZY0dQdDZFdmV6R0RRZjNDRnkzSjJVVGNGUEtCN05pNExhMjlFRS1pMHlpMno3WmRUVzhaYk1KcjR4ZERmRFFFMUE0NGpkWVBpRGZaSENzeFBoZ0NTYUpaeEVIbFZ5NGZVZFg5dkpOa2huaGZaTmV6cFN6V09n0gH_AUFVX3lxTFBnRnVtVkNDMEVZV2VEMTNJdFo0RmNUWFREQUlDcF9ST0pYbWNUYkV0UEJrSUNDRGxSbUlERE9Bc2xISTZobVJYcktJdHhKSEtMbTI2bWZwbzZJX1N6enhLNXVMU3ZCSS05SVJ4OEJjb3hTWS00ZFBtaTdxbmxCWS1xTk84Ym85VnhWUHA0czJKaXVBRHVxLWVFYjRmSnphaVdfYTk5QTF3U3RCeVB4MTVGLUFfTG5DczdRM3YtZlppd1czYmJRX29qbElPVUpzOUc4MUNRVTVlZktUVTA0SWhaVHNZUHRWLVNvUHJtNHpOT3g0V3ZENmJBQ3k4RlhMUQ?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "SK hynix Inc (Derivatives) Price Today | Live 000660 Price, Chart & Market Data - Binance",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10LUhHUThScExXR3FXRnZpQ19zRWh6SjRCMUhSOUtmOV9XTHRIeEF4bTl1Q2tRU2libWV0VDJYaVZibVVkNGppU0ZrSjZpUXVtb2NMeHN4My1CTWZ5Mm14OW82SzNGTC1s?oc=5",
+        "press": "Binance"
+      }
+    ],
+    "naver": [
+      {
+        "title": "혼돈의 코스피, 증시 대기자금 110조 밑으로 '추락'",
+        "url": "https://www.ajunews.com/view/20260711081910877",
+        "press": "www.ajunews.com"
+      },
+      {
+        "title": "SK하이닉스, 美 나스닥 성공적 입성…첫 날 공모가 대비 13%↑",
+        "url": "https://n.news.naver.com/mnews/article/029/0003036437?sid=101",
+        "press": "www.dt.co.kr"
+      },
+      {
+        "title": "코스피 급락에 투자 예탁금 110조원 아래로, 개인 매수 여력 감소",
+        "url": "https://www.tokenpost.kr/news/market/376706",
+        "press": "www.tokenpost.kr"
+      },
+      {
+        "title": "DGFEZ, 10일 수성알파시티서 한·일IT기업간 교류 행사 개최",
+        "url": "https://n.news.naver.com/mnews/article/030/0003446674?sid=102",
+        "press": "www.etnews.com"
+      },
+      {
+        "title": "상반기 IPO ‘반토막’…하반기 ‘옥석가리기’ 본격화",
+        "url": "https://n.news.naver.com/mnews/article/243/0000100308?sid=101",
+        "press": "economist.co.kr"
+      },
+      {
+        "title": "[ETF 머니플로우] 국내 대형주 부진에 미래에셋자산운용 'TIGER 미국S&P500...",
+        "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5039648",
+        "press": "www.shinailbo.co.kr"
+      },
+      {
+        "title": "반도체 산업 확대에 주거시장도 '들썩'…평택·광주 신규 공급 관심",
+        "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=355806",
+        "press": "www.biztribune.co.kr"
+      },
+      {
+        "title": "티엘비, 베트남 박닌에 2000억 원 규모 ‘PCB 제2공장’ 건설",
+        "url": "https://www.g-enews.com/view.php?ud=2026071108143683010c8c1c064d_1",
+        "press": "www.g-enews.com"
+      },
+      {
+        "title": "SK하닉 상장 '대박'…\"삼성전자도 나스닥 상장하나요?\" 물었더니",
+        "url": "https://n.news.naver.com/mnews/article/215/0001258369?sid=101",
+        "press": "www.wowtv.co.kr"
+      },
+      {
+        "title": "SK하이닉스, 나스닥 첫날 공모가 대비 13% 오른 168달러로 거래 마감",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141392",
+        "press": "www.opinionnews.co.kr"
+      },
+      {
+        "title": "SK하이닉스, 美 나스닥 성공적 입성…첫 날 공모가 대비 13%↑",
+        "url": "https://n.news.naver.com/mnews/article/029/0003036437?sid=101",
+        "press": "www.dt.co.kr"
+      },
+      {
+        "title": "[이로운주목]SK하이닉스 나스닥 상장…최태원 \"꿈이 현실 됐다\"",
+        "url": "https://www.eroun.net/news/articleView.html?idxno=85195",
+        "press": "www.eroun.net"
+      }
+    ],
+    "telegram": []
+  }
+}

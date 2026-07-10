@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "generated_at": "2026-07-10T23:37:22.409109+00:00",
+    "run_date": "20260711"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 23,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 100.96,
+      "change": 0.02,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.57,
+      "change": 0.66,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 15.03,
+      "change": -5.11,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7575.39,
+      "change": 0.42,
+      "insight": "전일종가 7543.64 / 변동 +31.7500",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29825.11,
+      "change": 0.33,
+      "insight": "전일종가 29727.10 / 변동 +98.0098",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 52637.01,
+      "change": 0.29,
+      "insight": "전일종가 52487.41 / 변동 +149.6016",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1498.87,
+      "change": -0.3,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 161.67,
+      "change": -0.53,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "SK하이닉스 나스닥 성공적 입성, 첫날 13% 급등",
+      "tag": "Bullish"
+    },
+    {
+      "point": "증시 예탁금 110조원 하회하며 투자 심리 위축",
+      "tag": "Bearish"
+    },
+    {
+      "point": "반도체 클러스터 인근 주거 시장 공급 관심 증대",
+      "tag": "Bullish"
+    },
+    {
+      "point": "티엘비 베트남 공장 증설 등 부품사 해외 확장 지속",
+      "tag": "Bullish"
+    },
+    {
+      "point": "상반기 IPO 시장 위축 속 하반기 옥석 가리기 본격화",
+      "tag": "Neutral"
+    },
+    {
+      "point": "공포탐욕지수 23점, 극단적 공포 국면 진입",
+      "tag": "Bearish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "S&P 500·나스닥, 기술주 주도로 주간 상승 마감",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미 10년물 국채금리 4.57%로 상승하며 부담 작용",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VIX 지수 15.03으로 하락하며 시장 변동성 완화",
+      "tag": "Bullish"
+    },
+    {
+      "point": "애플 신고가 근접하며 대형 기술주 랠리 견인",
+      "tag": "Bullish"
+    },
+    {
+      "point": "옵션 시장 풋 우세 및 딜러 숏감마로 하방 압력 존재",
+      "tag": "Bearish"
+    },
+    {
+      "point": "신용 스프레드 안정세 유지되며 시스템 리스크 제한",
+      "tag": "Bullish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "SK하이닉스, 美 나스닥 성공적 입성…첫 날 공모가 대비 13%↑",
+      "url": "https://n.news.naver.com/mnews/article/029/0003036437?sid=101",
+      "press": "www.dt.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "혼돈의 코스피, 증시 대기자금 110조 밑으로 '추락'",
+      "url": "https://www.ajunews.com/view/20260711081910877",
+      "press": "www.ajunews.com",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "티엘비, 베트남 박닌에 2000억 원 규모 ‘PCB 제2공장’ 건설",
+      "url": "https://www.g-enews.com/view.php?ud=2026071108143683010c8c1c064d_1",
+      "press": "www.g-enews.com",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 급락에 투자 예탁금 110조원 아래로, 개인 매수 여력 감소",
+      "url": "https://www.tokenpost.kr/news/market/376706",
+      "press": "www.tokenpost.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "상반기 IPO ‘반토막’…하반기 ‘옥석가리기’ 본격화",
+      "url": "https://n.news.naver.com/mnews/article/243/0000100308?sid=101",
+      "press": "economist.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "부동산·유동성",
+      "title": "반도체 산업 확대에 주거시장도 '들썩'…평택·광주 신규 공급 관심",
+      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=355806",
+      "press": "www.biztribune.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "안국약품(001540), 현재 관심 종목에 추가해야 할 시점인가?",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQY1pmdHVIZDNHeXBKZ0hWX2VUVzBvRzdvdDQzR3J3UkhsMEJGNXc2NTM4akQtQUEzT1NnVV9oMDF4UXRUX3V2YXM1UHUwZnRLVV9KS0RkWlhUSFU2ZXUyc1ZxOEJpcjQ3ZkFxb2xPZnZ3dng3cGEtVXgtdkFIcjJIVjIwcldZY0dQdDZFdmV6R0RRZjNDRnkzSjJVVGNGUEtCN05pNExhMjlFRS1pMHlpMno3WmRUVzhaYk1KcjR4ZERmRFFFMUE0NGpkWVBpRGZaSENzeFBoZ0NTYUpaeEVIbFZ5NGZVZFg5dkpOa2huaGZaTmV6cFN6V09n0gH_AUFVX3lxTFBnRnVtVkNDMEVZV2VEMTNJdFo0RmNUWFREQUlDcF9ST0pYbWNUYkV0UEJrSUNDRGxSbUlERE9Bc2xISTZobVJYcktJdHhKSEtMbTI2bWZwbzZJX1N6enhLNXVMU3ZCSS05SVJ4OEJjb3hTWS00ZFBtaTdxbmxCWS1xTk84Ym85VnhWUHA0czJKaXVBRHVxLWVFYjRmSnphaVdfYTk5QTF3U3RCeVB4MTVGLUFfTG5DczdRM3YtZlppd1czYmJRX29qbElPVUpzOUc4MUNRVTVlZktUVTA0SWhaVHNZUHRWLVNvUHJtNHpOT3g0V3ZENmJBQ3k4RlhMUQ?oc=5",
+      "press": "simplywall.st",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "반도체 거물 SK하이닉스, 나스닥 데뷔 첫날 약 13% 상승 마감",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa0l5ZVcyaUwzY2ZZVW1HdjNWd2pxZU5qVW1KS3F6RFUwVmwwQnJyY3dheVhHYWZuQTE3cGtLYWpjYnpOLVhIVmdYbWs4QS1jMDRGTjBJVFFzQzNHNGx4aXY3MlBsYWFLQ0RTZnc4QUV1a0pTZ2VGWUxGdFM3UGY3RmZaWWlXU2Q0NkZEdkNERWJXZWhWMkNtUm1kTWktQi1Sb0dMZjhPY1Yyd0k?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "S&P 500, 기술주 강세에 힘입어 상승하며 한 주 마무리",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kdzhhTTdONFVfRHJXdVY3U2tDenpna2NJemt0OUlNNzVVeWJOdTZDSEVoZXkyLWNBQTY2VzN3T1RyVTNnR3gzSUtIbnFtX2luRFU1bGl2SFBBM0lrUXVLeF9MUVlCdS1MZ3lCdlpEZ1RrQUlTaURv0gF8QVVfeXFMUEJ0Q1VJQ3Y1RDkyVjE4SkhkSXYzU0RoSnVlYmJPRkhGclpSZ0JqRHNkSkRseUhVVkNuc2RZMlVLY1lLcmlJb3ZiVXVhLXFGY3E2TGJ5OHQyQVlxU0plNWdKdGxyRnNxWGpIdmhEa2VHbjhhcVpFNW5pS1RrWQ?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "애플 신고가 근접하며 강세, 18개 유망 종목 리스트 선도",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd2NBZXlGOFdpVmFxcTRUNzd1QTluaW8zOFVCUHpCM3R3bUFmSTJSNEhJSGFoM2VOOFA5WHlObkcxZVE2bnpZZWNJdEduX0NYUkxCaHhWS19JWUsyQmxhXzlYOTZfNlpiQVdzbm82U1BrWG9OYklWSUtwd0xOSWlQZUlTNG9WNFpxdjdtMFlvUVgzTGs1Qnl6dTluejNQQkpQ?oc=5",
+      "press": "Investor's Business Daily",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "2026년 중기 경제 전망: 저성장 속 새로운 기회 포착",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmcFlzVThodVAweGxCRGJtc0wxRi03bHI0MlpITWJPMERqX0lBZWc2UldhdFpiLTMyZE5TVG1sYjlCQjBkbWtlZF9BOGRKVTVZNXk4Q2ktbFlBdDZ2bVMwZFBaT3Z6Zm1WU3RQYW9mNGV2V3R2ZlRVVkZUSQ?oc=5",
+      "press": "CLA (CliftonLarsonAllen)",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "메르카도리브레(MELI), 시장 수익률 상회하는 성장세 유지",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQml4QXdKWFRDcUZQcVhIdFk3QnlKdXhIOHRJUXlmWHpSMW9qMmU4TXJJZVRKQ0d1N1FlQ3NsQ0JGdGItUzIwYU16akxneVZfUDNuWlVJX2g3djZDLXVOZWNDck81aDZIRHhSX3RlSWY1dDBfRmk1aWIyMThGWGw3bW9BQmV6WVVtLU5pT0d4NWVrdw?oc=5",
+      "press": "Yahoo Finance Singapore",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "Herc Holdings, 러셀 가치 지수 편입으로 마진 개선 기대감 증폭",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUXVxdnZYY1l5R3V2WEFHWGNnNEotRVlaNjRrWW5PNzhiMWNOSGZhNTVsQkgwblZPWWl2TzhyNnBjWFBQQWlUUEQtaWFMa0hzUEFyQk9TRUV2MVh6QnJWbDV3QXEta3pXOGs4NENlSEt3cEFsNVlaNUR0WFhxbkVuSWhZbkVWQS16SGhNbU0zMEtrMUZTSVdjT283YjlqdDJhQ1hLX0ljSzM2cE52QTNDN3loNlhJNjBpdV95WXQ4UEJpYTFyWmRqaFQ2bmwzVGPSAdQBQVVfeXFMT3d2X1NvZTIxRV9ha0NhNFVQTlM4MVk3a1VsMlZwWXJ6WEVuRkF5ZDNFNmFHTm9BN2t5QTc2NjhaM0ZBYzlyc3JFMG1WZEo1cEt1cTNaQ1N4N252ZDlRMHdReXl2UFVnN3NTTUxWZW9BTnhucHI3UGVzVEQta3RMbGZZX0ZDWkJVMTlzajUxUVcxQTdNWTA0dXlhanZFWlVnUzZnWXFIZ0hEYm94UUVGalVrVkF1V0NGZ2xfSHlyTVB0RkJlNUVVMFgtN0V3dU5JUERPR2w?oc=5",
+      "press": "simplywall.st",
+      "source": "international"
+    }
+  ]
+}
