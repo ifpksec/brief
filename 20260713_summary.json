@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "generated_at": "2026-07-12T23:36:33.945646+00:00",
+    "run_date": "20260713"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 26,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 101.12,
+      "change": 0.15,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.57,
+      "change": 0.66,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 15.03,
+      "change": -5.11,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7575.39,
+      "change": 0.42,
+      "insight": "전일종가 7543.64 / 변동 +31.7500",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29825.11,
+      "change": 0.33,
+      "insight": "전일종가 29727.10 / 변동 +98.0098",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 52637.01,
+      "change": 0.29,
+      "insight": "전일종가 52487.41 / 변동 +149.6016",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1498.98,
+      "change": -0.46,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 162.0,
+      "change": -0.23,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "고객예탁금 3.7조 원 급감하며 증시 대기 자금 위축",
+      "tag": "Bearish"
+    },
+    {
+      "point": "코스피 프로그램 매도 우위 속 외국인 수급 공백 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "반도체 및 AI 대장주 중심의 기술적 반등론 고개",
+      "tag": "Bullish"
+    },
+    {
+      "point": "원/달러 환율 1,500원선 하회 시도하며 소폭 안정",
+      "tag": "Neutral"
+    },
+    {
+      "point": "한은 금리 인상 가능성 및 긴축 우려가 상방 압박",
+      "tag": "Bearish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "미 3대 지수 완만한 상승세 기록하며 상방 시도",
+      "tag": "Bullish"
+    },
+    {
+      "point": "국채 금리 상승에도 VIX 지수 하락하며 심리 개선",
+      "tag": "Bullish"
+    },
+    {
+      "point": "중동 지정학적 리스크 재점화에 따른 유가 상승 경계",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 26점 기록하며 과매도 저점 매수 구간",
+      "tag": "Bullish"
+    },
+    {
+      "point": "SPY 옵션 콜 우세 속 변동성 확대 가능성 상존",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "유안타증권, 한국 증시 바닥권…AI·반도체 매수 권고",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaU04THFZODZ0Unp6dTRvUlBZSFlDNnVucjBqVmZzTEdmVHZ3TmdHUXFiUFl3c05yaklxN2FBV1pmdGRlX1BpN1UwMEZYMXh5ZmlkVElQbWVGdHJCdWRUYVlKUFlzY0VJTVpIM2MyUkxVenJ4UUFBUHd5NFdjYUxCVNIBlAFBVV95cUxQaktuakRlUFBvSUpTdmNVOUlBc0RXUzZUWUNJdG03bHR0MmlJY0h6c1NTd0Mwd2ZXeWpOblhZZThhWnc4OGY3LTY2NTRFanMtTVBYaWN2NmJFWW9aOFdra3k1NlJJY19TOTJJM0Y4VjlHNVd2a1hoYXdhdXV6VEhVYXFhRXY0WGM0aXNDYjFlOXJ0dElL?oc=5",
+      "press": "Chosunbiz",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "SK하이닉스 미 상장, '카지노' 한국 증시에 경종",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSzd2cFNWVFVUbUFBVVZxb0tZM1FFRzhnN2JpS0w2ZThxX28xQmIwelg1RHdIMmktV2VidGd0cW0wTmhuTHJKbklZWWt0UHo2NHdmVkxPRGJLcnVzbmF6dEJWcUpuMWM1eXlPNHFvaHpKMjJ4amcxX3dtM1lhMDgtSThtNldqSzg?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "한국은행 금리 인상 확실시, 속도와 강도가 관건",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONS1MYjRMamlDVUxJS2Y0YXg2a01RMU5qX3VXZWVJdWRpQ3N2TVZGNmVDa2xRR0pDYzMxTjJsTGc2d2NyMWF4SmloZG5PQnlkaGxYbFN2dWtVLTJzZmM3ZldRSVpWNmNzQ2FFdVZYMmY4SktkU2NwV3ppeGdvSGo3TXpnUWFfRXpGZVkzTFZB?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 반등론 고개, 비관은 이르다는 분석 확산",
+      "url": "https://n.news.naver.com/mnews/article/123/0002386383?sid=101",
+      "press": "joseilbo.com",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "휴머노이드 로봇 스타트업 홀리데이, 1550억 투자 유치",
+      "url": "https://www.m-i.kr/news/articleView.html?idxno=1390659",
+      "press": "m-i.kr",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "양대지수 동반 상승세…지정학 변수가 향후 증시 훈풍 가를 듯",
+      "url": "https://n.news.naver.com/mnews/article/374/0000521270?sid=101",
+      "press": "biz.sbs.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "코스닥 폭락 속 한국 가상자산 거래량 2년래 최저치",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZWtpZ0pHR1RhYi1JUVp5ZTdnV2NmMjZnMlRWX2FFeTh1MGM3TWtBeXoyalVvaWxUb2lBY0RKbmZ6T2NVWFdZaTFuUm1vc2g5WU5iOGxsSHR2UkpsUFBrdy0yMld3QW9UT2dWV3B3eUdnTHhXRFFsLXIwNm1yMVplUQ?oc=5",
+      "press": "BeInCrypto",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "이란 공습에 지수 선물 하락, 주요 기업 실적 발표 대기",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORU9feGs2S085SEFuY29nazFKXzBHU0hjVDlBMmNzTXREN25hTEEzcXlzR2tiRTEwNVQyMDloQk5mNkxYTFlSeXI1ZmlhSW5hMWNYbFBkbjJPdUI3ZF9Ya0tuSENUVGhHNG5NSnFGQ1hYMk90ZDltNlo0c0M3QmY1X2ozNkVXYlNZZDJhY0RJeTZKN3FZUzZsb3diekV3b0dPZWl5dmhodm9LUDVZMmFYM01UVXhpVDJqdXNNalYyVzNyUlRLMGpyRjRPYXFyRXdM?oc=5",
+      "press": "Investor's Business Daily",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "미-이란 보복 공습 심화에 국제 유가 상승 및 선물 하락",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzQ2VVJ5b2hIc2BaZXFRazZxNVVLaXV2WmhnOXZGNTFlOUZ2bmg3amVpcEFOZDBVVGI4UXFpd1FEUERJakJ3ZXBxNkFIVWVmV25qemVueThUTDFGYy1TR2NwLXNteHltOC1tQWpvdDRUM2p5WmltNU1MYTQ5WG5iWUpMUTJScjRUY1AtdDBsSExzM3FFODlHSkFJVnI0a3NDSnlSWDFkUTNMUjUwWFp0bC0zcUV4TTdKOUZ4MmFZS1cyUHBHSWFTQmxn?oc=5",
+      "press": "MarketWatch",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "기술주 독주 체제 지속, 투자자들이 테크주를 떠나지 못하는 이유",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbFJxTnhqWktUNDhNRE9lWERESE5qdUxkaVF3SmJtdlNleGZkZ0NZWnFGVUZuc2k4bXJUOXBZM0I0V2RLMWFhbHpOU0FSQmVYWlNhOVZQVU41OGJER29FMjBCMHFmVk5ua3h5R3M3TFpzUlpXZHBQQWI3V0k2NUlLeEVTdkhOLWJnMDRlV0gxakNZYzVNQWFucXp4QkZDVEJ0Y0dvQ2JoazlhekloNFBYWjZ1TkwwZlVNdUpzaTVhV2RCZWc?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "1890년 이후 단 한 번 발생했던 시장 경고 신호 점등",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQWdwaU50YzU2X2ZENHhma1dHSWtYSGxCRG5Rc29MWmQ1ZnJPQl8yQS13aGFJb3BGbjRZQ1ZnbnhXNFU2dHdGYW5sNDNUYWxlLW55elEyMUdmR2ZJdk1QeW1qQ1pKcG9nMXE2NFdPLThiQ0ZwWHlxcjZfMjR5cUEyNHRyNlVQMWxXR3cwbnZrTFhLaUp0ajhJSHlQRUZlS1E?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "호르무즈 해협 교전 격화에 시장의 불안감 고조",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRjVNREFwam5LSE5wSVNCUzFCWGJZeF8wRUp6S1k4T29XZkxERk55bVlObXRES01DM0lUWlV3WnlYSWdzX29abXRCZU1zbUZLTTh4UjQ0SFlQZzVDbkJQR3MyVjJNNDJWRFVRcGlUODhxSU5CS2VNc1FadkpDenk0eUl1NUd6SER6am1UQjlDa2llNjlqQVozQkpFS2FLcDdjWEdGT0trcVdRam4tOXFaemZn?oc=5",
+      "press": "Fortune",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미-이란 맞보복 공습 이후 지수 선물 약세 흐름",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hbjE2R1QzOC1SMGNXSjZmMmtfSW1saHZ4aVFsS2xLbHo5Q19NRlFPYmxSMi15aUpVMU0zRVVCSmRWaHhVZWo0ZkpwcFNEYzBkRGc0ZnRkdkZfN1dYb1JYTGhxM3BpckZtVnlIcXpsNzdWYndHcHZB?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    }
+  ]
+}
