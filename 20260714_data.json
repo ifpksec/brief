@@ -1,0 +1,337 @@
+{
+  "meta": {
+    "generated_at": "2026-07-13T23:36:35.250283+00:00",
+    "run_date": "20260714"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 +671,795백만원 (차익 +92,654 / 비차익 +579,141)",
+        "description": "기준일: 20260714"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 동화약품 (+0.00%)",
+        "description": "현재가: 5,030, 거래량: 0"
+      },
+      {
+        "title": "#2 KR모터스 (+0.00%)",
+        "description": "현재가: 267, 거래량: 0"
+      },
+      {
+        "title": "#3 경방 (+0.00%)",
+        "description": "현재가: 8,170, 거래량: 0"
+      },
+      {
+        "title": "#4 삼양홀딩스 (+0.00%)",
+        "description": "현재가: 56,200, 거래량: 0"
+      },
+      {
+        "title": "#5 하이트진로 (+0.00%)",
+        "description": "현재가: 14,960, 거래량: 0"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 대한항공 거래대금 16억원",
+        "description": "현재가: 25,850, 거래량: 62,624주"
+      },
+      {
+        "title": "#2 KODEX 2차전지산업레버리지 거래대금 0억원",
+        "description": "현재가: 944, 거래량: 23,277주"
+      },
+      {
+        "title": "#3 다스코 거래대금 0억원",
+        "description": "현재가: 4,765, 거래량: 10,529주"
+      },
+      {
+        "title": "#4 흥아해운 거래대금 0억원",
+        "description": "현재가: 1,747, 거래량: 5,749주"
+      },
+      {
+        "title": "#5 바이오솔루션 거래대금 0억원",
+        "description": "현재가: 5,610, 거래량: 4,470주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "대한항공 외국인 -352,371주 / 기관 +95,499주 / 개인 +204,777주",
+        "description": "직전 영업일(20260713) 순매수 수량"
+      },
+      {
+        "title": "KODEX 2차전지산업레버리지 외국인 -1,349,605주 / 기관 -3,108,164주 / 개인 -1,016,944주",
+        "description": "직전 영업일(20260713) 순매수 수량"
+      },
+      {
+        "title": "다스코 외국인 +74,027주 / 기관 +2,962주 / 개인 -75,997주",
+        "description": "직전 영업일(20260713) 순매수 수량"
+      },
+      {
+        "title": "흥아해운 외국인 -2,561,984주 / 기관 +3,525주 / 개인 +2,625,385주",
+        "description": "직전 영업일(20260713) 순매수 수량"
+      },
+      {
+        "title": "바이오솔루션 외국인 +15,136주 / 기관 -662주 / 개인 -17,356주",
+        "description": "직전 영업일(20260713) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.28 (+0.30%)",
+        "description": "전일종가 100.97 / 변동 +0.3070"
+      },
+      {
+        "title": "미국 10년물 금리: 4.61 (+0.88%)",
+        "description": "전일종가 4.57 / 변동 +0.0400"
+      },
+      {
+        "title": "VIX 변동성지수: 17.16 (+14.17%)",
+        "description": "전일종가 15.03 / 변동 +2.1300"
+      },
+      {
+        "title": "S&P 500: 7515.34 (-0.79%)",
+        "description": "전일종가 7575.39 / 변동 -60.0503"
+      },
+      {
+        "title": "나스닥100: 29264.10 (-1.88%)",
+        "description": "전일종가 29825.11 / 변동 -561.0059"
+      },
+      {
+        "title": "다우존스: 52498.64 (-0.26%)",
+        "description": "전일종가 52637.01 / 변동 -138.3711"
+      },
+      {
+        "title": "USD/KRW: 1497.17 (-0.09%)",
+        "description": "전일종가 1498.48 / 변동 -1.3099"
+      },
+      {
+        "title": "USD/JPY: 162.41 (+0.33%)",
+        "description": "전일종가 161.88 / 변동 +0.5370"
+      },
+      {
+        "title": "코스피: 7475.94 (+2.52%)",
+        "description": "전일종가 7291.91 / 변동 +184.0298"
+      },
+      {
+        "title": "코스닥: 837.43 (+5.47%)",
+        "description": "전일종가 794.00 / 변동 +43.4300"
+      },
+      {
+        "title": "KOSPI200: 1196.69 (+2.30%)",
+        "description": "전일종가 1169.73 / 변동 +26.9600"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.229 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.87 | GEX +nanB$ (만기:2026-07-13)",
+        "description": "콜OI 268,660 / 풋OI 234,915 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.22 | GEX +nanB$ (만기:2026-07-13)",
+        "description": "콜OI 97,217 / 풋OI 215,997 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $168.02 (-8.45%)",
+        "description": "거래량 33,727,524주 (평균대비 1.5x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $752.58 (-0.73%)",
+        "description": "거래량 2,681,978주 (평균대비 0.7x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 66.3% (132/199종목)",
+        "description": "평균 MA 대비 위치: +2.8%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 28/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-06-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.2",
+        "description": "Date: 2026-06-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 333.979",
+        "description": "Date: 2026-05-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 2.1",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.56",
+        "description": "Date: 2026-07-10, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.74조달러",
+        "description": "기준일: 2026-07-08 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.35조달러",
+        "description": "기준일: 2026-07-08 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 7492.44억달러",
+        "description": "기준일: 2026-07-08 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.01억달러",
+        "description": "기준일: 2026-07-13 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 269bp (2.69%)",
+        "description": "기준일: 2026-07-10 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 77bp (0.77%)",
+        "description": "기준일: 2026-07-10 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stocks end lower as oil prices surge on renewed Hormuz tensions, SK Hynix leads chip stock sell-off - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hbjE2R1QzOC1SMGNXSjZmMmtfSW1saHZ4aVFsS2xLbHo5Q19NRlFPYmxSMi15aUpVMU0zRVVCSmRWaHhVZWo0ZkpwcFNEYzBkRGc0ZnRkdkZfN1dYb1JYTGhxM3BpckZtVnlIcXpsNzdWYndHcHZB0gF8QVVfeXFMTXBLQkFrUDJYZlN4d2VoRlpYVXZiV1FVNWJOMElLc0puT1JiUjJqc2g1WDY4NGNrR1I3bDBtWVhlQWJ5MldlSDV5TGdsYXd4Szk2UzIyZm5JbmxqSXV2YkZ6ekRGQW5EMGNJVmt5OThIdjBBX3NVSHlRcFlMdA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Why a borrowing binge by investors is a warning sign for the stock market - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNzJJVnZ0X1hKY2dSOGlWMC1NSkhiUU5va1htR1F1TFVDbUVKekJraUdFN1hublRkbUQwVkIzMmJYQXNId25mcGlxalExZndMVF9JZHdfeERicmRkN0FiT2hEQXRmaUNrM0NPUVM2RjFhT2hmX25HczdCeXdrajRJeFhfc0I4d1BJWVNmZjc1aEc2b2NXSkt0Mm9lU1VJY2NEbWtpMGdXUEZBX1RwRWx2eThwTUUyeGc?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Stock Market, Treasuries Sink As Oil Soars On New U.S. Blockade; This Asset Also Dives - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWl8yS2NtYVlVSmNJenhDOW1VU3JBbVpDd1hnS0lfR1ZCdFp1NVZEbnZrbmNuNEJpVWxROFlFNTJNMHBLOGd5T0dQZ2xJLS1VY0xxY3R4Qi1qUDBHRjBNSTNlMlNJeEJEdnhCb1hCNThIZ0J2bHZBOGpqYi1IX0xzbmE2MjJ0b3FqMGszWDRMOVBIdEtsUTJ2VEZqa0dGNmkyZEZVMjRyMEF2Q0NSdGsxLWRDUzc5a3FXYjFVbWkzeHBBdmVNcE8xSmtyQTBsaV9GcTNMeVhn?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Trump offers US protection in the Strait of Hormuz for a 20% fee. How would that work? - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zaXFrRDl3bmZfNUZIemZaeUs5TmpnVG9MTVBNTUhYWHFPWEN6QkFESnJXTUM0U2tBRmVaMVJqbk04b0FhR0d1bUZkaFFtMW1GRXZtaHJKRmV2ZDVKOGlCczRMRVJYQQ?oc=5",
+        "press": "CNN"
+      },
+      {
+        "title": "Stocks end lower as oil prices surge on renewed Hormuz tensions, SK Hynix leads chip stock sell-off - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hbjE2R1QzOC1SMGNXSjZmMmtfSW1saHZ4aVFsS2xLbHo5Q19NRlFPYmxSMi15aUpVMU0zRVVCSmRWaHhVZWo0ZkpwcFNEYzBkRGc0ZnRkdkZfN1dYb1JYTGhxM3BpckZtVnlIcXpsNzdWYndHcHZB0gF8QVVfeXFMTXBLQkFrUDJYZlN4d2VoRlpYVXZiV1FVNWJOMElLc0puT1JiUjJqc2g1WDY4NGNrR1I3bDBtWVhlQWJ5MldlSDV5TGdsYXd4Szk2UzIyZm5JbmxqSXV2YkZ6ekRGQW5EMGNJVmt5OThIdjBBX3NVSHlRcFlMdA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock futures are little changed as Middle East tensions escalate; traders await earnings and inflation data: Live updat",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1saVBLdXJKemNTSVBfSE5xZ1ZOOUF3WVBSLWUyVnlOM0x1VlhRazExTUxLR19KdnpOV1plX1RRdHNBZkw1VUd0RTgtS3lPQWRkMkdjWlhUbnJsd25pT1k5Zkk5eXVleXRnQ0pRWlZaV2J5UmF2SUpR0gF8QVVfeXFMUC1tNFQ3UWRybUpCSkZCVHZ2bHdTZkk2ZHZGM05mUXRlU1BpblF0NDJlVGxPNERrbTFPTXBSUEV6Wkt0czlwLVI0S2lNZjEySlVDeVVPZ3Z1U3hWdnZtaFkwZFJKNl9obElERU9HN3ROV0s4MkdRcUg5Y0dQUg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Jim Cramer says tech remains the market's best place to find big winners despite recent struggles - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbEx3TEs2NTNWeUcxdHNHaWRiUU9BT2Q2cFNQZGVKRThtd3c2dEplSlg5QThuQk1WR1lpVFRlbDBMUDM1ajFvbFZyMjZoWjNQQmo2SU1TMTcyQmlrZTF1UHFfcHVpYXpWSzE1empBODlEQlRsRmRvQ1lwYkdUOUJxazdnNFhKaWPSAYwBQVVfeXFMTXB1M0pab3hrcnU5cndjaHhSTDcySHhsejlmbkdLTGQ1WWVvNTBzcGM2OVRKeVB4ZWNXaVRmbnROay0yX2R1WGNxNWx2MHJpVk53WUZuRlVkQk0xWFN5c1dlVVl3QlpYLVh5b2pJajhOYWwyLVpuOWMwZmZrQkVxYXRUNHpHc3ZLZ1N1YXo?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Q3 Stock Market Outlook: Investors Face Balanced Risks, Selective Opportunities - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNDd6dmFCM1g2WWU0dF9ETktIbTJkcVpXdDZVMmkyZ0Q0T0hxT1lBUk5jZkV1Sl9ua3pZRFdsanRkYmh2WWpaZENMY191RG93ci1rcWN5WlJneDYwVlAzMk1McDRZTDZ5Q0M3d0tYcktNVUhBZ0t6X1ZwMnZSaTk0dEU3TEV0T2Raem9IYnBleS1YdzIxTVVFaEo1b0UySF9seTJZVjhSOVdVQklTQ3J1WGU4T1ctWFc4ck1ZVDhmNA?oc=5",
+        "press": "Morningstar"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "With EPS Growth And More, YG-1 (KOSDAQ:019210) Makes An Interesting Case - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFFlVUw1ZXJXUWpDaHQ0bm1FVXFmeUNNV3Z6ak4zZ1VmWjkxYVY4Z0hmb0c5U1JZMGN4OG05NjlXNUdHcDA2eFZEVm5zVlVqV3h3RmF4dGpvX0lCajZZOWJiLVNienc2UTlpTGVDVWI0VXdBWHBtOTVjXzJRWmFEUGREUjQwME9wd2ZaQzRUT3ZmYjIzV0V0T0lqOXh4ZERuYU5jdHREWHFyelVLZ2xtV1VfNFYtVlJJQzFabEJuTDduYlFsNFhCWmlxNVNjNVhScGFjVdIB2gFBVV95cUxOMUdveUlSZ05neXFpUU5hT1RrOWZDTUpwQmhpMmFjXzRNSVNrY3M1SHFkNGw0amZTbFZPanoyX2x4cFd5MFB0U2xhUlhUQlZYQWp1R1ViMFNiSTJIX3YtMUsyWXI2YWRNVTIxUzVRd1gwOFJpdUJ4am5uQWI0akwtMmxiYzdRMThiTDU4OWRxQlpxVm9HWXRsNWRHRTZIQ1NCbFMwMTFiZ1dKVnRlaV9OMTJ0UlpqWnEyNE1DR3ExVnJjbEl6TjFEam96MWtkUnZoN2U4T3RYTFRaQQ?oc=5",
+        "press": "simplywall.st"
+      }
+    ],
+    "naver": [
+      {
+        "title": "[마켓프리뷰] 간밤 뉴욕증시 하락 속 반도체株 급락세…호르무즈 리스크...",
+        "url": "https://www.ajunews.com/view/20260714082833598",
+        "press": "www.ajunews.com"
+      },
+      {
+        "title": "[아침밥] DB증권 \"키움증권 리테일 점유율 하락에 목표가 하향\"",
+        "url": "https://n.news.naver.com/mnews/article/417/0001151507?sid=101",
+        "press": "www.sidae.com"
+      },
+      {
+        "title": "트럼프 ‘호르무즈 통행료’ 예고에 뉴욕증시 하락…나스닥 1.6%↓ [투자...",
+        "url": "https://n.news.naver.com/mnews/article/016/0002669774?sid=101",
+        "press": "biz.heraldcorp.com"
+      },
+      {
+        "title": "레메디, 코스닥 상장 첫날 6.28% 상승 마감…장중 3만4650원 터치",
+        "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=604673",
+        "press": "www.mdtoday.co.kr"
+      },
+      {
+        "title": "이에이트, 국책과제로 기술 검증…대기업 프로젝트 확장 나선다",
+        "url": "https://dealsite.co.kr/articles/165154",
+        "press": "dealsite.co.kr"
+      },
+      {
+        "title": "오에스피, 23억 규모 유상증자 대금 납입 완료",
+        "url": "https://n.news.naver.com/mnews/article/003/0014064538?sid=101",
+        "press": "www.newsis.com"
+      },
+      {
+        "title": "\"호재가 악재로 선회\" 삼성전자·SK하닉, 프리마켓서 또 4%대 하락",
+        "url": "https://n.news.naver.com/mnews/article/003/0014064537?sid=101",
+        "press": "www.newsis.com"
+      },
+      {
+        "title": "신세계 사우스시티, 참여 멤버십 '스포츠크루' 선보여",
+        "url": "https://n.news.naver.com/mnews/article/374/0000521525?sid=101",
+        "press": "biz.sbs.co.kr"
+      },
+      {
+        "title": "[증시 포인트] 변동성 여전히 클 듯...반도체주 흐름 유의",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141480",
+        "press": "www.opinionnews.co.kr"
+      },
+      {
+        "title": "[마켓프리뷰] 간밤 뉴욕증시 하락 속 반도체株 급락세…호르무즈 리스크...",
+        "url": "https://www.ajunews.com/view/20260714082833598",
+        "press": "www.ajunews.com"
+      },
+      {
+        "title": "[뉴욕증시] 美 호르무즈 해협 재봉쇄에 하락…나스닥 1.6%↓",
+        "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5040539",
+        "press": "www.shinailbo.co.kr"
+      },
+      {
+        "title": "유가·금리 불안으로 얼어붙은 미국 증시…프리마켓도 하락세[장전시황...",
+        "url": "https://www.ekn.kr/web/view.php?key=20260714020272181",
+        "press": "www.ekn.kr"
+      }
+    ],
+    "telegram": []
+  }
+}

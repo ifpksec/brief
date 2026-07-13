@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "generated_at": "2026-07-13T23:36:35.251820+00:00",
+    "run_date": "20260714"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 28,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 101.28,
+      "change": 0.3,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.61,
+      "change": 0.88,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 17.16,
+      "change": 14.17,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7515.34,
+      "change": -0.79,
+      "insight": "전일종가 7575.39 / 변동 -60.0503",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29264.1,
+      "change": -1.88,
+      "insight": "전일종가 29825.11 / 변동 -561.0059",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 52498.64,
+      "change": -0.26,
+      "insight": "전일종가 52637.01 / 변동 -138.3711",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1497.17,
+      "change": -0.09,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 162.41,
+      "change": 0.33,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "KOSPI 프로그램 6,718억 순매수 유입",
+      "tag": "Bullish"
+    },
+    {
+      "point": "원/달러 환율 1,497원선 육박하며 환율 리스크 고조",
+      "tag": "Bearish"
+    },
+    {
+      "point": "삼성전자 및 SK하이닉스 프리마켓 추가 하락 우려",
+      "tag": "Bearish"
+    },
+    {
+      "point": "중동 호르무즈 해협 지정학적 긴장감 국내 증시 압박",
+      "tag": "Bearish"
+    },
+    {
+      "point": "EWY 한국 ETF 8.45% 급락하며 외인 수급 경고등",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 28 기록하며 시장 심리 극도의 위축",
+      "tag": "Bearish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "나스닥 1.88% 급락, 반도체 섹터 중심 매도세",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미국 10년물 국채금리 4.61%로 상승하며 자산 압박",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VIX 변동성 지수 14% 폭등하며 위험 회피 강화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "트럼프의 호르무즈 통행료 예고에 지정학적 리스크 확산",
+      "tag": "Bearish"
+    },
+    {
+      "point": "QQQ PCR 2.22 기록하며 하방 압력 및 숏감마 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "국제 유가 급등에 따른 인플레이션 재점화 우려",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "매크로·금리",
+      "title": "[마켓프리뷰] 뉴욕증시 하락 속 반도체株 급락세…호르무즈 리스크",
+      "url": "https://www.ajunews.com/view/20260714082833598",
+      "press": "www.ajunews.com",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "\"호재가 악재로 선회\" 삼성전자·SK하닉, 프리마켓서 또 4%대 하락",
+      "url": "https://n.news.naver.com/mnews/article/003/0014064537?sid=101",
+      "press": "www.newsis.com",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "트럼프 ‘호르무즈 통행료’ 예고에 뉴욕증시 하락…나스닥 1.6%↓",
+      "url": "https://n.news.naver.com/mnews/article/016/0002669774?sid=101",
+      "press": "biz.heraldcorp.com",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "레메디, 코스닥 상장 첫날 6.28% 상승 마감…장중 3만4650원 터치",
+      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=604673",
+      "press": "www.mdtoday.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "DB증권 \"키움증권 리테일 점유율 하락에 목표가 하향\"",
+      "url": "https://n.news.naver.com/mnews/article/417/0001151507?sid=101",
+      "press": "www.sidae.com",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "이에이트, 국책과제로 기술 검증…대기업 프로젝트 확장 나선다",
+      "url": "https://dealsite.co.kr/articles/165154",
+      "press": "dealsite.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "오에스피, 23억 규모 유상증자 대금 납입 완료",
+      "url": "https://n.news.naver.com/mnews/article/003/0014064538?sid=101",
+      "press": "www.newsis.com",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "YG-1, EPS 성장과 함께 흥미로운 투자 사례 부각",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFFlVUw1ZXJXUWpDaHQ0bm1FVXFmeUNNV3Z6ak4zZ1VmWjkxYVY4Z0hmb0c5U1JZMGN4OG05NjlXNUdHcDA2eFZEVm5zVlVqV3h3RmF4dGpvX0lCajZZOWJiLVNienc2UTlpTGVDVWI0VXdBWHBtOTVjXzJRWmFEUGREUjQwME9wd2ZaQzRUT3ZmYjIzV0V0T0lqOXh4ZERuYU5jdHREWHFyelVLZ2xtV1VfNFYtVlJJQzFabEJuTDduYlFsNFhCWmlxNVNjNVhScGFjVdIB2gFBVV95cUxOMUdveUlSZ05neXFpUU5hT1RrOWZDTUpwQmhpMmFjXzRNSVNrY3M1SHFkNGw0amZTbFZPanoyX2x4cFd5MFB0U2xhUlhUQlZYQWp1R1ViMFNiSTJIX3YtMUsyWXI2YWRNVTIxUzVRd1gwOFJpdUJ4am5uQWI0akwtMmxiYzdRMThiTDU4OWRxQlpxVm9HWXRsNWRHRTZIQ1NCbFMwMTFiZ1dKVnRlaV9OMTJ0UlpqWnEyNE1DR3ExVnJjbEl6TjFEam96MWtkUnZoN2U4T3RYTFRaQQ?oc=5",
+      "press": "simplywall.st",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "호르무즈 긴장 재점화에 유가 급등, 하이닉스 주도로 반도체주 폭락",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hbjE2R1QzOC1SMGNXSjZmMmtfSW1saHZ4aVFsS2xLbHo5Q19NRlFPYmxSMi15aUpVMU0zRVVCSmRWaHhVZWo0ZkpwcFNEYzBkRGc0ZnRkdkZfN1dYb1JYTGhxM3BpckZtVnlIcXpsNzdWYndHcHZB0gF8QVVfeXFMTXBLQkFrUDJYZlN4d2VoRlpYVXZiV1FVNWJOMElLc0puT1JiUjJqc2g1WDY4NGNrR1I3bDBtWVhlQWJ5MldlSDV5TGdsYXd4Szk2UzIyZm5JbmxqSXV2YkZ6ekRGQW5EMGNJVmt5OThIdjBBX3NVSHlRcFlMdA?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "트럼프, 호르무즈 해협 보호 대가로 20% 수수료 제안... 실현 가능성은?",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zaXFrRDl3bmZfNUZIemZaeUs5TmpnVG9MTVBNTUhYWHFPWEN6QkFESnJXTUM0U2tBRmVaMVJqbk04b0FhR0d1bUZkaFFtMW1GRXZtaHJKRmV2ZDVKOGlCczRMRVJYQQ?oc=5",
+      "press": "CNN",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "투자자들의 대출 급증이 주식 시장에 보내는 경고 신호",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNzJJVnZ0X1hKY2dSOGlWMC1NSkhiUU5va1htR1F1TFVDbUVKekJraUdFN1hublRkbUQwVkIzMmJYQXNId25mcGlxalExZndMVF9JZHdfeERicmRkN0FiT2hEQXRmaUNrM0NPUVM2RjFhT2hmX25HczdCeXdrajRJeFhfc0I4d1BJWVNmZjc1aEc2b2NXSkt0Mm9lU1VJY2NEbWtpMGdXUEZBX1RwRWx2eThwTUUyeGc?oc=5",
+      "press": "MarketWatch",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미국의 봉쇄 조치로 유가 폭등하며 증시와 국채 가격 동반 하락",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWl8yS2NtYVlVSmNJenhDOW1VU3JBbVpDd1hnS0lfR1ZCdFp1NVZEbnZrbmNuNEJpVWxROFlFNTJNMHBLOGd5T0dQZ2xJLS1VY0xxY3R4Qi1qUDBHRjBNSTNlMlNJeEJEdnhCb1hCNThIZ0J2bHZBOGpqYi1IX0xzbmE2MjJ0b3FqMGszWDRMOVBIdEtsUTJ2VEZqa0dGNmkyZEZVMjRyMEF2Q0NSdGsxLWRDUzc5a3FXYjFVbWkzeHBBdmVNcE8xSmtyQTBsaV9GcTNMeVhn?oc=5",
+      "press": "Investor's Business Daily",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "짐 크레이머: 최근의 부진에도 불구하고 기술주는 여전히 큰 승자를 찾을 곳",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbEx3TEs2NTNViUcxdHNHaWRiUU9BT2Q2cFNQZGVKRThtd3c2dEplSlg5QThuQk1WR1lpVFRlbDBMUDM1ajFvbFZyMjZoWjNQQmo2SU1TMTcyQmlrZTF1UHFfcHVpYXpWSzE1empBODlEQlRsRmRvQ1lwYkdUOUJxazdnNFhKaWPSAYwBQVVfeXFMTXB1M0pab3hrcnU5cndjaHhSTDcySHhsejlmbkdLTGQ1WWVvNTBzcGM2OVRKeVB4ZWNXaVRmbnROay0yX2R1WGNxNWx2MHJpVk53WUZuRlVkQk0xWFN5c1dlVVl3QlpYLVh5b2pJajhOYWwyLVpuOWMwZmZrQkVxYXRUNHpHc3ZLZ1N1YXo?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "중동 긴장 고조로 야간 선물 변동... 투자자들은 인플레이션 데이터 대기 중",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1saVBLdXJKemNTSVBfSE5xZ1ZOOUF3WVBSLWUyVnlOM0x1VlhRazExTUxLR19KdnpOV1plX1RRdHNBZkw1VUd0RTgtS3lPQWRkMkdjWlhUbnRsd25pT1k5Zkk5eXVleXRnQ0pRWlZaV2J5UmF2SUpR0gF8QVVfeXFMUC1tNFQ3UWRybUpCSkZCVHZ2bHdTZkk2ZHZGM05mUXRlU1BpblF0NDJlVGxPNERrbTFPTXBSUEV6Wkt0czlwLVI0S2lNZjEySlVDeVVPZ3Z1U3hWdnZtaFkwZFJKNl9obElERU9HN3ROV0s4MkdRcUg5Y0dQUg?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    }
+  ]
+}
