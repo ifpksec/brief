@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "generated_at": "2026-07-14T23:37:18.963490+00:00",
+    "run_date": "20260715"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 22,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 100.94,
+      "change": -0.33,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.59,
+      "change": -0.52,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 16.5,
+      "change": -3.85,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7543.59,
+      "change": 0.38,
+      "insight": "전일종가 7515.34 / 변동 +28.2500",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29586.29,
+      "change": 1.1,
+      "insight": "전일종가 29264.10 / 변동 +322.1875",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 52508.27,
+      "change": 0.02,
+      "insight": "전일종가 52498.64 / 변동 +9.6289",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1487.3,
+      "change": -0.69,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 162.18,
+      "change": -0.15,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "SK하이닉스 ADR 27% 폭등으로 반도체주 강한 반등 기대",
+      "tag": "Bullish"
+    },
+    {
+      "point": "고객예탁금 3.4조 원 증가하며 증시 대기 자금 유입세 확인",
+      "tag": "Bullish"
+    },
+    {
+      "point": "코스피 프로그램 매수 유입 및 원/달러 환율 하락 안정세",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 22점 극단적 공포 단계로 역발상 매수 유효",
+      "tag": "Bullish"
+    },
+    {
+      "point": "코스닥 액티브 ETF 하락에 따른 연기금 손절 물량 경계",
+      "tag": "Bearish"
+    },
+    {
+      "point": "레버리지 ETF 급락으로 인한 2030 투자자 파산 우려 확산",
+      "tag": "Bearish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "물가 둔화 안도감에 나스닥 1.1% 및 S&P 500 동반 상승",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미국 10년물 국채 금리 및 달러 인덱스 하락으로 유동성 개선",
+      "tag": "Bullish"
+    },
+    {
+      "point": "VIX 지수 16.50으로 하락하며 시장 변동성 위험 일부 해소",
+      "tag": "Bullish"
+    },
+    {
+      "point": "S&P 500 종목의 63%가 50일 이평선 상회하며 시장 폭 확대",
+      "tag": "Bullish"
+    },
+    {
+      "point": "하이일드 및 투자등급 스프레드 안정으로 신용 위험 제한적",
+      "tag": "Bullish"
+    },
+    {
+      "point": "옵션 시장 딜러 숏감마 상태로 만기 전후 변동성 확대 주의",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "SK하이닉스 ADR, AI 낙관론에 뉴욕서 27% 폭등",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ3ljZng4Z1pzZG1fODY5emdaQmRLcVB6elg1QnNCYVRWNkdfdjd1c2ItbjBUeURCV2lxM2owX1ByNnlBdFZ1MDIwQlI0YzdfbmQ1NE16R0t0RWVrQVpkTnRpaUFNYWVfRDVodHhYY2xBRzY4OXlnZGlTcVRjN3l4b2J0U2JKa0drSDhtdXNR?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "美 물가 안도감에 반도체주 반등…국내 증시 상승 기대",
+      "url": "https://www.ekn.kr/web/view.php?key=20260715029212594",
+      "press": "에너지경제",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "뉴욕發 '하닉 급반등', 반등 신호탄? 코스피 공포 구간 통과",
+      "url": "https://www.hidomin.com/news/articleView.html?idxno=713327",
+      "press": "경북도민일보",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "레버리지 ETF 급락, 2030 파산 계좌 62% 차지…금융당국 긴급회의",
+      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=545764",
+      "press": "오토데일리",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "SK하이닉스 ADR 폭등에 한국 본주보다 51% 비싸져",
+      "url": "https://www.etoday.co.kr/news/view/2603807",
+      "press": "이투데이",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스닥 액티브 ETF 전반적 하락에 연기금 손절매 나서",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zLVFPWWZrZlNjM3JPX2hycEFkQUlVeTVsOE1vb3A0NGVram9NckNfbXZobEpKcjVhWjE4UmpFTTQ2a0lYNVpwUlpSUjZ1eFNhLWpiQUJRc0d4Qkhna1RSSjJiREdTN3NwLWZISjl6SjNXa3BB0gF0QVVfeXFMTzMtUU9ZZmtmU2Mzck9faHJwQWRBSVV5NWw4TW9vcDQ0ZWtqb01yQ19tdmhsSkpyNWFaMThSakVNNDZrSVg1WnBSWlJSNnV4U2EtamJBQlFzR3hCSGdrVFJKMmJER1M3c3AtZkhKOXpKM1drcEE?oc=5",
+      "press": "IT조선",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "美 반도체 랠리·물가 둔화 훈풍…코스피 역대급 조정 종료 기대",
+      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=61593",
+      "press": "뉴스로드",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "개별 종목 레버리지 ETF, 한국 시장 변동성 증폭 및 개인 손실 확대",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTTVTUzQ1M21nbjFGUi1UMUZOZVhTV3JDRkNYTEI2WGZZSjZnSjhVNHVsSHM4U3V2ejZkZzVhQmdxOUU1VENFNS0yWUNWN0NmYXBkeXhlMWhLTi02TmJTYVhMeUw5cVdhSE0zU2l0cEtWb3BnTGtRb3lkN1BsMU8yetIBlAFBVV95cUxNQnJ5Z2toTlFJMlk4SU5lWUpYR0tBa29XSU12ZkphbUVEWkt0LXBWcDNmRG1TeDF5ZUVMbFVWZmVoSDRKbS1GRzBJeUZEdFpLemh0dkhzY0pMMHVRMDVQTHpVNmExV2owcmlvZE9VUmRvNmF4b1pMWHRtVEI4RTVJaWNoRUxEMXZDdmlGOHI0SS1oa1Zi?oc=5",
+      "press": "Chosunbiz",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "낮은 인플레이션 지표와 반도체주 반등에 힘입어 증시 상승 마감",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1saVBLdXJKemNTSVBfSE5xZ1ZOOUF3WVBSLWUyVnlOM0x1VlhRazExTUxLR19KdnpOV1plX1RRdHNBZkw1VUd0RTgtS3lPQWRkMkdjWlhUbnJsd25pT1k5Zkk5eXVleXRnQ0pRWlZaV2J5UmF2SUpR0gF8QVVfeXFMUC1tNFQ3UWRybUpCSkZCVHZ2bHdTZkk2ZHZGM05mUXRlU1BpblF0NDJlVGxPNERrbTFPTXBSUEV6Wkt0czlwLVI0S2lNZjEySlVDeVVPZ3Z1U3hWdnZtaFkwZFJKNl9obElERU9HN3ROV0s4MkdRcUg5Y0dQUg?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "아시아 증시, 美 소비자물가지수 둔화에 따라 미국 상승세 추종 전망",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVdOYXZybUY1TWlNaEY5cC14SUpCMkRHd0dyYlVkQVN3Q3QzVk1OWFdrakttSTZCTVg3YlhMa211NXdMRmM0aXRleG91MEwyQlpMaFRUODZleFh2WF9ua1hGa0dmTDZ6T0xWaFRfYV9DbXAwamNkbHpwR1J6enRmcC1JLUZrYWdCVkNadVpQalNnTlRfQ19JR1dmZnNCaVJjYjE3aEF3UjV0a1RmcFM2bU5IVQ?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "어플라이드 머티어리얼즈, KLA, 테라다인 주가 폭등…주요 소식 분석",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQTc5Z3lLUEREbzFPS0E0SzFYQWJvbGhvekY4c21BUFk1MnhZT1pqejV2N3JiMWIxMmRFcG0yVXFObUVZSDVfU05lbkdfbjQtdzc1aURqWklyWlJBMFpsUE1ENWtEclJXNlB5czRYZ1RsUmktWHl4VHFJMFFLN1dNM290ek1HdThXckozVnlwQ0tyLUl2LWo4bXQyZVZ5VnhLYXRteHEzOUl1Mkk?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "모닝 리포트: SK하이닉스 27% 급등, IBM 25% 급락",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNOHduZjlWeDNjelhLVG5pQWVsMkVHeWlRbjUtMGhTYm9RUjFtSkhzZHBTbmRtaEhlNzViZjJCSDFmUnU0NXFUeXI2dC1LZkxuTkUtTWl2SkpCMGJRTDBBUG85cTF2cHNRUnNOTjRxRXVncy1OMVpqQXRFcC15WmY2OFZlVXJwYVZyVThGTFVFV0pabm5lUWwyUHlKMmc5MXdjZ28zOEc1R1hLSXRUQ2hGaTl3?oc=5",
+      "press": "Moomoo",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "TSMC CEO \"경쟁 우위 상실 위험 없다\"고 강조",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVWZ1QWJBVjNSQU1nQmZtOG4wVU40WUZrbTJoMkhJNUtoQm05STRyNDlKNzViZHBKcFFHeGJPb2FxbGQtR3ZBUzFHcGRpdWdfUU9rNXQtNFRTaFdhSVllYWFTVEp5c0dEZW9POTF4cXBsZVM5dVF1R0QwZHpmcHBMQksxVzdxV1BpMEFFNndsSEdJYkhhVlh0UHhCQ3VTS0VYNWlzb3ZWb3h3QkxPRWpFNjd6YjNVdw?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "골드만삭스 주가 정점 기록, IBD 50 등 주요 추천 종목 리스트 합류",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6LUM1MlByZTVaU1ZiblhiNzNWa2lPNHduM1NoSjdIT3luWE43alB5bEc2VTNZUnhUemlBS1VtUGI1UDdPSGs5Z3BOT05DRGhxS2dXWVR0WXgzcF9zRzdHSF9IVHk4cHhfNGNXOTFIZVIySm5OaGF4LUVLWVExQQ?oc=5",
+      "press": "Investor's Business Daily",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "씨티그룹 주가 하락의 배경과 시장 영향 분석",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ2dubUNqRmZQclNsVzZxUzJwWFN2T280cHg1a0gyQVJtczJqOGI5TmRXZzhfbHhNbDZpX3NXLWtfdGI3eWJOWU83RUs0UFZjMzBOVENDVEFmTjBqUFJPTEo2SmFMMV9hZ2ZDX0tCbThad0FBS0tXZENHZm1qM2N0ZG9OSTNUWUpLU1J0cGFEYnE5SUh1anhpN3Bn?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    }
+  ]
+}
