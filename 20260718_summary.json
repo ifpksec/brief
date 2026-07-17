@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "generated_at": "2026-07-17T23:37:06.090061+00:00",
+    "run_date": "20260718"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 27,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 100.75,
+      "change": 0.02,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.54,
+      "change": -0.61,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 18.77,
+      "change": 12.19,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7457.69,
+      "change": -1.01,
+      "insight": "전일종가 7533.77 / 변동 -76.0801",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 28592.66,
+      "change": -1.49,
+      "insight": "전일종가 29025.77 / 변동 -433.1113",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 52146.42,
+      "change": -0.77,
+      "insight": "전일종가 52552.97 / 변동 -406.5469",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1487.46,
+      "change": 0.08,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 162.35,
+      "change": 0.17,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "SK하이닉스 ADR 전환 개시, 25% 프리미엄 축소 여부 주목",
+      "tag": "Neutral"
+    },
+    {
+      "point": "반도체 대형주 하락에 따른 중소형주로의 자금 순환매 관찰",
+      "tag": "Bullish"
+    },
+    {
+      "point": "인버스 ETF 수익률 40% 돌파하며 하락장 헤지 수요 급증",
+      "tag": "Bearish"
+    },
+    {
+      "point": "코스피 대비 코스닥 상대적 약세 지속되며 시장 양극화 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "원/달러 환율 1,487원대 급등하며 외국인 수급 부담 가중",
+      "tag": "Bearish"
+    },
+    {
+      "point": "MSCI 한국 ETF(EWY) 거래량 동반하며 0.5% 하락 마감",
+      "tag": "Bearish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "나스닥 1.49% 급락, 반도체 섹터 중심의 차익실현 매물 출회",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VIX 변동성지수 12% 폭등하며 시장 내 극심한 공포 확산",
+      "tag": "Bearish"
+    },
+    {
+      "point": "옵션 딜러 숏감마 국면 진입, 변동성 확대 및 하방 압력 유의",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 27점 기록, 과매도에 따른 저점 매수 관심 구간",
+      "tag": "Bullish"
+    },
+    {
+      "point": "대형주 부진에도 평균적 주식들의 견고함은 시장 건강성 시사",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미 10년물 금리 하락에도 위험자산 회피 심리가 시장 압도",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "SK하이닉스 본주·ADR 상호전환 29일 개시…프리미엄 축소될까",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425632",
+      "press": "news.einfomax.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "반도체 쇼크에 대형주 휘청… 중소형주로 자금 쏠림",
+      "url": "https://www.tokenpost.kr/news/market/378955",
+      "press": "www.tokenpost.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "주식 떨어질수록 돈 번다…인버스 ETF 수익률 40% 넘긴 비결",
+      "url": "https://www.kizmom.com/news/articleView.html?idxno=111608",
+      "press": "www.kizmom.com",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 오를 때 코스닥 '뒷걸음'…나흘에 한 번꼴",
+      "url": "https://n.news.naver.com/mnews/article/215/0001259099?sid=101",
+      "press": "www.wowtv.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "지금이 인텔리안테크 매수를 고려해야 할 때인가?",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX1k0UzREQXVXc0pQNjVBTElTS05jdjRjM2Z2ZmhvSXFwWVV1UmdWaHNYbkJSbDJPOTg5Uk9kNFkyTVp6Tm0taWhOMXJoY0I2YUMzNEJKajRKbkRVMTFyUXpSTjd5aXBlWEJhbEV1Y29JRnp1MEtlU0RtNklJSUZpWWxEcnVZS2FKR2E1b1VrNElpQVRoTzNhNzhvdzhsY1dVSEs3NEhjZDdfSW0wdV9BTFUtNGVLZkxTUEZyeS1yaHpEcTBFbXdKSnVlY3lINDRBdUFNYWN2RmVFSmdZZWVLb9IB5gFBVV95cUxNQUxOal9tV1RTbDluTWRpMWFKeFNPdl9TRXk2eTR1VWFFaHlLMV8wRHpLUjNSUlhNQy03R2hkcHA1TXIzdldoV1g2Qmd3ZUxmTjlGNktNUXBQbXhhcnN0LUI4LTBJZ3R3bkZ2SG9mNEJDYU41Q0EwMDNoZkFDdlFJQVNHaUFfS0IwWEdJRTFTMmJVNjh2MElWVlhRWFU0Vk5Cd1RzVHJNU0h5YjV0WkUzbzRmT3lmNW9vaW5VWHlMTEtJa2p6a1NRa2h2dEVvQTVMenFHU09YRE1GLURZbktja3V0RDd3dw?oc=5",
+      "press": "simplywall.st",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "전성익 신한은행 본부장 '슈퍼쏠'로 금융 통합, 포인트는...",
+      "url": "https://www.newspim.com/news/view/20260716000515",
+      "press": "www.newspim.com",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "나스닥, 반도체주 저점 반등에도 불구하고 하락 주도",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHlaX3ROeTUxeFRlTUYzTmVkYlRLRnEzU2VRSmJOWHQ1NnF0eTBzb3dCMnFFUzBHenRVekVuUzRwbTlnN1lCUDhXdXdwWmgzZWpPVnRYS2tRUHFjVUdCUjhLSFc0UUN6OVBWM0I1RkNkTkgxRXJkRG5SNEJWamdYQ3ZwMWJESFJsSXh2LVVJR3RYeFltX2lGdkhKSU9QRzNTWVBHMU1LcU4?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "S&P 500 하락 마감, 나스닥 1% 급락하며 반도체주 타격",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OcFRYM3dPUXBUbzdHcG0tOHVLN1pXM1dVQzRnRlZWZ1NtWVBUaFlvU0Jmd2VJdlRaekxORUJrYUZvYkt6RlZXUVoxSkFMMHc3emctMjhHQ2RCTHpsUmVKc2ZrX2d3cU40cHZ0UFNtNEVaNW1DbWs40gF8QVVfeXFMTVhCWnMzaVFEWWlYOVpPNTZUZWctUEY2Q0taN0ZMQ0ZFQTEwX2tNbE5faXlrb2pidkVQWTdsLWZ5eUhVVUlhN3kzSUR3ZUZZOFM0c3RrdUo0eDFuLTNTdC1xZkFvdFlkc2VQVjRSWTdBTDRPZlozS2NYYU9NWg?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "반도체주 하락폭 축소, 투자자들 저가 매수 기회로 활용",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObS1vcU02eVVSdTF1WmowdzZaVGt1VG5CQVNGaXIxZlRhOExJTDVxMDl6YUZ1QUR5OFJfcDk5eGNWd25kSmo1VmFMdm1uUTl6NzVvREhUSUN5bS1SY3V1aWxMdUpNSXZFVmJfSFBhVHJJUXBnelFIcmNIVHdWZzd2bjltb1VjcWp3eVVnN2xpaWFpdTZHbmNRSWxVX2tmaHdHV0sxbmtuTmJINFN6M1JWM3U2LUE?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "반도체 고전 속 평균 주식들의 선전, 건강한 시장의 신호",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZkFCLXlkYm83YnhNTVdnb3daSW9XRzhWRGt0RWhaRm55VDFBbUwxMWFjVG5Ic3Brc2hMMS1YM2o5YzdKQWxuc0l0a1FsUDVQdXZxYU5EaUlFOW90XzlDS3ZRd3g1ZkpsQnRINlVzenVIZV9ya3F2RGlXN1g3RC1MeVlmeGd1S1NqSXRmbnhsVkc4SFRiOUtqWVNFWTBhLTJjOTdXcXJmSURTMDN2WHE4a09hU2I0ZDZfMXpjNXo1bDZGWGlMMXhkS2JhRWZfTjFqWTVR?oc=5",
+      "press": "MarketWatch",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "유아이패스, 리테일 AI 파트너십 발표에 힘입어 주가 상승",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMF9RUXRDZ01qWk9rbWdEd0NXVVlNM25BTmp5QUExZEVZZ2pnOXBQUm5rLTFLU0doaTVaR0NKRjFkVnRrSHppRFpwSXAxQVFHYVpKM3FWZEhhMXNnU013bERYdmE3VmU5bzR4WnZyMlVWTmhlaFJqZGlkSTBFbzNFN1ZTcGd1dE9MSmN3Nl9BTTg2M2Q4RWc?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "텍사스 데이터센터 기업, 상장 후 32억 달러 가치 평가",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLU1zeEIwRXpSYlBUYkR6Z1I4dDVITmNjMGxxdWpzeVBYMXZVU2hpMExfTWRDLXdXaVF1emZuMGZHN3o3Sk1DRmI2N1llQzg4Z3BMSXZCMjN3Y3luX1U2UWxTWTZmVzdXTWtBUkNzSmlEaDVEWmxtS2kzakN2akJzSWprX1R4dkh2YjNGcWM5Slp6Q09Kd2dMRlJzVEdQRWRPWmYwSkdzTTJ4RjJpSm1uZ1paemxIdw?oc=5",
+      "press": "Dallas News",
+      "source": "international"
+    }
+  ]
+}

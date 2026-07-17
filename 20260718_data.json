@@ -1,0 +1,328 @@
+{
+  "meta": {
+    "generated_at": "2026-07-17T23:37:06.088913+00:00",
+    "run_date": "20260718"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [
+      {
+        "title": "#1 주연테크 (+30.00%)",
+        "description": "현재가: 1,040, 거래량: 437,394"
+      },
+      {
+        "title": "#2 에넥스 (+29.95%)",
+        "description": "현재가: 2,755, 거래량: 2,603,697"
+      },
+      {
+        "title": "#3 비비안 (+29.94%)",
+        "description": "현재가: 13,800, 거래량: 76,256"
+      },
+      {
+        "title": "#4 모나리자 (+29.94%)",
+        "description": "현재가: 2,170, 거래량: 12,786,139"
+      },
+      {
+        "title": "#5 형지엘리트 (+29.86%)",
+        "description": "현재가: 735, 거래량: 3,059,119"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 8,023억원",
+        "description": "현재가: 100, 거래량: 8,070,260,750주"
+      },
+      {
+        "title": "#2 KODEX 인버스 거래대금 10,040억원",
+        "description": "현재가: 1,108, 거래량: 908,024,396주"
+      },
+      {
+        "title": "#3 SOL SK하이닉스선물단일종목인버스2X 거래대금 39,866억원",
+        "description": "현재가: 11,205, 거래량: 356,124,535주"
+      },
+      {
+        "title": "#4 KODEX SK하이닉스단일종목레버리지 거래대금 42,220억원",
+        "description": "현재가: 14,585, 거래량: 285,111,690주"
+      },
+      {
+        "title": "#5 TIGER SK하이닉스단일종목레버리지 거래대금 17,951억원",
+        "description": "현재가: 12,260, 거래량: 144,112,290주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 +986,069,779주 / 기관 +428,283,697주 / 개인 -1,390,232,392주",
+        "description": "직전 영업일(20260716) 순매수 수량"
+      },
+      {
+        "title": "KODEX 인버스 외국인 +14,022,759주 / 기관 +29,392,437주 / 개인 -42,616,818주",
+        "description": "직전 영업일(20260716) 순매수 수량"
+      },
+      {
+        "title": "SOL SK하이닉스선물단일종목인버스2X 외국인 -288,612주 / 기관 +8,279,648주 / 개인 -8,584,039주",
+        "description": "직전 영업일(20260716) 순매수 수량"
+      },
+      {
+        "title": "KODEX SK하이닉스단일종목레버리지 외국인 -2,320,462주 / 기관 -15,879,535주 / 개인 +17,829,371주",
+        "description": "직전 영업일(20260716) 순매수 수량"
+      },
+      {
+        "title": "TIGER SK하이닉스단일종목레버리지 외국인 -2,897,539주 / 기관 -7,313,409주 / 개인 +10,003,640주",
+        "description": "직전 영업일(20260716) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.75 (+0.02%)",
+        "description": "전일종가 100.73 / 변동 +0.0250"
+      },
+      {
+        "title": "미국 10년물 금리: 4.54 (-0.61%)",
+        "description": "전일종가 4.57 / 변동 -0.0280"
+      },
+      {
+        "title": "VIX 변동성지수: 18.77 (+12.19%)",
+        "description": "전일종가 16.73 / 변동 +2.0400"
+      },
+      {
+        "title": "S&P 500: 7457.69 (-1.01%)",
+        "description": "전일종가 7533.77 / 변동 -76.0801"
+      },
+      {
+        "title": "나스닥100: 28592.66 (-1.49%)",
+        "description": "전일종가 29025.77 / 변동 -433.1113"
+      },
+      {
+        "title": "다우존스: 52146.42 (-0.77%)",
+        "description": "전일종가 52552.97 / 변동 -406.5469"
+      },
+      {
+        "title": "USD/KRW: 1487.46 (+0.08%)",
+        "description": "전일종가 1486.20 / 변동 +1.2600"
+      },
+      {
+        "title": "USD/JPY: 162.35 (+0.17%)",
+        "description": "전일종가 162.07 / 변동 +0.2810"
+      },
+      {
+        "title": "코스피: 6820.60 (-6.37%)",
+        "description": "전일종가 7284.41 / 변동 -463.8101"
+      },
+      {
+        "title": "코스닥: 791.84 (-4.53%)",
+        "description": "전일종가 829.43 / 변동 -37.5900"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.148 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 2.93 | GEX -9.1B$ (만기:2026-07-17)",
+        "description": "콜OI 957,663 / 풋OI 2,807,963 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.47 | GEX -7.2B$ (만기:2026-07-17)",
+        "description": "콜OI 728,160 / 풋OI 1,068,072 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $162.54 (-0.50%)",
+        "description": "거래량 38,294,694주 (평균대비 1.3x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $746.72 (-1.02%)",
+        "description": "거래량 3,976,776주 (평균대비 1.1x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 64.8% (129/199종목)",
+        "description": "평균 MA 대비 위치: +2.0%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 27/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-06-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.2",
+        "description": "Date: 2026-06-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 332.568",
+        "description": "Date: 2026-06-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 2.1",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.57",
+        "description": "Date: 2026-07-16, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.74조달러",
+        "description": "기준일: 2026-07-15 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.35조달러",
+        "description": "기준일: 2026-07-15 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 7959.76억달러",
+        "description": "기준일: 2026-07-15 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.00억달러",
+        "description": "기준일: 2026-07-17 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 271bp (2.71%)",
+        "description": "기준일: 2026-07-16 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 78bp (0.78%)",
+        "description": "기준일: 2026-07-16 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Nasdaq leads Dow, S&P 500 lower as chip stocks bounce off lows - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVHlaX3ROeTUxeFRlTUYzTmVkYlRLRnEzU2VRSmJOWHQ1NnF0eTBzb3dCMnFFUzBHenRVekVuUzRwbTlnN1lCUDhXdXdwWmgzZWpPVnRYS2tRUHFjVUdCUjhLSFc0UUN6OVBWM0I1RkNkTkgxRXJkRG5SNEJWamdYQ3ZwMWJESFJsSXh2LVVJR3RYeFltX2lGdkhKSU9QRzNTWVBHMU1LcU4?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market Today, July 17: UiPath Gains on Retail AI Partnership - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMF9RUXRDZ01qWk9rbWdEd0NXVVlNM25BTmp5QUExZEVZZ2pnOXBQUm5rLTFLU0doaTVaR0NKRjFkVnRrSHppRFpwSXAxQVFHYVpKM3FWZEhhMXNnU013bERYdmE3VmU5bzR4WnZyMlVWTmhlaFJqZGlkSTBFbzNFN1ZTcGd1dE9MSmN3Nl9BTTg2M2Q4RWc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "North Texas data center firm valued at $3.2B after lukewarm stock market debut - Dallas News",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLU1zeEIwRXpSYlBUYkR6Z1I4dDVITmNjMGxxdWpzeVBYMXZVU2hpMExfTWRDLXdXaVF1emZuMGZHN3o3Sk1DRmI2N1llQzg4Z3BMSXZCMjN3Y3luX1U2UWxTWTZmVzdXTWtBUkNzSmlEaDVEWmxtS2kzakN2akJzSWprX1R4dkh2YjNGcWM5Slp6Q09Kd2dMRlJzVEdQRWRPWmYwSkdzTTJ4RjJpSm1uZ1paemxIdw?oc=5",
+        "press": "Dallas News"
+      },
+      {
+        "title": "S&P 500 closes lower, Nasdaq falls more than 1% as chip stocks suffer: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OcFRYM3dPUXBUbzdHcG0tOHVLN1pXM1dVQzRnRlZWZ1NtWVBUaFlvU0Jmd2VJdlRaekxORUJrYUZvYkt6RlZXUVoxSkFMMHc3emctMjhHQ2RCTHpsUmVKc2ZrX2d3cU40cHZ0UFNtNEVaNW1DbWs40gF8QVVfeXFMTVhCWnMzaVFEWWlYOVpPNTZUZWctUEY2Q0taN0ZMQ0ZFQTEwX2tNbE5faXlrb2pidkVQWTdsLWZ5eUhVVUlhN3kzSUR3ZUZZOFM0c3RrdUo0eDFuLTNTdC1xZkFvdFlkc2VQVjRSWTdBTDRPZlozS2NYYU9NWg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Taylor Farms pulls all iceberg lettuce sourced in central Mexico from U.S. market - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWU1fVTJtSDA3Z1BhVEdSaE96MmstME5pd2ZfNDZzeHVkYWJSSjhreE84aE41cTQwZWd5WDlDbndPME8yTnc2U0V1N2kwWWFNa1JVYVAtVlhJMVRkRW0wdkxLQVpFeFZyYlI3ampIRzQzclEzUGVSTV9NbThFdGtwbXdGV0FaamVRcmQxUlZDV0NMOGdyU0tuaGk1U05ZMWJzYkZZTzdPY0tUcXdrMjhVM01hWUF5cVpzdnZDcURn?oc=5",
+        "press": "The Washington Post"
+      },
+      {
+        "title": "Semiconductor stocks trim losses as investors buy the dip - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObS1vcU02eVVSdTF1WmowdzZaVGt1VG5CQVNGaXIxZlRhOExJTDVxMDl6YUZ1QUR5OFJfcDk5eGNWd25kSmo1VmFMdm1uUTl6NzVvREhUSUN5bS1SY3V1aWxMdUpNSXZFVmJfSFBhVHJJUXBnelFIcmNIVHdWZzd2bjltb1VjcWp3eVVnN2xpaWFpdTZHbmNRSWxVX2tmaHdHV0sxbmtuTmJINFN6M1JWM3U2LUE?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "The average stock is having a moment as semiconductors struggle. It’s a sign of a healthy market. - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZkFCLXlkYm83YnhNTVdnb3daSW9XRzhWRGt0RWhaRm55VDFBbUwxMWFjVG5Ic3Brc2hMMS1YM2o5YzdKQWxuc0l0a1FsUDVQdXZxYU5EaUlFOW90XzlDS3ZRd3g1ZkpsQnRINlVzenVIZV9ya3F2RGlXN1g3RC1MeVlmeGd1S1NqSXRmbnhsVkc4SFRiOUtqWVNFWTBhLTJjOTdXcXJmSURTMDN2WHE4a09hU2I0ZDZfMXpjNXo1bDZGWGlMMXhkS2JhRWZfTjFqWTVR?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "S&P 500 closes lower, Nasdaq falls more than 1% as chip stocks suffer: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9OcFRYM3dPUXBUbzdHcG0tOHVLN1pXM1dVQzRnRlZWZ1NtWVBUaFlvU0Jmd2VJdlRaekxORUJrYUZvYkt6RlZXUVoxSkFMMHc3emctMjhHQ2RCTHpsUmVKc2ZrX2d3cU40cHZ0UFNtNEVaNW1DbWs40gF8QVVfeXFMTVhCWnMzaVFEWWlYOVpPNTZUZWctUEY2Q0taN0ZMQ0ZFQTEwX2tNbE5faXlrb2pidkVQWTdsLWZ5eUhVVUlhN3kzSUR3ZUZZOFM0c3RrdUo0eDFuLTNTdC1xZkFvdFlkc2VQVjRSWTdBTDRPZlozS2NYYU9NWg?oc=5",
+        "press": "CNBC"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Is It Time To Consider Buying Intellian Technologies, Inc. (KOSDAQ:189300)? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX1k0UzREQXVXc0pQNjVBTElTS05jdjRjM2Z2ZmhvSXFwWVV1UmdWaHNYbkJSbDJPOTg5Uk9kNFkyTVp6Tm0taWhOMXJoY0I2YUMzNEJKajRKbkRVMTFyUXpSTjd5aXBlWEJhbEV1Y29JRnp1MEtlU0RtNklJSUZpWWxEcnVZS2FKR2E1b1VrNElpQVRoTzNhNzhvdzhsY1dVSEs3NEhjZDdfSW0wdV9BTFUtNGVLZkxTUEZyeS1yaHpEcTBFbXdKSnVlY3lINDRBdUFNYWN2RmVFSmdZZWVLb9IB5gFBVV95cUxNQUxOal9tV1RTbDluTWRpMWFKeFNPdl9TRXk2eTR1VWFFaHlLMV8wRHpLUjNSUlhNQy03R2hkcHA1TXIzdldoV1g2Qmd3ZUxmTjlGNktNUXBQbXhhcnN0LUI4LTBJZ3R3bkZ2SG9mNEJDYU41Q0EwMDNoZkFDdlFJQVNHaUFfS0IwWEdJRTFTMmJVNjh2MElWVlhRWFU0Vk5Cd1RzVHJNU0h5YjV0WkUzbzRmT3lmNW9vaW5VWHlMTEtJa2p6a1NRa2h2dEVvQTVMenFHU09YRE1GLURZbktja3V0RDd3dw?oc=5",
+        "press": "simplywall.st"
+      }
+    ],
+    "naver": [
+      {
+        "title": "주식 떨어질수록 돈 번다…인버스 ETF 수익률 40% 넘긴 비결",
+        "url": "https://www.kizmom.com/news/articleView.html?idxno=111608",
+        "press": "www.kizmom.com"
+      },
+      {
+        "title": "SK하이닉스 본주·ADR 상호전환 29일 개시…25% 프리미엄 축소될까",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425632",
+        "press": "news.einfomax.co.kr"
+      },
+      {
+        "title": "코스피 오를 때 코스닥 '뒷걸음'…나흘에 한 번꼴",
+        "url": "https://n.news.naver.com/mnews/article/215/0001259099?sid=101",
+        "press": "www.wowtv.co.kr"
+      },
+      {
+        "title": "주식 떨어질수록 돈 번다…인버스 ETF 수익률 40% 넘긴 비결",
+        "url": "https://www.kizmom.com/news/articleView.html?idxno=111608",
+        "press": "www.kizmom.com"
+      },
+      {
+        "title": "코스피 오를 때 코스닥 '뒷걸음'…나흘에 한 번꼴",
+        "url": "https://n.news.naver.com/mnews/article/215/0001259099?sid=101",
+        "press": "www.wowtv.co.kr"
+      },
+      {
+        "title": "반도체 쇼크에 대형주 휘청… 중소형주로 자금 쏠림",
+        "url": "https://www.tokenpost.kr/news/market/378955",
+        "press": "www.tokenpost.kr"
+      },
+      {
+        "title": "[뱅커스토리] 전성익 신한은행 본부장 \"'슈퍼쏠'로 금융 통합, 포인트는...",
+        "url": "https://www.newspim.com/news/view/20260716000515",
+        "press": "www.newspim.com"
+      },
+      {
+        "title": "주식 떨어질수록 돈 번다…인버스 ETF 수익률 40% 넘긴 비결",
+        "url": "https://www.kizmom.com/news/articleView.html?idxno=111608",
+        "press": "www.kizmom.com"
+      },
+      {
+        "title": "코스피 오를 때 코스닥 '뒷걸음'…나흘에 한 번꼴",
+        "url": "https://n.news.naver.com/mnews/article/215/0001259099?sid=101",
+        "press": "www.wowtv.co.kr"
+      },
+      {
+        "title": "주식 떨어질수록 돈 번다…인버스 ETF 수익률 40% 넘긴 비결",
+        "url": "https://www.kizmom.com/news/articleView.html?idxno=111608",
+        "press": "www.kizmom.com"
+      },
+      {
+        "title": "[오늘의 글로벌마켓] 뉴욕증시, 반도체주 중심 하락세...필리지수 약세...",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141696",
+        "press": "www.opinionnews.co.kr"
+      },
+      {
+        "title": "고점 찍고 38% 밀린 SK하이닉스...최태원 “시간 두면 우상향”",
+        "url": "https://n.news.naver.com/mnews/article/123/0002386756?sid=004",
+        "press": "www.joseilbo.com"
+      }
+    ],
+    "telegram": []
+  }
+}
