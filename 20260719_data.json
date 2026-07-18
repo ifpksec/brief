@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "generated_at": "2026-07-18T23:37:03.604229+00:00",
+    "run_date": "20260719"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [
+      {
+        "title": "#1 주연테크 (+30.00%)",
+        "description": "현재가: 1,040, 거래량: 437,394"
+      },
+      {
+        "title": "#2 에넥스 (+29.95%)",
+        "description": "현재가: 2,755, 거래량: 2,603,697"
+      },
+      {
+        "title": "#3 비비안 (+29.94%)",
+        "description": "현재가: 13,800, 거래량: 76,256"
+      },
+      {
+        "title": "#4 모나리자 (+29.94%)",
+        "description": "현재가: 2,170, 거래량: 12,786,139"
+      },
+      {
+        "title": "#5 형지엘리트 (+29.86%)",
+        "description": "현재가: 735, 거래량: 3,059,119"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 8,023억원",
+        "description": "현재가: 100, 거래량: 8,070,260,750주"
+      },
+      {
+        "title": "#2 KODEX 인버스 거래대금 10,040억원",
+        "description": "현재가: 1,108, 거래량: 908,024,396주"
+      },
+      {
+        "title": "#3 SOL SK하이닉스선물단일종목인버스2X 거래대금 39,866억원",
+        "description": "현재가: 11,205, 거래량: 356,124,535주"
+      },
+      {
+        "title": "#4 KODEX SK하이닉스단일종목레버리지 거래대금 42,220억원",
+        "description": "현재가: 14,585, 거래량: 285,111,690주"
+      },
+      {
+        "title": "#5 TIGER SK하이닉스단일종목레버리지 거래대금 17,951억원",
+        "description": "현재가: 12,260, 거래량: 144,112,290주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 +986,069,779주 / 기관 +428,283,697주 / 개인 -1,390,232,392주",
+        "description": "직전 영업일(20260716) 순매수 수량"
+      },
+      {
+        "title": "KODEX 인버스 외국인 +14,022,759주 / 기관 +29,392,437주 / 개인 -42,616,818주",
+        "description": "직전 영업일(20260716) 순매수 수량"
+      },
+      {
+        "title": "SOL SK하이닉스선물단일종목인버스2X 외국인 -288,612주 / 기관 +8,279,648주 / 개인 -8,584,039주",
+        "description": "직전 영업일(20260716) 순매수 수량"
+      },
+      {
+        "title": "KODEX SK하이닉스단일종목레버리지 외국인 -2,320,462주 / 기관 -15,879,535주 / 개인 +17,829,371주",
+        "description": "직전 영업일(20260716) 순매수 수량"
+      },
+      {
+        "title": "TIGER SK하이닉스단일종목레버리지 외국인 -2,897,539주 / 기관 -7,313,409주 / 개인 +10,003,640주",
+        "description": "직전 영업일(20260716) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.75 (+0.02%)",
+        "description": "전일종가 100.73 / 변동 +0.0200"
+      },
+      {
+        "title": "미국 10년물 금리: 4.54 (-0.61%)",
+        "description": "전일종가 4.57 / 변동 -0.0280"
+      },
+      {
+        "title": "VIX 변동성지수: 18.77 (+12.19%)",
+        "description": "전일종가 16.73 / 변동 +2.0400"
+      },
+      {
+        "title": "S&P 500: 7457.69 (-1.01%)",
+        "description": "전일종가 7533.77 / 변동 -76.0801"
+      },
+      {
+        "title": "나스닥100: 28592.66 (-1.49%)",
+        "description": "전일종가 29025.77 / 변동 -433.1094"
+      },
+      {
+        "title": "다우존스: 52146.42 (-0.77%)",
+        "description": "전일종가 52552.97 / 변동 -406.5469"
+      },
+      {
+        "title": "USD/KRW: 1487.46 (+0.08%)",
+        "description": "전일종가 1486.20 / 변동 +1.2600"
+      },
+      {
+        "title": "USD/JPY: 162.35 (+0.17%)",
+        "description": "전일종가 162.07 / 변동 +0.2810"
+      },
+      {
+        "title": "코스피: 6820.60 (-6.37%)",
+        "description": "전일종가 7284.41 / 변동 -463.8101"
+      },
+      {
+        "title": "코스닥: 791.84 (-4.53%)",
+        "description": "전일종가 829.43 / 변동 -37.5900"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.148 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.09 | GEX -1.9B$ (만기:2026-07-20)",
+        "description": "콜OI 126,134 / 풋OI 137,238 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.77 | GEX -0.7B$ (만기:2026-07-20)",
+        "description": "콜OI 55,719 / 풋OI 98,513 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $162.54 (-0.50%)",
+        "description": "거래량 38,323,600주 (평균대비 1.3x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $746.72 (-1.02%)",
+        "description": "거래량 7,602,000주 (평균대비 2.1x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 64.8% (129/199종목)",
+        "description": "평균 MA 대비 위치: +2.0%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 25/100 (Extreme Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-06-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.2",
+        "description": "Date: 2026-06-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 332.568",
+        "description": "Date: 2026-06-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 2.1",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.57",
+        "description": "Date: 2026-07-16, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.74조달러",
+        "description": "기준일: 2026-07-15 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.35조달러",
+        "description": "기준일: 2026-07-15 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 7959.76억달러",
+        "description": "기준일: 2026-07-15 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.00억달러",
+        "description": "기준일: 2026-07-17 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 271bp (2.71%)",
+        "description": "기준일: 2026-07-16 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 78bp (0.78%)",
+        "description": "기준일: 2026-07-16 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "A massive margin call and 'push-button liquidity' torched stocks, but they're poised to rebound - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ09iZk5rRi1COHhyWWpwX09RMDQxVGVacWk4b0k5V0N6TGk3T1ZKaVlEeGtNRm14Y2FENEpZUTZULXpLYUtTRlc2YW9Uelg2c2NJTlpTTWQ3MzNHUzlCaVpvbU12bk53VDEtc1BlM1Z2OHh1OFQxbzI0d0hrYkZ3d2M2WFpDLUJxOFctblB1V2RxNjdQN2JhZw?oc=5",
+        "press": "Fortune"
+      },
+      {
+        "title": "Taylor Farms recalls iceberg lettuce in 27 states due to cyclosporiasis outbreak - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS1U1ZE11RWtuRV9PZGFzNWtKRW5ud0VsM1ZpenNNWGVuWVBnU0VRV2czc2h4ZEhoRzdHWS1vZ2kxa2NqNUVfd1NueWUwbklkazhZd1draWQ0QUpKa21fTmdVdEdVMnpRMnJJcWFNcTRRS2tCNXBkb25mS2FrOUtvV1FZV1Y4Mk9tVGRjcGhfT1hEazVaZUxfaE9PbTd3VEtNemJYbnhZTmRTaGQ1OXJOZFNSSGZJbXh30gG-AUFVX3lxTFBYajl5Wl8tWmdGa2Zqa09GYVM5dDRaMkFFSDNWd3F3MEVEQTNLam9ZdXZIRTRnODZDS19Od1NsZVhOSDVlR1Rtc0lUUjhkTHlPNGprYVVVcXItVlo3SF9zQndQNEF0aDhVYnY3NHRZQkdTRW5wNUcwcmdaaTc1M2RGSE8tSUV2Q29kWnE1aDBCMjBLWWVYUk9EclI2MzNpMkd0THZBNExZdzBGdXI1Q1VjbE1VaWtHYVg5REtoQ3c?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Taylor Farms launches recall in 27 states after iceberg lettuce tied to outbreak - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWU1fVTJtSDA3Z1BhVEdSaE96MmstME5pd2ZfNDZzeHVkYWJSSjhreE84aE41cTQwZWd5WDlDbndPME8yTnc2U0V1N2kwWWFNa1JVYVAtVlhJMVRkRW0wdkxLQVpFeFZyYlI3ampIRzQzclEzUGVSTV9NbThFdGtwbXdGV0FaamVRcmQxUlZDV0NMOGdyU0tuaGk1U05ZMWJzYkZZTzdPY0tUcXdrMjhVM01hWUF5cVpzdnZDcURn?oc=5",
+        "press": "The Washington Post"
+      },
+      {
+        "title": "World Fristam Powder Blending - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPXzJYU3BVZmNUMnRyQWtvU0NvWFRqRzU2OVhkSWdOVzFBTmtSc3lOQmo0U01SYzc2SGdLQWhCVlY1MkFnbVF5clI4YVR1TWdQX2hBTkNlemtKc3JkNWdTUkxWRXNIMG9SMkJrd09UajRJb0pjSjZORFFKOEhVVXpKbXloc2VVOE1ZclpHc3Btc3hfcGdNWS1OcHBWWnBJVThPUG82Y2t0eTNDQzgwbDlfOWJoQWJBbHltS3l0ZHN0YzVheDhQQzE4?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "2 Vanguard ETFs Using Momentum to Outpace the S&P 500 - The Globe and Mail",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVXRsWG1hS0lXenVVYmRnRW54TkNzbTFJNno1TXpqdXBpZmRwT3JVQTRvTHlQUkdHcVExQkJBZkpfVUdQYjFGMjNmQ0I3a2FFYlNzNUJVeDB3ZWdkOG5UQXRwWmRsa1lmU01uTy1yZ01SbUtEVF9NOU5Ec0wxWVdoWU9WN1p0OXdFUnFQd1R4TmJzU0J4b2M5bEJKc3lLMGpRR2kxWmdEdzlmZ0RDSUxISWtDMWY2Wm5uYzEtd280aE1QVk9wOTRrZXppVy02dU1Gd1hZ?oc=5",
+        "press": "The Globe and Mail"
+      },
+      {
+        "title": "Canada Silicotungstic Acid - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUg1NUdDakFTelpaNTB6Y0RZRVdpNkNUbGI4YmxiVVpNSElpYXRGQkhCeldsUWU5ZTJZQWxVaGJma1VUVmpMQkR1RFp2MHJCWHhKVUg0RUN6b0huU19SbldPVzNyX19FUGVGSkVUbzh3bHA2eVJ0M1RkNGMydk1fVWdOTUdBQ1E1bW9JTTFSdkxzNFdYZjljU0ZjX1JPQi1wTURZX0xSSkhfYWc?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Canada Single Crystal Aluminum Oxide - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa3lsRjBqTkU3cm1YQTZhaTNmdWFHalRzc29zQ01CekVmdV9QZ0RST1o3aDg1V0t4bWl0Y0pKX3VqX0lyVHMzMEdxdlNqUWRfV25teHZsTTVkdDVCcE5rb2NhM1NaNjlRQlpja3BUYUlWc1JzMVE0VGpkSHVDM3R5cktieGJjNzRMUHRQWnpwZ3hqaFl1Q3A5bWlWRWdsbFo1YnZFdmo0TU1wSXRyTVFpVVB6LTc2Rm9y?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Canada Ethylene Glycol Diglycidyl Ether - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX3A2Tjh4X1RLTUF5Wmw5VHJjMDRyN29fbTZIbllYeXVnLTJlMFpON21xcUJtZmpKbm5kalkxaTJTd0FjdC1RcmI1aXBOSHFDY3FnV0l1REtwb0xpNFk3WFRZN2pJOEJuZUptVldPUmhlb2h1UlAzX29NamxyaXZXcWlSRXNkN3RUUVcwNU5USzN2ZzVnWW9nTlItbldLVnVVekdUc20yWUt3OG5ITGkydXBhVmgxYXdjS25tZw?oc=5",
+        "press": "IndexBox"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "KOSPI earnings are better. So why are stocks falling harder? - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeUhlQU1UMjRlcWhOMzBVLVJLZWNpTkp4MUVzTmI1NEZuQWNfTjV5Y0llcnp3RXM0cDFXcVdOUlh5TTlIZWtTNUdTMmJJNm5Ba2RxSTJ0OFU1c212UjB3LXB6OU0tRThNMFExajBIdHJfWEtKWGhydUNXWWVCUWFMV2lPcVdYXzFOUGRXcnRyOUx5UGlOdHJ2RUFOSXVWTVE1eU5ORExaVXIwbVd6TkViTG93QlJSQQ?oc=5",
+        "press": "Investing.com"
+      },
+      {
+        "title": "Bank of Korea Ends Three-Year Rate Freeze as AI Chip Boom Stokes Inflation - InsuranceNewsNet",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT2hfdjd4Mk0yd0xiMTFmTEhzWFVFTnFWWkVBbGp2ZURzWUFBT21kVnZWcU1FQUJYNUYxcUtQZG90bnpxNmNTaW5qX255ZmpmaERxRUdLdFZYYUJZeUNNTUQwT1lZYVFpY0dfTnR1Rkl3OHlaMEdBVFhpZGFyLUl1cldPRlpyVWlvcUxVUm42U1c2Ql9XeVRjWWxpNWZXcWVhUGNobWxxRS16c1RBWkszMUpn?oc=5",
+        "press": "InsuranceNewsNet"
+      }
+    ],
+    "naver": [
+      {
+        "title": "예탁금 ‘28조 증발’에도 개미는 떠나지 않았다…“실탄 고갈 아닌 배...",
+        "url": "https://n.news.naver.com/mnews/article/016/0002671805?sid=101",
+        "press": "biz.heraldcorp.com"
+      },
+      {
+        "title": "[증시전망] 코스피 반등 열쇠는...알파벳·SK하이닉스 실적 주목",
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685021",
+        "press": "www.digitaltoday.co.kr"
+      },
+      {
+        "title": "테슬라 2배 사려면 현금 3천만원…서학개미도 예탁금 규제 사정권",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425645",
+        "press": "news.einfomax.co.kr"
+      },
+      {
+        "title": "‘쪼개기 상장’ 문턱 높인다…자회사 IPO, 모회사 주주 동의부터",
+        "url": "https://www.thepowernews.co.kr/view.php?ud=202607181830576877de3f0aa1be_7",
+        "press": "www.thepowernews.co.kr"
+      },
+      {
+        "title": "[증시전망] 코스피 반등 열쇠는...알파벳·SK하이닉스 실적 주목",
+        "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685021",
+        "press": "www.digitaltoday.co.kr"
+      },
+      {
+        "title": "한여름에도 얼어붙은 ‘바이오 동전주’의 생존 셈법",
+        "url": "https://n.news.naver.com/mnews/article/018/0006332438?sid=105",
+        "press": "www.edaily.co.kr"
+      },
+      {
+        "title": "예탁금 ‘28조 증발’에도 개미는 떠나지 않았다…“실탄 고갈 아닌 배...",
+        "url": "https://n.news.naver.com/mnews/article/016/0002671805?sid=101",
+        "press": "biz.heraldcorp.com"
+      },
+      {
+        "title": "“할부 끝나도 참고 참았다”…애플빠도 기다린다는 ‘폴드8 울트라’",
+        "url": "https://n.news.naver.com/mnews/article/016/0002671804?sid=101",
+        "press": "biz.heraldcorp.com"
+      },
+      {
+        "title": "최태원 \"메모리는 앞으로도 계속 필요하다...샀다·팔았다 하지 말고 가...",
+        "url": "https://www.livebiz.today/news/articleView.html?idxno=203402",
+        "press": "www.livebiz.today"
+      },
+      {
+        "title": "예탁금 ‘28조 증발’에도 개미는 떠나지 않았다…“실탄 고갈 아닌 배...",
+        "url": "https://n.news.naver.com/mnews/article/016/0002671805?sid=101",
+        "press": "biz.heraldcorp.com"
+      },
+      {
+        "title": "삼성, 글로벌 빅테크 '8위' 찍어…올해 브랜드 가치 9% 올라",
+        "url": "https://n.news.naver.com/mnews/article/015/0005311280?sid=101",
+        "press": "www.hankyung.com"
+      },
+      {
+        "title": "삼성, 올해 브랜드 가치 9% 오른 974억달러…국내 기업 중 유일 톱10 진입",
+        "url": "https://n.news.naver.com/mnews/article/016/0002671803?sid=101",
+        "press": "biz.heraldcorp.com"
+      }
+    ],
+    "telegram": []
+  }
+}

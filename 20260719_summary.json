@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "generated_at": "2026-07-18T23:37:03.606176+00:00",
+    "run_date": "20260719"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 25,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 100.75,
+      "change": 0.02,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.54,
+      "change": -0.61,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 18.77,
+      "change": 12.19,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7457.69,
+      "change": -1.01,
+      "insight": "전일종가 7533.77 / 변동 -76.0801",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 28592.66,
+      "change": -1.49,
+      "insight": "전일종가 29025.77 / 변동 -433.1094",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 52146.42,
+      "change": -0.77,
+      "insight": "전일종가 52552.97 / 변동 -406.5469",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1487.46,
+      "change": 0.08,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 162.35,
+      "change": 0.17,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "한국은행 3년 만에 금리 동결 종료, 물가 우려 확산",
+      "tag": "Bearish"
+    },
+    {
+      "point": "예탁금 28조 원 증발에도 개인 투자자 잔류 의지는 강력",
+      "tag": "Neutral"
+    },
+    {
+      "point": "SK하이닉스 실적 발표가 코스피 반등 여부의 핵심 열쇠",
+      "tag": "Neutral"
+    },
+    {
+      "point": "쪼개기 상장 규제 강화로 자회사 IPO 시 주주 보호 강화",
+      "tag": "Bullish"
+    },
+    {
+      "point": "서학개미 테슬라 2배 레버리지 투자 시 예탁금 규제 적용",
+      "tag": "Bearish"
+    },
+    {
+      "point": "실적 호조에도 코스피 낙폭 과대, 밸류에이션 매력 부각",
+      "tag": "Bullish"
+    },
+    {
+      "point": "바이오 소형주 소외 현상 지속, 옥석 가리기 심화 국면",
+      "tag": "Bearish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "뉴욕증시 3대 지수 동반 하락, 나스닥 1.49% 급락 조정",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VIX 12% 폭등 및 극도의 공포 단계 진입, 변동성 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "딜러 숏감마 노출로 인한 지수 하방 압력 및 변동성 확대",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 25점 기록, 역발상 저점 매수 관심 구간",
+      "tag": "Bullish"
+    },
+    {
+      "point": "대규모 마진콜 여파로 유동성 위축 및 주식 시장 매도세",
+      "tag": "Bearish"
+    },
+    {
+      "point": "역레포 잔액 0달러 도달, 시장 내 가용 유동성 축소 경고",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "매크로·금리",
+      "title": "한국은행 3년 동결 끝, AI 칩 붐에 따른 인플레이션 우려",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQT2hfdjd4Mk0yd0xiMTFmTEhzWFVFTnFWWkVBbGp2ZURzWUFBT21kVnZWcU1FQUJYNUYxcUtQZG90bnpxNmNTaW5qX255ZmpmaERxRUdLdFZYYUJZeUNNTUQwT1lZYVFpY0dfTnR1Rkl3OHlaMEdBVFhpZGFyLUl1cldPRlpyVWlvcUxVUm42U1c2Ql9XeVRjWWxpNWZXcWVhUGNobWxxRS16c1RBWkszMUpn?oc=5",
+      "press": "InsuranceNewsNet",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "코스피 실적 좋은데 왜 더 떨어지나? 투자자 의문 증폭",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeUhlQU1UMjRlcWhOMzBVLVJLZWNpTkp4MUVzTmI1NEZuQWNfTjV5Y0llcnp3RXM0cDFXcVdOUlh5TTlIZWtTNUdTMmJJNm5Ba2RxSTJ0OFU1c212UjB3LXB6OU0tRThNMFExajBIdHJfWEtKWGhydUNXWWVCUWFMV2lPcVdYXzFOUGRXcnRyOUx5UGlOdHJ2RUFOSXVWTVE1eU5ORExaVXIwbVd6TkViTG93QlJSQQ?oc=5",
+      "press": "Investing.com",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "예탁금 28조 증발에도 개미는 떠나지 않았다…배당 기대감",
+      "url": "https://n.news.naver.com/mnews/article/016/0002671805?sid=101",
+      "press": "헤럴드경제",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "[증시전망] 코스피 반등 열쇠는...알파벳·SK하이닉스 실적",
+      "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=685021",
+      "press": "디지털투데이",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "테슬라 2배 사려면 현금 3천만원…서학개미 예탁금 규제",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425645",
+      "press": "연합인포맥스",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "‘쪼개기 상장’ 문턱 높인다…자회사 IPO 시 주주 동의 필수",
+      "url": "https://www.thepowernews.co.kr/view.php?ud=202607181830576877de3f0aa1be_7",
+      "press": "더파워",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "한여름에도 얼어붙은 ‘바이오 동전주’의 생존 셈법",
+      "url": "https://n.news.naver.com/mnews/article/018/0006332438?sid=105",
+      "press": "이데일리",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "“애플빠도 기다린다”…폴드8 울트라 기대감 증폭",
+      "url": "https://n.news.naver.com/mnews/article/016/0002671804?sid=101",
+      "press": "헤럴드경제",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "대규모 마진콜과 리퀴디티 압박에 증시 급락, 반등 준비 중",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ09iZk5rRi1COHhyWWpwX09RMDQxVGVacWk4b0k5V0N6TGk3T1ZKaVlEeGtNRm14Y2FENEpZUTZULXpLYUtTRlc2YW9Uelg2c2NJTlpTTWQ3MzNHUzlCaVpvbU12bk53VDEtc1BlM1Z2OHh1OFQxbzI0d0hrYkZ3d2M2WFpDLUJxOFctblB1V2RxNjdQN2JhZw?oc=5",
+      "press": "Fortune",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "S&P 500을 앞지르기 위해 모멘텀을 사용하는 2가지 뱅가드 ETF",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVXRsWG1hS0lXenVVYmRnRW54TkNzbTFJNno1TXpqdXBpZmRwT3JVQTRvTHlQUkdHcVExQkJBZkpfVUdQYjFGMjNmQ0I3a2FFYlNzNUJVeDB3ZWdkOG5UQXRwWmRsa1lmU01uTy1yZ01SbUtEVF9NOU5Ec0wxWVdoWU9WN1p0OXdFUnFQd1R4TmJzU0J4b2M5bEJKc3lLMGpRR2kxWmdEdzlmZ0RDSUxISWtDMWY2Wm5uYzEtd280aE1QVk9wOTRrZXppVy02dU1Gd1hZ?oc=5",
+      "press": "The Globe and Mail",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "테일러 팜스, 식중독 발생으로 27개 주에서 양상추 리콜 시행",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOS1U1ZE11RWtuRV9PZGFzNWtKRW5ud0VsM1ZpenNNWGVuWVBnU0VRV2czc2h4ZEhoRzdHWS1vZ2kxa2NqNUVfd1NueWUwbklkazhZd1draWQ0QUpKa21fTmdVdEdVMnpRMnJJcWFNcTRRS2tCNXBkb25mS2FrOUtvV1FZV1Y4Mk9tVGRjcGhfT1hEazVaZUxfaE9PbTd3VEtNemJYbnhZTmRTaGQ1OXJOZFNSSGZJbXh30gG-AUFVX3lxTFBYajl5Wl8tWmdGa2Zqa09GYVM5dDRaMkFFSDNWd3F3MEVEQTNLam9ZdXZIRTRnODZDS19Od1NsZVhOSDVlR1Rtc0lUUjhkTHlPNGprYVVVcXItVlo3SF9zQndQNEF0aDhVYnY3NHRZQkdTRW5wNUcwcmdaaTc1M2RGSE8tSUV2Q29kWnE1aDBCMjBLWWVYUk9EclI2MzNpMkd0THZBNExZdzBGdXI1Q1VjbE1VaWtHYVg5REtoQ3c?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "캐나다 단결정 산화알루미늄 시장 분석 및 전망",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa3lsRjBqTkU3cm1YQTZhaTNmdWFHalRzc29zQ01CekVmdV9QZ0RST1o3aDg1V0t4bWl0Y0pKX3VqX0lyVHMzMEdxdlNqUWRfV25teHZsTTVkdDVCcE5rb2NhM1NaNjlRQlpja3BUYUlWc1JzMVE0VGpkSHVDM3R5cktieGJjNzRMUHRQWnpwZ3hqaFl1Q3A5bWlWRWdsbFo1YnZFdmo0TU1wSXRyTVFpVVB6LTc2Rm9y?oc=5",
+      "press": "IndexBox",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "세계 분말 블렌딩 시장 규모, 트렌드 및 통찰력 분석",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPXzJYU3BVZmNUMnRyQWtvU0NvWFRqRzU2OVhkSWdOVzFBTmtSc3lOQmo0U01SYzc2SGdLQWhCVlY1MkFnbVF5clI4YVR1TWdQX2hBTkNlemtKc3JkNWdTUkxWRXNIMG9SMkJrd09UajRJb0pjSjZORFFKOEhVVXpKbXloc2VVOE1ZclpHc3Btc3hfcGdNWS1OcHBWWnBJVThPUG82Y2t0eTNDQzgwbDlfOWJoQWJBbHltS3l0ZHN0YzVheDhQQzE4?oc=5",
+      "press": "IndexBox",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "캐나다 실리코텅스텐산 시장 분석 및 향후 전망",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUg1NUdDakFTelpaNTB6Y0RZRVdpNkNUbGI4YmxiVVpNSElpYXRGQkhCeldsUWU5ZTJZQWxVaGJma1VUVmpMQkR1RFp2MHJCWHhKVUg0RUN6b0huU19SbldPVzNyX19FUGVGSkVUbzh3bHA2eVJ0M1RkNGMydk1fVWdOTUdBQ1E1bW9JTTFSdkxzNFdYZjljU0ZjX1JPQi1wTURZX0xSSkhfYWc?oc=5",
+      "press": "IndexBox",
+      "source": "international"
+    }
+  ]
+}
