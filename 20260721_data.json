@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "generated_at": "2026-07-20T23:37:05.163150+00:00",
+    "run_date": "20260721"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [
+      {
+        "title": "고객예탁금: 1,080,819억원 (-17,851억원)",
+        "description": "신용융자잔고: 333,624억원"
+      }
+    ],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 -16,876백만원 (차익 +0 / 비차익 -16,876)",
+        "description": "기준일: 20260721"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 동화약품 (+0.00%)",
+        "description": "현재가: 5,060, 거래량: 1"
+      },
+      {
+        "title": "#2 KR모터스 (+0.00%)",
+        "description": "현재가: 267, 거래량: 0"
+      },
+      {
+        "title": "#3 경방 (+0.00%)",
+        "description": "현재가: 8,180, 거래량: 0"
+      },
+      {
+        "title": "#4 삼양홀딩스 (+0.00%)",
+        "description": "현재가: 55,600, 거래량: 0"
+      },
+      {
+        "title": "#5 하이트진로 (+0.00%)",
+        "description": "현재가: 14,780, 거래량: 0"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 0억원",
+        "description": "현재가: 109, 거래량: 196,732주"
+      },
+      {
+        "title": "#2 KODEX 인버스 거래대금 0억원",
+        "description": "현재가: 1,158, 거래량: 83,510주"
+      },
+      {
+        "title": "#3 KODEX 코스닥150선물인버스 거래대금 0억원",
+        "description": "현재가: 2,855, 거래량: 10,198주"
+      },
+      {
+        "title": "#4 JW신약 거래대금 0억원",
+        "description": "현재가: 2,020, 거래량: 9,325주"
+      },
+      {
+        "title": "#5 삼성 인버스 2X 코스닥150 선물 ETN 거래대금 0억원",
+        "description": "현재가: 2,660, 거래량: 7,932주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 -302,725,713주 / 기관 +558,270,246주 / 개인 -287,146,263주",
+        "description": "직전 영업일(20260720) 순매수 수량"
+      },
+      {
+        "title": "KODEX 인버스 외국인 -1,720,948주 / 기관 +7,198,305주 / 개인 -5,826,293주",
+        "description": "직전 영업일(20260720) 순매수 수량"
+      },
+      {
+        "title": "KODEX 코스닥150선물인버스 외국인 -574,396주 / 기관 +1,325,111주 / 개인 -694,745주",
+        "description": "직전 영업일(20260720) 순매수 수량"
+      },
+      {
+        "title": "JW신약 외국인 +189,636주 / 기관 -6,476주 / 개인 -180,492주",
+        "description": "직전 영업일(20260720) 순매수 수량"
+      },
+      {
+        "title": "삼성 인버스 2X 코스닥150 선물 ETN 외국인 +121,899주 / 기관 +732,752주 / 개인 -906,882주",
+        "description": "직전 영업일(20260720) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.00 (+0.25%)",
+        "description": "전일종가 100.75 / 변동 +0.2490"
+      },
+      {
+        "title": "미국 10년물 금리: 4.60 (+1.26%)",
+        "description": "전일종가 4.54 / 변동 +0.0570"
+      },
+      {
+        "title": "VIX 변동성지수: 18.65 (-0.64%)",
+        "description": "전일종가 18.77 / 변동 -0.1200"
+      },
+      {
+        "title": "S&P 500: 7443.28 (-0.19%)",
+        "description": "전일종가 7457.69 / 변동 -14.4102"
+      },
+      {
+        "title": "나스닥100: 28604.23 (+0.04%)",
+        "description": "전일종가 28592.66 / 변동 +11.5742"
+      },
+      {
+        "title": "다우존스: 51839.26 (-0.59%)",
+        "description": "전일종가 52146.42 / 변동 -307.1602"
+      },
+      {
+        "title": "USD/KRW: 1475.37 (-0.81%)",
+        "description": "전일종가 1487.39 / 변동 -12.0200"
+      },
+      {
+        "title": "USD/JPY: 162.49 (-0.01%)",
+        "description": "전일종가 162.51 / 변동 -0.0190"
+      },
+      {
+        "title": "코스피: 6820.60 (-6.37%)",
+        "description": "전일종가 7284.41 / 변동 -463.8101"
+      },
+      {
+        "title": "코스닥: 791.84 (-4.53%)",
+        "description": "전일종가 829.43 / 변동 -37.5900"
+      },
+      {
+        "title": "KOSPI200: 1080.36 (-7.18%)",
+        "description": "전일종가 1163.90 / 변동 -83.5400"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.077 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.29 | GEX -3.2B$ (만기:2026-07-20)",
+        "description": "콜OI 204,840 / 풋OI 263,828 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.28 | GEX -0.5B$ (만기:2026-07-20)",
+        "description": "콜OI 135,227 / 풋OI 173,441 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $162.86 (+0.20%)",
+        "description": "거래량 18,702,516주 (평균대비 0.6x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $745.36 (-0.18%)",
+        "description": "거래량 4,724,299주 (평균대비 1.0x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 63.3% (126/199종목)",
+        "description": "평균 MA 대비 위치: +1.4%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 29/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-06-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.2",
+        "description": "Date: 2026-06-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 332.568",
+        "description": "Date: 2026-06-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 2.1",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.55",
+        "description": "Date: 2026-07-17, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.74조달러",
+        "description": "기준일: 2026-07-15 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.35조달러",
+        "description": "기준일: 2026-07-15 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 7959.76억달러",
+        "description": "기준일: 2026-07-15 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.00억달러",
+        "description": "기준일: 2026-07-20 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 273bp (2.73%)",
+        "description": "기준일: 2026-07-17 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 79bp (0.79%)",
+        "description": "기준일: 2026-07-17 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market News July 20, 2026: Dow ends lower for third straight losing session, S&P 500 finishes lower, Nasdaq wipes ",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1lKY28xODU4UENfdmcxSkR3VWEtbmhudHRiRjlwNzRBdnF0dkhxejYwRnlNZm9ya1NUbTR5eWROUmJ6LXVwblktR2gwYjBxMkVMVjQteDlOZUdGWGJZUGpLT1liSXNUUFNLZXZTQ200WHlXMGVMdUlIZGdqRnV3ai02N2s2RkVLakNTRzNEODhQWFgxYk1VRjUzMTJSRHNoNW40Z29YTWROVzZiWE55Ykk1Y3NaLXc?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "London Stock Exchange plans to launch round-the-clock trading next year - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU3A4SWFlU0pYbGxoWldOd05IcUJ3dmY2OGtYRDZHLTBjb0twV2tURFRoNmRvdVIxRU5rM0F3aEM4WFdsUXRyY01ieHNIeDl3NFNNWURncE90MDc3R0N3TXVxRlpwc2h6UlZwa21QVWxEQUh2ejlpTkpkM2FrbVdqV1I5aFU?oc=5",
+        "press": "Financial Times"
+      },
+      {
+        "title": "Conflict Rattles Stocks, Bonds as Oil Holds Gains: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNkNWOXN1YXJVTDNkZWJxWFZ4a0Vpa1FCVm9BT2szZWZBRm1XWkxMTXlBQnZhUWNPNDkwWktKREtsU1BkZmVubDB6cGpvQXdDSGpuQjNZX1JfaG5VSmJOSDJib0FfWXdyZFZZWHBid0hnRUpNLXhNdF9yWjFQUmRyTHg1ZUk3T0xuSEU5UU5BN0dKdjk3?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQW1RTzM1TlBIamVkQ2ZOakRUMWh1dU5BdjRyNFNRRURZdFlpd0Rzakx5SXZZOWF5Z1RVX0g0QU1DWnNyNUlyWnVIVzBKaU1CWGtQMnFpcjhtQVRwbC1MeE9DdFBTa0pMMFNjNTBQQk9mVERGdUI3WmtuWjV2b3l5N1owa2c0Z9IBiwFBVV95cUxPeV9ndXc0dXdGQ2ExV2hZUUxOc2UzYmNpblVGbEx0WDRmWmxkY3FqRHhvUTJkWGdzNjN5Z1JuaS1TbG5rdjZ2YVFMMndqNTRFYUk3bnNoWHF2SnV5SUo2QjE0eVlUMkFiMUtYa0o5dWMwOTEtLTlrQndTa09nZ1RkX3VpaXVOV25KTVQ0?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "S&P 500 closes slightly lower on Monday, weighed down by rising oil prices - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYeExLS3Y0Ql9SOVd0OU9NTzhXT2FFQlZBLWJ4a0lHMGppV2JhSXJLRkRISThLUnR3Qk02YkJ4MGhSUExRVTlDQ2o2SnpnekYxY2JQYkVKeXQwUlBUendpMmljY2xqellZV29iU2w4OHI4Q0ZCeTZZ0gF8QVVfeXFMT2ZYeFo3cXFTRUJ5Nnh2WGVKMVBhWlFPRXdMR1ZRempPbXZJcllFYnVIbGcxZ2FKOFhTT1RFdWQ0XzFDMEJNaUxFR2RvTm82NkFoYUh4WElmWWxiTnhJM0E0M3RsY01jclFFWHduRGZuMDBvQUlINHhHZFhkMA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq mixed as chip stocks rise in wait for Big Tech earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2ZVWlFvSkNRM3pBSzN6Vy1scXBZQzNfUGZXenUzTHNSSWtTVURVVUk1S1RQYWxTVEJOb2t6WG1LOEFMVXNuVWVndUdYZnNfb21KSVdmT2tJQ1lRXzVuWVliX3YwLWk3VDVGdU9BMUJYR3YxM0xOSHlwUlgtRDB3cjEzdWJ4ejRneUpxM2ZsMGRDMDVTODdWTlNERERUaGc3R2E2cHNwaUQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Claude AI Sells Broadcom (AVGO) Stock - Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU01SS3NBZXNBN2lIcmVfNkl5WUUwMjk0ek1jNThrWVo2b0lSUlFpdkRzNVpWNzdoSW8xNHpxelVWanFOcXJjQXRQbmdvOUdHSHJYYXlmNjdQeWVOMmZmYlBQS1NiN2VWVlFrMkxEcUIxRTUtVUU5eEFqbGRLSzJnTk93VDc?oc=5",
+        "press": "Yahoo Finance Singapore"
+      },
+      {
+        "title": "Hedge Funds Are Selling Tech Stocks at a Record Pace, Says Goldman Sachs (GS) - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRV9QRFZHdE1SMG5ySlRSVF96S2k0SmtnMFhWRW1SdmRkOTBQZjhHTlhucWFyejY3UmFxdENCUUtfRG1iU2F5M3NWY29Dd08xM2FUOHl1ZFBUQld0TDZPRy0xY19mUXBoSUdVa0JOX25LX0NCd2llUjFzNENfX2NMUkxWSGNzXzljLW5nQ3A4Vl9RUkZlQ2JsZzE2MVZHZkpSM3dqZ01kSQ?oc=5",
+        "press": "TipRanks"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Macquarie to acquire Gabia, sending Kosdaq-listed IT firm's shares flying - KED Global",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tV0dzbUxBakRMeFFhZ0dvb3RUVEFvRHp4Q1R6ek5aMnN3cTBRc181X2JfUEVGYTBaNGJoR3BwVU95Z2ZuZVJvdEg2OHZkQnZFWlRWOXJiQUZfZ1p4V3lMdmxrVHg2X3RMOE5MVlNqWG1ONGhkZTg1elU2Yw?oc=5",
+        "press": "KED Global"
+      },
+      {
+        "title": "AMD challenges Nvidia as Korea’s Samsung and SK hynix win major HBM4 orders - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45cmhRRmdGczdDbDM4UndpU0xtVDVVcXQ4bTBtdUZfSlhEbEo2NEdlSk9VTEg1VGZKazZkSy1fd0RKaXRkdHhKcDhmMkV1SjVSek1VRGU3OXE1Nm5haEFGU1VEeVZIald5aWFyaEo2WFYwRldhd2JqTW1n?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [
+      {
+        "title": "[증시 포인트] 반등 시도 전망...낙폭 과대주 분할매수 전략 유효",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141785",
+        "press": "www.opinionnews.co.kr"
+      },
+      {
+        "title": "[외환] 중동 리스크에도 매도 우위 수급 기대로 1,470원대",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425899",
+        "press": "news.einfomax.co.kr"
+      },
+      {
+        "title": "[최석원 칼럼] 기업 실적, 중요하지만 주가 변동의 유일한 변수는 아니...",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141768",
+        "press": "www.opinionnews.co.kr"
+      },
+      {
+        "title": "메리츠증권, 솔브레인 목표가 하향에도 \"매력적인 구간 진입\"",
+        "url": "https://n.news.naver.com/mnews/article/001/0016204830?sid=101",
+        "press": "www.yna.co.kr"
+      },
+      {
+        "title": "제이케이시냅스, 휴림로봇 30억원 투자 유치…최대주주 변경",
+        "url": "https://www.etoday.co.kr/news/view/2605456",
+        "press": "www.etoday.co.kr"
+      },
+      {
+        "title": "[오늘의 브릿지경제 1면] ‘상폐 위기’ 코스닥 기업 350곳…정부 활성...",
+        "url": "https://www.viva100.com/article/20260720501184",
+        "press": "www.viva100.com"
+      },
+      {
+        "title": "삼성벨트 따라 움직이는 주거수요… 천안도 들썩",
+        "url": "http://www.ikld.kr/news/articleView.html?idxno=337828",
+        "press": "www.ikld.kr"
+      },
+      {
+        "title": "美 증시 하락 속 코스피 6500선 시험대…기술적 반등 나설까[장전시황]",
+        "url": "https://www.ekn.kr/web/view.php?key=20260721027114237",
+        "press": "www.ekn.kr"
+      },
+      {
+        "title": "[최석원 칼럼] 기업 실적, 중요하지만 주가 변동의 유일한 변수는 아니...",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141768",
+        "press": "www.opinionnews.co.kr"
+      },
+      {
+        "title": "美 증시 하락 속 코스피 6500선 시험대…기술적 반등 나설까[장전시황]",
+        "url": "https://www.ekn.kr/web/view.php?key=20260721027114237",
+        "press": "www.ekn.kr"
+      },
+      {
+        "title": "[최석원 칼럼] 기업 실적, 중요하지만 주가 변동의 유일한 변수는 아니...",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141768",
+        "press": "www.opinionnews.co.kr"
+      },
+      {
+        "title": "AI 실적 앞둔 뉴욕증시, 숨고르기…반도체주는 저가매수 유입",
+        "url": "https://www.kukinews.com/article/view/kuk202607210008",
+        "press": "www.kukinews.com"
+      }
+    ],
+    "telegram": []
+  }
+}

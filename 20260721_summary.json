@@ -1,0 +1,245 @@
+{
+  "meta": {
+    "generated_at": "2026-07-20T23:37:05.164277+00:00",
+    "run_date": "20260721"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 29,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 101.0,
+      "change": 0.25,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.6,
+      "change": 1.26,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 18.65,
+      "change": -0.64,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7443.28,
+      "change": -0.19,
+      "insight": "전일종가 7457.69 / 변동 -14.4102",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 28604.23,
+      "change": 0.04,
+      "insight": "전일종가 28592.66 / 변동 +11.5742",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51839.26,
+      "change": -0.59,
+      "insight": "전일종가 52146.42 / 변동 -307.1602",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1475.37,
+      "change": -0.81,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 162.49,
+      "change": -0.01,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "고객예탁금 감소 및 프로그램 매도세로 수급 여건 악화",
+      "tag": "Neutral"
+    },
+    {
+      "point": "환율 1,470원대 하락하며 중동 리스크 속 원화 약세 완화",
+      "tag": "Bullish"
+    },
+    {
+      "point": "삼성전자·SK하이닉스 HBM4 수주 기대감에 반도체 주목",
+      "tag": "Bullish"
+    },
+    {
+      "point": "코스닥 상폐 위기 기업 증가로 인한 투자 심리 위축",
+      "tag": "Bearish"
+    },
+    {
+      "point": "지수 낙폭 과대에 따른 기술적 반등 및 분할 매수 시점",
+      "tag": "Bullish"
+    },
+    {
+      "point": "맥쿼리의 가비아 인수 소식에 IT 및 클라우드 섹터 부각",
+      "tag": "Bullish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "국채 금리 4.6% 급등 및 달러 강세에 따른 지수 압박",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 29(Fear) 진입으로 저점 매수 구간 도달",
+      "tag": "Bullish"
+    },
+    {
+      "point": "옵션 시장 내 풋 우세 및 숏감마 상태로 변동성 확대 주의",
+      "tag": "Bearish"
+    },
+    {
+      "point": "제이미 다이먼의 시장 저평가 및 리스크 과소평가 경고",
+      "tag": "Bearish"
+    },
+    {
+      "point": "유가 상승에 따른 인플레이션 우려가 S&P500 하방 압력",
+      "tag": "Bearish"
+    },
+    {
+      "point": "빅테크 실적 발표 앞둔 관망세 속 반도체주 중심 반등 시도",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "맥쿼리, 가비아 인수 추진에 코스닥 IT 기업 주가 급등",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tV0dzbUxBakRMeFFhZ0dvb3RUVEFvRHp4Q1R6ek5aMnN3cTBRc181X2JfUEVGYTBaNGJoR3BwVU95Z2ZuZVJvdEg2OHZkQnZFWlRWOXJiQUZfZ1p4V3lMdmxrVHg2X3RMOE5MVlNqWG1ONGhkZTg1elU2Yw?oc=5",
+      "press": "KED Global",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "AMD 엔비디아 도전 속 삼성·SK하이닉스 HBM4 수주",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE45cmhRRmdGczdDbDM4UndpU0xtVDVVcXQ4bTBtdUZfSlhEbEo2NEdlSk9VTEg1VGZKazZkSy1fd0RKaXRkdHhKcDhmMkV1SjVSek1VRGU3OXE1Nm5haEFGU1VEeVZIald5aWFyaEo2WFYwRldhd2JqTW1n?oc=5",
+      "press": "Chosunbiz",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "증시 반등 시도 전망... 낙폭 과대주 분할매수 전략 유효",
+      "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141785",
+      "press": "opinionnews.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "중동 리스크에도 매도 우위 수급 기대로 환율 1,470원대",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4425899",
+      "press": "news.einfomax.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "메리츠증권, 솔브레인 목표가 하향에도 매력적인 구간",
+      "url": "https://n.news.naver.com/mnews/article/001/0016204830?sid=101",
+      "press": "yna.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "제이케이시냅스, 휴림로봇 30억 투자 유치 및 주주 변경",
+      "url": "https://www.etoday.co.kr/news/view/2605456",
+      "press": "etoday.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "‘상폐 위기’ 코스닥 기업 350곳…정부 활성화 대책 주목",
+      "url": "https://www.viva100.com/article/20260720501184",
+      "press": "viva100.com",
+      "source": "naver"
+    },
+    {
+      "category": "부동산·유동성",
+      "title": "삼성벨트 따라 움직이는 주거수요… 천안 부동산 들썩",
+      "url": "http://www.ikld.kr/news/articleView.html?idxno=337828",
+      "press": "ikld.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "미 증시 하락 속 코스피 6500선 시험대… 기술적 반등",
+      "url": "https://www.ekn.kr/web/view.php?key=20260721027114237",
+      "press": "ekn.kr",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "다우 지수 3거래일 연속 하락, S&P 500 및 나스닥 혼조",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPb1lKY28xODU4UENfdmcxSkR3VWEtbmhudHRiRjlwNzRBdnF0dkhxejYwRnlNZm9ya1NUbTR5eWROUmJ6LXVwblktR2gwYjBxMkVMVjQteDlOZUdGWGJZUGpLT1liSXNUUFNLZXZTQ200WHlXMGVMdUlIZGdqRnV3ai02N2s2RkVLakNTRzNEODhQWFgxYk1VRjUzMTJSRHNoNW40Z29YTWROVzZiWE55Ykk1Y3SaLXc?oc=5",
+      "press": "MarketWatch",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "런던증권거래소, 내년부터 24시간 거래 시스템 도입 계획",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU3A4SWFlU0pYbGxoWldOd05IcUJ3dmY2OGtYRDZHLTBjb0twV2tURFRoNmRvdVIxRU5rM0F3aEM4WFdsUXRyY01ieHNIeDl3NFNNWURncE90MDc3R0N3TXVxRlpwc2h6UlZwa21QVWxEQUh2ejlpTkpkM2FrbVdqV1I5aFU?oc=5",
+      "press": "Financial Times",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "지정학적 갈등에 증시·채권 요동, 유가는 상승세 유지",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNkNWOXN1YXJVTDNkZWJxWFZ4a0Vpa1FCVm9BT2szZWZBRm1XWkxMTXlBQnZhUWNPNDkwWktKREtsU1BkZmVubDB6cGpvQXdDSGpuQjNZX1JfaG5VSmJOSDJib0FfWXdyZFZZWHBid0hnRUpNLXhNdF9yWjFQUmRyTHg1ZUk3T0xuSEU5UU5BN0dKdjk3?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "제이미 다이먼 '시장 리스크 저평가, 현재가 매수 안해'",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQW1RTzM1TlBIamVkQ2ZOakRUMWh1dU5BdjRyNFNRRURZdFlpd0Rzakx5SXZZOWF5Z1RVX0g0QU1DWnNyNUlyWnVIVzBKaU1CWGtQMnFpcjhtQVRwbC1MeE9DdFBTa0pMMFNjNTBQQk9mVERGdUI3WmtuWjV2b3l5N1owa2c0Z9IBiwFBVV95cUxPeV9ndXc0dXdGQ2ExV2hZUUxOc2UzYmNpblVGbEx0WDRmWmxkY3FqRHhvUTJkWGdzNjN5Z1JuaS1TbG5rdjZ2YVFMMndqNTRFYUk3bnNoWHF2SnV5SUo2QjE0eVlUMkFiMUtYa0o5dWMwOTEtLTlrQndTa09nZ1RkX3VpaXVOV25KTVQ0?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "유가 상승에 S&P 500 지수 하락 압력 받으며 소폭 하락",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYeExLS3Y0Ql9SOVd0OU9NTzhXT2FFQlZBLWJ4a0lHMGppV2JhSXJLRkRISThLUnR3Qk02YkJ4MGhSUExRVTlDQ2o2SnpnekYxY2JQYkVKeXQwUlBUendpMmljY2xqellZV29iU2w4OHI4Q0ZCeTZZ0gF8QVVfeXFMT2ZYeFo3cXFTRUJ5Nnh2WGVKMVBhWlFPRXdMR1ZRempPbXZJcllFYnVIbGcxZ2FKOFhTT1RFdWQ0XzFDMEJNaUxFR2RvTm82NkFoYUh4WElmWWxiTnhJM0E0M3RsY01jclFFWHduRGZuMDBvQUlINHhHZFhkMA?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "빅테크 실적 대기 속 반도체주 상승하며 미 증시 혼조",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPT2ZVWlFvSkNRM3pBSzN6Vy1scXBZQzNfUGZXenUzTHNSSWtTVURVVUk1S1RQYWxTVEJOb2t6WG1LOEFMVXNuVWVndUdYZnNfb21KSVdmT2tJQ1lRXzVuWVliX3YwLWk3VDVGdU9BMUJYR3YxM0xOSHlwUlgtRDB3cjEzdWJ4ejRneUpxM2ZsMGRDMDVTODdWTlNERERUaGc3R2E2cHNwaUQ?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "클로드 AI, 브로드컴(AVGO) 주식 매도 의견 제시",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU01SS3NBZXNBN2lIcmVfNkl5WUUwMjk0ek1jNThrWVo2b0lSUlFpdkRzNVpWNzdoSW8xNHpxelVWanFOcXJjQXRQbmdvOUdHSHJYYXlmNjdQeWVOMmZmYlBQS1NiN2VWVlFrMkxEcUIxRTUtVUU5eEFqbGRLSzJnTk93VDc?oc=5",
+      "press": "Yahoo Finance Singapore",
+      "source": "international"
+    }
+  ]
+}
