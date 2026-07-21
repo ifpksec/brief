@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "generated_at": "2026-07-21T23:36:17.887333+00:00",
+    "run_date": "20260722"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 25,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 101.19,
+      "change": 0.2,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.63,
+      "change": 0.65,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 17.05,
+      "change": -8.58,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7509.2,
+      "change": 0.89,
+      "insight": "전일종가 7443.28 / 변동 +65.9204",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 29155.18,
+      "change": 1.93,
+      "insight": "전일종가 28604.23 / 변동 +550.9492",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 52224.64,
+      "change": 0.74,
+      "insight": "전일종가 51839.26 / 변동 +385.3789",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1480.32,
+      "change": 0.36,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 163.2,
+      "change": 0.44,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "고객예탁금 4.4조 원 증가하며 증시 유동성 유입",
+      "tag": "Bullish"
+    },
+    {
+      "point": "외국인 매수세 유입에 따른 코스피 전망 낙관",
+      "tag": "Bullish"
+    },
+    {
+      "point": "반도체·AI 메모리 랠리 재점화에 따른 기술주 강세",
+      "tag": "Bullish"
+    },
+    {
+      "point": "모건스탠리, 코스피 바닥권 진입 및 목표치 유지",
+      "tag": "Bullish"
+    },
+    {
+      "point": "환율 1,480원대 상승에도 EWY 6%대 급등",
+      "tag": "Bullish"
+    },
+    {
+      "point": "신용융자잔고 33조 원대 유지 속 투심 회복",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "나스닥 1.93% 급등, 반도체주 중심 강세장 연출",
+      "tag": "Bullish"
+    },
+    {
+      "point": "VIX 8.58% 급감하며 시장 변동성 위험 축소",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 25(극도의 공포)로 저점 매수 구간",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미 10년물 금리 4.6%대 상승에도 기술주 랠리",
+      "tag": "Neutral"
+    },
+    {
+      "point": "딜러 롱감마 상태로 시장 안정화 및 하방 경직성",
+      "tag": "Bullish"
+    },
+    {
+      "point": "S&P 500 종목 61%가 50일 이동평균선 상회",
+      "tag": "Bullish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "KB증권, AI 효율성이 HBM 수요 촉진해 SK하이닉스 전망 밝아",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc2hLN01BUjJJMmIwR0xYY2pOVHA4cllHVklBTFA4VF92Sm13Y0QwSVo3RGZlUnZmbWwxWjhZSFp6ck5PTU9SeldCdEhUTmZBbFo2ZTI5ZzVDZ3RnRHdsWHRDTTZPMll3aHdwZWVpcmFDcXlTTXpNbjVsanU5YnJpOdIBlAFBVV95cUxNRkhKOXl1V0JxVkg3Y2tETUhFLXdZbXJfOUgtYmUyUkFhVFI4S0hiRmpMSXp1RkNQN2FXY1pfMzI2aFE3RGg5bGhDbVBRV3FGSkR2SnZkOG42VUNUcnpZN1gwQlRXZHVsSHIyQUxIbkdKWGpIUjQxWUpTbGFockluSno5NEZFVG9wV0oyMG5WdjFsMlBw?oc=5",
+      "press": "Chosunbiz",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "뉴욕발 호조에 삼전·닉스 급등…AI 메모리 랠리 재점화",
+      "url": "https://n.news.naver.com/mnews/article/374/0000522939?sid=101",
+      "press": "biz.sbs.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "하나증권, 외국인 매수세가 한국 코스피 전망 주도",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEUxUXgtdEhOWU90clFlaHdVc0lqVFZ5MVY2V1EtUTZOa29RWWdEdFZuMDRwRlp2VjFELUdoWk8yWWxJTE0xN2dsaV8xYWdqTWRDaTdYbkdPUkRsNmZGTXFXVjlYR2tuSkJPQzFtQVFRbkVWeE1hUE81NXNwcUpwX9IBlAFBVV95cUxNSDkzUXZyVXlHeVI0T28tT29Cb0lrS053Y3ptbnZCOWE1cjhrWE1fNkRxemQ1dHZtTV92QTVVWWkwUzIyQUtLZnIyV2RVYVRTaU5UTi1IdXl2NWh4V3VuMFZNaGdiX1B1ZWoybkcxbmZMenlObHhJclAwNU1GRTZrYXdNNmZuM1pkWmdGRG9nR2VsMU9E?oc=5",
+      "press": "Chosunbiz",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "모건스탠리 “코스피 바닥에 근접…목표치 9000 유지”",
+      "url": "https://n.news.naver.com/mnews/article/366/0001180810?sid=101",
+      "press": "biz.chosun.com",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "증시 포인트: 반도체 중심 상승 출발 전망",
+      "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141860",
+      "press": "opinionnews.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "유아이디, 글로벌탑넷과 AI 데이터센터 신소재 개발 협력",
+      "url": "https://n.news.naver.com/mnews/article/277/0005792787?sid=101",
+      "press": "view.asiae.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "씨엑스아이, 최대주주 300억 자금 투입으로 책임경영 강화",
+      "url": "https://n.news.naver.com/mnews/article/277/0005792779?sid=101",
+      "press": "view.asiae.co.kr",
+      "source": "naver"
+    },
+    {
+      "category": "시장·기타",
+      "title": "네이버 치지직, 월드컵 기간 이용자 248만 명 급증",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXdLM0Z2REgzem41djFpWGJJTEF6Vnh2YW1aU2lEenlfbk5hYlJNbzBOU002Z3ZQVFZmYUN4Y1V4ZW1Ed1ZaOTZMNTZRdFNvQ0FFRnlKZVZ5UFdFWF80NVVSZnBjR291RHpaVWNDemJ6c2Y2M1ZCdDF1aE1tTWVDTmJfREZ1NXBV?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "오늘의 증시: 반도체 종목 강세로 나스닥 상승, 유가 오름세",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLU9uMU51VFFmNFk1emNfOGZYdkhOcXVSWExZOE9JYVBFczA3OXhtdGhrQ2JtNEpqSVVzRG5tbnFYNVh5OXRUVFF3SE5pQl9SWmx1TUJWQ1luanBOb0JULWtOMGk5WS02eUg1X2FmVTBPQmktaTd2c1JnbXRaNnNIRlhFVFBBUTQ?oc=5",
+      "press": "WSJ",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "제이미 다이먼의 최신 경고가 월가에 충격파 전달",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVnowZ1h5MDMxM0pmXy05WDd3MkdwdEhacjlWaFpmeEIzb0ZIRlVfVkx5eUQ1WTI2Rk9vb1F0b0tkend2WXVad2ZxYlNrZ1NRaEhCU3hRckNKTV9oVW5GemYwdldaZ2VjQmNnVjVCY0c1ZDVoT2w2clZzaFBXZ19ONzVEcU40LU5PWXN4UUx6ekRzSmdSb25kMUlURElPSHc?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "1분기 실적 요약: 래티스 세미컨덕터, 칩 섹터 실적 상회",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGNyeXRqNlJpbWhoMlBTS1VQb0ZkSFV6VHNKYXdMUzgxVEtpdzVsX0Q5Wk5reHZmOVAtbld1VzVFbkc2QmdQcGd5dW0wQjZLLVhhS0NabWtZYmNoeklYNDNfMWphelgyQmF1TV9oTlhHODFFajAxbXk2ZFpoLWtOU0dfM19BQjdvT2I4UkdxaEVFb1RVZ0ZvTzlNMDhMSkI3dG9GaXVwRQ?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "기업 실적 발표를 앞두고 지수 선물 소폭 변동",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnWVpRdDA3N19hRFZ5YXlwMFpUSV9YSFoySmxBZ0hpd3hwSjA5RVBxYzRLeHpnaVRIMG5kRXRQQy1vRzVobFNNOWZEVkw5Q0ZMNUlzek1tLXdIeEtXdUI3dmtUMjhOaUo3dzB4UWdMNi1ubE9YUXQ40gF8QVVfeXFMTm5PVndmalk3d08zMTFyTGxydGJRM0pnUmVhcGxFNkZoYWNEaDVqQ2lxRjlXLXJGSndsUjFKWlV2N09sQWVpRmR2cmIyODB3YjdVY2JBUHpHWGJ5ejRMM2stZ0RyT3NYWkNleF9MMXRmOXNtaDM3TkdXMWJVcw?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "주식 시장 뉴스 및 분석: 주요 지수 상승세 지속",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+      "press": "Investor's Business Daily",
+      "source": "international"
+    }
+  ]
+}

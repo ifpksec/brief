@@ -1,0 +1,353 @@
+{
+  "meta": {
+    "generated_at": "2026-07-21T23:36:17.886356+00:00",
+    "run_date": "20260722"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [
+      {
+        "title": "고객예탁금: 1,125,190억원 (+44,371억원)",
+        "description": "신용융자잔고: 333,326억원"
+      }
+    ],
+    "program": [
+      {
+        "title": "KOSPI 프로그램 순매수 +52,626백만원 (차익 +0 / 비차익 +52,626)",
+        "description": "기준일: 20260722"
+      }
+    ],
+    "gainers": [
+      {
+        "title": "#1 동화약품 (+0.00%)",
+        "description": "현재가: 4,995, 거래량: 100"
+      },
+      {
+        "title": "#2 KR모터스 (+0.00%)",
+        "description": "현재가: 267, 거래량: 0"
+      },
+      {
+        "title": "#3 경방 (+0.00%)",
+        "description": "현재가: 8,280, 거래량: 0"
+      },
+      {
+        "title": "#4 삼양홀딩스 (+0.00%)",
+        "description": "현재가: 54,500, 거래량: 0"
+      },
+      {
+        "title": "#5 하이트진로 (+0.00%)",
+        "description": "현재가: 14,620, 거래량: 0"
+      }
+    ],
+    "traders": [
+      {
+        "title": "#1 KODEX 200선물인버스2X 거래대금 0억원",
+        "description": "현재가: 101, 거래량: 306,878주"
+      },
+      {
+        "title": "#2 비에이치 거래대금 4억원",
+        "description": "현재가: 16,540, 거래량: 30,000주"
+      },
+      {
+        "title": "#3 SOL SK하이닉스선물단일종목인버스2X 거래대금 2억원",
+        "description": "현재가: 11,230, 거래량: 20,619주"
+      },
+      {
+        "title": "#4 데이타솔루션 거래대금 0억원",
+        "description": "현재가: 6,040, 거래량: 12,275주"
+      },
+      {
+        "title": "#5 흥아해운 거래대금 0억원",
+        "description": "현재가: 1,870, 거래량: 8,697주"
+      }
+    ],
+    "investor_trends": [
+      {
+        "title": "KODEX 200선물인버스2X 외국인 -196,765,670주 / 기관 -207,508,101주 / 개인 +392,016,181주",
+        "description": "직전 영업일(20260721) 순매수 수량"
+      },
+      {
+        "title": "비에이치 외국인 -8,070주 / 기관 -28,355주 / 개인 +35,417주",
+        "description": "직전 영업일(20260721) 순매수 수량"
+      },
+      {
+        "title": "SOL SK하이닉스선물단일종목인버스2X 외국인 -79,616주 / 기관 -4,702,060주 / 개인 +5,151,668주",
+        "description": "직전 영업일(20260721) 순매수 수량"
+      },
+      {
+        "title": "데이타솔루션 외국인 +81,706주 / 기관 +555주 / 개인 -85,221주",
+        "description": "직전 영업일(20260721) 순매수 수량"
+      },
+      {
+        "title": "흥아해운 외국인 +83,981주 / 기관 -4,988주 / 개인 -51,085주",
+        "description": "직전 영업일(20260721) 순매수 수량"
+      }
+    ]
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.19 (+0.20%)",
+        "description": "전일종가 100.99 / 변동 +0.2020"
+      },
+      {
+        "title": "미국 10년물 금리: 4.63 (+0.65%)",
+        "description": "전일종가 4.60 / 변동 +0.0300"
+      },
+      {
+        "title": "VIX 변동성지수: 17.05 (-8.58%)",
+        "description": "전일종가 18.65 / 변동 -1.6000"
+      },
+      {
+        "title": "S&P 500: 7509.20 (+0.89%)",
+        "description": "전일종가 7443.28 / 변동 +65.9204"
+      },
+      {
+        "title": "나스닥100: 29155.18 (+1.93%)",
+        "description": "전일종가 28604.23 / 변동 +550.9492"
+      },
+      {
+        "title": "다우존스: 52224.64 (+0.74%)",
+        "description": "전일종가 51839.26 / 변동 +385.3789"
+      },
+      {
+        "title": "USD/KRW: 1480.32 (+0.36%)",
+        "description": "전일종가 1475.01 / 변동 +5.3099"
+      },
+      {
+        "title": "USD/JPY: 163.20 (+0.44%)",
+        "description": "전일종가 162.49 / 변동 +0.7160"
+      },
+      {
+        "title": "코스피: 6516.27 (-4.46%)",
+        "description": "전일종가 6820.60 / 변동 -304.3301"
+      },
+      {
+        "title": "코스닥: 749.64 (-5.33%)",
+        "description": "전일종가 791.84 / 변동 -42.2000"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.006 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.92 | GEX +0.2B$ (만기:2026-07-21)",
+        "description": "콜OI 228,693 / 풋OI 210,232 → 균형 | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.51 | GEX +3.9B$ (만기:2026-07-21)",
+        "description": "콜OI 114,882 / 풋OI 173,926 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $172.90 (+6.16%)",
+        "description": "거래량 17,037,939주 (평균대비 0.6x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $751.95 (+0.88%)",
+        "description": "거래량 3,454,716주 (평균대비 0.7x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 61.3% (122/199종목)",
+        "description": "평균 MA 대비 위치: +1.5%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 25/100 (Extreme Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-06-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.2",
+        "description": "Date: 2026-06-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 332.568",
+        "description": "Date: 2026-06-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 2.1",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.6000000000",
+        "description": "Date: 2026-07-20, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.74조달러",
+        "description": "기준일: 2026-07-15 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.35조달러",
+        "description": "기준일: 2026-07-15 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 7959.76억달러",
+        "description": "기준일: 2026-07-15 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.00억달러",
+        "description": "기준일: 2026-07-21 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 269bp (2.69%)",
+        "description": "기준일: 2026-07-20 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 78bp (0.78%)",
+        "description": "기준일: 2026-07-20 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market Today: Nasdaq Rises on Chip Stock Gains, Oil Climbs — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLU9uMU51VFFmNFk1emNfOGZYdkhOcXVSWExZOE9JYVBFczA3OXhtdGhrQ2JtNEpqSVVzRG5tbnFYNVh5OXRUVFF3SE5pQl9SWmx1TUJWQ1luanBOb0JULWtOMGk5WS02eUg1X2FmVTBPQmktaTd2c1JnbXRaNnNIRlhFVFBBUTQ?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Jamie Dimon's Latest Warning Sends Shockwaves Through Wall Street. History Is Very Clear About What Happens Next. - Yaho",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVnowZ1h5MDMxM0pmXy05WDd3MkdwdEhacjlWaFpmeEIzb0ZIRlVfVkx5eUQ1WTI2Rk9vb1F0b0tkend2WXVad2ZxYlNrZ1NRaEhCU3hRckNKTV9oVW5GemYwdldaZ2VjQmNnVjVCY0c1ZDVoT2w2clZzaFBXZ19ONzVEcU40LU5PWXN4UUx6ekRzSmdSb25kMUlURElPSHc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Q1 Earnings Recap: Lattice Semiconductor (NASDAQ:LSCC) Tops Processors and Graphics Chips Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGNyeXRqNlJpbWhoMlBTS1VQb0ZkSFV6VHNKYXdMUzgxVEtpdzVsX0Q5Wk5reHZmOVAtbld1VzVFbkc2QmdQcGd5dW0wQjZLLVhhS0NabWtZYmNoeklYNDNfMWphelgyQmF1TV9oTlhHODFFajAxbXk2ZFpoLWtOU0dfM19BQjdvT2I4UkdxaEVFb1RVZ0ZvTzlNMDhMSkI3dG9GaXVwRQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market Today: Nasdaq Rises on Chip Stock Gains, Oil Climbs — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLU9uMU51VFFmNFk1emNfOGZYdkhOcXVSWExZOE9JYVBFczA3OXhtdGhrQ2JtNEpqSVVzRG5tbnFYNVh5OXRUVFF3SE5pQl9SWmx1TUJWQ1luanBOb0JULWtOMGk5WS02eUg1X2FmVTBPQmktaTd2c1JnbXRaNnNIRlhFVFBBUTQ?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Stock futures are little changed as investors gear up for more earnings: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnWVpRdDA3N19hRFZ5YXlwMFpUSV9YSFoySmxBZ0hpd3hwSjA5RVBxYzRLeHpnaVRIMG5kRXRQQy1vRzVobFNNOWZEVkw5Q0ZMNUlzek1tLXdIeEtXdUI3dmtUMjhOaUo3dzB4UWdMNi1ubE9YUXQ40gF8QVVfeXFMTm5PVndmalk3d08zMTFyTGxydGJRM0pnUmVhcGxFNkZoYWNEaDVqQ2lxRjlXLXJGSndsUjFKWlV2N09sQWVpRmR2cmIyODB3YjdVY2JBUHpHWGJ5ejRMM2stZ0RyT3NYWkNleF9MMXRmOXNtaDM3TkdXMWJVcw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Stock Market Today: Nasdaq Rises on Chip Stock Gains, Oil Climbs — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLU9uMU51VFFmNFk1emNfOGZYdkhOcXVSWExZOE9JYVBFczA3OXhtdGhrQ2JtNEpqSVVzRG5tbnFYNVh5OXRUVFF3SE5pQl9SWmx1TUJWQ1luanBOb0JULWtOMGk5WS02eUg1X2FmVTBPQmktaTd2c1JnbXRaNnNIRlhFVFBBUTQ?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Alphabet: Earnings And Gemini 3.5 Pro Delay (NASDAQ:GOOG) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTmhrVGY2ZTVLcF9XUlRRY3BEeWZScUJSQXFlVHZoQkdRLXR6bldVYldRc2M1WDBKa1dCazlob3lob2VXYTI2THdFZ2Y2R2hidzRZQ0hGd0xmZHVTWGY3bG5fVDhxUVctR1g2by11TWRUaS0zcURXMnlQRFNuRnFqcGgwVDhsTmk5RG5TYWVJa3J5ZU1p?oc=5",
+        "press": "Seeking Alpha"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Foreign buying steers KOSPI outlook in South Korea, Hana report says - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOEUxUXgtdEhOWU90clFlaHdVc0lqVFZ5MVY2V1EtUTZOa29RWWdEdFZuMDRwRlp2VjFELUdoWk8yWWxJTE0xN2dsaV8xYWdqTWRDaTdYbkdPUkRsNmZGTXFXVjlYR2tuSkJPQzFtQVFRbkVWeE1hUE81NXNwcUpwX9IBlAFBVV95cUxNSDkzUXZyVXlHeVI0T28tT29Cb0lrS053Y3ptbnZCOWE1cjhrWE1fNkRxemQ1dHZtTV92QTVVWWkwUzIyQUtLZnIyV2RVYVRTaU5UTi1IdXl2NWh4V3VuMFZNaGdiX1B1ZWoybkcxbmZMenlObHhJclAwNU1GRTZrYXdNNmZuM1pkWmdGRG9nR2VsMU9E?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Here's Why We Think Abko (KOSDAQ:129890) Is Well Worth Watching - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM2ZQTlJqYnNvX3pmVmNtRG4tVWY1Wm5yaERucS11WmZVNlB3dmRtR3FxMVI5ak5mamZ0Z1VQTy16dk9sc0ctZDVXLWNxdVBWUUlMTEdmcTZGNFMyb3YwR2JLU0lCMktvRDBwVHRHbUctR3lZN0VpZDZBZXRBbDl0UEtkZkMzdDhiaTc0MzlsUUtOSWUzNmNxaUdGdVE1WHBoLUtqZVJ6VWxXV2RzQldMb2lhSjBhdHZBT1I0SENxYnFQZkROMXhR0gHMAUFVX3lxTE5QSGNPY3ZLazRIb291SFV4UG9rdjZ4NFFKVmdxcUh6N1AwVUJHZXRBcEFzUDllVmQ3elYzSGZlRFdER3d0ZVN5bnZuRUlQaWtybjFROWJjbHBtQ2hjMUdfVFc0YmpIUUJ4U1dHak9DM2dFcUVRRFlzV2pqbXFZb1pkVUUyNjJHb2tKSDgwT1NjSzRBemZaNkxJSmI3M3RlM3RCWk5LdjRpZTJtQkxqWnRMbjlNdDIwQkJMeWZMaWxib0FTdWVGMGZxT2w4UQ?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "KB Securities says AI efficiency spurs HBM demand, boosts SK hynix outlook - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc2hLN01BUjJJMmIwR0xYY2pOVHA4cllHVklBTFA4VF92Sm13Y0QwSVo3RGZlUnZmbWwxWjhZSFp6ck5PTU9SeldCdEhUTmZBbFo2ZTI5ZzVDZ3RnRHdsWHRDTTZPMll3aHdwZWVpcmFDcXlTTXpNbjVsanU5YnJpOdIBlAFBVV95cUxNRkhKOXl1V0JxVkg3Y2tETUhFLXdZbXJfOUgtYmUyUkFhVFI4S0hiRmpMSXp1RkNQN2FXY1pfMzI2aFE3RGg5bGhDbVBRV3FGSkR2SnZkOG42VUNUcnpZN1gwQlRXZHVsSHIyQUxIbkdKWGpIUjQxWUpTbGFockluSno5NEZFVG9wV0oyMG5WdjFsMlBw?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Exclusive: Naver's Chzzk Sees 2.48 Million User Surge During World Cup - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdXdLM0Z2REgzem41djFpWGJJTEF6Vnh2YW1aU2lEenlfbk5hYlJNbzBOU002Z3ZQVFZmYUN4Y1V4ZW1Ed1ZaOTZMNTZRdFNvQ0FFRnlKZVZ5UFdFWF80NVVSZnBjR291RHpaVWNDemJ6c2Y2M1ZCdDF1aE1tTWVDTmJfREZ1NXBV?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [
+      {
+        "title": "[기업이슈] 뉴욕발 호조에 삼전·닉스 급등…AI 메모리 랠리 재점화",
+        "url": "https://n.news.naver.com/mnews/article/374/0000522939?sid=101",
+        "press": "biz.sbs.co.kr"
+      },
+      {
+        "title": "[증시 포인트] 반도체 중심 상승 출발 전망",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141860",
+        "press": "www.opinionnews.co.kr"
+      },
+      {
+        "title": "모건스탠리 “코스피 바닥에 근접…목표치 9000 유지”",
+        "url": "https://n.news.naver.com/mnews/article/366/0001180810?sid=101",
+        "press": "biz.chosun.com"
+      },
+      {
+        "title": "유아이디, 글로벌탑넷과 AI 데이터센터 신소재 개발 협력…차세대 ESS 시...",
+        "url": "https://n.news.naver.com/mnews/article/277/0005792787?sid=101",
+        "press": "view.asiae.co.kr"
+      },
+      {
+        "title": "씨엑스아이, 최대주주 300억 자금 투입…유증 이어 장내매수로 책임경영...",
+        "url": "https://n.news.naver.com/mnews/article/277/0005792779?sid=101",
+        "press": "view.asiae.co.kr"
+      },
+      {
+        "title": "[클릭 e종목]\"플라즈맵, 신제품 2종·글로벌 계약 앞세워 반등 시동\"",
+        "url": "https://n.news.naver.com/mnews/article/277/0005792774?sid=101",
+        "press": "view.asiae.co.kr"
+      },
+      {
+        "title": "[기업이슈] 뉴욕발 호조에 삼전·닉스 급등…AI 메모리 랠리 재점화",
+        "url": "https://n.news.naver.com/mnews/article/374/0000522939?sid=101",
+        "press": "biz.sbs.co.kr"
+      },
+      {
+        "title": "SK하이닉스 성과급 손보나…PS 절반 자사주 의무화에 노조 반발",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=534340",
+        "press": "www.joongangenews.com"
+      },
+      {
+        "title": "[오늘의 브릿지경제 1면] “레버리지 ETF 막차 타자”… 자금 더 몰린다",
+        "url": "https://www.viva100.com/article/20260721501142",
+        "press": "www.viva100.com"
+      },
+      {
+        "title": "[기업이슈] 뉴욕발 호조에 삼전·닉스 급등…AI 메모리 랠리 재점화",
+        "url": "https://n.news.naver.com/mnews/article/374/0000522939?sid=101",
+        "press": "biz.sbs.co.kr"
+      },
+      {
+        "title": "SK하이닉스 성과급 손보나…PS 절반 자사주 의무화에 노조 반발",
+        "url": "https://www.joongangenews.com/news/articleView.html?idxno=534340",
+        "press": "www.joongangenews.com"
+      },
+      {
+        "title": "[증시 포인트] 반도체 중심 상승 출발 전망",
+        "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=141860",
+        "press": "www.opinionnews.co.kr"
+      }
+    ],
+    "telegram": []
+  }
+}
