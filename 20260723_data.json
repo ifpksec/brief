@@ -1,0 +1,280 @@
+{
+  "meta": {
+    "generated_at": "2026-07-22T23:35:47.468268+00:00",
+    "run_date": "20260723"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.14 (-0.04%)",
+        "description": "전일종가 101.18 / 변동 -0.0390"
+      },
+      {
+        "title": "미국 10년물 금리: 4.66 (+0.63%)",
+        "description": "전일종가 4.63 / 변동 +0.0290"
+      },
+      {
+        "title": "VIX 변동성지수: 16.64 (-2.40%)",
+        "description": "전일종가 17.05 / 변동 -0.4100"
+      },
+      {
+        "title": "S&P 500: 7498.96 (-0.14%)",
+        "description": "전일종가 7509.20 / 변동 -10.2402"
+      },
+      {
+        "title": "나스닥100: 28998.10 (-0.54%)",
+        "description": "전일종가 29155.18 / 변동 -157.0801"
+      },
+      {
+        "title": "다우존스: 52218.58 (-0.01%)",
+        "description": "전일종가 52224.64 / 변동 -6.0625"
+      },
+      {
+        "title": "USD/KRW: 1476.49 (-0.22%)",
+        "description": "전일종가 1479.72 / 변동 -3.2300"
+      },
+      {
+        "title": "USD/JPY: 163.10 (-0.05%)",
+        "description": "전일종가 163.19 / 변동 -0.0870"
+      },
+      {
+        "title": "코스피: 6747.95 (+3.56%)",
+        "description": "전일종가 6516.27 / 변동 +231.6802"
+      },
+      {
+        "title": "코스닥: 753.34 (+0.49%)",
+        "description": "전일종가 749.64 / 변동 +3.7000"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.079 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.31 | GEX -1.1B$ (만기:2026-07-22)",
+        "description": "콜OI 262,643 / 풋OI 344,770 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.14 | GEX -1.3B$ (만기:2026-07-22)",
+        "description": "콜OI 99,387 / 풋OI 212,851 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $170.43 (-1.43%)",
+        "description": "거래량 12,508,027주 (평균대비 0.5x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $750.93 (-0.14%)",
+        "description": "거래량 3,616,165주 (평균대비 0.7x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 65.3% (130/199종목)",
+        "description": "평균 MA 대비 위치: +1.3%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 33/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [
+      {
+        "title": "Federal Funds Rate: 3.63",
+        "description": "Date: 2026-06-01, Series ID: FEDFUNDS"
+      },
+      {
+        "title": "Unemployment Rate: 4.2",
+        "description": "Date: 2026-06-01, Series ID: UNRATE"
+      },
+      {
+        "title": "CPI (Inflation): 332.568",
+        "description": "Date: 2026-06-01, Series ID: CPIAUCSL"
+      },
+      {
+        "title": "Real GDP: 2.1",
+        "description": "Date: 2026-01-01, Series ID: A191RL1Q225SBEA"
+      },
+      {
+        "title": "Treasury Yield 10Y: 4.6300000000",
+        "description": "Date: 2026-07-21, Series ID: DGS10"
+      }
+    ],
+    "liquidity": [
+      {
+        "title": "Fed 자산총계: 6.74조달러",
+        "description": "기준일: 2026-07-15 (FRED WALCL)"
+      },
+      {
+        "title": "지급준비금 잔액: 0.35조달러",
+        "description": "기준일: 2026-07-15 (FRED WLRRAL)"
+      },
+      {
+        "title": "재무부 TGA 잔액: 7959.76억달러",
+        "description": "기준일: 2026-07-15 (FRED WDTGAL)"
+      },
+      {
+        "title": "역레포(RRP) 잔액: 0.00억달러",
+        "description": "기준일: 2026-07-22 (FRED RRPONTSYD)"
+      }
+    ],
+    "credit": [
+      {
+        "title": "미국 HY 스프레드(OAS): 269bp (2.69%)",
+        "description": "기준일: 2026-07-21 — 안정 | FRED BAMLH0A0HYM2"
+      },
+      {
+        "title": "미국 IG 스프레드(OAS): 78bp (0.78%)",
+        "description": "기준일: 2026-07-21 — 안정 | FRED BAMLC0A0CM"
+      }
+    ]
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "S&P 500 closes little changed as higher oil prices keep stocks under pressure: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnWVpRdDA3N19hRFZ5YXlwMFpUSV9YSFoySmxBZ0hpd3hwSjA5RVBxYzRLeHpnaVRIMG5kRXRQQy1vRzVobFNNOWZEVkw5Q0ZMNUlzek1tLXdIeEtXdUI3dmtUMjhOaUo3dzB4UWdMNi1ubE9YUXQ40gF8QVVfeXFMTm5PVndmalk3d08zMTFyTGxydGJRM0pnUmVhcGxFNkZoYWNEaDVqQ2lxRjlXLXJGSndsUjFKWlV2N09sQWVpRmR2cmIyODB3YjdVY2JBUHpHWGJ5ejRMM2stZ0RyT3NYWkNleF9MMXRmOXNtaDM3TkdXMWJVcw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock Market Today: Telsa, Google Earnings in Focus; Oil Price Touches $95 — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU1NUeGN5WWJtTDR2OWMzS1FUTE5XM0xjNlA2NTQwUDI0cW1sbnBSQmVFRUNKVWxqZTZVeGtQbnhydld5NXQ5anpKSWlOeUpPVlhYN2NfZU1pRklUVUF0QUdMQ2NMZktpTkxnd0F2VVJSYll4c0pFZXlqeTNKeExwZjN4YTRCSzQ?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZC1VM2FuMXJKVlRveFk2VzFRWnU1OWtHX2pLV2laMm53dzRUcUNiTDVDcmZydmpJUDNpcUdtWF9qaEk3Q1dLT3hMdUh2LXAzcjVDekpJa2xRMnJuaG1yYVhQZlJramx5WlpiT1kwVGRwNE91XzlfbDZQYmg3WXNwTlFsdjJDMklGWm9FZk9MS1pqanlZTDRua0FKNS0?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "S&P 500 closes little changed as higher oil prices keep stocks under pressure: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBnWVpRdDA3N19hRFZ5YXlwMFpUSV9YSFoySmxBZ0hpd3hwSjA5RVBxYzRLeHpnaVRIMG5kRXRQQy1vRzVobFNNOWZEVkw5Q0ZMNUlzek1tLXdIeEtXdUI3dmtUMjhOaUo3dzB4UWdMNi1ubE9YUXQ40gF8QVVfeXFMTm5PVndmalk3d08zMTFyTGxydGJRM0pnUmVhcGxFNkZoYWNEaDVqQ2lxRjlXLXJGSndsUjFKWlV2N09sQWVpRmR2cmIyODB3YjdVY2JBUHpHWGJ5ejRMM2stZ0RyT3NYWkNleF9MMXRmOXNtaDM3TkdXMWJVcw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Forget QQQ. This Semiconductor Fund Nearly Quintupled Its 2026 Gain - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVGZlbWwza1Z0M3EtQzloaFhkc0pvUzJCdm5NeDVHZ2xpRC1zVXBQNkhRdmhjdWtTR0x5N2xmMkZ4bXlDQzdEUTVWaU9aTU1GY3NlY3RZZGgzR3ZVWjVjZmxJQmtJeDZUeW5aN01qdnh3dUhMNzhVZjR3YXNFYnk3Nk5JY0JHajVyRkJNQURsUld5ck5sazJfUEZSZWpuOEtPN2Mw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "What Surging Bond Yields Mean for Consumers and Markets - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHlWbGNnb2ZHaDhYWi1jX203bDRPS1I2Q2N0bDI2UDcyVTFLYjF6QXdUTUt5clIyMTlTMjFxdUw3MExDdWh6czRIbXpkSW9Xa2RPLW1JbXcxYU1PRDNVWVZTNTFuQkZveGhtRGtCbDhqbTJYa3pCaERIZUp0TlgtcDBaM2FHQ09jclp2Ty1ZbzhOc1Vaem1hbF9aV2dpRGdYNDNNTA?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Texas capital markets test IPO depth against growth - Dallas News",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYnpqaEpRYnRWVE94bGNjUm1vQUU1azBBQVVLcmFzWE02STcxWTZDaHE3bW5YZ2IzVzR6ZVZHX01FNkpHSUFEV0U2N0p5eHdzWmltcEVjUnQ2TFhYcXVPZ2RUa3ZEQ1VrQVp5cFE5WDh1eU5lN2lPUjVQRnAycnFEaS1KRFNuNWs4TmczZDBUeXY2M3FGTGszQk9LNDVDWldWSWc?oc=5",
+        "press": "Dallas News"
+      },
+      {
+        "title": "Is DigitalOcean Holdings (DOCN) Fully Valued On Index Inclusion Hopes And Barclays Support? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcWsyWmE0dHNRTThIcXotbFMzdWk0TVlBcnlhdWpkSzRvWFl4b1dyYXdfV0RKVzJ4cF9pRl9hMFNzTFpWR00wZjI4UmlPNjN6LVZRMEFyVU90azRkY3d6UDIyb0dPaFItVEhCZ1dSZTYzQjNZd0NwMDhpX1lOa0JxclIyQXpFMGJoRENSMmdSVEQwSmFXdW5YOWhMTHNuVTd5WTJGWWdfSzJQMV9xc2dBX1BadnFScmd1NUdGbi0ydk5xN1ZIdm1DRzlVckFZOW9KcktwdNIB2gFBVV95cUxPaVJmaDNESE1fZ2hIMlZnN3RIVVBIQ3ZsOTJSZHV4YmpJTDltVEctMTFSSWtLSDhyOHpneG9ZdmtlUXdvOWlPRlZHNm9zZWhVN2ZtcWYzc05ZdHkzNGpVWFF5U0pudHZIc1VjOEtRMmxPTGV1YzZ2M09lSFVyYThQX1p5a0VsSkhnZzY3SGdidFY3UE4yNmNKOHdQSDFLd2dseEhwanZpLWdiTU9kckJ1UHRQMzYxVktMVHhoX1JLeHdkdTRTb0lGMjl4Q1RCTmxzeGRSY2tZV3Z3Zw?oc=5",
+        "press": "simplywall.st"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "KOSPI Lacks Momentum, Fails to Recover 7,000 Points as Semiconductor Gains Reversed [1-Min Brief] - 아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jOTloVG0tVmpCS19pbjJOOWI2cHBaeHJ3SDVIellNS3p3Wm5CTVBrcG5hcHRrNEpQbkhxS21Ba3A3R29HWDYtajE5TWRsc1NOUExuQVFZZkRhVmVLM2ZOcWtDQ0liclItZEhjLWNlb21hWXR3dHdOb0VoWQ?oc=5",
+        "press": "아시아경제"
+      },
+      {
+        "title": "Global Technology Wins Preliminary Kosdaq Approval, Targets IPO This Year - thelec.net",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mbTZKNmZKSG5LRG1oNTJmc2hweEJOampUSGpzdXRGbjZlUEY3b0RpQ0JBaXdyU25rYVFMdmlrTml5R0JLQlBaSlFrYXpPMjJXQWN0WU90TnphSmVDc1J2SGwxQXM5WEk?oc=5",
+        "press": "thelec.net"
+      },
+      {
+        "title": "Samsung Electronics' Roh Tae-moon Receives 5.8 Billion Won Shares - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc3FqNDBtWlJ4cXhPdDctWk00VWNfZlc0SWJQNGQ1YUI5YVo2MnFNN0N3bV9MWFZfMVhvLUl4SUlhRXlFTURKS2hNQ05NSUhvV2Jvc0JlNzdPOTE1R3lGVnVOa1E3d1V6Rl84aWRRVk9fa0lxN0VwbTRyQ0JseWltR1dMd0dfX3lx?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Pay more to play: Young people are cutting back on socializing as inflation hits hard - Korea JoongAng Daily",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZEEyWHhQdjhFbUZ3cWxVTUdGYkV2S3B6SEwyc0tHenIzcXdRX2Nxb21tMWEtWVpJY2VXYjVfZWRodFc1VWdBU2JaQ0R0X0JPRDdLekZIbWFmVC1PclRWUUJmOXpyTS00NVNGOU1BZ2FpX1AySXA4Y0JOQ1VQbDR3cHcxY2hSSVpfMFF1MXVOaURlb3VSM2lib0lrRW8xVTRqWTJsd2t3aGxObzAwbGlWUHZNbWxKRmpZX0VCNlJjQUVONVRpVkw5czhBeFZZQzA?oc=5",
+        "press": "Korea JoongAng Daily"
+      }
+    ],
+    "naver": [
+      {
+        "title": "[멈춰 선 코스피] \"반도체 빼면 2,787\"…코리아 디스카운트 여전",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426335",
+        "press": "news.einfomax.co.kr"
+      },
+      {
+        "title": "국민연금이사장 \"기승전...국민연금?\"",
+        "url": "https://www.viewsnnews.com/article?q=237379",
+        "press": "www.viewsnnews.com"
+      },
+      {
+        "title": "“AI 투자 확대냐 과잉지출이냐”… 알파벳 실적에 코스피 ‘변동성 시...",
+        "url": "https://www.kbmaeil.com/article/20260723500040",
+        "press": "www.kbmaeil.com"
+      },
+      {
+        "title": "[멈춰 선 코스피] \"반도체 빼면 2,787\"…코리아 디스카운트 여전",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426335",
+        "press": "news.einfomax.co.kr"
+      },
+      {
+        "title": "[더벨][코스닥 리빌딩 워치] 흑자전환 성공한 캠시스, 성장동력 마련",
+        "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202607221547540720106816",
+        "press": "www.thebell.co.kr"
+      },
+      {
+        "title": "[니어스랩 IPO] 해외까지 비교군 확대해 공모밴드 고수···밸류 적정성...",
+        "url": "https://www.topdaily.kr/articles/111085",
+        "press": "www.topdaily.kr"
+      },
+      {
+        "title": "삼성전자, 美 소비자 가전 만족도 '최다 수상'…J.D.파워 6개 부문 1위",
+        "url": "https://www.ajunews.com/view/20260723082032270",
+        "press": "www.ajunews.com"
+      },
+      {
+        "title": "삼성전자, 대표 직속 'RX사업추진실' 신설… 로봇사업 본격화",
+        "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=356339",
+        "press": "www.biztribune.co.kr"
+      },
+      {
+        "title": "아이에스동서, 건설부문 반등…콘크리트로 반도체 공장 수요까지",
+        "url": "http://www.datanews.co.kr/news/article.html?no=145673",
+        "press": "www.datanews.co.kr"
+      },
+      {
+        "title": "아이에스동서, 건설부문 반등…콘크리트로 반도체 공장 수요까지",
+        "url": "http://www.datanews.co.kr/news/article.html?no=145673",
+        "press": "www.datanews.co.kr"
+      },
+      {
+        "title": "[멈춰 선 코스피] 빅테크 투자계획이 반등 열쇠…\"CAPEX 확대 확인돼야...",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4426333",
+        "press": "news.einfomax.co.kr"
+      },
+      {
+        "title": "[허정수칼럼] 멈추지 않는 삼성전자 노동권 확장",
+        "url": "https://n.news.naver.com/mnews/article/293/0000087959?sid=110",
+        "press": "www.bloter.net"
+      }
+    ],
+    "telegram": []
+  }
+}
