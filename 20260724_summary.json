@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "generated_at": "2026-07-23T23:36:52.468932+00:00",
+    "run_date": "20260724"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 31,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 101.44,
+      "change": 0.29,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.7,
+      "change": 0.99,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 18.7,
+      "change": 12.38,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7408.3,
+      "change": -1.21,
+      "insight": "전일종가 7498.96 / 변동 -90.6602",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 28454.81,
+      "change": -1.87,
+      "insight": "전일종가 28998.10 / 변동 -543.2910",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51711.65,
+      "change": -0.97,
+      "insight": "전일종가 52218.58 / 변동 -506.9297",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1474.42,
+      "change": -0.08,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 163.8,
+      "change": 0.44,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "중동 리스크 및 글로벌 증시 급락으로 국내 변동성 확대 우려",
+      "tag": "Bearish"
+    },
+    {
+      "point": "삼성·하이닉스 ETF 자금 쏠림에 코스닥 거래대금 3분의 1 토막",
+      "tag": "Bearish"
+    },
+    {
+      "point": "EWY 2.01% 상승하며 글로벌 하락세 대비 상대적 견조함 유지",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 31 기록, 공포 구간 진입에 따른 저점 매수 관심",
+      "tag": "Neutral"
+    },
+    {
+      "point": "미래에셋증권 주도로 소노·SFC 등 신규 IPO 시장 활성화 기대",
+      "tag": "Bullish"
+    },
+    {
+      "point": "환율 1470원대 고공행진 지속되며 외인 수급 부담 요인 작용",
+      "tag": "Bearish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "AI 회의론 확산에 매그니피센트7 시총 7,670억 달러 증발",
+      "tag": "Bearish"
+    },
+    {
+      "point": "나스닥 1.87% 급락, 테슬라와 알파벳 실적 실망감에 투매 심화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "브렌트유 100달러 돌파 및 인플레이션 우려에 다우 500P 하락",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미 10년물 금리 4.7% 육박하며 기술주 밸류에이션 압박 가중",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VIX 지수 12% 폭등 및 딜러 숏감마 상태로 변동성 확대 국면",
+      "tag": "Bearish"
+    },
+    {
+      "point": "HY/IG 신용 스프레드는 안정적이나 유동성 지표는 타이트한 흐름",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "시장·기타",
+      "title": "중동 긴장·미 증시 급락…코스피 변동성 커지나",
+      "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000051939",
+      "press": "전남일보",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "삼성-하이닉스 ETF로 자금 쏠리며 코스닥 거래대금 급락",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT3hKVnF1d01GbjFyMGlXWVU2MjBiNlJ3YXNzc21VM1BWMWZEUFhCX01IN1VtRzlrQU9TTHNTRnc3WWFsRkVJSmFYRE56SUxnWTQxdGRuTFdiYzQzTnNBc1dBb2V0VGRGYUtsRU5nREZ3WUhZaDBxTVFoOFU3UUp4VFY1bG5GWklmTkZwUm1n?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "미래에셋, 소노·SFC·에스텍 주도로 코스피 IPO 붐 견인",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWjdkUTZqNW1oTGpucGZ3NlFsOVI0NWRSb05BWEtWMHdwUFUwSUROSTFwdHR1NUpSa3RReGNpUVc2RU5objBqa2o3eVFCNkNjd3E2QWFXcW10Z291TEpNQWFzN1JIc244RzdfRW1WUnA0cVpHTVFXY0ZCNmFwNTFUN9IBlAFBVV95cUxOVXM5UW53cjBQVk9HMGJjYkdMaTZiekt3d1dtSUhqc0N3RVJ5bmlqb1pjV1BnZjNXS3lMd0dDbnJaZ29zZzZfS2FRTG1Xenh5U1dLbklTWmJYQm1RVGY3a0dYVUZB?oc=5",
+      "press": "Chosunbiz",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "중동 리스크에 코스피 또 흔들리나…7000선 사수 시험대",
+      "url": "https://www.kbmaeil.com/article/20260724500048",
+      "press": "경북매일",
+      "source": "naver"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "[아이온의 AI:온] 통제선 넘은 진화…해커가 된 AI",
+      "url": "https://n.news.naver.com/mnews/article/448/0000629002?sid=004",
+      "press": "TV조선",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "[소룩스-아리바이오 합병] 적정 비율 두고 주주 불만 고조",
+      "url": "https://news.dealsitetv.com/articles/173655",
+      "press": "딜사이트",
+      "source": "naver"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "제논, 코스닥 상장예심 청구…흑자 기반 일반 상장 추진",
+      "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1717598",
+      "press": "EBN",
+      "source": "naver"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "AI 회의론에 매그니피센트 7 시가총액 7,670억 달러 증발",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd3FDZWU4M0lzN0pmSTdmaFN1VnRWVkl4YUZTT1lvc2NsM2puNWFtRFliaGNiVk43a2RKSGs0OWg4Nkh2UG1jQTlvMkJCMjBvZ0h0NkwxSjUwVjZfUm9CaXlBSGMzdTEzNVRQMUhnZ05WejBtTzVLZjhNWUdJUDctdTNOVUc5bC1sM0I2NUI2QVBHckY3aE5tZHBUM2lLS0F5ZWJvbWhiZzBjUWJZQkxaVnE2RXE?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "브렌트유 100달러 돌파 속 다우 500P 하락, 테슬라·알파벳 폭락",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1vblI0ZnhoVnRkR2FISkRsT3hDd0UzZVhPd1JmaGFldHpEY1BaTl96dmtCcXFvU0ZJdHJ0U3kxS0t6eTY3LUUzTXo5TExReU5IdWJsbVc5Z1pKekJuWVpxZTBkdjc2Tm52b3MxYVRFU0lFTEN3WW9B0gF8QVVfeXFMUHJIVU9pa2lVQ1YxcGVuVXBIbFN4M1JJS1BCQ0dvTklEbmhlYjRrelFmVXNSbXVZLVhBZHVNZjcxZlU1OEtyNU1UaGo1Vjdua1p3MFUxa0dPYlo4ay1HN0k0eXBNcXlfU0ZRX1gtb3dPOXVhbC1IR3RWWlZNZg?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "반도체주 폭락, 저가 매수를 고려해볼 만한 3가지 ETF",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOREJWalBOSWNyQWQxcVpSOUtjQWdjb3JvLWdJa0lralU2RlVFdndlSVd0aGFpOGVLX0FnVFpfbllNNEhDRGZZXzlfQ3hvVldOMHZjdERyMXpDaXdKNU5WekV2VVJpR3dWV1JnQ01YUXpJa281ZjlIcG40U0FhbFI4VWYwR2RqYWYzQmFpUzRuY0RJdw?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "기술주 투매 심화 및 유가 배럴당 100달러 돌파에 미 증시 하락",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMEYtMzJOZ2tzUEUxdUFZQVBVeHhjQS1uVzNWQ3ZPcTdud2RYUjJ2dFNpMnctYVUtTjRLLVU2VWxQeXkwemFKZFFHcXQ0N1hrdkx0S1pWWDYxNFRIVXFpWGpBSHRVUjY2dVRrNUttWTdGWkhwN0pJQTNGNGRGN1FYcU9qV0lKTkhjNVFrdFlCWjRYdUZYSnZF?oc=5",
+      "press": "WSJ",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "급등하는 국채 수익률이 소비자와 시장에 미치는 영향",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHlWbGNnb2ZHaDhYWi1jX203bDRPS1I2Q2N0bDI2UDcyVTFLYjF6QXdUTUt5clIyMTlTMjFxdUw3MExDdWh6czRIbXpkSW9Xa2RPLW1JbXcxYU1PRDNVWVZTNTFuQkZveGhtRGtCbDhqbTJYa3pCaERIZUp0TlgtcDBaM2FHQ09jclp2Ty1ZbzhOc1Vaem1hbF9aV2dpRGdYNDNNTA?oc=5",
+      "press": "WSJ",
+      "source": "international"
+    },
+    {
+      "category": "부동산·유동성",
+      "title": "2026-2035 상업용 부동산 시장 전망 분석",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOMXU4T19kSHQxWC1LaUQ0NGFhcFF5UDhJT3VoaWtGclF4TUNwOWZYclBBaGpZMVZNeVNFQUJPbWNJdEYtOW12S3JIVnprTWtCWEhrNF83Yi1HU21Zc1BxMjd2OURCaEk2Y1QtM2JHQXJIUm9fMUFOZDVQbHBTUThpUndYNmUyUW4tQ0lwWU9weWxsWWtueXhaTmlpYVdXWGlsbXFWTDFaOWVoQXZ1c0xjR2NodXo3Nk5xM21LS005c18tSkcya0Y4VEV2dFdxMUZNRVMxT3JMdDdxVTU2YkhvNVY4UldQS2pYMm1sTHZSN2NacDg2bnZHTW9ZNWk0b2JZMzQwX3laUlBrOGpHVlpxSFItYzlMWTBrcm1j?oc=5",
+      "press": "MarketScale",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "록히드마틴 주가 급등 배경과 국방 섹터 강세 분석",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQjU4ZXpSQnlvWjZPWUZrT2NMX3hlbjJhRzJ0M1M5dmJWYTBvYUNvaktJR2xGMU12dUtCcFMzWHZIYlRSbk1LaVFoYzZIZk9PS0hjaktqNkxfUWdUUUVNb0w3UDNheXNqTDZwS21GbXNXYVRKM2FrNHlTODJoNVNlZllSdWRnMU5UY3dNNkFpeHZRNklMdmQzZ1Z5NA?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    }
+  ]
+}
