@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "generated_at": "2026-07-24T23:31:49.992503+00:00",
+    "run_date": "20260725"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.46 (+0.03%)",
+        "description": "전일종가 101.43 / 변동 +0.0350"
+      },
+      {
+        "title": "미국 10년물 금리: 4.68 (-0.51%)",
+        "description": "전일종가 4.70 / 변동 -0.0240"
+      },
+      {
+        "title": "VIX 변동성지수: 18.58 (-0.64%)",
+        "description": "전일종가 18.70 / 변동 -0.1200"
+      },
+      {
+        "title": "S&P 500: 7411.98 (+0.05%)",
+        "description": "전일종가 7408.30 / 변동 +3.6802"
+      },
+      {
+        "title": "나스닥100: 28128.34 (-1.15%)",
+        "description": "전일종가 28454.81 / 변동 -326.4688"
+      },
+      {
+        "title": "다우존스: 51947.25 (+0.46%)",
+        "description": "전일종가 51711.65 / 변동 +235.6016"
+      },
+      {
+        "title": "USD/KRW: 1459.42 (-1.10%)",
+        "description": "전일종가 1475.63 / 변동 -16.2100"
+      },
+      {
+        "title": "USD/JPY: 163.79 (+0.44%)",
+        "description": "전일종가 163.08 / 변동 +0.7100"
+      },
+      {
+        "title": "코스피: 7096.89 (+4.40%)",
+        "description": "전일종가 6797.70 / 변동 +299.1899"
+      },
+      {
+        "title": "코스닥: 790.28 (+5.22%)",
+        "description": "전일종가 751.09 / 변동 +39.1900"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.182 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.26 | GEX +1.0B$ (만기:2026-07-24)",
+        "description": "콜OI 436,703 / 풋OI 549,546 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.67 | GEX -2.6B$ (만기:2026-07-24)",
+        "description": "콜OI 274,035 / 풋OI 458,872 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $162.96 (-6.27%)",
+        "description": "거래량 20,968,345주 (평균대비 1.2x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $742.36 (+0.10%)",
+        "description": "거래량 4,072,074주 (평균대비 0.8x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 67.8% (135/199종목)",
+        "description": "평균 MA 대비 위치: +1.5%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 28/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market on July 24, 2026: Dow finishes higher, while S&P 500 and Nasdaq finish in the red - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdThFdUlXdVZfeUdONnZPdVZTWnpVdnJ0elg1RE9BY2QweGNFTnI4empxeGMyeFkyT3piZW9fcmI5Ymo3R1FUM2ZSWlRPdC1Ic20wWWd3NkpiaFB3NDdPblBJSnVmaEdRTHFlV1EzWmhMcTF1NmF3RWVjMWY3bzJRU0Y4NU1vLVBiZXZKUV9ibjcwOXRNX09Jc3hqbzF3U2xpRGF1cFB0aW5md3RESUs0emZtREd5d2ZZaWE3cThvQjhudE1iTVEzWWQ0MA?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Stock Market Today: Dow Opens Higher, What to Watch — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdFhZYlFqX1F2Y2F3U0ZEeWV1aXFLRlpxa2ViQ1lNRVE5eXJjeE5lZjh2ZERxNEowVUZDdUdoOWN4eUZxWlVMM2hCQ0xpVUV5OXhwazhnVFFxWjlKaGdJOUtBSXM3OHQ1QVpRa2FYWUVnNHY4aGhuc01nOWVfdmRlMVV6OUF2SFU?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Stock Market Today, July 24: Intel Reverses Gains on Foundry and AI Spending Concerns - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVnYtT2hOMUtFb0Naa2JHVWRpSUZDeUE1MkI0QkdLbEpRcnMwM1FyQmsxVVRhQURqZXVKNElySTA0Z1d6MU9ES1d1aTZMRVYyU3p3YlB3WTI2RkxsSU9qalh1aXRCMXhMTnRQRDJxSjQ2U0NqWVlRZFdXS0RMMWJmcFNpdUdsa1lKZEZvQXloZ2RHeXcyRGc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Uber and Waymo to end exclusivity arrangement in Atlanta and Austin - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLWRPcDM1ZDJ1ZjlHMDM2dmc0dUFYV1BxSU0wX2NFS1MzWDYzencwTmVCenIxRWgxWWpWTHk3WklrMG9KMDhHN2Z2U0NWcC10SnItQnd3Qnc4ZDNsTHdKM1N1Ym1oYUI4UDgxbFVsUVctVGg3eEpFaHpWOC1JNXNfajhOVElLbFhwRDBxQW85Sm11Tm5tczZCXzVxWmlvLWs2c1Bad2g2WdIBrAFBVV95cUxPUGFTQkRkSFpzdlpOdjFCVlItYUZESGxxNEhia1lSY3d6Z2hOdVRxWWdZM2huVS0xVVk1cEJidGJJRjRWUGVYdHdjbXI1VjlNUDV0eWlFWTZqekozWUVtcE1lMnYtZmpHVHBETjl3aHFremNoSHRCelBzenc2R01TRW9BaE16VTJ3aEtpNGU0aWY1blM0dnJiQ3RzNWlCWWlvX2otOWUwSUt6Tm9U?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "S&P 500 closes little changed Friday as Iran fears and chip sell-off weigh down market: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5faUg1R2E2UzRLZjdYMk0wSDJ5UVNTd3FJOGp0RjU0clNleGxKeEhjMUxZV0IyTEpUVHRGZk9iSGIzakRVTU84ZzhGYkxUSExnYVBad2FEbmZQSW5EM1J4LUVrMnZGT1U5Zzhnd2NxYXE2R25yVHNj0gF8QVVfeXFMTWl2WWhNNEUwLTBIc0J0YXFiM2k3N1QtQ0Q2WmRDbEJmTzJIX1dSd2VzTnV3eVNPb1M0ejU2bVI3YUtCT2VGa0t0MVFFUzgwMTdDRndFYUI5QmNVcjNaTkxHNUtaR20wWmpyZkRSVFVBeGFmaUtteUZoVXRncg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Chip Stocks Slide Friday—Memory Favorites Micron, Sandisk Among the Big Decliners - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSUJ0ck10M0NLY1o2TVhzRVVIOGdMQlhQOS1TZUtOTnd3cDBWWEZMdGstOHN4NUFnMkJQU2t5U2l3NWxjMWFkT2hQSlp4Yk5PTHVHX0pWdmt6SmxSa3JUWWt5ZHNoQ1Y2RnNJb2EyZ0FmNkQ2dk5GZkdYMTFlNVo5SC1YTlh3VWtuUDRSZGUtV1o3U0hNaWROdk1GXzRCT3FXVDZGMjZ1eUxFRklNN1N1T3dSMl80UWphV3IyTVFMQmg1SUR1N0VraEhHVF9vWHE2UnlLTWprOA?oc=5",
+        "press": "Investopedia"
+      },
+      {
+        "title": "These high-flying tech stocks are down 65% — here's how to shop the sell-off: One Big Investment Idea - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNTGwwakRWTDhEQVZLdmJfTmhEMlpmNGxnTkJTZy1TR013cXR1Zi1GeHhiYWk3cmxzXzgxbEJKZTh2d3JISkZ1VmtZRTR0Y0RVemw3bUdxUGlMUDg2VV9rX2tJbVllWEZSX1UzR19WMS1CdmdlbGY2ZVotSkVkbEozTmVyZ25XSlNTMjAyLXcxNWVNYjlwRXFQZ3BqYzFVaXg0NHpRVWhTWlpJS1AySUt3OE1DbXN0UTdFQ3Vwd2FseU9xQllGM3ZxYTBmcmdyaV9WWWRYdGxzdVhJYnNJRzdzSTU3WE1IVTJNc1E?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "North America Industrial Hand Tools Market Size, 2035 Report - Global Market Insights Inc.",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSUFRY0FydnZDNnJqOUdxU0w1ZWFveHBhMlN6VTE5NFdFVmE5cUJSU01HTWF2NTYwMWZzLWRpUEd6aEVlLTFVUm9lVjhGMmxSajV2SDllQ2ZLMkl3OTZ0R3Z3Tzh1ZjFWeHlLX1dpanFpRTRVcEZKWUR0SDhIOGM4RTRSdjhSamIyeE05T2xvcy0?oc=5",
+        "press": "Global Market Insights Inc."
+      }
+    ],
+    "domestic": [],
+    "naver": [],
+    "telegram": []
+  }
+}
