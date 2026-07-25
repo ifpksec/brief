@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "generated_at": "2026-07-25T23:31:46.470025+00:00",
+    "run_date": "20260726"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.47 (+0.04%)",
+        "description": "전일종가 101.43 / 변동 +0.0400"
+      },
+      {
+        "title": "미국 10년물 금리: 4.68 (-0.51%)",
+        "description": "전일종가 4.70 / 변동 -0.0240"
+      },
+      {
+        "title": "VIX 변동성지수: 18.58 (-0.64%)",
+        "description": "전일종가 18.70 / 변동 -0.1200"
+      },
+      {
+        "title": "S&P 500: 7411.98 (+0.05%)",
+        "description": "전일종가 7408.30 / 변동 +3.6802"
+      },
+      {
+        "title": "나스닥100: 28128.34 (-1.15%)",
+        "description": "전일종가 28454.81 / 변동 -326.4707"
+      },
+      {
+        "title": "다우존스: 51947.25 (+0.46%)",
+        "description": "전일종가 51711.65 / 변동 +235.6016"
+      },
+      {
+        "title": "USD/KRW: 1462.10 (-0.81%)",
+        "description": "전일종가 1474.04 / 변동 -11.9401"
+      },
+      {
+        "title": "USD/JPY: 163.79 (+0.44%)",
+        "description": "전일종가 163.08 / 변동 +0.7100"
+      },
+      {
+        "title": "코스피: 6690.62 (-5.72%)",
+        "description": "전일종가 7096.89 / 변동 -406.2700"
+      },
+      {
+        "title": "코스닥: 748.22 (-5.32%)",
+        "description": "전일종가 790.28 / 변동 -42.0601"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.182 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.91 | GEX -0.2B$ (만기:2026-07-27)",
+        "description": "콜OI 138,116 / 풋OI 125,081 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.72 | GEX -0.7B$ (만기:2026-07-27)",
+        "description": "콜OI 51,454 / 풋OI 139,824 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $162.96 (-6.27%)",
+        "description": "거래량 20,991,500주 (평균대비 1.2x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $742.36 (+0.10%)",
+        "description": "거래량 4,072,200주 (평균대비 0.8x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 67.8% (135/199종목)",
+        "description": "평균 MA 대비 위치: +1.6%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 27/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Opinion | Argentina’s renaissance continues - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTXBfak1uUmhDc28tMzRqempKZjFDazVTSEFfVUgwblBWcGkyYVZXdWFzSlMxYnpnSGtibTFzUjFQM3pDTnprS2UySzNCUjdqNVlWenpncG1NLTRNTUdpS0pUOVRFZmxsd3VNcl9ENFk5eG9jQTBmUFp3WEw0ZUNnaTRZX3dDTHVmYWRrSXNjSWhKUGFDQ2tNQ1VZMA?oc=5",
+        "press": "The Washington Post"
+      },
+      {
+        "title": "Where Is the Floor for SpaceX Stock Right Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaEdSYUpsUjdYSnZIVGVSUjl5VU5sd21TVnlVa3FjSTFadVJFcHcwbGEwQnVZUUpPckpXbC10T2tDZl9ZMWtRYkNuM3FDZnRQd1N6d3lIaG11a29KaGJ2MEt4Q1NhZjlhR3lFWEpac2dSbjYxcVJ1ZmtmejZTdHhCYjBFRlpRM2UyNGMxZHBjWXppbEFuR1lISw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Rising Bond Yields Make Fed’s Life More Difficult - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbVFObzBNN1lWREw4LTRQRlVxeDBtcFBDM1ZJWU10Vm5mMl8yWFRjNjM5bHFVd3RUYnZaMnkzNzRSMkVyZXJyd3kzN1JRX211dlFVRTNPX0pld0dYWHcwdVJyd2oyelJJU3NSOUdyR0dFak81QnJNRFFtM2RxY05DQ2o4R2pqZ21wbUxsZDJQMjZlekNrdl9BRU0yYlNjaU9ndUo4?oc=5",
+        "press": "Barron's"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "KOSDAQ Loses Ground, Plunging from 4th to 38th in Global Market Returns - IT조선",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE15ajJWOFB6ZVk1X1c0dkNFU2JmaFhDbGRERDh1NElOUDhnQnhXanRkYUdnNFFfUVlDeVU0Q3BvcTlPZGdYODlkbGF0ZGEwbXVuSHpDal9SRmExVk1lNTdZZzFGcm9OVGgtVGFXelhrRmfSAXRBVV95cUxONG9yV09fY01FZEJzSmEtQVNaY2drMGpFQ19GRkVNNFlWa0FZeGZDdXA3TVBxWmNuVUZEMFd5cmpRdzVubFFXVFItbGthNlFLa3A3N0gzNmNUbU54ZEhGaXBSVVlhRVpFQ2l1QkM1N3NFTkNIcw?oc=5",
+        "press": "IT조선"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
