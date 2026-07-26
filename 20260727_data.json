@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "generated_at": "2026-07-26T23:31:47.252121+00:00",
+    "run_date": "20260727"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.31 (-0.15%)",
+        "description": "전일종가 101.47 / 변동 -0.1560"
+      },
+      {
+        "title": "미국 10년물 금리: 4.68 (-0.51%)",
+        "description": "전일종가 4.70 / 변동 -0.0240"
+      },
+      {
+        "title": "VIX 변동성지수: 18.58 (-0.64%)",
+        "description": "전일종가 18.70 / 변동 -0.1200"
+      },
+      {
+        "title": "S&P 500: 7411.98 (+0.05%)",
+        "description": "전일종가 7408.30 / 변동 +3.6802"
+      },
+      {
+        "title": "나스닥100: 28128.34 (-1.15%)",
+        "description": "전일종가 28454.81 / 변동 -326.4707"
+      },
+      {
+        "title": "다우존스: 51947.25 (+0.46%)",
+        "description": "전일종가 51711.65 / 변동 +235.6016"
+      },
+      {
+        "title": "USD/KRW: 1459.42 (-0.99%)",
+        "description": "전일종가 1474.04 / 변동 -14.6200"
+      },
+      {
+        "title": "USD/JPY: 163.65 (-0.11%)",
+        "description": "전일종가 163.83 / 변동 -0.1800"
+      },
+      {
+        "title": "코스피: 6690.62 (-5.72%)",
+        "description": "전일종가 7096.89 / 변동 -406.2700"
+      },
+      {
+        "title": "코스닥: 748.22 (-5.32%)",
+        "description": "전일종가 790.28 / 변동 -42.0601"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.182 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.91 | GEX -0.2B$ (만기:2026-07-27)",
+        "description": "콜OI 138,116 / 풋OI 125,081 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.72 | GEX -0.7B$ (만기:2026-07-27)",
+        "description": "콜OI 51,454 / 풋OI 139,824 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $162.96 (-6.27%)",
+        "description": "거래량 20,991,500주 (평균대비 1.2x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $742.36 (+0.10%)",
+        "description": "거래량 4,072,200주 (평균대비 0.8x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 67.8% (135/199종목)",
+        "description": "평균 MA 대비 위치: +1.6%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 26/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Nasdaq futures rally ahead of big week of earnings, Fed meeting: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52RnVCcG03VEVsNlExWlp0enhtV1UtNkhCNzFCaVl3VGZlS19wanVxejZ0VzFuUjI4eWQyZ3lsUXlNcmlYcWhORS1ZSUs1Q180RWFrV1FHT2I4Yk14M2dtMGlfTGZLTjhDM1FGbjNOUzlpaTg1SFlN0gF8QVVfeXFMUGJVbnA0bXg1SDhZVm9TcXZmRXdkZ1l5cXRUa3hCVUZLR2FQMThtNEloRFRHOVhvUDlDaUJwVVNuMVBoYTZzZ3loVVJGUTlxeTYzZkV4Tm5jOVVvWXlRZlYxREZfYnB5eEpweFA1QmM3Z0I3ZDA0cFZxVFc3QQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Dow Jones Futures Rise, Oil Prices Dive Amid Iran News; Apple Leads Earnings Wave, Fed Meeting Ahead - Investor's Busine",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN3p3SzdOVDFES19TRHFQWmlIQ3BpZUVqTDdkdUV1bUd3alFyYzVubHNmU3FVWnpYS2JFZDJiZHVpWDJFV3V3OEdfWFd0YmNMOTB2UF9WaktUaUNKd21JV0hacllkdlI1UnNjTDQzV1MzanFXTFJUQWVHN284dVBKTUJXdEthVFg1T1Z3bmFnamFzZXd4OVpjMTVZcTB0MXNqeHRYS1lCX21xbjZhck1xMGs3bXRUV2xuQ3YwbnN1cmo?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Oil Tumbles as US and Iran Pause Military Strikes: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeFZoZW85N1NwZG8tWUUxOVh6ek9aZ1I3NzJydjZtaVU5U0ZOUlk3c0FpM3FpTHF5QzV3SG80MmxpTmZyTHgwdFJVbHJiWnQtUXY5QTBKOVQwWXJNS1pJNlJwdVg1TkcwRzlIUHlaV2lpWnJEZGlSRm1ydnFsODYxLUJhYzRlSndwQzVDWktOOEJkUDE4M2Jsbmw5ZGljUjgxN0FCT2dMSDcxaEZhNG5IbVFpRQ?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Nasdaq futures rally ahead of big week of earnings, Fed meeting: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52RnVCcG03VEVsNlExWlp0enhtV1UtNkhCNzFCaVl3VGZlS19wanVxejZ0VzFuUjI4eWQyZ3lsUXlNcmlYcWhORS1ZSUs1Q180RWFrV1FHT2I4Yk14M2dtMGlfTGZLTjhDM1FGbjNOUzlpaTg1SFlN0gF8QVVfeXFMUGJVbnA0bXg1SDhZVm9TcXZmRXdkZ1l5cXRUa3hCVUZLR2FQMThtNEloRFRHOVhvUDlDaUJwVVNuMVBoYTZzZ3loVVJGUTlxeTYzZkV4Tm5jOVVvWXlRZlYxREZfYnB5eEpweFA1QmM3Z0I3ZDA0cFZxVFc3QQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Nasdaq futures rally ahead of big week of earnings, Fed meeting: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52RnVCcG03VEVsNlExWlp0enhtV1UtNkhCNzFCaVl3VGZlS19wanVxejZ0VzFuUjI4eWQyZ3lsUXlNcmlYcWhORS1ZSUs1Q180RWFrV1FHT2I4Yk14M2dtMGlfTGZLTjhDM1FGbjNOUzlpaTg1SFlN0gF8QVVfeXFMUGJVbnA0bXg1SDhZVm9TcXZmRXdkZ1l5cXRUa3hCVUZLR2FQMThtNEloRFRHOVhvUDlDaUJwVVNuMVBoYTZzZ3loVVJGUTlxeTYzZkV4Tm5jOVVvWXlRZlYxREZfYnB5eEpweFA1QmM3Z0I3ZDA0cFZxVFc3QQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Oil Slumps at Week’s Open as Washington and Tehran Pause Attacks - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ0RWX1NpeG5TU2tYWWctTGZZSjJPNU83Z0xBblpRZHZuQnZRTlRGSWxuWHd6VUJ0bmlrS1Z0Rnc3dG11ODU2OWh0dVpybUlGZkI0MHJ5OUthdy10QmtJN0ctY3NFWXFTQng1dVlsNWhpeUNqSThPTnlHd240RzFWZ0lMLVZHZEJtcGwzNEgxY0VfTWNCVHBaZWxSQ1NqWUk?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "2026 MLB trade deadline tracker: Rumors, news, analysis - ESPN",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZjVrY0lTb2JoamhqYnlXWDR0WG5iemJ0b0JvM1QtQnpsRldmS2lIbDMybzFCX1VuZmN3Y3RRSW5LU1NndWdmYmtaajR5T3Q5cjQ2bndZQzhmLVJid2JQSUFsRUtGekN0YmVLOHhSdWxaV0pQd19pek9LdlFPd2trNExQYzdiTFFGU2lURnYtVUMzZjluSjZMSFhtZDlKTWFJMjByU0EtOW5iRzJYUlVNNS14WmxOZElDdmdv?oc=5",
+        "press": "ESPN"
+      },
+      {
+        "title": "Brazil Rock Triaxial Testing System - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWXV5N1dxLUNDc1RlSGZjMXVMTWFRTUNYcU9TeVA0X05mYXJJRWlxRHdleTYxbjJYUnBOV0R4bF9kcWZQNUI1V1ZrdzE1LVYzcktjYkVuSDhxQjBUZEU0RjFXd3k4X0o1d3A3QjlYVmtSTWRYeVFCdWVEM1JDeWwyQ2YzSlBOOVRtX2JidlVMcnNvdG5CVWg0Z1gzd2lMZTk5VmtoMFQycE9uNmxZRTF5Uzl1cmZIWUE?oc=5",
+        "press": "IndexBox"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "SFC Submits Preliminary Listing Application for KOSPI - 아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KQTNxeE5YRUVnaUhKSXBnNlJCeDBjMjFIR0puc0w2Nnc2bnpMSjJTcktkU0hEZUNJY0VVOGhOS090OGl2MWY0bTBPbDUxNnhuQXliY0FReEJiblI2a0lxUUdxcnFjQnFLaXdkd1FNYy1iZw?oc=5",
+        "press": "아시아경제"
+      },
+      {
+        "title": "[Good Morning Market] Samsung and SK hynix Earnings Week... KOSPI Upside Potential Grows - 아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1NEN1OUJQMDJzbkh6SVUtUnR1dkxwRDl4Q25TTkJuNEVsRWN5NXF0NFRicDJxUS1CcktZMVY5OXptcmJvUmpNNnBHUmQyRFhhVVRzTnlLVVFfT0hXUUhTRGxRWVc?oc=5",
+        "press": "아시아경제"
+      },
+      {
+        "title": "As Market Volatility Surges, Individuals Flee to U.S. Stocks... Betting on 'Decline' for KOSPI - 아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5PQ3FlalRHZDdvUXNuTUdqSURZNk5DdkFNdWt1RFFpN29famdQYlhnMkFsdC1pdnVBRnpKQmhsUmQ1U3RqTmdKZElnbm4xTE4zLUJxY0VUSkY2S1pSRzFSQjlTbFk?oc=5",
+        "press": "아시아경제"
+      },
+      {
+        "title": "KOSDAQ Falls Back to 700s as Fund Flows Skew, Retail Investors Retreat - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdlYwWjRIN3BzdV9mX1lZWGhNa1prcmo2OXgtSk5DdFYxclNqUUxBMXlCMjBJaEtjU0lKa0VfTzlySjhWc2FQd05sOXUwdXcwd3V3eDlYRnJPZzJhYVdlZk1COVJqeTFsUXEwa2lIVHM4VTRvXzBGck1IVWVqMmcxT0NkdW4ybVREOE1NdEVrQUpRb3FkVnQ0Rg?oc=5",
+        "press": "Seoul Economic Daily"
+      },
+      {
+        "title": "Nvidia to acquire $1 billion of new shares of South Korea's Naver - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSkhjUXN3Z1VSTkZyVjdBMURwLXRFYm1TMkpmZEZGS1FyRFhsRjNkSWpTZ2g1cW1UNVpXUnc4dWNSWkJIVlVkY18wOENjMWsxQm0tWWN6Y3M3RW9lNkxRUXY5Rzc5M3cxMHI2Ry1DbldOOG0xQU5obklobjlXdFNWU2tVcXc2dkM1bzYwNXlUZHowQ1l4OGhWTjN4Y1hybVQwcGoyZnphTXkyVVRYa3lmNW9URQ?oc=5",
+        "press": "Reuters"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
