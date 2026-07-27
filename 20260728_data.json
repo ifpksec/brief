@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "generated_at": "2026-07-27T23:32:18.867988+00:00",
+    "run_date": "20260728"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.51 (+0.04%)",
+        "description": "전일종가 101.47 / 변동 +0.0440"
+      },
+      {
+        "title": "미국 10년물 금리: 4.64 (-0.81%)",
+        "description": "전일종가 4.68 / 변동 -0.0380"
+      },
+      {
+        "title": "VIX 변동성지수: 18.67 (+0.48%)",
+        "description": "전일종가 18.58 / 변동 +0.0900"
+      },
+      {
+        "title": "S&P 500: 7413.18 (+0.02%)",
+        "description": "전일종가 7411.98 / 변동 +1.2002"
+      },
+      {
+        "title": "나스닥100: 28039.21 (-0.32%)",
+        "description": "전일종가 28128.34 / 변동 -89.1289"
+      },
+      {
+        "title": "다우존스: 52210.08 (+0.51%)",
+        "description": "전일종가 51947.25 / 변동 +262.8281"
+      },
+      {
+        "title": "USD/KRW: 1465.33 (+0.50%)",
+        "description": "전일종가 1458.01 / 변동 +7.3199"
+      },
+      {
+        "title": "USD/JPY: 163.73 (+0.07%)",
+        "description": "전일종가 163.61 / 변동 +0.1190"
+      },
+      {
+        "title": "코스피: 6690.62 (-5.72%)",
+        "description": "전일종가 7096.89 / 변동 -406.2700"
+      },
+      {
+        "title": "코스닥: 748.22 (-5.32%)",
+        "description": "전일종가 790.28 / 변동 -42.0601"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.257 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.20 | GEX -1.1B$ (만기:2026-07-27)",
+        "description": "콜OI 211,018 / 풋OI 253,086 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.92 | GEX -0.8B$ (만기:2026-07-27)",
+        "description": "콜OI 132,139 / 풋OI 253,055 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $161.20 (-1.08%)",
+        "description": "거래량 18,517,678주 (평균대비 1.0x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $742.55 (+0.03%)",
+        "description": "거래량 3,680,264주 (평균대비 0.8x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 69.3% (138/199종목)",
+        "description": "평균 MA 대비 위치: +2.2%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 30/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "The Dow Had a Good Day. 2 Stealth AI Stocks Kept It From Being Great. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lNW11WXNvSXpzX1pfTlAtXzNpWERfbWR6VEplazhla1NrdlIzSmdZY0Fjb2NEbTBvUVo5eTJMcnMyUzlpSkRQUnRBX212OXp2WGRDc3poMmJuMU5VUFdxRnR4MWxfRUpzTWl1RDRuTDVoSUNhd0E?oc=5",
+        "press": "Barron's"
+      },
+      {
+        "title": "Dow closes more than 250 points higher, aided by cooling oil prices: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52RnVCcG03VEVsNlExWlp0enhtV1UtNkhCNzFCaVl3VGZlS19wanVxejZ0VzFuUjI4eWQyZ3lsUXlNcmlYcWhORS1ZSUs1Q180RWFrV1FHT2I4Yk14M2dtMGlfTGZLTjhDM1FGbjNOUzlpaTg1SFlN0gF8QVVfeXFMUGJVbnA0bXg1SDhZVm9TcXZmRXdkZ1l5cXRUa3hCVUZLR2FQMThtNEloRFRHOVhvUDlDaUJwVVNuMVBoYTZzZ3loVVJGUTlxeTYzZkV4Tm5jOVVvWXlRZlYxREZfYnB5eEpweFA1QmM3Z0I3ZDA0cFZxVFc3QQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock futures are little changed after Dow posts back-to-back winning days: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrVi1aVEdDbG9nbWhkOEh4UU1LaDJESThkODBGOWhMVzlZWlJoTlBHMW8yclp4c1NnWTVUQzJlSG1DR0d3OWsteG9Bbzh1b2RTaHEwbHZrR09fZlNCUjNIMmxnaWVxaTA0SkxPMXQwV0pnM19WTVln0gF8QVVfeXFMTlhfZHYzbTFqZEV0a0FESjdWNXhZX0YzUDk4UHBEQjZjZFNzblRYV2VUZlVHUDk5UmhhMEJhbFcyX29lY0xfdnhVenF6dURyUGNkaE9Rbjc1dld6RjU4c2ZEdzRYSGhwWUxnLXo5TnpBbWxzMG1MdUFiVUkxYg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "What Happened to Tech Stocks in 2000 That Many Investors Think Could Happen to Nvidia Today - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUnpVYWlZdXIzVURMT2NTRXdaVmFvQlhDNVJKcC1SdmM5ZGRjNFQyRmFtNnM1d0pkN0tXRE9zNFhHN005NkVxV3otSnhXVEhLQ05Jd1U4a3hSWG9CbHNucjFzUzVnd3hxdkg5NVpjX3FocE1EbkZNc3BJdy0tdUtvR01jTkhjOGtieURhTDVrcXI3UWM4emQzbVZ2TWxZZ1ZaZmZCTEFoMGN5OEdyUmtjNVJJVUV0c1F3YlBYSmxGR2RDcEtkVWFDZWJXM1dfV2Y0?oc=5",
+        "press": "24/7 Wall St."
+      },
+      {
+        "title": "Stocks mixed, oil and Treasury yields drop on Iran-US pause - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2VEF4Z09wNW9GaGZxaENhMVk5X3ZPSVhjSDNwb1ZKeld2S0xDZFNkZ1l6RDRNdHZ6bktSMnhrOFpNNTJQaU83eEtHa3FVQ0swVjVjSGF0SDlqbjZoWVpQbW1icmJoM1Y2TldZUERiTHdGNUpRbnpWR080TQ?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Why Did Salesforce (NYSE:CRM) Lead Index Gainers After Its Earnings Move? - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHNMSUFBZUZ0dERkNVZhZ3RmSmRjaGVaWXlmRnJ6dHpCRHJpZ3FtSkhJQmFIdXg5SGs2cHk0LTBXNFdacnlaU3FQaDVRMi13c1ViRGJfcjJ4ei0teG9iMGtFOXg2S3dTM0c4V01ObkpFbWppSVRnTE5kU2swT0pYdmJyNzFzQkVKSTktR0tTeG8wTGhHTWVQMnlXOVVxOTJlQkN2SWNSdzlWRldnYlpOWndXT0Q5WHYtTmxOTTVYVEI?oc=5",
+        "press": "Kalkine Media"
+      },
+      {
+        "title": "Markets News, July 27, 2026: Nasdaq Slips as Chip Stocks Drop, Dow Rises; Oil Prices Plunge on Pause in US-Iran Hostilit",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYXlfSVN1YVJlQWNSdWhHYmtiSTVYRzZfUmVIM25QNzFkeWVzX28zNFlKa3g4dHo1QUJ5RWhET3pObkFJUzI5akRFb210bUlwR21wTm5RQkVTTHhGRnF3eUZhNHlDWUxSX2ZEaUlyZDlOTWFZUDU0MjJ6d1RldWpfVFhwNHprb3FIeWNkUmVlUlk?oc=5",
+        "press": "Investopedia"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "World's Best Index Falls Into Bear Market In Another Bad Sign For AI Stocks - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcFpzdHMxd0dhY1E4UWVza0tqYTE1bnBfTHZaT2d5RWJvSUZ0TUY3SmU3WXdKRkl6NndRU1FhM1F2THd5SmQ1cXlJMW9sWkpReHFXRmZMR2xTTERLcGRDSkxHeWFmUGRIbGk4UnFWVEQ0bzl1M0JmTVZkSlU5MlJzdGxxM3VRZGFmVVBxcGlORkZyMXc?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Should You Think About Buying KHVATEC Co.,Ltd. (KOSDAQ:060720) Now? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQc0drUTY3NG1NNWtWSGxBYVgzWkxZZGlhOTdpQ0NLQWU5RUw4R2lqRlZsRWwtU243U0k2QU1FbjlXM1dacG9IY2NvRkNQTS1hTDgyamRsWWViaGFnQXM5MlRDc3F6TF9KVlJYZU9GMnVxZ2VNYjRJTWlpX3psQ01zbHQwRGZYdUNJRmxHR3N3SUVTamhqWnVsYmtFbTBJQ2hHdF95cl8xckZnVEN5dTZYbFUybFd1c2JDdXpKX2FiVEdpYU1ybzFfRVlJOVNGTjVJZjdieGFNV2vSAdgBQVVfeXFMUHNHa1E2NzRtTTVrVkhsQWFYM1pMWWRpYTk3aUNDS0FlOUVMOEdpakZWbEVsLVNuN1NJNkFNRW45VzNXWnBvSGNjb0ZDUE0tYUw4MmpkbFllYmhhZ0FzOTJUQ3NxekxfSlZSWGVPRjJ1cWdlTWI0SU1paV96bENNc2x0MERmWHVDSUZsR0dzd0lFU2poalp1bGJrRW0wSUNoR3RfeXJfMXJGZ1RDeXU2WGxVMmxXdXNiQ3V6Sl9hYlRHaWFNcm8xX0VZSTlTRk41SWY3YnhhTVdr?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "The Kospi that cried sidecar: 41 trading curbs triggered this year, but to what effect? - Korea JoongAng Daily",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX3VSOFA5ekZhLTl6anpVSmhzcDQxdmlRTUpsaFJDUHpmTXlDUEFsVnUySFozN0hUSGJweFljTGtuM3FvTjF1MzlVc05jSjhTMlFadkRsVldqQng3Z21QdGYxWHp5TVJaejlqYnNUTVdINU9QaThaNmR0VFVoNEt0QmgwTjVTMWFpRTBJaldoeVkyX3lGb3dMYVJmR0swSThPUWc1Wl9LSXJHZVlJNDM1dktBVlBVR0E1bzZZQ0EzeTI4VjRKNTJSa3plQWVRTWdfbG9n?oc=5",
+        "press": "Korea JoongAng Daily"
+      },
+      {
+        "title": "NVIDIA Invests $1 Billion in Naver for AI Data Center - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZTM4cU1Rb2UydzdVeE45TWVsZmtCSTRzZlBaUmNhOUR0YWc2cGFtRlFvLUdZNG1RUzgyVDc3Mkt2aWpnQ19mMjRtbjVEZE4tTk9SSUVDb29LV3Y4bjJBYTdoOFJSMWswdFFjNTRPZVN2bjY5UjlQZXltSlJYUWNkbEZkNlZ5NU1f?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
