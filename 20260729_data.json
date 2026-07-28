@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "generated_at": "2026-07-28T23:32:02.476216+00:00",
+    "run_date": "20260729"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "미국 10년물 금리: 4.60 (-0.80%)",
+        "description": "전일종가 4.64 / 변동 -0.0370"
+      },
+      {
+        "title": "VIX 변동성지수: 18.21 (-2.46%)",
+        "description": "전일종가 18.67 / 변동 -0.4600"
+      },
+      {
+        "title": "S&P 500: 7428.78 (+0.21%)",
+        "description": "전일종가 7413.18 / 변동 +15.5996"
+      },
+      {
+        "title": "나스닥100: 27763.13 (-0.98%)",
+        "description": "전일종가 28039.21 / 변동 -276.0762"
+      },
+      {
+        "title": "다우존스: 52747.32 (+1.03%)",
+        "description": "전일종가 52210.08 / 변동 +537.2422"
+      },
+      {
+        "title": "USD/KRW: 1453.33 (-0.76%)",
+        "description": "전일종가 1464.44 / 변동 -11.1100"
+      },
+      {
+        "title": "USD/JPY: 163.85 (+0.05%)",
+        "description": "전일종가 163.77 / 변동 +0.0830"
+      },
+      {
+        "title": "코스피: 6755.75 (+0.97%)",
+        "description": "전일종가 6690.62 / 변동 +65.1299"
+      },
+      {
+        "title": "코스닥: 764.86 (+2.22%)",
+        "description": "전일종가 748.22 / 변동 +16.6400"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.258 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.06 | GEX +nanB$ (만기:2026-07-28)",
+        "description": "콜OI 207,796 / 풋OI 220,277 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.39 | GEX +nanB$ (만기:2026-07-28)",
+        "description": "콜OI 146,301 / 풋OI 203,475 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $151.45 (-6.05%)",
+        "description": "거래량 30,766,099주 (평균대비 1.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $744.22 (+0.22%)",
+        "description": "거래량 4,165,684주 (평균대비 0.8x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 72.9% (145/199종목)",
+        "description": "평균 MA 대비 위치: +3.4%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 29/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Dow jumps more than 500 points as oil prices slide, investors rotate out of chip stocks: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrVi1aVEdDbG9nbWhkOEh4UU1LaDJESThkODBGOWhMVzlZWlJoTlBHMW8yclp4c1NnWTVUQzJlSG1DR0d3OWsteG9Bbzh1b2RTaHEwbHZrR09fZlNCUjNIMmxnaWVxaTA0SkxPMXQwV0pnM19WTVln0gF8QVVfeXFMTlhfZHYzbTFqZEV0a0FESjdWNXhZX0YzUDk4UHBEQjZjZFNzblRYV2VUZlVHUDk5UmhhMEJhbFcyX29lY0xfdnhVenF6dURyUGNkaE9Rbjc1dld6RjU4c2ZEdzRYSGhwWUxnLXo5TnpBbWxzMG1MdUFiVUkxYg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock Market Today: Dow Opens Higher, Micron Stock Slides as Investors Rotate Out of Chip Stocks — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObmhFN3Q2NnJ2NlFSaVlBZ3FnNUx2a3B6WFdOSVBHbVY5akY1WE5tLVNpdGROZVBZRWFrc185V2F5RkhVWjIxQjBfQU9RaWpKZzRVYUxCOVhlaF9xdllHQ0tHQmI5NnFZMFpUR3RuQWdlRWRLUTRfNjFNQnpyZ3pwcGl4OFdYN1k?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "3 Financials Stocks Worth Investigating - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVEdqX2FNdW1oU1BpVGdsOTltWjlhdXB0b2tUQ3ZoZzlVNlA3YUdlbzA4NnF1a29XajFvQzZSMFROcG1LdWs2RERqTmlDVTZNbVFtcTB2TU56S3dCY25lT1N4akIwdnNock4yNHJOaU9URkVob3RBSmtCMVlhTkVQWkdkek5hU2F2SjdFa0t1ckdJdFNLVndGVEd1YXdCTk9oQVVRdzR6SQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "S&P 500 futures are little changed as investors analyze earnings, await Fed decision: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tYmcyY1dKZDZXZm10Ni1sS185eklFbWhkUU1hOFhpbG9EY0VmWjZvN21IaUVKbUpWYXpZVm81czBfOFM1dGcwT1h0eUZiMHhua1hCTTRwRjBySkY0VmRWdmlTRWE4T0xjTjVya08zNjZKUVpnYk5F0gF8QVVfeXFMT3EzdGU3SjJheXZwV25YRXRpSnR3MTcxRHJEZ2wxRzVGVmFBWTE0M3licnBPcHV1TC1KN1NpTFlfMkxtdUNWQnNfY3ktbG5oNFhtS2M4akdZcGRDSnlrVWNYNGhKZk02cWlUTlNkeVNPUzR6MmVxMzVUOXg0TQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Micron, SK Hynix stocks sink as AI chip sell-off deepens - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMTlZTTExZWhfVm5UV3dMWWJTaEVEeTFNYnp4MTIxR1FXRzNhUTV2c2hXeUVlenVtY1ZndmJGekt2by14UklrRFozRF9mekE1dTFNak5qeGx3OEJrSGFtZVQ5QlgySHRZMGJ5UWNwRzZheWVMWFVfUFZsakVqempLUVJqT09hY0pVODdxTkZMT21qTDdkMTZYcGN6Q1dFalIwT2xfSkhfb3A1THltNVhYcUlB?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market Today: Dow Opens Higher, Micron Stock Slides as Investors Rotate Out of Chip Stocks — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObmhFN3Q2NnJ2NlFSaVlBZ3FnNUx2a3B6WFdOSVBHbVY5akY1WE5tLVNpdGROZVBZRWFrc185V2F5RkhVWjIxQjBfQU9RaWpKZzRVYUxCOVhlaF9xdllHQ0tHQmI5NnFZMFpUR3RuQWdlRWRLUTRfNjFNQnpyZ3pwcGl4OFdYN1k?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "How Far Could Marvell Technology Stock Actually Fall From Here? - Trefis",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZm9FaU03ekxLWl83aDRRUWN3YTN5OGExOU5pR2RIUXQ0ZlJMbVBRVEtPcUpBaTczT3RjNk1feC1CbnJKZ0dDd2tCUWZmY1FxOVN2V3R4U2FxTkhIUlQ5M2ZOQ1pON0g3c0ZFM3lLaXE3bVZkVzJvbVZPM21GdklIbXdJTFF5TmpNUEt5TUxIbmNXMUxpSjdka29sWFZLam5TT1hVS1cwNExXN252VnlDMC1aOXZMNHVITm5nR2VtbkI?oc=5",
+        "press": "Trefis"
+      },
+      {
+        "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+        "press": "Investor's Business Daily"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Loss-Making SemiFive Inc. (KOSDAQ:490470) Set To Breakeven - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOFd1dmVua0pyVXFVNUprempJRG5nRnN0MklxODBtanV4NEV6Tmg5SWJrRlhTNXNqdVFxXzlpLVVib1lkVldXY0lKdzZmcHpBenhmNmNUb2hJYzd5MG5OV3F0QWZYWWt4TURoMGZid1BzeHJhajZydm5CYkdwczU2dnAyNkNiSWQ5OF9KODZIZnhkeWN6VWNTTGZRVWd5cUFnS3pxLXdES0U3ZEs1UWluampqakw5dkpFZVlvRE8tcHNFZVI2ZUN5OENyNXhfUF9icmZJ0gHYAUFVX3lxTE5pZ0xzQmdYcTltdWpNTnppeUJXZm1GZUNxM29kTXY4YS1LTUI3X09yRUZuRTF5UVI4MUlyV3BjX01KczBwMk9UaGpGaVQyc1YwRnhFR1JxVlpncVltNmhnYTJkdHhDdWJBRHNXS29Xd2JJM3U4ZWt6Wmd2UTFlbXhqLW44UzZnTWJWRV9VejdPNml3WVhoV3h1TF9oNy1yZ3hCa0lXTXFpNUZrbWp3NU90LXZiMHVueC1zQmdMT3lkSXd0TkdMNnFKYVRZODRrYU5MNVFiRUlKRA?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Breaking: SK Hynix Posts Record 60.5 Trillion Won Operating Profit - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLUZYOVgxMjYweDhXVHY0QThPa2J0LU1DdmdHaTVRcDdRNHhOZEJvS1dZcDhPaDlwU0lWb3JFUlpQUFI3cmNIVGthMEVlSkxac1c2MVFvakhDbl9JWHY1UktOTzJWR1hOdmcwTDVzX2Y3VUtSbGE2MkhTck9HQWxqMmhqM2hWUDEz?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Qualcomm dominates Samsung foldables and watches as Exynos retreats in Korea - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XUXQxX1ZjMG5FRnQ1QmljZnNrbnpuZHVkNlhxSEZzdjIyMkFKeUJvc3p6YldrOWV2Y2VtSnU3Tk5oQS0tRTFoVXVZcGN6dU92cXpJMFRnQ0R1OFcwaTBoTXBPM2JtcE9aTFdBTmZWa1pqMU5fQUl6VkxR0gGOAUFVX3lxTFBKcWJNOFl5Z18yS1B5aC1teDRsNzFjeXhBSHdkZEpHWDYzZ2FvWkxrenBScUtIN0NWLUtfaFctT0psYmdNbGlJSWhTMVVaUmlhWjBDa1hGLUNZVzRzSXQweVNlOWRXTnVKcDNEVWhfNERCbkFLSk1aLXBfOWRPOEY3cjRKWEgzbW9xaTc2N1E?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Nvidia's $1bn bet on Naver pumps cash into AI infrastructure buildout - Nikkei Asia",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ1VDbEltalV5RUZGWDU5bFRxamY1dUFOcVhyaTdxT1dqc0VVOWthWjdKUXJveXRSTG1mOHVzY2VFM2ljYmFZalJwb3pwMThVYnI5R2RlUmRPVjlqcWRic3dISU8zaDNCZVE0NEVYY1RBa01MV1lvNjdaQXlaeXVNelV4bDE4THZUV2x6SDV0M1JMUDIyc3NJQVNXc0JCOTNxV3RPVXRCRHpBb1I3VVhDSS03YnJ0MXdWVnNUYnhZQ09EWUZvTkVYSDJNRjVEQ21qbHc?oc=5",
+        "press": "Nikkei Asia"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
