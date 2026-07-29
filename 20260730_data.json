@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "generated_at": "2026-07-29T23:31:50.772320+00:00",
+    "run_date": "20260730"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.80 (-0.57%)",
+        "description": "전일종가 101.38 / 변동 -0.5780"
+      },
+      {
+        "title": "미국 10년물 금리: 4.62 (+0.39%)",
+        "description": "전일종가 4.60 / 변동 +0.0180"
+      },
+      {
+        "title": "VIX 변동성지수: 20.66 (+13.45%)",
+        "description": "전일종가 18.21 / 변동 +2.4500"
+      },
+      {
+        "title": "S&P 500: 7316.15 (-1.52%)",
+        "description": "전일종가 7428.78 / 변동 -112.6299"
+      },
+      {
+        "title": "나스닥100: 27192.31 (-2.06%)",
+        "description": "전일종가 27763.13 / 변동 -570.8242"
+      },
+      {
+        "title": "다우존스: 51594.14 (-2.19%)",
+        "description": "전일종가 52747.32 / 변동 -1153.1797"
+      },
+      {
+        "title": "USD/KRW: 1444.04 (-0.63%)",
+        "description": "전일종가 1453.16 / 변동 -9.1200"
+      },
+      {
+        "title": "USD/JPY: 163.38 (-0.30%)",
+        "description": "전일종가 163.86 / 변동 -0.4850"
+      },
+      {
+        "title": "코스피: 6023.66 (-10.84%)",
+        "description": "전일종가 6755.75 / 변동 -732.0898"
+      },
+      {
+        "title": "코스닥: 705.85 (-7.72%)",
+        "description": "전일종가 764.86 / 변동 -59.0100"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.512 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.16 | GEX -3.1B$ (만기:2026-07-29)",
+        "description": "콜OI 185,296 / 풋OI 215,138 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.31 | GEX +nanB$ (만기:2026-07-29)",
+        "description": "콜OI 176,628 / 풋OI 230,938 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $144.21 (-4.78%)",
+        "description": "거래량 47,828,801주 (평균대비 2.1x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $733.12 (-1.49%)",
+        "description": "거래량 3,234,099주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 68.3% (136/199종목)",
+        "description": "평균 MA 대비 위치: +2.7%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 29/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Dow plunges by 1,100 points, S&P 500 and Nasdaq sink as yields rise on Fed's hawkish hold - Yahoo Fi",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOWVHcDBlVjd0RHprWXNCa29VSEdUNm1FUFhDS2ZDeFI0VjQ1a0YyTjRwVFlQaXRTbG5sTzRjdHJWT2VKcWppWERZYzZ0djJuWnkxdnU2ZHRKY3NxMTNHbmJNUFlKbjEtdmhMcTZ1elhIYjI3N0Q5RGFPbWZ3b25yekpES1pITldwdHdMMl9BSFhtT1gtNFNsS3E5NVdKWm5lMjAyVnFCMzl6X0FG?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stocks Slammed, Traders 'Warshed Out' By No Change In Rates; This Sector Is In Bear Territory - Investor's Business Dail",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZHFYY3E0OEl1czdkQXAzWnpPUzVWM182T2U0cFNkZDRBUTJmdU84SThsejJ3Yi10S3NYMWpFTS1lRG9wd01JaUZnbDZDR21hT3pURF9fMUR1U2ZIV2FWNDNuazNmekpzNC0tWkptRFRfU09oRGhPcEdGNVJNZkxmODBTamxjX05hLUFtRm5ncjZrcWw4VWVTb0hfOUJqeUhqX2lZX3ZaNXZiX29tV2JVaWVOQ3hfMDU0VDBMdU1lb3RjZnROQ1JSQnppeXZKWHh4MW1BdkV6Mlg?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Stock futures are little changed as traders weigh Meta and Microsoft results, big Fed Day sell-off: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tbFNaNERqdTR1d1NJSFRRTUx6ZHBwbjZ6TjRfcFk5a0EyMXhHcVZCVnNidWswVTNDMDlwYUYwRmx0dHVGZ2tObkZVSVlNaW0yUjNPbjR0SU53b2J6SmpQQktuSEU3a2xSaFh6S3EtMmdIZlhqRVBV0gF8QVVfeXFMT1RVUkxHd3VXNUVzaFpidGIwdURTS3lHWkJ0U2lfX2UxVEtsZUFCeGZ1Uk80UUhFWmtjNGJ1YVFJN2cySW00NVBSZGp3ZTZad19EVVN0ZWdnWC1lOWpaeExPeUtOTHI2NkM5N2dMTXdxdEQtaTlWNTY2YWxVSA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Dow drops 1,100 points for worst day since April 2025 on fear the Fed is falling behind on inflation: Live updates - CNB",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tYmcyY1dKZDZXZm10Ni1sS185eklFbWhkUU1hOFhpbG9EY0VmWjZvN21IaUVKbUpWYXpZVm81czBfOFM1dGcwT1h0eUZiMHhua1hCTTRwRjBySkY0VmRWdmlTRWE4T0xjTjVya08zNjZKUVpnYk5F0gF8QVVfeXFMT3EzdGU3SjJheXZwV25YRXRpSnR3MTcxRHJEZ2wxRzVGVmFBWTE0M3licnBPcHV1TC1KN1NpTFlfMkxtdUNWQnNfY3ktbG5oNFhtS2M4akdZcGRDSnlrVWNYNGhKZk02cWlUTlNkeVNPUzR6MmVxMzVUOXg0TQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Some tech shares are plunging - what does that mean for the AI revolution? - bbc.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4emFjZG1jZzdYQjhFWWtHbEluREo2YVYzTTJVYjdDMmk0TTBnaXFOY2g2WWRVUHJiLWJyZzZrcTI1NWs3cW1lQjkwalRybmgyTlJtSEtRTXR1QQ?oc=5",
+        "press": "bbc.com"
+      },
+      {
+        "title": "Dow drops over 1,100 points as sinking tech stocks combine with jumping oil prices to drag markets down - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRGdwM0pDUmkyRFYydl9VOGVwVHY4XzhSS25uQjFyN2s2dnl6al9wWTQ3eV8tcXlKWWNCaUtpdjZLRDd2Mjk4SzJvcE4tM2NrcEc1MVQ4VDE1MWYwN2VRZlpXOVN1RzZ2bDNCbTExdi1PNlM3UTZrMWhUaVlQZzJEMFBWWmtHLUlIY1AteDllcGdfc3Mtd0M3aUpNVFJCbFpvaElDRDRpenJTVGhLNlBGQ1NWVXNQR0o0cDYzNF96VHFnN1B1Wk11MWRteFhLWDA?oc=5",
+        "press": "Fortune"
+      },
+      {
+        "title": "South Korea’s stock market plunges as AI-driven boom fades - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmZNcEtQUnpRbHdtRWpiVng1dnhxVlJCM1VVdzZRQUpwMjh0cGJDLVRuWnZpSDdjc1Q5VkpYaUF3OWRZU0NPYjZzSUxvakwtMjBVLVdRSjdLOVI0QmpockFtQTIwamJHNW1TREJsZXBrN1ZQX001VHBfMldwUEQtTGVIMG5YTGN6aEdQeU9mOEsxTU51Y3NlRjI2UVFlbTZZTGVv0gGoAUFVX3lxTE8tVjBGU2Mtb3BsRTVwU3BZWmVua0ZBS3ZFT012R0JuTkgwQ0M3UlFTaEdRdURyYnM0X0lPTlBCQjFmVEpKYXBqOGhJR0RiRHRoZXpFdEk4eENJT0QtaXBTMXNHN3g5alF3T0FMU0U4RkJQTUlrWXJFODNkRVlVdUJOQTRyTFpScExfUHdYRjRUSUlWTERBNDNOazdneHlEZXhGTHVWUU1RVg?oc=5",
+        "press": "Al Jazeera"
+      },
+      {
+        "title": "Lightbridge Corporation (NASDAQ: LTBR) Joins Solactive Nuclear Index Tracked By Global X Uranium ETF (NYSE Arca: URA) - ",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdmhjem5wRkhmWjlXdlZjMTdMRlVESWs2a1dybDBfY21WWXppUnFCdkhsMEVzUS1nTHZzX3d5c2FDd3pPeXVIZ09vV3dRaFVaY2RTM01CLUowREYwdDZqYVhUWkZNeGpfUmR3RlhpUmRQRHJBbFR2Q0NpTUE4VkZSSGlBaEQtVkdFYWpFeWhPRmcxMVdHSnN4YmdIV3hzZ1I1TXJPX3AyWC1Nb0QzbVRpZ1phdjQ2MVRrN2FZeVV4T0Nwd2Juc3RybXpzbDJsRnhVZGp4ZG1kSy1xVjFyaTFSb0pfTXpQVWZ6UlY5VUZrYy1nUQ?oc=5",
+        "press": "foreignpolicyjournal.com"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Kospi plunge stokes South Korea forced-sale risk and contagion fears - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWTdLYlhFdUpNVXg5OVlxR1NGWG00U2VWODlfdkgxX1RtWllnVzYzTUVoXzZNdG03SXhFSVE2NkRBVFRtbENGVmMtaW1Ha2ZtN3N1cnh6NU5Rak15eHNCOWw5dG5BX3FfQUx2UHRMenBQVG1wTG5zeEJ3LVFHeHFVc9IBlAFBVV95cUxNclU2akp5QXRJVmhKMTBnUUxRUVdtRm4ycGp6cTlQeUVXa0cxbGk4cnFlOUl4d3lvVFRreTNocE13QnFWZkhtbnk3dXRCQ3E4NFpLVkY4RV96RUpCSDF5TUQxZnlLQ1ZreFNwS1VVVTBmTmpPME9fMzlpQ1poYU10ekFYR0lPU1RkN0hUaE9yaS15aXlD?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "South Korean Authorities Scrambling to Save Stock Market From AI Bubble - Futurism",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUzZvRFd6MnlrNFZNdGpiQjZLU1dwOUNrOVFOdmZ4MHZIUUdvUjlBQ3VZbjFJWUZtU1pLS3dRM2pEd2JOd21KUWtSVlBWenEzTFkxNjlQOHhzWjNzcldKaGQtVmwwVTJFSHpVV3I2UjNqc3U2VXF5TV9OVlZYUE91SXFhR2NnTmdPSXVUX0tVR3puUQ?oc=5",
+        "press": "Futurism"
+      },
+      {
+        "title": "[전문] 연준, 기준금리 동결(영문) - 연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIZ01Fenp2SDc2Rk5NUE9oVG11Q2xQeVRJMmF0N0FXdkhNX1lVVUNPMUlDSTBKaVdsOEZyMjlMSERlNk5SVlpkNGhjUldhX19mQl93Tnlvc0VYUDBsTjRmSENISTFwY1MwekJkeVFDWWhBaF900gF0QVVfeXFMUEhnTUV6enZINzZGTk1QT2hUbXVDbFB5VEkyYXQ3QVd2SE1fWVVVQ08xSUNJMEppV2w4RnIyOUxIRGU2TlJWWmQ0aGNSV2FfX2ZCX3dOeW9zRVhQMGxONGZIQ0hJMXBjUzB6QmR5UUNZaEFoX3Q?oc=5",
+        "press": "연합인포맥스"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
