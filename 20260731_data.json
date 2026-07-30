@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "generated_at": "2026-07-30T23:31:49.799181+00:00",
+    "run_date": "20260731"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.97 (-0.82%)",
+        "description": "전일종가 100.80 / 변동 -0.8310"
+      },
+      {
+        "title": "미국 10년물 금리: 4.66 (+0.89%)",
+        "description": "전일종가 4.62 / 변동 +0.0410"
+      },
+      {
+        "title": "VIX 변동성지수: 17.09 (-17.28%)",
+        "description": "전일종가 20.66 / 변동 -3.5700"
+      },
+      {
+        "title": "S&P 500: 7437.63 (+1.66%)",
+        "description": "전일종가 7316.15 / 변동 +121.4800"
+      },
+      {
+        "title": "나스닥100: 28106.35 (+3.36%)",
+        "description": "전일종가 27192.31 / 변동 +914.0352"
+      },
+      {
+        "title": "다우존스: 52208.06 (+1.19%)",
+        "description": "전일종가 51594.14 / 변동 +613.9180"
+      },
+      {
+        "title": "USD/KRW: 1421.62 (-1.43%)",
+        "description": "전일종가 1442.28 / 변동 -20.6600"
+      },
+      {
+        "title": "USD/JPY: 159.93 (-2.06%)",
+        "description": "전일종가 163.30 / 변동 -3.3680"
+      },
+      {
+        "title": "코스피: 5663.24 (-5.98%)",
+        "description": "전일종가 6023.66 / 변동 -360.4199"
+      },
+      {
+        "title": "코스닥: 662.68 (-6.12%)",
+        "description": "전일종가 705.85 / 변동 -43.1700"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.484 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.37 | GEX +0.8B$ (만기:2026-07-30)",
+        "description": "콜OI 206,688 / 풋OI 283,668 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.24 | GEX +nanB$ (만기:2026-07-30)",
+        "description": "콜OI 154,656 / 풋OI 191,943 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $161.21 (+11.79%)",
+        "description": "거래량 50,054,528주 (평균대비 1.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $745.20 (+1.65%)",
+        "description": "거래량 3,433,987주 (평균대비 0.8x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 67.8% (135/199종목)",
+        "description": "평균 MA 대비 위치: +2.1%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 28/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Nasdaq soars, Dow and S&P 500 rebound as Microsoft leads tech gains, bond yields rise - finance.yaho",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZkMtZDdYTkR0cTdoWnhXY3NfQVJQZG1fTXg2bTNWRUNVUVhmR0tVMGdZM2pSQVMtdjEzYWhLMEtjcGxpNVFzNnpRRmdPZ1BQR0d6YlBPOFBCWXNaZ3FhVnhXN2ZnbmNPVjRidjdaM2Rfak13d0ZaSXZwbm5PemlvZHJSRHJiOFBZLXlvN0VCZ0wybFVZQ0Z6TzZBZnI2Z1hWQnVxbnZWV2loUno0Y3c5eU9tMExPNWZKclRwcVVmSG5Ubnd3Z2pKa0hGR1dpZw?oc=5",
+        "press": "finance.yahoo.com"
+      },
+      {
+        "title": "Friday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaEhDR21WVkE2Z2xGRkxuTDlfRE9Pa0QxQUd3YXd3TUM2azNseUJLMjU2cEJiYVREdmpKRjZUaFFIRldwZ1NKOGZLYWplb1NuLU1UUVFLZGRHdFVmb19ZVXVoQm51VFF3SzVLcjdXbDB2djRTUC1HZUkzQmpHQTMwNTJJT19HS0xEZDk2YnNsdUtURFBrWU9HQVI2VXk5Q3lCb3djYXVwbjY4Z05ra29fZG4zZk1WQjFNWVlHSVpMcw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Why Donnelley Financial Solutions (DFIN) Stock Is Falling Today - finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd2pYeVlDVV8xd2pGbjNJeGllU2FINF91WlQ4QmViOTJHcEd1MlJ3eGVXVm1aaUxRRzZjOTFDTHJISTBiWG5tN2FqRUpwY3hudnlNRlJtRElrdG9YX2xUMWxONFRwc1VTampRQ0lwWXg3b2w3WTJ1VnMxeWhPbWk5Vjg5X3Q4cnJiM3cxV3dOWHRfck03d2d3U01vUnRYUVRMQ2UwLU93?oc=5",
+        "press": "finance.yahoo.com"
+      },
+      {
+        "title": "Microsoft Posts Biggest One-Day Market-Cap Gain for Any U.S. Company - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSnVMRnpOTU9YRU9RX2FwSDQ5dlptV1hxSzJPd1NMSlpEdTJtMXFvZTBYblJWcWFkams4TUczd0dCNm05bS1VSGJ1ZDBlYS0zYlNSbkpzRTlWc2tFTzZjYmJUang3NDcyWVNtQzNsVGFUSWxzc2w5QWJpaHZueTUydEhhQ1dNN3lvMFBrY3VTUFd1NkFJYk9BNWZlcmNhVWJmXy10Nmg2aDRsN2I5ZUJxdQ?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Nasdaq futures rise after strong rebound on Wall Street, Amazon surges after earnings: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54R3JtcGRRMU1XOURNOWlmOHh2LUYzd1pweW1JTFRtR0RhYXEwT2QyUlVwZUtINk9wc2F3SWdtYnhmalJXZVZWV3FHV0Q1azg4UTlMeVlPSWxxZzZtUldoYWJJQXBLanRJZDQ4WXVfaHg0WlEtOUcw0gF8QVVfeXFMT1V5OHNxNHFkNjg3SkJXejByUnBsT1lGU1RVcTVuS2dUbGNBc1NkV2JQTERrcXgwWkE5YVVDczU1ak9rd0F2MktfSlpHT0QxMEpta082Q1hMdFJDYy1FMTFHaG5FZnBidTdmdjZBM3RtWl9DdU5ERGxIaWhvaw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Wall Street ends sharply higher, lifted by soaring Microsoft - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkwycXd5d3BqNDVILVR4WkY3UERXYktQdm13QlEwNkd3MXF6Nm9EcTdWNEQ0dmIyV2lPOTFqaU9icm1kYTVoaFIyS3ZUSTRqLWI5THZ0TjM3WEp3aE5XV28zUTBzWkJzcURDNC1Jb21GeXE4eGJjU2tvbkNCR1Qxc2VTeFJPNlFLS0tydFBYdS1ZUnJoWUJqajF4akF0S2NE?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Nasdaq Jumps as Memory and Semiconductor Stocks Stage Powerful Comeback Rally - thebull.com.au",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQckVfaXlwSFBSZWttc3NfNVg1RHA0SlBLZ0x3NVlYOXVBS2Y1dU1PQ2JZVDJybHFDVGtfMndGRFB5SFotTGZqY0hDMTVQTjQ4UlBVWVF2dUZBSmE0TjJ5b2k2RGdJRm9xMzRGblRval9pcmFISHd1cnNpckZZQ01XZHpPR2ZmRjA0c3ZJVlltaWZxYU5NbEtPUXBoMkhzU2t1cmJ5em5tdGZpYVVxdGc?oc=5",
+        "press": "thebull.com.au"
+      },
+      {
+        "title": "Tech stocks today: Microsoft stock soars on AI growth, while Meta sinks on lack of clarity - finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZGs4cnhKUC1TU1dmQzN2X01ZQ3V1bWN1TkdBMjJ6dmUydUF5T1JVTmFKM0ZZaTUycTRGTnE2b0w4OEljRFFENFVkclFsYXQyWUJ4d2tYbUdDcExMVHdhMGJkRHBYNDZLQnJTUlNtQ3NWN3FJRDU2dWxPSWVSNHRGVTI2a3hFOEZPa08wc3k3SGhsOG5WS01Z?oc=5",
+        "press": "finance.yahoo.com"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "What Is SFA Engineering Corporation's (KOSDAQ:056190) Share Price Doing? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNa1cyQ1ZhV2dkb3dqZFQwd0tJZnA3RjRLdXBqUTg2SXRIdGprZlRSQllEZUV3M2xYYnFsRmNtdWZmWlBEVHFzZHJram1nTmg5RDdoWnBZczRJQkFLRXFseGh2dzA2eGpQOTJxQ1YzMXZuMjVxbnZPVks5dFRfei1fam05MG5PaW1oYjBqQUptTk9LRkpsUlBIQ0lrbVFKQndVbHgyc2owQ0VHTnhNSzVodllDQWlUYWZKSG9ZVUQ1eG4tc0R5elAzV3Y4NDE2TzBsVUNMTVRkbTVTcC01anhJMUw3d9IB6AFBVV95cUxQN19TRkhsaHh4MWZZVHY4dVlHdElTQmRoWENHaTFJY2dxbzNjMjdDTlpHQ04tYml5ODMxb2lUTGJnS2ljdWhBNzZzbE1OaUlpV3pPczBjWUUxZl81SVdXdFJMRGxoMzBLbE5lNEJVV25xazE5dDNZbFFNZDdGT0xlZUpYM1h6YlNjeXdsUk5WRFFaRGplM1NzWDVEMU90cGwzbGxGUGlIMFY4Yl9yY2JWcDZKckZfTFhoTXZlR2VuMVpGZmpmazFYaUFXNVBVSkJCcFJsdTlDYk92WXRPMnA1THJWM0luSVZB?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Analysts split on Samsung Electronics as Korea Investment lifts, BNK cuts targets - CHOSUNBIZ - biz.chosun.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcEN2aU1yRUJ5X2dSeHd3ems1OVBScGhoQlNoTEw5UHRwa0M1XzlOZkVCT0xxQWE1QVBvV1JMRjFVVnRNM3VkSENudnJRWjJvRERxWUQxaUNIZXdJaFRJRy1nMDIxOUZTSGlQdkk0S0s2b2Q3QkN6dXJoTC00bGpLONIBlAFBVV95cUxPRThaNGNidkhHNU0zcmxiYldsVmpUekVPRnk4MXBVRXpSN1lkUGUzS0pUV3FYZVlMUm1QaFZLc2dJS0EtYXlKcy13Qmx6X3lqOGJXdXRDajdPRzNXOXR4YWg1OFVVX3ZXS1FsSmhwQ1A2NmFCM1ZZeWJGaDBLV1dIQll6X3ZfQkxYWXM3Z0paMFgzSmx5?oc=5",
+        "press": "biz.chosun.com"
+      },
+      {
+        "title": "Oil-Driven US Rates Reignite Korea's Currency, Inflation and Interest Burdens - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR01Tal95S1RwSUdiNDQwTmlXU2diZHRiYVJGcTZnTGJpZFd3djRNd0d4SXF6WnpULWJFUXZ4MGNxU0pnLVM3ODRMeEtGTUF0ZlFyc2Z1OEpsTG5mT3VaM3R3Ukc5WWVwY3gwNjJqWnhfUXFUUXRkNFNla1ZibzAwUTFQTE5GSTdGTWttQVZhLXFZN3ZPS0NBbjA1WDRkUUdPYXc?oc=5",
+        "press": "Seoul Economic Daily"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
