@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "generated_at": "2026-07-31T23:31:51.128657+00:00",
+    "run_date": "20260801"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.80 (-0.21%)",
+        "description": "전일종가 100.01 / 변동 -0.2070"
+      },
+      {
+        "title": "미국 10년물 금리: 4.74 (+1.76%)",
+        "description": "전일종가 4.66 / 변동 +0.0820"
+      },
+      {
+        "title": "VIX 변동성지수: 15.99 (-6.44%)",
+        "description": "전일종가 17.09 / 변동 -1.1000"
+      },
+      {
+        "title": "S&P 500: 7489.72 (+0.70%)",
+        "description": "전일종가 7437.63 / 변동 +52.0903"
+      },
+      {
+        "title": "나스닥100: 28274.20 (+0.60%)",
+        "description": "전일종가 28106.35 / 변동 +167.8457"
+      },
+      {
+        "title": "다우존스: 52485.03 (+0.53%)",
+        "description": "전일종가 52208.06 / 변동 +276.9727"
+      },
+      {
+        "title": "USD/KRW: 1442.07 (-0.01%)",
+        "description": "전일종가 1442.28 / 변동 -0.2101"
+      },
+      {
+        "title": "USD/JPY: 157.40 (-1.74%)",
+        "description": "전일종가 160.18 / 변동 -2.7830"
+      },
+      {
+        "title": "코스피: 5593.56 (-1.23%)",
+        "description": "전일종가 5663.24 / 변동 -69.6802"
+      },
+      {
+        "title": "코스닥: 644.78 (-2.70%)",
+        "description": "전일종가 662.68 / 변동 -17.9000"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.432 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 2.57 | GEX +9.5B$ (만기:2026-07-31)",
+        "description": "콜OI 683,152 / 풋OI 1,757,470 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.11 | GEX +0.4B$ (만기:2026-07-31)",
+        "description": "콜OI 656,662 / 풋OI 728,861 → 균형 | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $157.10 (-2.55%)",
+        "description": "거래량 36,910,457주 (평균대비 1.0x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $750.32 (+0.69%)",
+        "description": "거래량 4,893,940주 (평균대비 1.2x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 63.3% (126/199종목)",
+        "description": "평균 MA 대비 위치: +1.9%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 25/100 (Extreme Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rise to cap volatile July as Big Tech AI spending ramps up - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRUNJOEJab054ZTc0M0J6WXlJcTlEVS1XNDJJSG5HX0lFUVNneVZ2ZWlPZ2FGa3Z4R3VDY29nZ1Y1U1B4WWpJekV5OW1uM00wcnR1R01pUUd5MHQzcG02dF9FSzBnVVpYZFVFaFpublBLVnVfRm4wQ2VXLXNQOWFxeTZ6Q210cmJjQmk5VVlXaF9ZcXd5dmZLdFBHdGZ6Q3YxR0R4ajZWbHg?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "The market’s big AI doubts are exposing the riskiest players - CNN",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOUN5MkpWcGhDZ0N1cUhmRVNDd2FLc1lnN1lRVllTUGVHTUNBM0NsQVNYNjZzdHdmX1JUdll5SmVYNlVTdnJ2ckNHSEtpSHNoX0VsLWJvWUxuakhmaGlIMFVrMWRjc0c0T2hmTmRJbVlaRVlGS1FxZXVvN2RXYWxqWUFvMVU?oc=5",
+        "press": "CNN"
+      },
+      {
+        "title": "South Korea’s KOSPI Soars 18% - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBETDBwb0RHZ3lyMkJ2S2VDV2dJaWZqdjJSX1UxVXJYUERBSE0wWjhUbEZfRHRseUo0RHBlaEZpZE1BZVJHOU1udTIzbUNCOV9VU3lUMXZZR2ZXc1pZejNrUzc1MzV5cXNkRGVxeW5zdUJWVW04MGcxaDM3Wlh4UQ?oc=5",
+        "press": "The New York Times"
+      },
+      {
+        "title": "S&P 500 closes higher Friday as Amazon surges; Dow posts fourth straight winning month: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54R3JtcGRRMU1XOURNOWlmOHh2LUYzd1pweW1JTFRtR0RhYXEwT2QyUlVwZUtINk9wc2F3SWdtYnhmalJXZVZWV3FHV0Q1azg4UTlMeVlPSWxxZzZtUldoYWJJQXBLanRJZDQ4WXVfaHg0WlEtOUcw0gF8QVVfeXFMT1V5OHNxNHFkNjg3SkJXejByUnBsT1lGU1RVcTVuS2dUbGNBc1NkV2JQTERrcXgwWkE5YVVDczU1ak9rd0F2MktfSlpHT0QxMEpta082Q1hMdFJDYy1FMTFHaG5FZnBidTdmdjZBM3RtWl9DdU5ERGxIaWhvaw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Wall Street ends higher as Amazon soothes AI jitters - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXM2OW82ZTlzUGZjWFdRTG9lbm9RWlBPaTR6czltYi1LSE5xZXE1YzFtOXB2ZF81U0gzaklsWDJaaWl3WG5rNWI3dk5QT3lsM1R4OHBfSmZZd3J6ZFcwSGR0aXoyZ3VZSkREdDFEZVJvSlpHcVVhdTZWdkttMDlvYmhxZk9nVHZVRkZUaXVfU0hMMUNMc1Y3Q08zX1VGVzR1ME04YThtaEpjTjloekZXZVpEQTE?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "New York sues Kalshi, says its prediction markets are ‘illegal gambling’ - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONWVkZVd4MHNaRkxSc09Vd1d3SDVaSk5uNlBLbVQ2WlVoRFBPZXF6bVJnN0VmQ3d3Q3Y0c0p1bDFZLVNVLUxYMm5kYUFBdjIzLTZ2aFBjWXZKTG50YzBFcUIzQXBQekxqWjVESzBfU1VsOXRaNnBrcEswbUtKLUdtamtpVzQtVnlId0lLcGV6eXVweGtpZUkzVFo0amxXMHFvcjJGdnE3YVFvWkNCcmVhQTR2VdIBuAFBVV95cUxPY2I1SDhnbkJuUHBoc0ZjTU5Cellib2pHWXR3b1oxUTBUaFd5RGlQUlZTMElMTGxady1zWHRGM0JyWjQzQmUzdHpyeGFWR2hkYnRLZkJXMTRLUjlKa0VTcjlweGJfQmM1djVWbk1kYWlhVldYYk1JakZ0M0pmNWFGQ2tmQ3NYWEE1Szd1bm4xZnVYNEtQTy0ya0oycUJOdEMzWEpVNnZlbnJkZWtuODBRd0NkcW1YZmhN?oc=5",
+        "press": "Al Jazeera"
+      },
+      {
+        "title": "Financial Services Roundup: Market Talk - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT1lqaFptS2RUdl9Qa0g4TzFoa3FVVUtOdjEtWU1KeHZ2Q0g5b2tjUDEzeFUtVzhjdEc5N0I3RVlxajY0ZEZ3bDRocHgySVlzLWFCRjJwcVlZaVpvUWVjT1R2OU5yUUJ4czc3eVRMUWZ0NTRMQ3R5UXRJekN5RW4xeDJR?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+        "press": "Investor's Business Daily"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "South Korea’s KOSPI Soars 18% - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBETDBwb0RHZ3lyMkJ2S2VDV2dJaWZqdjJSX1UxVXJYUERBSE0wWjhUbEZfRHRseUo0RHBlaEZpZE1BZVJHOU1udTIzbUNCOV9VU3lUMXZZR2ZXc1pZejNrUzc1MzV5cXNkRGVxeW5zdUJWVW04MGcxaDM3Wlh4UQ?oc=5",
+        "press": "The New York Times"
+      },
+      {
+        "title": "US stocks rise to finish a wild July as Amazon soars, Apple sinks and inflation worries worsen - AP News",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYXVQbFd2b2dBZFVoT3ZiRndKdVVic0xJWVFBWF9hN0FYaUk2ZkhlVkctWWtibi1GNVgxdE5Ec0FzNkpwNnlsZXNla1d5cXgzbFVIZ2pnMFdvMW93QlhXOW9CbkRhd2J2Vl9jaVV1THY2RzFzbUtvSGhNanA5NE5OQXJTN1BNVlEzXzVQQ00zQk54U0NIdlpj?oc=5",
+        "press": "AP News"
+      },
+      {
+        "title": "South Korea’s Kosdaq slump blocks IPO exit paths for high-flying startups - kedglobal.com",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmcmNqWlVvNmhRejY5VnZTSGdtVzQ1MWhjSUgzdWlOaGJrbjBmS2lhZk0wRlJtTHJZU1JHWXVBM25jRXFlMEYxZllkbnAzLWdvZ01UT05GWms4cXg0N0Nac0lVdUxSb0d1cWtCaFpRTy10RmNY?oc=5",
+        "press": "kedglobal.com"
+      },
+      {
+        "title": "Backend.AI Maker Lablup Wins Fastest KOSDAQ Approval of 2026 as Market Slips - Tech Times",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOTNvUGFVdlJOWFFDM19icW0zY1d4Smh1VUEzRHVEQkFQakFxXzluM2N3X2VSUUk2Z0FZSnFqS0xPbWQzbVNMcG5sdVBNNTBxNUIxbkUzTHZ0bDJ4b3RiZEtZU21PZUVDY3BZeXBlakdEWFZoZGd1djJ6ZWY1NzNyWHdoMDZ5X29vSW5BdkRsVnpROTlmNTlVMG9LeHZkWWtTLWtxS25aSzhTR2NYLUNlZVZQMUI1dnJOQlByOTdDTnRHZw?oc=5",
+        "press": "Tech Times"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
