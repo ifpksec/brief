@@ -1,0 +1,216 @@
+{
+  "meta": {
+    "generated_at": "2026-08-02T23:31:50.052215+00:00",
+    "run_date": "20260803"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 27,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 99.73,
+      "change": -0.07,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.74,
+      "change": 1.76,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 15.99,
+      "change": -6.44,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7489.72,
+      "change": 0.7,
+      "insight": "전일종가 7437.63 / 변동 +52.0903",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 28274.2,
+      "change": 0.6,
+      "insight": "전일종가 28106.35 / 변동 +167.8496",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 52485.03,
+      "change": 0.53,
+      "insight": "전일종가 52208.06 / 변동 +276.9727",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1439.36,
+      "change": 1.32,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 157.66,
+      "change": -1.58,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "외국인 코스피 3거래일 연속 순매수 — 반도체·금융 집중",
+      "tag": "Bullish"
+    },
+    {
+      "point": "달러 약세로 원화 강세, USD/KRW 1,350원 진입 시나리오",
+      "tag": "Bullish"
+    },
+    {
+      "point": "SK하이닉스 HBM3E 16단 양산 개시 — 2분기 실적 개선 기대",
+      "tag": "Bullish"
+    },
+    {
+      "point": "국내 주담대 증가세 지속 — 증시 유동성 소폭 제한",
+      "tag": "Neutral"
+    },
+    {
+      "point": "코스피 2,700선 지지력 확인 중 — 추가 상승 여력 탐색",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "달러인덱스(DXY) 98.20 — 98선 하향 시 EM 자금 유입 가속",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미국 10Y 금리 4.32% 하락 — 성장주 밸류에이션 호재",
+      "tag": "Bullish"
+    },
+    {
+      "point": "VIX 18.45 안정권 — 딜러 롱감마 구간, 지수 급변 제한",
+      "tag": "Bullish"
+    },
+    {
+      "point": "고용지표 예상치 하회 — 9월 금리 인하 기대 소폭 회복",
+      "tag": "Neutral"
+    },
+    {
+      "point": "HY 스프레드 279bp 안정 — 기업 신용 리스크 양호",
+      "tag": "Bullish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "SK하이닉스, HBM3E 16단 양산 본격화 — 엔비디아 블랙웰 공급 확대",
+      "url": "https://www.etnews.com",
+      "press": "전자신문",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자, 파운드리 2나노 GAA 수율 목표치 근접 — TSMC 격차 축소",
+      "url": "https://news.naver.com",
+      "press": "이데일리",
+      "source": "naver"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미 금리 인하 기대 재부상 — 고용지표 예상치 하회",
+      "url": "https://www.mk.co.kr",
+      "press": "매일경제",
+      "source": "domestic"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "달러 98선 하향 돌파 — 원/달러 1,350 진입 시나리오",
+      "url": "",
+      "press": "매크로채널",
+      "source": "telegram"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "외국인, 코스피 3거래일 연속 순매수 — 반도체·금융 집중",
+      "url": "https://www.hankyung.com",
+      "press": "한국경제",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "[옵션] SPY GEX +1.3B$ 롱감마 — 만기까지 지수 급변 제한적",
+      "url": "",
+      "press": "옵션채널",
+      "source": "telegram"
+    },
+    {
+      "category": "부동산·유동성",
+      "title": "국내 주담대 증가세 지속 — 금융당국 추가 규제 시사",
+      "url": "",
+      "press": "매일경제",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아 블랙웰 GPU 공급 차질 해소 — HBM 수요 견고 유지",
+      "url": "https://www.reuters.com",
+      "press": "Reuters",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "구글 TPU v5 공개 — AI 가속기 시장 경쟁 본격화",
+      "url": "https://www.bloomberg.com",
+      "press": "Bloomberg",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "연준 위원, 인플레 재가속 시 추가 긴축 가능성 시사",
+      "url": "https://www.ft.com",
+      "press": "FT",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미국 고용 예상치 하회 — CME FedWatch 9월 인하 확률 상승",
+      "url": "https://www.wsj.com",
+      "press": "WSJ",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "달러 약세 지속 — 신흥국 자산 선호 심리 회복",
+      "url": "https://www.cnbc.com",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "S&P 500, 실적 시즌 기대감에 5,300선 재도전",
+      "url": "https://www.marketwatch.com",
+      "press": "MarketWatch",
+      "source": "international"
+    }
+  ]
+}

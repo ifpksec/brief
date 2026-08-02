@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "generated_at": "2026-08-02T23:31:50.051362+00:00",
+    "run_date": "20260803"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.73 (-0.07%)",
+        "description": "전일종가 99.80 / 변동 -0.0680"
+      },
+      {
+        "title": "미국 10년물 금리: 4.74 (+1.76%)",
+        "description": "전일종가 4.66 / 변동 +0.0820"
+      },
+      {
+        "title": "VIX 변동성지수: 15.99 (-6.44%)",
+        "description": "전일종가 17.09 / 변동 -1.1000"
+      },
+      {
+        "title": "S&P 500: 7489.72 (+0.70%)",
+        "description": "전일종가 7437.63 / 변동 +52.0903"
+      },
+      {
+        "title": "나스닥100: 28274.20 (+0.60%)",
+        "description": "전일종가 28106.35 / 변동 +167.8496"
+      },
+      {
+        "title": "다우존스: 52485.03 (+0.53%)",
+        "description": "전일종가 52208.06 / 변동 +276.9727"
+      },
+      {
+        "title": "USD/KRW: 1439.36 (+1.32%)",
+        "description": "전일종가 1420.60 / 변동 +18.7600"
+      },
+      {
+        "title": "USD/JPY: 157.66 (-1.58%)",
+        "description": "전일종가 160.18 / 변동 -2.5230"
+      },
+      {
+        "title": "코스피: 6595.45 (+17.91%)",
+        "description": "전일종가 5593.56 / 변동 +1001.8901"
+      },
+      {
+        "title": "코스닥: 719.76 (+11.63%)",
+        "description": "전일종가 644.78 / 변동 +74.9800"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.432 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.26 | GEX +0.8B$ (만기:2026-08-03)",
+        "description": "콜OI 108,342 / 풋OI 136,435 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.85 | GEX +0.3B$ (만기:2026-08-03)",
+        "description": "콜OI 81,770 / 풋OI 151,580 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $157.10 (-2.55%)",
+        "description": "거래량 37,027,800주 (평균대비 1.0x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $750.32 (+0.69%)",
+        "description": "거래량 4,894,400주 (평균대비 1.2x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 63.8% (127/199종목)",
+        "description": "평균 MA 대비 위치: +2.0%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 27/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock futures rise as investors look ahead to jobs report, key earnings: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPYTd2SDI1UzhVYy1QQ0RaUi1KOE1rSFJCQmxHeTlnM3ZZQmFXdWZQWng1dldOUFA2S0RBMDdfX0pzNUR0ZVBRQXlRSExfY0NPdmljZ09pMmp1N0RSWFA3MkgybG5uTUQ5blFoWXNlc2NmbE9UQzdj0gF8QVVfeXFMT2dad3JfYjlzX3lVT3d5a3lGMTRWdndwYmlyd3ZCX0tKYWxHcG1mODdIQndhN19VY2czWnZwTDFfeFlsTnl4ZlZhdkloNFh1Uy1NRkZwZkphSndSOHNFN0RKSWFXMDluMmREd0NiVlRYU3dXUjJMMmg5VS1kVQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Oil Slumps, US Futures Rise on Iran Talks Optimism: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZHNvOGJ6X2tLQ2E5REtCaXBnZkgyc0toVF9IRFBkV0wtd1lPWmRnRW90TGlzeERRaDloM3NoNVdnOE42UnlwUDZOdlNXRlhFQlhxYjVXcXBKaVFITS01N0FMNXFTYW1TSVFEeU5DNzg4TUxKYm9QSXFjUTE4Y05EamhlclRNZ2hkSmlaV252b1FwOEZfSUYtazNjN2FtcUxWM1I1S0NHMkUxaGFyR0Zyd1dRdw?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Semiconductor Sell-Off: 1 Chip Stock to Buy, 1 to Hold, and 1 to Sell - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWkZSXy1wdzdub2xOcGZJVmhmLTBpRlR1QzFjdHl0ZXdZRmYzcjdLWTJoMlBHc3puMTlxSzJxN2oyamluc3paaTRoaTNHTE40UlZGVVFOdWNfcHZOUTlKTktob19qTy1QTDBTZTZ6WFhxTUlkb1c0alMyZk8wU0FEVjFhSFRTX1l1N1czaU1TRQ?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "This country’s stock market may do better than most if AI bubble pops: Analyst - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM1Y0RmJzdHloR0xWTjBQeTd1akgwM1NPcHl6eThWTFJBWlJtYVFNVkt0QmN6YkJHQmEyWlJETldVWGJKVEJrVVdPX3pzTG52MmhRWWxTaThVdzZZWkxCSEwzX1RpRUJOXzdEblBXOUFTdDJGRUxDUWVCM19BYWF3VkZRc1RkY1R2RHN4dVIzVzl5QzNPM00tYjZFNjVWbzEzTmJ3S2plZ0hFN1ozUHpCNDRINDlVSmJpcUlidGJtQWJUZ3BXcmdOZ0tDZUV3dw?oc=5",
+        "press": "Investing.com"
+      },
+      {
+        "title": "If You'd Invested $10,000 in the S&P 500 at the Absolute Top of the Dot-Com Bubble, Here's What You'd Have Today - Yahoo",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZjh4NC1wRXhvRlhDcFJPbVZKNjM5a2xUX08yRWstVUtRVE5NX0ZMRmdSZU0wdlFQWkxkWXFYNXYxZGtJOHJ1VVlhNGkwY3BVa2tUN1VZR3M5ZFhnMl9ndGZvcGFFWllDMGhvbGllWUxYeTR1RjI5eUNoaGVnc2JtWmFIdVBDUzJPVW94ZmdUZDE?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "(ULV.C) Strategic Market Analysis (ULV.C:CA) - Stock Traders Daily",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNmIxODh2Z0FhSjNQcE54NXJFbVJSVVRIUmJqNHBqaVlyeGQyMjFEWEp4VmtQNVNadGtCNm9tWmE1ZHNtMnNRUXZCa1FZakJoZVFBNlRjMlhtUkk0aGNoYmNzUzNVMFVSM0x5V0ZJSVdTdnNWRU5Qd3ZJSlNLYzl3amoxb1JfTTMxbkpvQkZuOFZmQQ?oc=5",
+        "press": "Stock Traders Daily"
+      },
+      {
+        "title": "SpaceX’s Blockbuster Earnings Report Is Coming. What to Watch. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JOWZwZ3BPWWhKeC1BbGdNNXNTbkpBalhReTIyR0NrZUVjQnpxd1cwdjRKVmtjVkZaaEItS3lWbVpUVVRQY3lNWFFXLUpNRXVKSWl5NE0wQ2k2dDk0bHFTWm9ZT3pPbDhIRFJ1aEFQam9SSExwQVF6Wkp3dw?oc=5",
+        "press": "Barron's"
+      },
+      {
+        "title": "Jersey Mike's (JMKE) Stock May Be 28% Undervalued Following Its IPO Debut - Yahoo Finance UK",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWFlHYmR3Rl9jRWhNVmJ0NEpjemhnUnF5NjFxejdrWHF3YmJ3Uk9nTW44bjlRN0R3S1pudVNfTkZsNEV1amw5YUpDVnl3ZE92NGdBTkhEc2lGQWdvVDQzVTV4cVkxY0g0Y0JGN0lOdnJXRzNfLWo0TVV3YXJYbzE0TWln?oc=5",
+        "press": "Yahoo Finance UK"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Kospi Crash Drives South Korean Investors to Exit - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRVFUT0I2SGc3WjlYb3NrOEpPRTNPZE5MSC1kZ0Y5aE9tZ2JVX29va1lpZDhlRnpRUGMxTEI5OUV2cGxvaUY1ekMzLVNMZWhoNG51M0NNdzJOYVNCY0VOaVVXVF9yOXdJUFhiTlcwOERWeU84NUpielYxX082Ym1zY3JfVnlLUW1ERXJPM0pB?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Global shockwaves as South Korea's crash rattles markets - ABC News & Headlines – Australian Broadcasting Corporation",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUldRMFhxeFhIZkZLWDRVVk1WT3BCdTZ0UnA1dThlWTFvV2g0YzYtVDFpdUJvbTI2Tk1qNENsUWVQWVMwRlhDWDFTMFI4SXJlM2szTjd0ZXJEblFYQTlQNldyamlaSVRjVEF4TjJacGpmLU9NM3JYOTNSSkFFY1lhdmFkdkRidWttZUNRa1RDaEtJZDBTNkE?oc=5",
+        "press": "ABC News & Headlines – Australian Broadcasting Corporation"
+      },
+      {
+        "title": "Markets signal investors are back in buying mode after Kospi's record surge, Trump's Iran reversal - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUkxlYnR3ZHdJYkNaeWNIdnhETHVfTXVhQmNiMHNFTWZJQW81dEp3VXhqbXVNOVRXWUxzb1Y1cE9lamwyYzRKNXlFQmd4S0VUcE5SQjFBV2NTLWM0MU1rZTVTV1BkRWN1WnprelpYRUZLN09wZmt6MW9RSDYxLTZNd1NCTlFLTkN1QkR2dUdOVVFqbnRoV1A3dDM2aml4Y2lHMHc?oc=5",
+        "press": "Fortune"
+      },
+      {
+        "title": "KOSDAQ Gets a 'Fast Lane' to the Big Leagues: KRX Weighs Direct Listings to Lure Unicorns Starting Next Year - finance.b",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11U1FFbmk0NzhWZ2x4MFd6Smt6YzdpMzlhbnZrWk0wWU8tOVJkaDZCc3JfeWkyOWhETEtBeHVJQzRfeTFIOWNSRkhNVFlmRFNTcEdVUm9kbTNFRVVPOERJYjg4al9CYk5DWnN0QXgzRC1OaHRYQ3c?oc=5",
+        "press": "finance.biggo.com"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
