@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "generated_at": "2026-08-03T23:32:01.316863+00:00",
+    "run_date": "20260804"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.99 (+0.19%)",
+        "description": "전일종가 99.80 / 변동 +0.1910"
+      },
+      {
+        "title": "미국 10년물 금리: 4.69 (-1.24%)",
+        "description": "전일종가 4.74 / 변동 -0.0590"
+      },
+      {
+        "title": "VIX 변동성지수: 15.86 (-0.81%)",
+        "description": "전일종가 15.99 / 변동 -0.1300"
+      },
+      {
+        "title": "S&P 500: 7600.50 (+1.48%)",
+        "description": "전일종가 7489.72 / 변동 +110.7798"
+      },
+      {
+        "title": "나스닥100: 28776.80 (+1.78%)",
+        "description": "전일종가 28274.20 / 변동 +502.6035"
+      },
+      {
+        "title": "다우존스: 53178.41 (+1.32%)",
+        "description": "전일종가 52485.03 / 변동 +693.3789"
+      },
+      {
+        "title": "USD/KRW: 1429.15 (-0.46%)",
+        "description": "전일종가 1435.70 / 변동 -6.5499"
+      },
+      {
+        "title": "USD/JPY: 157.41 (-0.11%)",
+        "description": "전일종가 157.58 / 변동 -0.1740"
+      },
+      {
+        "title": "코스피: 6595.45 (+17.91%)",
+        "description": "전일종가 5593.56 / 변동 +1001.8901"
+      },
+      {
+        "title": "코스닥: 719.76 (+11.63%)",
+        "description": "전일종가 644.78 / 변동 +74.9800"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.363 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.11 | GEX +3.3B$ (만기:2026-08-03)",
+        "description": "콜OI 222,702 / 풋OI 248,023 → 균형 | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.84 | GEX +3.0B$ (만기:2026-08-03)",
+        "description": "콜OI 125,313 / 풋OI 230,781 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $160.24 (+2.00%)",
+        "description": "거래량 21,240,198주 (평균대비 0.5x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $761.32 (+1.47%)",
+        "description": "거래량 4,248,059주 (평균대비 1.0x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 68.3% (136/199종목)",
+        "description": "평균 MA 대비 위치: +2.9%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 28/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market News Aug. 3, 2026: Dow notches record close, S&P 500 and Nasdaq log third straight day of gains; oil prices",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYlNadlNHcmdVcEtaWmh4V1VPLWotcVdHV0FuR3lmRlJEbXRTZUdzU293d09admZaNVlTNmJ0SVI1TDkzRGM3MUg1a04wSC1vd0l4ZUZHMXVydHlMNzZ4ZjN3RkEySEZSVUI4dnZtZjFOOGdvNkFQX1FpRFloRHM3MkF2T2tFZ1pfSVZOWUlZZlNEMTZ3RVQtUzVmSkZHSS1qRFFUaGJDamdqcWxuMEx6dVRNLXV1UVpkV3BmWWd3dnhJeU1f?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Jim Cramer says the market has warmed up to Big Tech's AI spending. Here's what flipped the switch - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeG9qaTdTdlc1eFRKaUNuUXN2VWVDNDFtVXVEbkFDWlp2a0RBZkFDUGR4MndSTEotSVdBbEdNWGhITlZZaURMY1FMaUdicnJBREhrQmJRUFpmRURqcVB6NURsaFFJQWtGdUxsZXM4RGt1enM0a3p2OEk1REJVZmdGUGVIN0hWQXJwbFVOUTRB0gGTAUFVX3lxTE9RbUhibGdELWMtTW9aTnR2dWE3cjAtZUk5MXdyTy1VX1MxWkRRbllGczlBSzIzM2ZTbHRENnNSRXh0QkdLYmZiWkhETXItQUotNTJJUHNTZ3AtRGJWQ2sxUU1CMjBIOGh4WkdIWS01RFpta2t1TENMZktlNkE5S2ZDeWdNak1ZOEdfYS1uRTdLbmtpcw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNFB1TUlsM29CQ2tzeTRCNWxCM0tkcHJzMEhYU3N2MXBqeEV3OHBOakdOYUkzNThsQ3N1WVF3dzcxOVVnTXlobXdjcmRLRmVOaVFlSGhBck9mZXoxenN2bjZDeGlIbWhKbms2X0JEV20wQ0RvZlRMckRYWTFqUVFYWEFGZTliSTZVNHFpU25paXEyZmJqUy1sNzlsQQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Auto Market Weekly Summary - Cox Automotive Inc.",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1vU2tRbUhGVFp3ejBudVBXcVg3Sk5zblB4WThtMnJvaF85RUxfTHFZWXBEd1Z0cEhlS0pacDJBbmJjbm5Kclp5MHh0UHdSa1E1U1lYczZTd19wUkNmZ0lkaGZJMGxBbDliNF82QUtsUjdoWVFLVFBFZVhrYmM?oc=5",
+        "press": "Cox Automotive Inc."
+      },
+      {
+        "title": "Stock Market Today: Dow Jumps 500 Points; Oil Prices Slide; U.S.-Japan Prop Up Yen — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZTI2NlhSeXdua2NNNnlSQVhjaXRJdEs3QnExblJQWHBLdndrREVxb3JpV0JtaXE1M1l0ekxqa1B3a0d2MGJUdE5oaWc2S2JvREhtRUhZdldCeml1NFVQWWlzM3lZZmZ1NGJ2aGJwdElTMWZiUHZMWTh1MWxKZmlwc1BIZ3RKRHM?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Traders in the world’s most important financial market are bracing for a wild stretch ahead - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYWdmY0Z3RjdFM3NXWnoxWGNCbTRoRTV5dkt4LTlqb1pqa1pTUnpiRkk4dkh5ZUpmOXhnMmtxOXZXR2ttMUhaQy00andSbDhnc0dBLW5HUFUzRWNGc2hhaXVRekpGVmc5RGIwaC0tdUd5QVBtNmh3dUVncEI5WHhvVHVjZ1Q0QlpFd1B1SWU4QXplbTNOMzBFdmIxYUV1SVlTMnZrWDFqUjFKNjFmWTV0YVdIQ1RtVTFiVTVTMEVLbkNkWnppMW91R3ZaMV9mZw?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Stock Market News Aug. 3, 2026: Dow notches record close, S&P 500 and Nasdaq log third straight day of gains; oil prices",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYlNadlNHcmdVcEtaWmh4V1VPLWotcVdHV0FuR3lmRlJEbXRTZUdzU293d09admZaNVlTNmJ0SVI1TDkzRGM3MUg1a04wSC1vd0l4ZUZHMXVydHlMNzZ4ZjN3RkEySEZSVUI4dnZtZjFOOGdvNkFQX1FpRFloRHM3MkF2T2tFZ1pfSVZOWUlZZlNEMTZ3RVQtUzVmSkZHSS1qRFFUaGJDamdqcWxuMEx6dVRNLXV1UVpkV3BmWWd3dnhJeU1f?oc=5",
+        "press": "MarketWatch"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Bloomberg flags South Korea as uninvestable amid volatility and policy missteps - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR2pDWmItc3hEMzJGeUtZX20tbUxWbDRBcTltZS04V255bXViVWZxejhPdzBRbXhuOWNzR0ZLekhUNDdzT2IwUXNWQ1FmVWtvQmFGZGE3YXg2dUhlNVlCb2IyZTc2dmVLYlhXMDc5NUlSOTRFcUlDWTdseHdqdl9fQXc2XzdoWUZ60gGcAUFVX3lxTE1wNWp2WkxGeGZZMGxUY1Nkc2o1RlQ0Sm1oYkhyX3FMV0ZrdFB0em5sN3cwQkdIaWlQZXRicXBkMi14RjViejlqRFpJOUZabkZ0QnRmaF81RUZxb295dDEwR1k2VVhPUG1uQXJSbkh5RlJfYTA3ZnVDWUtmMVd2N2VTQ0E4UDZfMHV3dmxDZVhkbjJBdzNLME1qMmxsMw?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "US-based Ingenia plans $42M Kosdaq IPO for TIE2 pipeline - BioWorld News",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTDZaR0hUTVRUa054SUpSeUJWR2k1ZWd3cGNhS2xNbXo2eW5qV3JIMDllTEQ0OEZ5ejQyMWY1MFJyemp3SGMtbVlhYnA1ZHRDUXRCQmdabl9Vcmk1UGdQcHBlRXVlMS1RZG1QRFo5Yjl2MUl5ZkUyNHR6NGI2dktlVFJyOGpxeEZNeEQzdldXbG1QRGx2RTJUaWtWR3g?oc=5",
+        "press": "BioWorld News"
+      },
+      {
+        "title": "Memory Super Cycle May Extend to 2030 as AI Demand Outpaces Supply - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZTdqdEJzMWhxTzRiTlV2LVFZTnBRM3N0RHhYbmxTdXVnMWNVT1U4dl9IckhXMU5jMXkyalE0YUxoTmxDTFlwcTBPanQ0YmVoWlBCMEw4S05sbF9kSXBfVm9CR0ZyeXpnU2tMd0x5b1pVVkVnSl9zdHNfLWZvV2l0blV0NjloaExQcVFpNmdFSFNVQklJWXZtSEJkTU9sQkRy?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "South Korea July inflation +2.8% y/y, weaker than expected - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTGg4aDNTNlNfWkE1QWVhb0xFMWU2Q3pkbFhfeHNyZXZwZjdER21qRk9DTklyTXMtYklOZ0tKczM5T0t3YUx0X3NjZVBzcGZqM2hEcGdpakdHdkNpWVBYZ1MtbnYwMTBGWWx5X0JOWVVORHVsSjItOVVQZ3BQUmVfeTBVWTVOWjlGZldvc3d3aWd5cWwxaWRhNHN0NXdQUzlnLVpHdW1tcnlTcmlT?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Korea’s Inflation Cools More Than Expected, Offering Some Relief - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOVhRWkNlTHotQlF3Z2Z1dzV6YUpiVURxeVVMUUozcWJTc1hSai1jTUlHN2tFTVl2ejBRLXVaTkQ0MDVnUWhaY2pBczQ4dml6c1RjODR0cFBoM0RjR2hSM3N1QWtCRktsX1pJY2lnQkt5VTJvYTUxUjhNTXpKay1DbDByUWNDYWZ5dnJIQ0Nuay1IOUxlNkwwZkxiQjJNcWw2T0x0S0VwNm5VbXloWnpNZ1RKU0E?oc=5",
+        "press": "Bloomberg.com"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
