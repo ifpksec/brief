@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "generated_at": "2026-08-06T23:33:13.495294+00:00",
+    "run_date": "20260807"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.96 (+0.28%)",
+        "description": "전일종가 99.69 / 변동 +0.2750"
+      },
+      {
+        "title": "미국 10년물 금리: 4.67 (+1.15%)",
+        "description": "전일종가 4.62 / 변동 +0.0530"
+      },
+      {
+        "title": "VIX 변동성지수: 15.15 (-4.17%)",
+        "description": "전일종가 15.81 / 변동 -0.6600"
+      },
+      {
+        "title": "S&P 500: 7709.96 (-0.18%)",
+        "description": "전일종가 7723.55 / 변동 -13.5898"
+      },
+      {
+        "title": "나스닥100: 29373.33 (-0.39%)",
+        "description": "전일종가 29487.79 / 변동 -114.4551"
+      },
+      {
+        "title": "다우존스: 53885.10 (-0.85%)",
+        "description": "전일종가 54349.12 / 변동 -464.0195"
+      },
+      {
+        "title": "USD/KRW: 1422.87 (+0.12%)",
+        "description": "전일종가 1421.16 / 변동 +1.7100"
+      },
+      {
+        "title": "USD/JPY: 158.40 (+0.51%)",
+        "description": "전일종가 157.60 / 변동 +0.8010"
+      },
+      {
+        "title": "코스피: 6598.26 (+3.76%)",
+        "description": "전일종가 6358.95 / 변동 +239.3096"
+      },
+      {
+        "title": "코스닥: 799.59 (+2.42%)",
+        "description": "전일종가 780.72 / 변동 +18.8701"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.507 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.92 | GEX +3.4B$ (만기:2026-08-06)",
+        "description": "콜OI 260,967 / 풋OI 240,926 → 균형 | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.39 | GEX +0.3B$ (만기:2026-08-06)",
+        "description": "콜OI 127,602 / 풋OI 177,848 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $164.12 (-2.97%)",
+        "description": "거래량 17,507,201주 (평균대비 0.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $772.13 (-0.16%)",
+        "description": "거래량 2,542,196주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 64.5% (129/200종목)",
+        "description": "평균 MA 대비 위치: +2.7%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 25/100 (Extreme Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market Today: Dow Poised to Break Winning Streak — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmhkS2hZaWhCRE1xZVpnRUEwOGpaaW11SHd0RzhiX0tTbG5rMGhUX0dvRG8wVFNxYkdjeUd3MlJTc1NEV0pJdUlVUlUtb3l1YkFSZUY5aXhja25adTMwcVZyOWRxMW1SNi1WV0NnU3p5bklPQzRoU1ZhZDliRGhfejNkVkRLb1E?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "These 5 warnings hint that one of the longest winning streaks in stock market history is coming to an end - Business Ins",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd05zZHR3UTNnX2UyOTVqeTBxMnFITHhXdDVVdUlIbWxhTktQbFBHbE1HUUtmczFCMnhUNVQzQVIxS184VS05QUxPTE4ydGdReWVGTE1pWHg5MzI4Ulk4SlA4TXBNX3k1dTZraWZMcjVNbVZjV3NqQU5DQlhTMDhhQVZwVlJ3NzhHUngwNWxkUEpxaXlMTlQxaXdpaUpVbGEwQ1E5QWZqRjRZczJERWttUA?oc=5",
+        "press": "Business Insider"
+      },
+      {
+        "title": "Financial Services Roundup: Market Talk - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRVBBS3BVZGhpZWYzbFBRVDNWX2swbEVPcnJ0TjFLaUNPNE4tS1ViS0FHM01jMWFEOExjOXl3Y3dpNGFoQ1Q0R0Q1NGhZd0NObWhzbVJybUVuUm9CbFlLbkEyNDhIQ2NybnV1TE9oSEVPWkE3cG85cmpSUkwtM0RRNUF3?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Stock Market Today: Dow dives to first loss in six days, S&P 500 and Nasdaq also fall; rise in oil prices rally and Trea",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQVF2MFB5Y0NPc3F2VF9tN2d3Rjdhdzk1YWZsMVlMYUZic21SRlQ2cHN1UXF6TWZ6SUVzdjU4Tm15WXppYU5xblgzV0RKSy1UR3hqbWZNYm4tc1VNU1FuZG54VW44NEtJdGIwWjZseTVOVWhaZ3BEeExyMXZjclduNW9ubGdDV1Z5OGJ2Q1YyaEFLX0FPOGppeXZGdFk3MGxxa1NIR0Q4cFk4b1hSekdjN1R3TzNOYlV4UlpKeV9oUm1ocWlRWFE?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Stock Market Today: Dow Poised to Break Winning Streak — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcmhkS2hZaWhCRE1xZVpnRUEwOGpaaW11SHd0RzhiX0tTbG5rMGhUX0dvRG8wVFNxYkdjeUd3MlJTc1NEV0pJdUlVUlUtb3l1YkFSZUY5aXhja25adTMwcVZyOWRxMW1SNi1WV0NnU3p5bklPQzRoU1ZhZDliRGhfejNkVkRLb1E?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "CFRA gets more bullish, hikes S&P 500 year-end target to 8,050 - cnbc.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQODhwREhURERyTlJURkE0UWV4RGhBZzBMWXRRcTE4ZjBjUlc4Q2pKOURnSHhhWm9vZFNweUpoMnJhYUtrN2VJZ3NURzEwNTVNREpPY01MYkQ5ZW1UUmh3QThULXJYWm4zeGQ1WkNDcWhvZkhjaGwzRkFsZ2EwblZ0aDU4VjlBdlp3TUxiNV84dDcwWmRXb29EaTdWZDA?oc=5",
+        "press": "cnbc.com"
+      },
+      {
+        "title": "S&P 500 is little changed as traders monitor Iran; Sandisk shares drop: Live updates - cnbc.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9sdDVGOGpOTml1NUpGRV9OVS1PdEdMd1pZWUZxekExRW5vUVFUT1N6dDJva1Y4UTRleEY3aFRDSGZFOHVxQUhLa2xPSjk4Um9ybzBXNzA3R2M0VjZHdDFYdk9kbWQzSHVQRERJNzhZRkItNjU1ZHo40gF8QVVfeXFMTzIzSjJPbUJOWmYwbG56bHI1TUNhUmpjaElWMDhvM3I1UC1WZ2lqNE9wdUwwYWY3N3FsLUc5TktPLVgwNVlrNFFRbnJQTFFOV2d2WU9JUVhtckRVVzRlekViVm9qcWhOTnBlV2tkc3BsNG1RSnk5LV9BeEstRQ?oc=5",
+        "press": "cnbc.com"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Here's Why BHI (KOSDAQ:083650) Has Caught The Eye Of Investors - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUDlqVFJCX2dQUEZCc2JBOEtVY1hlbmluN3hCRTgxVkJVS3h3eXNOZXJpM3lmNldMY0FtMWktRTZYa3ZPdVR4bWtJdTZNLXNDYnFHMXdCUFNJOXpfeDVGWTFpamJSUVlSMmZvYTdabjhSZjZnWURDYW4xelQ1UVhsSDVvc0JrVkZ3cWpuX0cza0RUT0NfeTJlaWNoSGZOaWNYeWpDTmdCUzFlXy11SC14emdUT1hlMnN4bVhITXJOOU5RWGFmanpKd1BuUzdUVW520gHWAUFVX3lxTE1xNmNFR296QkRKVDFPcDAyREQtd2VpSDdtUGNvMm81ZEdwUXVVSEwyT01fTXBka3ZkcjU4cEhMMUd0dnJfWEVFTkZablIyV0N4ZVh2ZGhMLTNUejdXZjRfN1pxcWlrNmJOWW96Wk83bmZ1cFdrX1VlZDBzNWJXaHlOSkFINUxmUmZ0RUxRTkVJMWlIak1OOTdWUWRZaWdVYWFXQUlNMndvM1FPVVRBNGpFc2dHOUF0M3huS0RyWEVhU3VIbUlybzlLYlRETFZVaENzemRXMWc?oc=5",
+        "press": "simplywall.st"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
