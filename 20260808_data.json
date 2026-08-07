@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "generated_at": "2026-08-07T23:32:11.556322+00:00",
+    "run_date": "20260808"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.60 (-0.37%)",
+        "description": "전일종가 99.97 / 변동 -0.3660"
+      },
+      {
+        "title": "미국 10년물 금리: 4.66 (-0.21%)",
+        "description": "전일종가 4.67 / 변동 -0.0100"
+      },
+      {
+        "title": "VIX 변동성지수: 14.90 (-1.65%)",
+        "description": "전일종가 15.15 / 변동 -0.2500"
+      },
+      {
+        "title": "S&P 500: 7757.64 (+0.62%)",
+        "description": "전일종가 7709.96 / 변동 +47.6802"
+      },
+      {
+        "title": "나스닥100: 29722.30 (+1.19%)",
+        "description": "전일종가 29373.33 / 변동 +348.9727"
+      },
+      {
+        "title": "다우존스: 54036.93 (+0.28%)",
+        "description": "전일종가 53885.10 / 변동 +151.8281"
+      },
+      {
+        "title": "USD/KRW: 1407.45 (-0.96%)",
+        "description": "전일종가 1421.16 / 변동 -13.7101"
+      },
+      {
+        "title": "USD/JPY: 157.74 (+0.09%)",
+        "description": "전일종가 157.60 / 변동 +0.1450"
+      },
+      {
+        "title": "코스피: 6296.38 (-4.58%)",
+        "description": "전일종가 6598.26 / 변동 -301.8799"
+      },
+      {
+        "title": "코스닥: 801.67 (+0.26%)",
+        "description": "전일종가 799.59 / 변동 +2.0800"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.525 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 2.52 | GEX +1.3B$ (만기:2026-08-07)",
+        "description": "콜OI 416,893 / 풋OI 1,049,821 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.53 | GEX +5.2B$ (만기:2026-08-07)",
+        "description": "콜OI 380,589 / 풋OI 582,754 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $166.09 (+1.20%)",
+        "description": "거래량 15,076,005주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $776.73 (+0.60%)",
+        "description": "거래량 3,819,880주 (평균대비 1.0x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 65.5% (131/200종목)",
+        "description": "평균 MA 대비 위치: +3.3%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 29/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Moonshot shake-up seeks to win Beijing nod for stock market debut - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdGpSMkdEbDBlUU1nTHZNSFJUb0wybHdjSTIyY2RMS28wN05oaGc4M3JRY3BRWVBhdDMzdUIzMHV5cko2RHVaWllsYTlxSWFkN3duWWF1NWptUmwxUlhjSTZTcXIxYlF4cFdrZlViaWRjRXlnNE9WUGNFNmNGRndwMVFHWFg?oc=5",
+        "press": "Financial Times"
+      },
+      {
+        "title": "Palantir Popped 39% This Week, Leads 27 To Best Stock Lists - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS1RqT1F4RFgyaXdWeVN4MlVxd29uNmFCX2R3bnhuVkpfTk9RVDJ5NFFIdG5sc0x3bVY0SE45cTdjLUxjb0RqWkxLLXoyN180LWNwQmhlZHZvazlsc01SQlZ4SEdiOVhrckxsSGdNa1BnM3VZb0ZhSUNfLWF5cEFlU1J3XzZCN19YUWxDV2VwSGpqSHM?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93LXdkcVp1NlRYQUsyU3l0V19kckVnalJCSDJ6N1p3eVZaSkRmT1p4WTFlMjBmWlk5QldFZDJPX1VJRXdQWVhQV3c5X0RaVUEwbkE1MVpJSURKeFJrQ3FmYzBSd2dGTFBLX3hCenJmYm1JQzc3TS1Sb1pn0gF_QVVfeXFMUHJVa2x6bHZrMnhpQ0hVMTFZS3MyM1JlY0FmSkhPMlhSbUFVWjdDcEpaUFgwQnRGQ2xzLXVFMjllZWxSUEZiX3c3RmNmdXIyY1NhZjFxVkZaYnk1UW1aRHNrdnotZ2pjNEtQU3NqMXhiMXU3WVR0VlBpaGhQcFlFSQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Jobs Report Live Updates: U.S. Job Market Shows Unexpected Loss - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1COG5QdEZTcXNmcTNybFJiVWVoNHJlS0Rrd1dsM282THhNNnVCVHhnVXNncm90UHRRNENoQjQtRm9KNWZvaTZlRFA0dFRoRWstRXdYeU8tV1BRMFk5RVEwTmxua2t0S1ptT1dRdzR3MXpxQ0k5OHFZ?oc=5",
+        "press": "The New York Times"
+      },
+      {
+        "title": "Forget Taiwan Semiconductor: 2 AI Semiconductor Equipment Stocks to Buy and Hold Instead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3Q1Zkw4a1VaUlZqNzNZeVV3bWdwcjJmWFFxRUxJNDIyLWFJVTdoNll1Skd6NWZTbmRqcl92VFFVajl2eDNWQmpVUE9fc2dOZk1FSXU5OFREaE40NV9sdVRHSUJwMnBpNFZlbmtKLU1sWV9wc3lSQjVrTlh0V0oxU2ZlcEZMWUI4ZzZQWk9OcXV4cEpyYmllVnFyY1c?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Here's Why Tower Semiconductor Stock Is Rocketing Higher Today - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ2hFSExWVUxVbUJiZUQxNXV3YXNyNF9lMFBZS2tNWlFKWVJNRjk5YjFwX3FYTGItOTh3dzJKYUVZZDRmSUNRR0xkSXFacDNIMlVKMDU3MHlSY2o1MHB4MGFLR2xmMGpaOTdnTUhhdjR1akluQmV1RmpKTzk2VmdGb0hKYnd1Z3dKM1JIVUR6VmpKb2tKQnZqSw?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "Tech Stocks Shake Off Another Memory Stock Slide - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNU9qbmpaMzNNNVJiX29KZVF4Wlpkbmx4NmFLeERrMFVIMlE0cW9CUGc1dWNkNjVxeEM5YU84VlZwVlJIZWo3aVhhVUx3Zm15MXFLVENDdjM4V29CV09RSWdxRFBiYzRtaGlfSFBISEIyYW9MaEtpMEZyYTd2aERkMWNtT1pYTnFsSGtLSkZDeEtZZ0piV2RZb0VaRnkwcVM4bUR3YjRkbFhsYzM2ZlFIdUxMUko1TkZySlF0THlGdnJQRmU1dkJaUy0yeG5uOVB4YTlkbF9sWUNuQQ?oc=5",
+        "press": "Barron's"
+      },
+      {
+        "title": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xOTBqRG9tVV9IUnA4T1JoVHo1dUpfSV85UzZQdzFqeWZPZ0hFb3kzUVZDUTlUcS10b205dzIyWVRaWUpxUmJJa0EtR2tfQ0sxa0tsRl82SkFXMF9BRWFCSzJDSkRpb25EOW5Fd0hUUzdrMU4wMlRDZVNiQTVoazN4dHFpeUhfNjJaUkkyUnVtdWh4V2l0LXlVcWtzM1pqdmZHVnVCT3ZoT3o5?oc=5",
+        "press": "Reuters"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Block Street: Bithumb adds BSB to KRW market - 07 Aug 2026 - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLWtyVW5UUEJJckZhQTAyMGQ2bGZDUU5GVXhzNUZRYVBhQlQyLUxSS0ZGN3FfaUJ6U3RFbDcyRDRIZzEzSEVoYkg0V2Z6Nkl6R3o2ZC1CZUZwc1RWUEhBbDJfblZ5V2lyZDNpbTVoY3h3MGZQd2VkNmZSdkZZeFVpYXZwSjRobmozSG94bHVFRHZ5NHRsQVIwRE14SmZDT2hqc29rZ1ZhbmJoaGthYm1Ka2RyME5SY0tjTVM4?oc=5",
+        "press": "TradingView"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
