@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-08-08T23:32:15.030671+00:00",
+    "run_date": "20260809"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.60 (-0.37%)",
+        "description": "전일종가 99.97 / 변동 -0.3700"
+      },
+      {
+        "title": "미국 10년물 금리: 4.66 (-0.21%)",
+        "description": "전일종가 4.67 / 변동 -0.0100"
+      },
+      {
+        "title": "VIX 변동성지수: 14.90 (-1.65%)",
+        "description": "전일종가 15.15 / 변동 -0.2500"
+      },
+      {
+        "title": "S&P 500: 7757.64 (+0.62%)",
+        "description": "전일종가 7709.96 / 변동 +47.6802"
+      },
+      {
+        "title": "나스닥100: 29722.30 (+1.19%)",
+        "description": "전일종가 29373.33 / 변동 +348.9707"
+      },
+      {
+        "title": "다우존스: 54036.93 (+0.28%)",
+        "description": "전일종가 53885.10 / 변동 +151.8281"
+      },
+      {
+        "title": "USD/KRW: 1407.45 (-0.96%)",
+        "description": "전일종가 1421.16 / 변동 -13.7101"
+      },
+      {
+        "title": "USD/JPY: 157.74 (+0.09%)",
+        "description": "전일종가 157.60 / 변동 +0.1450"
+      },
+      {
+        "title": "코스피: 6258.77 (-0.60%)",
+        "description": "전일종가 6296.38 / 변동 -37.6099"
+      },
+      {
+        "title": "코스닥: 798.81 (-0.36%)",
+        "description": "전일종가 801.67 / 변동 -2.8600"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.525 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.40 | GEX +1.4B$ (만기:2026-08-10)",
+        "description": "콜OI 100,687 / 풋OI 141,289 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.66 | GEX +0.5B$ (만기:2026-08-10)",
+        "description": "콜OI 66,369 / 풋OI 109,975 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $166.09 (+1.20%)",
+        "description": "거래량 15,088,500주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $776.73 (+0.60%)",
+        "description": "거래량 3,820,000주 (평균대비 1.0x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 66.0% (132/200종목)",
+        "description": "평균 MA 대비 위치: +3.4%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 30/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Warren Buffett Warned About the Dot-Com Bubble. Now, the Stock Market Is Flashing the Same Warning Signal. - Yahoo Finan",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWHByOVJnSGozLWVfcE8zT0RYNlBtUUZaZzhaYjducDRWWjhPcTBCQkllZzFRZ0pka3ZMQUxzUURvMjFJSUZIQmdNTEVla1E5eThHMU1zMTJIQU8tQmsxNnltSm9vajJicWg0Zm93UTBsejJkMVh2S3lOWTZaYXVpWVdURUUyZ0hiaEZRcDNRQWlWODZQNEIxcHlR?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Federal regulator warns prediction markets not to use American-style casino odds - Boston Herald",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb1ppY3ZGOS0zcDBpZ3NfNUE4cTl5NHUxZTNvSnZVMi1jZElQUE9BSDU3RFhleWE2QXJBWkZPeWhyV3kwQ3ZGQjJ5RDNhWXlwSDV5ZlJFSHl3anBWVTA2TENJdmVmTENLRS0zdDFDTk1sN2hIbHJKQmExeWRhUFotYjU5VXN0a29ZTGlhQ0NKQzlXLVhvTVl4NlRoTjVWeGowNFNUdmN2Z1pmQlV6VzBtaVluUUJfdmZiSUdNNHZR?oc=5",
+        "press": "Boston Herald"
+      },
+      {
+        "title": "(RGQP) Strategic Market Analysis (RGQP:CA) - Stock Traders Daily",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPU2NNUHp6S0ZTRHhTRU82SVBoT1FjSDBKdWt4R0hocVg2VGx5RTRFM0FsYTVvdExWTW1WQTlXbUVycV9jckVISFVxaldONFBsQnl5aTloSldmc1U5a0h5RTZ2VVpsZWxxd2Zwa1dSay1ib2t0dkFabmI5SFh4MHhuR1VrLURuMWtmbWFvcGxBLXJodw?oc=5",
+        "press": "Stock Traders Daily"
+      },
+      {
+        "title": "Extractable And Leachable Testing Market - Future Market Insights",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU1gxOHhGUEpOVndjdjJZSTdhT0RkYm8ycklmUzZFWWRNTmZFTmV3aDZtakN6WmJNcFJuYTlES3VTc0I3LXRhU3dOYldpbHVrM2RySGRQVVdadHZNdVlqLWhwbEpTUmZiYnQwQ052Wkd1VzdpNnZ4Z1JhZG5lY294MHBjQXdoMGQ3U0szYUl3?oc=5",
+        "press": "Future Market Insights"
+      },
+      {
+        "title": "Stock Market Research & Investor Analysis Tools - TIKR - TIKR.com",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZDY4cmllcHVIWDNCbVRMeHpvZmhCZnQxZlZScWxFVUw1d0FFNW1mODh1NzJYVlA2R1IwSWRhY09kUjJuRjM0LTUwcWtYUnBMbUtGY3JsdlVqaGljUEVmYXhtajRIQk91MlpVOEdqRWtyQWM5OUVuY2hOTWxHRmFMaVlwQlJiNnNVenItbFRxRTRhNjRHWjJUVDNkUkQ2akRtVVhpcnc2WHg1OVM4?oc=5",
+        "press": "TIKR.com"
+      },
+      {
+        "title": "Jim Cramer Is Telling Investors to Accumulate SpaceX for the Long Term - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNkdrYmQtVkQyUEFzcW9wdEJVdm8xcmdtaHRVVU9pY2dzTUx6cnVMUC1uUU1BZFpLTDBkdjFsMlJ4YVdRMGl2N0dwd1F6c0NQNTZoOFZiNldBbHI5Q2RfdzNXbnMyRnhBSHlKdXgyd0tESXNLNkxSZE1pbEptWTEwaWVsLXFzNXg0VHl5ejV4eWdadlc4eHZReXdNeTRJRDFGSTJZWmJqUQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Orion Q2 Earnings Call Highlights - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcnRYczBnOTR4VFBLTHNkNU9ZWlNNajA5QmZ0OWtjQ3J5VHNKY0RsOXQ0Z204M0VKbVFwODE3T2x2MmVrc3VWRUpMcVZwRDZ2cjJmNkx0WXpQSkZEdlh6V2M1UzNNY1hsWWdscTBYdWhVT3hoNFZ0dmU0WmhDT3BaMTUxeDBJRzFLeUNpcDRVaXVpRFotUFZ3TEttbEtzVzQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Blue Owl Capital Q2 Earnings Call Highlights - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYjRzMEhibHNuYm1aaUhZWmc0aGhxMlQ1eE5kVV83alJ3c2dBSDFpQnZLamhWZ3pkWHNpT1V1aF9pS19najdsSFVwajFGdnJuMktFdWxwaGQxRThnNG1TQzlRUjRYWHd5WWo5N0Q1bDZEcG1KcXZVNXBSd0t4bXZuMWJsdlNjQ0I1akFSMkxJcGdaVGRsT2RvNg?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Foreign flows steer South Korea stocks as CPI, Mideast risks loom - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLUdULTdNWTNBcmIwaWRBRlc0OS1yMUF6ZlFCZ3dxX3YydldZMjVfeWVTLU01WTktMkhyc3NRRkRqRmFDbTFVUVBxcTNWV0I3eXlNWUlRMTZkdDJFYUQyVG5LeHctQlNXSlRuRHpReXgzWEZ1SVRyRkJVbXl6dWY3R9IBlAFBVV95cUxPTlpZcEJ6bnBtRkgtb01IQzBOSmpDMXFvekpqM3FiRDl4SkpTZm5ZUXV4RmpjdExTaUQ0UzZMclpPUFZLZEFQdFJLUFBrSUFxeTJNenhSQ3JHZERHVEZkMGtLQURvVENMQlMzNGwyczMtY2YtbU1vcUY2dUZfZVo1Mjg0eWRhRThfLVR1aUN2N0NidkYx?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "MIRI Capital Buys KOSDAQ Hidden Gems Amid Investor Sell-Off - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeDNFZnU3NnRMSm9VcWd5U3p4VnhWcXNFRzlWRzdsY0xWU1hEb1NUUlBPbEZfcHJpUGQyYjdVUHdfVWNUMHFORFF0UEp2V1dUWlNsVHZaV1FhcmVQeFNDYTBLcVJReklhYm02UV9YSHFLVktrd2JWVURDcTBRcFdoM2hJQzI0ZEpwMjZLNkxB?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
