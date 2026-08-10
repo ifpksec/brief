@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "generated_at": "2026-08-10T23:31:59.165199+00:00",
+    "run_date": "20260811"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.81 (+0.21%)",
+        "description": "전일종가 99.60 / 변동 +0.2070"
+      },
+      {
+        "title": "미국 10년물 금리: 4.70 (+0.84%)",
+        "description": "전일종가 4.66 / 변동 +0.0390"
+      },
+      {
+        "title": "VIX 변동성지수: 15.46 (+3.76%)",
+        "description": "전일종가 14.90 / 변동 +0.5600"
+      },
+      {
+        "title": "S&P 500: 7753.11 (-0.06%)",
+        "description": "전일종가 7757.64 / 변동 -4.5303"
+      },
+      {
+        "title": "나스닥100: 29621.80 (-0.34%)",
+        "description": "전일종가 29722.30 / 변동 -100.4961"
+      },
+      {
+        "title": "다우존스: 53975.98 (-0.11%)",
+        "description": "전일종가 54036.93 / 변동 -60.9492"
+      },
+      {
+        "title": "USD/KRW: 1418.19 (+0.80%)",
+        "description": "전일종가 1407.00 / 변동 +11.1899"
+      },
+      {
+        "title": "USD/JPY: 159.27 (+0.87%)",
+        "description": "전일종가 157.89 / 변동 +1.3770"
+      },
+      {
+        "title": "코스피: 6258.77 (-0.60%)",
+        "description": "전일종가 6296.38 / 변동 -37.6099"
+      },
+      {
+        "title": "코스닥: 798.81 (-0.36%)",
+        "description": "전일종가 801.67 / 변동 -2.8600"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.477 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.53 | GEX +0.3B$ (만기:2026-08-10)",
+        "description": "콜OI 209,854 / 풋OI 321,871 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.67 | GEX +0.0B$ (만기:2026-08-10)",
+        "description": "콜OI 121,327 / 풋OI 202,309 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $163.12 (-1.79%)",
+        "description": "거래량 13,557,178주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $776.74 (+0.00%)",
+        "description": "거래량 4,113,908주 (평균대비 1.1x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 68.0% (136/200종목)",
+        "description": "평균 MA 대비 위치: +3.4%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 30/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "S&P 500 closes little changed as oil rises on Iran uncertainty, Intel leads chips lower - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PSlBQSkZDeVFXczJmMmRVYU4zbFdIejBqeUVSa1Z2cHNMaXUtVHZ5eUVKUEZzb2RMUWpYVE1aQWV0b21BNkM0VE9WNFI2dTFsUGNQUXNfOWtNV211WkhlLUxOTm9zOW01UHJVU0o2eDM1Wm5TREVz0gF8QVVfeXFMT1FxMFFZOTZCbGpROU5BX0xLVW9kMmtFLTBRRk9PTm5DaXJpdTJyRUpiNk5XcTQ5eUtmLThVUWIxOW5MSjE2NEhLZWtfV0ZFS1hiV0t5d2V3VmdacWdXTG0wSlV3MHYwY0NsMUVrb0pSSWpvYlM5Sm1vUEc5cg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock Market Today: Dow, Nasdaq Slip; Berkshire, eBay in Focus — Live Updates - wsj.com",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUks0Z2RkYWMzdEVvN1RCcGdEc1FpUl9pbVNPNi1HUDU1eTk1ckZzZTlOWmNldU9zM0I5c0w3ZWtDb3NsSlp1LTBuV2V6OFRhTHFtTlQzMGY2c1BNZzVWZDlPMV9qNWM3cjNqSGQ1WVQtWkltVWpqb2NYWnpiaWhKeDI4aEVWM1k?oc=5",
+        "press": "wsj.com"
+      },
+      {
+        "title": "8.3 Trillion Reasons the Trump Bull Market Is Running on Borrowed Time - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSGlHcEF5eUVBTmlCMTV4OXo5LTdhelZka3NrSXFHR1hvQ2gtWmdvbWJXYWV4cEZEYUlSSTdlajVoVGp0cVdwSE9INThyYjM0T0hSUkt3cGdneGRPSEhrd2RKcUhZcWVBd3I3OVpEOF94LVhzbHFWYWVzM2tiSjBENDFQTGdtdmYyQ0k0VkYtRThHc2ZJeUE?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "S&P 500 closes little changed as oil rises on Iran uncertainty, Intel leads chips lower - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PSlBQSkZDeVFXczJmMmRVYU4zbFdIejBqeUVSa1Z2cHNMaXUtVHZ5eUVKUEZzb2RMUWpYVE1aQWV0b21BNkM0VE9WNFI2dTFsUGNQUXNfOWtNV211WkhlLUxOTm9zOW01UHJVU0o2eDM1Wm5TREVz0gF8QVVfeXFMT1FxMFFZOTZCbGpROU5BX0xLVW9kMmtFLTBRRk9PTm5DaXJpdTJyRUpiNk5XcTQ5eUtmLThVUWIxOW5MSjE2NEhLZWtfV0ZFS1hiV0t5d2V3VmdacWdXTG0wSlV3MHYwY0NsMUVrb0pSSWpvYlM5Sm1vUEc5cg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Which Stocks Will Go Up With The AI Boom? Part I: The Semiconductor Winners - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcnU1VG9tN2NSSWU0WXN0Q21NMklvMkk2c1lOY2JYdjJVRTZQT056THN1WVg3cWY5a2UxVmtYX1BrRTRGR0tmWmo5THltTWRuZS02eWI1dEd4T2dJQTh6VGpZTEcyeC1MM2F6c0p5dVFXWFVGenloN2M5ZS02LXVMbUo5SDVOYzgtVzhLeXJ4T2dqZVg5b2FsRGNCVkRHUmpwUnlGaThUdUl6WV9Fa2J1Mk90d2g?oc=5",
+        "press": "Seeking Alpha"
+      },
+      {
+        "title": "Markets News, Aug. 10, 2026: Major Indexes Tick Lower as Tech Shares Come Under Pressure, Oil Prices Rise - Investopedia",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVXpFT1NMTENJTERZYW1mMTJiY0NjS0FLaXRvaVRxSy0xZ0o3b2RWRHRtYzhsTWplT09USlRyWFEtaTNXOHNxc3Y4NEJOXzJQbFVHYlFMVVhrTjlRMjdkUkk5a2VXalAzdHpPSkJPWVVTOVdhcTF4UFZaYTFJN2lnNFd6MmpndXcxRjdocjlCNHZLa0dRT3pmdFJ3?oc=5",
+        "press": "Investopedia"
+      },
+      {
+        "title": "Wall Street ends down as expectations of Hormuz deal fade - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "JPMorgan just bumped its S&P 500 price target as it sees AI capex finally delivering for companies - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb2pPUWdiZVh4WEVxZ3Fud1E3VUxNN3pGR2drMjN4Q1llb1VYaFExRmtjcE1uMlpBdGJZWUJaZjB2bTNmUEs2TkhOTk9WTUVxSExzRlBoVk5CcEl2bk1Wa0o4Y0ZhRW96TWk4RFlHcVBtQi0tVU01Zy1GMjdseHJUV1FSSTVtMkdQM3RRY2p6eDBDa2JtTUllTlVFdE40OXhS?oc=5",
+        "press": "Business Insider"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Tightened Korea delisting rules put 479 listed firms at risk next year - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDVwM1pMdVc0NWZTQVNwUDdKVUVTRVJ5VzRQTXRiZGN5dnFnMFRaeHlFUkh2Wk1BRFRMUGNySjJGeVR2Y1dSUzJFM1REOHJRSXdsc1FvN1JpNW1KaUI4dDVMT3g4ak5BenRfX0Vod2pjTGZmeE14cl85UlhCdk1XZtIBlAFBVV95cUxNNUJqaUItMGJtQ2IxYUo1cmNXOW9JZ3ljZkdJWTdJTEc2MUNCNW5sMUp3dDhzSEloZTdnaEduSEhfS1NrczRmbzBvblZYeXRBSUQtNUpkTEtEbDZpemQ4WjZyUnYxYTlZenFvbGRZdzEwc3ZIYzFmVlRObE5mRHNYR29QRk9VbDJJZzhuRzlEbTNWb0l1?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Hana Securities says Korea stocks begin root-shaped rebound on rates, earnings - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdDZtUHgxUXFWNXZaOGFpcS1DdEVOQXZKZDBBc2UzRW5HbjN1bUJGR3F5N2ZRSThlWkV1Qlp1MFpfQkwxT2gwcFFrVjlHNDZzZ0NlUU95YlhFMC1Jd2JfQXlVX2ptQW83QWN3VjZlMEVNa1pQMW9FNkNyV0s0a0staNIBlAFBVV95cUxNcERKWVg3dWVQbUdVN0lYRGRWZ2dmQ0d0aXJLVFpaQ3hYeXpKT01Ra2lJSXE0UjBwU0dMdkVXRjVTZmhJZ1IySlBBUC0yUG5DMU9NVE1NVGg0aHhYVFZFSVZWRktBX2dpNk5FUmNVYTlIZFNRZEN6MDA1YUNhQUJ5OWF0VGJCdmVvOFJUbTN0YkpfZDM1?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "192 Listed Firms Fail Market Cap Threshold, Risk Delisting - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcGlLNVRhZk1mTXBuVGhMMG1aZklBM1A0YkFEVnlGVnFLaUxwX3VFdGpHLVRJU29zUWtMM3ZESDg3UHNYaTVjcHhfa2U1Y05kR1lEcldwQTY5X1lGd290T1VRU3hxdU9YN2xRM2xqNjlQVHRSZFFVZTNCSktlUUkyNi1BQmsyVlNfeGp6TU53?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "H&S Hightech's (KOSDAQ:044990) Promising Earnings May Rest On Soft Foundations - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM3lZa1JYdFl2ZVp4WmFQRUsyTzVnampub2J0eGFrM2tMd0NHbElvVGxhZERVS0hvSmlNdk1oWEpjN01XTzEtQTJEeHppR3VKRE1BMmtrTklyOVRVR1VFR2RBdEIydjB1TzJpZjVjYmk3MTBRNThDNGZTT3JUR1l2SE1jYXR0UFlGZW5QTnBRZnplcWVUbWJUWURGWmszNTkyaGRGLTdVN2lYa2h0ek1TMVlidERJTHhOZXllZnp5NEQta0p4dlVjbkhyUUEtLW5QYVHSAdcBQVVfeXFMUGVFU2VEYmFsRDBvTllDMU1zd2M4NDNfbWl5WE95RVU4NnNjbHdDeVlSeUdEYm9WdmRxSFhPUTgteHVnUzVaak1LNUU1Qzl4WWFvNWpMMUtkS0tMQUZkRHBJYkJ4TlJSbndudkEwZnJ2Y3JzRzFWemcxZ2kzU1lydFM4YlJsMmF1enlqQ3NXZXVUREJkblNXWlZrbkoxRlVMTHJsNEtTUWh3R1FTWDZJT3NPc05zTXNFR2JUZHJSNUtHdE9zMjBmUXNNcnRoXy1PU21DTmVmRXM?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "KOSDAQ Surges 32.5% on Policy, Sector Rotation - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUjYtTmo0d0xFSl9PYTM1OXZWWDZBN1pDUS1VUjdGdXBkUkMwZ0tvYWlPd2xNNHkxbUpQVzB0S0VuVWJQTEtwSWFTQ0JCcjhkQmtQeC1IdGpnTlV0NnJPbkdvSjdkS1BOREhZclhseVdPSG5oX1JBUTE3XzZaUTNaUEs5dnpZY0tJdHFsR1VB?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
