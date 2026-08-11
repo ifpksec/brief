@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "generated_at": "2026-08-11T23:31:52.347998+00:00",
+    "run_date": "20260812"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.81 (+0.00%)",
+        "description": "전일종가 99.81 / 변동 +0.0020"
+      },
+      {
+        "title": "미국 10년물 금리: 4.68 (-0.32%)",
+        "description": "전일종가 4.70 / 변동 -0.0150"
+      },
+      {
+        "title": "VIX 변동성지수: 15.28 (-1.16%)",
+        "description": "전일종가 15.46 / 변동 -0.1800"
+      },
+      {
+        "title": "S&P 500: 7728.20 (-0.32%)",
+        "description": "전일종가 7753.11 / 변동 -24.9097"
+      },
+      {
+        "title": "나스닥100: 29525.48 (-0.33%)",
+        "description": "전일종가 29621.80 / 변동 -96.3223"
+      },
+      {
+        "title": "다우존스: 53791.85 (-0.34%)",
+        "description": "전일종가 53975.98 / 변동 -184.1289"
+      },
+      {
+        "title": "USD/KRW: 1412.43 (-0.34%)",
+        "description": "전일종가 1417.31 / 변동 -4.8800"
+      },
+      {
+        "title": "USD/JPY: 159.29 (+0.08%)",
+        "description": "전일종가 159.16 / 변동 +0.1320"
+      },
+      {
+        "title": "코스피: 6299.66 (+0.65%)",
+        "description": "전일종가 6258.77 / 변동 +40.8901"
+      },
+      {
+        "title": "코스닥: 854.47 (+6.97%)",
+        "description": "전일종가 798.81 / 변동 +55.6600"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.459 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.76 | GEX +1.1B$ (만기:2026-08-11)",
+        "description": "콜OI 297,160 / 풋OI 227,223 → 콜 우세(상방기대) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.80 | GEX -0.6B$ (만기:2026-08-11)",
+        "description": "콜OI 90,774 / 풋OI 163,326 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $167.24 (+2.53%)",
+        "description": "거래량 12,606,990주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $774.23 (-0.32%)",
+        "description": "거래량 3,387,410주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 64.0% (128/200종목)",
+        "description": "평균 MA 대비 위치: +3.4%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 29/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market News, Aug. 11, 2026: Dow ends over 180 points lower, S&P 500 and Nasdaq slide as hopes for a U.S.-Iran deal",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVElkWGVUazVtbUN3YVBaYVprczgyQlBraEd3Y3h3MHg0V21QYjZXNVUwOTIwYUtRS2t1czlwQlZNbjE2cC10aTNDcTZ2VmV4elFwc2RzakNMTllJMFNtTGZjN2F4TWw0VmtVQWNHSThocUYtYk5jQUlhYk93THQ1ZHdBdGdWaVJMQVhpQm1NWFNkUmswb2t6b2N2R3Zsem8xc2tjZlpzSkxHWWwzbDlBOFJRWV9vc1RjNHRyR293?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Asian Stocks to Slip With US CPI, Iran in Focus: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPckZOT2NsYzNTTmVMZ1V0RUNzOVJSWm1CcGFiUXV3NHl5R05GZ3Y5SHJzTDlmU2hFMHV0a0JvcVluelRiejJuMFE4Y1VoY3pMV1pMSEQ1djFKRlpJdS1lLXl6ckVobnRiNzVkT2N4QVBDeEk2MlR5VkdDSFJNdXhJX2U5REN5YXRfUHBSd0JURGU4RjFG?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Stock Market Steps Back As Investors Eye CPI; Software Drags Nasdaq, But Asset Managers Jump - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSEE5NmNTb1hyay1zWERPZmtwZDdwUjZDS2N2TXJTN19OMXhLQVpNYlRlNlF0YlVMOWcyZkRlU3NDbzRlZHQ5TUUwU09IN3FWN3R6cDIxeVI0bVZ4WVNOLXZLSkFYWXp4RmZFS0ZaMWFWakdNbkktdVpYU1dVYUk1MExSVWYxdDg0aW5ONTBTaTVPdXBsVTVUaDZ5LTFHQmZab0ZjN2N0dWQtZw?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "S&P 500 posts back-to-back losses, weighed down by tech sell-off and Iran uncertainty - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51VmlwRjZlNm9iOXNSRXMtN2ZFN3ozMFYyd3RmX0lBa0NvbHVscFNFWURwMzNOejVPMGlRejgtamhCNzF2WF9UTTBxdGhMV2tkZDc2bGtvRWVNSDRjOUtzNnFMS0laRzlLMTI1eGpId1ViU1JNXzRB0gF8QVVfeXFMTlhUUHFmWm9NbFBpS2M5SW14N0FfUzBac3FBYldQWS12NEFra3BpZ1p3dVRYaWZmQ2lndW1Fdzk4dWlJaC1BYmpfN3dnUThEUTJUMVgwVjZicmZGTThZcGVJZWpsemp5bEs5SUlGUHZHSVI0Ylh0ZlkzcFE1bQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Wall Street ends down as US-Iran peace optimism fades - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Stock futures are little changed ahead of Wednesday's big inflation report: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CSHNyNUIweUU5SmU5MmxjdEg3SXpaNGRpNE9EakxRVmVVRTBfLVBZb2txZ1NKa1pySEtGWUVUemVRaGRKdWdrNUpTWXRFM3ZOb2V6NUNIcXN5U1ppYzU4OUhmUDVydXcyclJLcndQZVJ5aVNCbW5R0gF8QVVfeXFMTmhFcWg1MDU1aEFqcHFBZUlUdnJqT1pHVy1mbWl1MU5TMGlfSFhOMmxDMmJ2QXlTZTF4bGtJSFdzMVR4VURwUDdLUmtBbHJEQ2Y2OFpKNlpKZkx6cTN6LW5PeDR2MjZrWHctVWZaSy1SdE1ndE5KaWdzS2hzXw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Tech stocks today: CoreWeave and Supermicro results win over investors - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPclhZX19Xa1pSRkZLbzhZbEpGTXNuQ0ZoSWRYelpOMlJDLVJRdHYtOGhzWlhQcXYxVGdjaThlMHJheUtjMEhIcW9UTVR2TDdESzNBTnhaZjJMYVZYRXRBU3k1LU5OZkRjWXdvSXZQUGFtZkc3blhMY0RTa2RXQ2E4WnZQUU1hMHJOajlxZEhBY05rdjdUR0paVnM2bjJQMVpuUGRtTWZiOFZBZHl5OGNpaFdERmtPZGVOcll5ZVpQYldLSzdT?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "After Big Pullbacks, Are These 3 Tech Stocks Worth Buying? - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUnBsNzhGVDI3RnZNVHpVUWg3NVJGX2xQem10Ukt0dHhlQzh0WU1FaEVLdTg1Y1piSlV0QTlBbG5JLUhMNm5VLVFmaXZnczZpTnhuVE1GZVJEMlEtem1Ob3czd3hLYmd4NVgxUGVHTHFkaXJlSHZwOE5GcDlSWlZEdWtOQm1rWHdrU2FkTDRYVWxTT1phM1E?oc=5",
+        "press": "Morningstar"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Here's Why We Think Sebo Manufacturing Engineering & Construction (KOSDAQ:011560) Might Deserve Your Attention Today - s",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPQXZBTmRtYzFRaGJ2RVdfaWs2TlB2U2dSbnI1ekJxRWR5Q3EtVkU5SDAtUmdEVmJOUmRaUlFfbGthSXhxVl9aYUxGT1ZzQ1NNYVB0U2haM0RKdmprRnNHSFBQbFg3Ymhubm5vX3gtTWRfc21PM0xGeG15RUNqU3BfZjRXQVI0MUFVQ3h0QU9iNEdJRzl5VlhnbFZ4dld2TVIwbVZZUTQ2ZE93TFY1MGtMbl9PaWVfTjRpc3lvSUd1cHU2WkN4cUxyVVAzQUVKbXhERE0xbGdHUXZpdVEyMTUyVmJSTHBQY1p0c2FmemtfZzJJa0VGOFlLejN1VDdGdENWNWtvbG8zOEfSAY4CQVVfeXFMTklRNFZXZmJ4bWlCdURlZjFwbTVhc29oN2hNS252SDBVMktEamw4UktBT3RLbmM5SERaYjRkekYyTXc5aEdSMWVnalVNd25ZSkpuSEpXQmRzNUI5eGdoY0ExNU85UDN6enJXTVVmRnJDX1A0VUVRa3BleE1NUi1zSVdiQkp3bmFwUzQyVWRfYnNPT3hSNU0tMU1pdVBxUnFwOHlONUZLNk1hRUs1VEh0VmRxcVByVDl4WGVhb1Jxc1lVeTVLbWhVLXNUTFZzRmRzRFp6RTFRejE5U1AtN1RSVzNOaEhVTU5SdG5MSHktdXd1MUtDWU1oZW84Q2ZCSkx2Yjh2TG1PbkxKMDVuNmFB?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "NVIDIA Corporation (NVDA) and Naver: A $1 Billion AI Bet in South Korea - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRHg4eks5VG8xVDdZdzBSaEx2YTI3YTZfS0NrVG5zd0pjT1BkUWR3bENUMHFiZE5fQjZoYkZJTG9wMXJKWERjVDhER2ZZMDBYMW1oa0x0VjJ4WkM5MVNXclgtOVN4bGFTblRnNXY4U0RyVTFmSXpORHI2OE1JcUlDRzVBRlJhcUpuMWVTbUZMOFdnNUlWdG5EYlg4cw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Exclusive: Naver Pay Accused of Unfair Rebates via Terminal Demands - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPM0thQnVndGRLWFJCWkVWZzB6eHUwcEVuN2tWTUNEY2RoOENER2poXzVtVVBHYzNvMGx2YkllTEE5MlREN0FlLV9hVV92Q0J5UDd3UXE4YlNaOW9mbl9KcGhlcU9yX1hYZmtSeV9JWTNHdWgzRjk0bXM4RmNqV09sNzhSeG1hRm1k?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
