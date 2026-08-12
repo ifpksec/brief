@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-08-12T23:31:56.477268+00:00",
+    "run_date": "20260813"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.99 (+0.17%)",
+        "description": "전일종가 99.82 / 변동 +0.1650"
+      },
+      {
+        "title": "미국 10년물 금리: 4.68 (-0.04%)",
+        "description": "전일종가 4.68 / 변동 -0.0020"
+      },
+      {
+        "title": "VIX 변동성지수: 14.55 (-4.78%)",
+        "description": "전일종가 15.28 / 변동 -0.7300"
+      },
+      {
+        "title": "S&P 500: 7748.50 (+0.26%)",
+        "description": "전일종가 7728.20 / 변동 +20.2998"
+      },
+      {
+        "title": "나스닥100: 29742.60 (+0.74%)",
+        "description": "전일종가 29525.48 / 변동 +217.1230"
+      },
+      {
+        "title": "다우존스: 53770.27 (-0.04%)",
+        "description": "전일종가 53791.85 / 변동 -21.5820"
+      },
+      {
+        "title": "USD/KRW: 1417.13 (+0.35%)",
+        "description": "전일종가 1412.18 / 변동 +4.9500"
+      },
+      {
+        "title": "USD/JPY: 159.33 (+0.04%)",
+        "description": "전일종가 159.26 / 변동 +0.0620"
+      },
+      {
+        "title": "코스피: 6345.53 (+0.73%)",
+        "description": "전일종가 6299.66 / 변동 +45.8696"
+      },
+      {
+        "title": "코스닥: 857.84 (+0.39%)",
+        "description": "전일종가 854.47 / 변동 +3.3701"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.500 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.31 | GEX +3.4B$ (만기:2026-08-12)",
+        "description": "콜OI 170,740 / 풋OI 224,421 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.36 | GEX +2.2B$ (만기:2026-08-12)",
+        "description": "콜OI 129,423 / 풋OI 175,774 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $175.87 (+5.16%)",
+        "description": "거래량 16,515,932주 (평균대비 1.1x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $776.19 (+0.25%)",
+        "description": "거래량 3,475,964주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 33.0% (66/200종목)",
+        "description": "평균 MA 대비 위치: +4.1%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 27/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "S&P 500 closes higher after tame consumer inflation report, tech sector rises - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9CSHNyNUIweUU5SmU5MmxjdEg3SXpaNGRpNE9EakxRVmVVRTBfLVBZb2txZ1NKa1pySEtGWUVUemVRaGRKdWdrNUpTWXRFM3ZOb2V6NUNIcXN5U1ppYzU4OUhmUDVydXcyclJLcndQZVJ5aVNCbW5R0gF8QVVfeXFMTmhFcWg1MDU1aEFqcHFBZUlUdnJqT1pHVy1mbWl1MU5TMGlfSFhOMmxDMmJ2QXlTZTF4bGtJSFdzMVR4VURwUDdLUmtBbHJEQ2Y2OFpKNlpKZkx6cTN6LW5PeDR2MjZrWHctVWZaSy1SdE1ndE5KaWdzS2hzXw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock Market Today: Dow, Nasdaq Edge Higher as CPI Report Shows Inflation Cooling — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGQ1lFY3pOMktobGF3ZngtdGF5YXdmSDJUTWV3cGwxWV93di04VW1VTExMWVhmQkNXWEdPOTh0cnN4ejRqRlA4OFhWSWEwVnc0d0JkRGJxRGlCY2VoVmIzdFBzM0VMaDRqOVhKWW82R3NodC1oY1NLTENR?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Data Center, Telecom Names Lead Stock Market Gains; Why This Index Crushed The Dow - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVVNsUnBxc0d3dG9nQ2REbkc4UEFvWWo0bF9iV1NUOEowVWc4TlBLQ2p1VDUyMEpTUHdDWlcyMTBReFZSLWw4cGp4RWJUbkEzWURrdkpVWTIyX3NZNHZkWVpPUHdDWDlaMFFzTVZwRHp0LTdBZHUtQVNZdmViRi1oc1RudnV1cW1uSW9nVkhTLWJuTnlEWnNxajVuMjZXZ2xYckhJZUowWEtGUFVHNF9SWFdzVkktOXBpbGp4TlNZc0I3RldBV0RHWE9lc1BJcm1P?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Ford says it's increasing Lincoln production in the U.S. in 2030 - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NMDFzcHBNVTAzRE5YU2dEZUdUTnF1TjlMaDNLUXBicUJjUlhaX0xNMnpXVkdYNnBOcklRMUs3anFrT0ZSTEVzVnlpOTAwTWZPNEdsNXI5TUhseVdKUE5iUVdzcXZ5WHU5YlHSAW9BVV95cUxNUnBpdDNDanhtOS1HRDdLVEY5bEFJbktMMTZ2UldCZW5ibVQ4T3Zack5pODNmX2l5VWw1d2VtYmVSa0JxZlBNY1lqWm5INk53M3lCdjZvMEQ2M1IxSnZJMndBRTRhMW9YUnh2S0hrNE0?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Trump sued on First and Fifth Amendment grounds over paid Truth Social access - CNN",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xbi12ZTE2NFdGWWpYWXZXMzlBdTNwTzBsX3VTSXlKVXBMalp2d1c5MTl4QS0wakgwb09FQXVwOVBad2ZWcGQ2alFjanA3dXFDaTBjWmRBckV4X0h1WlRoWDhHQXk0amdNYWRwSg?oc=5",
+        "press": "CNN"
+      },
+      {
+        "title": "5 Semiconductor Stocks Jim Cramer Could Be Talking About on Thursday - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZWhhX0RWS1FaOFlYYjEzS2RpSFktTW5VanFCSVcycGoyLUctSnhuZk56ZmVkNXh2VkYyRVp5dGFfX1BScmNNZ1dqbFBENlY5WUhPVTAzRVlfbU04NTdnR2FxOGQ3ajJzS29wUFBraUplZTlfdUppakZqNDdFOVM5d1JiLV9pZmRCcnpwX3RfYjZkaTNXdnZTX1hlNDlIZzA?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Cathie Wood buys $16.2 million of popular semiconductor stock - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZlpBZmtxU3VkeXVkOUpKVUNVQW5QSDUxWXpDY0dkNXRfTjYyblVheDlaQkY2QjJOS2xYLUNXXzh3OVB6dmx0YXFndlNKTGwwMWgwelMyVkZyTlotaE1sbWxuUG1JXzVzTlAwanZIVFRNWmZhaU1IUTNZd1AwZHQ4b25nWnhXbzU2N0FzdDJzOEtGVWRsQlBXTWI0MFFNSF81MkNpMjJnWQ?oc=5",
+        "press": "thestreet.com"
+      },
+      {
+        "title": "Stock Market Today: S&P 500, Nasdaq rise as tech stocks rally, while Dow dips; Treasury yields erase declines after infl",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTW1jSXNES0p2V0I4TGxhVTQ3ZWFJM29maTBQejFSTU9sT0xKQ2syaklWd2g1Rmxmb3hqcWotOUs1dmZ1b3kzLV9hN2ZJRmVyU1BaQ0RUM1lud1ctVFBlZWgzRGVXU1B0MGFVZEJsRTQ0ZVpNVTB6Sk1nZUVRZV95RTBOVWJEYy01UnZjV0YtbEVoS3FGSndVTl92NEZrZ3RqR0tNc294WmtPUEJPWEZzYTd4UUJFejVnNExpLVZmNHhfY2s5eTJHeVRDd3VGZw?oc=5",
+        "press": "MarketWatch"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Rising inflation risks and weakening demand from life insurers push South Korea's 30-year government bond yield to a rec",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNemhUZjBscGx1YkhWQWpmV0JXanJmS2xzV29BczMwdTZTeENxbmdEdUFkOC0tUWVqMUR5ZzVFb2NOT09PbDVpUzY1enA0VGd0ZEVOQTdxUUNYWjYwV3FWZGZ5dUdiM3ZIZ0RvUWU3WVM3WHdSSkduUzh1MHlqel9zWjBOb21aY0gyYVpXSGFjRG5GSXZkOXNPODA4a3lBZTdwbFF0d29YLVZFZjRMVWc?oc=5",
+        "press": "Moomoo"
+      },
+      {
+        "title": "Bank Of England Lifts Key Interest Rate To 1%, Highest Level In 13 Years Brighton & Hove Albion - Wolverhampton (tWLHT2n",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ySmlCQ3lCSEFEbmlIWDRUOHhwenNONVBLOUkyV0VOaFRjRmlBR0dJN1hYTkljMUQ0dXduU3Qzc0lWNjRnS3RBQTU2TERrR1JKQzdtUUZqd0JyMFE?oc=5",
+        "press": "Mshale"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
