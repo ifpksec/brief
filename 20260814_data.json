@@ -1,0 +1,168 @@
+{
+  "meta": {
+    "generated_at": "2026-08-13T23:31:56.284502+00:00",
+    "run_date": "20260814"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.95 (-0.06%)",
+        "description": "전일종가 100.01 / 변동 -0.0610"
+      },
+      {
+        "title": "미국 10년물 금리: 4.64 (-0.88%)",
+        "description": "전일종가 4.68 / 변동 -0.0410"
+      },
+      {
+        "title": "VIX 변동성지수: 14.63 (+0.55%)",
+        "description": "전일종가 14.55 / 변동 +0.0800"
+      },
+      {
+        "title": "S&P 500: 7798.99 (+0.65%)",
+        "description": "전일종가 7748.50 / 변동 +50.4902"
+      },
+      {
+        "title": "나스닥100: 30084.50 (+1.15%)",
+        "description": "전일종가 29742.60 / 변동 +341.9023"
+      },
+      {
+        "title": "다우존스: 53839.99 (+0.13%)",
+        "description": "전일종가 53770.27 / 변동 +69.7188"
+      },
+      {
+        "title": "USD/KRW: 1418.05 (+0.11%)",
+        "description": "전일종가 1416.46 / 변동 +1.5901"
+      },
+      {
+        "title": "USD/JPY: 159.47 (+0.09%)",
+        "description": "전일종가 159.33 / 변동 +0.1450"
+      },
+      {
+        "title": "코스피: 6579.04 (+3.68%)",
+        "description": "전일종가 6345.53 / 변동 +233.5103"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.474 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.29 | GEX +4.4B$ (만기:2026-08-13)",
+        "description": "콜OI 139,705 / 풋OI 180,910 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.60 | GEX +3.0B$ (만기:2026-08-13)",
+        "description": "콜OI 101,579 / 풋OI 162,738 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $178.62 (+1.56%)",
+        "description": "거래량 18,413,203주 (평균대비 1.2x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $781.47 (+0.68%)",
+        "description": "거래량 2,692,029주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 65.0% (130/200종목)",
+        "description": "평균 MA 대비 위치: +3.9%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 29/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Musk discloses 48.4% stake in SpaceX in regulatory filing By Reuters - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWnE2YXpRM3Nra0pUZ0Q3NG1RTGJ2M2I5Z0Rkamp5Wk41WU1kNlR0bFVpOEdqQ1JYZ3I2WmhwdlJRa0xRYmJCMkpwSjRDS3g4Q18yLTlnaXlOeWZvTDIxSkJxWEVuY01fZzE5TTk5UHZiUy1pbnZCcUota1hacG5VZk9nQXVvSE1BbFA4QWg0NW8weHl6ZTJYSnI0QWI5RnF4by1EZVpBc0o4Q2Y0V3VPb1p3?oc=5",
+        "press": "Investing.com"
+      },
+      {
+        "title": "Why iHeartMedia (IHRT) Shares Are Sliding Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNakVGbjJNekhJTVVCLXFhNTRRSXZpUVAwQ1ROc0o5ZFhDSEpVa0tack5nOEo5SUxpSm9EcE5uVDl6RHJlU3JEdlBsQWhodG51Umx6WVFDNC1PZ0hXNkhMMmJhLWFUai15REdfeHh3cnV5OWlUTVBpOGxFbjdyRzFhUlk1Uzd0bzlzcWNsMlFXODV0X09DZlhmQUFxdmsxeXV4MGc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Asian Stocks Set for Gains as US Inflation Cools: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWk9LT09OZ0o3aE1weXpUM0V0XzMzblRONDFQM2JqZFdWaUZ1RkJOV1BPRWM5eWtIczJReUhRY243d1pGMkRTU2ZENTI1ZWU3ZHdnVXNMRDJVQWk2eHBQRFNUN1VDMlZJczFKTVYxZy1Ecm5EbldNVEV5cVh0TmFmUzJWX2xhSXpNWTl3NUdBSXJiZ0h4Znd6V19FNG1WazNUemExeC1wVEdEaHlNdGt6bHdB?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "S&P 500 closes at a new record, buoyed by cooler-than-expected inflation data and falling oil prices - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2T1BEeXVKNFJWUVhMSHpRTWdPV3BaaUJfMDZsX2QwMHRoQUZuZlpSY0FTSmhNLWRoemJFeWtmendXVGRMYy1tUmFWVU90YjBOVGpwVEpDRVRncUdZRlZLVUJyX19nblVVYVUwRHRMX3Rlc2ZsNDU40gF8QVVfeXFMTzFHZ1NJdVJ0NzRTTnBBNFJyUDVjSkNXUy1XMDRLWjlSdndzbzlPV0dndHBmSWFDX09RYmhSdU9PWFpMV0tET3BBODk5ZVJKVEJLX1FJRVZGYlFodXMzSDVkc25PbGQ2cEdoV1U5dEZtM1BCc1R0SXFKTUtCeA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Texas Economic Outlook| August 2026 - Texas Real Estate Research Center",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pQjNfcEtTZDZSTWNuajJ1ZVVyaUhNS2E5R2ttdVd5T1N6WVQtQ1Bfa3owelFqa1cwblVnMVJVY19kWGFzZUQ5dVRtQUhLbGhrN2R3X2t2OHVOcFFVOFI3b2c0aElUSl80Z0NIaEFQdlNGRFFI?oc=5",
+        "press": "Texas Real Estate Research Center"
+      },
+      {
+        "title": "AI Governance Market Outlook Report 2026-2035: Distribution by Type of Component, Type of Deployment, Type of End-User, ",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX3ZRZTluRTF1OTZLQjFVMlFHVkRnS0t1bGVtekpqb05LcDJuMzM5dWFYQnRieXVxd0I0MFJpeVNhdjVuVWc5a0dRSTR3UUcwMDl3cjZnVi1TQ0o2SGRMY0pEVmJPczNRei12SFU5cEpFYWpTdkpmQ282c3lYR1VIQzZLZ0RFRU5pVnZtamlGYzdyNXVGaFl4WnJURmRRRzMt?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UQ3BpcWprV3luZkxwSnd2VGxiX3VCWG94eUJadl9TMDQyRWVmQWk2LV8zSzB0SGpaZ210Nl83VGNzOWhPWUY5MWUycjlhUER4YjJFVkQxSkxtUQ?oc=5",
+        "press": "BBC"
+      },
+      {
+        "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+        "press": "Investor's Business Daily"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "We're Not Very Worried About STCube's (KOSDAQ:052020) Cash Burn Rate - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZElTSmh5SXZWTS1JS2p2MVdRYm5fcUhLRG1nZ0d1bHFJdW13ejA2Q2lKT0I5el82LXc5T3MyckVXdm1ka2M3S3lsTVlzeGMxeU9oNkdTQUVrS3FTWjJKSFIxVzM1eG9kVUdjcGRqcHdUbG1HS2VUSEJwczg2bVJ6WDU2S3MyVl9BakR6MHpBNFlMTlZhbEFZbmNRLTBHNFZVUk9YNlNnQThGUzIzY1lneVpnVUtTUDJ6aTNIOHRXMDRIM3pwWkUtNW5vUjByUdIB0wFBVV95cUxPbldaUEZoT2FDUmY5TWNqQ2lmU1g4RzJyYU1XQ2RBY0FsZ0dIeFFxSnVNZ0s4V3JISWFaRjF5d1ctVl95SkxQTzBOOWg5cWtPNkdOVnpjUU45ZWhldHp6ejZGd01zWmI3NGlUOG9udkdwV1hpVmVZbGhiVnc0QkZkMWVHMl9LeGlsbUFkb0NuazZNN2RZX1c4MUh6ZHJzb2p0dm9JdF9CUTd1dzlNb0luOHVzd19xb1RabHNhUEVabkNqeThlOGJKbGN2eVlXQnhWTW5B?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Korea Exchange Selects 8 New Kosdaq Rising Stars in Deep Tech - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZlFFZzF0elpUS2tEUDFsdUxkbWI3Q3dxMVJQY1RYRXEwU0hzZ2ZGNE83ZVpOUVJicklPYXJTbHk1bWo1SXJiWE9kRzF0T0xjVG03V3BsWWl2Qkc3OTh2bHFjdDJFbXVHalp6T0FQYmJ3VFQza2o3UWFvY1RBSTJvVl9IQk5Xd05sLUtZWTZR?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "12 Handwritten Notes and 'Semiconductor Betrayal' - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT2dGeVBYSG5GMHJSLUZ0cVVQajZGQVBDZW93TzNMNnZiNkxRUFRKWk1CZTEzWmdKakgtWjg2QjJNWUpqYWZ4cGlrQXVmLUd5UzF3Ml9UeTh1RjAwUElZRTJ0RzY4cEVqR2ViZVBCWm8wQ2JfTUszeWVpSUV5N0ZmalAxUjdISFU?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Former BOK chief warns chip boom cannot simply reverse Korea’s low-growth trend - Korea JoongAng Daily",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMlFCMHhNVUlBcl9XSUZNX2R4MFhycGtUZWZnOWlzSWJGeDJfR0U5X2hJNnhMWkZPX3F0STBDdmlTOFRQUVA0SW1OMHliblhnV3M3OGUwMjR6b3NiNGZDSTZQMk54YzF3LVV2SWY4MkdqakQ0STcwclJySzBXOF9FelMtNi1DT19LRjlSWTR4M2k3OU9fdFNsYVQzYm5XUVh3Rl92Tm1FZlpieC02SGJHSk13dnR3TE9iUlNlem5QRTJqdC1Oakc3ZTF3?oc=5",
+        "press": "Korea JoongAng Daily"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
