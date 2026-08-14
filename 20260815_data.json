@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "generated_at": "2026-08-14T23:31:48.438581+00:00",
+    "run_date": "20260815"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.64 (-0.32%)",
+        "description": "전일종가 99.96 / 변동 -0.3240"
+      },
+      {
+        "title": "미국 10년물 금리: 4.70 (+1.19%)",
+        "description": "전일종가 4.64 / 변동 +0.0550"
+      },
+      {
+        "title": "VIX 변동성지수: 14.25 (-2.60%)",
+        "description": "전일종가 14.63 / 변동 -0.3800"
+      },
+      {
+        "title": "S&P 500: 7785.76 (-0.17%)",
+        "description": "전일종가 7798.99 / 변동 -13.2305"
+      },
+      {
+        "title": "나스닥100: 30046.14 (-0.13%)",
+        "description": "전일종가 30084.50 / 변동 -38.3594"
+      },
+      {
+        "title": "다우존스: 53732.41 (-0.20%)",
+        "description": "전일종가 53839.99 / 변동 -107.5781"
+      },
+      {
+        "title": "USD/KRW: 1416.48 (+0.00%)",
+        "description": "전일종가 1416.46 / 변동 +0.0200"
+      },
+      {
+        "title": "USD/JPY: 159.30 (-0.08%)",
+        "description": "전일종가 159.43 / 변동 -0.1210"
+      },
+      {
+        "title": "코스피: 6813.34 (+3.56%)",
+        "description": "전일종가 6579.04 / 변동 +234.2998"
+      },
+      {
+        "title": "코스닥: 861.37 (+0.29%)",
+        "description": "전일종가 858.91 / 변동 +2.4600"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.547 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.94 | GEX -0.6B$ (만기:2026-08-14)",
+        "description": "콜OI 615,826 / 풋OI 578,734 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.67 | GEX -0.5B$ (만기:2026-08-14)",
+        "description": "콜OI 284,717 / 풋OI 474,289 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $179.74 (+0.63%)",
+        "description": "거래량 10,359,331주 (평균대비 0.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $780.04 (-0.18%)",
+        "description": "거래량 1,751,678주 (평균대비 0.4x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 65.0% (130/200종목)",
+        "description": "평균 MA 대비 위치: +3.9%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 29/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "S&P 500 closes lower, but posts third straight weekly gain: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BXzFEVmY5LW5TV2o4cFZrT0JUdFZ5RDI5VVY0bzV2emFoMFZnMVBhR0RVVHRtYmFGSGViTldiZ2Z0cS1PY2U5cTVIaHpSd01rLTZfRERLc0RqaXZkZXNuY2lUVXQ4azNwUFJvU1ZmR0ZxWFlNTDNN0gF8QVVfeXFMTTFzR1FySExlY1RkbFdLOEI4ZVVlb0JHQWZzWmphOGtFbTVjOHJVUlZIUkUwQkZDNWdhTXN2S0paQ25OdnZoMG1xVHNpVWE1d2hKaEZtb3Y3M1NMZ1cyZ25rcy00c2dYUnU1WEt0NzdjSGVlMXFNZVNHa01ERw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock Market Today: S&P 500, Nasdaq eke out weekly gains, but Dow falls; oil prices and Treasury yields rise - MarketWat",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaG9ZZUpjbWhLV0NaMnJxeTFEVWZjczAxTml4dkVtLWRrU2ZaU254cEp5SFJuVi15enlEbjNfdzBoQlYtaUhHMFJ5aVdydExtLWJURnpmVkdPZVV1NkZTLU9BLTBNajlKY1dhWjgzYWNXb2ZaNXFyRjlYTDJxX0lLb0RoQ3VaNGczbVl2YUxDWF82VTJHOGxXQnktMi1BdFJkcklqYm1jVjF5ajJ4SktQVGNzS1Y1VnhSMmp2SlBYQTl0R0lRcFlPQU9QeDdCUQ?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWVJPR2lyTG1OQzJjdXZwOGNjVTZjTjdtY1ZKMWI1R1Mxd0xfR2hIZUF2elNlSmF3VDNOUmg5MFp6NEtxX2Mzek9zSllJamVlQkp1X3dCcDN4d2Y1bEwyQ1ExM1BBVW42QWxyb0hzSTB5aVMxa0RDenRISHlzRF84aU1RU0Uza1dod1pZLUE2R1NLNk1BN0lJSkZqQm9aYWUxaDFRSXRMTk13b0dMSExLX3h2em1WdWVBVFFMYXV3?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Taiwan Semiconductor Manufacturing (TSM) Stock Trades Rich On Cash Flow While Earnings Look Cheaper - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcTNncnhaZzFUa3JfYlhXVV9vWDNWUzVKcWNnYUtpd3pILS1OT2RPU1RuaDBaem5sSGJFS0Zwd0p0TUxlREU1NHRwZk51N29aNFdDYkxSSTNFN29lbVdYRk5wRFFoMFhORjdoOVIyUDkwbm1MT0VTNDBmUGdNWnhGQWJtbXV4ck9vVWFZVUR5ZTRzc1o5dlE4SzA1b050Y3dmTmx2WTQ3WEJsZVNVdnc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORkJUd1dCR2o3enMtaTE0TFItUUNxQS1DNXpMakc0MjhVZGthT1pFQnZQZEM4SzZDbWY1QWY0UE5rLTJ2cHZLODFuWDhDeDZlc0VMSjBtb3JsRFRqTGcwalFIT1ZCaUZ5bG55QW9vckQydTlXRGRWNG1OY0pzVGhmN3Vxb1dWdHNGbnU2X2NnSDhmWWh6a3p3ZDF5bzhnVjdCZ1N2V3hlRUVhSGJZV2VPYzd4Zw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "The hidden flows breaking bonds and squeezing tech stocks - Nomura (SPY:NYSEARCA) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNzVkWnhKN3BnbFNPaVJFSnNUay1iR0Nqbk5tNHppb3hxUW04V29GM0M5Z0xwMTRlSWJGZDRRVU9XbEdudW1jMUxlU3ZORjRzS1BfRUNaRmFzSHNTQlRBcVVCc2JXWGM1d3RpTWNWdjV0MlBlN3RqUnRVY0NvUVcyQmNiejFoNVFqSl9wb21SRFlCT0JwYjl0NWdRdU04a1JsTmRRZTE4QQ?oc=5",
+        "press": "Seeking Alpha"
+      },
+      {
+        "title": "Economic pessimism grows as business outlook darkens - Scotsman Guide",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeTlxdUk3M0pDaEZXbV8yY3BNdWNNYXFMZm1QNGg2WFVsVXpYbGctM3ZER2FuckkwUDJoUkljaXRyTDBaYUhpZ0dYaTZfS3RlY0ZFTnN5Q3JueVVQclktUkw2VFJLSkVHS09CX0tZQzhVdVdLbm1lQUZqNnY0b3JINnlPLUNxQWFlX3p4T092SVFjQQ?oc=5",
+        "press": "Scotsman Guide"
+      },
+      {
+        "title": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVEhXR0lpSVV6T19LcXRWTk1Lc2l4dDhDeTBoOThuNHQ5M2JjajdRamxsdnpRR1lqaHFwNTNFREtRdGgybE45a2lGTlVNeGgwYUtuTkwyZFlidzhEWmtMeDJtUkd2QXVFLVdhYVRBSmgtVGxVMjk5UDFLV3ZJa1hHMDdLVHZQZXBlSTFyang4bEdsaml0VGloQ2ZYd0lvVzRWNE4tNUxvQWF0S3RRNThiTVM0bXl4bkozVWkxcXFEbFI1eXhhSkhuODNQSVZSdw?oc=5",
+        "press": "Reuters"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Naver Corp (Derivatives) Analytics: Price Dynamics, Quarterly Returns, and Annual Price Changes in USD - CryptoRank",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5Z3BoQ0xoR3BHbkpHRHJhdlE5ZnV4UVFCaVV2MmFIQ3BoM3FXanp1NFlRQ1Q2MThfbXVmTEZqNXFfWV9yTW43ZldpbElHTDA3cEE5TERiellOZS1XT01sczItZ2JVZ19CNzVkSg?oc=5",
+        "press": "CryptoRank"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
