@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-08-15T23:32:06.912151+00:00",
+    "run_date": "20260816"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.67 (-0.29%)",
+        "description": "전일종가 99.96 / 변동 -0.2900"
+      },
+      {
+        "title": "미국 10년물 금리: 4.70 (+1.19%)",
+        "description": "전일종가 4.64 / 변동 +0.0550"
+      },
+      {
+        "title": "VIX 변동성지수: 14.25 (-2.60%)",
+        "description": "전일종가 14.63 / 변동 -0.3800"
+      },
+      {
+        "title": "S&P 500: 7785.76 (-0.17%)",
+        "description": "전일종가 7798.99 / 변동 -13.2305"
+      },
+      {
+        "title": "나스닥100: 30046.14 (-0.13%)",
+        "description": "전일종가 30084.50 / 변동 -38.3594"
+      },
+      {
+        "title": "다우존스: 53732.41 (-0.20%)",
+        "description": "전일종가 53839.99 / 변동 -107.5781"
+      },
+      {
+        "title": "USD/KRW: 1412.00 (-0.34%)",
+        "description": "전일종가 1416.85 / 변동 -4.8500"
+      },
+      {
+        "title": "USD/JPY: 159.30 (-0.08%)",
+        "description": "전일종가 159.43 / 변동 -0.1210"
+      },
+      {
+        "title": "코스피: 6977.94 (+2.42%)",
+        "description": "전일종가 6813.34 / 변동 +164.6001"
+      },
+      {
+        "title": "코스닥: 864.65 (+0.38%)",
+        "description": "전일종가 861.37 / 변동 +3.2800"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.521 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.10 | GEX -0.1B$ (만기:2026-08-17)",
+        "description": "콜OI 90,437 / 풋OI 99,856 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.84 | GEX +0.1B$ (만기:2026-08-17)",
+        "description": "콜OI 47,663 / 풋OI 87,501 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $179.74 (+0.63%)",
+        "description": "거래량 11,839,800주 (평균대비 0.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $780.04 (-0.18%)",
+        "description": "거래량 1,751,900주 (평균대비 0.4x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 36.0% (72/200종목)",
+        "description": "평균 MA 대비 위치: +3.5%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 34/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Why Nvidia’s $500bn investment mobilization is a positive for the stock By Investing.com - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVmNRNTNzQUM5MWVWUDhVbHRJUVItOG1mNzYxcGljUHo5cS11dl9jMDRxOHlfazRpVk1Bc2s5dUx2TjA2UThlVUlhblVRYk9ULUp0ZVdIM1NFel9JRllKLU96WFdaQjU3a0VPTmc2dzNPdWRxRlN5SWY1YzFNZVBkRm1JdllEb3JHX29QRU5VTUhDTWhxV3J1Z0hDVE1KVUxMTEdXNVgxdVBkaWhxQ3M1YVRybjdWdnY3U2F3Vk1hSlhSVTlZ?oc=5",
+        "press": "Investing.com"
+      },
+      {
+        "title": "Portable Grain Moisture Testers Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQUczWllYS0VDSVFva3ViTU1HdTRQakxOUkRiVVMyVlFFUmgxRzVMenJoX0hrMkVReE4zN3h3WlZlcU9VOFdGcUtGYllEUkpLQXpPcWlrUF9nSXhwTW5OWDgwSzg3Z0dJZ2VNOUM2SUZMUzFSdW5oaldCR0ZXMUtwUWd6cUo1R2E3OU9aWA?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Push-Pull Lifting Electromagnets Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNU1d2TUxnOUkyNHVsWDI1QU1HX0JlYV8zNTVEQ0JpWTktZnRwVmlIQ280clNobTNzVnVYOUdialBMMzZMRkpjS2pPWk51MGRfYm9SLUdpdzlycDdualN3SnZfVmZKTW5ZZWZlNXQwZW1TWENldzJlYmFCaTlpalkxZnNWOU16MzdFdG05cU9R?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "(HBND.U) Strategic Market Analysis (HBND.U:CA) - Stock Traders Daily",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS18ySWJRWlo0TUdaRUhfc01zZU5GSHZzMjFObmhxUWRIZzlad0ZrRlBUUG5ENDd6RWh1bzAzbmxva05iZ0lEV3gyTlVjVDdRSjE3amhJV0J2V2xtazB5Yk1za2RDWVRkUm5IaUdZQ2hHRFBDdnlFWXJDSk5mSFhIUXVVdzRTUWFyMDB0QXhaUDhCWlE?oc=5",
+        "press": "Stock Traders Daily"
+      },
+      {
+        "title": "Kevin Warsh's Fed Faces Split Verdict on Inflation Data: Sahm Notes 'Good News,' Schiff Says Calls Out 'Misleading' CPI ",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVUxc3A0RWgwWklQeFRVQ3BSc1hoRU9MMGUwMmlqMkV3eEduREJhR2ZBN1dIRGVnOXV2cllaNFpNdU5EM2pVUm44VEdGbzFaVU5TdUdsTlNCVkkzVWtDZDJpSGhlSTFRc3ZBS21vak5OMjlfaFRuNnpCZDd1R1NIbGpmZGpmbzlBRU1XTVdnSzNvVVV1dUR2Zw?oc=5",
+        "press": "finance.yahoo.com"
+      },
+      {
+        "title": "Kevin Warsh's Fed Faces Split Verdict on Inflation Data: Sahm Notes 'Good News,' Schiff Says Calls Out 'Misleading' CPI ",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVUxc3A0RWgwWklQeFRVQ3BSc1hoRU9MMGUwMmlqMkV3eEduREJhR2ZBN1dIRGVnOXV2cllaNFpNdU5EM2pVUm44VEdGbzFaVU5TdUdsTlNCVkkzVWtDZDJpSGhlSTFRc3ZBS21vak5OMjlfaFRuNnpCZDd1R1NIbGpmZGpmbzlBRU1XTVdnSzNvVVV1dUR2Zw?oc=5",
+        "press": "finance.yahoo.com"
+      },
+      {
+        "title": "Tariff refunds are juicing corporate profits and GDP, as tailwinds converge to propel growth to 4.3% - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0NVTkFHZjVMUHl0VUlYMXE4YzdrbmZmS2E1WVVndjRsTUkyZ1k4b3ZaYzQxVWpYeFBFbVBodEE4RjRPTDh1NnhpVmw2LXYyTmM4MldSRFJnQmpxd3llMlNmNkFpX3lEZGt4czlBNzdrbHhYZmYxUk9fQVpFdXpSc2tPMVBnOVVqWExiVkV1X3EzOHJGSHpqTQ?oc=5",
+        "press": "Fortune"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Is Now The Time To Put RAON ROBOTICS (KOSDAQ:232680) On Your Watchlist? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdklDSGs1aUd0M3NfcXktMS1qa0hCVWQyMmwzMEpBNWJ5elN4VHNxcmZtdVZiV25FT00yQnNyWHQyQzNSeHhKdDNEUWh5RS1MYTNkZVF4TFNyNzhERGFmbElhUFVVb0owc1V6OGFnejFCTDlsdEVfY2x0NGlYdVRNYldVTDhXa3Fpb3pTVEZLOW5Na2FDNkpKNDh1eXFwYkVneXR2QzA0TmNNMWdKUGhyQ250X0Z1dXNMa05rNlNvY0Vzbm5Kc3dBb2xkU1pwdm1IcnVMaXZ6Ty1hYk0xUnU4UTFR0gHnAUFVX3lxTE9TRXZuWjVQTkd0Q2s3RmlNVm94dVJPaFJvUHY1SmVvaFJ4X0Jxbl9KRHJTMjNKTS1QQ0pIZmVPVURudkJZRElldmVDQV90TjI4djY1OW9keTF4cWpCUHZtRUhwbzI2OVdtTlJyVDBHNVNILXdZZnNmWGdZcE5SV1VlUFZiOWVZZ0tMMm5zTUF5djJlWlZFRG85bHhncV9TLXU0dVNkRXRIYW1XNTZKbU5rWFRRaHN6Y0R2c0cwNUpiYTQwQjJnOVgzUFlyLTRIN3JxLThOekdHc0pVLVFxdGtUeWI5U0ZOWQ?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "KOSPI Attempts to Reclaim 7,000 Level... Foreign Return to 'Samsung-SK Hynix' Raises KOSDAQ Supply Concerns - finance.bi",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBhZEd4Nm9IcFdIOGI2ZTJvU3FvYlpySkcwRzF0Sk1FSnY4dHZ4YXNqaWZ3V1VjZmY5RVdEUThRZkJNUTFvQzRNWFgtVzdoTnhMWkZqdmVtZnRMaEVCcDF5WXBESy1mb3Z2QWY0MEttVDVVck9BVVE?oc=5",
+        "press": "finance.biggo.com"
+      },
+      {
+        "title": "SK hynix Inc (Derivatives) Price Today | Live 000660 Price, Chart & Market Data - Binance",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10LUhHUThScExXR3FXRnZpQ19zRWh6SjRCMUhSOUtmOV9XTHRIeEF4bTl1Q2tRU2libWV0VDJYaVZibVVkNGppU0ZrSjZpUXVtb2NMeHN4My1CTWZ5Mm14OW82SzNGTC1s?oc=5",
+        "press": "Binance"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
