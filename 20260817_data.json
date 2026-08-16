@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "generated_at": "2026-08-16T23:31:48.131787+00:00",
+    "run_date": "20260817"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.59 (-0.08%)",
+        "description": "전일종가 99.67 / 변동 -0.0780"
+      },
+      {
+        "title": "미국 10년물 금리: 4.70 (+1.19%)",
+        "description": "전일종가 4.64 / 변동 +0.0550"
+      },
+      {
+        "title": "VIX 변동성지수: 14.25 (-2.60%)",
+        "description": "전일종가 14.63 / 변동 -0.3800"
+      },
+      {
+        "title": "S&P 500: 7785.76 (-0.17%)",
+        "description": "전일종가 7798.99 / 변동 -13.2305"
+      },
+      {
+        "title": "나스닥100: 30046.14 (-0.13%)",
+        "description": "전일종가 30084.50 / 변동 -38.3594"
+      },
+      {
+        "title": "다우존스: 53732.41 (-0.20%)",
+        "description": "전일종가 53839.99 / 변동 -107.5781"
+      },
+      {
+        "title": "USD/KRW: 1416.48 (-0.03%)",
+        "description": "전일종가 1416.85 / 변동 -0.3700"
+      },
+      {
+        "title": "USD/JPY: 159.21 (-0.14%)",
+        "description": "전일종가 159.43 / 변동 -0.2180"
+      },
+      {
+        "title": "코스피: 6977.94 (+2.42%)",
+        "description": "전일종가 6813.34 / 변동 +164.6001"
+      },
+      {
+        "title": "코스닥: 864.65 (+0.38%)",
+        "description": "전일종가 861.37 / 변동 +3.2800"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.547 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.10 | GEX -0.0B$ (만기:2026-08-17)",
+        "description": "콜OI 90,437 / 풋OI 99,856 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.84 | GEX +0.1B$ (만기:2026-08-17)",
+        "description": "콜OI 47,663 / 풋OI 87,501 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $179.74 (+0.63%)",
+        "description": "거래량 11,839,800주 (평균대비 0.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $780.04 (-0.18%)",
+        "description": "거래량 1,751,900주 (평균대비 0.4x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 59.5% (119/200종목)",
+        "description": "평균 MA 대비 위치: +4.1%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 34/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Boeing (BA) After 737 7 Approval And Tech Deal Looks Pricey To Some - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQekdSUTNPcjI4RkFmQ2Q4WU9uaHdaWFpjcEkzdE9FUjFIbWNZN1hXQTBVeU1RX1dXNFdyZk9Rd2V1MFEtZFAyQXpjWEtIYjNLMU5WNUtZMUxYVGRRaEZ3aTVPcUZwYkpoM2VGVHhZNTFpQTc5X1Iyb3JvZjdTS2FMenNZQ2IxeFk1ZDNnekY1bjQ0NTFVb09tdUkzODNTUzVGSVJPVGRZbHgzb21ldXlxUWhfUDRTLUcyZlF3QlBNWW1WMUgz0gHKAUFVX3lxTE54U1U1c1R6eVg0RV9SRTdYSE1rODBYSllBdUpVRzN0M19sLVlYVTluMmVrTl9VTG1aTXFCNVlqRU0tYktYQXVZNnA0em9PcTA4SkxVWFh5aE5TVENkeS1OM0l3VEtZVUZjMVJBMmd3X05OWDYzWHNoeExPNkd1SV9iZEgzNmNvNDdSdnNVT0h0ZVVUbzNIWTE5ZzNoUU5aVDYySGlsZmdxMVNUbEEwMDJ3M3gxSTI2cDJGeS03cGdMdnJ5ckZpYU9KOFE?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Liquefied Gas Transfer Lines Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQjBCZURrcWo1aDFyUW1DdzZIVm1rR3JZNmdRenAzcUJNZnhxRUtiTFdjNFlwZW1GaVFYWVpEbnE1WGt0UEJkalA2YTVQQWMzTVNqRWRGclUzSjF1dUdoOUNLMEdaY2huV1RQVmVxdGEyVFVfcHVkalVlaDhWMV9HenE5dGtFeUdO?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "UV-Blocking Shade Material Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObnMyWGZtaXBzeHp3V1d1VTF4Z3RDUzlCRWh5WTd2RjBaaG1lcjhwZURXRnl5U2tnQnhWX0F2RTdVSk43OUE1WnlRRThIejJCMk43UWlvSVRudm5QNEh4azk5M3RpSkkwZmo2anQxd1ZWX1d5bVBBUmRlQTFZLWRwWkszX3UxZw?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Consumer Discretionary - Broadcasting Stocks Q2 Highlights: E.W. Scripps (NASDAQ:SSP) - Yahoo Finance UK",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGlSd2g5RVZaalAzR0ZpLTdvTXlBUEhaZWZpZFRYZVNGSFlVVzFqYjFqeE94TmNDUmthWVU0d0otSFlOdDN3akFtSnlkZFlDeUVxS2doeWpsR3drSUIydFhTV3NSbW83c3NMMkpBU2o0TGlKbW1pSmRINm50MXdGUWtOdV9NMmhQdlk1aWhWR05HaXNWZ2ZkdVhn?oc=5",
+        "press": "Yahoo Finance UK"
+      },
+      {
+        "title": "Oil Steadies With Lebanon Tensions and Hormuz Risks in Focus - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd2RsRkhNYndVYng4WmVfcTVWMFlrak1HWHdBWU5qbDdKLWRJNjZwa0ItYTJQb1pBQlRKQWN4LWtBS2xqZmdPTERIT1hxM25JYkthUVllNFVjdTI2bHVSVFpuSU02LU5OLWpuZjJrQ25ieTg3LWpBZTFMeWpGRktRdG5MWDRTUlRQLXRBeVdYUWFsRjRVNURMZEtZaXVEWGs?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "(HXE) Market Performance Analysis (HXE:CA) - Stock Traders Daily",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVlBaWE1CczRxNDF3THlxQ3hKSzVsV3ZIdnJPY0NjTU04SENnY0pnVGREbkl3cVFJVW1OTkZ4TEVWc2Z0bkNYdXlXZTZhYmZpQnFmU2lGTFZOT09NNXZOM05RdDJDc3JVRFNTUEdDN1NadF9SWUo4YmQyRTF3Y1o0SFJwUlVsM0g1R3drZm9uNmthdDA?oc=5",
+        "press": "Stock Traders Daily"
+      },
+      {
+        "title": "History Says This Is What Will Happen to Nvidia Stock After Aug. 26 - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcGJjTU1DWG1RZVozU1hjeGI2WmZUb0Z1WkxRVTlZb1pGMVpYU2ZyazBOTDBjVUxjVWJOWEttbE5QMUFNOG1yZGtKRUw3MlRXZEdtekFNWlB6VTBvT0FjUVg2enBTUl8wZ2p4OHVHNVNBdFdXcWRUbzlETGJpSDM0R095SDFGTTUtd04wNmpnb2hiTTZWcnI2WQ?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "From tourism to power generation and productivity, Europe feels economic cost of heatwaves - theguardian.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMW9PTW0xbzFYWFB3cFlacG5qNEVKbC1uOVZVd19JcTVDVTlYU0tsVXlma3FicVJqczhKRW5iYlN0b2hQeVpRWkJzNFREUkc5bTFna3Z2V25hTmhVZlN3WmVkNW40OGo5NWhBaDJnZlZpUk5HeWhBb3ItZW5KNTlpVFNod19YRXdpcks5NXZRdEM0Q05YRjVYSnBEV2RjaWg0dHJRYld3aUpSOWFoSThNZ2xoZkNLellR?oc=5",
+        "press": "theguardian.com"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Dr. Doom Warns KOSPI Could Collapse Below 5,000 - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYlhvYTc0RGJoMVpQMVJHaWc2MF9GNVd3YnlNa2Yta3FvcFl1NVdfdklZbHVrbkM3SFd2X045cE1PRzdnOVlCSzJDYzVaLUhrWmpkQUJlRmxZT2g5Q1luUDhMX1lsd3J1X2xjSVZtTk1YYjVDdjNfeVlLVEdmTG1OWXFpZmx1dXpyRUpEcFl3?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Asian Growth Companies With Strong Insider Ownership - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObjF3UUM0RlJOWVFQdGpMRUk0R200RHU2c2dnMWRxbVlSV1pPYjM0MDBQLW1FY0k2V3V6eUdTOXdKUTJXZFpCbHNYWFdHSU5PYS1MN3FFNmFoUzZpX2NQSnhvNXlOU1dpOTNjMkdNOWJBUmtHa0VDMC1GT2dnUVZyUklMZ3AzTU1aMDM5N29lbGw1RTE4T3hQZlVoLTVOVTFZMkw5LTM5U2wxaGVHSG5adThNcl9vQUpTSWhBNEhjRHFZcDdTTHVDMUdUZ2bSAdIBQVVfeXFMTUhaTlM3QWpMbEZ0WC03YmdndDF4NTIwLWM5YW5hV2xhS0tpMUJrODJRV0tCMkFONzg1aktKZWNvY3lnTkI4eEtLSzM1b0tWaW5OUVlmbTBBQlQxYWVubUNsX3JtVm1vUm1KX094Q2NGaGZOME5vc3BNRHNQTFJ6YmdfNE1WRjVnVVhsXzVUN3BtalN5VUh6LW9kbHFEQW9iaG1oTlA4NWlRNzhNSWtUVVRLdmJTVTlyeDJNenRkZEpZUFNVNDQ4cUFZbGxjd3I5Tm9n?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "SK hynix Inc (Derivatives) Price Today | Live 000660 Price, Chart & Market Data - Binance",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10LUhHUThScExXR3FXRnZpQ19zRWh6SjRCMUhSOUtmOV9XTHRIeEF4bTl1Q2tRU2libWV0VDJYaVZibVVkNGppU0ZrSjZpUXVtb2NMeHN4My1CTWZ5Mm14OW82SzNGTC1s?oc=5",
+        "press": "Binance"
+      },
+      {
+        "title": "Korea stocks eye Fed signals as inflation eases and bond risks loom - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOR3Z2cVZMdmIyRm83Z1hTdWcxRmN5Sk1IX1dOYlU4ZHpQR0ZRNXhlZmRJa3lBVkJBNURPOUhoWnNjTTZTcjFOc1RLS21xY2hlUXFLbVFFdHNFTEJ2VDJfRHhqR1ptLUxLX09zV3hBSzZxLVFqMklaTlVtaDNwa2hjTNIBlAFBVV95cUxPaVdSVkoyOVd0NkpnaTdoZzVXR0ZnOVRKQVVHaXdhNTFUZ29HTHhyT2EwUEEwZW1FckV0X29CUUtwcDJNcUE2UlhncXVHNmV1eXR6STZoRHpiVmZ4QUpBX1hRLVZlSGxidG9fX2JVbksyS2dqanI5Vlp1UmNodnV3OXFqT1ZIazdJREozTDJGYnVldHVJ?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
