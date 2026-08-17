@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "generated_at": "2026-08-17T23:31:49.733532+00:00",
+    "run_date": "20260818"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.58 (-0.09%)",
+        "description": "전일종가 99.67 / 변동 -0.0890"
+      },
+      {
+        "title": "미국 10년물 금리: 4.72 (+0.60%)",
+        "description": "전일종가 4.70 / 변동 +0.0280"
+      },
+      {
+        "title": "VIX 변동성지수: 15.19 (+6.60%)",
+        "description": "전일종가 14.25 / 변동 +0.9400"
+      },
+      {
+        "title": "S&P 500: 7745.06 (-0.52%)",
+        "description": "전일종가 7785.76 / 변동 -40.6997"
+      },
+      {
+        "title": "나스닥100: 29995.38 (-0.17%)",
+        "description": "전일종가 30046.14 / 변동 -50.7598"
+      },
+      {
+        "title": "다우존스: 53459.78 (-0.51%)",
+        "description": "전일종가 53732.41 / 변동 -272.6289"
+      },
+      {
+        "title": "USD/KRW: 1413.74 (-0.12%)",
+        "description": "전일종가 1415.37 / 변동 -1.6300"
+      },
+      {
+        "title": "USD/JPY: 159.37 (+0.09%)",
+        "description": "전일종가 159.22 / 변동 +0.1420"
+      },
+      {
+        "title": "코스피: 6977.94 (+2.42%)",
+        "description": "전일종가 6813.34 / 변동 +164.6001"
+      },
+      {
+        "title": "코스닥: 864.65 (+0.38%)",
+        "description": "전일종가 861.37 / 변동 +3.2800"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.554 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.65 | GEX +nanB$ (만기:2026-08-17)",
+        "description": "콜OI 159,404 / 풋OI 263,251 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.07 | GEX +nanB$ (만기:2026-08-17)",
+        "description": "콜OI 103,810 / 풋OI 214,589 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $185.10 (+2.98%)",
+        "description": "거래량 16,671,064주 (평균대비 1.1x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $776.29 (-0.48%)",
+        "description": "거래량 2,233,140주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 57.8% (115/199종목)",
+        "description": "평균 MA 대비 위치: +2.7%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 31/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq fall as oil rises amid US-Iran tensions, 30-year yield hits highest level in de",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2taUjRKLVIyMjlxNFdUYWVEVmkwY0Uyd1Mydk1kREdrTUhidEgtazBidkFzWl9VR3lXMTAyVmdxTHk1eU1tN0U5SXQ1QnRfbGZoaWxzbjJZaFhWVjlkcHhyLUFIS1dRZ045NVotdEx1Rm5QeEV0NUZnQm9lY2JvbHhOR2g4bUM2cHU0NFhEcDZUd1ZTM2VnaV9QMUdCYzlnNlhkQ3prOHVfNmpmbV9iNUNYa3ZXOW5kUWRjLXBB?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market Today: Dow Slips; 30-Year Treasury Poised to Hit High — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN0o3amtJdlNTb29WZnUxdllSLUhseTJQT09kV1V3MktIQXlvQndNNDVzX2tibmhORXJBMU9mQjQtWjIwUTVyeHFoNHlnMDJ6VUZaZHByY1FLaDhwVktwZjJ6U01heDh6dk5TMk1JZ3VwSDUtOFlfc2lEbnhFMUhGSlZuUy05d2M?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Dow’s 3-Year Winning Run Isn’t a Crash Signal, Still 49% Odds of Double-Digit Gains - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeHgzbktFVmxDOHV0dXFNdGhtRHhHT09JcnBpUlpHVUphbmg1bnR1YWZSMGs1RU5ERFFfLVRNaC1CbVJhWHZYalhJcEhMY2ktbVRIb1lTejFfLUp5akp1ZGdGUkJKOERBR3BhWmdoS0EtSnkyVGhpOEVtRnRrMzVOOXB5dzFxM1R2dUpaU0tDQQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "'We'll bomb the s*** out of them': Trump threatens Oman as it reportedly moves toward a deal with Iran - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZExPOS1fZWlFSDM4dHFIczZvZ2l1VXFFaGZ3S1lHUzJVVDFWQm5GTzNzOUcwdUNxc29UNkRHUzlMVmhucGJYYi1POXByRlVSY1NCWUt1MXhXVUp3WWtRTVcxRFFMYk9PelB3dy1kVXM1UmozbmtOQ21GMXVPdGxITEI4S1ZfSWlUSjNtSWhUZW9OQ2JUUjJ2LVIxU2pBLTg5R3NFVDFaeV9VYV8yZUozV0Jucmp6ZTFzYy01UVdlcC1Tc2hIcHQzN1VoQUhEdHdMc3RGMGYyOWhGblZXVzluSlpVaUsxUE0?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq fall as oil rises amid US-Iran tensions, 30-year yield hits highest level in de",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2t1QktzNGVzSjR4cHdxUWtSX2Y1VUVmT2l5UVotajl2WjBvaFFxU29HREZHYXMtR0FPZVZtUkpnQWdNTXNCbHdLNHI3ZU55Xy1xOWRjdFVjdFl5cjdnWHd4T3NObEFaejhXdnh2a2JkRFRIWXdTVkZtODdMTEdnTDNFNGJOYmt1RUJBaGVycFhneUhwcG1MZXB2TXFBUWNJOXRRdmRlNGhseFU?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "3 AI Tech Stocks with Massive Upside Potential - TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTFlMb0x1SmZVVEdEX0EtZ1hvLTVPenRKWnpPODF4UnpXU3VwSlNieW9FekFvRG9UaVk0YXhvb2s1aUZKZm1zXzh0bFlwcHNsbGFnR1psalZDN2xlamNkSkxTc0VsRS13bWZhd01rczJnSE9SSERUdUFURkZsOTFLdTh3?oc=5",
+        "press": "TipRanks"
+      },
+      {
+        "title": "Acidic Detergent Cleaner Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ2FGc1Exa1V0d1lRTjlXLVY4cHU2NmVtTlBMb0pfWHdlbjJIQnBUREdFMVUwc010M0k2M3UtcXhzd1VORnNGUXR6NU1qaDNJLUQ5dmREZUl6cVVFaFVnU3lZdy0zSjNqd1Y1TTJiOUt1LTItLVQ0LU92OVhGOXdjOE5uOA?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+        "press": "Investor's Business Daily"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Two Firms Debut on KOSDAQ as Klobot, Sensorview Open Rights Offerings - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaHczcDYwTzVsT1VtSWNGc1VLNFk5Y3M2akY1dVhNSEl5ajhPTTZFa2pxUXp6SmVJN1E3UjV6TnE2aE52MHBtbGlHZkZ5ZWlIX1pYOW5sUXNWQ0h5dWtDZm1sQ200TGN4VlZNcHo4Nm1pVWFtV0M4TGZibGN0Y01qbFhEbFJTSEpzLVFGSGV1bjFHNS0zMEdTQ2VsSTkyUmY0OVE?oc=5",
+        "press": "Seoul Economic Daily"
+      },
+      {
+        "title": "Doosan Fuel Cell's Biggest Order Comes With Its Biggest Loss - 한국금융신문",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hSTh1NTd0ZVBzLW5WYzFUZ1NXSUFFV0d2QlJUODB0bmlicjl3akZ5bHluNWQ5dTFDeXhkbXFFbnZiNWczeDdneFVQN1hmSWQ5clFxNktDLVV5UWxDOTk1WmFVS2NhRE1zMnBtLXFyVEZ5SHV2TnF4OTZERG0?oc=5",
+        "press": "한국금융신문"
+      },
+      {
+        "title": "SK hynix Inc (Derivatives) Price Today | Live 000660 Price, Chart & Market Data - Binance",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10LUhHUThScExXR3FXRnZpQ19zRWh6SjRCMUhSOUtmOV9XTHRIeEF4bTl1Q2tRU2libWV0VDJYaVZibVVkNGppU0ZrSjZpUXVtb2NMeHN4My1CTWZ5Mm14OW82SzNGTC1s?oc=5",
+        "press": "Binance"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
