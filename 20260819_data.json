@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "generated_at": "2026-08-18T23:31:49.408439+00:00",
+    "run_date": "20260819"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.64 (+0.00%)",
+        "description": "전일종가 99.64 / 변동 +0.0040"
+      },
+      {
+        "title": "미국 10년물 금리: 4.71 (-0.38%)",
+        "description": "전일종가 4.72 / 변동 -0.0180"
+      },
+      {
+        "title": "VIX 변동성지수: 15.84 (+4.28%)",
+        "description": "전일종가 15.19 / 변동 +0.6500"
+      },
+      {
+        "title": "S&P 500: 7691.76 (-0.69%)",
+        "description": "전일종가 7745.06 / 변동 -53.3003"
+      },
+      {
+        "title": "나스닥100: 29490.96 (-1.68%)",
+        "description": "전일종가 29995.38 / 변동 -504.4238"
+      },
+      {
+        "title": "다우존스: 53343.40 (-0.22%)",
+        "description": "전일종가 53459.78 / 변동 -116.3828"
+      },
+      {
+        "title": "USD/KRW: 1412.35 (-0.17%)",
+        "description": "전일종가 1414.73 / 변동 -2.3800"
+      },
+      {
+        "title": "USD/JPY: 159.58 (+0.15%)",
+        "description": "전일종가 159.34 / 변동 +0.2390"
+      },
+      {
+        "title": "코스피: 6977.94 (+2.42%)",
+        "description": "전일종가 6813.34 / 변동 +164.6001"
+      },
+      {
+        "title": "코스닥: 864.65 (+0.38%)",
+        "description": "전일종가 861.37 / 변동 +3.2800"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.556 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.33 | GEX +nanB$ (만기:2026-08-18)",
+        "description": "콜OI 134,091 / 풋OI 178,604 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.90 | GEX +nanB$ (만기:2026-08-18)",
+        "description": "콜OI 100,553 / 풋OI 191,087 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $170.05 (-8.13%)",
+        "description": "거래량 34,258,962주 (평균대비 2.1x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $770.98 (-0.68%)",
+        "description": "거래량 4,408,803주 (평균대비 1.4x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 36.5% (73/200종목)",
+        "description": "평균 MA 대비 위치: +2.4%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 41/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq fall as chip stocks sell off, bond yields rattle markets - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb05YTlhtdm5CWWFjelNPMWFrWWtzUk9Vb05PZVRJT2FiSHc0em50elRIQ0lQX3Y1R0xlbVNKZjNPMDFKdHA1VWVjWnllN0ZqYUN4SWhWb01GWC16WTBCRXFGUUtBem54QVNrUE9SZnVZV19NRU1jQ245bEE5eHpzYWx4RTVWQXUwZjVZVG9LTlhKVGx6SXFsUjhORDY1dUhCYW1GNUMwdUdTQnJf?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq fall as chip stocks sell off, bond yields rattle markets - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb05YTlhtdm5CWWFjelNPMWFrWWtzUk9Vb05PZVRJT2FiSHc0em50elRIQ0lQX3Y1R0xlbVNKZjNPMDFKdHA1VWVjWnllN0ZqYUN4SWhWb01GWC16WTBCRXFGUUtBem54QVNrUE9SZnVZV19NRU1jQ245bEE5eHpzYWx4RTVWQXUwZjVZVG9LTlhKVGx6SXFsUjhORDY1dUhCYW1GNUMwdUdTQnJf?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Why Micron Stock and Its Memory Peers Are Falling - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORlZXdXFYWHIxWGgyeFNaU2ROU01lRFloRnFFRUNMZm5MN3dCN0prS3lwd2NLazdwUThLcGpaT0taT0lrRmQ2aHFtdXBySzF2OExoemNBM1psaGlFdnJaODMzejlzdllMbXJrSDVwYVJlY3pUWldyM0NJVXIxLTZTTDRZY0ZsQ3V5UVNvRktR?oc=5",
+        "press": "Barron's"
+      },
+      {
+        "title": "Meet the Super Semiconductor Stock Crushing Nvidia in 2026 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX3Vmd0NKenNSTThZVFFtNW5tcmNFRmNuZ1FUTk55SUdRazYtbnE2c2E5SXQ4SW1YQ1htNUpTbkttVHpURFVYMTkyUjl6cTVGdHVQYUpSMmtzUGVHSEhQdjhFS1lxN0x2bU1aYjlZbU52eTBGNk9lQkRxQWQ3UURjTmFZSnE1TVctZ0F5ekdzQTZhajRYRkQtY1dNbjRtdk5oUmc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Tech selloff weighs down Wall Street as bond yields climb - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq fall as chip stocks sell off, bond yields rattle markets - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb05YTlhtdm5CWWFjelNPMWFrWWtzUk9Vb05PZVRJT2FiSHc0em50elRIQ0lQX3Y1R0xlbVNKZjNPMDFKdHA1VWVjWnllN0ZqYUN4SWhWb01GWC16WTBCRXFGUUtBem54QVNrUE9SZnVZV19NRU1jQ245bEE5eHpzYWx4RTVWQXUwZjVZVG9LTlhKVGx6SXFsUjhORDY1dUhCYW1GNUMwdUdTQnJf?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Rigid Thermal Mounting Pads Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT3RsTlhNRndRS20xS004b0Q4MUhzVGZoY0k5SjlNa0UtMGU1SkVVdVFMZE9GbGhXOGpEVG1FZk9iamUtME81QzZ3RzRla1huLURQUjFSM0hxTDlUc25POW5rNUFzRHAtMXRDUGVJQkFsMmR3eGtGUnNod1JOMk9VOEItMXJTUVk?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "U.S. government debt yields are surging at a bad time. Here's what's behind the move - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFJ4QWF6ZXRKT3NEQzd5U1J5bi1JVGQwZnotbWZGeVNzZEdhdGVGQy00RnJDSUtVZE1VYVR5bFYzcDBKZktkX2xXNVJubmUtZ1VlZDR3RXNHQXVkcVNNVExodkNwcHRQVEV0UzMyZEZjS2Z6bkFQZ3I3Nm9kTTkxOFNaalhnN2FzQTRkcWpVdWpYMVFfa0J0Zi1xRTZHdDhyNVV5V0FtZFlrb0dxUkJ0ZDBKdkJPbGfSAbwBQVVfeXFMTWVadE82UFBkbndVWks0UzdhajNTZlhaVDdnLVhnTlpOQUJqWHBPbFRxMFpZSi1fOXp6em5NalBzSnNfMzY4MW1YVWdMLWwyMUxpNnV4YVd0V09kN1pCWEtYREI0dHMwN2NaQ2NjTm5zWFhNQi12MlZTLXdaLUU3SnRQUmFhbk1KaXpPNHpzNjFiZGk3M0dVOXNUQW1laWRxRXczRFBidW94NGpRbC1ZM01nMGhNSkdyMl84MTk?oc=5",
+        "press": "CNBC"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "We're Hopeful That SD SYSTEM (KOSDAQ:121890) Will Use Its Cash Wisely - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVmJ5VWlzV0dRRVozNUE1TkZQN3JTaGRnNEVsdDJiekNqTkI5Y1Q5aGJyUHRySWZqcWlUb3BiUHhEWlJCYnVRTnY0Yjk3cUcwNjBsdDgzWEQxQjJ3T3hfVmotV1ZPWGJJaWF6OFAtZ1VycjluMkVsaWlVZXhUa0MyZWljMl9CcUZDLUVGb0dJSDJ5ejRfVHRtcjlDZHM5WEc2NFNXZm8wRDRyTy1RdkNFS29WVmdLaTRoNE9jZndORHRKbWd3X09mTXNIbEEwUmfSAdQBQVVfeXFMTUg1eFZKOUZBQ2MxZENHUjMxc00zcXpkQmFHMEdLZ2k1dW5sZXJsWXpvMlVnNjg2QWFmaDFaNGQ4c1VzU3VPYXJ1TFV2QTVibGFDT0N3MTl2UUpOMmwyMFJlYUloQ3VSRGhpa2M5amUzQTltajZEM3c0RGF1YVl0UXBVRFpfZnV4dkdsU1lRTlRCdWo1NmVoQmFROEZEdTdiOU5yZnVfMHo1QllwSGZJWjJpRWlpWUNhV1ktbThtemhRQ2N2VTg1a0ZFR2tnR3Z3cG81OUw?oc=5",
+        "press": "simplywall.st"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
