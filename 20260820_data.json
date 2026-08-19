@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-08-19T23:32:08.154525+00:00",
+    "run_date": "20260820"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 98.77 (-0.89%)",
+        "description": "전일종가 99.65 / 변동 -0.8820"
+      },
+      {
+        "title": "미국 10년물 금리: 4.65 (-1.13%)",
+        "description": "전일종가 4.71 / 변동 -0.0530"
+      },
+      {
+        "title": "VIX 변동성지수: 14.89 (-6.00%)",
+        "description": "전일종가 15.84 / 변동 -0.9500"
+      },
+      {
+        "title": "S&P 500: 7707.98 (+0.21%)",
+        "description": "전일종가 7691.76 / 변동 +16.2202"
+      },
+      {
+        "title": "나스닥100: 29426.02 (-0.22%)",
+        "description": "전일종가 29490.96 / 변동 -64.9375"
+      },
+      {
+        "title": "다우존스: 53463.05 (+0.22%)",
+        "description": "전일종가 53343.40 / 변동 +119.6523"
+      },
+      {
+        "title": "USD/KRW: 1389.09 (-1.73%)",
+        "description": "전일종가 1413.58 / 변동 -24.4900"
+      },
+      {
+        "title": "USD/JPY: 158.22 (-0.83%)",
+        "description": "전일종가 159.55 / 변동 -1.3280"
+      },
+      {
+        "title": "코스피: 6869.83 (-1.55%)",
+        "description": "전일종가 6977.94 / 변동 -108.1099"
+      },
+      {
+        "title": "코스닥: 834.20 (-3.52%)",
+        "description": "전일종가 864.65 / 변동 -30.4500"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.537 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.36 | GEX +nanB$ (만기:2026-08-19)",
+        "description": "콜OI 140,567 / 풋OI 191,004 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.47 | GEX +nanB$ (만기:2026-08-19)",
+        "description": "콜OI 134,589 / 풋OI 197,612 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $174.43 (+2.58%)",
+        "description": "거래량 18,133,897주 (평균대비 0.9x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $772.74 (+0.23%)",
+        "description": "거래량 4,868,883주 (평균대비 1.4x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 57.5% (115/200종목)",
+        "description": "평균 MA 대비 위치: +2.9%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 46/100 (Fear)",
+      "description": "중립 — 방향성 불확실, 관망"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market Today: Dow Opens Higher, Bond Yields Dive After Treasury Steps Up Buybacks — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPYUV6eHp3ak9nQS1lelJ4bUNGcXhzb3dFZHIza09ycS0yWmpROHE1T21kTWN3SEJ2dzNQUHMzOVhBTk84TXkwRjgtZmVScTJLekltN3BsVTQzNEtSS2NudzRoQXlUNFFweS1lR1IyVkhrVHJHYmdpZWppMzQyell3SnFZYU5vdmM?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Stock Market Rises, But Sellers Hit Some Leaders; Trump Move Shoots Holes Through This Industry - Investor's Business Da",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPXzRoNmt0bnBpX0RnOGVFakRIMjBRNkVPX1A2UWhTa0ZMcy1jYlpGaHdvangzcHU1em9nQUU3cFAtaEJGQVVlQ3ZPWExwMnlSVEpTUGI4Y0R5bnBfZVk0VW80TFdrX1I2S0hMWTJ2dnI3UThvdXhhMnpyUzFpQk1kMUJhZ0l0R2tpSE5TYWpfN0xka0xkSUU1bmFYNXhrTDU5aEJaQndWS1lSTV85RE5SUERCbG0yRzBza0ZmdjlWY2dmUVAyM3JBZ2tR?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Why Broadcom (AVGO) Stock Is Trading Lower Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXy1jd2dXYS1CbnVFMDNWcjRXekV6Q3Z6S044ZlhfS3B0emJDZXhWZHFFeVZmRlJ3QXJLT0s1WkpRX051aEJZRGtSNDg0X29Dem1acWMtd1dQVVFXOHFTU1JfZ2pUejhmdGdoTkhycDgzdWI3cDNDbXBmTVoxeFFzOWhLZXhjUHBrcXBDeXBnd2xvTnh2anIwWmZseVg?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "National debt reaches grim $40 trillion milestone. Here’s why that matters - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNHNXZmZtd1lmeHg5S0dfY1Fjd1NjaEdsRUNzdDBCY29zN19YcU9fSmY5U184VmRNOWF3bVBXTWJnT1dhUTIwbnVhSUlUb1I3dG5rS3BJMUlsajlVQzN4ekVuWDZKdHhycTFfdmoyb1UtbFpHWkZpbFViOTR6R0FWQmE0cjg0dW1k?oc=5",
+        "press": "CNN"
+      },
+      {
+        "title": "Cathie Wood buys $22.3 million of surging semiconductor stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeE1qcUdJVmpyMWlKY3JqY1V4NERENWdQM3NXZExRQmdFX3JUTEFPOTBWd1Y2SWpidkdocGs3bm42MnNPMTBGNnMtWjg5YXdTMGo4OEh3dE5GcG1hYmZTYXlNeGxpcExhdGc4NWVwWXZBdE9PLXctVi15ZGJnUURSTHNncFp0c3doYWlVYVlOOA?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Marvell Technology vs. Verizon Communications: Which Technology Stock Is a Better Buy in 2026? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQREt6RHRPbHk5V0Ixb0JhZzVpdWFSRE5PUDFvdTNlNTRTV0JjeUFFeXFFSnhrcFp6amdDNE5IaG5GdWNvMmUxRzRrNjJ3Sm42N3Rqb1hJYXd5Zlh6YXNlZHRiT2xidXZkQVN4ajYzTjJXTWFiSlJhLXdtMFN1NUtFNEUzRU5KYlktalVzMTlnTVI3bmJaUzZvTWd2SWd1Y0tsX3FLWXQyd2RBRmMxTFE?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Capitalizing on Rational Optimism: Fidelity Strategists’ 2026 Market Outlook - ETF Database",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOa1dTeUVoT1hnbzhfWFBvUFEzTGNfQ25HV3lOenhhOTJvdlJyUjExblFrQzhRZXBpcDZqQWxyYVI0NW4yNFl5MUVEWUFvT3Jrd25uRVBMdk8xeWxtclVuMnBuS2JoRjNsZHB4WTRnUFhFdDZVVS1GRzJSQTFDbVFwNUdYOE5JM21Mb09LdENPUHJrcmxpb1E?oc=5",
+        "press": "ETF Database"
+      },
+      {
+        "title": "Bessent acts to break bond market fever, head off rising borrowing costs - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEp5ODBDWGVqYUZ1eEdFS1BxODduekpEZFB0Vm9YcmFCeW9IYnV1eUNFeHpJZ3lLT0NMSk9OazBVZE1xZmJvMnlBZjNjSWpodkEtd09CdmpOT0VSQVJvZDNHRWNFQWxMU1ZxR05UOE92SXd6WTllbEhBQUotZjhVVUdZckw5UloxS1JqamtJcGNzVFVwS3hjNXdXR2VjcFJuMnlReWFIN1dLbHBldzhKWndMTTY?oc=5",
+        "press": "The Washington Post"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Ingenia Therapeutics Goes Public on KOSDAQ Market - Eyewire+",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTjQwZ2hKcVNjb2tHdmdvYzBHZFJiREx3aXNaeGZ3ejFNdmhubjRmWUVaY0tNb2FranNHb3VRMzRlU1FZLTAybXdjQkRwVVptbkVCcGQwb0ZabHhXd0xuU1h2cng4S1pTcXJoanZkZ05DOTZTbG5zT204R0RKUG12bA?oc=5",
+        "press": "Eyewire+"
+      },
+      {
+        "title": "SK hynix boosts shareholder returns with 40 trillion-won buyback plan - CHOSUNBIZ - biz.chosun.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc09uV2EzTTNkOG1TU2FTUW9RQ3QtS2dQa0tkM0dkU0RFZEd2RTN6cndISDVtaG55R3FmMVVVcHF3VHBzRnVBNmpieERTOG9SZUNzUVhtSUdQQlBZZFFOcC1odU8yT2tvVWtLajFzc3pnYW1LNnNzZzZWOXpNTV9vUtIBlAFBVV95cUxOd3VGZTE0U24tRG45QUpXUjhFX3dEY21CRDJ3YkVJVnV3Ukh1bzloMlgwMjRBaEt0ZU55NWxyMXg3VXpoXzlCWEZWNXJvem81YWJ3anV2d0Q0UmhoLXc0cnhwcWFvVXU5dVZoVHJKYmJMVDljZTBoWTlFQkVFTHFiLXNGbkpiQko3WVJ2eERtNGpvUWRw?oc=5",
+        "press": "biz.chosun.com"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
