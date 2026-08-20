@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "generated_at": "2026-08-20T23:31:56.617902+00:00",
+    "run_date": "20260821"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 98.84 (+0.01%)",
+        "description": "전일종가 98.83 / 변동 +0.0110"
+      },
+      {
+        "title": "미국 10년물 금리: 4.70 (+0.92%)",
+        "description": "전일종가 4.65 / 변동 +0.0430"
+      },
+      {
+        "title": "VIX 변동성지수: 16.01 (+7.52%)",
+        "description": "전일종가 14.89 / 변동 +1.1200"
+      },
+      {
+        "title": "S&P 500: 7641.16 (-0.87%)",
+        "description": "전일종가 7707.98 / 변동 -66.8198"
+      },
+      {
+        "title": "나스닥100: 29213.16 (-0.72%)",
+        "description": "전일종가 29426.02 / 변동 -212.8555"
+      },
+      {
+        "title": "다우존스: 52759.21 (-1.32%)",
+        "description": "전일종가 53463.05 / 변동 -703.8398"
+      },
+      {
+        "title": "USD/KRW: 1393.85 (+0.32%)",
+        "description": "전일종가 1389.40 / 변동 +4.4500"
+      },
+      {
+        "title": "USD/JPY: 158.88 (+0.38%)",
+        "description": "전일종가 158.28 / 변동 +0.6040"
+      },
+      {
+        "title": "코스피: 6471.17 (-5.80%)",
+        "description": "전일종가 6869.83 / 변동 -398.6602"
+      },
+      {
+        "title": "코스닥: 824.46 (-1.17%)",
+        "description": "전일종가 834.20 / 변동 -9.7400"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.545 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.51 | GEX +nanB$ (만기:2026-08-20)",
+        "description": "콜OI 125,773 / 풋OI 189,887 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.81 | GEX +nanB$ (만기:2026-08-20)",
+        "description": "콜OI 116,531 / 풋OI 210,546 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $178.16 (+2.14%)",
+        "description": "거래량 12,100,755주 (평균대비 0.6x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $766.34 (-0.83%)",
+        "description": "거래량 5,581,773주 (평균대비 1.5x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 18.5% (37/200종목)",
+        "description": "평균 MA 대비 위치: +2.2%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 62/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market Today: Bessent Signals Buybacks Could Exceed $4 Billion — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFBldUlGa1pnUUM2bjFDS3MzeFhLeTNrSXRJN0RTbnVYeXJZbHJ1eXROVTZUbV95amFvOGgxLTdEdzZ5YnZfWHZKOVIwZEI5MG5UbW0tWVpKWG9MNzhmbXl6U29fTnBDbFlCcmxmQ3lVaW00VXpoYzZ3d2pTVENBMlk2VmJ3TWs?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Why Walmart (WMT) Shares Are Getting Obliterated Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWDN1Z0xNTVc5M3hQS2xyOW5RYTU1WExMTUtGdHU5TTV2U2xxNXllaVpSeGg2WFotMmJCeS1ac2ZjN2gyM3A0dkFPYTFxczQ4bjg1NTBmb2c4Y3B4eUJEY1E5cjFRZUN3N2lsclk5ZENaenRPWHNFc1llc0JzN3lYWjc4TnJnMlJjanUzNzVTdExsQUJIYkFqVFdqNA?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Texas cities among 2026 best US real estate markets - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUlFvODdUNUplU0dieGppYjBIOXA4dHJaV2Z1S2F1QnRaZV8wVzlmZmZLNC11UkpvUUNETnBHTHdmbEVwR21WaEg5eC1oZzFFcDRhUHpuWnNWT1JMSkU3Q0ZINUpTZnZpemdyUm5saVZZc25VTXNhUjVLV2puRTZTVFhOVUY1TGQzcmZBdTBCUlBfMHZ5bHVTd0paNA?oc=5",
+        "press": "USA Today"
+      },
+      {
+        "title": "US Treasury buyback strategy falls short as debt worries persist - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYnFyd0RhbzE2c2NUX1JUUXM5Z2xzLUs1X1h1LW4wSDg5Q21KVTJCVkR2RW1vdWFpMWhzd25LS0g1eXVIZmx2NnYtcVptYXRiQ2trcWtZREhmeDRuNi1sS0xkM3gtWFNRcG9iMGJfZ29VYWhGVU1rNUlCQmVzVzFMVUd4S094Y3VudWpqdTlpeFBpZGZHMDlSaVVaYU4?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Tech stocks today: Anthropic's IPO plans come into focus, Nvidia earnings provide next test for AI trade - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOendXdVhVeHJBdXRSdG5vUnJxSmxjekF6QWtTMDJjTFRNY19tbGtndmxXNXlXZzVlNENIb2xTRlRXOWRsNXZ6X3Z0X2hodEZFMjNGbTlsRVo2bU4xeGJWRmh0U1NzZklqS1VWcEpscENRdTVZZmJna2pBbVZFVk5DWG1lRWlMTndQenBmMml6Zk5IUmNMTkpaU1djR1BLS2hSbzVkVWE0Wnp5aDBxY3BzOTZmQlNkWnc4dkRoR0tPN3YxaWI2aVEteFlkaE1HVTFwRFdlTnRfNzc0cjN4X2ZCbXg3YkpKQmhsQ1hWekxqOA?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "What the Treasury’s Buyback Surprise Says About the Bond Market - Council on Foreign Relations",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUVJ6bXhzRjhidmNacEdxUTU1dTZ1X0lCZ2VITXJsbEpnQlVMX3dBNE5VdHpTRVBvalNZLUZKZ1c3X19ySVQtQWdsOVM5TW5pdW9FejFLUC1rN1J4V1hCc0ExRnV5MndzOThHS2phSVJjM2VBSkUya0ZVbm16Q1FneHJUWEZ1a2Uxb1VFcmItYmxRMUJQUGc?oc=5",
+        "press": "Council on Foreign Relations"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq slide as bond relief evaporates, Walmart stock takes a hit - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdzdxUmhFb0Qyc1RFNWJpakw0ZFZaWV83NlRMSWRVYnhFSkktX29vUWZJd2JmU0lTa0l4RUhPaDlSOW5VSVBLNHRqdHpRU251UXhIdjIxY193QmxNNWdPVjlLM3loaHNWbWNlMUQyZEFyVVd6R2xOeUVKS2NHWExwNjdReGlBRnNhc3Rpd24xRWRIWFFTMEk0OGFvVUVNSFlMM0RpMnRrWHBJV1BYckE?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "FortuneX Acquisition Corporation Rings the Closing Bell - Nasdaq",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeTdZY3J5eEFUeGJnVm9RYXEtd1NaaDRrbHhkWHlGaDE5eHRiSkxacWxsM1B0NVg5NERTQWYtcm9ybW1DQm14Y0Faa09GbW5ESENGY3lvbHEzYXNwQmJjb3F6R255S1lBQXJWMXNXTTdmWXcta3dHU0tIZDFrLXcxbnFQR3psbWg4?oc=5",
+        "press": "Nasdaq"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "S.Korean fintech startup Afinit seeks Kosdaq IPO as True Balance fuels Indian lending business - KED Global",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aQkJkdEVsOVJTbW05ZTZpUWhUVnVzNjYyN0ExLWVMX3lPNEFVWHVNWHkwX3RqM0MtVEN5UVlibzI4YXltYlJ6MC1IbE1qRWRCQ1dSQkwzaFN2anViUVFPTkJHalJXd1RzYmU3ZGFFb205UQ?oc=5",
+        "press": "KED Global"
+      },
+      {
+        "title": "KB Securities sees Samsung profit surge and dividends lift Korea valuation - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHgtOE9sa2ttVmxiTGRINjZXdDlpUWd2VEtLTGptYlY0MEdYYUhWYnBuNVlCamQwdUxEVGIxMHRsY3A2cV91SkdzRTFNN0tTZXUxdkl2YWdJRnd4NTZTcmtJd3BxQlV3cVZVTmxBTG82c2xRd2lYcGs2NjIwc0JDUtIBlAFBVV95cUxPMmtYeUdyVXlJUk5fcDVvbmM4YWg2aGN4N0QyLXk0TG84aC1nbUgyWUl0QVBRdGRsYU1aSmJQdElUSXc2dkExTHZ1QXBxOTZMQXdpUmNoSjlQMkt3Ri1DQ3BuMjdTcFdTMnFQYjRkUll2QS11dHNRN1ZYcHFYdkROaUt5czN6bmZlMVFqVXRnZnBSTVBO?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Naver digital twin tech wins Saudi smart city standard designation - KED Global",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41bDR5US11dlZLVldZMElQVTloTnR4RERqZjAtNEQ5VW55V0lKeExxZGhqak9URHlDZk8tMlFQcmZJWXRwdXdrSzJGbXJ5Q3g3YVo0Y0UwY2d6R0NGTVQybHp4UGVhU0syaHdMZHk0dzRJUnJzbERramJR?oc=5",
+        "press": "KED Global"
+      },
+      {
+        "title": "South Korea producer prices fall for first time in 11 months on cheaper oil that month - investingLive",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWjZjZEp1Sk4zUFhjNlcyUnNkSmJKUGt2a1RXOG1BZDJIRDFGRkY4N1NCOFhDS3lRSkRNWnBPSUFIMWRKUzBFTmt4bmR2Uk81T0FPajh3MUJUMDk0ZHVJVnQtX2x0QVNyYzd0cHFXdHV6Q1NEeHJmNFRKT0VlRERzcVJ2UkxwMnJyN0JrOXpBTVMtWW15Wi1Od2RpcTVHYnJUbl8xUjlmMTJBVTIwQVU0cW9LY3l3LUgweUE?oc=5",
+        "press": "investingLive"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
