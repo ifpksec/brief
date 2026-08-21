@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "generated_at": "2026-08-21T23:32:26.021680+00:00",
+    "run_date": "20260822"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 98.84 (-0.06%)",
+        "description": "전일종가 98.90 / 변동 -0.0610"
+      },
+      {
+        "title": "미국 10년물 금리: 4.74 (+0.89%)",
+        "description": "전일종가 4.70 / 변동 +0.0420"
+      },
+      {
+        "title": "VIX 변동성지수: 15.13 (-5.50%)",
+        "description": "전일종가 16.01 / 변동 -0.8800"
+      },
+      {
+        "title": "S&P 500: 7674.37 (+0.43%)",
+        "description": "전일종가 7641.16 / 변동 +33.2100"
+      },
+      {
+        "title": "나스닥100: 29308.86 (+0.33%)",
+        "description": "전일종가 29213.16 / 변동 +95.6992"
+      },
+      {
+        "title": "다우존스: 53277.01 (+0.98%)",
+        "description": "전일종가 52759.21 / 변동 +517.8008"
+      },
+      {
+        "title": "USD/KRW: 1385.00 (-0.42%)",
+        "description": "전일종가 1390.79 / 변동 -5.7900"
+      },
+      {
+        "title": "USD/JPY: 158.94 (+0.42%)",
+        "description": "전일종가 158.28 / 변동 +0.6640"
+      },
+      {
+        "title": "코스피: 6852.58 (+5.89%)",
+        "description": "전일종가 6471.17 / 변동 +381.4102"
+      },
+      {
+        "title": "코스닥: 840.89 (+1.99%)",
+        "description": "전일종가 824.46 / 변동 +16.4300"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.534 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 2.65 | GEX +nanB$ (만기:2026-08-21)",
+        "description": "콜OI 1,054,399 / 풋OI 2,798,113 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.40 | GEX +nanB$ (만기:2026-08-21)",
+        "description": "콜OI 778,049 / 풋OI 1,085,523 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $178.34 (+0.10%)",
+        "description": "거래량 10,150,125주 (평균대비 0.5x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $769.31 (+0.39%)",
+        "description": "거래량 2,609,101주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 59.0% (118/200종목)",
+        "description": "평균 MA 대비 위치: +2.6%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 72/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market on Aug. 21, 2026: Dow, S&P 500 and Nasdaq rebound, but finish week with a loss as rising bond yields rattle",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONlpBVHRRSjBjVklRQktrdWtUMm9NWWJZa0NiWkkxMFpYaUduUGNTaUhLVjV6MTNHbWlJOTNwM3YxX1ZXc3Y4UzVUZmkxUms2VWpraTI5RkpVQTZMTzBtT3FMcF9xaEhDbFdtbXVDX3FrVmpRdm9SUU5xLU5LaEhtY1N3bWpId3lGTjVYMDRjb1NVRFVsLUFpd1BleEZTcEVvanRaN0JvY002VTlSLVRnc19UV0dodzJqdEFGLVBYNllDdGhUNXI5cUJpR3c?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Global bond yields are surging. Here’s why it matters - CNN",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MQS05OUQ1azF6RDFoeDJKRGxMRUVGSWtDa1EzMHMyQ1EwTHVxR1RvUDh3VG5iaHkteDN1WkxBWVVRbWZBWnVlazYzNUludHd2RUt3QUUyelR3eTB1VTN0eEtDaUhoYnFiQjY2RQ?oc=5",
+        "press": "CNN"
+      },
+      {
+        "title": "Dow surges 500 points Friday, but index posts back-to-back weekly losses: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TMDV4Q2s0QVVHMXFPY2w4RjUxY0Juakx6aGs4NUh0WloyV0lkUElnMkdUUEhUV1ZCNFQ3YUxfYXRTY3Z3b2JCVVJwdTZpSDFhMGplRVplZUhTNUtmbC14dnF3TlZQbzIwbU51YmliSmczdXNaZm1n0gF8QVVfeXFMTXlQWDhxZW1wNDI5b2hyTFFGLXh5M2h5YVdaanoyTmw5R0cyRkZvcG5Nd2ZMUUNGa3NMczF0dFN0cThNU1M1R0dCbFlEajhWb1BiVU14bldkdllIQm1xNDY3RWRiYjdFRVhyelctcklYUldpMkplT29kUW9kNA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Global bond yields are surging. Here’s why it matters - CNN",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MQS05OUQ1azF6RDFoeDJKRGxMRUVGSWtDa1EzMHMyQ1EwTHVxR1RvUDh3VG5iaHkteDN1WkxBWVVRbWZBWnVlazYzNUludHd2RUt3QUUyelR3eTB1VTN0eEtDaUhoYnFiQjY2RQ?oc=5",
+        "press": "CNN"
+      },
+      {
+        "title": "The Best Semiconductor Stock to Buy Isn't AMD or Qualcomm: It's Nvidia, and Our Data Proves It - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSEFNSkxyQ1FRR0VVQ1JEbWdqb2NGR09pYjFPN2c0b3NfN0lLcmlNa3pXU2tjdVJsaHF1bmdEVnRZZm1hSTBkZWo5VW9ZVHBKVTRfZWR2a2ZpME1oalluM1NHLTB5TngyeGZuRlNTZWxRLUxzY2NOUjBfQXMxVUNJQUdZVTJtUWJLaTlUaWZEQ05PNnN5ZDhyakxZeEdMMHM?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Nasdaq ends positive on broader rally; tech stocks lead weekly losses (STX:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVEhBcTNIektKellMZkdOLUEzcmx6Qkh6dm50YXlfck8zWEE1aWxyeU5JMWpwZy1HbmR2VksyZ25RcDZCVUVHaEF5MXBoamRNeVp4WkFJY0tnLTczT2lheVI5QzNRQTdZWnRoVWxKTkIteEFWS0ZweGtTc0stcjVrejRvb21zSGkxRHQtM1Yya2RFM2E2cVNET1lTYW9vX3RVOU5DV1lCOVZ2aENxcFFv?oc=5",
+        "press": "Seeking Alpha"
+      },
+      {
+        "title": "Rotary Sealing Blade Assemblies Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQX3NYQnRTRS15NTQwYnp1T1ZSS0g0TENITjZNRzBqWXVFazFEb1phYlpZc3ZRS2l5QkRWdnJmRHN1eW9lYU50QnhELTJQbnlrRlBWSlFpS2RGMVI0c1MtNE0tNlZPVDhqYm0wdTkzQUlVTkhWR0FzdE5TUENuaDBDbC1ZWWc3XzJvZC02Qw?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Stock Market on Aug. 21, 2026: Dow, S&P 500 and Nasdaq rebound, but finish week with a loss as rising bond yields rattle",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONlpBVHRRSjBjVklRQktrdWtUMm9NWWJZa0NiWkkxMFpYaUduUGNTaUhLVjV6MTNHbWlJOTNwM3YxX1ZXc3Y4UzVUZmkxUms2VWpraTI5RkpVQTZMTzBtT3FMcF9xaEhDbFdtbXVDX3FrVmpRdm9SUU5xLU5LaEhtY1N3bWpId3lGTjVYMDRjb1NVRFVsLUFpd1BleEZTcEVvanRaN0JvY002VTlSLVRnc19UV0dodzJqdEFGLVBYNllDdGhUNXI5cUJpR3c?oc=5",
+        "press": "MarketWatch"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "We Ran A Stock Scan For Earnings Growth And Semyung Electric MachineryLtd (KOSDAQ:017510) Passed With Ease - simplywall.",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQcUk1OEpCeFBYTHNMcUREOTM4d2Fac1ktd2wwbXpoNGhTQnlQckEwd2xuQkNoeXFSeVh6UGZkcjdhalppaUFVN1BFaWFyRnA3R2h3SDZHUDBVTVJlb0VheFJaek8zUTNxTHlBbVZfZi1xbmpMVGZ6S3dhQS1LQ05lTjN0MTcwV3ZiV1d1aUM0dklLTUpFTHFJRzJMSDdSa0lyWjBHbjJNZjZpdjFyb3AwVzJybHFHbzR0TkpGMTd0XzQ0ZHdWOG1pcFpsRDc4c19xcGZSXzF5TzdTWkI3OFNTMzJQMDRrSllWTm81bUtpRUhydkxSOUHSAfsBQVVfeXFMUDE2RWtJbDRBUkxQbGUtdHlqWkVwRno4TFFFODlBSk5ZalVkZDNMaXNpeHljcnBPMFFVRC1NR2NSRXlxOVc4MHZER0JJRzZOdXowbWVTUnZHSm1Rb2VPeXdkRXh2Y2YxdFpVN1FsYktHS01sTUJyNUxkTGJWQ0Zlb1ZxS0hRTVd6LU5QYnhRVzFKOWxvREpUaWc5SFlSMFdXNnh0LXRNaHZQUW5jV3AyZVFDWkI5RlhfY1lVN1ZSSlpmQjQ5VWZzTWhpZmJab3dqSWdHSnhfbXR6LWRCRS1MUGlyQXB4Q1RqWWtROHcxZ0VWQlR0YmxBSGRXb00?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Samsung, SK hynix boost shareholder returns, drive won higher and dollar supply - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd1IyWnVWdzBkanhmellsY0kxeU9lUTVKYVVTOE11akVoNnc2YnhGbGpFNnZQN29TaGF1Y1ZYX0t1RUNoM1czcXBlSzZKSG16VU5BU3ZRcnVGYnBrUEJxNXRXSklzZ2ZpS2pYbFZCdlExZ0psNW1RTmRGaUZUS1RweNIBlAFBVV95cUxPTjR3dlVFUzd0Qk10SDkyUzlORVpYamp0bDJUNFBCRk0xUkhWUFROMjJHVEh6eW5Na0haZ00ydGV3cVhiRHZRXzMwZkVWMy12MDhUbk1OTFhPV0V5YmpWc3dHX2lzMFY2NW5NTkYyYzlQdWo2X1AzY2hSZFMtZDJzRlVhTEN1RzJXRDFhX3JWVUhkbkFa?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Samsung, SK hynix boost shareholder returns, drive won higher and dollar supply - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd1IyWnVWdzBkanhmellsY0kxeU9lUTVKYVVTOE11akVoNnc2YnhGbGpFNnZQN29TaGF1Y1ZYX0t1RUNoM1czcXBlSzZKSG16VU5BU3ZRcnVGYnBrUEJxNXRXSklzZ2ZpS2pYbFZCdlExZ0psNW1RTmRGaUZUS1RweNIBlAFBVV95cUxPTjR3dlVFUzd0Qk10SDkyUzlORVpYamp0bDJUNFBCRk0xUkhWUFROMjJHVEh6eW5Na0haZ00ydGV3cVhiRHZRXzMwZkVWMy12MDhUbk1OTFhPV0V5YmpWc3dHX2lzMFY2NW5NTkYyYzlQdWo2X1AzY2hSZFMtZDJzRlVhTEN1RzJXRDFhX3JWVUhkbkFa?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
