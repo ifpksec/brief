@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "generated_at": "2026-08-22T23:31:47.799307+00:00",
+    "run_date": "20260823"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 98.80 (-0.10%)",
+        "description": "전일종가 98.90 / 변동 -0.1000"
+      },
+      {
+        "title": "미국 10년물 금리: 4.74 (+0.89%)",
+        "description": "전일종가 4.70 / 변동 +0.0420"
+      },
+      {
+        "title": "VIX 변동성지수: 15.13 (-5.50%)",
+        "description": "전일종가 16.01 / 변동 -0.8800"
+      },
+      {
+        "title": "S&P 500: 7674.37 (+0.43%)",
+        "description": "전일종가 7641.16 / 변동 +33.2100"
+      },
+      {
+        "title": "나스닥100: 29308.86 (+0.33%)",
+        "description": "전일종가 29213.16 / 변동 +95.6992"
+      },
+      {
+        "title": "다우존스: 53277.01 (+0.98%)",
+        "description": "전일종가 52759.21 / 변동 +517.8008"
+      },
+      {
+        "title": "USD/KRW: 1383.90 (-0.50%)",
+        "description": "전일종가 1390.79 / 변동 -6.8900"
+      },
+      {
+        "title": "USD/JPY: 158.94 (+0.42%)",
+        "description": "전일종가 158.28 / 변동 +0.6640"
+      },
+      {
+        "title": "코스피: 6912.95 (+0.88%)",
+        "description": "전일종가 6852.58 / 변동 +60.3701"
+      },
+      {
+        "title": "코스닥: 801.94 (-4.63%)",
+        "description": "전일종가 840.89 / 변동 -38.9500"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.534 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.05 | GEX +nanB$ (만기:2026-08-24)",
+        "description": "콜OI 91,376 / 풋OI 95,563 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.15 | GEX -0.2B$ (만기:2026-08-24)",
+        "description": "콜OI 57,900 / 풋OI 66,584 → 균형 | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $178.34 (+0.10%)",
+        "description": "거래량 10,154,000주 (평균대비 0.5x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $769.31 (+0.39%)",
+        "description": "거래량 8,309,100주 (평균대비 1.8x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 59.0% (118/200종목)",
+        "description": "평균 MA 대비 위치: +2.6%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 71/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "What Would Alan Greenspan Say About This Stock Market? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaU5obm1EbE5xVUNYa1VuaUMzOGQyZ3NOM2RrRkp5M05yMnNwNmpOZUlUc0dOQVRoVVQwbU00SHZFbHI2TDdlUlhBdlU5SDFBM2FEOUprOFl4a21PMkxrLWVidlprd3lCc0pVQkxBaG5LQXV1b01YOE9tbXZDSnROR3lqR1Z0eFV3MXdpdDl2YjRDdjY0d0tN?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Roundness Test Mandrels Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcnlEUWNERElZTzBEQUVmWUd6Z094VG43cVZ5ZURieFlaTEVGLXl1RVNjNEZuX3RLbENzb0tNRXBaY2lVMnJGamFza00xTXNuSUtOanY2R0x2dHZYTWpuRzVnWHFyb2tOUWZPMW9lbzJpWk9qdHJRRkVsVGtxal9QeHdn?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Forget AI, debt has become the main character on Wall Street as markets just now decided that it’s gotten out of control",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcFBGNUtkcEJBWjIzNHFZajJuVU90Nld0VGFoSFNudDlZUkRJXzhOZ095dXN2NHFHaUVIT0ROTktDZV9UaGJkMlRqSFl6dFo5TEZiVXdMQzlxRE5BQmN4NnpmRFFmaTJLV2hET09XR1pJemZjeUI5N2RiTEJqa3g4Qll6MkdxRG9URVFmWFlaWXhodU5OZnc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Crypto Fundamental Analysis: Regulatory Optimism Brings Momentum Back to the Market - FOREX.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUGw0bHloNmMyQmQ5Mkt0LUhkUW5nZG1JVU5wMklwMTdTejhmOVNzSjM4Y0h4aU52NjZFd1p2OE5LbmtDcHBJLTFiOUZ0Z0JUWUh6dy1XeXVpRkpYT1kyTE1vSTM4UWxqYVJtcER2dTF4blBnc2NSc3VvVU9PaVB6ZGU3ZURkcEFzSlFrWXQyTE5OQ0R1UldRbEpwZ0VPMVRyMFgzRUVycDFiaUU3Y1h3a3otUzhVSWExTFJtdVh5Zi1vVEEwbG5xb9IB1AFBVV95cUxOZm41cEFZRFItcVg0UUxCRnV4TDBrcEJ2VDFVTllEVXJiTE54U3M0QkEwQUN6alhaSVVMTW16MC1FejdHNndDSjMyemZLWFR0MjlWaUFwWnZrdklkNXF2SkRCaWs1R1NaeGFhLUxPZXh5TU5yanpuSnRzOE1HbGJ2V0JfNklSZk5iVERTY2UyQmdBUlJlM0lIU3pYM09ZVzNQanlucWlCc3M4eUJTR1Z1MUt3bWY5VGZaQktpeFNtS0U3aFBRUjZpQVphOWw4LTFGNTcyMg?oc=5",
+        "press": "FOREX.com"
+      },
+      {
+        "title": "Fall-Prevention Nutrition Product Market - Future Market Insights",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVWVPZ19fbUxpY01Fbk1Hb2JKVXpnQk9IY2w3MEZmX19MWVdsdjMxdVUxbzA1TXQyWE4zenkwLUVfTFg4N1hPUDNubWYwYVQ2cU9reE1hRkZvbVhERVRJdHZEOHFEQUlacGZCRnRnc3NKenROYUxodGdEc3B1UW9ZaGE4RDRSV2RNT3VTMWZR?oc=5",
+        "press": "Future Market Insights"
+      },
+      {
+        "title": "When he dies, Warren Buffett wants 90% of wife’s inheritance put into 1 investment. Here’s what it is, and how to get it",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOendYSDNsV1VEOFdyc0ZhbzVtdGdzQ1RpVXI2SGJaZmg5cm92eUoyRmZlSnc5UTNWcW9WMldDQnh5NjQ2OWJSZGJHSW1NZ3hXdy0wRGItcGtxT3c4ZEVqMVNOdU5UWlJFTGZ0bV8tbnd3aVd6SEZQR0JLVlh6aXhsdTMzTGdseXdHQTlreEk1OVR1bGluNElyZw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Shein, a Fast-Fashion Giant, Struggles to Grow Ahead of a Much-Delayed IPO - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Zc0RaanItQlJ2LUY3U3c4OUtmc1YyUk8xWi1mVndVRFBtWkRJV3hsVk1IVjlUVHgxQVV0M3ZZQjVERFZJbm5zYkYwWTMyekE5bmZUeFN2UXd2cEx4cGlHM2h2MG5vMG1Rako5VXBiSC1QdzlSSTNZ?oc=5",
+        "press": "The New York Times"
+      },
+      {
+        "title": "Fall-Prevention Nutrition Product Market - Future Market Insights",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVWVPZ19fbUxpY01Fbk1Hb2JKVXpnQk9IY2w3MEZmX19MWVdsdjMxdVUxbzA1TXQyWE4zenkwLUVfTFg4N1hPUDNubWYwYVQ2cU9reE1hRkZvbVhERVRJdHZEOHFEQUlacGZCRnRnc3NKenROYUxodGdEc3B1UW9ZaGE4RDRSV2RNT3VTMWZR?oc=5",
+        "press": "Future Market Insights"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Experts split as Bank of Korea weighs August rate hike - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5taG5jR3U4ZWNNblZPZzk5T2FLVDVHYVBSTm03Z1RHazM1MWNPaUVwMlFDblBqdFRyOGhLdmtvc0ZVVy1wUDdxcGJTZUJIRTN0Z0hKRWVxWVN1aTRrcXN1Q2V2SnNkYllOdjVxWGE5UmI0V1Z2MWwxckVLMmh2cknSAZMBQVVfeXFMT2NQeFY0dEZaSDVLU1A3NjFISUo2LXZ1WkUySDFxamVRVEVsX0tYNWFZU1VEdHB4WndGVkhCYzFQeG1RVlZXN0NzVzN0ZmdwRGhGWmtHaGVPbzdvTnVKaGJYalo4TUJBbDNkaE5Dc3FaaXJWMEZCS3hIU0d5XzhBejNOYTUxdWJ2eVZENUJZUHlkNjZr?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Experts split as Bank of Korea weighs August rate hike - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5taG5jR3U4ZWNNblZPZzk5T2FLVDVHYVBSTm03Z1RHazM1MWNPaUVwMlFDblBqdFRyOGhLdmtvc0ZVVy1wUDdxcGJTZUJIRTN0Z0hKRWVxWVN1aTRrcXN1Q2V2SnNkYllOdjVxWGE5UmI0V1Z2MWwxckVLMmh2cknSAZMBQVVfeXFMT2NQeFY0dEZaSDVLU1A3NjFISUo2LXZ1WkUySDFxamVRVEVsX0tYNWFZU1VEdHB4WndGVkhCYzFQeG1RVlZXN0NzVzN0ZmdwRGhGWmtHaGVPbzdvTnVKaGJYalo4TUJBbDNkaE5Dc3FaaXJWMEZCS3hIU0d5XzhBejNOYTUxdWJ2eVZENUJZUHlkNjZr?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Experts split as Bank of Korea weighs August rate hike - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5taG5jR3U4ZWNNblZPZzk5T2FLVDVHYVBSTm03Z1RHazM1MWNPaUVwMlFDblBqdFRyOGhLdmtvc0ZVVy1wUDdxcGJTZUJIRTN0Z0hKRWVxWVN1aTRrcXN1Q2V2SnNkYllOdjVxWGE5UmI0V1Z2MWwxckVLMmh2cknSAZMBQVVfeXFMT2NQeFY0dEZaSDVLU1A3NjFISUo2LXZ1WkUySDFxamVRVEVsX0tYNWFZU1VEdHB4WndGVkhCYzFQeG1RVlZXN0NzVzN0ZmdwRGhGWmtHaGVPbzdvTnVKaGJYalo4TUJBbDNkaE5Dc3FaaXJWMEZCS3hIU0d5XzhBejNOYTUxdWJ2eVZENUJZUHlkNjZr?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
