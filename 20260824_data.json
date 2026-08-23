@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "generated_at": "2026-08-23T23:31:45.267715+00:00",
+    "run_date": "20260824"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 98.87 (+0.07%)",
+        "description": "전일종가 98.80 / 변동 +0.0670"
+      },
+      {
+        "title": "미국 10년물 금리: 4.74 (+0.89%)",
+        "description": "전일종가 4.70 / 변동 +0.0420"
+      },
+      {
+        "title": "VIX 변동성지수: 15.13 (-5.50%)",
+        "description": "전일종가 16.01 / 변동 -0.8800"
+      },
+      {
+        "title": "S&P 500: 7674.37 (+0.43%)",
+        "description": "전일종가 7641.16 / 변동 +33.2100"
+      },
+      {
+        "title": "나스닥100: 29308.86 (+0.33%)",
+        "description": "전일종가 29213.16 / 변동 +95.6992"
+      },
+      {
+        "title": "다우존스: 53277.01 (+0.98%)",
+        "description": "전일종가 52759.21 / 변동 +517.8008"
+      },
+      {
+        "title": "USD/KRW: 1385.89 (-0.35%)",
+        "description": "전일종가 1390.79 / 변동 -4.9000"
+      },
+      {
+        "title": "USD/JPY: 158.97 (+0.06%)",
+        "description": "전일종가 158.88 / 변동 +0.0910"
+      },
+      {
+        "title": "코스피: 6912.95 (+0.88%)",
+        "description": "전일종가 6852.58 / 변동 +60.3701"
+      },
+      {
+        "title": "코스닥: 801.94 (-4.63%)",
+        "description": "전일종가 840.89 / 변동 -38.9500"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.534 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.05 | GEX -1.1B$ (만기:2026-08-24)",
+        "description": "콜OI 91,526 / 풋OI 96,251 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.19 | GEX -0.2B$ (만기:2026-08-24)",
+        "description": "콜OI 58,546 / 풋OI 69,770 → 균형 | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $178.34 (+0.10%)",
+        "description": "거래량 10,154,000주 (평균대비 0.5x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $769.31 (+0.39%)",
+        "description": "거래량 8,309,100주 (평균대비 1.8x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 59.0% (118/200종목)",
+        "description": "평균 MA 대비 위치: +2.6%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 66/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORkxpWW4zR0FzYXZWZTJCcGprWkZSSnNtblRIbV9CRFluYjhXZEtEaVUtanE1YVBCUTR1a1loUzU4Q0Z5M251M190bjhwV3pENHBpOVJneFhBczlEaEloVy1kSE43LWM1cGxObDU3VE5ZaGtjV1Q4cjBFZktkWVpncDEyZmt4cDItRUxwVzJETWxCSzIySHhXTnJpa1l2MXdGaXdRYVNfTFZkMWdsMEZ0OG9fci1DMmJvTUhLM0tB?oc=5",
+        "press": "The Guardian"
+      },
+      {
+        "title": "Die Handling Trays Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CQWthbnNEZlZKZFRxWlVmbmg5NVp4RTdZUEFaOEV5SFNXRFdkc2pRSDU1NkE5ZUlpaXFscmMtdmpJOFp4dG1fS0RzQlVrZnlDeXVBajFYaWR2Q3RjYk55ZHFlZVlaWnpkWUhZU1hMVGNROU5YR2VLYVJHdw?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORkxpWW4zR0FzYXZWZTJCcGprWkZSSnNtblRIbV9CRFluYjhXZEtEaVUtanE1YVBCUTR1a1loUzU4Q0Z5M251M190bjhwV3pENHBpOVJneFhBczlEaEloVy1kSE43LWM1cGxObDU3VE5ZaGtjV1Q4cjBFZktkWVpncDEyZmt4cDItRUxwVzJETWxCSzIySHhXTnJpa1l2MXdGaXdRYVNfTFZkMWdsMEZ0OG9fci1DMmJvTUhLM0tB?oc=5",
+        "press": "The Guardian"
+      },
+      {
+        "title": "UBS revamps S&P 500 target for rest of 2026 - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nejdLX0w0V1NxUDdsemlMLVZFTkhzSDdlR045cTRBcXN5am5fUGtRTGNGSmF0ZGRWTGN6Vngwc21kQXo3OUpGMFc1ZUtndWJUanpLcE9XUXpPcTljdDl2cEVNRnpHYkU?oc=5",
+        "press": "thestreet.com"
+      },
+      {
+        "title": "Stock futures slip after Dow posts back-to-back weekly declines: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03WVhEWGtPNEFpYV90cDVnTW5jcjJ4XzMwRWl6d2dEOWxVMjk5cVA0bGNzMTR6THNiN3JIMlVCbkNaZHJlRUxMaTVZUFRJcTdfZW41TWNSXzI4a3hZOFdHcEtHcEJHb0ZwQTdLUE1LVkN3RG4zUnpB0gF8QVVfeXFMTlYxNW1kWmY1QUNNU3VLbUFwalRnVmYzTEY5aVRtTElfVFpfNmFEZDZ5ejdzS1RlWHQ1Q25BX0ZkOTZaMWNpT3ZrWXBPc0R1SnIzMVkzdGxvUG9qZUVyS0tieGd0NEZubGxJa2VNbnVTaXlzRUFPMjVWN2pocQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Shein Seeks Up to $1.8 Billion in Long-Awaited Hong Kong IPO - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTEc3b2FVd3BwZ09penBuc2JtckdCQ1hFcHhDUi1CM3V4dnJWRV9JWC1JTmx2MjZiWTQtcWZnU2x2TmlHSTVmNDJTU3E5X2pIMkxfalZ4REtKSHVOMDA0NFlDUFk4WUpzU1EyV3Bmc0dqOWJ2WGlTN2lyR2c1WjdBeDI5VUV4UU8xbXNlUzd4T18xVG5HT2Nzd3N1ZFNYWHRtRVpwU2l6UTAtZU03RWlj?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Shein launches up to $1.8 billion Hong Kong IPO - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYTVYVnd5QjJpb1dJZXZhOVFLbjJfbFZRa3Y4YkpSMmJ3WjZfbE15VFB5THdHbEdSVkdsQjlGSFJwSjcyNjQ2M2U2bGNjYmdOc1hzWVA0bTdsdzlnQWo5YVNONkU5aENDQ0xvMWRyQkxxQVowZFp4TlFicnNzc1Vad1hqQ3VRdFZ6SDdkNUlFZjZzOW5XQkt1ZG12QjB3bHRERnY2UXFn?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Canada Turned Down a US Tariff Deal. Now Comes the Economic Cost - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUVFBQ3R0WHZJV2xnd0I4RVIxUjdNS2hoVGRaZUpPaW5OcFdFVEloM0JoT1RqMzZmMUxHT1RKcnA4LUxQTmgyMy1YR09zVHBGTDMzbEhjdjFpRENjYzFnOXp5N2VqMzFvclRDdl9MTTVqRnpFUnJ2c203NzUwUDBqUlY1djFqbzZucnpGZmg4aUk4VlF5cTZnaXpMMlZMYUJYdm9UNVBuZnk2MnlORlF4Vk5GelY?oc=5",
+        "press": "Bloomberg.com"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "SK Hynix Price USD, SK Hynix Price Live Charts, Market Cap & News - Bitget",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9WOTU5RDk0UWF1THd6OFhRU1BMWGJJUzVQNllzV2QxNXpCR2RKcUhiNDk0RXhGMDhkYXFIMnIxYlJ0SWo1bkp2Snl0T2Uxdw?oc=5",
+        "press": "Bitget"
+      },
+      {
+        "title": "Samsung Electronics boosts buybacks to 10–20 trillion won to narrow preferred discount - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcUhoSjhSQ1JhUHlUTGpjSXZiZWlLYS1wdVlXVVdJU19HN3E2aFhkVG5yNElsZXY5VGJYV180UURvWklsYUlieDROcWVRTnpraHhISkEyckYxbmtHRnZ0VWpEMG9zeTVncDFkR1NjNTM5MmJ4TWxGeG84WHlkNEJoU9IBlAFBVV95cUxQclItZE1XS3hXUlp0WUlRTHdaMlhOaGhLOXZVLVI0R1V1T3dROUt6YWRFbVJKZmlncDRzV2FxVUJJQkZsOVNhcTRBQ2tISGlpZ09JTHB3UWFsMEFaNmxvdzZkVGtPd0ZsSjctOXdTTXBzVlpVTzJVelE5ZkVSSG1OSDU4eldiSjgtTUF0WThyejJvakdt?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Naver ratings put small businesses under pressure - 동아일보",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwUkdJZUl3SEVSRXRpbUdkbUxLVXVvOXE5RUk1eTZmOGUwb1NDcERRYjlCT2hxcjluWElKbVM3V1o1dHpEUmdGQ0xvU091djdJb056UVFNQVdGVmlfcFJERkx6WjBXQQ?oc=5",
+        "press": "동아일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
