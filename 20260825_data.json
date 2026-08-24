@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "generated_at": "2026-08-24T23:32:18.020525+00:00",
+    "run_date": "20260825"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 98.98 (+0.19%)",
+        "description": "전일종가 98.80 / 변동 +0.1840"
+      },
+      {
+        "title": "미국 10년물 금리: 4.70 (-0.72%)",
+        "description": "전일종가 4.74 / 변동 -0.0340"
+      },
+      {
+        "title": "VIX 변동성지수: 15.85 (+4.76%)",
+        "description": "전일종가 15.13 / 변동 +0.7200"
+      },
+      {
+        "title": "S&P 500: 7652.86 (-0.28%)",
+        "description": "전일종가 7674.37 / 변동 -21.5103"
+      },
+      {
+        "title": "나스닥100: 29023.18 (-0.97%)",
+        "description": "전일종가 29308.86 / 변동 -285.6777"
+      },
+      {
+        "title": "다우존스: 53417.16 (+0.26%)",
+        "description": "전일종가 53277.01 / 변동 +140.1484"
+      },
+      {
+        "title": "USD/KRW: 1382.40 (-0.19%)",
+        "description": "전일종가 1384.98 / 변동 -2.5800"
+      },
+      {
+        "title": "USD/JPY: 159.11 (+0.13%)",
+        "description": "전일종가 158.90 / 변동 +0.2100"
+      },
+      {
+        "title": "코스피: 6912.95 (+0.88%)",
+        "description": "전일종가 6852.58 / 변동 +60.3701"
+      },
+      {
+        "title": "코스닥: 801.94 (-4.63%)",
+        "description": "전일종가 840.89 / 변동 -38.9500"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.524 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.40 | GEX +0.2B$ (만기:2026-08-24)",
+        "description": "콜OI 142,890 / 풋OI 199,579 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 2.13 | GEX -1.4B$ (만기:2026-08-24)",
+        "description": "콜OI 106,236 / 풋OI 226,300 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $173.64 (-2.64%)",
+        "description": "거래량 14,320,330주 (평균대비 0.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $767.13 (-0.28%)",
+        "description": "거래량 6,382,790주 (평균대비 1.1x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 62.0% (124/200종목)",
+        "description": "평균 MA 대비 위치: +2.7%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 73/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market Today: Nasdaq Opens Lower, Oil Drops Ahead of Bessent Iran Presser — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUTJUd0xkSF9saUkxaVB0VW5FMGg5S0dVZ2VrTGhmLTVvaVZ1V2dpX0R0RkJ1UG5rRGVZRW4ySHF1TnVjczMyVVE0TlhRb0l1SWVxMTlyNllUQ0VEdFY0aUVhSmFxM1VvbTc2MEJybzh2RHdYY3MxQW1EV3c4Z0puYUlJMHpBSzQ?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "S&P 500 falls to start the week, dragged down by a sell-off in chip stocks: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03WVhEWGtPNEFpYV90cDVnTW5jcjJ4XzMwRWl6d2dEOWxVMjk5cVA0bGNzMTR6THNiN3JIMlVCbkNaZHJlRUxMaTVZUFRJcTdfZW41TWNSXzI4a3hZOFdHcEtHcEJHb0ZwQTdLUE1LVkN3RG4zUnpB0gF8QVVfeXFMTlYxNW1kWmY1QUNNU3VLbUFwalRnVmYzTEY5aVRtTElfVFpfNmFEZDZ5ejdzS1RlWHQ1Q25BX0ZkOTZaMWNpT3ZrWXBPc0R1SnIzMVkzdGxvUG9qZUVyS0tieGd0NEZubGxJa2VNbnVTaXlzRUFPMjVWN2pocQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Tech Stocks Fall Amid Trump Trade War; Nvidia Down Before It 'Needs To Impress' With Earnings - Investor's Business Dail",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTE1IRFA3Ni1iTEhuX0t1MEFjbHpIZTA2QjJuM2Q5bG9DWThpQ1FTUHBabTJrYUstNERyRTZDVF8xcTNjRjA4UGRrOTBNTDNZXzZPa0RnVmx2RThMVm1UdEJnNTV4QkhBYWFCYm1GMmg1OG1xbkxZRzdqY3h4S2xzV0pJZ0dWUTFiZVRXeTBjT203bmVSd1RsenJCc19KWlNwNGJOVWZRY0hobFRNYnVoS28yVlNHNGNpcjBOWUc0WkMyTXRTdFVHZ19PYmpxbDA?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "How US sanctions on Iran ripple through global markets and consumers - Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdWpWaXhDOTJpUzZGdEpoaUYwTnJCNExhTjhpam83N1ktempFRk9FSG13NFltWjdQWWxKVnhsODJfXzhpODNLZHlYbGYtNm5MR2tuTHlpY2FHa1JreElnQVVmWU5CeXVOOU4yOWVpX3R4aFpiMVNwTU4wVWNoRVhQb1VPRFpKLTJGSjZfemhYX09CWnpkc1F0TGJINXl6aU9CbjNfNE10TTE5ZkhuQmhIeUJn0gG3AUFVX3lxTE1RU0FZVVJ1Y0J1bkprcmhiLS1nVVpGQVRZMDFYbm1lZkxLZkh3clhCMHZnc1E3T0JZb3paY1ZqM1RXMjdrTEk1NEdacFZHcHY5dUZiMm9oQnVRcllBR09vaXFjRm1xdnJjVzBnU1JrUk1rUHVoa3QtWXU0SzNDcE15U29RQ2czZWJuV3c4UkpacWVzY1NscTllWnhaV19DeW1oaGdrRzhwVkpjUUpicXFEUG1pYnB5NA?oc=5",
+        "press": "Al Jazeera"
+      },
+      {
+        "title": "Update: Equities Mixed Intraday as US Discloses Anti-Iran Global Sanctions Plan - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLXA5VmN5TEE2aS1kWU0yLVRxbWNCSkdqZUZrZlVFSDNXd1llNXh4dnBDY0RMT2tsQTQ3Mmh6dVl5TnJPZHBsN0ttRmx1UG5nWWduS2phc2VZNWdHeUZ6bVRsY1Y0S1hTeFZUTHc1STkzck1EYUFPRnZKTVctZktOcHBZb0FrVzlkS0VMVGh3OGN1RXl2akRSVkRBbkdvZXN2WlpR?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "'Fast Money' traders talk semiconductor stocks sinking ahead of Nvidia's Q2 report - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTENheHhCaFhnWU9iNVhUb1JiMERKYzhXU1ZuYVNzZG10ZVh0d2g3a0NVZi1FVGNhNERmR3dOeVQwU0tPNEFTMTBNWV9EbWxKS2dXRDdfTGV2VTlGQzdxa3ZTOFRkTXNSMUhYRFl3NG9UNkoxS0lnZ2R3UmpiSDEwY2JrSUJWRFJkWDFmdFJFTlczUW1ycTgxMmRBQzVkXy1adzZMUzlJTk9vR0tNQTBQdVlqREx6U2o4UVg5RTQ1NA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Asian Stocks Under Pressure After US Tech Selloff: Markets Wrap - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaGJlc2ZpZVQwTi1kN25XVEtmcU9zcnJRYlJITmd2Zm55QzN2alBmRE1tM0VGZmRtLUoxZkhmOXpMVjF5UllxTElDdDZfN3YzOUROR3RDR1BPMUxkZDNMMWs5STFEaF9QdnItandiYy10UHdZTk9sN1VTUDBVZ3hNQXJCWWdPZ0JsbXNxMUhWNGhRWHJs?oc=5",
+        "press": "Bloomberg"
+      },
+      {
+        "title": "Asian Stocks Under Pressure After US Tech Selloff: Markets Wrap - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRDAwUWY0NXdUYXgzYXlEYm81MDNqZTI5T1pPTjJvUVdXYkN6eUxyQ3pENkxTWWo2WEVrOHVjNGh2aHNjdm53djVMcHQ3bTh5LTZpM013Z2lRMlJFRFpJSDlwWUw5eWprQkpFSENBSkJDWVl5X1NHbWZXR3pTNHBQX0J2SXgwWU5DQjFERFFzaFZ4eWZjNng0QXlHZVJ2S3UtMEJFdw?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Lee Chae-won Advocates Shareholder-Friendly Kospi Investments Amid Undervaluation - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQc3A2SjR3dGQ5WkNSUFIwU2JvXzV3a0U5SXBfc21JNG94Y21aQ01kUXdGWEVzUDE5dDVzeXpKU2RaSzhTR0FOTDRMRHRzSXZXT24tLVdVV1JIbGE0UWF6dHZTcXZiVnNtZEFURFJseFpjeGIwbmdock8tWU1KS2liZGhNRjQ4ZlZQV2lINjRn?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Is Now The Time To Put KORCHIP (KOSDAQ:126730) On Your Watchlist? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMkMzX0Q4V0xXeUdIUm84VmNCVm9NLUZyWmtocWR6SmVka25vOFdueHlvNEtIVjFZV1dCR2VqbzZFZ3RTaWVGMnJ5cFJlazNLVjNKaWljTUdkcGs5OGlsQ0ExZkR5NThqUDA4QlhISWkwaUFXNzVFTWhWcmJRbVBYTF9nTXY4RU01NldRMHpEdnQwaUdReEtFQlViOUZITi1kdjJubldFd0REVU04RjlubjVuUmxsb1RIalE4MEhxb21vOVRDVUNBMlBENkrSAdIBQVVfeXFMT3Zib2g1U1FjVDJmcExUYWl3bmZSNTdkeHBfZ2RsSjBSXy1Vall0MjhXZk1HV0ZUQVhxMFBoRnpudXpkY05sWER0Ul9MTUlDYWpUUGhNWFVmc1RVczlHMkVnR3hxeVZIM2kxbGlJbU95Q1dYWUduNk5od2hTLTc1dkg2U2dncWdNR2N0aDhMVC1yZ21QSnhxWTRBY0xYakgtamt5N1BPejdWeDhZUXhKQVczd1d4dHVMVnJrVi1kcWN5bUhSWHNsTW5BQ1J6S2RHTGF3?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Public Growth Fund fuels issuer-friendly KOSDAQ CB boom, stoking overheating risks - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYXg5em1YX0ZWUUhtZXpaWEtYZ3FVVFBNUktpU2E3RXFmd2JRMWYyUmRuc2JUdDdNX0hjRTRDMk9zck1WMlU3a0lSLWtKOERwVV9KVUtRT2N6TXZjWFdWNHo0RktIVnhPQ2o3LWE4ZDNFWE5BVHk0M2d1eXJvcEtxUNIBlAFBVV95cUxOMFljOEo1V092dzRqNnBKbWZURkM3MnhBcDE4QWx3TkJPaUg4Sk1SN3YxSTFqTEc5c3hESGs3SDVxOFhqWWJyUTY4eXprZmZfZ21vQldtYm8zN2QyVElOVHRtR1RJNXdfWFZkYkhiMTFwUF9vcFpqckVPNGhkWDdzSlpIUTZBRHU0ejlNQW9tSGtfSXdT?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Samsung Electronics Shares Drop as Buybacks Missing From 110 Trillion Returns - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYjhDUHpfOFkwOHdKcF9QYWNvUTJqOFNjTXd4Q3RxY3VHRUFOZVFFUUN0OHdzVTZ5azhaSUcyZ0p0ZEVfZ1hXRF90LUxsUUQ4OURoRWo5Z1ZfT05yVmxSRERPX2tVM0FITzAzS2hOWHdDbU80WklxcjBENFRsVHVRYXJNdEFSY0tfOGcyaXZR?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Stock slide and inflation cool Korea consumer sentiment after four months - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EaWgxYjVfd1l2bjZNajJrS09wbnJFZjRrRDBZTk5DTy1TeW9DREh3Vy1fME1tYVB5U2NEcmFtMDNKYTV6OTJuTkJJLVVqQjlQZzh6U3lnM3A5NkFQdkdSSGVGekFjNm01dGNTWmhFOGlTa3FpZTQyZ0pWYUItVkXSAZMBQVVfeXFMTnBqX3d4R1VzYzVPZng0dG9LZExKZ3Y0OExJYldzbGZWbnJMZnpQWkNrdlJ4OEtCMXo2dmFwb1dDNU5tUTZYRzdCN3ZkcU40bl9OMFRUd0dDSG9SSmZnNWdrUnFNNUczaHVPR1ZremVoYW1pSEJvaTdNTXJsVUc0UE1fcHRnd05NUmdGdGRHd1lVbFhn?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
