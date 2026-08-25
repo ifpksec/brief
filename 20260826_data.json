@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "generated_at": "2026-08-25T23:32:22.041235+00:00",
+    "run_date": "20260826"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 98.90 (-0.10%)",
+        "description": "전일종가 99.00 / 변동 -0.0980"
+      },
+      {
+        "title": "미국 10년물 금리: 4.64 (-1.38%)",
+        "description": "전일종가 4.70 / 변동 -0.0650"
+      },
+      {
+        "title": "VIX 변동성지수: 15.45 (-2.52%)",
+        "description": "전일종가 15.85 / 변동 -0.4000"
+      },
+      {
+        "title": "S&P 500: 7677.28 (+0.32%)",
+        "description": "전일종가 7652.86 / 변동 +24.4199"
+      },
+      {
+        "title": "나스닥100: 29209.23 (+0.64%)",
+        "description": "전일종가 29023.18 / 변동 +186.0488"
+      },
+      {
+        "title": "다우존스: 53577.40 (+0.30%)",
+        "description": "전일종가 53417.16 / 변동 +160.2383"
+      },
+      {
+        "title": "USD/KRW: 1382.10 (+0.10%)",
+        "description": "전일종가 1380.76 / 변동 +1.3400"
+      },
+      {
+        "title": "USD/JPY: 159.24 (+0.06%)",
+        "description": "전일종가 159.14 / 변동 +0.1010"
+      },
+      {
+        "title": "코스피: 6696.96 (-3.12%)",
+        "description": "전일종가 6912.95 / 변동 -215.9902"
+      },
+      {
+        "title": "코스닥: 813.33 (+1.42%)",
+        "description": "전일종가 801.94 / 변동 +11.3900"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.508 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.48 | GEX +3.9B$ (만기:2026-08-25)",
+        "description": "콜OI 120,552 / 풋OI 178,595 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.92 | GEX +2.3B$ (만기:2026-08-25)",
+        "description": "콜OI 120,369 / 풋OI 231,304 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $180.15 (+3.75%)",
+        "description": "거래량 12,389,446주 (평균대비 0.9x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $769.62 (+0.32%)",
+        "description": "거래량 5,368,197주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 59.5% (119/200종목)",
+        "description": "평균 MA 대비 위치: +2.3%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 74/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "S&P 500 closes higher, Dow posts three-day win streak as Treasury yields retreat - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1UaXpCcGd4NmpZcE1YRkNOWGdjY2xEdF9tczBRYng2MHdQbERsNGlEbmRnaWVmRlFnN2p4akpvVGU4N3lGVUhONWtFaW1XNU1feEFLUnkzS1JjYWtQTGR1ZTNXN1J1cWkwYVhHM2I4Ymx1b0lTQnZF0gF8QVVfeXFMTWd4aXlIYjR1X09DR0FHaGZEZFVsRnpsYzF6Si1faFZkWmY5bHhuZnFLRFFMODA1OWRVbktkSkVyNzU2cjluenpWS0U5ODI4eEhpWkxjdGdRc0twU3NMVjd6SEVKajJRdFpodm9FSmZtNnF6SEZHNDd2aXFybA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock Market Today: Nasdaq Rises as Effects of Bessent's 'D-Day' Look Contained — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZEVVNkZ0Njctcnk0WUJ0SFMxME52QTNxNXVwR0RocHNDSFFaQldMSWZwekpJVEZaVW1RSGZBY3dnMk1LaWVPM2h0aENvbDZ3UXJRRGpTNERGOElQN09mR3JOdUo3cElVcFE2cnAya2ZvUXk1S0RGSVVLc2JjTkt5clFoaTBHSWc?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZX2RnSl8weEVVTzFFVlNXZGh3amRPX1p6b21sNVotYXRCSThrMGxScXRyLUQxOVd1UEFaRkRJQXBiUzh4Tjc1ejNlVmhFdjZsd01YVU13TWlqM1NyUTZuRUxmREFpRUNuT3BMWEhZVVNFRTVQZzB30gF8QVVfeXFMTjVpeU1yaHZUX0ZDVW5wNjRKcEk4TlBDYlE2Z1pwZkRxeDhwbE1DWE9JTi13a0JkLThKWHBYYzlsTUtpVXhYT3VMWENIbjRmc1h6dWFUUFUwc1hoRzdCRnZfNkNLN2UwcHNGU1A4czI5MGh0TGZIMFM1R3kxTg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock futures are little changed as traders await key inflation report, Nvidia earnings: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZX2RnSl8weEVVTzFFVlNXZGh3amRPX1p6b21sNVotYXRCSThrMGxScXRyLUQxOVd1UEFaRkRJQXBiUzh4Tjc1ejNlVmhFdjZsd01YVU13TWlqM1NyUTZuRUxmREFpRUNuT3BMWEhZVVNFRTVQZzB30gF8QVVfeXFMTjVpeU1yaHZUX0ZDVW5wNjRKcEk4TlBDYlE2Z1pwZkRxeDhwbE1DWE9JTi13a0JkLThKWHBYYzlsTUtpVXhYT3VMWENIbjRmc1h6dWFUUFUwc1hoRzdCRnZfNkNLN2UwcHNGU1A4czI5MGh0TGZIMFM1R3kxTg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Oil Futures Fall Further on Hopes for Hormuz - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWdfMGZLcWFBcUdhdTRZSnVQbmtRR1k0TGFKQWpCckpFTnlBREtHT1huekpWOXZHVjRwX01SWmxsYURQRDJzbmI0c3VQYjhaQVJlbXVhcURKOU4xQlNMekdKR3F6QTR2dEJoN3pDRHkzVkFtWTExWTZoQlc5cVhpbkdVSnY1eEx5MHBnS1RXbGd4dXNuOGF0OUE5RFkzdFB6b19xaG1oX0FEZGZPdEtEa25aYzlWdlNI?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Wall Street ends higher as tech rebounds before Nvidia results - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmhxOE10Q2J5RzR6U1lxZjRCX0FUYmdxdkl5SE5fT1N2SG5RSmMxb0xPekZ2eDNjbVhyVE54N0FIOTByZEdrMFUtSmp0U3A0R2RLVldRczJ2aW5PU2QzUzZ6Y0FYUThQU01jdEJOdzdtbndvdThwXzhUbDAzQ2lHeVIwbHE4dkZITlhxZ0JLLWVEVHdzZmcxYTdub3dWRjh1QnRNUzRhU0V3bnJZV2c?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Resin-Coated Sand Proppant Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdEM1RVhOZ0pIaEZNeGwwUzdLTTZ6NTBKUnd3YmNlTjdkU3pZWkVsNWlGR3EyR1kycHQtWUxkUUFNb1ZRaVFUNGxrUTdzUE9raVpoSkpqa3JHZC1BcnJmUFQtay1pX0tyeDBjYUw0RUtMTUUzYmlNN081aWZQY2hkdHBUZjRFQQ?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "The World’s Craziest Stock Market Has Turned Into a Fright Ride - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUHc1cktvMF9zTEkxYm0tVVhfR1doLVVORmZTZGdjanhnbEJTdEtnWEVFb3ZhT3ZTcnRrYXo1MjJDc0tMdmNwTHMyRnRFYnctZEtrVE9BWFNQRVZpOTJPZS1Gc3R2UjZzSFpkSDdOSkhZSk5pLXU2d2p3S1EwMUl2b0lCRQ?oc=5",
+        "press": "WSJ"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "The World’s Craziest Stock Market Has Turned Into a Fright Ride - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUHc1cktvMF9zTEkxYm0tVVhfR1doLVVORmZTZGdjanhnbEJTdEtnWEVFb3ZhT3ZTcnRrYXo1MjJDc0tMdmNwTHMyRnRFYnctZEtrVE9BWFNQRVZpOTJPZS1Gc3R2UjZzSFpkSDdOSkhZSk5pLXU2d2p3S1EwMUl2b0lCRQ?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Bank of Korea Weighs First Consecutive Rate Hike Since Pandemic - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUF1VEhaZGl2S2EwV3JUd0M5STZkc1hpZ01OSG5YVXBmVmdYOUhfNVBTU2pZUEhENWdRZVFuS2tUaVBzYVlnRVNiSVZTSkM5UjZPYk5oUElvU1ZZY3c0dlhyN01GQTVtY0t6Q1lDd0dNZUVFQkhNYmk1RDlKdGhDVEpiUmdkMmVTLVRGLVlR?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "SK Hynix Pact Rejected by 25 Votes - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmM1Sk9qdFhFV1JYV2Q1eVFaYzM5YXJ1cWh4bmJxaUNrcGpzQTVxWjliRXVORXRFcE1RdGtxUG05UjdkTGhGMWdNTWpYVGc2Sjk1WUdRRkNFSkU5V0ItdHR6bkZHeWZjZmxqQjV0U3B3OV9xTVpsZUVvUHpiZC1HZEl2eXBRSUta?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Bank of Korea Weighs First Consecutive Rate Hike Since Pandemic - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUF1VEhaZGl2S2EwV3JUd0M5STZkc1hpZ01OSG5YVXBmVmdYOUhfNVBTU2pZUEhENWdRZVFuS2tUaVBzYVlnRVNiSVZTSkM5UjZPYk5oUElvU1ZZY3c0dlhyN01GQTVtY0t6Q1lDd0dNZUVFQkhNYmk1RDlKdGhDVEpiUmdkMmVTLVRGLVlR?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "NVIDIA Earnings, Jackson Hole, BOK to Decide KOSPI's August Path - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY2VEYUJVZnBnb2g3SFIxRndLZDc0SHd1cTNacGVGZDFFdGs3U2lLb3ExY2t3NlBIYXJxck9KSDlFS2M4cExoTlRLRGZnSmdJbWNJaUtjZC1xNC0xUFg3aTg3VXQxYS1NQUJVLW9faGtpMlN2bDAzZ3JnMFllLThVQkpXdDd5N2hmNUJmbFp3?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
