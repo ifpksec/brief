@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "generated_at": "2026-08-26T23:31:57.437319+00:00",
+    "run_date": "20260827"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.13 (+0.22%)",
+        "description": "전일종가 98.92 / 변동 +0.2140"
+      },
+      {
+        "title": "미국 10년물 금리: 4.66 (+0.54%)",
+        "description": "전일종가 4.64 / 변동 +0.0250"
+      },
+      {
+        "title": "VIX 변동성지수: 15.21 (-1.55%)",
+        "description": "전일종가 15.45 / 변동 -0.2400"
+      },
+      {
+        "title": "S&P 500: 7675.70 (-0.02%)",
+        "description": "전일종가 7677.28 / 변동 -1.5796"
+      },
+      {
+        "title": "나스닥100: 29224.52 (+0.05%)",
+        "description": "전일종가 29209.23 / 변동 +15.2910"
+      },
+      {
+        "title": "다우존스: 53463.88 (-0.21%)",
+        "description": "전일종가 53577.40 / 변동 -113.5195"
+      },
+      {
+        "title": "USD/KRW: 1384.98 (+0.25%)",
+        "description": "전일종가 1381.49 / 변동 +3.4900"
+      },
+      {
+        "title": "USD/JPY: 159.24 (+0.01%)",
+        "description": "전일종가 159.22 / 변동 +0.0200"
+      },
+      {
+        "title": "코스피: 6742.74 (+0.68%)",
+        "description": "전일종가 6696.96 / 변동 +45.7803"
+      },
+      {
+        "title": "코스닥: 827.15 (+1.70%)",
+        "description": "전일종가 813.33 / 변동 +13.8200"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.433 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.70 | GEX -3.2B$ (만기:2026-08-26)",
+        "description": "콜OI 120,308 / 풋OI 204,326 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.20 | GEX +0.5B$ (만기:2026-08-26)",
+        "description": "콜OI 108,596 / 풋OI 130,611 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $179.18 (-0.54%)",
+        "description": "거래량 7,951,953주 (평균대비 0.6x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $769.65 (+0.00%)",
+        "description": "거래량 5,461,572주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 62.5% (125/200종목)",
+        "description": "평균 MA 대비 위치: +2.4%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 65/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Nvidia Earnings Live: Chipmaker Reports Record-Breaking Q2; NVDA Climbs Postmarket - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb0pfSDcyZUtLRG5pdTFIeGhRMzVEWWhhaVlrMmtRY1Q3djNheXpfWU5UWkRJVWlfZ0hxby1MV0NENHgtc2d1Y3BzRkV0TnVSaVdxMnM0ejJzT0hkRDM1NnZ4dTlDb2x5b3dFV2tPbDlVQVh2dmIteXZubkFpZVcyTzlzdmc?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Jensen Huang Just Delivered Great News to Nvidia Shareholders - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObElseEhJRGlBa0YzaWdmMDFnWV9zR3NjQlBSRzh0ZkdYdkhJSkhSM1plNzJOdVFNb2M4WWpSRlRZVXVCX3pwQ1RCWDJUSU9pbHVvcHZxLS0zSzUyblVhT3dHWWJYRnQzaTF3VEp3UFlnZWpJMkJyanJ2dUprd3R0LVVVSDRiTmFlcktwbzJhQXRpWnpjeldIZ1QzSVAzck0?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock futures rise as Nvidia shares jump 4% after earnings: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81OFdpS2tFUVh1NFJWZVBOdHV1VDZINjFmVmZxUnF2TVFRVnVDV1VXYnN1OS0xTURpMTl6S1NvMllsWVlHSVpCUU4yRmJZcDYtNUVVV1p2U2ZXOEpuSHlkM3lkTGNtWjBSdlVtUUZxLW9PbUZpbHBF0gF8QVVfeXFMTVE4T2JoblkzUGJXTFEyZjFHYk5adlZyYmUzcXhMRDZUSUJMU1FUNDRsT2RPNzc2MUcxT2V5M3RoeUgxS2xGRi1oWXdsLVkxOWYyRUZiSVdjNnVLbktoYWtoUmRBWGpZTW5PUnMyYUZLamt2aHlLSmtmQmZPXw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "America will regret Scott Bessent’s bond-market misadventures - The Economist",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmlibExMNGMxdzlpdTdJSFNyd0lOX0c0c3BXZE54UXMxaHBMdFhxMDczaUZLazJNS3IybU1Sd3Examt6dzBIZDM5dU1wUW5tS1Q5d2dJTGdHbXo3bWhSaTJyN1ZWZ2duaTZndkZNa3c1ZkJkY1QwOTJ1NjBoY0tLdlFTY1djWGV4amdlbmdKQjFqc3gtcVc0MGdjTnFodHM1RXZHSm80dWQ?oc=5",
+        "press": "The Economist"
+      },
+      {
+        "title": "1 Wall Street Analyst Just Upgraded AMD Stock and Estimates 30% Upside. Here's Why He's Bullish on This Semiconductor St",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRW1YOVNYZkxmWklwaWY3UEl4ZEVuRUMtRDc4aEYxdEtDUVRFZGU4TE1sZFNGYkxBRFl3NjRKX2FPT0NqYnprZW02WnhVaGtaZXh4VGRpRDloSVRMVll0SEFVbWhQNER5SFZnd1dIaFFDZWNUMmJ6Y1FldndXbVJ3VV9iemxDdHotc3pScWlR?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "World Diphenylguanidine Retarders - Market Analysis, Forecast, Size, Trends and Insights - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOFVXSkpFc2RQVHF2LTFrNFJKb0JIZEV5bE5pMW5YY1ZBM2ZkNjdJMUdkUXZyQUxVd2s5TGZHNUdtV20yMUE1S1FKVGVjU0Vtbm5XSTQwUlQyTU9Ta1RfM09lVjBCRUhGN3hrQ1YwQWoxalowNktGanZXeVRIZEswdjdVSFppY2FqcjlrQ2VPcGNWdWZVUlAzWHJ6U1B3bm5STjNRTTRONEJjN0VwcDVaVjdTbzVvYzhWNENF?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Why turmoil in the bond market is boosting gold and Bitcoin - 13wham.com",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUG1aaDUwRTlQSE1PdHpfSGFCdUJITFBrWWdiQVN1NFRPc2JtMGxMLUZiVEJoTEx5TkJuSEtBaklzQ3ptbzE0VDE0SW8yRGx3cUxtQ21SZFVtZEE0S1IxRjBReFF2N19TYzJsRGdQOTNBM0g4Mmd4bURYTjA5Y2VsOGhzMHJPSngxalluTEE2bUFVN3hQQUZ2NDdIOXo?oc=5",
+        "press": "13wham.com"
+      },
+      {
+        "title": "Stock Market Today: Dow, Nasdaq Fall; S&P 500 Flat; Nvidia, Marvell, Micron, Intuit, More Movers; PCE Inflation Report -",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1pUGpOLXVPTUlxRHo0QXlIWGxxYWJuOVhQRm50VVlNSnl2QVc3RFRLdWVYZFRKdjNsVnY1R3ZIdWNCcTFwZkZtR01jZWl0S1pWcmprMm5nbFBmSGRKdWJIYV9iMDZxM210LVdiZ0QzOEt1UmpyYWc?oc=5",
+        "press": "Barron's"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Here's Why Cp SystemLtd (KOSDAQ:413630) Has Caught The Eye Of Investors - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVnFiZDNaa1prb2tHT1AweGlzRVhjc29iazR4OTlKY2dtWDBzM3NvU2N3TllUY3pLU3pmQUhpdTUwN3JqZ0VPdjJhTDVueDF1SmlrbXFweml6YjItaUU4YVM4emc3aHJoZFVoZnVNc3dYNTBLNWFmaThyLS1peFgzN1MzalREQVprMldKQi04VjB2ZmdNLXNCRnZmcjMzZDlSWlZoMnRrc1NMamRVT2VrS2xqSGt5cWcyLVVIYXVfd2kyeUcwQ2l0Vk5BZEN5SUdzTzJ1N0RoZk5Ed9IB3wFBVV95cUxNODdrd2NSOGViaE1DN2c0UXYwZXlHM3NwcnZtTFFvUDZBSkxQa1ZqS1pvVktlRTlvanFWVWJwQllRWWxPZmE3Y0Y2cVY4Y1hxbEtqd3ZDQXBXdU50SkdWaWJiakpaVUZEa0xmRmRLWkI4YWtoZnRkZklaSjg1bUhpMkhSQVFOamZjU2dYN0pZZUwzeWtTZnpISVFwOU1CbWN0QWR6b0Rfd3U1RHFsRUpReDlkYzdLbmpSeU1rQXI5aDdFcXJMQ3ZUNnM3RDBvRnpUZjZZbEJFa1FjanZPd1V3?oc=5",
+        "press": "simplywall.st"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
