@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "generated_at": "2026-08-27T23:32:03.466316+00:00",
+    "run_date": "20260828"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.13 (-0.04%)",
+        "description": "전일종가 99.17 / 변동 -0.0410"
+      },
+      {
+        "title": "미국 10년물 금리: 4.67 (+0.17%)",
+        "description": "전일종가 4.66 / 변동 +0.0080"
+      },
+      {
+        "title": "VIX 변동성지수: 14.51 (-4.60%)",
+        "description": "전일종가 15.21 / 변동 -0.7000"
+      },
+      {
+        "title": "S&P 500: 7730.99 (+0.72%)",
+        "description": "전일종가 7675.70 / 변동 +55.2900"
+      },
+      {
+        "title": "나스닥100: 29641.56 (+1.43%)",
+        "description": "전일종가 29224.52 / 변동 +417.0410"
+      },
+      {
+        "title": "다우존스: 53569.44 (+0.20%)",
+        "description": "전일종가 53463.88 / 변동 +105.5625"
+      },
+      {
+        "title": "USD/KRW: 1381.44 (-0.15%)",
+        "description": "전일종가 1383.49 / 변동 -2.0500"
+      },
+      {
+        "title": "USD/JPY: 159.37 (+0.07%)",
+        "description": "전일종가 159.26 / 변동 +0.1100"
+      },
+      {
+        "title": "코스피: 6808.21 (+0.97%)",
+        "description": "전일종가 6742.74 / 변동 +65.4697"
+      },
+      {
+        "title": "코스닥: 826.87 (-0.03%)",
+        "description": "전일종가 827.15 / 변동 -0.2800"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.458 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.26 | GEX +0.6B$ (만기:2026-08-27)",
+        "description": "콜OI 123,323 / 풋OI 155,588 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.41 | GEX +1.0B$ (만기:2026-08-27)",
+        "description": "콜OI 108,505 / 풋OI 152,834 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $182.14 (+1.65%)",
+        "description": "거래량 10,141,626주 (평균대비 0.9x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $774.75 (+0.66%)",
+        "description": "거래량 5,190,006주 (평균대비 0.8x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 58.0% (116/200종목)",
+        "description": "평균 MA 대비 위치: +1.9%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 71/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market Today: Nasdaq Jumps, Nvidia Stock Rises as Bullish Forecast Lifts Market Spirits - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdm9wcnRGcW1mTkt4M3VVRER6UXI2VUc4Mi1CbnV0X3pkdWw1UUVDdzd2UkFwV1o4UFNmUDEwVDZaeTV6RXBBeEZMV2tXX2xQZC1vRGktcl94c1pOZ1EzNk5zWmtFaGhSNUs3Y3lVcnhZdUEyVjVBR2JCT1B2MDhvNF9YM0lOWVU?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Nervous About the Stock Market? This Is Warren Buffett's Best Advice. - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWFR4d1dla1BuSXRKdVc0TkMtY29HRTlkb2JyLU5kWnNCNzNTbl84b2V1ajdkTHRUajM2ZFRrZjAtd2R2enR0RzJpUHRaYlFfWFVvMVFVaDFuaEV0eXZZM0xpaHZ6bkhvTUFTNEtWTWN6dnNzYVpNdDh2elJqRkVPUDhmT0FncC1MeXlocHA2cHI0d2NjNkZKTVdmNFRSQ016ZXNZ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Friday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPakVQOTNsV2tmSGx3QUt4SUZlTkJNR2pPbUMyX1Nxb01jY25UNTJhbWhqLVppemZqNHppU043aTN1MW92TTlmdVJQNEhYTU5xbnRMUzdVU1dYTG9GUl9wZHpzWlRyd19IY0pLUnB6SUd0a0NsSlhhTldiZUJaRzBVUU5ydDg1QkQtQi1TOGZBZzloYTdxckxJTGNn?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjJCallHZWxCYmRTeHlaRDBoSC1GaDE3Ym53M25LX1lhTUROUHNzclh2ZTlyUm9HVFNwWVBnZDZrTEZfWFRqTkJQRWROSlhKbGJUSzNPM1o3SG9UbFBzaUwwWm1YNWN0dkNFYzhQV2VKOVdTWWN3ODRfenIyRHpKMFlNMFdoVUhYMi1KVE9mZkxCcmQ2SnpsTDAydmx0NWs5QTg5RFRfWmLSAa4BQVVfeXFMT1p2ejEzMkVDblNMdDJibE8wVGhoQjJLUzdhSE9MZ3haZ0JwOV9zOGt5cXlYRlpkRDlBbDlZNnhCbmFOejRoUkp0QXdYQnRESTZ0YlJJZ3diSlU2Q1VGbER6blFyNW43aXdqUEI2TTR2MnNKaGNTRVVUNVR3Z1NhUE1wUTVVQ2QyWU45Yk41akdkMm9rN0lubzBjR0ZmeXc5TGZ2SjBPZVpIUTlDVE9R?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "KLAC vs. SNDK: Which Semiconductor Stock is a Better Buy Now? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdEswOHFBMDlBdUJTSm1OUmJKeXJHak5DMjFXeG9KbHFMUzRzczlTUG1TUGR3aENaVWxTbHU1aW5VWVZ0eVFEZllIcFJjUm52MGVHVVZrM0FFR1JJbTdNcm4wcG9UMEJhYk9lekhVNVM3R1RXTXJMU3RHdkJUNGdjQWxJVFF5RjBxQWxvQmFPUmg4cjNoY19Nam9vU19Rdw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Tech Stocks Rally After Nvidia’s Blockbuster Outlook - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQY2dmNFM5dkUzMVZiaU1sc05NcWRiMjZvbWV3aE1qcFRzM2s3QzJXX2RhMWE3a3hlV1BaaHVKbE9keXQwa2c2WERzdE5RQy1QR2FZaV92RkJMdlBYQ015Zy1qODhoU0lvOVVuWnJjVlRzSTYwUTVfNWFkTjF0V3hRSVJPbXBjaDdSN3Z2dzFlRC1ISGZNajZmbWNFOFZKZk1qQzRrcG5JUXNYZw?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Sales tax growth, drought and labor shortages shape SD's budget outlook, economic advisers say - South Dakota Searchligh",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOanVYc0hEQTVSR3AxXzRObzE5TjVBN1FZenpvb1piZVZMSEhEanQxbEpSa3ZzR0QyNmtwRHVGZDFZV2hPd1djOUp4TFdsY3lidDhZdVBJUE9ubnAwTnN2ZlBDU0JCTVZMaFpyS1V2N1E0Ym5iZ0RQb2lOUGRkMnJVcDg1ZUxUVlBCUmlGVTJBcVlVQnNkSDJIYUNpYzVvU25JUl9HS0RmM1lEa1BXWTN0TFdIRGExXzFfclMyRlJiU19aTmtaMzZPUzVKNTZILXAzU0l3NzQ2YXJQMGs?oc=5",
+        "press": "South Dakota Searchlight"
+      },
+      {
+        "title": "Plastic Snap Collar Systems Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaWdVWGpaa01BMzVUSERJSEd5MGRpWG5ocHFaMWcxS3g3NzRpX3JGTGJSV1dOYXpFbHlwSXVTdGQzLUxXZjVZTWM4akdTc2g0QURtZHhLelJCRlhMM0ZPZVhCMHFDblBoRWlRWV83ei1QU2tla05BM3VUdG1LRi13T0lwV0x5d0E?oc=5",
+        "press": "IndexBox"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "South Korean Won: Rate hikes and undervaluation support KRW – BNY - FXStreet",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaXp6emNpZy0yVnpxUnl3dk41UGdSenVSZjNVc0RfWnlrTk1OQkp2OW5HaGFCR2I3SzJ6bDJDX1d1V25DbEp3ZmF6VjY2MkdJMjRBMmJ1UGI2bHpfVGlLQ1dHMTR4aTZuNV9tellLcWZ0c2k4aWN0ZkhuempxM3czWnpCUUlfTUNubjBRVWRCWlplZ05WTEwwV1BYd1o0YkY5UUc4LXVIa0k?oc=5",
+        "press": "FXStreet"
+      },
+      {
+        "title": "Bank of Korea Hikes Rates as Government Expands Budget - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVFBHVjdQNmJnMEVMVmd5ZHctQ3pobTZ4NkN6Vkd6bDJBSjl6XzVCSVdscmpmMmIwT282djQ1ZHl1eDVRWS1wczVsVEZBOWhhcXQxdkIyRUJVUmw0MHN0eTkyWVNPOVZtMFNlZkxpOFI0NlYzX2NQMjhXTHVURnNtSkVUZm9BVlZFS1VhdkZ3?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "SK hynix lags rivals in NAND migration as 176-layer output dominates - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1iYngzMnp0ZnBJRUpPc2FMSGNnaHZDeFlRYjZveWZXeEFISlA4UXBlb0dTajc1Tm4xRGYweU1nNHhHNlB3U1daWU5BLWlibkhIc3gtVHI1aFdfRmNybFpKN3Z4OHQ3RFhKTDhmZWduUHdJYXUzbS01QWFB0gGOAUFVX3lxTFBLZTZfSktLWGhZOUQyNVJBUzJuYzBPMWpyOVhFVUVMWi1LT01rcUxOelNMdGZoamhSRTZRbTFlZ3VGaWhNdlp6dDBiOF96X016SnlDZUYzcHdIWDMtUUUwN1V5YWotclFnQS1tY1piVGllN2NxdzFDN0htUzRzR0ZXbnVYeEY0WHJrTzBtUkE?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Bank of Korea Hikes Rates as Government Expands Budget - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVFBHVjdQNmJnMEVMVmd5ZHctQ3pobTZ4NkN6Vkd6bDJBSjl6XzVCSVdscmpmMmIwT282djQ1ZHl1eDVRWS1wczVsVEZBOWhhcXQxdkIyRUJVUmw0MHN0eTkyWVNPOVZtMFNlZkxpOFI0NlYzX2NQMjhXTHVURnNtSkVUZm9BVlZFS1VhdkZ3?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
