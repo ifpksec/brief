@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "generated_at": "2026-08-29T23:32:02.608713+00:00",
+    "run_date": "20260830"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.70 (+0.54%)",
+        "description": "전일종가 99.16 / 변동 +0.5400"
+      },
+      {
+        "title": "미국 10년물 금리: 4.72 (+1.03%)",
+        "description": "전일종가 4.67 / 변동 +0.0480"
+      },
+      {
+        "title": "VIX 변동성지수: 14.43 (-0.55%)",
+        "description": "전일종가 14.51 / 변동 -0.0800"
+      },
+      {
+        "title": "S&P 500: 7711.76 (-0.25%)",
+        "description": "전일종가 7730.99 / 변동 -19.2305"
+      },
+      {
+        "title": "나스닥100: 29433.43 (-0.70%)",
+        "description": "전일종가 29641.56 / 변동 -208.1309"
+      },
+      {
+        "title": "다우존스: 53559.99 (-0.02%)",
+        "description": "전일종가 53569.44 / 변동 -9.4531"
+      },
+      {
+        "title": "USD/KRW: 1371.50 (-0.65%)",
+        "description": "전일종가 1380.45 / 변동 -8.9500"
+      },
+      {
+        "title": "USD/JPY: 160.04 (+0.49%)",
+        "description": "전일종가 159.26 / 변동 +0.7830"
+      },
+      {
+        "title": "코스피: 6788.88 (-1.79%)",
+        "description": "전일종가 6912.37 / 변동 -123.4902"
+      },
+      {
+        "title": "코스닥: 838.41 (+0.09%)",
+        "description": "전일종가 837.65 / 변동 +0.7599"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.534 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 2.13 | GEX -0.2B$ (만기:2026-08-31)",
+        "description": "콜OI 346,120 / 풋OI 737,524 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 0.76 | GEX +0.6B$ (만기:2026-08-31)",
+        "description": "콜OI 381,173 / 풋OI 288,542 → 콜 우세(상방기대) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $180.20 (-1.07%)",
+        "description": "거래량 11,267,000주 (평균대비 1.0x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $773.00 (-0.23%)",
+        "description": "거래량 5,127,200주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 55.5% (111/200종목)",
+        "description": "평균 MA 대비 위치: +1.6%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 68/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "NXP Semiconductors (NXPI) Stock Still Looks Cheap On Cash Flow While Earnings Lag - Yahoo Finance UK",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR29wNzdKREZsdmExY3VtRjhVY2N2N2cyTWVmZVV3MEgxalp4WEFuRVVEZ2pzcG40UDlXS0xzZTBWWG5rYXRjVkNfdVpKQlQxNnZuRVFKSHlZaHJWc29YZ2RsdlR0eG1iTGY5OUZ1dEFlRVJ0SklCc19Dam9xRE1JSlZIclhxc1JRVG56ZA?oc=5",
+        "press": "Yahoo Finance UK"
+      },
+      {
+        "title": "Push-Fit Syringe Adapters Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVWpOMTBFMHFJYkRUWlZuZzAySUdOVnI3M2tINFNMNVk2Z2JTb0NGejUtelE0RTlIeDZXYm5lSkdPVjFIZ1hkTXpqcUctX2FpODNMWkQybE1xMk85dzJXZk1qY1ptelN5VmpWNFhXWEJlT3cweFhDbVZwaUJQd3lPUzIwYlA?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Fluoropolymer-Coated Non-Stick Fabrics Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSW9vMjRoamZ6Mmx6TUFkeUQ0MHpHTTBYLWhLa3g4SVJkVmFYSldjeGlUbDRqZDdKdXBTaXNpQjNJRkRFM1dIQXM2UEFpWmw3R3NTMDQyc3pxR0I4TlZZbndGMG96YzdyNFFRcDdMNE1nSHZMWmN0a1JMUjlJMDBHTExnZ084ZktyMTdsU3lLSnVaallEVEE?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "I asked ChatGPT if the S&P 500 will crash 50% due to the AI bubble and it said… - Yahoo Finance UK",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3c3V5Rm5lZ3ZGS0o3LVFDVlZjM29DQ0xzMl9LeEJhTTlwd3hTZjdnc0N1Y3duNUdMVWxsYmx3YjNRclZHaENrMWgzTDBpbm1IemhISE5GN0Jrd1BETXVVdmVSdUg0VHVrd2l2NjhZeGZpVkRBeFdrb3NOcEhjaEE?oc=5",
+        "press": "Yahoo Finance UK"
+      },
+      {
+        "title": "(QASH) Strategic Market Analysis (QASH:CA) - Stock Traders Daily",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMnZ1dW53U0tPT01TQnNTT2YxMUdFa3d3c21YMERsUWwyVm92V0gyM2lTdHh3R3N2NW5DSWw3aHl1ME5UWGlyeVI0OVBrUXI1TkNRVVhoSDloc2hPMG5LM2Q0TzhMd2htV0d0Qm4xVk1pTFVPZ3ZmTzV2ZEFhUWxXT0xoaGR1cF9rWW8yaWhnd3g4UQ?oc=5",
+        "press": "Stock Traders Daily"
+      },
+      {
+        "title": "NIO's Next Earnings Report on September 1 Could Send the Stock Soaring. Here's Why. - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS3c1RWtSUlcxbmM2Y0x4MkdaZmhqSm03S0NqYk9sUVJlSS14dW9FZDhianZHSm12dTlWNm5qVEhwV1NydmZtOWJ3eXZ2Z2cwYzl1aGwwWGZOZl9xcjdmc0Zjb2tzRmoyN1B6OWRoN0gxZnZmb2dEeEZZTjdHcmJLN1VVcVp5ZWJmR01lTjNKNm1MMlNXc2lDXzZDeUM0cFNKVVE?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "The Fed confronts a powerful new economic force - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcTd5UUJ2NXhhSmlMMXQ4c2tPdk5TNW5nTURrdWVCaDV6SlJpWWt2LUNSeDJpT1Q3OEtjdU1xV2ZOZnRRemtZRElucXNDdXQ5bVVQNFNkOUZwOTBEMC1hS1NSTFotQW9XaTFpY0k5QUtETkZndUpscDQwbm1qR2lYMFJyOU1oVzdfUFVuV05NaFBqczdIbHlWVUd6dndaeFg4OGFKampkWDBzSTJsejEzVkJYY2NzaXM?oc=5",
+        "press": "The Washington Post"
+      },
+      {
+        "title": "Warsh raises stakes for Fed's next meeting, and other takeaways from Jackson Hole conference - PBS",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQU0VoNFJqVUpidzB5X3h6WXlxcDhZdjlpWEt4UXFsMWlyTjNjVS03VjgtRjZoLVg1UWY5Xy01alNUdVZNN1ZmejlnaVZaMElfSkVyenlwcldkWnlXeW9UZXpLWEZ1M3cyZzd1SDBObEZ4Wm1oVXZqLTVkcXRlTzd3QU1HZ2dRVXBKWExTLXVNeGY0aktpSUhzOE5DU2VSbTQ4N0pYQ0o5VGhEdlZUZ3lvYlBUOGY4bU9HQ084aVd0SGR0Yy0wNUHSAcsBQVVfeXFMTzREZzM3d0IyUDgwNTB1ZW1xY0tWaGQ1QjZocmlnckU0NFE2bTgtMmRUalFGeVRUeEJad05mTllhZVVGTjVWcjRSOVFpV2xqLXViM196X0xOTkhETzNhZXRpc1BzTVBlUUlJNVVrYldxQ05EUXdpNTlLRWNFZ2d1cUNWMGFGWHdia2xpdmxRX2ljbnlJNG5XWndQamt5ZmUxaGlpZGQ1ckpwTEF1TE0wYTlGMGxsS2pGTkJPZzY4RzJjbnU4SjBYckIzNkk?oc=5",
+        "press": "PBS"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "KOSPI Stalls Below 7,000 as Fed Chair Warsh Turns Hawkish - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUHBMTWZTSlpfQlphZDhvb3kxVEQyRDQ1U2ZLeHVmd3JOaWtzenpWYkpLWERUeUFjWHJyajItNG45Q01qWTBHVW5tQjVPRi00QnpNd0h1ZG1FYkxYUENGSDk2QzZ6ZlN6MXFva1BmcHNrNUtScnI2V1pPa0R2UGgwZFo5a3BvMmtGc1ZkSE1RR0JfNndDaWRQSjBzWUpFenc?oc=5",
+        "press": "Seoul Economic Daily"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
