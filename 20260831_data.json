@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "generated_at": "2026-08-30T23:32:05.829704+00:00",
+    "run_date": "20260831"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.66 (-0.04%)",
+        "description": "전일종가 99.70 / 변동 -0.0390"
+      },
+      {
+        "title": "미국 10년물 금리: 4.72 (+1.03%)",
+        "description": "전일종가 4.67 / 변동 +0.0480"
+      },
+      {
+        "title": "VIX 변동성지수: 14.43 (-0.55%)",
+        "description": "전일종가 14.51 / 변동 -0.0800"
+      },
+      {
+        "title": "S&P 500: 7711.76 (-0.25%)",
+        "description": "전일종가 7730.99 / 변동 -19.2305"
+      },
+      {
+        "title": "나스닥100: 29433.43 (-0.70%)",
+        "description": "전일종가 29641.56 / 변동 -208.1309"
+      },
+      {
+        "title": "다우존스: 53559.99 (-0.02%)",
+        "description": "전일종가 53569.44 / 변동 -9.4531"
+      },
+      {
+        "title": "USD/KRW: 1377.87 (-0.19%)",
+        "description": "전일종가 1380.45 / 변동 -2.5800"
+      },
+      {
+        "title": "USD/JPY: 160.13 (+0.51%)",
+        "description": "전일종가 159.32 / 변동 +0.8130"
+      },
+      {
+        "title": "코스피: 6788.88 (-1.79%)",
+        "description": "전일종가 6912.37 / 변동 -123.4902"
+      },
+      {
+        "title": "코스닥: 838.41 (+0.09%)",
+        "description": "전일종가 837.65 / 변동 +0.7599"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.534 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 2.13 | GEX -0.3B$ (만기:2026-08-31)",
+        "description": "콜OI 346,120 / 풋OI 737,524 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 0.76 | GEX +0.6B$ (만기:2026-08-31)",
+        "description": "콜OI 381,173 / 풋OI 288,542 → 콜 우세(상방기대) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $180.20 (-1.07%)",
+        "description": "거래량 11,267,000주 (평균대비 1.0x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $773.00 (-0.23%)",
+        "description": "거래량 5,127,200주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 55.5% (111/200종목)",
+        "description": "평균 MA 대비 위치: +1.6%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 69/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock futures are little changed as traders get set to wrap up a winning month: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SWllSeGg2NWlpUTZ4M1JrMEFTemY5YlJ0N0ZsTGF1Y1RzN241VFkwR2dYS3AxdU5BcklvSzNRZGhlUldjUGFHOV9ROTh4RzhWbG9Uak5aRnV2WXpfbjljLTRvTU1iNEtCcmdrVkI3THdmMlRCX25J0gF8QVVfeXFMT3Yxanh5VVFSd1UyVTdkTG54azlvMjNOak5TTVZ2a2oybm1PZmh3SXEtMTQtSXllamk3Q3o5azJvemdfYzRHMndUclZEdWxadGZiOHNhNjJWamJVcHpzOXRvemtiOHZiLXZoeVRvRnJGT19XQXpEU1R3WjdvZA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Why San Francisco Is America's Most Expensive Rental Market - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWloydFNONnVCZDRoS0lVSmN3TE51bGluUUZDYWR6ZGhpd3dSS296ZUk1OWp5SlJITGxaMVNoZDNGdFY3NEk5ZkFrYnlTVkFWeDdFRUFkNTBmMXRzYjdBaGREVXRDc0J6ODNva01nYXlxcTAyZTRiZnppT0dmUVpvZVdKQjlhUEpZUzhPdUUyZUlJa1ZfbW42TGU0cXZxeVlFRnZ1MG1KTWt1aXlpS1U5OWJIMDd1Nmw3QTJabw?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Cathie Wood buys $53 million of popular semiconductor stock - Yahoo Finance Singapore",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSWp0X0t5Q0lNUWtkeDVuV2N4dzk4c1ZjS3BmTXNVMWRPcFZ1Q0tGUno1UWNod3ZmdGY0RVg5bEE4ZnZvREM4M2VhY1VVMFlwaUtXc01MZzVrTllaWDhlYVpjNVd0NHpVdElNbU10RXlIdmhRUGVUaHRyeVRTM01xN2xR?oc=5",
+        "press": "Yahoo Finance Singapore"
+      },
+      {
+        "title": "Female Luer Adapters Sterile Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbWw3U2I4cFZ3VnViTWxLalkzTzBWdW1VQkJOQVVtZmI2MTBpaG1xb0dtSHI2d3R3Nk55RHlCZWxMZjNuMzZySmw1allhM1VuQzdNNnpxbFRCcURiRm9uRWRmWHYtOVZzR0s0QUZ0VHBSZV92YzNXUERvTkZnUTdFWEYyRi1QZ241?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Biscuit Improver Blends Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeUpfbVNsVkJVZGFucXFlRExTeEJ5eUJLUWJmY1hEd1hqM1htYkU0VWxtTHBFeWxqRHhZb1hsUTg1eEFNWElDVDdscUdESEpabkZySHFCSzk2Q0dBdGVTTFJDSnltMFRiOUFEaXdhejZGblotNWRXcG9TYkFtS2VwVmt3?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Oil Rises on Iran Tensions, US Stock Futures Dip: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNHp5RFVLYlloVHZYSUlJanNQYlFKTFYtQXBINUx0ckd2SWthVldmYmo4dWNfTGVSUEMtdzNuYjBzOXBlM2h6YktUSndONkdpT1hmelE4VFBBVkRfRkM0X01JMlVTVHliOXdTQnpHX2JhS2Y5bWZFOUVhU2hJNjRpNnFwOHVYNF83NjlsR3gybldjQjJP?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Stock futures are little changed as traders get set to wrap up a winning month: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SWllSeGg2NWlpUTZ4M1JrMEFTemY5YlJ0N0ZsTGF1Y1RzN241VFkwR2dYS3AxdU5BcklvSzNRZGhlUldjUGFHOV9ROTh4RzhWbG9Uak5aRnV2WXpfbjljLTRvTU1iNEtCcmdrVkI3THdmMlRCX25J0gF8QVVfeXFMT3Yxanh5VVFSd1UyVTdkTG54azlvMjNOak5TTVZ2a2oybm1PZmh3SXEtMTQtSXllamk3Q3o5azJvemdfYzRHMndUclZEdWxadGZiOHNhNjJWamJVcHpzOXRvemtiOHZiLXZoeVRvRnJGT19XQXpEU1R3WjdvZA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Spinal Osteosynthesis Units Market Analysis Highlights Growth To $6.28 Billion By 2030 At 7% CAGR - The National Law Rev",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObTBXWGNzYnY5M3BOSFF2aUhBeERheVJzRmtWTHJqMVl6UnVJaUFJUVBHZmhzV3pYRUdkNTlDd1RfOUUxbV9qUnE2TTFlUnRGeTM0YnhQMHZkdTgxYkxXOVBhbG5KUVljbWZ6dlh4Mm9KLXZHbnBIaWJjQzMzR3RjY2ROU2VrSHZWLVVJbVQycXNxTVZWVlJSblN3SGFlQVlEemRoNndQSW02Nm9EYmRWSjZnNA?oc=5",
+        "press": "The National Law Review"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "KOSPI Extremely Undervalued: Food and Beverage Stocks Promising - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNDF3UVAwVGNoOWlGeWZCS2loWW0zSGpiM3hOQlcyd1FpTEhkUm5CMklNYWF2NGlzTlJEUTFvcWZCb2dwNjlvTDRzUlVlVjR0WlFINUk0YkN2V1hxeFF6a0tiYWZSbHBtdV9ic0h1ZnF5R1VtcklpaWFHZTUxb3JVaDYxLUxtLS1YXzVDRG9n?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Do JINSUNG T.E.C's (KOSDAQ:036890) Earnings Warrant Your Attention? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTE9RaWI5QktfQnZIbE80Ti1PbXlXRGhRTFN0M0t4aEtSQVlkZ19zMXB4MlV0UnFvR1AySHJHaGJ2dG5HOVR2QkoySktIa2pjdkljVzNZcTdOS3pwS2lMUVpWSmNYcTRiSFlfdDNyTWVhZUt3dm1kOGdUYnk2bGZiSUpnWWJVRlZLS3d6WmQ5eWJXWVdpYVBXNjQwQzV3REI1Rnp4R29SUlpFNUR2ejVJSWJCaTU0eFlDVzRmN3p2X1hNR0JXV3l5cU9OZ0lZX1JDWkJzd2VvM3YwMU1NWkHSAeMBQVVfeXFMT2ZKMEFiU0ZIcVVhZkp0dG9uR0N6RmZ0YUNvcEtpeEoxY3p3MWpOT1VYRVZVQ25qVjRVSXBRS3pzaWV6Y3FfYTlqd01hM3RPQ2VGMU4welg5M050c2pnUnBNUDhfaHJQVmk4YlM1VWhJWnQ3ekNma0p4aTFpNXVjMGR3d19iVkt2ejNBeFFWQnpxX0lvMTdoZHhzX1JzU096ZFVvZG5GUWFQZVZQU2xaUTlTcVk2T004eTJCYWZUamxvZy1zN3F4dmJDZWZBdTVHNWw2RDhVb2ZoOHlxcVRpVkUzX2s?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "1,236 Altcoins Listed and 430 Delisted in Five Years... 'Riskier Than KOSDAQ Penny Stocks' - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE90dGZYOUU0aWFnOFdzR2l3dzRFRGRmVEdFZTJEWE1uamtmak1RbGhsUXNmUHdmTkxVR0I1c1l3MmRWQWNTYlF3SWR5QWxDbWFsdkF0SFR2LWNOY3V3LTh4M1dzVFF2MXZLXzZNc3Bzdm5IQmhYdHc?oc=5",
+        "press": "finance.biggo.com"
+      },
+      {
+        "title": "Bank of Korea Warns of Semiconductor-Driven Demand Inflation - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd25ySkpBQ1haelVVZmJuMlVrclBqV0JodGRTZ1VVQTFqX2Rnb1M1T2VjZWwyTHpmRDdPWmNoaXh4RV9YWWUzZGVWZXJRQ1BsNWNRZnRXb2R3dWYwdm94c2llZmZkd0VibGxBYkRSanFoTERrRHhxTTF5X3o4T1p6ODZhd096Qks1bTdHM0dn?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Korea rate hike drives shift to short-term funding and credit polarization - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmxDM0JtZHUzTVctaEM3ZlZoVkk3Mm5hV2w4eWFQVmtGekhoV29BX21tY2sxZzRYYTR4S3ZoUWhBSTBfWlhPeG0wYko2WlM0cWJBa3ZCZ1JCRjdEdEpyWU84ZWttbW9TTkxGSUpDUVN3M0NSbG04cU14czdxQXhpcNIBlAFBVV95cUxQM2VFUnFYa09LZnctb19RWml2NDRoMzZMXzBsem1lclU0eVBfN2hyNEptVDlhYUtJMVNyZTQ2OFZhaFZoUGtyaVk0Um1Tbm1LLXZLaU5pMHlUZnZmai1IMFFra09Va1h3andVWVcxTjNETmVzbGFLVnFmbEU5dXB3RWYwSThuTnB5c3JCRVlCRC01RTdm?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Korean TV makers regain mini LED ground as China draws ad backlash - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BREJwTHdIdEh2UDhOTjJTUExSbmFGUUNfVlJQMnViZjVuUWlEakZPWlZMX2szUFN5VXNIVnhjcXZCR05BV09UZ00teHB4QU9tWWdYT2syT1RuZEo2V3AyZHVMSXR0Z2tINmhUMGc1MWNjY0U3cENlTlpR0gGOAUFVX3lxTE9xSnhmTlJFaGZJbmtEc05odzYycmxGOHJjRjJfRHZBa2NYanVoQ3hkQ2Iyc1pzbFhhM0dpQVoyY2FxajNnVmJ6amx4SmVLeWFWVENQWUgtWm15OVBsRjVoV2o2Tm16SEZtZnlUWUswcEVVemdGdVlhTFFZM1Y0OXh4am5UNXcxMmlmellXQXc?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Bank of Korea Warns of Semiconductor-Driven Demand Inflation - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd25ySkpBQ1haelVVZmJuMlVrclBqV0JodGRTZ1VVQTFqX2Rnb1M1T2VjZWwyTHpmRDdPWmNoaXh4RV9YWWUzZGVWZXJRQ1BsNWNRZnRXb2R3dWYwdm94c2llZmZkd0VibGxBYkRSanFoTERrRHhxTTF5X3o4T1p6ODZhd096Qks1bTdHM0dn?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Bank of Korea Governor: Won Develops Immunity to External Shocks - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRVdrcW95ancwUFJ3aDM3RTdrYjB3cU5meVhncG5XM0hNaVFPcU9XdW9qbmJyUVNSS1BqWlJXUVd4b2FaSk1DUWQ0Zk1vUnZvaVk1bi16TU9ZT3huMmlWbW5CaUlCUVQyeVFjZWZ5YkJQaUhYWFZOeDA4Y3l4Z1ZXQmxCVk5rbl9xb2ZONkxR?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Bank of Korea Warns of Semiconductor-Driven Demand Inflation - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd25ySkpBQ1haelVVZmJuMlVrclBqV0JodGRTZ1VVQTFqX2Rnb1M1T2VjZWwyTHpmRDdPWmNoaXh4RV9YWWUzZGVWZXJRQ1BsNWNRZnRXb2R3dWYwdm94c2llZmZkd0VibGxBYkRSanFoTERrRHhxTTF5X3o4T1p6ODZhd096Qks1bTdHM0dn?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
