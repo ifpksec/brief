@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "generated_at": "2026-08-31T23:32:12.611217+00:00",
+    "run_date": "20260901"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.41 (-0.29%)",
+        "description": "전일종가 99.70 / 변동 -0.2870"
+      },
+      {
+        "title": "미국 10년물 금리: 4.76 (+0.81%)",
+        "description": "전일종가 4.72 / 변동 +0.0380"
+      },
+      {
+        "title": "VIX 변동성지수: 14.92 (+3.40%)",
+        "description": "전일종가 14.43 / 변동 +0.4900"
+      },
+      {
+        "title": "S&P 500: 7686.14 (-0.33%)",
+        "description": "전일종가 7711.76 / 변동 -25.6196"
+      },
+      {
+        "title": "나스닥100: 29456.97 (+0.08%)",
+        "description": "전일종가 29433.43 / 변동 +23.5430"
+      },
+      {
+        "title": "다우존스: 53185.90 (-0.70%)",
+        "description": "전일종가 53559.99 / 변동 -374.0898"
+      },
+      {
+        "title": "USD/KRW: 1367.92 (-0.91%)",
+        "description": "전일종가 1380.45 / 변동 -12.5299"
+      },
+      {
+        "title": "USD/JPY: 159.81 (+0.31%)",
+        "description": "전일종가 159.32 / 변동 +0.4870"
+      },
+      {
+        "title": "코스피: 6788.88 (-1.79%)",
+        "description": "전일종가 6912.37 / 변동 -123.4902"
+      },
+      {
+        "title": "코스닥: 838.41 (+0.09%)",
+        "description": "전일종가 837.65 / 변동 +0.7599"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.538 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 2.03 | GEX +nanB$ (만기:2026-08-31)",
+        "description": "콜OI 417,139 / 풋OI 846,329 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 0.91 | GEX +0.2B$ (만기:2026-08-31)",
+        "description": "콜OI 417,478 / 풋OI 379,728 → 균형 | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $180.86 (+0.37%)",
+        "description": "거래량 9,839,271주 (평균대비 0.9x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $770.74 (-0.29%)",
+        "description": "거래량 6,908,776주 (평균대비 1.3x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 54.0% (108/200종목)",
+        "description": "평균 MA 대비 위치: +0.9%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 62/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq slip but cap winning month for stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDF1ZmtVSFBxOUJsQlN5MEdsSUhoYk9UbWtOYXRSU1BWbWZuSlMtbFJtbXFFcExoVnhHUHNTNHp2LWhrZXdNMndSZzRIWnFtdzZOc09WVmxwWkNRb1BkSW95TDhKMTdDaTc0cWdQRnN0cFJmMEFYRVBNcHFIRGNyYUxhMHk1WklvNngwV2xfdTR5c0VGLTkxQzZmSHZ0QTE1dm4zSjRreU5JRjQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Why Deere (DE) Stock Is Trading Up Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWGxfSEdiTEQ1cDVSZWZoQ2JGMW90aUEyZDFSWmluLVEzNVdCNldpUGVvbkdROHhQOTA0eDdFemF5TzQ3c2liYXlUMFFkUDhZNEZfaUQ5NVZxVEJOcXlndEJpS2EwejFnNC1XVHBrSnlSSmFjZWdTV3VTV0JsR1gzeU1FSUdfYlJtYjg1R0h3bWZRM0dYQ0dUZWN3?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Can cut-price Shein shine in its long-awaited stock market debut? - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4OXlfeUd1N19UMTBXX2FNTzFadlpmVnU0LWttZlI5SE1ucUJlVEl0YmJxR0VMYnlzcjhTNjFkbmtCV1Z2OHo5NHJZa0YzYi1LRHFxRDBYMW42QQ?oc=5",
+        "press": "BBC"
+      },
+      {
+        "title": "Dow tumbles 370 points after U.S. strikes Iran, but index posts fifth straight winning month - cnbc.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SWllSeGg2NWlpUTZ4M1JrMEFTemY5YlJ0N0ZsTGF1Y1RzN241VFkwR2dYS3AxdU5BcklvSzNRZGhlUldjUGFHOV9ROTh4RzhWbG9Uak5aRnV2WXpfbjljLTRvTU1iNEtCcmdrVkI3THdmMlRCX25J0gF8QVVfeXFMT3Yxanh5VVFSd1UyVTdkTG54azlvMjNOak5TTVZ2a2oybm1PZmh3SXEtMTQtSXllamk3Q3o5azJvemdfYzRHMndUclZEdWxadGZiOHNhNjJWamJVcHpzOXRvemtiOHZiLXZoeVRvRnJGT19XQXpEU1R3WjdvZA?oc=5",
+        "press": "cnbc.com"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq slip but cap winning month for stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbDF1ZmtVSFBxOUJsQlN5MEdsSUhoYk9UbWtOYXRSU1BWbWZuSlMtbFJtbXFFcExoVnhHUHNTNHp2LWhrZXdNMndSZzRIWnFtdzZOc09WVmxwWkNRb1BkSW95TDhKMTdDaTc0cWdQRnN0cFJmMEFYRVBNcHFIRGNyYUxhMHk1WklvNngwV2xfdTR5c0VGLTkxQzZmSHZ0QTE1dm4zSjRreU5JRjQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Hyperliquid in Talks With Kraken Parent on US Market Entry - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZU54M2VrMk9CRUNkTU8tdDBVRkxZWV9ISjZaQ3dCU1h6czNTbkJad1RFYm1KcDJZcVNISGNfNkF4Wlh4R0htNlNtVi13c2NpbE1SeW1Lam1CelUxVDVxYU0tTXNEZUl2WFVPSXYtUXRIVXZ0S09NYnhKTExyWXdwWmZ6VVlmYjVnbnU1UE5GTVdCLW8zYXY0cll6dDEtSm16OGU4bGhjR2liUmV2eUE?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Tech stocks today: Apple stock slips as Tim Cook prepares to step down - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPclpybHdwSlZrZ2l4Q2ZzQmNRV3RzQ0h4V1BIQUhzdkRyNFBsdU9XWmlJQnBzanNwWnZLcFZmakVEVVJnWjYwcFJLMGhLMG9OYU96cHhsNG1IdGk1eVZyYUk3VzNsVldZdzA4TmI4WGpranBwc2dMMkNmTVBGYjYtd0xnUW0tUThKWGVacFBEdFpOS2FCSmU4dVpzeC1WcmJVVDlJZXUtRnQ1TGhz?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Water-Reducible Polyester Industrial Primers Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNellXWnF5RjBDdmJyUFZaUGNkTjB6aGxfVnhZakh2ekFnTU1rbG9KeEVNSm1VbmIwRkpsdmVoZ3EwS3J5MTlrYjA1ZjMtb19OQ0dNZUdHUVlLUzNyMG8yUjhXNWpneHBHa003bEhmZmt4UVlMaHRnSWJ2OF9ad2pNcFo0aWtHRXBleXlrUGZmdkVkc250bVRwZTNFNEZ1UQ?oc=5",
+        "press": "IndexBox"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "KOSDAQ draws margin traders as Korea’s credit balances rise nine days - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZWJELW5maHFORmllVHR1T3BpX0hBSTBEQ21TRzNQcXBKZ2dtVVRjdFdvMVNHLW93V3NkVzBiOW9pWHA5UXNiOEREcGxtYWVNdm1MMU5xOUJFNDlIME8zWE1pWW9SQlhJYjdIcGNSN1QtZC1SSFh0YlhKSVBZRWtrVNIBlAFBVV95cUxOMG4zcVVVSHVlXy1NUDZOWVpxM3ZtQmlhTENWSTY0c1k2dzZWenBKWWFfYTdGcFVKLTRMdkhkd1g4NEJNbWFCU1Z3SlBlWW81dlNid1p4U1FlNnF4blNtbktHSHhkNE1fYl8wR0t4R2c5QXg2TElSckhWVF8zRUlHVzdveGsyTFlDN29kVFhxYlFUNXl1?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
