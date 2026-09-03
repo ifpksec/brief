@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "generated_at": "2026-09-03T23:32:12.482895+00:00",
+    "run_date": "20260904"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.00 (-0.56%)",
+        "description": "전일종가 99.56 / 변동 -0.5570"
+      },
+      {
+        "title": "미국 10년물 금리: 4.76 (-0.71%)",
+        "description": "전일종가 4.80 / 변동 -0.0340"
+      },
+      {
+        "title": "VIX 변동성지수: 14.32 (-5.79%)",
+        "description": "전일종가 15.20 / 변동 -0.8800"
+      },
+      {
+        "title": "S&P 500: 7747.71 (+1.06%)",
+        "description": "전일종가 7666.60 / 변동 +81.1099"
+      },
+      {
+        "title": "나스닥100: 29482.32 (+1.16%)",
+        "description": "전일종가 29143.33 / 변동 +338.9902"
+      },
+      {
+        "title": "다우존스: 53686.11 (+1.18%)",
+        "description": "전일종가 53061.95 / 변동 +624.1602"
+      },
+      {
+        "title": "USD/KRW: 1356.11 (-0.17%)",
+        "description": "전일종가 1358.39 / 변동 -2.2800"
+      },
+      {
+        "title": "USD/JPY: 155.80 (-1.96%)",
+        "description": "전일종가 158.92 / 변동 -3.1210"
+      },
+      {
+        "title": "코스피: 6562.72 (-3.99%)",
+        "description": "전일종가 6835.80 / 변동 -273.0796"
+      },
+      {
+        "title": "코스닥: 803.98 (-2.10%)",
+        "description": "전일종가 821.25 / 변동 -17.2700"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.484 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.44 | GEX +nanB$ (만기:2026-09-03)",
+        "description": "콜OI 115,244 / 풋OI 166,258 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.82 | GEX +nanB$ (만기:2026-09-03)",
+        "description": "콜OI 90,000 / 풋OI 163,872 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $180.56 (+0.95%)",
+        "description": "거래량 10,899,621주 (평균대비 1.0x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $777.13 (+1.08%)",
+        "description": "거래량 9,933,692주 (평균대비 1.4x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 57.0% (114/200종목)",
+        "description": "평균 MA 대비 위치: +1.0%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 65/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Dow, S&P 500 post best day in a month, Nasdaq jumps as rate-hike fears ease - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdFQzczVJcTRIS1ZyX1FXU2Z1UGdJdy1rODZfUzlNaE5OMGYyTklaSndXZ1B0YlF1WFoteWpNdUNGY1NLdEFFTzNPS0w5bVNRNV9GOGg2MUR0MWV6Zk4wRjA2NWdDaFg0a2J1R2NqZjRIUWhGT3hVcHhHUWFJVzU2ZTNJcnhiNFdmLTE1ZGduelBSSjNXZ0lnY0NNeHlGbkVPbDVjVFZ4OExxMzhmTW1lT3NteGRxY1dZZ1Nn?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market Jumps As Snowflake Lights Up Software Rally; Yields Drop Before Jobs Report - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQREdBTzU4cGtvNWRIU21KcjRjQ01TVFpBRXB2QmpWdnhMZG45c2c5bHllSXRKMTNkMzlwT0RqT0wwbUJoYTZvclpFMlpRMjUzS1oySkNfTHlBSWtqS3o0aW0yVjRRNkJyaHF6SEhId2lrckk2djM5QXNhUy1xTDRucjdTWXF6MzdhN2pMRDZzaGJfRVBZT1BxVnMySFpaekN5eEdVVkpNQ3MxWmFpUWJsYg?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Why D.R. Horton (DHI) Outpaced the Stock Market Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNHdTTG1TZzktWTZhY2FMMzB5Zkp5eW82M1d3OEhPazg0Wnpic0RPdHRMS1ZnRnhBTUdzQXAzaUN2UnJ0SUVWQlQyLXp4U0ZtYTBKTndGbHVSUGxpclVjeUVqTlBKeEhGdTNGSTRxQXJ0SHZSWFNGRW8xZGNHbDMwNmozN0N4ZXZTVHVR?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500 post best day in a month, Nasdaq jumps as rate-hike fears ease - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdFQzczVJcTRIS1ZyX1FXU2Z1UGdJdy1rODZfUzlNaE5OMGYyTklaSndXZ1B0YlF1WFoteWpNdUNGY1NLdEFFTzNPS0w5bVNRNV9GOGg2MUR0MWV6Zk4wRjA2NWdDaFg0a2J1R2NqZjRIUWhGT3hVcHhHUWFJVzU2ZTNJcnhiNFdmLTE1ZGduelBSSjNXZ0lnY0NNeHlGbkVPbDVjVFZ4OExxMzhmTW1lT3NteGRxY1dZZ1Nn?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Automakers urge Congress to permanently ban Chinese connected vehicles in U.S. - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ILXF1MXFOQjRTdnUzcHdzbVh4ZHJHVHduYnBzd2ZmMGNtNVVDX29TOUJWMU8zZmUwYlB3SmU3X2phSGFrSjNBci1lRFJ6dWFNUy1qUi1EM2laSHd3czVaU1VfUzZyZXRiQTdmMVJ3QdIBdEFVX3lxTE9XcW0wVE5Icnk1QzJjSnU4MzFKdElfdzZ5VzlDN3Bfa2p2cnBwZ0VScVd6d3pRWjRTeENwZHB3Q2NHWmw2SWFpc1Z1dVJyUzJ0UFE4MmpLRUxPRU9fLWY4dFhiT1pHVVdGSkx5VlpGS1dJaVZk?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "TRADE FINANCE: How volatile financial conditions influence its availability and impact trade levels - International Fina",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPanVNVEUwTS1BR0IwbUxxSnRqOE9HSmV2dlBhRkJDZDJ0MmtzUlBza1hmQ011SGtZRmo4TnZoVGRuUmZVSzlva00xR0c1LU5NRHB3U2diR0NnaTJwa0gwNnVsdmJPM1FRUUFTYmJqa0lkSFVfYVk4bjVUZ3JTRW9UNUNYbnBpZjhnSUZFeExhSXNQaXFYVFN3ZTFiVDlma2RPWEZGMEY4aUxadXRfcXdCN3ZOSG5ocGk5?oc=5",
+        "press": "International Finance Corporation (IFC)"
+      },
+      {
+        "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Toto, I Don’t Think It’s the Fed Anymore - J.P. Morgan",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQczdldkJnUFFYV0RIeHI0Rmo5ak15NzlQMmZRNEdwdzdwTlBZQUtrTjhaeGV1RVV3dl9rSWdFbXRtVW5XeFhhV3pXX0p6QUNBSjVNMUFpa0t2cVZaaWJ4UDJoT25tWVFYTm9ST3g0RktlbXE4aXBTSzZISnFPZ2Q0b0dNNzc4UjlJWUtwVHhPal9xNUlvS29KaGh6NjFqVXlLSUlaVFBoa1c1VVQ1X2pFUDhGQ3ZodU0?oc=5",
+        "press": "J.P. Morgan"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "SFC Targets November KOSPI Listing as Semiconductor Materials Generate First Sales - thelec.net",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAwRmVEZm13REt6VTN4c1NqNGYtQUZGX21ndzN0ajJYdjQ1NVZKV29qOVZJN3NYcW8yLUVTTmc1alk5Vi1yS3NDZmdwM2NVZlE4TEVudmlxeGs4LUxZbnRUZi1YZU1fNVU?oc=5",
+        "press": "thelec.net"
+      },
+      {
+        "title": "Korea Autonomous Driving Startups Head for KOSDAQ After Record Venture Year: Market Is Slipping - Tech Times",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTGNWcVVfUmtkeENqZmFReVpfenppNmxlaDlkN2VieEJLZkRxWDdPaGkwa3E3M1YyWlZaVHBZdTd0aXJVMGNiRjN1TEZKSmttUUtnRDIxaVpWOTFQb25tNXc1M3hLbmF6WHNWUFVpU0U3Qm9fWnZlM3NMV1FidGRKbnpQRHZEaTduWXdmMUQyRGZzT25PRlBRZmFzVGprekJSTkNQTzdzS21COWxSZ1ZoZ2lzbTA0UTdBVElWX2cycTJ4YVk4RHUzd0VNX0VkYXExdS1vTllPZUF3dw?oc=5",
+        "press": "Tech Times"
+      },
+      {
+        "title": "We Ran A Stock Scan For Earnings Growth And Koh Young Technology (KOSDAQ:098460) Passed With Ease - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNREljcmZSUktlbEtqc05SQUdnajVFZnJ5RmRTZGRPdmlfVUJ3SEpwY1VNM213TUpoSGNmd0ZqNEdUQU0tbVpWOEgtdF85MTh1WllUVzBNeTdvc1pSYUFPOUszMEhkb2Fqb0FHblFVbGJsT3FKM3hkTU11RFpNcGFwTUU4ZGdrQVhfbnlOZ05sSmd1TXp2aEZ6Sm1uNFhLa0MyQWxzVHdfQThfZG1aVkMtX0E0LXc1b29UNWh3akczczRPNHRsRHFMeDZJa1d1UUdwVUNYbEZJZHBsR3V4bjNVVkpuOEo0MVFIZE440gHwAUFVX3lxTFBRa0hjNWtNeXlEbncxUFlXN0xaX092MmYxamhjcmpWRFVTNGtPMjhsQzRjVGVzTW1ZVWZsWmx2ekNqM1Q1Y3FzLWJPTUstTTdrLVFlaFA3d0pwT3hrYW5uMXNzNTFxdXRjMGJkTDFtQVJyRHNYZFVqNmQyYnRGTkUwYndCMy1YcFQtaFJ5WFRyZUhGSzRsbzd0S05XQ1FJNkNqT0N2dmV2MkVNWlktbXJKUnZLN0VxUndjOEs2N0xxamhjS2pGQUktTzZNUVZyTHdqN2huSk5JNlNlZjE0UGVHN3U2ckVEWlNVWEdyenF1MQ?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Korea Small Cap Gem Insights - Relative Outperformance Vs KOSDAQ - Smartkarma",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdFRrVEk5TjEtSTFLcjlXMnIxZVpvUTNHUGt6dHBXQUdMeXFpeURSUER5ZFNjd3V6dDk2S1ZjRnFSU3V0NTB5WUoxcUhReDdzMHR6aFhLbFo2Y3JoejBuSXB5X3JnQTZRZjY0Yy02enFxejhEXzdDd21FZEg0cXYxVFFQWWFfaWk2YjJzWTlST3UyTUlOZXlPRzVsclhuYzQ?oc=5",
+        "press": "Smartkarma"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
