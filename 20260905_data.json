@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-09-04T23:32:07.880163+00:00",
+    "run_date": "20260905"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.16 (+0.16%)",
+        "description": "전일종가 99.00 / 변동 +0.1570"
+      },
+      {
+        "title": "미국 10년물 금리: 4.78 (+0.46%)",
+        "description": "전일종가 4.76 / 변동 +0.0220"
+      },
+      {
+        "title": "VIX 변동성지수: 14.53 (+1.47%)",
+        "description": "전일종가 14.32 / 변동 +0.2100"
+      },
+      {
+        "title": "S&P 500: 7718.60 (-0.38%)",
+        "description": "전일종가 7747.71 / 변동 -29.1099"
+      },
+      {
+        "title": "나스닥100: 29544.15 (+0.21%)",
+        "description": "전일종가 29482.32 / 변동 +61.8340"
+      },
+      {
+        "title": "다우존스: 53414.25 (-0.51%)",
+        "description": "전일종가 53686.11 / 변동 -271.8594"
+      },
+      {
+        "title": "USD/KRW: 1345.99 (-0.91%)",
+        "description": "전일종가 1358.39 / 변동 -12.4000"
+      },
+      {
+        "title": "USD/JPY: 156.22 (-1.70%)",
+        "description": "전일종가 158.92 / 변동 -2.7020"
+      },
+      {
+        "title": "코스피: 6579.48 (+0.26%)",
+        "description": "전일종가 6562.72 / 변동 +16.7598"
+      },
+      {
+        "title": "코스닥: 790.21 (-1.71%)",
+        "description": "전일종가 803.98 / 변동 -13.7700"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.450 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.21 | GEX +nanB$ (만기:2026-09-04)",
+        "description": "콜OI 423,268 / 풋OI 513,949 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.28 | GEX +10.3B$ (만기:2026-09-04)",
+        "description": "콜OI 296,801 / 풋OI 379,397 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $188.87 (+4.60%)",
+        "description": "거래량 18,295,379주 (평균대비 1.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $773.92 (-0.41%)",
+        "description": "거래량 10,303,921주 (평균대비 1.3x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 50.5% (101/200종목)",
+        "description": "평균 MA 대비 위치: +0.2%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 74/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Dow tumbles more than 260 points after strong jobs report reignites rate hike fears: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mNWp4VDc2ak1DN1JLX3cteTNHNlZVVFhrbl9tajVGNEpTSTR6bm9rWDJDcW5GbVhLQmktLWhqdUpMb0Q4Z1hhdW9LcjNGVk5kQkJkX29EUUFGWGI5VVhhN1Z0azc1WjlnMERMd3FDLUFVNzFLMHA40gF8QVVfeXFMTVVoemFpTmFxdjFvOGJsc1pRYk95LWh4R1VoNGdvNno4aG9SNmphZnVWTExaaGhIUnpra0ZtUUNMVXVWYWhHUUg0RUJ5OTA0OVVsb2YtZXp5Qno0TlVrd29Gd2lKVXhjU2prMkpFMnpkM2xacFRpTzVNMWJiNA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock Market Today: Bond Yields Climb, Dow Slips After Jobs Report — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV2FSU0ctdGtjRG9DOWVDNVJKNDRjR216S080eW5hN1dlZHV5OEl4UzlKT1VVT3k2Z1hqSERTSEJpWHNrZG9QbWg4RlpxbXFoM2VCNEtDT0JFdnJQWGwtbTVQeUNpMXN4OG5yQURYcUtBN2pjS1p5TnkxOWN4MjFBaw?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Stock Market Today: Stocks close lower as strong jobs data stir rate-hike jitters; Treasury yields tick up - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2IyY1RfVnpodThhamFUSERnTEw4bm9tU1BXUXUzX1I3SjNmal9ZTWdVT1dQMVZtYU9LQmY3dm5kLTRnWktrVFJBSWlVX2hKOFk1dWFjaV82dDlWaWFkd2RmUlBNQjUtcDhGeC1WWjNEbTNvQ01UWDRSR3cteENlRUVhWUh1eW1oWV93NzNmdW9XandyU0lyclM1bmxPeFVScnlraEdXZzFzN3VMYjlnNQ?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Micron and Western Digital Shares Skyrocket, What You Need To Know - StockStory",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZEMyZWRySzdXcG1hQU5yRTVkZ3ZEcWt1X1Fqa2RiazFYNnBoMlo0Y1FRXy1JUmNuckhjTk04d3hDZDJqUk1rTnJHblNCUzJod09nNmd4c3Z2MURPWVZtM0VhNG5IWXUxbkV2ZklLUkg0TmIwQ0ZDSWVEX2RpSXQ3cGV5b1JId3EwWlM0UEVPUzFPbFJEOGlLX1BpSGU1dXNkREtVRUxHT2R2eldJUi00aFdnalJxQVpNZ3VzNlZXYmJwSU0?oc=5",
+        "press": "StockStory"
+      },
+      {
+        "title": "Intel Climbs 4%, AMD Rises 3%, NVIDIA Ticks Up as Chip Stocks Shrug Off Rising Rate Hike Odds - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORTRMSEJfSFJyWWwtYWNTMDNLNW1qTzVXY2I5N0V6SEp5SzYwakxoVUNBMFlBaHVwRmd6akJUTHhxcVMyZ2MwTkI0SEpHVFZaVDF4MjQyNkdyeFhCUGNhTHBhWHd5YVlOanNGQzNDY1Q3d3gwVEROVXlpYnhYVElKQk9rX25oSzVDREgzZEdKSGFyVnNJdnhKUWVFX2lUeWdCREg5Y1NxOVdTQjJSSU91OE9GZlNnN0lCRElrdW5hOWlXcllmTHRwY0tSRjk?oc=5",
+        "press": "24/7 Wall St."
+      },
+      {
+        "title": "Vegetable Tannin Depressant Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN0tXWUN0TVVBQ1dxVFVHS1BWUmxVdHdHbXdRX0RsbUQ1V2JQa1MzRGk3R3lPd0pqQzdwOGFaTE40VVBwbGZzdEJUMktnYjNVWVZiazF3aVZNMGlpczRJTy1KWFhUdHZfU0NLcFVEWHB0ZWZuZlBUcWVWOEtwUUVKam90YnJoc2s?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "‘There’s no plan’: as instability in global bond markets rises, what are the knock-on effects? - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaC1Ra0lsRHFnWVctazdBUzlqSmFSbGZqWkNRQlN0M1hrT3N0MkY5Y3FscnhWcGxDdzVMdHJGZGFDS215Q2tPNWVmd0VXWlMxeUJnazNxQ0FoYXVKY1FlTlRrakZjcC1fdkpZQzFCLVZ5Vlk4Vl9tNUhUaElHNy1lcDRWQVRJdlplb0ZGZ3VHa0ZlMXFOTTdsQnMzLUNNck11OFl1N1Q3dDJSR2M?oc=5",
+        "press": "The Guardian"
+      },
+      {
+        "title": "Stock Market Today: Stocks close lower as strong jobs data stir rate-hike jitters; Treasury yields tick up - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc2IyY1RfVnpodThhamFUSERnTEw4bm9tU1BXUXUzX1I3SjNmal9ZTWdVT1dQMVZtYU9LQmY3dm5kLTRnWktrVFJBSWlVX2hKOFk1dWFjaV82dDlWaWFkd2RmUlBNQjUtcDhGeC1WWjNEbTNvQ01UWDRSR3cteENlRUVhWUh1eW1oWV93NzNmdW9XandyU0lyclM1bmxPeFVScnlraEdXZzFzN3VMYjlnNQ?oc=5",
+        "press": "MarketWatch"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "We Ran A Stock Scan For Earnings Growth And S&D (KOSDAQ:260970) Passed With Ease - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNkhMeTBfeWxhQ3UyM0tBXzczTUNacEtaNk5FLW1mclNTZ1JTajVHaG43czJIYWhHNklxZ1RKTWs1UGlaRHN0dzlZLU1fSVpEX1c0MVdET1FpLXI1bTk4NE9DbWdxbVEybFAyQm94QXozZjNqZkxPaGtacnRGZDFiWDZRcm10T3FXdGQwajVSMFRBWmRHc05WOF9IZFhkdjlDS05sY01LUFRXUWJiYU1RUVJXRXl3a0MxWUFHdm1kU3ZtdUlnS2JYb1dWcTVPUdIB0wFBVV95cUxNOTVqYnNDOXp2TTZ2Q1lxZHZMUWFkcEtHaGt1eVFuelR6QVNSQmdXdDMxdi1MTXVVWl9VcEhCTGF1NW4tVVZfSEVTT0p4ZWxHT2FMNjBFR2JzZXBBeXlfSjV6MHhRSGlhamJ3eWcyOTFGUDFxZVdoNVRWbTU5cGNjT2k2M1RPcVhtbUp4Tk1lNUhkWW5yQmItUGNMZFBJcmwtWDRpQXcwLUdud2t2eTAwdVY3b2tyY2RnUi1feVhRQVRuN0E4VXdKbmFQRmZuNkNLZmxv?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Samsung Union Chairman Referred for Employee Data Blacklist - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVGRWYkx0dVZucjBERVFVU3lJV3gteFJEZWItdVJOQ3Y5SUtJTWo2S3c4WWNQX1JKMEJQcUR6N0owblFFXzE1bWt1WF9fWWlTeFIybDNwTE5kWTZIcEdIQ2dJY2lwbHlJbnF6NzZoVEJwSjlkVF9kRTBsM29wbUJWOTljaTVBMVVk?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
