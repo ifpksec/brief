@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "generated_at": "2026-09-06T23:31:51.029126+00:00",
+    "run_date": "20260907"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.13 (-0.03%)",
+        "description": "전일종가 99.16 / 변동 -0.0270"
+      },
+      {
+        "title": "미국 10년물 금리: 4.78 (+0.46%)",
+        "description": "전일종가 4.76 / 변동 +0.0220"
+      },
+      {
+        "title": "VIX 변동성지수: 14.53 (+1.47%)",
+        "description": "전일종가 14.32 / 변동 +0.2100"
+      },
+      {
+        "title": "S&P 500: 7718.60 (-0.38%)",
+        "description": "전일종가 7747.71 / 변동 -29.1099"
+      },
+      {
+        "title": "나스닥100: 29544.15 (+0.21%)",
+        "description": "전일종가 29482.32 / 변동 +61.8301"
+      },
+      {
+        "title": "다우존스: 53414.25 (-0.51%)",
+        "description": "전일종가 53686.11 / 변동 -271.8594"
+      },
+      {
+        "title": "USD/KRW: 1345.89 (-0.70%)",
+        "description": "전일종가 1355.41 / 변동 -9.5200"
+      },
+      {
+        "title": "USD/JPY: 156.14 (+0.31%)",
+        "description": "전일종가 155.66 / 변동 +0.4790"
+      },
+      {
+        "title": "코스피: 6687.21 (+1.64%)",
+        "description": "전일종가 6579.48 / 변동 +107.7300"
+      },
+      {
+        "title": "코스닥: 813.50 (+2.95%)",
+        "description": "전일종가 790.21 / 변동 +23.2900"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.450 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.42 | GEX -0.0B$ (만기:2026-09-08)",
+        "description": "콜OI 66,864 / 풋OI 95,102 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.93 | GEX +nanB$ (만기:2026-09-08)",
+        "description": "콜OI 50,699 / 풋OI 97,723 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $188.87 (+4.60%)",
+        "description": "거래량 18,358,500주 (평균대비 1.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $773.92 (-0.41%)",
+        "description": "거래량 10,435,800주 (평균대비 1.3x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 51.5% (103/200종목)",
+        "description": "평균 MA 대비 위치: +0.3%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 73/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "This is the big warning sign in the bond markets. It’s not just a U.S. problem. - washingtonpost.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSXdqV3I4OWs5TnpDT2w0dTlSeXBtMDNoTVctUzVIYktZb1dCTFlzTURnWTNCaDJVbHlKaFBaWnpjQndqOVRocVo3WFRmNEVwOVRfRkRjQzEtbGJyQUJYQzI5NzktS09iS1BVckdKVDlYM25pcWl0U1hodzRodUMwNUNSZVNxMXBDN0hQMnhhQ19oNWZzQzBfOHJyRHY4Q2s2YW02dQ?oc=5",
+        "press": "washingtonpost.com"
+      },
+      {
+        "title": "Prediction: Taiwan Semiconductor's Market Value Passes $3 Trillion Before 2029 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUUdZcHVfM2psYVdVYkswMjRKWkM1Q0I4S0FkUkI5cDNjSkVNMmc0MU1lVXVmRHExdVl2Y0dqd0E0a3NObU1Yem1ITTVSRWJobDMwanYtNW9zeGtsMjEwR0FZeWYtU2V0dGZ2NWQzaTF0Y2dPUFRKWmdDQTlaRWpxU0FIRDJ3WHAyZE5tOG5xRkdpaGlULXktMkw3TW9xTlQ0NDhrR1Q2dGh6THg2cTFJ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Oil Edges Higher on Renewed Middle East Tensions: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTG0yNmpRcVhUMEtpTlVEZFoxaE9DVS0yX0hRbTQyamFBQW9JejQyNnhfdEFGRGJhc1Y0dlhsTkt3M2NwN2JSaUN4dTFJUDRCZlNkWTVSdzI4QW1ZRDVhUUVYZzBFZnB0RDFmZFBZR0Vnb3BzcXJzMVYwSU53YUpqS0lDelBpd2JiempVcnNnXzVpVWE2?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Oil Gains as US Attacks on Iranian Ships Raise Escalation Risks - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNalZ3QW5aNmh6b0NOeTJ6TkZJd01fZkhiTW41dFVrUE1pSDZFLW5jY051a3BiYXRobFltdXZibGtyYnVWWXMtRS1DRWZMOUpIcGswSzFYaHFxdU0xeUlTbWhJYnFEeTFaYzVTM1pGY3YyZlNDTElLQk9yUGlmWlJzeXJ2MkhudXBtM2ZEMXo5ZXlJeU02aE85YTN3RGF4aFg5UlNMMQ?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "(IIAE) Stock Market Analysis (IIAE:CA) - Stock Traders Daily",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0lrS1NCdVdjc0ItVTE4VWN5dEg1RFZZcnBBWmZVY2JDajctbmM3LXBkOGw0Y1dhalJvYUs5REtCdWU3akhEaVlPZl9GNDNjY1o2aGgtUzRtcS1qYzhmbmhmT1h0Ylo5c2xRckpiaWk4RFR1SlRFRURTNVlTb3NUdlc1Rl90NEFqaE5weA?oc=5",
+        "press": "Stock Traders Daily"
+      },
+      {
+        "title": "Retail Investors Hand Control of Stock Portfolios to AI - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVi01YXVVeDNZSUFxem1uUG1WUUFXZk03SjBXNXg2cklfUzhjRWdKRjZXSUhIWXhCc3NlT3lnUW9id2dLdXN5MlVyeDRFQUtYWERiZEtLdFI4YUFUaXU0NkV0VFFEb2hxb3ZtMWlINFFvTmphVXJ2TXR6cWJqT2JLTXNZdml2UXRoeTh5Vl9WOFpDTUx3Y2lQcUdVclQ1UUtLbVE?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Inflation is back around the world—as is the fight against it - The Economist",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONTJ5Z0tvc3hnX09KLXNLRnFvOHlYVDJiTTE4UTAxczFHYm1OMUdZY2s4Sm81Q3NZZHJ3SGZqXzVrbm5NNW0wTTRZSVZCU01Sb1FUQ3VlRWkxRHJUWDJiSk9FRUZTdWxYRGZkeFhiYU1TR0lhODgyQV9Dd1pNbzZNSmcyTFZ3c3hYMU9SVWt3YkF3NThna0ZLajR6MFJsVmlnOE52N01SQ3A5RXZfVVBDbHJ3d2V5RzVMS29TVA?oc=5",
+        "press": "The Economist"
+      },
+      {
+        "title": "Spark Deep Dive: Is Hong Kong’s GDP growth helping everyday workers and companies? - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNeWlGaGYwSVFfU2NrcU1aR0FoTWozLUFmMVZTYzZJNG83VTNKd1llUEFiUHlVR3JqSzJmNmlVZXRfak5CYUpXWkVYc0s4ZGllZllnNlUtOUd4N3lfREdyeHRVcHBlQjVuVHcxREE0TVNyaURMUEtKY0lHQXdlV3FCS3BEUFdBN0hJdDJxa0tORy1fYUFhSW1CMkI4RDV5WFVCbnhBUjBuZDNuWTZ3U2ZDdVFLYm5JeUhCcFVMVmFiejAweDktcldOby1lMFp0YkF3dmVBUlMybWo?oc=5",
+        "press": "South China Morning Post"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Tighter delisting rules put $5.9 bil. of retail money at risk - The Korea Times",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUZZV1BuWEx5bnlDUWNFekFKWXNDX3FXZ0IxTXU4SV9BamtIOXluNmFPNGRpZ0g2ekRpRTVyLVgyX285X0Rzd2wxMVBZb25iUGs1UEpXNHNLd3NuVVNSYmZmWEYzYWlUeWxLdjk4UTczNEZxczE4U2ZJVHJrdU5QNUlpejlKcFVLSWxfVE9QVEwtWml5Rk5OX2lzMmNZZGp4WFR2LURKYjdld19x0gGsAUFVX3lxTFBNRllXUG5YTHlueUNRY0V6QUpZc0NfcVdnQjFNdThJX0Fqa0g5eW42YU80ZGlnSDZ6RGlFNXItWDJfbzlfRHN3bDExUFlvbmJQazVQSlc0c0t3c25VU1JiZmZYRjNhaVR5bEt2OThRNzM0RnFzMThTZklUcmt1TlA1SWl6OUpwVUtJbF9UT1BUTC1aaXlGTk5faXMyY1lkanhYVHYtREpiN2V3X3E?oc=5",
+        "press": "The Korea Times"
+      },
+      {
+        "title": "Korea stock trading slumps as KOSPI stagnates in 6,000-point range - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb21FemtjaU0wUkpFN0JmTWJDMFR4cDJQN3FSTlZmUUpTVlZMbTBBUi1qemtfZ0hYaUJURHZYVEZPRGZMb2tkcDVzNktqVFpCX1dwMmYzWGNyTzFpaWwwVGI5WllpNEVmenhZMVBNTnNLSXBra2FVMTZEZmU2VUpsbNIBlAFBVV95cUxOQ1dfU0sxZmlQUUhzVEVMb3BBVEJHTldFTURBQzRCOV85LW10WmpGQzZiSGs2N1hGWjZOcTNfNU5seU1ZclV4RmtrZWRoTzJBMEEtUFBpNTNDSS1RSEhlQllFSmRwMmRnaXpnVmk5QnVKVVVSY242UEswX0NCdk93dGd6eVRPdFBubGxlWEJWNlFlN0lE?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Tighter delisting rules put $5.9 bil. of retail money at risk - The Korea Times",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTUZZV1BuWEx5bnlDUWNFekFKWXNDX3FXZ0IxTXU4SV9BamtIOXluNmFPNGRpZ0g2ekRpRTVyLVgyX285X0Rzd2wxMVBZb25iUGs1UEpXNHNLd3NuVVNSYmZmWEYzYWlUeWxLdjk4UTczNEZxczE4U2ZJVHJrdU5QNUlpejlKcFVLSWxfVE9QVEwtWml5Rk5OX2lzMmNZZGp4WFR2LURKYjdld19x0gGsAUFVX3lxTFBNRllXUG5YTHlueUNRY0V6QUpZc0NfcVdnQjFNdThJX0Fqa0g5eW42YU80ZGlnSDZ6RGlFNXItWDJfbzlfRHN3bDExUFlvbmJQazVQSlc0c0t3c25VU1JiZmZYRjNhaVR5bEt2OThRNzM0RnFzMThTZklUcmt1TlA1SWl6OUpwVUtJbF9UT1BUTC1aaXlGTk5faXMyY1lkanhYVHYtREpiN2V3X3E?oc=5",
+        "press": "The Korea Times"
+      },
+      {
+        "title": "BTC to KRW: Bitcoin Price in South Korean Won - CoinGecko",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44YjVOeDFhVEVRRlVuclpKaGlIS3dtSjN6TFRncnlGSTh5Q2RwNTY1bzlCc3RHeEdNQzZLdElxWVpWR0FZdi1GNGJyaTNwOXFHbDBXTXhRTzRadw?oc=5",
+        "press": "CoinGecko"
+      },
+      {
+        "title": "SK hynix accelerates 1c DRAM shift to lead HBM4E race in South Korea - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wOWd4MXJnbVFxUE5EcWY4WW5wZWMzeUlZWTNHYTBueTNyLVNvWndDM0ZPS1NWX3JEOXlzV1pIREx1STdGTVNTeDNRSGEyNEtMR195U3VCSUtONWtQZ1dSS0gwbzVBYjljdlcxMDNTTVJ2dXNyTVZFbmt30gGOAUFVX3lxTE1tQ2hlcjhxNG1LMFEwZTBYbXAxcHlyaWx2NjhhajNfdnZoN3dCUnlUMnQyNVZZWUI2YTktMjJLMkljRVJjWlBKR0tOUUNCbkJGeGtmU3BSdTZtMlotNnVVY0I2a1VlNVNEd2ZpNmh3TVBJZHZsenVOaGxyYkRVRkhBSmFTbE05Z0xaVlBPMmc?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Naver winds down services to bolster AI, commerce businesses - The Korea Times",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPamx3cnpWOEJmdlg5bFRSXzl4YmNPVFJFb3VIT3pUYi1Ccy12X1pQNEFXcUVWYnBYSjM5Y01XVUx2XzhKa3dJbl9Lcl9BMng1aXVVZ2dVWnZjNmQ0M28zeU1DbmVzaUlyaFItd1hXendIOWxTSGRsc0cyQ1otYkRoRGNjd0t6YVY2dVFEY0NlSHBuUW84OFRNbkhINWdvNjFGd0syd2RUcEVLc3R2M1BEUmlzR2J0OFJhR2Jj0gHAAUFVX3lxTE90YldJY3ZXeTZ3WlFraXA2a052V1RKZWo2a0NVYnF3bEUwODJyS2hscEVnczJTd1ZhMmxaaVAzNnI4M2Z1Nm5rc2p3WG0ycEJ0Y0FsRGFzUExTOUJPUl8xR2c2cmlSWnNETnVaOVlfUTZIQ2ZPb0VfamRabEx6NERsV2poWExrMFl3QzB0cS1vdlRUUWlXc0R4alFKSXo2b0xXNHpVb1JteENybTJMMW02c1dQX0t1clVOVzJuVGszUg?oc=5",
+        "press": "The Korea Times"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
