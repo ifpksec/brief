@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "generated_at": "2026-09-07T23:31:48.895371+00:00",
+    "run_date": "20260908"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.18 (+0.02%)",
+        "description": "전일종가 99.16 / 변동 +0.0160"
+      },
+      {
+        "title": "미국 10년물 금리: 4.78 (+0.46%)",
+        "description": "전일종가 4.76 / 변동 +0.0220"
+      },
+      {
+        "title": "VIX 변동성지수: 15.30 (+5.30%)",
+        "description": "전일종가 14.53 / 변동 +0.7700"
+      },
+      {
+        "title": "S&P 500: 7718.60 (-0.38%)",
+        "description": "전일종가 7747.71 / 변동 -29.1099"
+      },
+      {
+        "title": "나스닥100: 29544.15 (+0.21%)",
+        "description": "전일종가 29482.32 / 변동 +61.8301"
+      },
+      {
+        "title": "다우존스: 53414.25 (-0.51%)",
+        "description": "전일종가 53686.11 / 변동 -271.8594"
+      },
+      {
+        "title": "USD/KRW: 1344.71 (-0.03%)",
+        "description": "전일종가 1345.06 / 변동 -0.3501"
+      },
+      {
+        "title": "USD/JPY: 153.90 (-1.47%)",
+        "description": "전일종가 156.20 / 변동 -2.3010"
+      },
+      {
+        "title": "코스피: 6687.21 (+1.64%)",
+        "description": "전일종가 6579.48 / 변동 +107.7300"
+      },
+      {
+        "title": "코스닥: 813.50 (+2.95%)",
+        "description": "전일종가 790.21 / 변동 +23.2900"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.450 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.42 | GEX -0.0B$ (만기:2026-09-08)",
+        "description": "콜OI 66,864 / 풋OI 95,102 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.93 | GEX +nanB$ (만기:2026-09-08)",
+        "description": "콜OI 50,699 / 풋OI 97,723 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $188.87 (+4.60%)",
+        "description": "거래량 18,358,500주 (평균대비 1.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $773.92 (-0.41%)",
+        "description": "거래량 10,435,800주 (평균대비 1.3x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 51.5% (103/200종목)",
+        "description": "평균 MA 대비 위치: +0.3%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 71/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "European stocks close mixed and Asia-Pacific markets rise as investors assess renewed Middle East hostilities - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DZWtOQkk1ZVBEaXhYWDhfSkdkV2RsNm9RV3pCZWtkVXBrNzV0QzNrVTJ5Q05aeG02VUZmdm51UVV3TklMWXg2TGVFb3ctWXEtYndobEI0dnJzdE9PaHFxZ1RpaENoTGgzMGFFc1plZ0d2Q1ZLcFZv0gF8QVVfeXFMTmV2b1B1TWM5MUR6SlFJOGFHa2g5UFpreXpJZFlqeE9qbVlpSm1Oa3pFaGZ2U21Yd0lxVDlWNmRrSzBINXZ2emZIVHFvSnVLSzg5Y050dUxVUUhLcjVaTjJDdFIzSFhWaTViVThaVUtqVmxZMmFvZHB1UlVRcQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Dow Futures Fall, Oil Prices Rise; Nvidia, Micron, Sandisk Flash Buy Signals With Apple, Inflation Ahead - Investor's Bu",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONnVmdkRaNDVMaV96YWJ1eGMzRlFGUTRMeDVfSlotMHFRaGJlN2VMTFpGVzQtM2JDVndXazFpY3VVajNBdG9BemQzZ0xKV1d2ejJkVVAzbWlOUGQwLVB1dU0tWnNuM2t1WEhaSlBwbDlmd1BDM3BaUU1od242RXhEanBPeEJJUF9LQS1GVzZwQTV3Q0c3bkVMN3lLbDhHU0tPY2xYc1p6NWRMMVBKTTF2dHJqNm8wR0NEMllEWkpLN0hmMEU1Y1ZhXzlQNDRYemM?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Stocks in Asia Poised to Edge Down, Yen in Focus: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeUNXZ2stRmRzNFVKSjV5cm5EMUh4SG80emRXbVlsMFNhUHJ0SFYxM2hzY1B6RDhXbkc2aTZJdXFOY1FwQW9WWHRERWlINTc4OU1IWkZnLUhlSDRZc0hGOEt5RjlscWNsMUxLbVZLb1RCbmViemZjQk0xNTZFMS1KbXo4TmxrU0x3dGFCVzkwSURoaU5m?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMlpueldQaUNhSVFJc2tqWjhZZGdGVzgyWGo3WFBEdUt5c2h6aTY1YW1yTUdHaW03Q3htX3BhVWlfUVZoMU1icE9aTDd3YkJDYjdSWGQ5NE41YkNMMWZGNEZ5REhKeEY4ZHNlYzJ3T3ZlRHJ1N3BSTWpYTmIzVFBhWlg2MmRNUmpsQkpjSlBXSWlUM3BCRGlPc2h5N1kwOFpIZGZwbjBEc1YyRjI1ZmJac0530gG3AUFVX3lxTE9JTm9JNGFYaE1nb2pkdFZ3M25CcThKYUlwd1JpMExKQ0xpQmExZk1FOS16eTFUSDBSajVuRkRsVHZZQ24tbDFweS1WVDBrVEtDXzdWQjktUU82NV9ZcVRxWjMxSDRESkhRWXBCVHVXTmUzY280cU16bmdGdGI2WkVDVlVib2ZDT194ejdlMkxkbEJ4Ni0yeFQxcTVLMS1OZF9DSDg3YnBrZkhVbU42S3JBN0ozVm93TQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Is the stock market open on Labor Day? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEk5Y1dsRFdDNXBxZ1hFN1pFQ1QtUGN4YUhvMWJsUjdIMVBieGdaRFp0a0d6U0dPQW4ySkdNR3pVVmRobkp2VEhzMl93OFVoREUxZ1lLck9EWHA0ZWhZR2F0QTJZb1VQZUVxTEM5eXJGa1hrZzh1V1J6QVpzYmZmYmhyeW0xTmdwaHc0SVNzV2VQRDJGRXNnaGt2WG9xS0FOMWZ0RFNTZFA0bGx0Rmt4V1FuMA?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Crossarm Braces Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95V21GOGJVemJpSHk2SWRVQjMzcVpFMXBlRzBEVHh1R1prdlBLWGY2X1lxT1NfTzVMMHhXLXVORUhYMlRoc0dLS0pKeFBLS211OG1OTmpidnd6cjN0djJoVGVDTjhsNjBiczJ1MTRPYTRRUzBqdHlZ?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Is the stock market open on Labor Day? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUEk5Y1dsRFdDNXBxZ1hFN1pFQ1QtUGN4YUhvMWJsUjdIMVBieGdaRFp0a0d6U0dPQW4ySkdNR3pVVmRobkp2VEhzMl93OFVoREUxZ1lLck9EWHA0ZWhZR2F0QTJZb1VQZUVxTEM5eXJGa1hrZzh1V1J6QVpzYmZmYmhyeW0xTmdwaHc0SVNzV2VQRDJGRXNnaGt2WG9xS0FOMWZ0RFNTZFA0bGx0Rmt4V1FuMA?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "European stocks close mixed and Asia-Pacific markets rise as investors assess renewed Middle East hostilities - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9DZWtOQkk1ZVBEaXhYWDhfSkdkV2RsNm9RV3pCZWtkVXBrNzV0QzNrVTJ5Q05aeG02VUZmdm51UVV3TklMWXg2TGVFb3ctWXEtYndobEI0dnJzdE9PaHFxZ1RpaENoTGgzMGFFc1plZ0d2Q1ZLcFZv0gF8QVVfeXFMTmV2b1B1TWM5MUR6SlFJOGFHa2g5UFpreXpJZFlqeE9qbVlpSm1Oa3pFaGZ2U21Yd0lxVDlWNmRrSzBINXZ2emZIVHFvSnVLSzg5Y050dUxVUUhLcjVaTjJDdFIzSFhWaTViVThaVUtqVmxZMmFvZHB1UlVRcQ?oc=5",
+        "press": "CNBC"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Does Micro Contact Solution (KOSDAQ:098120) Deserve A Spot On Your Watchlist? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNa3NHV1NlSGxTOWJ3T1dsRTdxcmJNVWNLWjJLMURCdlpmZjVsN3loUEp3dTdFZDVia05zaEVDQkNFeHhyZ3NjeS0zMnRzSDFVQ2FWS3BzOUpLSE1uQXU0SGFDNGdwaTl5T2pXdnY2b3p2c3RZR29QYlZyZ2F3NHdWcGpEb3lEZ2pKSmk3SWFzN3JodVRNb0JERDFqdHA0bmxkVFFId3FrTEZ5X2NBX3ItMlprSGZKMXhNU19fM1ZSTFQ3N2xqOTNVbm5hb1gyZHY2YU1TeGlYZXhySWcydzdGV0F0eHhfanl1WFFwVGF30gHzAUFVX3lxTE1HVXo0YXZ4cHBmcWlQRGwzU2pGUDF2cmVFVElGcnNuNmszWjhpdVJ3WkthWEtTRmhPeGxXNlNTdXp6U2NVWGFiOFppbHZFZ1JQaHlxbDVOWVBUYXZNWTFSTHRVNmJQc1ZKS296bkl0a1JoNzBLbTZwWGZOUnlxR1BpUGZoWHVIWFUya3dZRHJqUDR3aWMzNk5nR1l4eC0wSHZ1b05aY0M1QXRUck1aU2cyNDZiLXZvWk9Ra043RDR3SmVxRFltQU9kdFlsWVNmUlktN3lnLVJ3R3dNTEpZX1F4cWx5ekZabFQweWhhR1N0RlZqdw?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Professor Kang's COVID-19 Stock Scheme Nets 18 Billion, Stock Halves in Five Days - chosun.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNay1jNldhMGtydVppdG95b1J2d1FQQWdpZ2x4dTZKU0R3NmN3VkxJSmJ4cldjdzJGSGx0b1dhWjhxQVM3cUtYRXRuSlctTXlPN1dPakRncmJaTEFzaFlJZ3pUS0V2SFEyMWh3Y0U1cnpqZWFEX21MUDIxZHQzTlN2VzU1ZlVlVUxtMi1mVndB?oc=5",
+        "press": "chosun.com"
+      },
+      {
+        "title": "Samsung Starts Second-Half New Graduate Recruitment - chosun.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFdma0xkZm5nS21BMVJVVVBONEpnQzdiQVg2TUl2b3lUWVQzQlpxUXp0eU9TVTB2dEl6RFVFbnhOMVZXWmt3YWVxSmppSThlcDJjZ1A2b29CS29IZlZIaXV0NlBDcE1zNXJLYm5oNmlJNFdQRXRDS3NhdUVaUWFJSlV4M2hpdmZP?oc=5",
+        "press": "chosun.com"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
