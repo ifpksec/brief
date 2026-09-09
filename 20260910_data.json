@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "generated_at": "2026-09-09T23:32:03.797031+00:00",
+    "run_date": "20260910"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 98.78 (-0.06%)",
+        "description": "전일종가 98.84 / 변동 -0.0570"
+      },
+      {
+        "title": "미국 10년물 금리: 4.84 (+0.65%)",
+        "description": "전일종가 4.81 / 변동 +0.0310"
+      },
+      {
+        "title": "VIX 변동성지수: 16.46 (+4.71%)",
+        "description": "전일종가 15.72 / 변동 +0.7400"
+      },
+      {
+        "title": "S&P 500: 7636.36 (-0.48%)",
+        "description": "전일종가 7673.52 / 변동 -37.1602"
+      },
+      {
+        "title": "나스닥100: 29421.55 (-0.29%)",
+        "description": "전일종가 29507.70 / 변동 -86.1465"
+      },
+      {
+        "title": "다우존스: 52380.66 (-0.77%)",
+        "description": "전일종가 52786.07 / 변동 -405.4102"
+      },
+      {
+        "title": "USD/KRW: 1339.52 (+0.02%)",
+        "description": "전일종가 1339.21 / 변동 +0.3101"
+      },
+      {
+        "title": "USD/JPY: 153.35 (-0.08%)",
+        "description": "전일종가 153.48 / 변동 -0.1290"
+      },
+      {
+        "title": "코스피: 6954.52 (-0.58%)",
+        "description": "전일종가 6995.39 / 변동 -40.8701"
+      },
+      {
+        "title": "코스닥: 811.88 (-1.25%)",
+        "description": "전일종가 822.19 / 변동 -10.3100"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.518 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.94 | GEX -0.6B$ (만기:2026-09-09)",
+        "description": "콜OI 125,343 / 풋OI 243,063 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.08 | GEX -1.6B$ (만기:2026-09-09)",
+        "description": "콜OI 84,779 / 풋OI 176,215 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $190.78 (+0.46%)",
+        "description": "거래량 11,026,516주 (평균대비 0.9x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $766.10 (-0.40%)",
+        "description": "거래량 8,159,730주 (평균대비 0.7x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 37.0% (74/200종목)",
+        "description": "평균 MA 대비 위치: -2.0%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 66/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Dow tumbles 400 points, posting 3-day slide as rates jump and Brent crude tops $101 - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jVWZhUUhTR016OG10ZS0zRG9YYjZUcUNQSVZJbkZzbFVvREpTSzg3NXI3Ry1US085NDRndjRzRFp3Z0NBdm10ek1OWTNuSjVyV1h0c2V2ampsQTJOSURMSGhqWWJ1YzhVODFSYkZiQXJKTUloaVY00gF8QVVfeXFMTjdLSXBKbXFzdFRiVWdzVzY1LXdRS3B2ZFY0Rl9ZNGZTTkhYRW9US25pQmhHVXR2eUE4VmNkS3o0blJFMDZMWjYtaElOS2NoQnNzdE82UUhhbXFwWTJDbVBxQnBVRVU3VnV3dFgtV1lJRV83Q2NFaS1BZVlCLQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock Market Today: 10-Year Treasury Yield Hits Multiyear High; Oil Touches $100 — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaDY4TWd4cWFRZEdRUjFoQ0RpSUFRN0QtY0dXRWxYbjlGQlBEc0J3cWV0RzhSVUd0N09FRGhPTHI1NWtBOThwMTNscjhia281ejR4Tjh0Qi02WE1EcFlLZHY0VGJwdVZUb3ByQkdlWndpZVpleTZ0SlZuMUpTUDlaUWswdTFDVmM?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Robinhood CEO Vlad Tenev Defends Stock Tokens After AMC Criticism - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzRLS041cTMyN0tnNzMtNWxQZXk4NkgxUUxFNWJGYzFURTVnVVY3TjlSRnRQakl4OW9NR1kwaFZ2LXdWcy1KeFRuUzFfekFtSXJwMG15MUx6QVl2aVdWU2FISUpJelpVamVXby1DMk1LVVgzbi16ZHhrdkk1bGpMZ2RFZEV0cTdVTmxMZ1l3VDVkQzdfTnhUQlAyQ2VVQQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Bond market rebuffs US treasury’s plan to buy back $6bn in government debt - theguardian.com",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBRbExqQkEtQkJxYmJsZl9xNGFJOXVsTVdDbnFpMUJQUHBWRnFMdU1ZWERfV21Bemc2YnRkNldNWmVPd0VocXV4Rk5tSzAycUVpRTJDUllhcnJpUTlYLXFubDlXVm9hLVZZSmpwSExzWlB6bXBWSG5fZ3Vn?oc=5",
+        "press": "theguardian.com"
+      },
+      {
+        "title": "Bond yields hit highest levels since 2023 after Treasury Department announces up to $6 billion in buybacks - cnn.com",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0bE9oUndpVkQ3aE9QM1c2R1gtWkw5UVYxcUp3d05MdU9IQ1VhcFl3bGFEd1BhaW12V1ROQU01Q2w5QjFaX2ZCZ3RsVUs4a2ZUSk1jLVVnUy1NVGlNbkRncjU1TlltWVJKSm5J?oc=5",
+        "press": "cnn.com"
+      },
+      {
+        "title": "Bank of America Spots a Major Semiconductor. Micron and AMD Are Big Winners - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdEZFd25BUkluV0llbkhwRFQzRjlfeDM2M2Jwb3R3b3JZbEYyMFZKcGFSamxrOFVMSkZsTjdpUm1qNEhuWEloUXM4NmVSX3B6NmJmdWh1cUt0VkxpNHNBYjc1ajRGMDB4NVFpNDlkcnM4T1ZNU3VheGE5eTRwQU5VengweGxxQmMyVzZGMlRvQWNtTUhpaXB1dmZXQ0tQRVRGSTZMSzRB?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Why Is Everpure (P) Joining A Major Index A Big Deal? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQkw5NmtxWENZbVh6bTY2WXdvdEtKSnUtUkl0MGpjOXl2ZlQzRE50U2M3MXJmeG5kRVZxODhhR0w3cExiajk0Z1NiRzRsVHZXSVlQSkFMX3ZwNmQzMnB1RXFsU25iZW03RDdRcEJyQ280TGt6dXVMVlJCdU1td3hJYkNzWk9iTV9VcnBSSUg0QnhJaW54b1pqME5vQ3IzeDRzWjV5cUg3cUlybG5L0gGyAUFVX3lxTFBRSFppTXRyUnVSaTk1UGhwTWNOdzYxYVl3dHU0V2VHWnU0NnVEZmktSVlja3pTRVhkYm43REFqNThvYm9fdllHVUo2bFhiU0xiVlAtSFp4RVdlVVJnY0VLUXFHMk1ReUFKZ010X0FpQlpUVG5tZWNPaER0RThmUHNpTjlreWdUVW1mZE95SHU5NlFTc3ljb1lGeEFtZ3R5UkQ4emhuVFh2VE5XMEppTzlIM2c?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "History Says the Stock Market Has a 95% Chance of Gains Over the Next Year: 3 Top Index ETFs to Buy Before November - Th",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRk4zc0VLYVFwenBpMUtFUGFUME5NU1psajhqS0FfdTZsZmxOZm9xUmZ2ZzFqc2ZoTXlVZU5IMkwxNEJVODFuZVdXS25mRlFYbVNyeVR1TXZEVlJxcHR5Q0VQaVpQV0R1ZFc5SHp2dU1IYUx6dWJqZjNUb25ad291RGw2RUJ0dXQxbk9BeHk1ZHY1OHM?oc=5",
+        "press": "The Motley Fool"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "KOSPI Reclaims 7000 After Absorbing 16.8 Trillion Won in Retail Selling - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQekdyWktOTWwwSjRZRWxsSzJsVk1PTEgzNmxpaVZDVTFkRTRQUmZBb2djVkg1ZmV0MERtbXczZDlGUjBPSFZHeGt3bjV4R3RWSEVKQVJwcUdmTnZDQ2o5TjhiUldvakEyQXJxOWZ1R0s5a3JpYXI3WUh1X0Q5dzd0RHdpRGRNUmp1SzZZSm9mS2tVMEpGSFlUaFlwLW9GQQ?oc=5",
+        "press": "Seoul Economic Daily"
+      },
+      {
+        "title": "Companies Like Innometry (KOSDAQ:302430) Are In A Position To Invest In Growth - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSnhoelR4bGxzY3RLNGlPMzAzU0lPb1ZXald0VzM0cE10XzRuOXg2UFpVbTk0S3gyZ2EwaW0ybnJnU29Dc3ZBdDBEeTI2SzJ4REEzTkcxTFJyeXZuOTkxV1JUMUZ2NVhYckZ2eEVyWU1ELXBuc080VVlweEQ5TzE5Z29sZDVoQ205OE04UVVoRUJiRlpFR2ZIWWM4OVJLM3BJQ0lXVlNqWlh5a1REbHhySHBuNnVKbXlfMEdtS0t3NWNsdlNhTm44UDdoWXdCa2vSAdQBQVVfeXFMUEZIZUgyZUQxS01DYmhBbmNkUG5KRFJWY2lsY3luQTVWSjlkaDRJSDlROFhxcU1zRzIwNEoxM2tXTGhaMTl1cjYxaC1iRjk3bjFpQWhMdmVKLW4zdnB4NGVWXzNxcklyVFUxakJGRDJPY0lMejhEQzZ0ZkZtVkw2YnFlUXN5OGNRdS1qYlpkdjlLODdkM3RBZVVvZkkzSXlTZ29IeHRSZ3RxRzJaQTRocGw5cUFsTTJzQlpPWlFSN3prX3NjSngwRHM2ZTMwWlM0M0xmTWk?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Genencell lobbying furor ties Kim Seung-won to KOSDAQ players in South Korea - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPLUM5bkNFNmNWVG5ySExfUGc3amFxYmJzbXI2a3RhdXBQcFRLVHNGaUNtUkQ0dWNlQk9vMVJLSXZUNU54UlF2YXk0LXQxaVFYeF84MHhpUl9JOXFuMEw3d1dMQXRSeTFnVE5mNEFiSlA4N1JtYWdxbjRFWkc0Z1l5eA?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "S.Korea maintains steady job growth in August on gains in arts, recreation sectors - KED Global",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rRnJSVGplR0FUNmJKbHo0eENFY2VEU19ncjBHMGN0UHI1RGhkSkpwMnhYNTNRaFF1cDdXRGRNYi1OS3h4QWN2NUpWSkY4UTVmejBBVE5BT3dFcDFwZGM0QmhPMXp1dk9ya3c?oc=5",
+        "press": "KED Global"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
