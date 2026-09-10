@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-09-10T23:32:06.687010+00:00",
+    "run_date": "20260911"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.09 (+0.32%)",
+        "description": "전일종가 98.77 / 변동 +0.3200"
+      },
+      {
+        "title": "미국 10년물 금리: 4.94 (+2.21%)",
+        "description": "전일종가 4.84 / 변동 +0.1070"
+      },
+      {
+        "title": "VIX 변동성지수: 17.84 (+8.38%)",
+        "description": "전일종가 16.46 / 변동 +1.3800"
+      },
+      {
+        "title": "S&P 500: 7591.70 (-0.58%)",
+        "description": "전일종가 7636.36 / 변동 -44.6597"
+      },
+      {
+        "title": "나스닥100: 29103.51 (-1.08%)",
+        "description": "전일종가 29421.55 / 변동 -318.0371"
+      },
+      {
+        "title": "다우존스: 52064.10 (-0.60%)",
+        "description": "전일종가 52380.66 / 변동 -316.5586"
+      },
+      {
+        "title": "USD/KRW: 1348.11 (+0.67%)",
+        "description": "전일종가 1339.17 / 변동 +8.9399"
+      },
+      {
+        "title": "USD/JPY: 154.55 (+0.64%)",
+        "description": "전일종가 153.57 / 변동 +0.9770"
+      },
+      {
+        "title": "코스피: 7051.64 (+1.40%)",
+        "description": "전일종가 6954.52 / 변동 +97.1201"
+      },
+      {
+        "title": "코스닥: 830.37 (+2.28%)",
+        "description": "전일종가 811.88 / 변동 +18.4900"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.541 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.77 | GEX -0.3B$ (만기:2026-09-10)",
+        "description": "콜OI 131,528 / 풋OI 232,263 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.64 | GEX -0.5B$ (만기:2026-09-10)",
+        "description": "콜OI 83,200 / 풋OI 136,325 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $182.78 (-4.19%)",
+        "description": "거래량 14,786,177주 (평균대비 1.1x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $761.53 (-0.60%)",
+        "description": "거래량 17,461,861주 (평균대비 1.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 32.0% (64/200종목)",
+        "description": "평균 MA 대비 위치: -2.6%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 69/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Dow tumbles 300 points to notch 4-day drop as Treasury yields and oil prices surge - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nZjEwdFhFYzdKY2ppVDA2ZzU3OGl1S2c0Vl83ZWYwOURBU2ppWEQzQWk2ZVVMZmRVRG9OQnJlSFYzWEtkZC1YQ2R1Q0RIdFpJb0tlWmVST3Y2VUpIQ3BScXY3Mnl3YTdhTl9RVXpVcjNWaFI5TE5B0gF8QVVfeXFMUGMwZzI5N1JJSFVENkNxY19DWE5aUm9RMHlldVl5MzJ5RnppUkozclVyOUlETUNveDZMd3RZbHBucG9LN3FTdUlhejBxM1c2R3R6ZE9tUTZlSkdfQnUyZjlaczh2OEt3MUZWVzdoZGFRaXgyZDhLX0lSUld1eQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock Market Today: Dow, Nasdaq Open Lower; Bond Yields Jump as Oil Prices Climb — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc2dUYUJhakx0Z1hEUkZHcVRrV0Z0bTVSZTlJaUdZS1hCeDExelZHUVZ4N0hkYkl3Z0hvVVpGLTJRV2pqT19XZTIwQ0dSdl9lRDY3TkY5NmNPcXdkZHhBR0hTVHBfVklZZVlYekltSk93TURSQXc4QVlEcE42NHlTUkIxdnd0R28?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Stock Market on Sept. 10, 2026: Dow, S&P 500 and Nasdaq end lower as U.S. oil prices surge to more than $100 a barrel an",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSEZWR3JqTnVsc2VsSVlvSXlScWYyeUVkMlZXVmJlMGNHUzJvVG1LaEUySWoxX1FZWE00Y2NkQ284ZW11R0U1cHE4QXJWQm53UnBQR2RIXzBaeHJLNG1lZGlkdlpzV1ZOdzBpcG5oNXJrOVJCWi0zOUJxNFpGNV96MzhJVzlMdUxBU2x3ZUdDaEp2d3VJbTB2aVI4ekdTQWJfa1cxelRZSWd3ejkyQWpDb1A2Qy1QbVdCRWhlMGR0Yk8wUE9BQ0s5ZXVrUDA2SjJUa2diX1RwOVM?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Cathie Wood buys $6.5M of surging semiconductor stock - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVHg5NkVYbDN1NjNBX2wxbGxkTEs0elpaOTJkS2tXMFdPS2U5YU8wWDluLUVzQjR1STJldW1kRk1nMV9ySV9qTkd5aVMyRE9pRXlqd05RVERMVzlNR2k3T3pBTk9nOUFvb3ZmZmxYWFdfclpHRG5XSGRxUC16bXFEN0xhdG10Zw?oc=5",
+        "press": "thestreet.com"
+      },
+      {
+        "title": "Tech stocks today: Apple debuts foldable iPhone Duo, AI researchers issue fresh warnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVEVkUDdFcHAxT1hhQ2o3WGNKQWNiTENLODM5TXVzZXJTcno2YzgzakJqalY2MDVYU1BsZnBUUTBJTUt3MmRhZGhpVi03VXN5OXFCdWtLMXpVRWozVUwxM1l5ZUJrZy00SXV6UEdubGlBcmpLeko2ckZYd19JNjAzZHpOSGdNbDhvWmRSZlNfRTZHYlBZcUlQS3JUWGZlN2ktNnUwVVI3VTJxYnU1ZDZFS1ZFUzN6OHFYUDNVaGZEN0xMM1JWcDhOU1Zuc2VEUTJ3MUhYNVdJWEpFcEE?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Aluminum Rigid Tubing Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VU2pYNTFnbTgwRlVlTkQ0TUZ6M3VrMHVhMWhZZklXMDdXTU55eFJTZXJpa2ZWLXRrUVd5VHBTYTI3M0Y3X3JWVEJORk9CNGwtNW45dm8ycEZvd0k2UEtRRElOU2Q3bE5Kci1zTVBkWDZWbnFGOUJjTzlRWjVsWk0?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "VSU Professor Shares Economic Outlook at Georgia Peanut Industry Meeting - Valdosta State University",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZlNFdkVDVTF4MFpmMjBtSnhtdlRvNzlVN1dLMy1SY1ZadjJJalVxa093OUdqU0lCcUNqaHRzWWYtOXd5Z2ZWWVFzanRmSmFiVEpJRXZlcUgwektQVjZhdVRLNWhHV2JQU096cmY3X01zeTZrdDA4YmFIQWFsLWZha1VZRFljYVZrMUxES0p1VGRRdmwwOF9jNkt2clNEeC0tclNCNmh0dDczRHlDQ05qWjhyZGtRY1lQejhiYVhLLU5CSng3Qm9WRQ?oc=5",
+        "press": "Valdosta State University"
+      },
+      {
+        "title": "Dow tumbles 300 points to notch 4-day drop as Treasury yields and oil prices surge - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nZjEwdFhFYzdKY2ppVDA2ZzU3OGl1S2c0Vl83ZWYwOURBU2ppWEQzQWk2ZVVMZmRVRG9OQnJlSFYzWEtkZC1YQ2R1Q0RIdFpJb0tlWmVST3Y2VUpIQ3BScXY3Mnl3YTdhTl9RVXpVcjNWaFI5TE5B0gF8QVVfeXFMUGMwZzI5N1JJSFVENkNxY19DWE5aUm9RMHlldVl5MzJ5RnppUkozclVyOUlETUNveDZMd3RZbHBucG9LN3FTdUlhejBxM1c2R3R6ZE9tUTZlSkdfQnUyZjlaczh2OEt3MUZWVzdoZGFRaXgyZDhLX0lSUld1eQ?oc=5",
+        "press": "CNBC"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "At ₩9,020, Is TEMC Co., Ltd. (KOSDAQ:425040) Worth Looking At Closely? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOWUpjU1BMUEpKTXZhSHdlS21ldFdRMHVzSVpLdnhOaUVyUmF5YWNwaG1JYlBBeUFtMDJqR3otR19hazFaQTVRWk1yNnVnWkFVRWpFRURUcTVYOHBGRWZZVFF5a1A4M1RwRVhSVlZpMmdVTUlHdks4bEdCRTdZWFV3bnZLNXZFLXcxNzNfQTBqd3FkYXNLcDlUOE5NZm51eXZ1bnNvNU55TF9iV1J4R0p1c1BTdHE2OEtHWElHWktxYlFrSVhfVWR3ZTcwRC1hQmJKZXd0TFpn0gHbAUFVX3lxTE4xVEdicEJuNll6SGJrb2xDanFadmJoNnlWQzlFb09kUTBXMjRuTFFqT1lfdkpHanF5VC1sTVR6RUhxWmo3ZnNrWFI4SnRpQnVFTEU1UmcyNkxfemNzVlgzN3BIaUZXX3ZRd1YzTWMyTTE1RWRzVzdWYUhUaGlscm1KVnVnQ2ZWNzF2YnByY1RWbGVGbExreTBveXVMU1hrbF9Tb1lYUWYxRmpOd2szY3NnMUVZQk5XRUQ0Q3VNeXNHczNYUnlmX0NiUVNUTDhTdnVXeUZreEpCOEFTcw?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Samsung union chair in South Korea sues anonymous chat users for defamation - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMk5Hb1pxc25jSGlreXZnSXlSeThBUEppbkRQbVZEa1E2U3NDU0RydmI0T250WVV1ZXh4Tm45b3VuN0hSaUhWQlZuTzFRUWdwOGljcy1SaURRUEFOaXloX2RQc0pTb3VSc2c4dk5CQ1JwNjVpUFY2THpXejE2SjM0T9IBlAFBVV95cUxPTm9UZHdESzAxbkdaTS1HNVE5eHJCNkh3Qjk0QTdRVHdzN1EwSy1YSVV6OUdpaEF2MjktMFN5NGhadmxseTNRU1lQVkIyenFHVzZyY0JhSXdoZDNyN29lNENTWG9vamVUWkhiSF84bVFHaVl1MWx4eVJ6SmJsQkZkY2RvWTNQMTk5MDdXZEt3em9Mbmpi?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
