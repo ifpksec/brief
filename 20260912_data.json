@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "generated_at": "2026-09-11T23:32:12.104841+00:00",
+    "run_date": "20260912"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.10 (+0.01%)",
+        "description": "전일종가 99.09 / 변동 +0.0050"
+      },
+      {
+        "title": "미국 10년물 금리: 4.97 (+0.63%)",
+        "description": "전일종가 4.94 / 변동 +0.0310"
+      },
+      {
+        "title": "VIX 변동성지수: 15.84 (-11.21%)",
+        "description": "전일종가 17.84 / 변동 -2.0000"
+      },
+      {
+        "title": "S&P 500: 7656.98 (+0.86%)",
+        "description": "전일종가 7591.70 / 변동 +65.2798"
+      },
+      {
+        "title": "나스닥100: 29368.44 (+0.91%)",
+        "description": "전일종가 29103.51 / 변동 +264.9297"
+      },
+      {
+        "title": "다우존스: 52573.29 (+0.98%)",
+        "description": "전일종가 52064.10 / 변동 +509.1875"
+      },
+      {
+        "title": "USD/KRW: 1341.05 (+0.14%)",
+        "description": "전일종가 1339.17 / 변동 +1.8800"
+      },
+      {
+        "title": "USD/JPY: 153.55 (-0.01%)",
+        "description": "전일종가 153.57 / 변동 -0.0190"
+      },
+      {
+        "title": "코스피: 7033.92 (-0.25%)",
+        "description": "전일종가 7051.64 / 변동 -17.7202"
+      },
+      {
+        "title": "코스닥: 836.92 (+0.79%)",
+        "description": "전일종가 830.37 / 변동 +6.5500"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.417 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.70 | GEX +5.6B$ (만기:2026-09-11)",
+        "description": "콜OI 371,019 / 풋OI 629,952 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.44 | GEX +11.9B$ (만기:2026-09-11)",
+        "description": "콜OI 260,583 / 풋OI 375,843 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $188.72 (+3.25%)",
+        "description": "거래량 11,639,129주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $767.92 (+0.84%)",
+        "description": "거래량 7,579,352주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 39.5% (79/200종목)",
+        "description": "평균 MA 대비 위치: -1.8%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 56/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rise as CPI fuels Fed rate-hike bets, oil prices fall - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1l2WkJJQVE0M0JYMHZxNXo3RnRpU1dsckQ5WmdTa3J6MnVKd0IwSVJMbi1DUl9yVDItZnpSam9kTkFpZGl5RmRhRnVxSHo1Unc3UjRBQlg3Vk9OUXZqcWpyUkVldWJtYzlGekU0MG5Ob09Wbl9DdC1KSHpCX3NoWUwtMFJ1YmswREdUdjhNVVdYQXdjRFJxaHdiYWZnRWwtX0lWVmN1Wkl2UFZwVjFvX2R2Ykt6NjkyNko3VXFMeUVsZw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Why 5% is the Treasury-yield level that freaks investors out - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMktqX2hnLW9GazV5WnBkSEl0dUloUWZoTGNwXzV5RUNzTE5CWU1Hejd4a01XbTFXZlBTd0FzUW9uZHNMT3BJZ0FhS3ozQlpTX1B4UjNCaGRGdVJDYUxlUnQzS3hNdW95dXdJY3EtMDZ1Q3JFSjJlVkZJc1BqWWQwMUJZWGNua3o1WDV1cHVCV01xVk1WVjNNV21GU05OS1g0eV9nZEtBejc?oc=5",
+        "press": "Business Insider"
+      },
+      {
+        "title": "Dow rises 500 points to snap 4-day slide as oil cools, traders look past inflation report: Live updates - cnbc.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83bDk1cW5ZeENGMDhRcU5zRzhWX1c4ekdSRlJXcWRxTlZ3dzUxTVY4WVdlMmd3RDcxUGJ1ODgxZTd1UnZHdHcyS1VrTlV4NHdaS3dEWlpDVDEzVFMtTENOb2dIOThDQWx2ci0xekQxczdnazNtbnJ30gF8QVVfeXFMTVB0OHYyRENzdjdtVUFoel9GNkY4MVBmWXh5Y01wdUZVeEZtVC1UMi1rWEhtN05XbkYyOTBsdXJVVDVOVzMwTl90Q2ZjdkI4S25yNHM1UFRtX0tSZVNTQ1U3RFVjQlhaZWpEZFk4Qjd5enRGNlBaLXBQWEhmQQ?oc=5",
+        "press": "cnbc.com"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rise as CPI fuels Fed rate-hike bets, oil prices fall - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNc1l2WkJJQVE0M0JYMHZxNXo3RnRpU1dsckQ5WmdTa3J6MnVKd0IwSVJMbi1DUl9yVDItZnpSam9kTkFpZGl5RmRhRnVxSHo1Unc3UjRBQlg3Vk9OUXZqcWpyUkVldWJtYzlGekU0MG5Ob09Wbl9DdC1KSHpCX3NoWUwtMFJ1YmswREdUdjhNVVdYQXdjRFJxaHdiYWZnRWwtX0lWVmN1Wkl2UFZwVjFvX2R2Ykt6NjkyNko3VXFMeUVsZw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Evercore ISI's Rich Ross makes the case for owning semiconductor stocks - Fox Business",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jYWZ0NHpXZTlCWndydEN1RjVIbk5odTVOWXgzU3dkMDVVMDBURjFYTHQ3Uk5zdWhHRmhISFRJN3lRVDR3R1NmYWZZQmtfUThnMG94dlVsQWthTVU?oc=5",
+        "press": "Fox Business"
+      },
+      {
+        "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test. - marketwatch.com",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOVdUc0tUZ1I1SXQtODE5dXY2OHBpRl9WOHMzZXhJX014aUV6QmVCN2ZpUjNmdnZMd3hVbzJuZzNJcDhPN2txelpQOFlQa0M3T1FaTW9BSWNXazAzd2VIbGRWb29fTWZRVjlVWUNlZWM1ZmZ3a3N4T1BVSi1TZXRPdHdqSzhtZWV1Q2dMLXlkbzk3ck8tb2RqM2Fobl8tc3ZmeGl1b0JRWndBZzdxdnRfZGxqaUgzMXFyanFNTlMxa3M5YlJCNUxGOW1xRXNwSGFMRHY4LWgzeW4?oc=5",
+        "press": "marketwatch.com"
+      },
+      {
+        "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "A Rate Hike Is Basically Locked In, and Stock Market Indexes Rose Anyway - Currently.com",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdGxtYXdvM0p4cDdBWUxhcHF6WlpYTGowb2dRejlyR0JmSldBaDZjM1NhY1pfRVo5d19LVnh1dUZwWTVjbTFFcnZtWEYtU0g2ajZFaTl3UWI4N2dmenRCemFjdXc2Z1RHZ3NqVnlGSjRWZF8yVWROYWNRYTJJRDJRcmN3R0NNajJ4RnVz?oc=5",
+        "press": "Currently.com"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "South Korean retail investors sell $9.6 billion in September - upi.com",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNHVIalJQdWV2V0lwdk5ROWMzZldtbGpTT3ZuQUxyTWdzNjk3MlFzaGhQLU8zaDRWaGo2QjlIbTFKV2V3bEVJcEpNWU5BOVlCS0ExcG1QMXk2aVlYNDdnTUtHSHpISDRmNU5LNWdJd09BdGNackR4TWt0NUV3QlNMY0RMbF9mWGgxdU0yekZWOHJzWmZwZC1FZTFFanhiWTRraUZIYTAtNVRNSzTSAbABQVVfeXFMTmlxYUd1cERQQjg1RXBQd0hlbVROdHZ0b2x6VkJ5WUItanZtZ2xDVVhfemhYUk94WVNUNE5ha3dvQk8yZHM2UUFpTVZ0eGpEajQzNTkxT013WWdSaERCTDJITEVEelRBSDJDbzJTZXptaFd3TVYzV29Ic282NVExRXd2NU1vSlNYbEtYdTgtdXhlUmRpM29ZOGZIRF9oWWFFeHlRRmFZaTA4WC1iTUpkRVU?oc=5",
+        "press": "upi.com"
+      },
+      {
+        "title": "Is It Time To Consider Buying Cosmecca Korea Co., Ltd. (KOSDAQ:241710)? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQM3VpNFRGTWRXOGJDaEtvaENwZnl1VFlCalVuLXZMU016VWEzb1NIR0QyQmVGZC01VEN4UktOcHJTbm5iYlUtWUd2QjlRZjB3X1NjOFJBQno1T01jWG9OV3NTSjZheXNvVmYtMmxVajFCcEN1Nm9EWV94NTUzWEQzRkJFdFlxdC1xUThyUWd6dXgzTlcwdHI0VFVPX0tqdHY0akx0ZnBhUG93YnpmQnFMSEhSMkxLbDlCdU96U0x2bjhybkduNXBydEdadUlXTktfMjU2dFhBX0UzZXJPN1dJ0gHkAUFVX3lxTE9nWVFtTnJ3cmRlWGNMSUI5Y1dLaUlNLTN3aWhmc2JVTkZjNDVKZGtNRmwwQ3QzbDdWUVd5cWVrTmJfUUNYYU5NWFQ1ZmdqbzFZckdiVnBFY3B4ajRZOFRLLXRnWDVWcnVIUWlzMExRSllWcTdkZmhGcHF1dFdUak4wWndySGtBb1lNeEJTOXlHdi1kU1Z2WFVRb0pNU3BQMXE0YlRGSVNVOFdib2NtQllSb19EMHo1Zm1SSnJqRmdXSUd6dC13TlZqSm5iRnJaSXNvODhVU01ybFpqVTNSVmVnUzVCWg?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Bigwave Robotics Bets on Humanoids, North America in Kosdaq IPO Push - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGdMYTFjOEJIQy1vQlJoNnZlVWtURWlsQ3VuZVA2VllyRHAweFY1blNOU2JUdkZZek9YUXRHdFZNQXlkZVJuUFJDUlMyWTZpT0N1UlpzUlRkY2VjWVM2UkV0ODRjenJHQkNrdHRnM2c5b1VmUDV6SE1yMGFrdnBfWEVHUVlOVHRlMGRMb3dNd21BUWFlZ2tXcGl5a0pwM1JXamc?oc=5",
+        "press": "Seoul Economic Daily"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
