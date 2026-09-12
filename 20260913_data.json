@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "generated_at": "2026-09-12T23:31:49.592425+00:00",
+    "run_date": "20260913"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.12 (+0.03%)",
+        "description": "전일종가 99.09 / 변동 +0.0300"
+      },
+      {
+        "title": "미국 10년물 금리: 4.97 (+0.63%)",
+        "description": "전일종가 4.94 / 변동 +0.0310"
+      },
+      {
+        "title": "VIX 변동성지수: 15.84 (-11.21%)",
+        "description": "전일종가 17.84 / 변동 -2.0000"
+      },
+      {
+        "title": "S&P 500: 7656.98 (+0.86%)",
+        "description": "전일종가 7591.70 / 변동 +65.2798"
+      },
+      {
+        "title": "나스닥100: 29368.44 (+0.91%)",
+        "description": "전일종가 29103.51 / 변동 +264.9297"
+      },
+      {
+        "title": "다우존스: 52573.29 (+0.98%)",
+        "description": "전일종가 52064.10 / 변동 +509.1875"
+      },
+      {
+        "title": "USD/KRW: 1341.05 (-0.53%)",
+        "description": "전일종가 1348.17 / 변동 -7.1200"
+      },
+      {
+        "title": "USD/JPY: 153.55 (-0.01%)",
+        "description": "전일종가 153.57 / 변동 -0.0190"
+      },
+      {
+        "title": "코스피: 6909.91 (-1.76%)",
+        "description": "전일종가 7033.92 / 변동 -124.0098"
+      },
+      {
+        "title": "코스닥: 820.64 (-1.95%)",
+        "description": "전일종가 836.92 / 변동 -16.2800"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.417 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.40 | GEX +0.4B$ (만기:2026-09-14)",
+        "description": "콜OI 47,691 / 풋OI 66,813 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.84 | GEX +0.1B$ (만기:2026-09-14)",
+        "description": "콜OI 28,318 / 풋OI 52,020 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $188.72 (+3.25%)",
+        "description": "거래량 11,830,500주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $767.92 (+0.84%)",
+        "description": "거래량 7,580,100주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 39.5% (79/200종목)",
+        "description": "평균 MA 대비 위치: -1.8%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 63/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Apple, Taiwan Semi Lead Five Stocks Near Buy Points - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPa0NXTTRONDBkLTlvbEZqcG8tS2JiNDFmMlRNV2Rnenc4SVpaZEZ4M001aG9PNDNhV1I5cDZKMHA2aEhqRU55am9wQWFSb1F6UnRsQ2ZPeEp3UGFEZ2xTZHJWV0tLZnZWempmXzlqUVMtSzU4QkNQMzJXLVRXd21LNzFCek9FOFhVdUd3RDlXZXQyT0QxTko4?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Cathie Wood sells $28.7 million of megacap tech stock - thestreet.com",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcXExYlZsYW40U1BwUmh2MXlaVkVjcUFOSXhvczdHc2Jta09OblhLWUF5Uk44RWN4dzluWWdJbHNmUENqT1VFLXRHOHp3dmZ6WGs5SjFQY2dFWTNHdC1MRERwU291YmdNNkgtNVYyR3BOeFBPWDEtb0hTeUgtQmh6Wkc1NGRSWlZRSmRMUk9VZDNaNE1nWmxyX1hsR25YZWdsNkFxakk3Y3oyMnV5ZnNHWnJpVVotZHRJ?oc=5",
+        "press": "thestreet.com"
+      },
+      {
+        "title": "SpaceX To Get Weighting Boost In Nasdaq 100 After Rebalance - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdlNsYU1PZVZldnFXRHBWdksxNnpCemlMRkIwdHItYjJtbWMtLU95N3A4VGdxQjg3NGdMZTlYU2RweEMzRFRicHJRNGl6dVJNQXhDaDRsaVNNejlZT3JYR05KMFFmdzdTaFRwcFhUU0dRbUZKSmFxVHktZlNPeFp5M3prVW5wc1BSYm1mTzU5NWVMMXFUODR6QXFRTlEtR3VadE5PRms4OGdvckFmRDlv?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "(HXQ.U) Strategic Market Analysis (HXQ.U:CA) - news.stocktradersdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTXpwM3ZkeFY2SWdWTDJ3ZHBINUZBR1JONDVhNkJuNzhjaF9vbk43OGl1RU44bk05aFMxV2dWTzlXWHpPelVLSTFLS2hmT3hIQ3JhMkloSDA1RS1PSl92MVBjYW1kVGNzdVdzWnhzY3MxZzRqbnZ2SG0yYlhGQUdQQ0wtajJOdlBoeTgzM1dfSFFNZw?oc=5",
+        "press": "news.stocktradersdaily.com"
+      },
+      {
+        "title": "Larry Ellison Cancels His Plan to Sell Oracle Stock - Oracle - Investor Relations",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVHRCVG83MlNqOGhGLWJyUjdRRkViRENWUDMtWGk0RHljS2JacnRyTVpPNDBqRHQydmpsNVdzYVBKVlVYcHFILUwybENVR1NoYklyYXdKbDBEMkFzemlFb1AtVXpNZmk1V2h5cXBkR1ZkZXZkWDZmZWZ0am84NWNEU3RPYTZkMnJ0NGNmdDBHa3NBazRubzVzZG85MVgzcW0zanVtZ1lOSVl2ZFYxbHFuZFB2ZWFZdmdWV2l2WXV5OHhzZw?oc=5",
+        "press": "Oracle - Investor Relations"
+      },
+      {
+        "title": "Nvidia vs. AMD: Elon Musk Picked a Side on the SpaceX Earnings Call - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaGRpeV9TcmZZZnBjQUxyQThaRk1rWGJsRDdBUVJGZ21jVjNSQ3B1X0d1NXpRMWMwUzRJcWItYUUtcU9jMUN3dDA5QmpUck1pcDBXX2p5bkZfelU5a2xSUDkyYnpxRFIxeEV3Wm9GMVJCcmdkc0d4cmFSMW5tdTJpN1dSZ01MWmRsMFF0bU10YXZqUQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Sam Altman: OpenAI won't go public this year as IPO now would come at an 'ill-advised moment' - fortune.com",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMm5STnhuRG5MT1ZWUjlzeWNqVEFGTjVxaVdkX2hzdjF5VElRajFKd3B2NlkwcWxNSFgwOVczb1l1N284MVlhNTRtMFN4T1dyY1NNVmdFeDBRQVdGWmZmRjdYM0NuTTN5SXhvbi1UaE55TDhCUmdINEZ6c2VobFZQX3ptWm9sTkE3UjB0bDZzNkxlLUxzZHE3N25R?oc=5",
+        "press": "fortune.com"
+      },
+      {
+        "title": "Nvidia may bankroll Anthropic's massive IPO - Mashable",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1Bb01qUGttTkxJUEt3SWdwakxaMzZjTXd3V3E5RjhXXzMyZW9YX0pjUmtlcGZyYXp1amRTbVlVMmxka284RWxFcGp5Tnp0TDEtbHUzeU1rcXZfdkFkTU53UnR0ZEdndDc2RVF1R0RB?oc=5",
+        "press": "Mashable"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Gyeonggi Province partners with Naver to boost local pet product brands - The Korea Times",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZFJjYWFBcl93RjAzMENZUGdhb1FjQVY1VTNIR1RnMWJ4WXYwNFM2SG9oR2d6NGc3LUlQNl9kWEVrYVU0ZURKVGlmTlpIQmxEcmtHZV9VVl9PNXNERWVKbHBJR1dYb0RXOEQ5MzhqS2xxWWw1VlJIWEc3bkhDX2JRQjNjSWVyMWNhUlBWcDY5bkFmX0RJaWdyallRX3FwX3ZVSl90ZEUwcFo0TXRXcUl5VU5wd3dHV1NXZ3phbDNDZFloT1hPS0Qw0gHMAUFVX3lxTE5CTnlFaXFlS1k2eEJOczY0SFFudFhTM0FLYVFYQnNVZHFOTjhZTlVSa29PdHFQcURFWGtPZ29DcGx4Y0xsYi1iQmhsbzBXVHBpeVZuS1pnWXo4UHVDMDBKVG9tZURlTk1wdVFtcFo0V1ZGdVpHODBIX2VqdjliTGVLQlJSa0dPUzVIZjVoc25MNTlEal96RXN0aE9PdGk3bnFqczVXVmMxdXNFTHNGYzNlVm9WbVBwSjctRGFoVTAweHVVeko3Nkp6Rm4wTA?oc=5",
+        "press": "The Korea Times"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
