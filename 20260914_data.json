@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "generated_at": "2026-09-13T23:31:55.037033+00:00",
+    "run_date": "20260914"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.17 (+0.05%)",
+        "description": "전일종가 99.12 / 변동 +0.0450"
+      },
+      {
+        "title": "미국 10년물 금리: 4.97 (+0.63%)",
+        "description": "전일종가 4.94 / 변동 +0.0310"
+      },
+      {
+        "title": "VIX 변동성지수: 15.84 (-11.21%)",
+        "description": "전일종가 17.84 / 변동 -2.0000"
+      },
+      {
+        "title": "S&P 500: 7656.98 (+0.86%)",
+        "description": "전일종가 7591.70 / 변동 +65.2798"
+      },
+      {
+        "title": "나스닥100: 29368.44 (+0.91%)",
+        "description": "전일종가 29103.51 / 변동 +264.9297"
+      },
+      {
+        "title": "다우존스: 52573.29 (+0.98%)",
+        "description": "전일종가 52064.10 / 변동 +509.1875"
+      },
+      {
+        "title": "USD/KRW: 1343.40 (-0.35%)",
+        "description": "전일종가 1348.17 / 변동 -4.7700"
+      },
+      {
+        "title": "USD/JPY: 153.62 (-0.55%)",
+        "description": "전일종가 154.48 / 변동 -0.8570"
+      },
+      {
+        "title": "코스피: 6909.91 (-1.76%)",
+        "description": "전일종가 7033.92 / 변동 -124.0098"
+      },
+      {
+        "title": "코스닥: 820.64 (-1.95%)",
+        "description": "전일종가 836.92 / 변동 -16.2800"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.417 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.40 | GEX +0.3B$ (만기:2026-09-14)",
+        "description": "콜OI 47,691 / 풋OI 66,813 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.84 | GEX +0.0B$ (만기:2026-09-14)",
+        "description": "콜OI 28,318 / 풋OI 52,020 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $188.72 (+3.25%)",
+        "description": "거래량 11,830,500주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $767.92 (+0.84%)",
+        "description": "거래량 7,580,100주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 39.5% (79/200종목)",
+        "description": "평균 MA 대비 위치: -1.8%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 61/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock futures fall as investors weigh AI safety concerns, oil gains: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdDYxaFIxTm84YVA5TWNJTHA5VFdNamVzM2FjNjFDTXdzWXpiWi1EajE5Yy1WQ2ZtTXpSVWtGQWVTQWxxNTZuTXozUkhDeXBfMmZCUGpOQmN2enFZSDhZZWl1c1lqZm5DdTg0Z2VNTHhaMldOWE05SNIBfkFVX3lxTFBLSUFVbWpsTFE5OEc3ODgybWlYUnJiMUsxQlE0Zkx6cFdvaDB3a3pMLVJYOHV3MWdFMTNILVRxZ2ZMSTYwY1Y3SkU5S2JCZUFaODVDOWk0eG90MWRubkgzdVloa0p1aXpxNzFRTExRM3FfaFZsR19Pc1l1eGhsQQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Prediction: 2 AI Semiconductor Stocks That Will Join Micron and Broadcom in the $1 Trillion Club by 2028 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRkliNC1ReUVTbncwRGpuYjJPRnFHU3lReVp6bXdKVTgtYTdydGEyZVBSaURsakg1TXZoaUNxeHBjakVWek1xWVN3eTZ5NFlzQ0NoVVd4RHU1dzI4UVlMVlByYVMwMV9kNVFsUUJFTTljUWQwbEhFVDYzWmM3YlAwN3U4YUVHckhsLUJRZGhYcEVwUDVMUTMzREVSWTl2U1dmUXc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Dow Jones Index Outlook: Top Stock Market News This Week - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSkFVb0hxRzUzTVJXdDVoR2pNSUM1R0VYRTJqUkRLVmVBY2pHWEctdEVmbVNadmp6eERGSDVqTTduMTBWVzNsaXlNTjVLWjZWbjhvWXdnNHo4ODdCU0l6cHRXZ09zU05jNGNmamJFbV9tMVdCdzlqd0ZwVnYtMUd1akxXRUlBWlNPUlZac0Fyc09PY2s5SndmOUtpakNMN0hTV1V2czRHWVZXdmR5NWJadFY5NWY?oc=5",
+        "press": "Benzinga"
+      },
+      {
+        "title": "Anthropic Said to Choose Nasdaq for Much-Anticipated IPO Listing - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb3RnTEViYllYRnNTTWVRSjhjX3pmLU5BMENIWGQzN2UyRGZHT2JiM3pwNS1HNjBzcWRNWWR2R0JZOG5vRjNYd2hPMS1lZUVCNkt3MEVRQUI0aW00MTVnT1p2S0F0TFdMdVpBUko1bDJDWjVJQ0ZPbG40Nno1SmQ1akxnOEpORExiR2pXTVdjR1lUdVVxWWhSWkc0MzZDRjA?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Anthropic Said to Choose Nasdaq for Much-Anticipated IPO Listing - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHpaNVFIZFhSb2ZUSG52aTFGdi1ZdHNmaDBzZEMyMkVxRXlNMHR2VWllZmdCREFWOEFSQzZfMHBlTjRCVkY0MTkzZjBqOGhiZERCT3ducXdXY1VhWFduZ3MtQ0NoNTlHYjBlS0prMkNmOWtQQkJId3RGSmRZaEE2alYxay1KaDAyaE14R1ZqTVdJamxneU8zSFJyeG9CQzNZQzU2SktkQVNjR25aMkw0Mlg5blQ1QQ?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "US Stock Futures Fall on AI Warning, Oil Gains: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN2lGQUtDelJmdFZJeERjWWxaVXVFeEcwUUxtQjJ1bG40VVJZZmZyR1dzMDRvVkg4aG4zWFZaOWRtTlVRTW9lY05sZ3JzNGFSbTZwc25DNG9ONlZTUEJGSlkwTDZLSlJ1MmVtMm01SGZhdmxTRTBHWnowWmlrMFhDUmF4WWtHRnRqX1FUTE9Sbk1PMFJEU29fWFZhQTRpS3ZGcGljYWJneXgzb3EtYVE?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Oil Jumps as Shutdown of Saudi Pipeline Deepens Energy Crisis - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWDBYa19LRWNvcjJMVEpURUFsbjlrT0dIdHZ2aFFKcEdUOGhQUTJJckZyTmtuQVAtakFLVEFnNDU2TnV3dzJPYzNma0VPRjdfaXlQRmZ1dF9GaERlYm9lbXdlbFFLMkpVSVpSX19NaTdaVXJBaGY0c2JVd1ZLQmMzcXM4WVNPRE45NUpUTkpYcmdrWFh0X0g1aEw3cmZUVUE?oc=5",
+        "press": "Bloomberg.com"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "South Korean AI Startup Upstage Picks KOSDAQ Over KOSPI, Plans to File for Review Within the Year - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5USWx6NGRmM1cxSGRUbXp6eFZ4cjFRZExOMGVTLXljS3lhS3U4UzdaamJmWGNUU2dMeF9jNHAwNjFmT3VwS25HUEFLSnNFUDI5T0tQb3hfeFJGb2pSM0dsb3NNdFUtdDY5Z21BbkZiX1UxMmY5RGc?oc=5",
+        "press": "finance.biggo.com"
+      },
+      {
+        "title": "South Korean AI Startup Upstage Picks KOSDAQ Over KOSPI, Plans to File for Review Within the Year - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5USWx6NGRmM1cxSGRUbXp6eFZ4cjFRZExOMGVTLXljS3lhS3U4UzdaamJmWGNUU2dMeF9jNHAwNjFmT3VwS25HUEFLSnNFUDI5T0tQb3hfeFJGb2pSM0dsb3NNdFUtdDY5Z21BbkZiX1UxMmY5RGc?oc=5",
+        "press": "finance.biggo.com"
+      },
+      {
+        "title": "Upstage chooses KOSDAQ as Jeong Eun-bo pushes AI listings in Korea - CHOSUNBIZ - biz.chosun.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb0pYZ09LRXpLQTVyTnVKeVBnVDBKbzBVYnlIeGpRSXVKSFJmd3VSeUZHcWRuRG1renZGR1NBLTdRcHhKRWdPbjRUV21uSlpaOUtxbDRMSVc4eWNNQUljeTV3cXZXS2RtZFNWeGlzalNuYTdhYU02YVQ1a29qc2tZctIBlAFBVV95cUxPVGRkUjE4d3hsQ3ZsWEgwMXc1UTR4V2d6S0d6WE1SR0l3RUFERFp0b2JyUG5PVHpHdUxiaTNXLTliazIwV2JzTU1FZ1dJWllvWm1vV21QMURUZlkxaHF4YXpzSTV1SGZybE1qZENfa3FObHJRQ0VTeEJGUVF2MXRPNE53enJSbXBWdVh6XzVGSlcwRHlL?oc=5",
+        "press": "biz.chosun.com"
+      },
+      {
+        "title": "Exclusive: Samsung, SK Hynix Reject KEPCO's 25 Trillion Won Prepayment - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzc5c1UxZGxOWmxnUVp3T3ZiMzJPWVJIZXp2ZEpxYUZOTUdrbVg0SmR0NHk4cE1fb0VpQ3Z2OUl2T3NLS0FSOWpOR0lpbDd0ZE4tNDF3UFFCNXBPeXhBeEZvaWdBd0ZHSWJqbVhIVXdlLXBJSzRoNzdIbEpMM2M0QkVMTTBDZGJH?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Exclusive: Samsung, SK Hynix Reject KEPCO's 25 Trillion Won Prepayment - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzc5c1UxZGxOWmxnUVp3T3ZiMzJPWVJIZXp2ZEpxYUZOTUdrbVg0SmR0NHk4cE1fb0VpQ3Z2OUl2T3NLS0FSOWpOR0lpbDd0ZE4tNDF3UFFCNXBPeXhBeEZvaWdBd0ZHSWJqbVhIVXdlLXBJSzRoNzdIbEpMM2M0QkVMTTBDZGJH?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
