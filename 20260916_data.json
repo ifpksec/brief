@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-09-15T23:32:16.937420+00:00",
+    "run_date": "20260916"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 99.61 (+0.15%)",
+        "description": "전일종가 99.46 / 변동 +0.1520"
+      },
+      {
+        "title": "미국 10년물 금리: 5.00 (+0.71%)",
+        "description": "전일종가 4.96 / 변동 +0.0350"
+      },
+      {
+        "title": "VIX 변동성지수: 17.20 (+0.58%)",
+        "description": "전일종가 17.10 / 변동 +0.1000"
+      },
+      {
+        "title": "S&P 500: 7585.73 (-0.45%)",
+        "description": "전일종가 7619.98 / 변동 -34.2500"
+      },
+      {
+        "title": "나스닥100: 28937.84 (-0.65%)",
+        "description": "전일종가 29127.16 / 변동 -189.3223"
+      },
+      {
+        "title": "다우존스: 52093.11 (-0.63%)",
+        "description": "전일종가 52421.20 / 변동 -328.0898"
+      },
+      {
+        "title": "USD/KRW: 1363.82 (+1.35%)",
+        "description": "전일종가 1345.61 / 변동 +18.2100"
+      },
+      {
+        "title": "USD/JPY: 155.15 (+0.50%)",
+        "description": "전일종가 154.38 / 변동 +0.7650"
+      },
+      {
+        "title": "코스피: 6684.37 (-3.26%)",
+        "description": "전일종가 6909.91 / 변동 -225.5400"
+      },
+      {
+        "title": "코스닥: 806.79 (-1.69%)",
+        "description": "전일종가 820.64 / 변동 -13.8500"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.400 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 3.19 | GEX +nanB$ (만기:2026-09-15)",
+        "description": "콜OI 113,497 / 풋OI 361,682 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.55 | GEX +nanB$ (만기:2026-09-15)",
+        "description": "콜OI 97,986 / 풋OI 249,375 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $176.49 (+0.15%)",
+        "description": "거래량 7,042,261주 (평균대비 0.5x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $758.88 (-0.73%)",
+        "description": "거래량 12,550,964주 (평균대비 1.3x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 34.0% (68/200종목)",
+        "description": "평균 MA 대비 위치: -2.3%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 69/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stocks post back-to-back losses as oil surges, 10-year yield hits 19-year high: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yenZ5YXYzaWh0UWdSejh4VXhxdmVlOHNHSVdnR1lySU1QeVpGZnBWdmw0ZlNodXF0MGNjMDRJV2I3djJNQXoyTk5DTVlRclE5c0FjNmlkVW9wemxWT0RoRFRSU3pVRHN0and3ZkluZS14eE1lcGc00gF8QVVfeXFMT3JnVjBXOXp4Yk5YY2dTRXNqTHNhZnVwWXFnb3RXNUw5dDBIWHctdktybDNwR0tyZlBZRzNPaVFkOVk3bGhmeWhtVnZBSkJzMVBIcFpXV295ZG5MMXY5VG9UWTNQS2xzNWdaNEZhTlJkYnBISzJXaGo5S3V0NQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Asian Stocks to Edge Higher as Traders Await Fed: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONjA5RVNxMm9UNDRfQTFwTzhNTWNHdV9FTXBVRUhrTjE4c0luSHJ1ODRZcWt1NnFIUUd1RnlwNlVqejZ0SVdCaklNMEh0Zkx6OEo4amxiaGxPLVlvSnhIaGJhbVN5RnJDT213YmV1YS1vOHVTbGhSa2FIVzd6SjdGb0xCeUU0djdjRXNQanVGR1dFeUotMG9rUEZkM1NQZVBkdDhjbjNnWFYwMTE3cktyTGZR?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Why Dynatrace (DT) Stock Is Trading Up Today - finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMGh4LTdWYXdtczJhb21DZlphcVZOYk5Qb0JqNFFpSS1IeWJCZlJlTlhrSURpcE9WYVhHQV9ZQTNnRHVySXlmRnlQblVFQnFLR2dtcWF6X0VNTHFQSmJ3VVNDZG5DdnMwa2haLWZKZkFNMkFrU2U0NUJ2ejdYekU2MVZiZHFMUWVFYTl4Y01UTzdLNFo0Mi1SazA5UQ?oc=5",
+        "press": "finance.yahoo.com"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq fall after 10-year Treasury yield rises - finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTg3Q2RKa2VEX0ZOcXduM3kxM3RhemhZcTRZZWxhQnh5S1Y4R0MtWDhZWEJya3dPYXhpVVhpckhnZFpqYVBfY2FaSVZYTUFJTjJTUW5CSW02WTRic1FmQXJ2TDdkVDRIVEZuTzJkQlNRYVFEMjVxenE0ZVNGTm1fWVhQc3ZmUzVGOS00X2xCOUJOcDhDU3RVemhfT3gzbmJCMnFoZ2d2NXRhNkVVV2JqMQ?oc=5",
+        "press": "finance.yahoo.com"
+      },
+      {
+        "title": "Stocks post back-to-back losses as oil surges, 10-year yield hits 19-year high: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9yenZ5YXYzaWh0UWdSejh4VXhxdmVlOHNHSVdnR1lySU1QeVpGZnBWdmw0ZlNodXF0MGNjMDRJV2I3djJNQXoyTk5DTVlRclE5c0FjNmlkVW9wemxWT0RoRFRSU3pVRHN0and3ZkluZS14eE1lcGc00gF8QVVfeXFMT3JnVjBXOXp4Yk5YY2dTRXNqTHNhZnVwWXFnb3RXNUw5dDBIWHctdktybDNwR0tyZlBZRzNPaVFkOVk3bGhmeWhtVnZBSkJzMVBIcFpXV295ZG5MMXY5VG9UWTNQS2xzNWdaNEZhTlJkYnBISzJXaGo5S3V0NQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "U.S. Markets Closed Down Tuesday; Arrowhead Pharm Fell Furthest - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbDUwTjd3SHF0NllERmE2MF9IV2MxSzUzZk8xUTY1REFmM183UkxESmFnRDRubkY1T0kzMHN5aDk5LWJpai1pemhyZmhBVVpreWJMVTZPd2VRYzJLeUZlbEZwVHpxUzZXQ1RFVE1valVVVm5TZ1FFV3J0Vk1NU0ZQa0JJWHotdEtuSWJieG8yVW9CS21xakgzb0EzMFV2ZFozYTVtSUlR?oc=5",
+        "press": "Barron's"
+      },
+      {
+        "title": "Nvidia vs. Micron: Which Is the Better Artificial Intelligence (AI) Semiconductor Stock to Own for the Next 5 Years? - T",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFVlbDZwdVJlUDhMVnk1LTBmRE1lZ0tJenRlZnBGZEphQkJNR21NbWdkSk5GaU1WbDV0NExYZGNCR09Bend5NXBpMmtRRS05andlUWNGMk5XeVczY3lnUTNiRDdhVF9kdzVVWmRIS2xyTjlSVnBhNi1EVUROV1ZtbFVhNjAySFR1dmNhRHBTN1VVejBBNkVfeA?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "Calls for Slower AI Development Have Created a Compelling Dip for AI Stocks - finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQR1BIc045Mkxmd3FKOG9EejZfQ1pZWkxqalQ0S0JlQkRvWEpxbVJ4YWN1dFpndmFfdmgtaFZGdHVWRF9YSmNLODlJUVhJVnBFVGFNQjR2SGl1SW55b2pOYjNyR28xTjg0NURlb09NcWNsZ0RtbDNmWkpXQ08zNG95Yk9DT0RGOVhERWpWSWkxQ0pGcWVKbk45RE5qaFZQMmNr?oc=5",
+        "press": "finance.yahoo.com"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Korea's Global Technology cuts IPO price, raising $29 million on Kosdaq - Dealroom",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLURhWkw2Tk5xdnludzlESDhESnprcjZzejdLZVlfNW80TXZVMWp6bmlEb0d6a0U4YVpLNEw5blN2MDhSTUloZFEtdUp4dXE2eGs4ck83cVJsaXRrcU14UEhCaEVBLVNMTDUxMEtyQ05URlF3U3NVVVpraEhkNlI0REdnWUtiOWw0VFVKSWFSLUpKYWpUTnVZa1BTY0ktRUFncVhTTGV3?oc=5",
+        "press": "Dealroom"
+      },
+      {
+        "title": "ImmuneOncia Therapeutics (KOSDAQ:424870) Is In A Good Position To Deliver On Growth Plans - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOdXpxckszcVJIVXFTQ1RxekN1a2V3ZWQ4S0NIODh1V2N3TDEwR0JKbEk0c3Y5MlkxczNUekF1Znp6ZVEyeFZxMjAyQlZPNl92Ymdxb1JOaDRqX3h1U0VCd0pWSW41ZjJkYXgyWGt4UkxadmhPbEZraWtoakprdmhGRktqRVo3QjJFRHQ2TnZNZmp5Q2M3MjBLZFBtUWtsOE5MOEFGYllTRmsxMjU5cTVzclZ2dl9LLUplcFljaU04aG1IYmNuZ1pGTndEVUJjMmlnMkJJWHlwX0RZQTNxQ1NZalZ6SEdBMEJkZWZnT0FhNFVuT1hlOUNvYUVPQdIBgAJBVV95cUxQcGZqcnFJUXF4TVV5MEcyMEUwemFkeVZKUWpYUjBMU1FVMnJNNHBmYUZQdnFIUjFLSXpUaV96eHFOM2RzeTc1QTg4Rm8xWmNrak1iU0g0NFRuWFg4dDlxR19hTHIxWFVwRHlQLWxuQkFlR2NsdklxbUl6WS1DRkljMFZ1eDZWNmkwRGdvYlNmWlpjSVNSdjhIbFluM3Z3OVlXMXhmU1ZQUDN6MldjMXFqTDdEQmdaZUVyeFpaVFBBQ04wejRZMmI1M09mOGNla3QwaFJNa1V0LTFJd0VXV2FIRVlaMV9HQzBTUkN2THZpY3NFWGlSdnRFb2hlTWZXcEE5?oc=5",
+        "press": "simplywall.st"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
