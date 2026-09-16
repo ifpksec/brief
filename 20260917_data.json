@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "generated_at": "2026-09-16T23:32:11.220292+00:00",
+    "run_date": "20260917"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.34 (+0.69%)",
+        "description": "전일종가 99.65 / 변동 +0.6900"
+      },
+      {
+        "title": "미국 10년물 금리: 5.01 (+0.20%)",
+        "description": "전일종가 5.00 / 변동 +0.0100"
+      },
+      {
+        "title": "VIX 변동성지수: 17.71 (+2.97%)",
+        "description": "전일종가 17.20 / 변동 +0.5100"
+      },
+      {
+        "title": "S&P 500: 7551.81 (-0.45%)",
+        "description": "전일종가 7585.73 / 변동 -33.9199"
+      },
+      {
+        "title": "나스닥100: 28945.06 (+0.02%)",
+        "description": "전일종가 28937.84 / 변동 +7.2207"
+      },
+      {
+        "title": "다우존스: 51461.90 (-1.21%)",
+        "description": "전일종가 52093.11 / 변동 -631.2109"
+      },
+      {
+        "title": "USD/KRW: 1377.18 (+1.00%)",
+        "description": "전일종가 1363.57 / 변동 +13.6101"
+      },
+      {
+        "title": "USD/JPY: 156.17 (+0.58%)",
+        "description": "전일종가 155.27 / 변동 +0.9050"
+      },
+      {
+        "title": "코스피: 6627.26 (-0.85%)",
+        "description": "전일종가 6684.37 / 변동 -57.1104"
+      },
+      {
+        "title": "코스닥: 812.41 (+0.70%)",
+        "description": "전일종가 806.79 / 변동 +5.6200"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.449 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 2.14 | GEX +nanB$ (만기:2026-09-16)",
+        "description": "콜OI 112,482 / 풋OI 240,704 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.60 | GEX +nanB$ (만기:2026-09-16)",
+        "description": "콜OI 135,375 / 풋OI 216,659 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $175.54 (-0.54%)",
+        "description": "거래량 10,845,757주 (평균대비 0.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $755.63 (-0.43%)",
+        "description": "거래량 15,584,531주 (평균대비 1.5x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 28.0% (56/200종목)",
+        "description": "평균 MA 대비 위치: -3.2%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 51/100 (Neutral)",
+      "description": "중립 — 방향성 불확실, 관망"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Dow drops 600 points as Fed rate hike and Warsh's inflation talk unnerve investors: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93dm9pVTkxd0Y4Wk5sZUI4dTNRY1MyLV9RVDBuYm1pckV4WmU2TUR2azJvcUs0ZUZLSUZwbE4xNFFGUWJ5OGN5YjFub1NuZ015aVNKUTJMUmY2YzlTLWg0MFhaREI1Y1JwYjBTd1BCWVZYT3pnRmFN0gF8QVVfeXFMTVRqZWVyaXIwbEgwZTdhOW9IcXZGS2tVaUxZUHkycFFDUnhJNzU3QzhrR0ttcGlPNGljM0xEbnFjOVExQ0E4SDZZaEVpTnRVT1NEQU9rSm1XdGNhYm5tRS0yWThSQmh5T0RwUzU3dlpLT19JR0JvNTgzUkxHbQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Amazon Deal Sends AI Power Play Skyrocketing Late - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPelYyaXBucXJwR3phc25uaFZqSG5pUGtRa3hTUmRkbUY5UVVSTlVEVmllN0E5MjJUMGgxU2tlNWRuVkpsYkpsS0pRX0JYRnZ3dUp1SENhUTliNEFHbGlJbVNuTHNNZ0NlTFplaWNkVHlHMTUyd3U0Ymc2Uml5QlpWRWNWTFltUUp1alBXYTJLUnFxLTJzVWl0d2tTMkt5QllCOWV4b19R?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Al Gore Says Emerging Markets Are Leapfrogging US on Clean Tech - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbjV1Rzlld0ozZE5rVTNGTDlzdEFvay04SE1ncXdNRmVzcjdrQl9xdVlDNnI1aWRSZmhsUDhFSkQwQmxXX2c3Zjc5YXNCWkc1RnB1OHlQa1JSUlVnYmp3czc3R3V0UnA4YWoxWmlfbnFJNC1JNVoyaWlSMlRVS3gyMFVsSGk5NktpeHJHTjJINnVOOUF0VWpqZkhxWklOX0pKRGFDTFRJY3VpVlZlTjE0V005Y0k?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Dow drops 600 points as Fed rate hike and Warsh's inflation talk unnerve investors: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93dm9pVTkxd0Y4Wk5sZUI4dTNRY1MyLV9RVDBuYm1pckV4WmU2TUR2azJvcUs0ZUZLSUZwbE4xNFFGUWJ5OGN5YjFub1NuZ015aVNKUTJMUmY2YzlTLWg0MFhaREI1Y1JwYjBTd1BCWVZYT3pnRmFN0gF8QVVfeXFMTVRqZWVyaXIwbEgwZTdhOW9IcXZGS2tVaUxZUHkycFFDUnhJNzU3QzhrR0ttcGlPNGljM0xEbnFjOVExQ0E4SDZZaEVpTnRVT1NEQU9rSm1XdGNhYm5tRS0yWThSQmh5T0RwUzU3dlpLT19JR0JvNTgzUkxHbQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "CEO Economic Outlook Index Q3 2026 - Business Roundtable",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTVRkM0JiOWVyZ2tWVnZWUTEwWTFWeWhXSUlLdjJvajFWeU5NYzh1djJyN25RcGdDX2w3TkIxMnM2Y1hpZG5SQm5FR0hiTm5IeUlKdjJFdHRtRXlESGY0RS15clpNWkdqc1FpalI3blM4c2QzQnRoQ2EzQ184c19CUFVjR25kVVl0elJ4OHNTcldLc2NXd2hUck0yVXNqd3BQS3Rscw?oc=5",
+        "press": "Business Roundtable"
+      },
+      {
+        "title": "'Goldilocks is breaking down': Why one bank says potential for the market's best-case scenario is fading - Business Insi",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTUN0aEhLTWZiZWtKYW5RWkRzZHJJaVZoaExQS2t5LXBWVnFUUVBDU3k2Vm9aekNrS01MXzZ5aTFEYm9GS09KdFotdlV0OExudm1CUHNpQWhvZGltd0FiWWR1ZFlNOUF5RUJ6TzBTTDVvVEpTaHVDRlRMa29uZDRVVXkzYlYyUUxKY3NmVEp1blk0M29iZU54bjdER09lc1VsdHdrcEgweWc?oc=5",
+        "press": "Business Insider"
+      },
+      {
+        "title": "Membrane Scale Removal Compounds Market Outlook to 2035 - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVnQ2a05zSk5ZdVNfV2YzSnRrSFJFVl9kM05EdGVvd1NEZnF6WEF1T0tQZ3ZlVFNZYkxVZTZxZXlFcFVGYl9hMWViai1HcTVycTdxQmVOOU5pWU1LU0hyekZONDRyMWktSmttVkJCN19qQ0xoUUE1OHNnSU03ek9fWks5QktoT0pwQzBLQnlR?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "U.S. stocks slip after the Fed raises interest rates, hints more hikes may be on the way - PBS",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQ0o4SEFnLXVuc0pFakhWQXNrNVdZOFBqTmZsR3dlMlFFZEluX2VWbEJPOGJkRkZ6a2tfaHZySVdpaVhYZk1aeGZFdjM2UExoOGMxc1BDbkcwUVFMaElEXzBUb2ItX1hmRVkxWjhHanJyV3ppMGJFcjhNY3BVYlZMNFVCemRaSW94Z1hBZy0yNmd3R29KMEppZThtNmxWaERxa3hfZzZ4WU5BV3AzN19xSTY0OEZwQmwzdGVSWC1SNNIBxAFBVV95cUxNQ3ZKZVFHbHpRSEo2cGs4RjlfMG1UdURsamh2Y3ExeEVkZzdmaGQ3OElrd0FpclpvUGQ1MFlKSHZ2VGFOc1hVN3ZmSVc4aGhIY3hvVm5UUlY0emc2bFNyU3ZGU0RFckhMekh6WE5FeklHLU9uUGZNOVZCQWJPdnctcTNJTmpTOGp0Q3ZVUjEzSWROc0V6VE1lY2hLLWNJWUlwTkEwQkJ1SVVtRlZrYlg5QUxoZEZFOFFzMXgwbkNPNzgzdlRa?oc=5",
+        "press": "PBS"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Overseas tech firms favor KOSDAQ over US for cheaper, easier listings - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT0o3d3VwYnFwOUdjem93MHp2Sm84WVhYRXlkRmI2QlU0a2JaTWgxSEk3QW1QcTVFSmFaTGRiNFU3TjJ2MTNlZ08zT3pVRDZaek9rZDM4Q2dPVFQ0ZjN6Q2k4MEdBNFVFbVJJYXczSEJwYUpNa1pvVUprOG1uLWdwcNIBlAFBVV95cUxPcUcwZjVxc3ZIQ0tEbmxFV29aeUdpZUxnLWZadzVScmE2YzNINXd4ek55SHFSdlFTRjlydm5RekZqNUNTMEJTZkZJbWdUN0JhVng3bjEzb1hITHd5NEFTWmRyaUd3MHF5dmJBdGpOMUp6dGVSXzc4a2s4RGtPVTRibVV2UXBLdDF0b00tWTBxZS1COXZm?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Bank of Korea Expands Investment Scope from US Bonds to Global Aggregate Bonds : 경제 : JKN - 재경일보",
+        "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5mcVdDMzUwSElqcnpCRUd5QTFUaEZhMEgzaWdVLVFSMURXRUR0RzEyVXE0M0pxbmVTUlRnY0ZtN0x2SjV5ZnRwNC13?oc=5",
+        "press": "재경일보"
+      },
+      {
+        "title": "Korea holding down fuel prices, but it's getting harder - The Korea Times",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMVdSTElDMmNNUlJqeVl3dmdMb3ZtMTJWOEt5T2RDT1hrZU9nSG90cERRV0FjTkpJQndLVHFCcmlvWkl4eEZrcnBlZ0VQSXpRYXlqRzVLY0p2N3BNWVdlVzVBTVJoeGpCTHJlLW9rUlplUWtsMTdYQjdTWUkxYUYzZWFTSVlXZGxBUVlaWEVxTWY3Z2JmV21ubWNFUno0NDZx0gGmAUFVX3lxTFBpck9PSjJ6MVEtYTZ6Yjc2OWpYYV9mVnJVcXZVRllkdWtiamFQcWlMU2RTYkIxTzVHUTIxcW9GdUJxNWdfNGE0OUxEc3FlbldveEpYZHlSNlRxNm1WNjBzQUNVQUpTVVZZRzlUaUZZN3BVbUh1UnZZNEFHOHRuSnBLWHVUeThxWHhLTWFpclBrY1NOTzBmdS1kMnhJTUtfaXlDVjZfMHc?oc=5",
+        "press": "The Korea Times"
+      },
+      {
+        "title": "[전문] 연준, 기준금리 인상(영문) - 연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRTE9acFNYZTQ5dXJLa0FpUzZFQmk0eTZBRDhkSnFmYXFrVzBpVlpFbEtFVDJXcHhwdF81M0swWkNKSkRTN2taUDNBODEzRkF6Wksxd3BZenZEcEx3ZV9zSnFkTTQ1RExQQWVwVjNtLWwyQXRW0gF0QVVfeXFMUFFMT1pwU1hlNDl1cktrQWlTNkVCaTR5NkFEOGRKcWZhcWtXMGlWWkVsS0VUMldweHB0XzUzSzBaQ0pKRFM3a1pQM0E4MTNGQXpaSzF3cFl6dkRwTHdlX3NKcWRNNDVETFBBZXBWM20tbDJBdFY?oc=5",
+        "press": "연합인포맥스"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
