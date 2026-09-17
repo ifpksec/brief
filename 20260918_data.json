@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "generated_at": "2026-09-17T23:32:04.729903+00:00",
+    "run_date": "20260918"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.24 (-0.07%)",
+        "description": "전일종가 100.31 / 변동 -0.0740"
+      },
+      {
+        "title": "미국 10년물 금리: 4.95 (-1.18%)",
+        "description": "전일종가 5.01 / 변동 -0.0590"
+      },
+      {
+        "title": "VIX 변동성지수: 15.44 (-12.82%)",
+        "description": "전일종가 17.71 / 변동 -2.2700"
+      },
+      {
+        "title": "S&P 500: 7637.76 (+1.14%)",
+        "description": "전일종가 7551.81 / 변동 +85.9497"
+      },
+      {
+        "title": "나스닥100: 29446.98 (+1.73%)",
+        "description": "전일종가 28945.06 / 변동 +501.9199"
+      },
+      {
+        "title": "다우존스: 51778.04 (+0.61%)",
+        "description": "전일종가 51461.90 / 변동 +316.1406"
+      },
+      {
+        "title": "USD/KRW: 1380.38 (+0.27%)",
+        "description": "전일종가 1376.60 / 변동 +3.7800"
+      },
+      {
+        "title": "USD/JPY: 156.01 (+0.00%)",
+        "description": "전일종가 156.01 / 변동 +0.0000"
+      },
+      {
+        "title": "코스피: 6717.97 (+1.37%)",
+        "description": "전일종가 6627.26 / 변동 +90.7104"
+      },
+      {
+        "title": "코스닥: 815.98 (+0.44%)",
+        "description": "전일종가 812.41 / 변동 +3.5700"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.572 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.74 | GEX +nanB$ (만기:2026-09-17)",
+        "description": "콜OI 159,499 / 풋OI 277,778 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.86 | GEX +nanB$ (만기:2026-09-17)",
+        "description": "콜OI 131,789 / 풋OI 244,832 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $182.39 (+3.90%)",
+        "description": "거래량 10,480,435주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $764.08 (+1.12%)",
+        "description": "거래량 9,911,526주 (평균대비 1.0x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 27.0% (54/200종목)",
+        "description": "평균 MA 대비 위치: -2.9%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 50/100 (Neutral)",
+      "description": "중립 — 방향성 불확실, 관망"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stocks surge as oil and bond yields retreat, recovering from Fed-induced sell-off - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16dXpjUG95TlVORmlaMUtvNmc3bHFhdTJCZ0N0U2l0dmZ4aUdaVDkyUkdfSmhGeHlBYXpsM2M1Q09RaE1QQy0xcFgxSVh4WnpvaHdIZ09obUswQW1hazlveGZXdHdNRHd3Z0NsU2QtZ3ZLdjJseW840gF8QVVfeXFMT2ZLZ0VzbzhySFJObURPVVRsTmx2aHZNamZFcGY1TFVQQUd5cGh0U2h1OU8yQm9mcDFlUDJlVHAwQTVEdG50OW16ejFiRG5iQzBxX3RQMFJ2eVFrZ1FpeDhUY2F3dWtjSEkweXFuT1dUbDl5R1dsTHJaMHRTTw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rebound as bond yields slip, oil eases - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGoyU0ZhYmRBMS1JVWd1VFlpeXY3d2Y1QkhwZ0lGT01xQjlMZTd1VjZ3NTktdnk5YzB4WVlxWS16OGxRbGZ0QXhodlZMb1ZLWjl6SzNQRGZPNWRycGRrRndDbnYzZXZWNTdjNldLSUI2Z2hxaTU1dl9Hel9Za3hFSTQtanoyMmJXcUJkWEtqUEJBWEZPeE1icUZ0czZBbm42WDYwU3lpQjdiNWhVUVM4NE51VmhZbGtlN3I3NQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "S&P 500 Surges 1%, Breaking Losing Streak With Tech-Led Rally - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GeFlXakxUNTFFR3BQUUktclEwNHRSTkhiTFZsZTc4bHg3VlptZDJSNEFaZGhrc2IwODJhR3BscEV6c0tZUG5lOExOX2NOdzExQU9oSVZib1U3NFlPd3BtbG10RnA0TzVFRHNhZ0pEM0tNNXRHS1E?oc=5",
+        "press": "Barron's"
+      },
+      {
+        "title": "Tech leads Wall St to higher close as oil eases, Treasury yields dip - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORkVra0Q0cjNkbjlDN0N2SENMZHYyeVVFSU1tcG5LOXhBTk5leFlZNjFNRGpad3NoWmhnaWZVd2I3N19oa2hQSERYZzBQWFcxaUJQNDZaSHMwVjFrNGlKbGRUNjg5TEt2WENpMUJiUFRVTjR6WlQyc0IzY2V2M05FanNlWExPdUZ2bTJFUlp4YW5HdTAwTExfNTI3MWkwVEVTMTRZUURlR01lVHA5?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Tech stocks today: OpenAI reveals six more instances of 'concerning model behavior' - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ2E5ZEUwVzNXOFE1d1FiSDdPODF2SktWNjVhOFJ3VXlqbFVIeUh0UnlUdXFRSTFpWkI3UzNJVER5M1BXSXJiX3NsNFlDNlNEYjB5T2lSak5qWHd3RkJmQkkyX2hnN25BMFNENElSVDlFWnFnQjM3ZkpqdEVXd1FrdjBPN05ySU5id3dCeWdGWGtnTWpEZkxRWHZGbXZfU3RZd19yNzhEUEpDTzZRamxYVkVOVFdVNG5HdUV5SHRXdFYyQ0RTNlpqS3VfVEtKaENBY3kw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market Today: Major Indexes Close Sharply Higher, Led by Tech Stocks, as Bond Yields, Oil Prices Drop - Investoped",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQLXAwWEhfQ3NjM2hPQVNCWXZibnBnb19fSk14c2hhTXNzTVBQaXlwVUZDMXNnVmJBcVBJVkpId2w1WHZKVmQ2Q1p2VGJjaVR0eVpUVGRiUWxvZ1F5TEd1ZXVrUkUxY1RndkxYNy1LWGNBQlpRMjdEcU42NDg1LUJZakxsbmhxWEZfVzM4RnZHNjg?oc=5",
+        "press": "Investopedia"
+      },
+      {
+        "title": "Turkey steps in to support markets after fund liquidity crunch sparks selloff - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTi0wZUhFaDF1M2xqZ1llb2xMRUdwV1ZzcTFXLWlJenctU2FOTUVNVlZMZmNCejN5VWw3ckFlelFkalYybU1jTUJkNVByUVREZnFxSzhQUE5UUThWbGZTU240bjIzQTdPZGJ0M3ZWNUgxTEgxMjUyM0toMXFtREh2cTUwZVZmeFAxWmd2ek44bTktaDJDX0h3SEJDQ1pkal9WZGxkYXNTeUctMGRIajRydE9tU0FibmxNcmZQdmNZaE5TUlk?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rebound as bond yields slip, oil eases - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObGoyU0ZhYmRBMS1JVWd1VFlpeXY3d2Y1QkhwZ0lGT01xQjlMZTd1VjZ3NTktdnk5YzB4WVlxWS16OGxRbGZ0QXhodlZMb1ZLWjl6SzNQRGZPNWRycGRrRndDbnYzZXZWNTdjNldLSUI2Z2hxaTU1dl9Hel9Za3hFSTQtanoyMmJXcUJkWEtqUEJBWEZPeE1icUZ0czZBbm42WDYwU3lpQjdiNWhVUVM4NE51VmhZbGtlN3I3NQ?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Semiconductor giants keep KOSPI in tight sync as Korea’s market rotation widens - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHJVZTEzM1ExMHgyVVV5M0s0Wk4xRmNpdHpJenRiZGowYzZ3V1BqT2VfaUVBVGg2aWI3QzIwX2ZmWlczRUhmaUpJZVFreEpWQV9wTWZCd25qMzNaai1QcW9DdGptSTgxVzdmZ1pIV29Dem1EZ3FORzdSY2JGZ0tkQ9IBlAFBVV95cUxPRE5NQnRtZkkzTzFQQzlMbHFSQ3kwV185RTd1b3NxVElNVXlZVW9QQnNKQzZ6YmkyTERCeHhDeFkybVNBQ3Z2TERxSHpJUTBRR1NsNXhUZ2RGSVJ5TTUwX203VnBTT01VeWd0TG9LRDdJUTNzN0NNSG83Y3dWV0xuY2poU2Z1QjJ0OGlyeTNUX0wtVHpY?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "At ₩8,150, Is It Time To Put Contec.,Co.Ltd (KOSDAQ:451760) On Your Watch List? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWW1WNV9wUzIwZ2pGc1JYV0tsUE13ZWtORHdyUHNVOGtqNDlKZ3BCdnllX2N0ZmV0dGJ1NnFwaUI3U25VenJtaFkyU3FnelFkWGhNZnFKSjE5RjJDVDlraEFkazAwSnZtc0RzZkFVd0o1by1nVHVQNTQxc3VQWWdXOFJoRDJsU3FHbVhDNDRMbWsxU0hQSmtiVUQ1YUtHT2NtYndIb3lmbGRES00xR2tkalExY0I3VkJrNHoyZUtrU3VLYUUyTkpPajM0QzRDTHQzQnBvZzR2dTN3d2JFd1HSAeMBQVVfeXFMTmNSdTc2STBZc3lZbzNMRUR3dkx6RkpJZ1J4WFpfLXRxQjc2M1J0NGRuX1otZDNIQmoxZWlOSzBZYnM5eDBoaTJVVGEzaml4aUhMN2wzaUlxeVJlLVVUUDZqMTRpQjRFTkFRZjZkT3VCOHZrR2pTQWpRZ1hrUGNzZlZxRC1BSEZLR1VXeWlnSWozcVIzeUFPR0s0Y0dvRG1RRFQ1cWVWdUV0N3RzMXhqU21CeE9mQTRxdnZLNFVRZ3hDd1h1MEt0WXZyLURxNF9qRDdCYzR1b3l1Z3RuY3pmREstX1U?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "KOSDAQ Holds Firm as KOSPI Slips After Hawkish Fed Meeting - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2xCNFdTS3lyNWxzMGVJRlNvdE1nbGx6eXBiYkpxemF0NVRNekgybVB6dWVsRjl6MEl1NEVqMXVlTHFOSFowOVZGcmdtY2NaNnBGNk1vQ3hzSjBQaGpyZHIxYkhqYnhNXzNydWdsMzA3dTRBZzlhaDltd1l0TEd4ZjdOZ2MzVkNJMzVKQjNMd3pSTl9IQ3gtT3J0UUFoWTdJTGc?oc=5",
+        "press": "Seoul Economic Daily"
+      },
+      {
+        "title": "SK Hynix Emerges as Bond Market Lifeline with 88 Trillion Won Cash - chosun.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmlTTU50dTJna0xtV0R6eFNEWk05bm9Fa2h4S2lqRXJuNTlwdnFHMzFKakN6X2NDdDdXMkFnaXdrOW1fUEU3SkFuMHI5SjBhcFpfdzU5Nl9tYmd3UDg2eTgtbk1YeTA1ajZCamZTSEdkRmV0Rm9OamduTEVld2hiTERHVjJEMUZQUjhKLVZR?oc=5",
+        "press": "chosun.com"
+      },
+      {
+        "title": "Samsung Fold8 Sales Surge After Apple's Foldable Debut - chosun.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaFUycGpGLXBGTWhDUVNqMVdQM0tsdlY4aXl0THVMdnh4dDQtb293OGxqRHpOWFl1d2hBWklSTnJGVVRoSVhpaDVTZW5DaElIMTg0UzJTUzdHSVB5RVFMMGhYdlZ4djlKS0hBSERuSmJyRjlZS2NrZnFxT0Q1SjFvTVRFWFZ3a1pQ?oc=5",
+        "press": "chosun.com"
+      },
+      {
+        "title": "Fed rate hike sounds a warning for Korea - Korea JoongAng Daily",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaHA2Z2ZXTTM5dV9Vbk0wZ2ZjZ3MtZE1hTXNPZFp1Mzg3RmJMNE5TQl9nekVqVTk5dE5UeU5hNWRBaEtOZTFwVXVGSHZFeEhrSEVBeWhONkdtb1pXU0J4QXFMRnAzRWg1VnhIMEJUeHNKbjgzSVVTenVZZHR1LVBSSVB0cDNHY0YxM1VyaUQyTTR6SFVjeDZ2ckpESkI5cUJ4cUxaRzJsZ1ZKWllLQk1veg?oc=5",
+        "press": "Korea JoongAng Daily"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
