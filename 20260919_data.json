@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-09-18T23:32:18.288386+00:00",
+    "run_date": "20260919"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.21 (-0.00%)",
+        "description": "전일종가 100.22 / 변동 -0.0050"
+      },
+      {
+        "title": "미국 10년물 금리: 5.00 (+1.03%)",
+        "description": "전일종가 4.95 / 변동 +0.0510"
+      },
+      {
+        "title": "VIX 변동성지수: 14.81 (-4.08%)",
+        "description": "전일종가 15.44 / 변동 -0.6300"
+      },
+      {
+        "title": "S&P 500: 7650.50 (+0.17%)",
+        "description": "전일종가 7637.76 / 변동 +12.7402"
+      },
+      {
+        "title": "나스닥100: 29644.17 (+0.67%)",
+        "description": "전일종가 29446.98 / 변동 +197.1875"
+      },
+      {
+        "title": "다우존스: 51682.64 (-0.18%)",
+        "description": "전일종가 51778.04 / 변동 -95.3984"
+      },
+      {
+        "title": "USD/KRW: 1385.95 (+0.68%)",
+        "description": "전일종가 1376.60 / 변동 +9.3500"
+      },
+      {
+        "title": "USD/JPY: 156.85 (+0.54%)",
+        "description": "전일종가 156.01 / 변동 +0.8410"
+      },
+      {
+        "title": "코스피: 6715.41 (-0.04%)",
+        "description": "전일종가 6717.97 / 변동 -2.5601"
+      },
+      {
+        "title": "코스닥: 822.18 (+0.76%)",
+        "description": "전일종가 815.98 / 변동 +6.2000"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.529 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 3.76 | GEX +1.7B$ (만기:2026-09-18)",
+        "description": "콜OI 1,086,778 / 풋OI 4,088,011 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.33 | GEX +4.3B$ (만기:2026-09-18)",
+        "description": "콜OI 1,186,891 / 풋OI 1,576,365 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $181.31 (-0.59%)",
+        "description": "거래량 8,958,077주 (평균대비 0.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $764.92 (+0.11%)",
+        "description": "거래량 6,593,296주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 27.0% (54/200종목)",
+        "description": "평균 MA 대비 위치: -3.4%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 56/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market on Sept. 18, 2026: S&P 500, Nasdaq end modestly higher, Dow declines as 10-year Treasury yield rises to 5% ",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbTl3alo5ZGhnMDh2WnJQX0lGNklVT0FZOFlBdk1PUkh5VDFKUmlyazc3UHJILUpRZVhqTS1XcGRBUUMwbEFtZ0ZFWXlheEw5T2Q4ekVhRjhKODZpSXBZSzVHQXJsME9Fb3MyNm9WODhRT04xS1daMm90Z2hLWWdTSWtOT2dpMGlCOF96aTFVTUZIVnprSHpmYTV3Sm9pd2xUQ1k5TWtNVHdVUTBhT0JaZDJHeENUSW1QUTRsbVczQlZldjJYb0trZ2E4WVBWSW1ESnlPZUhR?oc=5",
+        "press": "marketwatch.com"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500 post weekly losses as 10-year Treasury yield hovers near 5% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTQ4ZWJNcGhmdVVSY0JsQWxWb2dYRUJLU1cxWnNMU0tRRUtEeXVjTkFUZzdObEljT0ZOY0x0TDZDd1J1X1E2TExEdTBWSzFMMmdjRnRXS3BJQ3l1RURIV1V3elFCck5TcTZPTGUyV3FUSXJ0cFhVaEI3ajRCaFB0c2E4M09LMUo0WEs0MmJ4Sk1haU5tYmRwQjRtRGE2OUdFXzFVV0tqSVE1QXBFc2Rr?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market Today: Dow Steady, Yields Edge Higher — Live Updates - wsj.com",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPREJ5Yk9UbmJ6QXV0bVV2cUM3cnF5eGJRTzhpdmpkNmxWTFhfOGpaTXJlZ0JheG4xd0ZBUGNvNERSTlJObG9QejlfVVN2OXBlZGFTYUc1N3lTeUg2M2U4QmhWdFE0X1czSXJrTlk5U1dhOHl0Y2w1by1GWUgwRVplNGpicGhTVkU?oc=5",
+        "press": "wsj.com"
+      },
+      {
+        "title": "Axios Live: U.S. market changes fuel debate over financial safeguards - Axios",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS05rSzFvQktWOEVjQ1BJVi1TVmt2c010Szc0VlNKOVN0eEpza1AxcGk5Xy1TWE9aMk1ETTc4TU9sS2F1Nk1ZcHdoNjFiaU5KcTlWWFRfM1B1Xzd4VWNFU1E2eU5VNEdnNVBDb1NOU3NoXzBNeDhObzNuVXA0MXJqX3NnLW02d0V3eWhfRjQzNnp4WEVCclBHT3lpWURZQUlz?oc=5",
+        "press": "Axios"
+      },
+      {
+        "title": "Dow falls Friday and posts worst week since March as Treasury yields rise: Live updates - cnbc.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zb1FPNjVUSjZxQjBrLTQtUmxMUk1DZVlPcmMyZDk4cy10VXJ1djlDNVJKUVRJcUdQN0t1N1VMZl9pNUdNT3ZLRXpyZkhESDRjdlR0T2EwUFYzSEVyR3ZsaEQzbTlUVno5UzRBTTJCckt4N09xb1h30gF8QVVfeXFMTkNJQ1JtdXJ5cnhhZnB4OERzOFBZS0tkaFNCLTR5TUVGR1VwWEM2cEVKT2dNN0RXRW9BNXJwYl9oN00wSm14b196ZEZoMnpoOVc5NDB6T2UwQ21yV2pVYzZFRWFlTC1YRE1SeC1wLVhEMWU2VGZ1eUZVel9IbA?oc=5",
+        "press": "cnbc.com"
+      },
+      {
+        "title": "Tech stocks today: Apple's iPhone 18 Pro goes on sale, AI safety debate continues - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa0lLXzhaTjNmZ0wtMWtaUklKQnNGcXN0Z0UtQ05adUsxMEtPRWhzUGxyNDdqOEc1V3dtamNuLV9ldmcyTnQ5SGxrOU80M2lqcXdmQW5YR1R0T1pGUmpVVW9CZnZLeEh6ZVJfR2FRZ0JOZjVsMTMtZHF4R1o2OHRwUWxsNWUzVlBUcXA4SU9uSVM2QUJXTmx2Y284c2pxV2FwZndoWGw0QUhXS3FsVkRqMFhvcHJRblNmd1pnQXJMQ1p6anRSbzJPZldpZXFfWVk3?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Amazon, Palantir and 12 more top tech stock picks from UBS analysts - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGpNSU8zLVQ1MHVIVW1HY2lYLTlaMDlHSHdBYTBtRzRpTjA5b3NCRW9KZE1CZk9yNFZZcUFEZ09ROTB1OXI2RU5LRFREVW9ZVEZHckJWQmJybjg5eTYwXzZ3ZG1yM0V4U3RGQkhtbW1VSGRIdmZHbWhXOGtGMzFZRnZtN3hlWURpdk5pR0FTcmxRcEM1UjRWTjZlWUNYQ0JhSDg4UnF6bDRJNnJQU1E?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Axios Live: U.S. market changes fuel debate over financial safeguards - Axios",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPS05rSzFvQktWOEVjQ1BJVi1TVmt2c010Szc0VlNKOVN0eEpza1AxcGk5Xy1TWE9aMk1ETTc4TU9sS2F1Nk1ZcHdoNjFiaU5KcTlWWFRfM1B1Xzd4VWNFU1E2eU5VNEdnNVBDb1NOU3NoXzBNeDhObzNuVXA0MXJqX3NnLW02d0V3eWhfRjQzNnp4WEVCclBHT3lpWURZQUlz?oc=5",
+        "press": "Axios"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "The KOSPI index opens above the 7,000 mark in Seoul - The Daily News | Texas' Oldest Newspaper",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPLUVGQXRUaGpOd0FHR2lzOTJ4VXhCQWhBZnNhVEJQOGI5NmhkMVludDRxcWgtVDhKdlVoYmZDcmNDY0lGY2FNUWJGWnUzWjB5cVEzYWhRcVQ4enRRTUFKQzVyRWRocGdGNzlnMTRvN1ktX2ZVZXZ5RUNHUC0ycjNMbkcwWHJVRTJwd0UxeldoM2NwcGh2eDFOMm1EdURiVXBMcm81Q1BBSVNGSGpqTTRGd3FlN2E1WXJob2pEWVRpZVY1SXdxaUdoZUM3a19Qc1lBRHdjaUE4Y0JDV1E4U19v?oc=5",
+        "press": "The Daily News | Texas' Oldest Newspaper"
+      },
+      {
+        "title": "Is Now The Time To Put FIBERPRO (KOSDAQ:368770) On Your Watchlist? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQX0gwVmpuWWV4cHZ3bms0c1lwRWNRTlRQSzN1WTlZNzRQN2sxVmxJd3p5dlZlRVc3X1BsajhmOEJ1cWNUV0lzd1NrRVp0RHZSc19QYzhzbXJHeGw2U0FVOWlqYVBnVENsc1FOX2c4T0FHemZCczQ5TU5SSlpHUlRrcWppd2s0MHMycFBiSG04R1ZGSVBoY1dvX1BkWFc2WlNna0NKeXR4eVlKaEFNRC1OSEJLTXZTenFXWDBpWWtlM1VzMExoVS1RaE5veTVsb3hRdl840gHTAUFVX3lxTFBfSDBWam5ZZXhwdnduazRzWXBFY1FOVFBLM3VZOVk3NFA3azFWbEl3enl2VmVFVzdfUGxqOGY4QnVxY1RXSXN3U2tFWnREdlJzX1BjOHNtckd4bDZTQVU5aWphUGdUQ2xzUU5fZzhPQUd6ZkJzNDlNTlJKWkdSVGtxaml3azQwczJwUGJIbThHVkZJUGhjV29fUGRYVzZaU2drQ0p5dHh5WUpoQU1ELU5IQktNdlN6cVdYMGlZa2UzVXMwTGhVLVFoTm95NWxveFF2Xzg?oc=5",
+        "press": "simplywall.st"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
