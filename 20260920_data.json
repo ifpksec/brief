@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "generated_at": "2026-09-19T23:32:17.745902+00:00",
+    "run_date": "20260920"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.22 (+0.00%)",
+        "description": "전일종가 100.22 / 변동 +0.0000"
+      },
+      {
+        "title": "미국 10년물 금리: 5.00 (+1.03%)",
+        "description": "전일종가 4.95 / 변동 +0.0510"
+      },
+      {
+        "title": "VIX 변동성지수: 14.81 (-4.08%)",
+        "description": "전일종가 15.44 / 변동 -0.6300"
+      },
+      {
+        "title": "S&P 500: 7650.50 (+0.17%)",
+        "description": "전일종가 7637.76 / 변동 +12.7402"
+      },
+      {
+        "title": "나스닥100: 29644.17 (+0.67%)",
+        "description": "전일종가 29446.98 / 변동 +197.1895"
+      },
+      {
+        "title": "다우존스: 51682.64 (-0.18%)",
+        "description": "전일종가 51778.04 / 변동 -95.3984"
+      },
+      {
+        "title": "USD/KRW: 1385.00 (+0.40%)",
+        "description": "전일종가 1379.53 / 변동 +5.4700"
+      },
+      {
+        "title": "USD/JPY: 156.85 (+0.46%)",
+        "description": "전일종가 156.13 / 변동 +0.7260"
+      },
+      {
+        "title": "코스피: 6894.23 (+2.66%)",
+        "description": "전일종가 6715.41 / 변동 +178.8198"
+      },
+      {
+        "title": "코스닥: 827.12 (+0.60%)",
+        "description": "전일종가 822.18 / 변동 +4.9400"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.500 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.96 | GEX +nanB$ (만기:2026-09-21)",
+        "description": "콜OI 113,639 / 풋OI 108,706 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.39 | GEX +nanB$ (만기:2026-09-21)",
+        "description": "콜OI 61,419 / 풋OI 146,995 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $181.31 (-0.59%)",
+        "description": "거래량 9,085,700주 (평균대비 0.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $764.92 (+0.11%)",
+        "description": "거래량 6,593,600주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 27.0% (54/200종목)",
+        "description": "평균 MA 대비 위치: -3.4%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 71/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "US MARKET CALL: Investors Curbing Their Enthusiasm As Less FOMO Offsets More FEMO - Yardeni QuickTakes",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVFo0RVBjVHB4aExtVFEyYmxtNV95alRzOXIwckpvRUY4cmE5amM1YmNRNThieG0zYzVTalVhTTVyY1kzUGFiNm13NlRaUl9uWjF5alI5SE9ydUJzQmhablMwMnJsRXlLaWVUOThtNDc4QXZFZF82d2F3Vm9tTmFIQ3M5MVZwaExzUTJjaXBnS2MzZFZ1ZjZBQ3UwRllFMDZON1lSSk9CQnl6THBpOUZrSWJDdnFKZw?oc=5",
+        "press": "Yardeni QuickTakes"
+      },
+      {
+        "title": "(ZIU) Strategic Market Analysis (ZIU:CA) - Stock Traders Daily",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMElrQU5GQWpiWEY1R0J6aDdqTk5Jd1dBNFc3SDJJVVNnX3l3a00yMUVwYTBlQk9lX200OU1YRTdlY3hUeURpMklRZFFFS3ZUeTA2WjNxNDZJMXdkV0NFVWRJdjhBdXRsRWpTaGdqM0dzQUljOTh6Z3hsZE54UG40Yk1mQXVBU01qT3JiVjNxQ2I?oc=5",
+        "press": "Stock Traders Daily"
+      },
+      {
+        "title": "The ’71 ’Cuda Marked the End of an Era, and Collectors Still Want In - Hagerty",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMlc1U2tVOWN1R3FzTy1pVUhUTFl6X0ZOaWlBWDNBWXFUclJzTF9SaTIta3BobXIwVk1ibTU4aDk4d1pmTHhXdmtOM0NGNTJpTlFMOURxemUwQjNWcjZwcW92TDlXaFk1WUhUZmRBUi1HOWNseVp4dy1EcERJMWlMVXFmVWRpOWVxUG9kMjZOaHpIS1lFQXhDY2pmdlFybkx2d1F2OVAwOG9rdGNJenJn?oc=5",
+        "press": "Hagerty"
+      },
+      {
+        "title": "Trump-Xi Showdown Casts a Shadow Over the Global Economy - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVUJfNVhNNWFzZllHa2x4bFJva2tSdDB6MU9Bd1hKYWxxM3o1S0VudFdkOXhlbkZla2hvcTl0cVJtdmpyR3hkM29rWll1OVpVVmJIX3R0dThxQmEwM1E3RkFEdEVGeE9UZGxtdlcwa1JOVVBmQTQ4TVMxZ1gxQVRia0lFSkdlMElqckluSkFISFVGNWJLcHpqY054RFhUTU5JQno5enFSTjh6aFZuMUNrX0QyVFhkaTA?oc=5",
+        "press": "Bloomberg"
+      },
+      {
+        "title": "Higher interest rates and AI safety fears put the stock market to the test last week - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZER3dGN0cmxoX1RqbnBKQnZRT2Y0TkV0N01ubkZGemVLM1FtY1c4SmVCTllxaWtMaTRVbW9rUXpHZmxPMjFsVHRBaFF4eGFKSGkwVk5hSDZaREgyRjZTTl93a2JaUjBtbWgzMHByYzRsY2tPcjZCR2JUVElkZGVndk56azh2MGV1NFMxSHdXUU9jX1FsU05NME95ME9iWjBXczZ0TGh4bGpzRzFSbDN2WmVYZWZRaXFQTXVDeHRB?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "How the surging cost of going out is changing American life - The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTHZ4NmE1OG1CNHcwRTFHUjNiS2FuZ041YjlacUpoNXJaT3NORmFNajg1bU5wbWRMU0w2ZDlvSTdpYnQ5cXZnQmtHa1lMdGtUVXFrU1VIcHNpYjNSTlEzODUwZjhJT3c4cE5sTmF5Q2JmbEx3d1YtNzdEQ2MzSGE1aXU2YkVQSm1RRUhvaDRrTVVyOHh4Q2FVVU16aFprR0tlb1NGZkRmU2pHSmMwdFJWT2Y2QTA2Zw?oc=5",
+        "press": "The Washington Post"
+      },
+      {
+        "title": "French finance ministry expects record debt in 2026, reaching nearly 120% of GDP - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRXpOR3pPZVEzWW1pNDFCanB6Z3QyWEFEQlBhZi0zaVN4U09RcWtTZEswa19EUW9TNUNqZ21kT01kSW42OXNJSmpmRE42UEJoRmtxUE1Ra1luUzRxRjJrbmhCbEpxMHBUNl9Hd21MV3RZd2RPM21lZzhNRlZEbG1rRFVLenV5QnhhSURwTmo2WTZzV3VaSG5HeU9vaFNZWFc3a2dxdHRYZklMSnpRU19idWp1dk9fSFoz?oc=5",
+        "press": "Reuters"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "KOSPI Recovers to Near 6,900 After Hawkish FOMC Shock; Foreign Investors Return After 8 Sessions - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WYUJWYUEyMXJ3dGE5OE51ZWppbmI1eGpDT3ZPX0pIakt0dlBnbDdYeFdZZnRwRjUxQTM3OTZuOGlVLUJUT0UySFdOWFZ1X1kyeG1qZ1FtU1poOUEyeVNLUE14YWFoQUVsdF9jYjlLZWdGVjZwSWc?oc=5",
+        "press": "finance.biggo.com"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
