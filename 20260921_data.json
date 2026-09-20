@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "generated_at": "2026-09-20T23:32:22.194919+00:00",
+    "run_date": "20260921"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.26 (+0.04%)",
+        "description": "전일종가 100.22 / 변동 +0.0420"
+      },
+      {
+        "title": "미국 10년물 금리: 5.00 (+1.03%)",
+        "description": "전일종가 4.95 / 변동 +0.0510"
+      },
+      {
+        "title": "VIX 변동성지수: 14.81 (-4.08%)",
+        "description": "전일종가 15.44 / 변동 -0.6300"
+      },
+      {
+        "title": "S&P 500: 7650.50 (+0.17%)",
+        "description": "전일종가 7637.76 / 변동 +12.7402"
+      },
+      {
+        "title": "나스닥100: 29644.17 (+0.67%)",
+        "description": "전일종가 29446.98 / 변동 +197.1895"
+      },
+      {
+        "title": "다우존스: 51682.64 (-0.18%)",
+        "description": "전일종가 51778.04 / 변동 -95.3984"
+      },
+      {
+        "title": "USD/KRW: 1385.62 (+0.44%)",
+        "description": "전일종가 1379.53 / 변동 +6.0900"
+      },
+      {
+        "title": "USD/JPY: 157.02 (+0.57%)",
+        "description": "전일종가 156.13 / 변동 +0.8910"
+      },
+      {
+        "title": "코스피: 6894.23 (+2.66%)",
+        "description": "전일종가 6715.41 / 변동 +178.8198"
+      },
+      {
+        "title": "코스닥: 827.12 (+0.60%)",
+        "description": "전일종가 822.18 / 변동 +4.9400"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.500 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.04 | GEX -0.2B$ (만기:2026-09-21)",
+        "description": "콜OI 117,113 / 풋OI 121,628 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.44 | GEX +0.3B$ (만기:2026-09-21)",
+        "description": "콜OI 62,925 / 풋OI 153,629 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $181.31 (-0.59%)",
+        "description": "거래량 9,085,700주 (평균대비 0.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $764.92 (+0.11%)",
+        "description": "거래량 6,593,600주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 28.0% (56/200종목)",
+        "description": "평균 MA 대비 위치: -3.1%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 71/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Are global stock markets heading for a crash? - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTHc2YlptSXlySkpublJrRVZzcXh1b1ZyYXVCZW1seDZKdGdRVmpqSEgtVjFKS2s5MjUzZi1uNlhjTWtHaU5qQldoc2dMUDdVYThkQk1YZjZFUXJGZFN0QU5pWlQ2dWFKSnJOUF92bTJzR0p3d3dFNEdMakpuUFRHLVBRd01qWElKNHBBa0hNb3FWLW5tb2htcUl6eXltTjdtay1iTFA1T2g?oc=5",
+        "press": "The Guardian"
+      },
+      {
+        "title": "Stock futures rise slightly after Dow posts third straight losing week: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9PV3BMZGlwWktIQVdmYWdJMWl3eVJHMUFfR2pPNUQ3dVk5OVROd2ZYQ3BzNEdSbElpSW5UREJmLVJxbVdJUzdITzNTM2QyM3FlV1hlZUp6anc5MFd6cEtPeW84WWNzZHZGaXVjd0Q3STRJRUFERmFN0gF8QVVfeXFMT1JBRmVDRWpaTXhKZDhZSTVWbllXZ3dZNzVhQVlPdjExaXNsY3daUVF1ZmFIOFNsQlJzeXpTc0plejhnNGhvRjdaZWlyYlp5QlFmMVFncmZvNEJNQjNUZTdLUldiMWJfS2JMYm5YaUJaNWRHekNLX1FqeXl6dw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "US Stock Futures Up Ahead of Talks, Dollar Steady: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONWk0czlDZlZ6UFZXeFRWaEtxd3J5Z295dlFNOTJKelkxcE1jVEJWWU0tMl9nRUo5RmNHNUhodFdwWGVKNjJYREQ1Y3B2d1JnT2RZSTVOMnNXbU93MWNWN2doM05LSUgzVWd0NU93MldhRUduSEJaX1BqdmxuMzFGZmNEYm1GbmEyWFctalFDU2RuSVhYUzhWQTdmSnFtR1Y5WXdJZjhLaUplaVFubXRfWlJR?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Astera Labs vs. Qualcomm: Which Semiconductor Stock Is a Better Buy in 2026? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYWxyRHBWTHQ1MTBvTUlKLWNvajJ1RlpJUUJNcHlZM1hTYTJPV2d5NlpuSF8yZ21nMVM3VlNzbUUwMkJTYUNjdF9BRlZZZXFVU2hCYnI0c1RNOGRXY3ZXbmR5cF9jT0FQQk9mdDBNNm5MeXczU2xuYmx5bFJqR1dXS2o4SmtrRnRzUmVHRnlISy1pbmd4RG5kRVV5U081dm51R09BREp4dVBKYTh1NjdPZjBKSzlIZWFLTFh0dVFTaGkycGVm?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "Are global stock markets heading for a crash? - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTHc2YlptSXlySkpublJrRVZzcXh1b1ZyYXVCZW1seDZKdGdRVmpqSEgtVjFKS2s5MjUzZi1uNlhjTWtHaU5qQldoc2dMUDdVYThkQk1YZjZFUXJGZFN0QU5pWlQ2dWFKSnJOUF92bTJzR0p3d3dFNEdMakpuUFRHLVBRd01qWElKNHBBa0hNb3FWLW5tb2htcUl6eXltTjdtay1iTFA1T2g?oc=5",
+        "press": "The Guardian"
+      },
+      {
+        "title": "US Stock Futures Up Ahead of Talks, Dollar Steady: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONWk0czlDZlZ6UFZXeFRWaEtxd3J5Z295dlFNOTJKelkxcE1jVEJWWU0tMl9nRUo5RmNHNUhodFdwWGVKNjJYREQ1Y3B2d1JnT2RZSTVOMnNXbU93MWNWN2doM05LSUgzVWd0NU93MldhRUduSEJaX1BqdmxuMzFGZmNEYm1GbmEyWFctalFDU2RuSVhYUzhWQTdmSnFtR1Y5WXdJZjhLaUplaVFubXRfWlJR?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "(XLB) Strategic Market Analysis (XLB:CA) - Stock Traders Daily",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2tsRDFlR1hTX1h0Y1FIZ2lfNWlyc2UyTUp4R2dWZEhEbXF4ZWNEaVZBX2FNUTMzbHBNQWpTWG5TTTlmOXdRUjlpSC1FTWlLWW9hR253bHZ0X211QUVnUjhBaFE1T084TEpOUlFDck1Bcm5PUkc3ZFdKUE85X1JqaGsxcXVIMnFaTGotOEVGclE?oc=5",
+        "press": "Stock Traders Daily"
+      },
+      {
+        "title": "Oil Steady as Traders Look to Mideast Supply Risks and Diplomacy - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUUZOX1dtVmt0TW1FYjVTbjR4aC1GVk01djVSSkJ1TEVSaGVpdUM2Ukl2XzNzc1ZSSDl5ckhTdlJUSDJKWTBZaWdxYkdRbjI3RjJzR2VicFdSS0NrWlZLa1RRYXFCRnZJWWN5Nl9KU19ObFptYXRQSWRMMHB0Ulp6azNqSGV3TUNwbUZJNzNMNGZDakdnYmJxWVpHZ2F4NGc?oc=5",
+        "press": "Bloomberg.com"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "IPO Debuts Line Up as Neosapience, WisePlanet List on KOSDAQ - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUGt2N0JlZk8tZ0pGWXNyLXBEQ2hJS04wcEFvR0R6ck5FWXBaWS1pbHdyQWJBVjQ0VHcwWkdndlNuUFpqQjJOdmtmbkNjMzFqS1JOTUtYY1lMdWlJWXJMbDV5c0YtTWFfM2RwOTZJQ0V1UXBUSGczeVFuUkJUV1c5ak8ySzZ1dkNwWmo2Tk1qYVdtLWlkR2o5NWdPTjBVdw?oc=5",
+        "press": "Seoul Economic Daily"
+      },
+      {
+        "title": "Hwang Samuel returns to KOSDAQ bets as NC& deal tests comeback amid delisting woes - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT0Y3eERJWFJNa3lRSFZBRVRsVGFtMllTQkxscjM1c3M1UHpHeW5GSHFUdFRlTzItSFlnZFRCQmxQbURVYWN6R3BxWGNHeU5BUjBVN21JcFVpUGFybzhCUzJrbUFMZjdqQ01iVF9DZkhRdjQtZUxfaUNpLS1Vd3laY9IBlAFBVV95cUxPdWw4MGlfal9ZTWJSaExaWDRoQm1ybnNud1ktSHJ5dkdQU1BwMkhuQ0JPQUl1YlVRM2VJMWd2ZjJDOE5oM3dZVDlEZ3VxbHNReHdzT3FhaDFmRmtjY3ZBbDhYVVdSSVBrU2t4TDhxWk5FbGdlRzQwRUZITnJkRjFhYnQ1dTNaSzcxMGVya2RpRGVCR3U4?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "5 Best Platforms for Buying Old Naver Accounts In 2027 - timesdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOT1R0dm96TFhSQXRldURMd1VBLWttcTI3a2hGaElJUllRdE1zUjBLUHRMekkzS3RIamF0U3ItU0NRdmRrM0JVZkhtX3NhbzBmalRsaktvNzZSOGt0LWF0UGlBSlBKQUV5TlZzMHpIX2hhREJJRFRscUxablljaThXaFNZakdEanlPd1JETW9rTDBmZFJqLUFDYjBfNlR2alJ2TG5MQWdGMmY2TVVobTNuMmVhc0RfWllDZE4zck94UndCSWtMeDVoaw?oc=5",
+        "press": "timesdaily.com"
+      },
+      {
+        "title": "20 FX Experts See Fair Won-Dollar Rate in Low 1,300s; Stronger Won Favors South Korea's Inflation and Domestic Demand - ",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11TFJMcG04V09uMzhwVmtQT1FGTTFyYm1JMEdfMUw0QlAwUVNwM1lHVlpMc1hSZ0FRb3FKRENXTnh6SkVfVFUxdHRlaFZFSW15RGxNLXF0cnJDczAxR1FzdnA3MGN1TVFSVFBoSXN1Y1pxdFRYdXc?oc=5",
+        "press": "finance.biggo.com"
+      },
+      {
+        "title": "Global Inflation Is Top Driver of Korea-U.S. Bond Yield Link, BOK Says - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVlReU9KcW1pd0RlcXJNX1FGS1p2amhRVTFJWVlHRVFRU3luWVVMdHVDNGJTbXFOOXN1RThPYkJ2b3U3emZNazFlN0U5dC1UZjZ5b0c3Q01CU0s1eHB6eFNZZ19DMDJJVWRuM205WWJYMnUwWWlVNU8teFUzdjQ3T050SEs1VjlGTmxNalExTXJNNk00Z3BCT0dueWg0cEZ5Z0E?oc=5",
+        "press": "Seoul Economic Daily"
+      },
+      {
+        "title": "Low-Credit Self-Employed Delinquency Rates Surge at Five Major Banks - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVG9iUkJDdWIzai1UaEZNNEJqS3k1cGxrcllhQ2pFSlE4eGc3ZGs0YlJma21EbVdwZzJWX0VZRzg4ZVd5d28xZDREMm1OUUltTWI0azJDT0Q0OXpZckZSLVdHcnVmYVFJWmN6cjI2a0ZzR2Jvb0RBdmlyV2sxdUp1TC12THp5ZVNPa2FienBB?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
