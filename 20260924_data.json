@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "generated_at": "2026-09-23T23:32:08.610590+00:00",
+    "run_date": "20260924"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.11 (+0.68%)",
+        "description": "전일종가 100.43 / 변동 +0.6850"
+      },
+      {
+        "title": "미국 10년물 금리: 5.11 (+3.04%)",
+        "description": "전일종가 4.96 / 변동 +0.1510"
+      },
+      {
+        "title": "VIX 변동성지수: 15.18 (+2.08%)",
+        "description": "전일종가 14.87 / 변동 +0.3100"
+      },
+      {
+        "title": "S&P 500: 7706.03 (-0.76%)",
+        "description": "전일종가 7764.70 / 변동 -58.6704"
+      },
+      {
+        "title": "나스닥100: 30470.29 (-0.04%)",
+        "description": "전일종가 30482.35 / 변동 -12.0566"
+      },
+      {
+        "title": "다우존스: 51511.59 (-1.03%)",
+        "description": "전일종가 52048.83 / 변동 -537.2383"
+      },
+      {
+        "title": "USD/KRW: 1365.05 (+1.09%)",
+        "description": "전일종가 1350.36 / 변동 +14.6901"
+      },
+      {
+        "title": "USD/JPY: 158.33 (+0.55%)",
+        "description": "전일종가 157.46 / 변동 +0.8700"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.654 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.90 | GEX +nanB$ (만기:2026-09-23)",
+        "description": "콜OI 221,935 / 풋OI 200,028 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 11.48 | GEX +nanB$ (만기:2026-09-23)",
+        "description": "콜OI 18,982 / 풋OI 217,867 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $185.65 (-3.62%)",
+        "description": "거래량 16,580,450주 (평균대비 1.4x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $771.21 (-0.73%)",
+        "description": "거래량 8,406,663주 (평균대비 1.0x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 4.0% (8/200종목)",
+        "description": "평균 MA 대비 위치: -0.6%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 71/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Dow tumbles more than 300 points, Nasdaq drops 1% as Treasury yields surge: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00VzhGUlU1QW9UTWpKMjZBZTJMZHcwUnB1NEs2eFJaT1FjWkI5LW9QZXEyZWpwNDBvYUVPMHBpM0FKQjVvb0dvSkVkSW5UVWduTjRYU1l5WkFQenF5ZVh2NWo2cVZDWlJIN0JsdHhJMXFVVGZtNGxZ0gF8QVVfeXFMT3R0cmRNcXl3RkMwVklPZE9IcnNvOEhYTV93YmlQT1dtcWVtODhrVmdaY3ZPRllnYktPSWRDckN0eW1MYVhuaTYxVHpJZ1dGUUd5NHRTb2VKbXFSR0FpQUppaGQ3ODhxd3dQOUNOc0VsbVAxU3dwbzRubWVmcQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock Market Today: Dow, Nasdaq Slip; 10-Year Treasury Hits 19-Year High — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYzA0Y3M1aDgybkFJcEdvV2ZOdmdoTU1fWjhLd3JtMm1ENlBFRGNndVJ1Ylcwd3pBZ2ZiRDNqckpaNVBYRENLNlNZQ2lhLVlHbnVYZ0g3SWwxQS1zMTlRQmUycFFxaXpZZkVPM2NZbTMyVkF5bXd1T3F2WklHQ3pSdG8zQ29faGM?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Asian Stocks, Bonds to Slide on Inflation Jitters: Markets Wrap - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNnFJdkpXR25uWlpXUkRfd1dRUXd5QTlqMU8yYkpkUmlabnNyZDJWdmlqRzZlRE5LZFhaaG4yWE8wZlMtdDdPUzVaX2JIVi1mR1hNXy1ma3pobThfZ2F3OWQzOVVwY0R2czBQejR5N1I4RzlqemdzWktJdHNvYW8tVWxydWh6cG0tNUo1VEkwTHdFUzZ5?oc=5",
+        "press": "Bloomberg"
+      },
+      {
+        "title": "Chinese Carmakers May Take More Than 10% of US Market if Let In - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVhLYTlBNXEyeG9tc25oNWRDYktMa0lySF9jMkp2SVFlQWItam1WVWFVUTRsYXhYajVGSDVQdDFCb045RUMwaFNGSXFSb2ZTeEhyX2xwcnFQVW9fTF84N0xrc0p4NmpaTjBpc1FETVBNd0NGdWhhTXE1VjhuVy0zMmtsaGFEQTZoYVNJaWQ3T0QwQUEwdTFhSWRUUFYyMUdBYTh2a0Z3ZjJXRXNGWTdSX3RFOA?oc=5",
+        "press": "Bloomberg"
+      },
+      {
+        "title": "Michael Burry Shorts Micron, Palantir; Famed Investor Expects Chip 'Down Cycle' - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLTItSFAyWkFxcGRJemxMdVNxQlNSRms2YmRHTHd0dEJ6eHZpQV9QLW90UFZOSEs3UVB0VkQ0YWhnQ1FPTkhIc1NlbDhSMXloUmxvUWJPZmZrXzdOTGRVdFVHMTY4STItamdJV3c2NENHaUVuRkUyTkoyZG8zOU1JbWhTY3hEMG1VWGNXQm5RMVV3c1VUVW54NEJNNkh2UHBDLU5lMjBXQQ?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Salesforce vs. UiPath: Which Technology Stock Is a Better Buy in 2026? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb2hlSklnMDNZWTJxU1FFRUIyN293amZzVHpQc1ByZ1hXRE11YllNSmJpYlJyNTl1RlN6Y25YU3lRWHNETTVqTGxUUHkyV2R4LUUwTGVKR1FZUkhrMU9ZOTVzRWwtdW41dzR5RmtoS0ZsVHRDdFNNM09oRW5EejRBcWdvZk41VkY1UG92RmNuQTNTN0RyZW5xVW96bEVZQjgxNXdTbQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Florida Housing Market Forecast for Next 2 Years: 2026-2028 - Norada Real Estate Investments",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeEFwdlQwSHdwdEhkYkZJcW5WUTFBcmMxN1FOWXNRUUxBMlNaNlFpTmdRNVdFZFRrNjYwTnlaNy13SXVXV3F6UFhGSFFjQWRXQi1RTzZEczdNWVA2c2Z4aUFDNC0tcGpjY19MOWJJaGdvWUFhZzlKdEJJbWhENGRRelVNQm5YNzJYcTdqeUdYaW10WUhmenFVRg?oc=5",
+        "press": "Norada Real Estate Investments"
+      },
+      {
+        "title": "Gallium Nitride Power Transistors Market To 2035: Data Center and EV Demand Drive Expansion - News and Statistics - Inde",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbUJFVUpyeXRBWS14TzdoX3lsT1F6UE1pTnNTREpEUUdtRjBTQ05UdjZCQjF3d0N5dEpBenREZndERXRwZzF0SERKVlQ0alo4bERMbGNnMHA4VEF1VDcwQUEya09ma0N3MWZPU181aGc2YWZjVjBUMHh1QXItUGJxaHk5VVNxRkJCQ3BHaG1MYWFzTmM2ZXYzTlU3cHYxRVhwdWNHd3BvYVNzZUtOa2hBaVRrdk5DSjhfcU8wTV9nSTRaUXRfREhpY21tVFVCcm8?oc=5",
+        "press": "IndexBox"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Kospi clings to 7,000 as chip gains offset heavy retail, foreign selling - KED Global",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QTTZJbWJYLVQ3dVA1am5ER1kzLVJKMHoxQXNucThPUGhHX2dMLXRFWTVpczVldHVnOVdaREQ5R3ZLMGo0QjdxNnVoSkt0bFZpclN3aDU4TXZBS2FyRi1LX3BRZWVaZ21nN20zajEzdDlPT19kM2tTRjl3?oc=5",
+        "press": "KED Global"
+      },
+      {
+        "title": "Do MAKUS' (KOSDAQ:093520) Earnings Warrant Your Attention? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNU0NWUTRLYmVSVlIyRXBJMTRkWXZhMjhuTFU0dmJIa1ZKRms2TkJ4b0lxbXprNWt4VFZNMEU2REdadjQ4X3lSUDdBMlZlWV9pNnJiNkVqV252UzM5SmxEWWd3alc1MDFwcnlXeGZWOE1oQjU3VjhNb3h4LWpmMlZuMDRKWThrWk1oSVJ6cWNqeDNOTVNnd0tNcmg4Vm9DQUFXM2JDVy1mQmVYRVRFTnhHTDhXMEVxdG4yTXkwZWd4M3ZTc3B4anfSAcYBQVVfeXFMTVNDVlE0S2JlUlZSMkVwSTE0ZFl2YTI4bkxVNHZiSGtWSkZrNk5CeG9JcW16azVreFRWTTBFNkRHWnY0OF95UlA3QTJWZVlfaTZyYjZFaldudlMzOUpsRFlnd2pXNTAxcHJ5V3hmVjhNaEI1N1Y4TW94eC1qZjJWbjA0Slk4a1pNaElSenFjangzTk1TZ3dLTXJoOFZvQ0FBVzNiQ1ctZkJlWEVURU54R0w4VzBFcXRuMk15MGVneDN2U3NweGp3?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Citibank Korea Recommends Kim Kyung-ho as Next President - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMmVuN041WWQ4cS1HQmduUzliTHNrU3M3S2pXQnd4QXRqdHQzaTFMd3RqM2tGM0hCeUZYOGZia0o5VDBiT3VxUF8tMUlFOHBtVTJJaVFCUXc5Zm04OVJwSkY0SE5UYWN3MnA1TVdZQ08zRW80LTRrblVoLWVKRktqcDF6eXNOeDJVYW9HemR3?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Global IBs chase Samsung deals as ADR buzz fades, M&A prospects rise - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0hRcWZmZmpQaWRIeGpIQUVYQUtwRHM3S19GZXVlTFVqSVZaZXFDX0wtN0JqaEswZFI4N3B0Tkc1cmxxLWI5ZFZ6X2RVdDd1UTM1TFhYNmJxVDhlZERxQ040TXl5VXN6d2xxVTFaOE94dFZycGhjSC1vdmNDb290StIBlAFBVV95cUxOODFPQnF2M3VYWUxZQTFVdEdKMGE1WEkxLWlzN05SdjBMb0NaeVczUC1mRFc2YjVOVVV4V2JPUW1TUFdVXzcyenU4T3FoZV91UGFTNEpyaTFYOHd5TC1OdEgwVjBHY1FQN1NCQzVmeUxhalU0WVNVcUdZQU9mRXFpek1XbHdSQk9VdEVaTk1kZXBfOFNs?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
