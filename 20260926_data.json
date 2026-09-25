@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "generated_at": "2026-09-25T23:31:53.997674+00:00",
+    "run_date": "20260926"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.04 (-0.25%)",
+        "description": "전일종가 101.29 / 변동 -0.2550"
+      },
+      {
+        "title": "미국 10년물 금리: 5.18 (+0.43%)",
+        "description": "전일종가 5.16 / 변동 +0.0220"
+      },
+      {
+        "title": "VIX 변동성지수: 14.87 (-5.11%)",
+        "description": "전일종가 15.67 / 변동 -0.8000"
+      },
+      {
+        "title": "S&P 500: 7743.41 (+0.51%)",
+        "description": "전일종가 7704.13 / 변동 +39.2803"
+      },
+      {
+        "title": "나스닥100: 30608.13 (+0.42%)",
+        "description": "전일종가 30478.86 / 변동 +129.2754"
+      },
+      {
+        "title": "다우존스: 51828.62 (+0.93%)",
+        "description": "전일종가 51349.98 / 변동 +478.6406"
+      },
+      {
+        "title": "USD/KRW: 1355.28 (-0.53%)",
+        "description": "전일종가 1362.50 / 변동 -7.2200"
+      },
+      {
+        "title": "코스피: 7080.92 (+0.90%)",
+        "description": "전일종가 7017.91 / 변동 +63.0098"
+      },
+      {
+        "title": "코스닥: 844.48 (+1.21%)",
+        "description": "전일종가 834.38 / 변동 +10.1000"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.676 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.83 | GEX +nanB$ (만기:2026-09-25)",
+        "description": "콜OI 418,465 / 풋OI 767,840 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.10 | GEX +nanB$ (만기:2026-09-25)",
+        "description": "콜OI 295,021 / 풋OI 618,506 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $187.18 (+2.55%)",
+        "description": "거래량 12,155,293주 (평균대비 0.9x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $774.83 (+0.55%)",
+        "description": "거래량 9,360,885주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 25.0% (50/200종목)",
+        "description": "평균 MA 대비 위치: -3.7%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 71/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Dow jumps more than 470 points Friday; stocks notch winning week despite Treasury yield surge: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXMWpxUWlWdlJ4X1pmZ0VpUUFQWFlVUWZ3LTlDZjBjSVVaMmNfeFhpRkk2OHFWQVlITXZ6d0NabXNHNEoxY3BfRmtlRDh5RjF1Mmh5akhEMWxMR0lVYkM0eFFuLWdKMGxFNjFSZUtPWDRQeTdNTmpj0gF8QVVfeXFMUHhhWS0yNlp3TlFFTTNpaFNWeEdoT3pJeFI0MFZQRnduTXBWdkFQVG5fOTc1cnZSVERvVWZGa0lSczNxRU1pWHNTZ3F1cXZweEdfeHhKb0s4UmFJM29VYnRaeGpibEE0NDlKSVNsQ21vTTV5VS1ydXAzYjFXWg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq notch weekly wins as market shrugs off bond sell-off, oil prices ease - Yahoo F",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWkFYN1JNNzRfMGx5ek40amFLekJ5anQ0dk9lbjhIWlZ6WkE3eFdqa0xNX0VJWEdrTk1USFA1d09ja1d1alpHd0FQZ1djcDdMWEwtSXgxcDg2QXcwRkN1Nng3UlhROERyOVhMWGM0T3ZSX2JvSHF3SDE1UDhwazMwcDRWLXpKMlJmX0J6LTZmVWxUR25nNjJ4Qll5OFRkY09MeHp5aXdubzB5Vm8tampF?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market on Sept. 25, 2026: Dow, S&P 500 and Nasdaq rise, lock in weekly gains as stocks climb despite surging Treas",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZElxa0V5ZWNkaWdYRHo5TGptcFByQy1DTU1WdUFVQ3ZScUgwcURtTzNEeXNOeFR5dW1jZllWdC0zZ01WbGlpLWZnRzVaWDZtWVNXZVY4dzZHRmR5VjVNc2pXX0l2VnpFejJhMHJ6bE5VQTI3OVl3TmNqdVFRcE4xbjFiekEwNTFFVlotQUxLV0p5YzhRS2hsQWF1T3lqMFJ3M0RmUmNVREJILXo1cmdGQUhEWFV5M1BjR2pEZTZlWnJlU0l1dDBHY2pNUU9XVUU?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Dow jumps more than 470 points Friday; stocks notch winning week despite Treasury yield surge: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXMWpxUWlWdlJ4X1pmZ0VpUUFQWFlVUWZ3LTlDZjBjSVVaMmNfeFhpRkk2OHFWQVlITXZ6d0NabXNHNEoxY3BfRmtlRDh5RjF1Mmh5akhEMWxMR0lVYkM0eFFuLWdKMGxFNjFSZUtPWDRQeTdNTmpj0gF8QVVfeXFMUHhhWS0yNlp3TlFFTTNpaFNWeEdoT3pJeFI0MFZQRnduTXBWdkFQVG5fOTc1cnZSVERvVWZGa0lSczNxRU1pWHNTZ3F1cXZweEdfeHhKb0s4UmFJM29VYnRaeGpibEE0NDlKSVNsQ21vTTV5VS1ydXAzYjFXWg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Meet the Magnificent Semiconductor Stock Crushing Nvidia in 2026 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMWhjckVwUWVQeTcwN0pBNnZHdkJwSjRvNG9qYWpQOFcyM3pQVlZoMndfLVBjOFRUN1FsdlFpaVV4Y1FTTHh0VkhOajh2X1pzb3F6Sl9OM3VMRDZQTE5pNUxuUTlZTUdYZDlPTVFyMWJRTWhyMGhwRUphanJYQ1RGUTVCWHQxTnZzaDBhWlNkeGN1M3FUQWhGcnpKeUFzdGZwc0llVDFHa0FtOFh1OThv?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Dow jumps more than 470 points Friday; stocks notch winning week despite Treasury yield surge: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXMWpxUWlWdlJ4X1pmZ0VpUUFQWFlVUWZ3LTlDZjBjSVVaMmNfeFhpRkk2OHFWQVlITXZ6d0NabXNHNEoxY3BfRmtlRDh5RjF1Mmh5akhEMWxMR0lVYkM0eFFuLWdKMGxFNjFSZUtPWDRQeTdNTmpj0gF8QVVfeXFMUHhhWS0yNlp3TlFFTTNpaFNWeEdoT3pJeFI0MFZQRnduTXBWdkFQVG5fOTc1cnZSVERvVWZGa0lSczNxRU1pWHNTZ3F1cXZweEdfeHhKb0s4UmFJM29VYnRaeGpibEE0NDlKSVNsQ21vTTV5VS1ydXAzYjFXWg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock Market on Sept. 25, 2026: Dow, S&P 500 and Nasdaq rise, lock in weekly gains as stocks climb despite surging Treas",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZElxa0V5ZWNkaWdYRHo5TGptcFByQy1DTU1WdUFVQ3ZScUgwcURtTzNEeXNOeFR5dW1jZllWdC0zZ01WbGlpLWZnRzVaWDZtWVNXZVY4dzZHRmR5VjVNc2pXX0l2VnpFejJhMHJ6bE5VQTI3OVl3TmNqdVFRcE4xbjFiekEwNTFFVlotQUxLV0p5YzhRS2hsQWF1T3lqMFJ3M0RmUmNVREJILXo1cmdGQUhEWFV5M1BjR2pEZTZlWnJlU0l1dDBHY2pNUU9XVUU?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Paramount To Move Its Class B Shares From Nasdaq To New York Stock Exchange In Early October - Deadline",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdnFrX2tIWG5uVjNaRFMxQlV4UnVzZlFycjRRNXYyTmZqZTk3dEtMMWhsREFLa0EtZTYtbFFvc2FCLTU4Skx3OXNkUzAyVkNmeTI2VDZtY2k4M3gtRkhuSFdqTTc5V3kyRU9jbnM4MTNJNnFORFUyd090WXliR01xRWgyYzdDNGRLZmhVZWpBczV3b1VKdnQ4eTFSVzdIak9iNzdkaQ?oc=5",
+        "press": "Deadline"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Kospi rally doubles South Korea stock account openings as youth pile in - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdXBaOVNSdG9uaWxjY2o5NkIzU0dheG5JZUR2LThHWXAxU2IwMzNQVlZZQ2FRUHdMQ3lZNG5QWVMxbXJJMS1ya2l4dl9xX2pSOVJlM2xPTXNXcmx6OVpiRFFKSVZBcWZPcklRZUw3d0RyTTBqSks2SnBJVUxnemdBTdIBlAFBVV95cUxQRjdZMW5uWEZZd1BKaWlqLW9sVERvT3JTUWhZd0JDcnRnMWVhaGdkNFdYZmtHMC12dTlJbFJkaGFxc0NXY214ZGNDRjVCdllYYkk4dGlIbnR6dTdLNVB6SzFYaWc0Q2NkTkZteDVvZVo5d3VkNXhSZ1NJY2xwTEJHYzFpdTFsRURNZXBtWm9UbnhqUDg3?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
