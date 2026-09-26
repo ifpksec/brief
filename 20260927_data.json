@@ -1,0 +1,152 @@
+{
+  "meta": {
+    "generated_at": "2026-09-26T23:32:32.002482+00:00",
+    "run_date": "20260927"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.97 (-0.32%)",
+        "description": "전일종가 101.29 / 변동 -0.3200"
+      },
+      {
+        "title": "미국 10년물 금리: 5.18 (+0.43%)",
+        "description": "전일종가 5.16 / 변동 +0.0220"
+      },
+      {
+        "title": "VIX 변동성지수: 14.87 (-5.11%)",
+        "description": "전일종가 15.67 / 변동 -0.8000"
+      },
+      {
+        "title": "S&P 500: 7743.41 (+0.51%)",
+        "description": "전일종가 7704.13 / 변동 +39.2803"
+      },
+      {
+        "title": "나스닥100: 30608.13 (+0.42%)",
+        "description": "전일종가 30478.86 / 변동 +129.2715"
+      },
+      {
+        "title": "다우존스: 51828.62 (+0.93%)",
+        "description": "전일종가 51349.98 / 변동 +478.6406"
+      },
+      {
+        "title": "USD/KRW: 1354.40 (-0.95%)",
+        "description": "전일종가 1367.36 / 변동 -12.9600"
+      },
+      {
+        "title": "USD/JPY: 157.18 (-1.02%)",
+        "description": "전일종가 158.81 / 변동 -1.6260"
+      },
+      {
+        "title": "코스피: 7080.92 (+0.90%)",
+        "description": "전일종가 7017.91 / 변동 +63.0098"
+      },
+      {
+        "title": "코스닥: 844.48 (+1.21%)",
+        "description": "전일종가 834.38 / 변동 +10.1000"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.676 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.08 | GEX +nanB$ (만기:2026-09-28)",
+        "description": "콜OI 105,281 / 풋OI 114,179 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.27 | GEX +nanB$ (만기:2026-09-28)",
+        "description": "콜OI 74,574 / 풋OI 169,359 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $187.18 (+2.55%)",
+        "description": "거래량 12,221,500주 (평균대비 0.9x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $774.83 (+0.55%)",
+        "description": "거래량 9,706,100주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 25.0% (50/200종목)",
+        "description": "평균 MA 대비 위치: -3.7%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 74/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Home Cleaning Products Market To 2035: Growth Outlook Driven by Hygiene and Premiumization - News and Statistics - Index",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcDAtNVNIR0NjLWktWTZpV094bF9xUjJTNWl2akgzRFg4Yk04Y282ZE5NVXl4YkEzbGdfQU43cU9MQW8wcDUxdll0YUpocEIxbF9ybi1vUVhtWFJMT1VtU0w4WWc0eVk4WWZBalNRVjNCazVLUG5CUk5lRm9vVVJoeURvVzIzWXJHeUxvT09maTJWMFE4VURQdnVUd0l5cGlPNTE0bWRBVEpFbWFWT2NfaTE0cGl6dUVjUnFNbUZBcDNEMWNIZFZWRm0xdW0?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "3 Elite Dividend Stocks Hiding in the Nasdaq-100 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTmR1OGplN2hYaVluZUtxVDYtUW1LUk10RVFlTHFTczNTMFNBd2VkZ2NGZHd1dGhicWo2YUExTzRZSnBGVFJEbER4TFktWXhmelNXT0lwc3ozUlBvMmJjdGhXeElZVTlnNmdJMjY4YnRNQWFHVGhtMFBqWTUtZF8zZUZXRjJjQXU3X3RJSUhBOHhWSzR0MzNqaVJpQQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "This may be the ‘missing piece’ for investors looking to boost AI exposure - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcHN3SEFWbHJOVGVWRktRZnZubEh5TzhxZFJRUkFweXRFNEVpTXByVExnS2lRMlZNcUZVN1FvQUxocGNLWEt5Z2FYSVpybUEzNFFmVUgxeUZXQkZOTDhudGNwM281cy03YWk2dFlwNHNzUmNLRTRneTZrMEl5VkFXcllGaEljM1N6QlE0RnNBUjNKa3dSNlHSAZsBQVVfeXFMUEZYWGpHRk40NG52am1hLVhfLUVaN1h2cGNhUkJubUtDWWhqTE5GTTNObG5YMlZ2M2VvSlNVcGFDeGNoeWd1Tm1fb2tOT3lla3VMcFhCNUdxOVQ3ZFBrY3FXSHNZdDVSSU1QX0RTcEhhbXA1R3V0Zm11ZlVXa1YtYmx5ZlBhX1ZPUm8yVXFXcG5uSDA0dElTYm1sbFk?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Latest Timber Products Output Survey Results For Wisconsin Available | - forestrynews.blogs.govdelivery.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcHZxRlFTT05tdExqc3I4b2p0M2RDWmRsNTBMTjFVSERTdEtZMWFZbFBFenBZUnlLWnNIOVdGYzlUZVdXc3VNS043dTRJdHMzQ2pHdENLTnFvNVRiVVRONjRPbHA4OHY1Qk84dUw2UWE1Y3hZTEpab2d1cngwU193dW9ESTF3Q1dEMmVhUDY1Vl9NdzZ5NUxyQzFlZTEwTW1SU2tITDJTZDMtWDV6RE9XRlpxUHJEZ1FPcTF2NC13S1Y?oc=5",
+        "press": "forestrynews.blogs.govdelivery.com"
+      },
+      {
+        "title": "US Hiring Appetite Is Healthy as Economy Powers Ahead - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGRXV241Njlqek45X2d1M29TUzFrTkZDQVI3ZXM4NWdUNXV0LU5reGZaR2hHbDZKbTN5S2hDTDVkblo0ZWFGNThiYzJzTmFFR1cwNEpEUmsyWVpCWHo1d1piaUY3T2JIS2F1X2hsVm40U3JFWWloMzRjSmRIcWxuSVFIZVJYczRvYmZ4Wm83azR1ekxDc2RSY0h4cE1EVWtPTnNuQzNZREZmTS1uamtBTFYyT2piZDg?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Is Fed tightening a game changer for EM assets? UBS weighs in - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWkNTbGM5cjNoa1RZblVoQ3ZMeGVyMmVneFZIOTBpemZRNWx5a2FhM21BelV0eDI3MmdjZldQRGk1UUhIczJzZk1wdUFuTjNWZ09RUGlReExYVXZodXN0Z3gwWXFJZi16cVVXZUQ2OFVDSm5tdk1oTC1ER1d3UU5tcW9Fd3ByVG5DT3daTnV0alZVUmZTOC1aWnNPdUJKQ1V0SUZjREdvVzltOVRnNldFa2NB?oc=5",
+        "press": "Investing.com"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Can the Kospi stay above 7,000 after Chuseok? History offers some hope. - Korea JoongAng Daily",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPanVBN2dvTFgwR0l3SlNKT2FOejNsa3N3allNSUJBX25vNThpRGNhM0NlQk5OZlFxZnJCZWZYNXEtSkhuNHdId2Zodk1iNENHYldwdXE4eTJNNEZVYndxdjNJaVMtQWtXSWpFTVJySXZSM2NjT0lBbFZRV2hodzNZZXlQbVFMbU0xVjNQbHVjUm4xMzFRWWNNZ19CeTh2ellvTFlBaWtmaVZvVGhlT3pxU1B2ZEN5bVVXOHN6WnV3?oc=5",
+        "press": "Korea JoongAng Daily"
+      },
+      {
+        "title": "Korea stocks eye US PCE and Micron as semis, foreign flows steer KOSPI - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcEVnY0tPaWswWk8xUVFzTGFzRS1FdnNkdERUa0dYbDFmUVVZYzdZYlJJbmJST1BBdGJUdEUtR0NUeXdpQ1dRTkl6bUFwR3ZjSnVNdUhuajhuWlJGNVFrQUs3bE9fUUlFclQ2LVpnNEtkenE0d1kwalp6UlFVeVhnM9IBlAFBVV95cUxNdmlrdFFnWVR4U3hjT09pRjFGRTlQVFJmZFYtamw3aHc0Q0QwdUtOd3I5NlkwMWdrUWl5VjJKc3RxZ3pzaFc1Qm4zOFM3NXc1cDZvM0lkV2lSMHU2OVluODg3Tjh2Zi04cjdnZXZFV2E1ek1EQUpRSlFGNTFydEh3SFJYWGFKVHlhektjSFZIUFZUOTgy?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
