@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-09-27T23:32:07.059976+00:00",
+    "run_date": "20260928"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 100.97 (-0.32%)",
+        "description": "전일종가 101.29 / 변동 -0.3200"
+      },
+      {
+        "title": "미국 10년물 금리: 5.18 (+0.43%)",
+        "description": "전일종가 5.16 / 변동 +0.0220"
+      },
+      {
+        "title": "VIX 변동성지수: 14.87 (-5.11%)",
+        "description": "전일종가 15.67 / 변동 -0.8000"
+      },
+      {
+        "title": "S&P 500: 7743.41 (+0.51%)",
+        "description": "전일종가 7704.13 / 변동 +39.2803"
+      },
+      {
+        "title": "나스닥100: 30608.13 (+0.42%)",
+        "description": "전일종가 30478.86 / 변동 +129.2715"
+      },
+      {
+        "title": "다우존스: 51828.62 (+0.93%)",
+        "description": "전일종가 51349.98 / 변동 +478.6406"
+      },
+      {
+        "title": "USD/KRW: 1355.25 (-0.89%)",
+        "description": "전일종가 1367.36 / 변동 -12.1100"
+      },
+      {
+        "title": "USD/JPY: 157.57 (-0.78%)",
+        "description": "전일종가 158.81 / 변동 -1.2410"
+      },
+      {
+        "title": "코스피: 7080.92 (+0.90%)",
+        "description": "전일종가 7017.91 / 변동 +63.0098"
+      },
+      {
+        "title": "코스닥: 844.48 (+1.21%)",
+        "description": "전일종가 834.38 / 변동 +10.1000"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.676 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.08 | GEX +1.0B$ (만기:2026-09-28)",
+        "description": "콜OI 105,314 / 풋OI 114,179 → 균형 | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 2.21 | GEX +0.4B$ (만기:2026-09-28)",
+        "description": "콜OI 76,763 / 풋OI 169,366 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $187.18 (+2.55%)",
+        "description": "거래량 12,221,500주 (평균대비 0.9x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $774.83 (+0.55%)",
+        "description": "거래량 9,706,100주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 25.0% (50/200종목)",
+        "description": "평균 MA 대비 위치: -3.7%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 70/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock futures slip after winning week on Wall Street: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfcHBSWXRJblRwTG9LU2FTa2padU81clRCNUE5aVFMSHRsMEVXNWVKd1RINFM2VjhCSFNyOUVEVTBFTkgxeG5NSVBPWXZnWkE5Zi1fWTE1c042R2diaGNaUG52Qm1Zbjc5TVlSdTRWRlFKQ21laXJF0gF8QVVfeXFMUF9sSmc0eVlfc0psUWhFVUc3WVNwWFZlSldzSUtXamRDd0VKQTRqRjMxSWNGSEdTZDJBWEVtS0JkVThUV1I5cVFCNHV4UjZxQVcwR09qRnRRVHBFeTR6Qk84WEY5Y05vZlNZNU5NQnYxV0ZTSlJsSi1VNkQtVw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Oil Up, Stock Futures Slip as Iran Offer Rejected: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVGEzeTM5UEZjTzRrYWs4T0hyTTAtRVpvWkJ3UFhUVUNxNF9fQTZBM0JHcHh2WFk4MlFQemNVM1RWMW9RQUh0ZUlEZlYwZ21obEJnRXVjOE5QM2ZFYVEtbHNVNmZ4bUdCRU9FaDRUa3Y3VGpsVHk2MzU1LVU2TmJSY3dGR05mdUhsQ2lnZGQzVndvR1dr?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Stock futures slip after winning week on Wall Street: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfcHBSWXRJblRwTG9LU2FTa2padU81clRCNUE5aVFMSHRsMEVXNWVKd1RINFM2VjhCSFNyOUVEVTBFTkgxeG5NSVBPWXZnWkE5Zi1fWTE1c042R2diaGNaUG52Qm1Zbjc5TVlSdTRWRlFKQ21laXJF0gF8QVVfeXFMUF9sSmc0eVlfc0psUWhFVUc3WVNwWFZlSldzSUtXamRDd0VKQTRqRjMxSWNGSEdTZDJBWEVtS0JkVThUV1I5cVFCNHV4UjZxQVcwR09qRnRRVHBFeTR6Qk84WEY5Y05vZlNZNU5NQnYxV0ZTSlJsSi1VNkQtVw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Is Carpenter Technology (CRS) Undervalued After Joining The FTSE All World Index? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQnVndXpnQmRVbzR6Y2NuWGI5eG95bGpXWTdKQW93MTVNaGZCblp2Y09sQW1BWlhaTXZYQkI3U1JtTFJzS19KcEdyRXMtSml3WFpmN3lVOVQ4T2czWUlxdUtRYTFJMlFfVm1sdFZ5bW8xbmo3X1BkQWNtQlRydlQ0X1VBcVFNYnQ2cVlvb2drYkJGTFNYWW9ZVllyR0k5dGoxUUlhTjBxTTVJQ3RYYm1KNTYwV2k1Ukk1aGVQeWVGWHlzb1VHN24tMGlfWWxWOHNKZElJangwbHPSAd4BQVVfeXFMTWFobEZiX1BFUHA2NHdjQUlYeUtRQkhxNGRzTmN2SHhsbHNNcGU3RnNDc3BMQldPT3dyVkJIMjB5TDBwTENfdDgxT2VkS2I0Y3NoXzlTWXYybV96enRmOTlmaVBvRkdOZjNNc2gtSUNHeGVKOWRLZmJoVUxqOUU3Q1ZqYkRETm5lc2t6NzFneHREZHY5ekt3RGY0QnhyUlBrckJzS3BFeUxWclFPQWxDSVM3X0ZQSkxuZFBveE5mTW9TOWFoQ2ZOdHNuYWFCQkpjRW9QTGRiRGhPUTdHeFdR?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Dow Jones and Nasdaq 100 Outlook: Three Catalysts to Watch This Week - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQXVqUU5BMjRJMXJhNnk0Q3N3bnphb0RxRlhsdFhFVzdsVjFaY1VvWUNmWHNlWU50OVFmYnI1NG5IYTJPWFpmNmRkOVlLZ3BvN29UZFExR2Y5ci04VFlyOXV6bGVkX1hyRGdfcFhhUXZWUVpyNjJTZUtobDB0OTVGMF8tMnlabzNVam1XNTR2Snk1aFlDUzNJX0RSS3ZoWHVGZlAxMVJEQ2hYUThCZWg1Slljc3hGVVdsS1Ezbw?oc=5",
+        "press": "Benzinga"
+      },
+      {
+        "title": "Thinking about buying stocks instead of a home? The S&P 500 has blown away the housing market - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYzR2NHNJdk9oSHo4ZzgyV1NZc1N5UFFHVW5XSm1EQ19ROHl4cE9qSEJHdzhKTUxLYmJNRXRGY1FqbGpFeXYxZkpFaDVXUkI2akJWNVdXX3FnUFBDVDNnaXA2V2l1MElEeWtiRW1ycFg1UnFsTTNYN0x1SzJSZ0tJa2o0LUNESjZpU2xHbmctaVd5R2Rkb3Q5TTJzS0VlU1Zw?oc=5",
+        "press": "Fortune"
+      },
+      {
+        "title": "1 Top Warren Buffett Stock Trading 21% Below Its All-Time High That Can Double a $1,000 Investment in 5 Years - The Motl",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPUEVhdjUwNVhSVVJJcTJHRGU3MDJtcnZSY3ZTT2VBZTNxdl9EeVhzbzU2MkpsVzZEeXpOclZWd21hUVIwclEzam1JWjdWLVFXRFVqRFhVNDJKWWQwZG5Tdy1NSnVJd3YzVERCUFp6QnlrMzk0a2V0R29EWGpwbDB0VTBOeXhKcE5rOV81LVpjXzg?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "Oil Rises as Iran Says It Won’t Soften Strait of Hormuz Demands - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcElYRUlDZHRpYWNJcDFodXAtUVJfNTJmbDJId3RYLVY3Y2VyWEVHNUdTTVo2djMwajhURi11S2N2M3FFVjBNX1dEVFd1Z3dqc2taTlVrZWN5OW54MzdHQW9GZ1lucTBmMGczOGJuREFDY2JxdDlQUDZDaFkxZU9SNVFlVU9IUko2d0QwQzdQbWUydm9QYUl1LWJUeVIwODQ?oc=5",
+        "press": "Bloomberg.com"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "With the KOSPI retaking the 7,000-point level last week due to a rebound in artificial intelligence - 매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5TYld2UmlvQmZlem1haDVfeVA3b1NFZzJrMkNvd0w2UDd5M1hMbVN0REpkZlZJb2hjZGhYRE5iQUFtT2FuLW5WdGdEUl9UaVk?oc=5",
+        "press": "매일경제"
+      },
+      {
+        "title": "Samsung Electronics sets record Korea dividend; investors buy by Sept. 28 - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGNXekVfRlNqU1NHWDVTeGIyODBTTkFxZE43TUZQYlFDaVl0T2JScEpqeEhyNWpCclF0Rl9BLXhDMVhlR01BTEJETl9FMjNnWi1zdkZSMWQ5VFlGQmZPSzRYQUU3MkMweHI0NEhEMFFLbUFFNGRGU2VVeW41RnBwd9IBlAFBVV95cUxOOTBXZm9QX0tXQWF1U0FBanFJNHZTTl9vN0hJT19hazY4VGFULXVaU21vTFJfUE0xbVJoMFplUUdRTVBPak4tazd6djcyODRpTjFIaENoNGxVWkRCT3FlWVVUN01IdWU4NjJqVlVlcGl6T1AyYWQtNWNHQmtPaEo3b1lNOEhYNThtRzN3UGdRY0t3RUlU?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
