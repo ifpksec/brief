@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "generated_at": "2026-09-29T23:32:32.636051+00:00",
+    "run_date": "20260930"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.38 (+0.17%)",
+        "description": "전일종가 101.20 / 변동 +0.1770"
+      },
+      {
+        "title": "미국 10년물 금리: 5.26 (+0.29%)",
+        "description": "전일종가 5.24 / 변동 +0.0150"
+      },
+      {
+        "title": "VIX 변동성지수: 16.04 (-0.19%)",
+        "description": "전일종가 16.07 / 변동 -0.0300"
+      },
+      {
+        "title": "S&P 500: 7670.84 (-0.17%)",
+        "description": "전일종가 7683.69 / 변동 -12.8501"
+      },
+      {
+        "title": "나스닥100: 30339.33 (+0.21%)",
+        "description": "전일종가 30276.81 / 변동 +62.5215"
+      },
+      {
+        "title": "다우존스: 51349.92 (-0.26%)",
+        "description": "전일종가 51481.51 / 변동 -131.5898"
+      },
+      {
+        "title": "USD/KRW: 1352.11 (-0.55%)",
+        "description": "전일종가 1359.56 / 변동 -7.4501"
+      },
+      {
+        "title": "USD/JPY: 157.41 (+0.03%)",
+        "description": "전일종가 157.36 / 변동 +0.0450"
+      },
+      {
+        "title": "코스피: 6889.74 (-2.70%)",
+        "description": "전일종가 7080.92 / 변동 -191.1797"
+      },
+      {
+        "title": "코스닥: 846.58 (+0.25%)",
+        "description": "전일종가 844.48 / 변동 +2.1000"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.692 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.20 | GEX -1.0B$ (만기:2026-09-29)",
+        "description": "콜OI 172,164 / 풋OI 206,927 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.90 | GEX +nanB$ (만기:2026-09-29)",
+        "description": "콜OI 137,662 / 풋OI 262,059 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $187.10 (+1.92%)",
+        "description": "거래량 8,642,653주 (평균대비 0.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $767.52 (-0.18%)",
+        "description": "거래량 5,511,372주 (평균대비 0.7x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 21.5% (43/200종목)",
+        "description": "평균 MA 대비 위치: -4.3%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 73/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Dow posts back-to-back losses as Treasury yields continue their ascent - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52VGJIVWQ2MTdhY1B1a0ZxMEUwVFlraXdZbGJRRHVWcUNDOHB5QWhJTGx6d1lDTGVid09sVlpBLUV4YTA0eVdUUVU2Y1h4eEZodHVJczdGa1dRckVmU1R1WldFUWItMDR2N3pZR003Z2ZHZTRxeWow0gF8QVVfeXFMT0dRNTNjTElzNUlEQmhmaWR6UXNBVmFxR2lkVklGU2JNSXZjWUNwRTlDa05ZUWJHbjlFZk41N3BiT3RIak01R3k5UU9VWEpRSzJMVWVXSGhQQ0NodjRkTUdCTHlPZGFzTnlKQzBKeFlrSlNWcklVS3JJTkVQMg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock Market Today: Dow, S&P 500 and Nasdaq end down but well off their lows as Fed sows doubt over October rate hike - ",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNm5JS0pzaDBteTdXZjZYNlV3WHItOWtPZGRmVjg5OGVubmFZMXBhVm8xNVF2UnNDTHpBNEhjZUtqSUsxNVJDTTBWaFNjeXI1Mm10dXQ0a2JacUNzSEtYNUxyWkRja0pxZkg1ek5KcjhBdDA1Uk8wb0txTDVZRG1hVVBJZWZVSldfVVlvWl83NkluSVBkRVpQWnpTZUlvZVZtWE1aeWRxSUUtVHlreFJRcnY0UHBxcXFHRl9yUENQYlA?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Dow posts back-to-back losses as Treasury yields continue their ascent - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52VGJIVWQ2MTdhY1B1a0ZxMEUwVFlraXdZbGJRRHVWcUNDOHB5QWhJTGx6d1lDTGVid09sVlpBLUV4YTA0eVdUUVU2Y1h4eEZodHVJczdGa1dRckVmU1R1WldFUWItMDR2N3pZR003Z2ZHZTRxeWow0gF8QVVfeXFMT0dRNTNjTElzNUlEQmhmaWR6UXNBVmFxR2lkVklGU2JNSXZjWUNwRTlDa05ZUWJHbjlFZk41N3BiT3RIak01R3k5UU9VWEpRSzJMVWVXSGhQQ0NodjRkTUdCTHlPZGFzTnlKQzBKeFlrSlNWcklVS3JJTkVQMg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq wobble as 30-year Treasury yield climbs to 24-year high - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjFzVm9LX08zTnhfUXNSR2pjSkI5YWg3Y0NnYWltMFB4MHRBejJOZkFQQ2pYc25ycjhhWk1BRGFXbk5WRm1OamtkSzBRdWtkanlrUWVGLUFJSTlYU2RMX25TVDNPOURSc290Z0VJSnJFSlp4MjBhS2p2TzNXTk9RZGhRRC1XVm1Da1lNaG5UNnVZeEdfd0RmOVhkakVIRC1yb1BIejZGZVZ4MjhwSWdyVA?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Better Semiconductor Equipment Stock: Applied Materials vs. Lam Research - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQmF3WUlZTWlkaTV5QXE0eUxRUXZHeGRKUkVoYVdXWGo3NUJ1UHg0bWRqZGg3N3dSNkZRQm90b3BFRUV4dDJSZTVJRmpuTnNmQmpHbUgzaFJCZ0tFR28zZmxBeENybVlibHlRUTJjOThCWngtX2ZMZ3lsOEhTX3NIOHM0ODFxczNwLWdhN1pVUUFaLW1VVWpjZg?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "[Insight] Newly Released，2027 Global LED Video Wall Market Outlook and Price Cost Analysis - LEDinside",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBiOENmVkhiNHpkVGhZNHptTU9oVjFuU3ItMzJ2YnVRc2x1SzhlTmJEaDRqNWN5N3hBWTFqTnRCRUVCaHJzSG1OYk9WU1NXMDdDbnV0OVh4SGtnRjNQM0JWS1pDc2lzejdQWV9aSTdNTmhRNi00djYweQ?oc=5",
+        "press": "LEDinside"
+      },
+      {
+        "title": "Stock Market Today: Dow, S&P 500 and Nasdaq end down but well off their lows as Fed sows doubt over October rate hike - ",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNm5JS0pzaDBteTdXZjZYNlV3WHItOWtPZGRmVjg5OGVubmFZMXBhVm8xNVF2UnNDTHpBNEhjZUtqSUsxNVJDTTBWaFNjeXI1Mm10dXQ0a2JacUNzSEtYNUxyWkRja0pxZkg1ek5KcjhBdDA1Uk8wb0txTDVZRG1hVVBJZWZVSldfVVlvWl83NkluSVBkRVpQWnpTZUlvZVZtWE1aeWRxSUUtVHlreFJRcnY0UHBxcXFHRl9yUENQYlA?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq wobble as 30-year Treasury yield climbs to 24-year high - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZjFzVm9LX08zTnhfUXNSR2pjSkI5YWg3Y0NnYWltMFB4MHRBejJOZkFQQ2pYc25ycjhhWk1BRGFXbk5WRm1OamtkSzBRdWtkanlrUWVGLUFJSTlYU2RMX25TVDNPOURSc290Z0VJSnJFSlp4MjBhS2p2TzNXTk9RZGhRRC1XVm1Da1lNaG5UNnVZeEdfd0RmOVhkakVIRC1yb1BIejZGZVZ4MjhwSWdyVA?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Is Now An Opportune Moment To Examine UNISEM Co., Ltd. (KOSDAQ:036200)? - simplywall.st",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVkFja1BtOUpUYTcyZXNuWWdfV1lvWkhIQ0d5c0lnTGo2R3BuSHRFNlVRSUlVMV8zdVFzQ2lER1V5UHhaQ1VEYXVlTTFiSlR1cmVwYklXSmVtalY1OGEwQTJseWxtYmdIN0xzS3FIdHJ3OXNSNFNXWVlLRzBIR0IzT2tFcEs5Tk5RY1ZnRHFBeVBOZ01fUTA2cHAweW9oNm9QZGgyOGFhb0pZeHczUVltUG1TbE1yVG9hRC1ZcllxVE1adnd6R0RDY1laU0VMTjF4eF9kUUdkS28wSE1HOWfSAd4BQVVfeXFMT1ZBY2tQbTlKVGE3MmVzbllnX1dZb1pISENHeXNJZ0xqNkdwbkh0RTZVUUlJVTFfM3VRc0NpREdVeVB4WkNVRGF1ZU0xYkpUdXJlcGJJV0plbWpWNThhMEEybHlsbWJnSDdMc0txSHRydzlzUjRTV1lZS0cwSEdCM09rRXBLOU5OUWNWZ0RxQXlQTmdNX1EwNnBwMHlvaDZvUGRoMjhhYW9KWXh3M1FZbVBtU2xNclRvYUQtWXJZcVRNWnZ3ekdEQ2NZWlNFTE4xeHhfZFFHZEtvMEhNRzln?oc=5",
+        "press": "simplywall.st"
+      },
+      {
+        "title": "Samsung Affiliates Invest $1B in Helix, Expanding AI Data Centers - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQblVkc2F1SXEyd2FmTGlyWW44VFlXQzRraDdNNF9IZUdLLXktQl90bmU0THJaUHF3emdTRUdGMUEtZy13cjFMTVpXdzZjLTNYYU44TllBZHI0dzNUSVdzSjJpeU85NkZTUnZiWlcwendlTW42THRMTlNnZUMxV0tWYjJtbmk2R0h5?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "South Korea’s top portals Naver, Daum to block foreign AI crawlers to protect local-language data - kedglobal.com",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rWUNGQ0xxRmdoYnI5NUstY2twQTd1Mm4zT0Z0aWRrYTNXYUQyY0ZyWE9NUHR6ME14clNONUR3M3ZhOVBNX24zWm5rVWpYN1QyQTFzVU16cFlyd2Rvb0FGTVNENE1DNHJFNzdWUVRsR3ZrMHFyVUNHRmJWaWZyOE0?oc=5",
+        "press": "kedglobal.com"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
