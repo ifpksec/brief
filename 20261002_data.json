@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "generated_at": "2026-10-01T23:31:57.168868+00:00",
+    "run_date": "20261002"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 102.04 (+0.58%)",
+        "description": "전일종가 101.45 / 변동 +0.5930"
+      },
+      {
+        "title": "미국 10년물 금리: 5.24 (-1.06%)",
+        "description": "전일종가 5.29 / 변동 -0.0560"
+      },
+      {
+        "title": "VIX 변동성지수: 16.39 (+0.31%)",
+        "description": "전일종가 16.34 / 변동 +0.0500"
+      },
+      {
+        "title": "S&P 500: 7666.45 (+0.19%)",
+        "description": "전일종가 7651.54 / 변동 +14.9102"
+      },
+      {
+        "title": "나스닥100: 30501.56 (+0.31%)",
+        "description": "전일종가 30408.50 / 변동 +93.0605"
+      },
+      {
+        "title": "다우존스: 50926.56 (+0.04%)",
+        "description": "전일종가 50906.05 / 변동 +20.5078"
+      },
+      {
+        "title": "USD/KRW: 1360.10 (+0.24%)",
+        "description": "전일종가 1356.84 / 변동 +3.2600"
+      },
+      {
+        "title": "USD/JPY: 157.88 (+0.20%)",
+        "description": "전일종가 157.56 / 변동 +0.3210"
+      },
+      {
+        "title": "코스피: 6838.04 (-0.48%)",
+        "description": "전일종가 6870.81 / 변동 -32.7700"
+      },
+      {
+        "title": "코스닥: 855.91 (+0.72%)",
+        "description": "전일종가 849.80 / 변동 +6.1100"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.683 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.23 | GEX -7.8B$ (만기:2026-10-01)",
+        "description": "콜OI 192,550 / 풋OI 236,772 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.12 | GEX -1.7B$ (만기:2026-10-01)",
+        "description": "콜OI 158,829 / 풋OI 177,904 → 균형 | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $186.11 (+1.82%)",
+        "description": "거래량 12,001,686주 (평균대비 1.0x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $767.38 (+0.20%)",
+        "description": "거래량 6,539,007주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 21.0% (42/200종목)",
+        "description": "평균 MA 대비 위치: -4.7%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 74/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq stage comeback as Treasury yields fall, chip stocks gain - finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUW1SdnZIaGtFb1lNWHNpaXFsQ0gyUVhIZ3djcEV2YzlCVExrcFNhMG9ObXZQZDgxQk1ReVd6TGhaY2hUbmhLQ2xMSUx5S2lyYi15dXEtd2hkR2I0Yy1kdFVvQXZNeUl4cTlJZ1NkdzlHWkxhMXMwaVZEcE9DMVcwVnItcXRIOExzenBEeEFMc1NSa1NnUFk5T0xpWm9KaE45Ni1vMTVkdEk?oc=5",
+        "press": "finance.yahoo.com"
+      },
+      {
+        "title": "Stock Market on Oct. 1, 2026: Dow, S&P 500 and Nasdaq end slightly higher as semiconductor stocks rally; Treasury yields",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUl9pTG5Pemw3V3F4RERvTk5OUWJfZkJWLVhsdVRsMVZ5NUJPWWdidGY4Ul8wWGVmVVYwaEMycnZCemhJS3FFWW8yM0xMaUdleEtXWHRzS0QxcWRXVkZXbHA2Nk9qV3lSV2MzYzNjT2xWbTYtdDdfQWh5bEhfUzJJZFV4YVZWR01DTnZtNkdPNDBwMkw2TWE4UWZrM3J5SVA4ZU1INDNTV21BN29RcS1fLXplU2Q2WThZSzNaSTFmWWN3UXk0RWFjcWFyOGl2WjA?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Stock futures are little changed as September jobs report looms: Live updates - cnbc.com",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JVkxRTDJXTzczbVFZVDBDb3NJTmZjRW1TdzVVeUFUbkFVV0RKMDdxSDVtb2ZOU2R1NzFqT2kwem9MOTRsbUdZTUZ2a3ctYXNRN2lWYXdycU10YVBIdVk3a2VVa3FrMjlUZjVHOUVDZ3BPTGFNOGZKQ9IBfkFVX3lxTE1GWVluaGw5M2xYLV9aZ0dYX19YSDJxNXlYcFdLakUwQ3FYSTFDQnJkNWlNUGFGSDRjZXcwWDR3NFllbXg5UzA1V1BWYlgwYlVaYTZFRHB0ZWRIeHp5akduM3RlMnR3TTFBR3RoZjh0SmtnSDVtM2s1OVZENVU2Zw?oc=5",
+        "press": "cnbc.com"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq stage comeback as Treasury yields fall, chip stocks gain - finance.yahoo.com",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUW1SdnZIaGtFb1lNWHNpaXFsQ0gyUVhIZ3djcEV2YzlCVExrcFNhMG9ObXZQZDgxQk1ReVd6TGhaY2hUbmhLQ2xMSUx5S2lyYi15dXEtd2hkR2I0Yy1kdFVvQXZNeUl4cTlJZ1NkdzlHWkxhMXMwaVZEcE9DMVcwVnItcXRIOExzenBEeEFMc1NSa1NnUFk5T0xpWm9KaE45Ni1vMTVkdEk?oc=5",
+        "press": "finance.yahoo.com"
+      },
+      {
+        "title": "S&P 500 closes higher to start October as Treasury yields retreat from multiyear highs: Live updates - cnbc.com",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93ZklidXJsMkhSOG1wdXNvSzlyV0pLZmFBcnd2WWdmQXhFSmxVYzVkM1lkeHI0d3pyQmxIZFBwSXBjeFctMHNGMUh5ZTNZT2RDTjF4RmFIamxETFZHdWpNRlVnSGhWQkY2Z1M4alRPV29IMXlnamVj0gF8QVVfeXFMTU13b1AxdktDTlg5TjFGdE1HTGhmU1kzOXlZWGhLN1pMLVZuLTR4WTRFME55ell3VjhhZEh1Y0JoUE8zejFxZHlLaDIxY25LcFFrQnVPWDlEU0d6TmlRUWpXMnRuTzAxQ0dleFIyM3FrR1RhMlAzSDVFSzFTaQ?oc=5",
+        "press": "cnbc.com"
+      },
+      {
+        "title": "Equities rebound to close higher as surging Treasury yields recede - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT1NWcmpRdnNhV0szWEh4QVRhcF83OVVJSy1jY1BoOFZDb2ZGanhFd3VtQWp5bFJxa2kwRUZJaWExeXF0UmE0NS1vUVpjdWpoc1N4dUUzZ1AtT0ZyNkZBTjU2bmVSSTVjZVRUMmg3YmR2V3FVWXAwWk5lUWlNLVdSSUVRc1NoZEc3R1RrUVpxcnlEOHRmaHRlUjA4ZkVfekc2UGowc2J5T1AxanRxNUNieWw5cS00U3lEaGVN?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Semiconductor stocks rally sharply after Micron earnings - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOd3ZFZkVsdjVVMFpOdlFBX1lReVBBQ1JubW1TSDNlakdUU3RnOHpKZmFEUjFFdTlPSzR0SUc2UElqNFUzUUpGam1rc3RSYkJDQ3ZhbzRsVHA2cmphY0dTaGxMYV82bkNvTmg5b2VRSGdsTTl5UmhyUVl6QXJ2ZlppcTQzM0pCOWlpekZZem5uNVBkUTYzT0VsTjRLdXJaZWQyTW9LWFlnaHVCYXl6b0k1Wm5weEZDclhmLUFNdTl3Smt6Y3dQcEhtcV95VjhCdko0OTZvSzRScGVnLUNXa1l4anBjS2hTeUhsNExtTnBDRnFkRG1XOXZnYXUwdkZNWHVvTEFvT2Z6UEdTMnZSTWQxMzhYdTlNM0oxS3VBRDg2OGEtV1VJaGU4TXR3NElqZWJEblE4NzJRQ05QbjRiX1JCYVYwQ0ZBUVlIX2Nn?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Warren Buffett's Successor Has Billions Invested in These 2 Tech Stocks. Here's the Better Buy. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGFqY3NBRW5BSV9ZdVZiTGFIQWFEalhOaDJ5ZTByMkVzQUlhSjZGYTlVOFZUMF93YXlmU1NEaE9Wa2xnM0ptbDFTTUR4QUJJRDc4T3V6WHZXODRRTWp6dkRGTXJ3Wlc2dGw0LWwySjF3YVNpSzhWMVpuQ1FkNG9pRGpXbTIxUGF3QWNoQ0xtY0c3WUUyck9LVg?oc=5",
+        "press": "The Motley Fool"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Share Buybacks Work Only for Large-Cap Firms - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb3BVUjk1bmV1MXBYNXY5aGVzUzhaY0d0OUFScTNQLXI1V29mV2pHSVZWeFNGcFNpbGlYMzlWc2ExNmlJQ2RLd201QXNUZjJ0UDRfaHV3TlFFczQyNFBTc1lwS0o0TU5qZGl5cnVEZEV0bmF1VWdPN2pKVm9xMzNfTC1Vbk1vMXB4LWZCV2p3?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "We Ran A Stock Scan For Earnings Growth And ABOV Semiconductor (KOSDAQ:102120) Passed With Ease - Simply Wall Street",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTXd3QW1ZR3JSSFo0akNtUG9lWlRnLVgzQWV4N1hSQUU1SWNlQ05zUFB1NnRsMV9oTW8yLW1YRW8tQ3d0a0VBZGFWNXRhNHdDMGRoekhEZGhGSjZCeUljRWdRbXZ5NHM4bzM3QkgyNmVXZ3BoSzdXWGw5UDBxaThDM29lM0h5bVN3cExBN3lFZGpTTTYycEVuVGZhM05xZjJGby0xN2dSMEpXVUI0aUc3SmdYenNXSlVtYWxuUUFzOW5pRTFwQXZHN3lTMThuUUIyd2pqLWpneHc2UHlDTHFoNTNiRTczUERa0gHuAUFVX3lxTE5yQ2N1OFc0d2ZVa0J3a093MEFpY1J5MTh2Uk1qS0NBT2YxelZEakRGbC13TDNTMXQ0Z2dCX3RvX1FmYUhwUkhPd2lLY1VQbFlNem51cmk1SmdVZWJQR2pfWWhZOGpRd291UzlFUGN5VE81eTFOWWNvd09nV2tWRDNxYzlyUTh3cEYzeWNhdVRxQnJKczJmdkgxUHFUODd1WXRManU0UF9wRFUwWGhaR3R5OUZHc3hpRjNFRnBLOExKcklDc1hhbDZoRlp4N28wQkhOWmwzd19jYUw4aDdYWmFnb3pjdmJuYlhsbmlwaUE?oc=5",
+        "press": "Simply Wall Street"
+      },
+      {
+        "title": "SK Hynix Prioritizes Shareholder Value in Solida - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbmZzR3Y5WVRvT2RfVnNfOTMyaDFtZ2xCQmFLbXlhWFJ2R2V2YTk0T2NTTnY3Q1pOVkVCMTRfYl9mV3ZRWnpiV2hwYUlqMm9Eb0VUX01PVVN1NVpLNlZ6UGlyR21nWjRmRTk5SE9BSWFNR0lFN1dsZFg5eFVIbXU1UGs4cHl2blNo?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Korea Investment Securities flags Naver selloff as buy opportunity - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZWtkcE42MzZIMV9tcDhhakQ2WkRza3FnR2lUOTFuaElEVVBXWTBDNlpXX2lwdE13YU0zbU5mTkthdGpYZGtDNUtyOE9WeVhFWDZpVXVpc2wxOEJPd0hQQm9LX09IT1BtMnpWbXFGVkQyZ2RyVmRTNF9TaG1WXzNDV9IBlAFBVV95cUxQelZvN0M2dFAtbk9oQklhUlB5ZkJ2X1lnR3I3LXoyTkJtRk1VSktuMDZpNTFJampUdzlxTXY5SGZHNHZwZ1RoYjNnLWNLTEl2RTFOcW5kWk02SG9QR1ZkV0ktOG50MFNUc2stazFwX3AzRTR1TElmY0pSTXJscWlUUWNZdDZJZG8zYzdLZFYwc04wUzc0?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "What Broke In NAVER After A 24% Loss While Profits Improved - Simply Wall Street",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ241eXdDOUk2WFJMT3hLNVJzQVd5emprVEhiOFdQVERLWl9QX05MOHg0dEQzUHpLRFdSVFM3enl4T3g1Tm93SlYyNzExVy1DV0F6OXVLUTZRU1RmczZwMjBLem16ZlM4Smx1Z211UXJPTFFKTWJlbmN4VlE3dms3OERkcklNTUxBajlpRHhqWElFcEs1TmFVZHU5d1FodWlSR0tnNkdiUnhDTVM5Q0ZybU9zcXFKYjdGY25BRGFtNGJUUGxGaWfSAcsBQVVfeXFMUER6NVVLdHJsbmNlN0JwR2tLY2UxUjFsU2dRMFc1azZraVY3SFRWTzVIUlEzMGFQLUg4bUREMndPd1pHYVNFVmYtN01TUEpnWGl6M1NyZ05qN3BYU2s4ZTROZ0RwYkF5bzNkcmFmTXI1d1ZjcVNqelhtQWt0dF94RkpTMzNMeTJfcm5zSDJBM2ltU3pzTl84UUZZeEVtd0dIUUlXQ0FOTUllQ1EwTGotQ3dNUWhucGJNNzFPdElQYTVZU1FUTUpIbl9lSGc?oc=5",
+        "press": "Simply Wall Street"
+      },
+      {
+        "title": "S. Korea Inflation Stays Sticky, Backing BOK’s Tightening Bias - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb09PQ21fMWFrMlVuYlc4ZExIMHpnUVRHSUpzWlBmNDZXb0gwQmNWc2hIaVVqX0JuWVdwdGZ0eXhWRnVMUnBLclhLX1pSaEhmVWwwU0pwZm1acnN0SnB6Q0oyZ3htQ3ZBZEV5TUg1ZFlTaUl5NFNuS0k3X3FtQnFaQmZHTHBsbXVndlZDS0Y1ei1iU29UREV0QVV0dWlTdG9pc0YwWDdLcmhnTEdwcGM1cA?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "South Korea Sept inflation +2.9% y/y, as expected - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNS1RUWJtUktRS1otaE95aTVQR3gtVWdFZnRjSVJqTE40T0NHVzlsWl9VN0lGdkdYQnUtNzlLVkFsbHpRMmxDamd3c2R3WTd4WHVaRTFpR3V3MDU1alhFbG1fQ2pVdHpxVG14Y2dQTVBNSnQ0eFd2UHZDUkdlZnJfVk8zNW03d1U5Ymd3TWFBNFFWUUFjSnoyOXJjbFIwVnUxSG42dnM3dnlRckx5YmVJQlRuNC0tUFU?oc=5",
+        "press": "TradingView"
+      },
+      {
+        "title": "South Korea CPI inflation eases slightly in September - Investing.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTjhpZU04RkRfQW9hZmJ4Q2ZkYlZoR2NZV1NaUFlOdDhVZmMwWDRrWkV2Z3o5b28zNjRYdVl5QjhJbGNZSUNkZnZFQm1FeEZqcm5ESGtrQU96bTdmVnpaZUlXZVlpVHI0QVlKVmhaZjlLV3AyelkyNlpfVEpnZWs0UHFWdkNPSnY5TmN4MDFINDNUdUtod3FLMFJxc3FCZzcwTkx6MWo2WDhhYUk1OHJuU1JR?oc=5",
+        "press": "Investing.com"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
