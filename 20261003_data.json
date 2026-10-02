@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "generated_at": "2026-10-02T23:32:06.191301+00:00",
+    "run_date": "20261003"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.92 (-0.17%)",
+        "description": "전일종가 102.10 / 변동 -0.1760"
+      },
+      {
+        "title": "미국 10년물 금리: 5.28 (+0.76%)",
+        "description": "전일종가 5.24 / 변동 +0.0400"
+      },
+      {
+        "title": "VIX 변동성지수: 15.31 (-6.59%)",
+        "description": "전일종가 16.39 / 변동 -1.0800"
+      },
+      {
+        "title": "S&P 500: 7722.72 (+0.73%)",
+        "description": "전일종가 7666.45 / 변동 +56.2700"
+      },
+      {
+        "title": "나스닥100: 30807.93 (+1.00%)",
+        "description": "전일종가 30501.56 / 변동 +306.3711"
+      },
+      {
+        "title": "다우존스: 51176.96 (+0.49%)",
+        "description": "전일종가 50926.56 / 변동 +250.4023"
+      },
+      {
+        "title": "USD/KRW: 1342.51 (-1.06%)",
+        "description": "전일종가 1356.84 / 변동 -14.3300"
+      },
+      {
+        "title": "USD/JPY: 157.83 (+0.17%)",
+        "description": "전일종가 157.56 / 변동 +0.2720"
+      },
+      {
+        "title": "코스피: 6971.35 (+1.95%)",
+        "description": "전일종가 6838.04 / 변동 +133.3101"
+      },
+      {
+        "title": "코스닥: 894.29 (+4.48%)",
+        "description": "전일종가 855.91 / 변동 +38.3800"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.624 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.56 | GEX +8.6B$ (만기:2026-10-02)",
+        "description": "콜OI 415,423 / 풋OI 647,529 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 2.06 | GEX +8.1B$ (만기:2026-10-02)",
+        "description": "콜OI 295,445 / 풋OI 607,418 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $191.88 (+3.10%)",
+        "description": "거래량 15,828,394주 (평균대비 1.3x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $773.10 (+0.75%)",
+        "description": "거래량 4,955,935주 (평균대비 0.8x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 22.0% (44/200종목)",
+        "description": "평균 MA 대비 위치: -4.3%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 72/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stocks rise Friday after soft jobs data, Nvidia leads Nasdaq to intraday record - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JVkxRTDJXTzczbVFZVDBDb3NJTmZjRW1TdzVVeUFUbkFVV0RKMDdxSDVtb2ZOU2R1NzFqT2kwem9MOTRsbUdZTUZ2a3ctYXNRN2lWYXdycU10YVBIdVk3a2VVa3FrMjlUZjVHOUVDZ3BPTGFNOGZKQ9IBfkFVX3lxTE1GWVluaGw5M2xYLV9aZ0dYX19YSDJxNXlYcFdLakUwQ3FYSTFDQnJkNWlNUGFGSDRjZXcwWDR3NFllbXg5UzA1V1BWYlgwYlVaYTZFRHB0ZWRIeHp5akduM3RlMnR3TTFBR3RoZjh0SmtnSDVtM2s1OVZENVU2Zw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stocks rise Friday after soft jobs data, Nvidia leads Nasdaq to intraday record - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JVkxRTDJXTzczbVFZVDBDb3NJTmZjRW1TdzVVeUFUbkFVV0RKMDdxSDVtb2ZOU2R1NzFqT2kwem9MOTRsbUdZTUZ2a3ctYXNRN2lWYXdycU10YVBIdVk3a2VVa3FrMjlUZjVHOUVDZ3BPTGFNOGZKQ9IBfkFVX3lxTE1GWVluaGw5M2xYLV9aZ0dYX19YSDJxNXlYcFdLakUwQ3FYSTFDQnJkNWlNUGFGSDRjZXcwWDR3NFllbXg5UzA1V1BWYlgwYlVaYTZFRHB0ZWRIeHp5akduM3RlMnR3TTFBR3RoZjh0SmtnSDVtM2s1OVZENVU2Zw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rally as Fed rate-hike expectations fade, tech gains - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTW4zeUoxak9vX3NlMFVEZWE1U2ZxZFE4VUFRX1FTRWI2T004aUZWZWw2b0FnZlJUTnZ1UEtpeVNfczhIaS1FcElOUVJxb2tRSWFyd3Y0U0xJMjgzMW1YUlplQ09nemhSaHhPMy1WdDVnZFpZbkMycEpYN1hYLXNybkxfR1pIRU85VENnSlRnNllSQ3pUX090d2lkR3gxcVAxdk81ZGRHT05LSk9CRUJBbE9WRTJHcW91UDVySWZyMkRvMG9VaFZxbA?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Nektar Therapeutics: Downgrade To Hold On REZPEG Market Outlook Setback And More (NKTR) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcnNid2Eyd0t1eEt6MTlXMGZaVVdBZXhYa013Slc3T29xempWUVhVSHpyOHlfYlhEQzNrYzdaM2Z6UnltNDUxSlAxQWxHalEtUnZmMVVnbTBwZE1sQ21vb3lPX0JBUmc1VDJuczUwZ1JQdVJLSTYwRVZNVFFfalZ5LU5Vb29iaTFWRzFmQ1V5dmFhRFFqblJIeDFsTnVsTlY4RzV6TkwwNml3UkJBWHY2WWVFLVVMb2Q2dHBYZg?oc=5",
+        "press": "Seeking Alpha"
+      },
+      {
+        "title": "Stocks rise after soft jobs data; Nasdaq hits record led by Nvidia: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JVkxRTDJXTzczbVFZVDBDb3NJTmZjRW1TdzVVeUFUbkFVV0RKMDdxSDVtb2ZOU2R1NzFqT2kwem9MOTRsbUdZTUZ2a3ctYXNRN2lWYXdycU10YVBIdVk3a2VVa3FrMjlUZjVHOUVDZ3BPTGFNOGZKQ9IBfkFVX3lxTE1GWVluaGw5M2xYLV9aZ0dYX19YSDJxNXlYcFdLakUwQ3FYSTFDQnJkNWlNUGFGSDRjZXcwWDR3NFllbXg5UzA1V1BWYlgwYlVaYTZFRHB0ZWRIeHp5akduM3RlMnR3TTFBR3RoZjh0SmtnSDVtM2s1OVZENVU2Zw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rally as Fed rate-hike expectations fade, tech gains - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTW4zeUoxak9vX3NlMFVEZWE1U2ZxZFE4VUFRX1FTRWI2T004aUZWZWw2b0FnZlJUTnZ1UEtpeVNfczhIaS1FcElOUVJxb2tRSWFyd3Y0U0xJMjgzMW1YUlplQ09nemhSaHhPMy1WdDVnZFpZbkMycEpYN1hYLXNybkxfR1pIRU85VENnSlRnNllSQ3pUX090d2lkR3gxcVAxdk81ZGRHT05LSk9CRUJBbE9WRTJHcW91UDVySWZyMkRvMG9VaFZxbA?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Equities close higher as softer jobs data quiets rate-hike expectations - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeTVxVTNLX2pUZEc1U0xtNWdyYWRjY0NjSVcweXJNYk9PTDVKVnJaTzFNTUdnNW5LVEFxaHlELU9fVW9neE93Q0VDanlUbkJPcUhMaXNmNUJQX3pXd0JvcU1VSHh5Z1NEZnQzWGFsclpXZ08zRTVmY2ZaV1J4a2JBU3lPTEVNTUNBSVdVcWRydUlJOEY5ZU13NERhMFE3YUstSzB2RE5JV1gtZw?oc=5",
+        "press": "Reuters"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "What Is People & Technology Inc.'s (KOSDAQ:137400) Share Price Doing? - Simply Wall Street",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQSjd3ekI0RHRKajZBaHdWaEJVcmtGakFSamdDVmFHTkVjZkFvVGEwOXlMN1ZlRHU2V3ZxcndkdEJGeGdIbEJsZ1BpcWFDQ2tVZWc2cXhURUxwdHhBdGJhQmpfOEM1OWNGTUd5Vjk0VjYtSWo4Zm9oS0IzVlFkRm1fYVZRZ0d0Y25iQ3ctWU1ET3pWbVZ2bWc0dFZxMERzQmpDbzRlWWhYSUZaWjZOX1IzN1JIRXNyVWI0UnVqdHRpc1lPcDllelNnWWE0ZzdFQmZxa0V2TzI0dWhHdkZYOWxKOW1GSjNJUdIB6wFBVV95cUxPSi1vR3VuWHY2XzA4UlFrT0Z5SDlQbUQzdTB6dmtuSHh1NHJ4SkExeVVzcGJyMVdUM2NMT1hJU0kxZXllcHRnQ2prVGZ1WEFQdEtJQVVPazlOMHBUa3NVbU9YR0wtTHNXX2VMQnQ1b0FzWVQxY3B5bmJlbWZ2aXRaOTdpVVBSYTkwXzgyY2Vkb1BfM3hNQW5Xc3BLbUVyQ0w5SFJMeGxabW9VU2QxSDNkOFVoVENSaHVJNmZFeUJTTTdHeDNEVmd1VkNCamxPa0VIei1sVXZ2YUpaSVNSMkdLakNoVm1OS3JPaWFj?oc=5",
+        "press": "Simply Wall Street"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
