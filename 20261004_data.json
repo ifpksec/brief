@@ -1,0 +1,147 @@
+{
+  "meta": {
+    "generated_at": "2026-10-03T23:32:06.937337+00:00",
+    "run_date": "20261004"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.93 (-0.17%)",
+        "description": "전일종가 102.10 / 변동 -0.1700"
+      },
+      {
+        "title": "미국 10년물 금리: 5.28 (+0.76%)",
+        "description": "전일종가 5.24 / 변동 +0.0400"
+      },
+      {
+        "title": "VIX 변동성지수: 15.31 (-6.59%)",
+        "description": "전일종가 16.39 / 변동 -1.0800"
+      },
+      {
+        "title": "S&P 500: 7722.72 (+0.73%)",
+        "description": "전일종가 7666.45 / 변동 +56.2700"
+      },
+      {
+        "title": "나스닥100: 30807.93 (+1.00%)",
+        "description": "전일종가 30501.56 / 변동 +306.3691"
+      },
+      {
+        "title": "다우존스: 51176.96 (+0.49%)",
+        "description": "전일종가 50926.56 / 변동 +250.4023"
+      },
+      {
+        "title": "USD/KRW: 1342.51 (-1.06%)",
+        "description": "전일종가 1356.84 / 변동 -14.3300"
+      },
+      {
+        "title": "USD/JPY: 157.83 (-0.06%)",
+        "description": "전일종가 157.93 / 변동 -0.0970"
+      },
+      {
+        "title": "코스피: 7003.74 (+0.46%)",
+        "description": "전일종가 6971.35 / 변동 +32.3901"
+      },
+      {
+        "title": "코스닥: 893.29 (-0.11%)",
+        "description": "전일종가 894.29 / 변동 -1.0000"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.624 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.06 | GEX +0.6B$ (만기:2026-10-05)",
+        "description": "콜OI 94,408 / 풋OI 100,445 → 균형 | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 2.46 | GEX +0.9B$ (만기:2026-10-05)",
+        "description": "콜OI 70,842 / 풋OI 174,042 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $191.88 (+3.10%)",
+        "description": "거래량 16,037,700주 (평균대비 1.3x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $773.10 (+0.75%)",
+        "description": "거래량 5,152,500주 (평균대비 0.8x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 22.0% (44/200종목)",
+        "description": "평균 MA 대비 위치: -4.3%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 67/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Dow Jones Futures: Nasdaq Hits High As Nvidia, SpaceX, Bloom Energy Flash Buy Signals, But Note These Risks - Investor's",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVThkME9ydU1vNDRMUS1kT2lOZ0p1THhFV3owdS1JNUJpeWlLX1p3SGhBa1phaktqQlVqWmRGRDdTcEp6S3lncUVDUVNrSGNmSHZoQVRQb1hPTndoblJXS3hJaWE1TGFHMkRsbFVjUFF1bVItdGcwYUdyMnJMZ25hU3VibkhWN0tsZjFGU25NNUwxdDROU2MyQjZkaXNCbVV6TjE1dnhGNU9rdjFMNjI4T0lwcTVnbHotODBVdnY2cw?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "(MGB) Stock Market Analysis (MGB:CA) - Stock Traders Daily",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPekk3TFhCSVdfYWh3RnBQenZrOThoVy1rcGljbmxhUU9FN0RnYm51X0ZLOGlqNDlmZ2g2WlNMWjRSNDdvTXBjWUQwUE1vMzB4ZlNsdUpRS3doLVhnRUJSaUZ6SlZJR2VwWnBlTlctajkwSk1pYmQyckEwNWhkQkxDWjIwYlp3Z2FMY2hV?oc=5",
+        "press": "Stock Traders Daily"
+      },
+      {
+        "title": "Filter Cigarettes Regular Market Outlook 2026-2035: Divergent Regional Trends Shape Growth - News and Statistics - Index",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUUh3b0g2cmRNUzZ6a0xZd2lMaVBTWC1wRG1BQVlNS2NZZ3l6WGlweUtpWGhHZ1U1YWFPTWNhR0c2YkdWckU3LWw0ci1aZU1XSElySm8zaTlOcU5TMmk2ZWk5cVVyR0hFcm16QkRMZjBrd2FpVTlDbm82WDdzMThEMVBTd3RrSmZ5VE5ueGVEYmR6Um5iSEFrbURFX1hpX0Zqekw4QUJUanBKTkJkeGludFVMWlgtVzZTWFM4eUlwMzVfcmxDeHBycElxVHJ2QURu?oc=5",
+        "press": "IndexBox"
+      },
+      {
+        "title": "Fortinet Turned $1,000 Into $24,579 in a Decade While the S&P 500 Delivered $3,585 - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQ3dUVk9xQ3gyTERBb3Iwb2c4emkyUmw5STNUZGJMd1ZYdGVxNFB4WmhqVklPRDA0Y3otNlUtUk9sMUhSVHlhTUV5d0h5OFZRWWl5MktCWUdNSElPU1ZFdWpUUk5BVEZaN2lIVG5nNjJ1dFBsdHNtaU1BTHVvTGNJZWthTFBNcGxHM2pseWl0SXBQZmlXQ0t2NUR5dnRSaVprc1F5MEQ4ZV91aC1vc0hSWXJTSktXenJNVTNj?oc=5",
+        "press": "24/7 Wall St."
+      },
+      {
+        "title": "3 REIT Stocks With Inflation Linked Rents As Debt Fears Rise - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZHQ5YlVjOTFFQTRHdnJSYnlHeWVxVXBNdUJqRmVHRXhtejJ2UFJYZXZCcEU3VDA4NFI0N0lleV9tei1mVlBkREdKWTlqQXR0UnZtMzNob2RXend5Y1BKbDIyLXIwQll0ZVdTT09Ham1ET19tTExYekREbm4zZmN1ekxGbnFHTHl2SzZCbFJ6UDdyeWVHYzFN?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "South Korea's KOSPI Posts -19% Q3 Return, Worst Among 20 Major Global Markets - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCa09HdWFyYmNuaTVFODg4TDNVSU4xck5BYXcydEpEZWR0XzZ0U09HQThESDhOLXhza1pyMGZWUGNfMklqTGxHTk91SmRKSGVVRjNJQlNQZTBPNzJIWTJkTk1zOXg4QmRyTmxfLWJwdVhNbll2NlE?oc=5",
+        "press": "finance.biggo.com"
+      },
+      {
+        "title": "Money Fled to U.S. Stocks and Cash. Gains Came From KOSDAQ Tech Suppliers - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObHN4dUd6X1FXSnJpYWxkOGQ5RGI0N2tZaXB5b2FfTDBkcC1VSDdqWVBnYXlHRG1qZW80VXpsOXgyakhzeHdncnNLUk13UkM5UzU3MXcyQzlwTi1xSFUySHBpSFp1MjF2MER3QWtNdGFLS2htOFRsZkwtMVlTTXVWcU5nU0xpVm9BN0VNV2k2YVVjZ2VVX3NYOERIWmtPZw?oc=5",
+        "press": "Seoul Economic Daily"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
