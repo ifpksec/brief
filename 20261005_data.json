@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "generated_at": "2026-10-04T23:32:17.706637+00:00",
+    "run_date": "20261005"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.89 (-0.04%)",
+        "description": "전일종가 101.93 / 변동 -0.0440"
+      },
+      {
+        "title": "미국 10년물 금리: 5.28 (+0.76%)",
+        "description": "전일종가 5.24 / 변동 +0.0400"
+      },
+      {
+        "title": "VIX 변동성지수: 15.31 (-6.59%)",
+        "description": "전일종가 16.39 / 변동 -1.0800"
+      },
+      {
+        "title": "S&P 500: 7722.72 (+0.73%)",
+        "description": "전일종가 7666.45 / 변동 +56.2700"
+      },
+      {
+        "title": "나스닥100: 30807.93 (+1.00%)",
+        "description": "전일종가 30501.56 / 변동 +306.3691"
+      },
+      {
+        "title": "다우존스: 51176.96 (+0.49%)",
+        "description": "전일종가 50926.56 / 변동 +250.4023"
+      },
+      {
+        "title": "USD/KRW: 1342.96 (-1.30%)",
+        "description": "전일종가 1360.59 / 변동 -17.6300"
+      },
+      {
+        "title": "USD/JPY: 157.65 (-0.18%)",
+        "description": "전일종가 157.93 / 변동 -0.2790"
+      },
+      {
+        "title": "코스피: 7003.74 (+0.46%)",
+        "description": "전일종가 6971.35 / 변동 +32.3901"
+      },
+      {
+        "title": "코스닥: 893.29 (-0.11%)",
+        "description": "전일종가 894.29 / 변동 -1.0000"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.624 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.06 | GEX +0.5B$ (만기:2026-10-05)",
+        "description": "콜OI 95,175 / 풋OI 101,192 → 균형 | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 2.46 | GEX +0.8B$ (만기:2026-10-05)",
+        "description": "콜OI 70,975 / 풋OI 174,504 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $191.88 (+3.10%)",
+        "description": "거래량 16,037,700주 (평균대비 1.3x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $773.10 (+0.75%)",
+        "description": "거래량 5,152,500주 (평균대비 0.8x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 22.0% (44/200종목)",
+        "description": "평균 MA 대비 위치: -4.3%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 65/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "It's time for us to put cash to work in this ugly market. Here's where we will do our buying - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX2ZiNS1Sb29famlRRS1WWlFxUWNhcElCajRzUkxJdS1IT052cVJodXhtWGQzNVlucTMyajk0SmFyVVEwd21KMlgtaUJVRWJSVGNrWWlpT1ROaFFFLUtGVmp0MDY2NWhxU0MxZVVEaURPU2FTbmhxRHhvV0VrSzI1U2tTUDFFX2RiYkZHUzF0enlaakMxbHZWN2pkOUdxd1doSEE0YXJTZzNaVUt6d051NF8wSnhJOXFFa05TR3VOUU5IMENlM0kwZ2xFb3ZBZ2hNYll6S1dYaw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Q4 Market Outlook: Strong Years Usually Finish Strong - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPU0ZPSjhRRGZxR0syVC1DZzBqU0xyM21qbC03OVBxckhRZEdVdC04Mmp4Sm5UMERDbjd3ei1TdE9fM3NoNThUdzRKa0M5OHVzVG4wSmtWSS1MVTFLYTZ5UnNXNDNKaWZPdmdhWTN0em5WdnpxaFAzQlZaRWI4THNKOWJzY2ZxNU5MSWtCRl94c3N4eEsxa3FsMQ?oc=5",
+        "press": "Seeking Alpha"
+      },
+      {
+        "title": "Here are 3 things we're watching in the stock market in the week ahead - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbkowcDZqQy1qWXhLWUp4LXptYXpSLTJTc2VQWXhwdDVOSkhyTDNZRTFFRFRITlp4cU5FUzRLUzRBUFo4cWxRRVZ6SWwyV19PM1pObXJHRkdGYll3azF6eTlWN3JIQmxfTWIydGFKZW43SXFpdTF6Zk0xdXJETHRuQnJQLTBSMzBVTGhfZGtnSGFPenJtVFJ6TGFiLUU0ejQ1RmtBZFo5VVFqdVMzazdjOE54V2JtY1dKcHBnUQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Dow Jones Futures Loom With Nasdaq At High, Nvidia And SpaceX Buys, But Note These Risks - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVThkME9ydU1vNDRMUS1kT2lOZ0p1THhFV3owdS1JNUJpeWlLX1p3SGhBa1phaktqQlVqWmRGRDdTcEp6S3lncUVDUVNrSGNmSHZoQVRQb1hPTndoblJXS3hJaWE1TGFHMkRsbFVjUFF1bVItdGcwYUdyMnJMZ25hU3VibkhWN0tsZjFGU25NNUwxdDROU2MyQjZkaXNCbVV6TjE1dnhGNU9rdjFMNjI4T0lwcTVnbHotODBVdnY2cw?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Stock futures are flat as investors grapple with higher yields, await Fed minutes: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14VDVsamdsUnFobnR2dUhqeUtZLU55WEdZS0RzN2lfc3FrRFVkSThpUUhZY0tPWC1aYlhRaGZWZjB5emNuX0s2MElWZWxib1o4YmVfM1FxTlVWdWlvdlhDc0MwNndMVTIzVkw1VHgtem02cE1qMHJB?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Magnetic Sector Mass Spectrometers Market To 2035: Semiconductor and Isotope Demand Fuels Expansion - News and Statistic",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNemFFQ0VMSjg4V0xBT0xmcHpzb1N0WDgyZGx3TkFLc3BINWF5NDNVWElOWHA4QWFocllha2tqYjZlS2otZW1ZWk00ei1USjNDaWRoWHdwcVJwQTVUME1GOGI1bk15X1NXZDg3ZGdnQUcyQnUwQWJUVEFoQ2xRV3lGNUcwVGoyRGlPNnQ3c0twSjNUOTBPS1ZSZ0VZdUFvbkE2RzFfbGZPSXNUVjM2SUJHV2NZU2F2Y0FUcFdLclhsT1JuT0xXMFd6a2VsaEFiVUw2VFBPN2ZFaE9LczdVeHJ3QkVUYUhrSkNzV0xNdg?oc=5",
+        "press": "indexbox.io"
+      },
+      {
+        "title": "Market Analysis: Global athletic apparel market grows 7% in 2025 - sgieurope.com",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWk1QNnlPZEx6RGxFZ05PbE1Db2ZjSjlNQm5VRllnMUdhOXFUODlDNkJ5RmRxbzR3RlB4SWZOSlQ1OXIzbmJDbFFsRkgyYzJGU083QmFLZVBYanJYakd2Tk5kTWYtWWt6S0p6TGFxM1RuZW1EQW9uQTJ6QUJEcnVKdkJHXzg0MVp4NTBPS0hmTlRIcEZ2WnNlRm96S2xZbUxnTnZ4bDFRV0psX3pqRWlVWnRyVDRyXzNOcVc1NWswdHRnMEUwM1RF?oc=5",
+        "press": "sgieurope.com"
+      },
+      {
+        "title": "(ZUB) Strategic Market Analysis (ZUB:CA) - Stock Traders Daily",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTWtXZS0wUzRBU24tOG1uUTZjbnJfaHdDMmg5LXJZNjBlcnBsM1kzb0xrQlNrcnEzOTNyYXlhQS15dFRmSEhHS1l6U1BNUzlhOERvVkZUdFBLR19rY1BTaFlaTFFVODlFbjJXOVRvZExoUGJVNk9NUnlQVmVyRVo5R2xIbXZ1cmRfeDBjV2tTOEU?oc=5",
+        "press": "Stock Traders Daily"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Foreign investors widen Korean stock selloff as buying dries up - KED Global",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40N192U3ctczl5SzVpUDlEUnBjZFY5blhHbHkyaXU5WXVoc1FFcEkycTFHT3k4NmpwWmVQRVQtdGNnRHhaWktjbmJoT3cyejFNb1drbkd0T1hSWF9GNUJkNGIySUszczM1MUZxUWlaOWNVUS1mcGRsTmFn?oc=5",
+        "press": "KED Global"
+      },
+      {
+        "title": "South Korea's KOSDAQ Pharma Index Plunges 10% in a Month, Down 36% Year-to-Date - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xOU1peGd3TllYeWlMLVk1c1B2OVdGOWRlYWo2RVdrZ2lvbnRXTzdPSTJJVUx5NkRlZk5LSkg3R2YtUVo4aEhTMERmSGhlbE9jRDBMZTRDOGR3eEJwMUVqM3JacTlCRUwtdnVuNHlkQ2RJT3lGaFE?oc=5",
+        "press": "finance.biggo.com"
+      },
+      {
+        "title": "Kakao, Naver, Coupang Battle for Paid Membership Dominance - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeWdVeFNFMVNnUkJMQWhlVHFweUlMTVc4QTJaRHFqYzN6MFJnXzRZSV92UUtTWlhrVERlRUhNMVFQMVZNQm9rdDRrOFJ4QmpYUjVGSHZXR3RkX0hsNGp6MUdLN3ZZWWQzOE9uTC1VV3QySThqWGoxQ1B2dmVtRHFGTG5HY3FyWUhj?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
