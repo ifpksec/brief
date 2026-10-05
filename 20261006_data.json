@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "generated_at": "2026-10-05T23:32:06.578193+00:00",
+    "run_date": "20261006"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 102.10 (+0.17%)",
+        "description": "전일종가 101.93 / 변동 +0.1720"
+      },
+      {
+        "title": "미국 10년물 금리: 5.31 (+0.64%)",
+        "description": "전일종가 5.28 / 변동 +0.0340"
+      },
+      {
+        "title": "VIX 변동성지수: 15.52 (+1.37%)",
+        "description": "전일종가 15.31 / 변동 +0.2100"
+      },
+      {
+        "title": "S&P 500: 7773.95 (+0.66%)",
+        "description": "전일종가 7722.72 / 변동 +51.2300"
+      },
+      {
+        "title": "나스닥100: 31076.44 (+0.87%)",
+        "description": "전일종가 30807.93 / 변동 +268.5117"
+      },
+      {
+        "title": "다우존스: 51267.90 (+0.18%)",
+        "description": "전일종가 51176.96 / 변동 +90.9375"
+      },
+      {
+        "title": "USD/KRW: 1341.81 (-0.06%)",
+        "description": "전일종가 1342.56 / 변동 -0.7500"
+      },
+      {
+        "title": "USD/JPY: 157.88 (+0.09%)",
+        "description": "전일종가 157.73 / 변동 +0.1490"
+      },
+      {
+        "title": "코스피: 7003.74 (+0.46%)",
+        "description": "전일종가 6971.35 / 변동 +32.3901"
+      },
+      {
+        "title": "코스닥: 893.29 (-0.11%)",
+        "description": "전일종가 894.29 / 변동 -1.0000"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.629 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.49 | GEX +6.3B$ (만기:2026-10-05)",
+        "description": "콜OI 176,922 / 풋OI 264,203 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 2.51 | GEX +3.9B$ (만기:2026-10-05)",
+        "description": "콜OI 115,573 / 풋OI 289,897 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $191.46 (-0.22%)",
+        "description": "거래량 8,234,567주 (평균대비 0.6x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $778.25 (+0.67%)",
+        "description": "거래량 9,041,594주 (평균대비 1.5x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 26.0% (52/200종목)",
+        "description": "평균 MA 대비 위치: -3.8%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 70/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Nasdaq closes at fresh record as tech shares rise and traders look past higher yields - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14VDVsamdsUnFobnR2dUhqeUtZLU55WEdZS0RzN2lfc3FrRFVkSThpUUhZY0tPWC1aYlhRaGZWZjB5emNuX0s2MElWZWxib1o4YmVfM1FxTlVWdWlvdlhDc0MwNndMVTIzVkw1VHgtem02cE1qMHJB0gF8QVVfeXFMUHJkb21SZF96VE41OFdxSDB6aDZtUURVcC13NXZpLUtHZVdmZ3ZwaFVNX2pmSVFXS2hmbS1JWjk0RlZ0azY0M3Atc3dWVVg0bHJ4dkVsbHpaY285cXJIOEVrUVhYYTU0bm1DWjlKb01DdjhQVnk1NERMb3I2QQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Nifty: Five reasons India's markets are sinking even when its economy is growing - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13eUZFdTFjQUFKSmQ5OVpacTRkRmhOOFFwSU5WTUkwdG13ZGZiLUk4T3BvYUlXZi05YWRldWFQRzlaZ24xTWhCdnhLWW53bHlJYUh6aGl5UjVHUjg?oc=5",
+        "press": "BBC"
+      },
+      {
+        "title": "Goldman Sachs spills the beans on what’s next for S&P 500 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSE03d2l6OThJSmk3bzhfSk5lM1c4TGtyVWRLcHI4ZnZBUVRwMkhJU05Ka0N6bF9VdDE0N1lnZFZkaXJ2QmFHaTliMEV6N0s4WkNFVVZHSzBUTkRYREZsR2ZoTlFxUjd1T0RFWnZzenNOVmg1cDBudFB6VW5NVVROOFlLYWo4TU8xcE84anQ4aE5Jd01Jd2VaVnB0dFE?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Nasdaq closes at fresh record as tech shares rise and traders look past higher yields - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14VDVsamdsUnFobnR2dUhqeUtZLU55WEdZS0RzN2lfc3FrRFVkSThpUUhZY0tPWC1aYlhRaGZWZjB5emNuX0s2MElWZWxib1o4YmVfM1FxTlVWdWlvdlhDc0MwNndMVTIzVkw1VHgtem02cE1qMHJB0gF8QVVfeXFMUHJkb21SZF96VE41OFdxSDB6aDZtUURVcC13NXZpLUtHZVdmZ3ZwaFVNX2pmSVFXS2hmbS1JWjk0RlZ0azY0M3Atc3dWVVg0bHJ4dkVsbHpaY285cXJIOEVrUVhYYTU0bm1DWjlKb01DdjhQVnk1NERMb3I2QQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "What will Washington do next if US bond yields keep rising? - reuters.com",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQnNOaEpMX1dfS3ZXNUV1SFZZcDY5MWI0UW9udWNkN3dJc0wtZU4wc1JFX1laSjlTY1N1MTdkdjRtMVlIMXFRMkhuUmwtcFcwYlQ2UUEyZnBJSEY3VGo5azVGUXJYU1BuZU9aSmRlZEVsQzNGN3FJeTctRUdlR0ItcFJKbkVYODktX2dWRzE4MjY3aFp3RV9KR3BsYlM5RGpTLS03YW9R?oc=5",
+        "press": "reuters.com"
+      },
+      {
+        "title": "Hollywood Unions Warn of 25-Year Decline in U.S. Production Market Share - Variety",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON20tRFBhUWpxMjZTMjk0SWlhVVJHckc3bFQ0MEhXQzU2enJaZzF0ZGVuVU5NZm1KVmd5MmJKckVhdWZkZnE3U2tnMUJCYVdUaXgzTjZraTBPak9KU3BHMUxVTk9TYkVoUU1Dd20zUFdlajZibHBTSnkyY3dhOGM3OXVuYkxRRWlxVEpRVG9XcFJvcEF5VXh6bjdn?oc=5",
+        "press": "Variety"
+      },
+      {
+        "title": "Micron Stock Drops Amid Fears of Memory-Price Peak. The Data Tell a Different Story. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Oekx3ejRjX1B4XzNEOWlRb2VROXdURU5XTUJpMkJpcXlpRl9FYjByNHlEUDk3VDkwT2puN0RQSUd5eEtHU3NIRXl6Z1VDaTVxQl9YbGRVd19LZWlieE9DMU02SnhETTZyVVk2ZHdXYUdqd0hHcFRuSFZBLXl0QQ?oc=5",
+        "press": "Barron's"
+      },
+      {
+        "title": "Nasdaq closes at fresh record as tech shares rise and traders look past higher yields - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14VDVsamdsUnFobnR2dUhqeUtZLU55WEdZS0RzN2lfc3FrRFVkSThpUUhZY0tPWC1aYlhRaGZWZjB5emNuX0s2MElWZWxib1o4YmVfM1FxTlVWdWlvdlhDc0MwNndMVTIzVkw1VHgtem02cE1qMHJB0gF8QVVfeXFMUHJkb21SZF96VE41OFdxSDB6aDZtUURVcC13NXZpLUtHZVdmZ3ZwaFVNX2pmSVFXS2hmbS1JWjk0RlZ0azY0M3Atc3dWVVg0bHJ4dkVsbHpaY285cXJIOEVrUVhYYTU0bm1DWjlKb01DdjhQVnk1NERMb3I2QQ?oc=5",
+        "press": "CNBC"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Weekly Recap: Prelim Q3 due Oct 8, 2026 and 76.6% KOSPI outflows by 005930 - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeUJ5N2NXcFhZYWppLXRlRXlPajF4UURmYndTMGpoaTM2UU9tazJ3NGlnbk9ldGRqSEd5bGJBWWduSW4tRlhpZDNQZkdrNHhaeTlSRzI4YXRFbkQ5T1BIQXZ2aTVoN2VGQTg0THlpS1VLMmpGTnlIMFlrVHJNV25LZnJxb2ZabDRaQjljNFBOY2hPUXNUTUJlc1NNMkJiOTczTUhDR3ZadlRxbGZmX2dCX3NUc1F1ODMzUS1VTGtwRF9DOXlfOTJBSTQtZFR4Zw?oc=5",
+        "press": "TradingView"
+      },
+      {
+        "title": "At ₩16,580, Is Quality Reliability Technology Inc. (KOSDAQ:405100) Worth Looking At Closely? - Simply Wall Street",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNekxEYXhrREliUWdCNUN6c0pKbXUyTmd3bnNuVl9OQkhmc29kbHlUa0tqVnlxWGtadFJGRTRKZ2tjZkMzNDlOSGFvSTM3MzNfTXA1NGN1TUE1VEJEWkZBQ0RGUDRhZnc3MjMxcWpyVG9EcFU3OWRBU3pMbEtrNTVtRXh2ekVHTDJYTU5Xa3pNQXZjR1ZCU3VVTHMtZ1FJOGo3bUNGekJyUmhHUHhVSlR4dDBObDFSX3hzTzBjOUMzSTdUQ3Y2OGlXRWJ4aTFFai13a0hqM3o3SmY3Qjl3alkxXzM3SGdyRE5mNXhQYVhQNkVkbTlJYXl30gH8AUFVX3lxTE9KUHVsOWJxSE5Tb0ZERHhlUE1qZGt0TXRxeHp5MDZnY1NRLWJGNnhYMmZOQ3JETWMwU1Q5bFlwd243ZEVGbTF5Rk9rbTNrNFJobTJkWGR4b2JnM1JqSlVTUk45SEZyRHVxMEJvS3I3UURYdHhTWUZjS1RzNjdBMjQ0QkZHUWhYeHhtdUtxVkhpbXBjejFUU29ZN2hZSGc0YThWYmhsN0dIbV9qa0Izb21NbjZxYnE3Nk5rTWY0ODhJWHpsdlktQlVYdlJFczJDUXE2MTZ3YklFWFBibUgzbDFQV3RlSjBzVFZQMkpvWUV3QUdwLVVJTjM4bTk1OQ?oc=5",
+        "press": "Simply Wall Street"
+      },
+      {
+        "title": "Top 10 Performing Stocks In KOSDAQ YTD - What Can We Learn From This? - smartkarma.com",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObnI0VUw5VnNMSmNFNk1MVnNOcXJVN0NVejF6OFBGckladUk5MVdaaGRxNzE4QlkxbzBQaUsza1hvQVRuSkJHVzE4Y1YyMENjMlZLN1ZCTW5VWVg1ZEtWTm4tSUNUQWtMZElJWl9WQ1h0ZkJsZjcxYk9IcmZKVW5kNDJ5VURQQUR3bVYtbDRpaXpadXE5Szg4VU1OTUllVHo4d2t6Mg?oc=5",
+        "press": "smartkarma.com"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
