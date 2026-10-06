@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "generated_at": "2026-10-06T23:32:07.636847+00:00",
+    "run_date": "20261007"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.85 (-0.32%)",
+        "description": "전일종가 102.17 / 변동 -0.3250"
+      },
+      {
+        "title": "미국 10년물 금리: 5.27 (-0.79%)",
+        "description": "전일종가 5.31 / 변동 -0.0420"
+      },
+      {
+        "title": "VIX 변동성지수: 15.01 (-3.29%)",
+        "description": "전일종가 15.52 / 변동 -0.5100"
+      },
+      {
+        "title": "S&P 500: 7818.93 (+0.58%)",
+        "description": "전일종가 7773.95 / 변동 +44.9800"
+      },
+      {
+        "title": "나스닥100: 31224.69 (+0.48%)",
+        "description": "전일종가 31076.44 / 변동 +148.2461"
+      },
+      {
+        "title": "다우존스: 51521.28 (+0.49%)",
+        "description": "전일종가 51267.90 / 변동 +253.3828"
+      },
+      {
+        "title": "USD/KRW: 1337.90 (-0.44%)",
+        "description": "전일종가 1343.75 / 변동 -5.8500"
+      },
+      {
+        "title": "USD/JPY: 158.23 (+0.17%)",
+        "description": "전일종가 157.96 / 변동 +0.2650"
+      },
+      {
+        "title": "코스피: 7003.74 (+0.46%)",
+        "description": "전일종가 6971.35 / 변동 +32.3901"
+      },
+      {
+        "title": "코스닥: 893.29 (-0.11%)",
+        "description": "전일종가 894.29 / 변동 -1.0000"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.663 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.92 | GEX +6.9B$ (만기:2026-10-06)",
+        "description": "콜OI 278,576 / 풋OI 256,683 → 균형 | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 3.17 | GEX +2.4B$ (만기:2026-10-06)",
+        "description": "콜OI 86,058 / 풋OI 272,605 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $186.40 (-2.64%)",
+        "description": "거래량 9,914,525주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $782.54 (+0.55%)",
+        "description": "거래량 4,644,837주 (평균대비 0.7x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 27.5% (55/200종목)",
+        "description": "평균 MA 대비 위치: -2.9%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 73/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market Today: S&P 500 Hits New Record High - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0g3Vl9oNWVWc0JnemQ3U2xLOXJ0SDZZSVljcEtiaExTRTgtTzB1a3puLURIQjJJSmJvbG1XbE9jVWlKSTdfWFpSblZIUzhiTkVITkFpcm1XT1NMVVVQVHRZaXJoejh4UG5HaDRWQWNHclgtUmIxX1g2czJ3SUhFZEVlSGtrR1U?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Why B&G Foods (BGS) Shares Are Trading Lower Today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPd05sa3J6MmMyc2NyUFI0R0RDMjB5TzN6UHZ6WnRqNlBTckdRdURfUXN2cnZWYjdyVzJsUGRsRkQzSzdBVzFIU0U0eklJMUFVS2RGVGNraThueUpZdUJ6bWJaaVlEM3J3TndRM0tLTmltR1cwcXo5UXNrZFhQQ1h1X0JXQ1hMU0dyQWc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Curtiss-Wright, Tecnoglass, AAON, Primoris, and Albany Shares Are Soaring, What You Need To Know - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVXJzZTV0YlJybW04bFV6SXNpOHR0TmNJWThCeEtjNkthbWdmd1ZkdjFodmVlbGdCc2ZheDNZWmVJaXpCdHpwZHJOaGZiVF8yMkZHbDVka1owcmMyME0yYVotaVdQdjZJSkl2Tld6Vm5YbEFVWmlRbURadHRrTm5TQl9UMjlrb3FlbHFlclZKc2VnQ3Z0V1lLSHM2WVFKMGkwR2JHUlFJVQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "S&P 500 posts first close above 7,800, boosted by tech gains and cooler yields - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE54SDBCVUlsR19iZW9vcGFvN3dtT1hLbDEwdGM0S2xkZ2pXam96MjdpaUp4RW5acS1YZWVMYlZmRVVOZ3BtVk42TklUTTg0VFlLUkVyRUl0aFVzbVBISW5DQWRkMHNEakdlUXEtOGg1RkRuemFWM3hB0gF8QVVfeXFMTmVlVWdLbGJqQklwY1NYVkNua3A3SHFvRnFjaVFjVGtrUTJTZVo3Q2R4aWxkSEFCXzg4dVh1MTJPZHdDV0dGWmd3VHlCdTgwUWhDWmhVbjZiMXBwU0hiQ3ZNa01Ic1V5SmZwSk05N21TSWNMU09SM1ItMExoLQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Cramer Says $82 Semiconductor Stock Is A Buy After It Completes Merger With Rival - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbk1Lb1UxSUROZXJ5eGt6YUdZcEpCd2ZDeDFqTWZTVFU0LXBlSnpZYkJHLV9HazljemZzbk1rZVVPSGFKZWZFRG44ci0tMHk1NGo4QUdBWHo2czI2ZjVYdFRNaGJicG93ZDhSNFVrSFVNZ2tIVWtMV2luMmRSQVdBQmFMQ2l0emI0NGdtX1VFTl9FX2tDa29UV0doVzRxRW1n?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Markets climb as a handful of tech stocks power the rally - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUWhSNXFjYXVTOE52UndCTW5TellKNnFrQ2Zvelg4MnB5NzFvT0FpcHgxSER1TWVKNTdvcTdSel81VFJZekdNR3NpRHNZZ2EydzBEeDlGSC1JSkdQeTd3YXZURmZjLXBJLU5manJJeHNwTjI4bDVWU20wMDRUS2dwbWNRZ3FWSWc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Nasdaq closes at fresh record as tech shares rise and traders look past higher yields - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14VDVsamdsUnFobnR2dUhqeUtZLU55WEdZS0RzN2lfc3FrRFVkSThpUUhZY0tPWC1aYlhRaGZWZjB5emNuX0s2MElWZWxib1o4YmVfM1FxTlVWdWlvdlhDc0MwNndMVTIzVkw1VHgtem02cE1qMHJB0gF8QVVfeXFMUHJkb21SZF96VE41OFdxSDB6aDZtUURVcC13NXZpLUtHZVdmZ3ZwaFVNX2pmSVFXS2hmbS1JWjk0RlZ0azY0M3Atc3dWVVg0bHJ4dkVsbHpaY285cXJIOEVrUVhYYTU0bm1DWjlKb01DdjhQVnk1NERMb3I2QQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock futures are little changed after S&P 500 hits fresh record: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBMcmRHZjcwcGdXX1NxUXliUklxQlZWa3JwRDNzbXFzYzJCcHViTUtTekk2bmNTVDJKVUlHdkFRZlAzUnIzSFhKU0JwZUp3SzBxYnZrRXZHcm9wZWNTS0ZjZFVfa01uN3h1TUJ4TFV5UkxXNEl2Vy1j0gF8QVVfeXFMT2JydmdNdUwxSHhwUHF5b2RRbU1jdmN6NDNUcW52SjRNemlQQXVVMnNMdFpHbHdzLUV4ZFpMc2dNclhKWnBaVWVaTlpKbFdmazJLbXQzZTNUMWpOYUtnNGIwVkxKczZjSFZ0YTJXX3hud0dhbXJNYjN0NGphbA?oc=5",
+        "press": "CNBC"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "South Korea’s $60 Billion Semiconductor Exports to Drive the KOSPI’s Resurgence - The Diplomat – Asia-Pacific Current Af",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSTMtdlZzR2M2eEJDNWhJbTVRNkIzcUZUTUdKWDVaV1lMY29IVy0xM19MTDZmNGg4V2h2ODhEMG1ncmxJOFVsQXQ1MzNOUzZRZWk0Q1BqSm91S2VFcGlYTFNRYkd1ZVlYMzlXcU0tWVBhQnZKNVRCZ2p3cGFGajZiSm9semZKWm1oT2RhVUFBSG5nYXhjazhYZkk2WWc0RnZQZmZheU1UZnFQQ0xpRHc?oc=5",
+        "press": "The Diplomat – Asia-Pacific Current Affairs Magazine"
+      },
+      {
+        "title": "What Is SungEel HiTech Co., Ltd.'s (KOSDAQ:365340) Share Price Doing? - Simply Wall Street",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcmEyZjJlWEh1eXFYMnlrQzJ3M0dHWkl1akxWbHRTTDgtYUFDU01rVGF0UjUxU0xxSVhaeHU2WmNBRjRKUy1fZDlpcVNLWDJjRjFvSW9oa0dacDVRdHRmcWdQUUY4R3BzaDdueGpCN0ZDY1RsQXc2Rk90XzlNRmF5dW1lM1lBS3JzbnVKVFBNbExJbDRXTjc3OUkyY0E3MWYtaDk2WmNoXzB5dk9zc1YydkpwTTlTZDNVVlRqQ1ViM1R4eGd3Z3hDbFpGVDlwaVgtVmZ5ZVZYNXczMU8xTDBvT01IMHBuWVJqQkHSAe8BQVVfeXFMTXJObDhJVzB0MjRJVTNYUHpzT1E1amVPcWZYcHdZbWdrdWpKbVdYc3czS2pET2tJNUVfWjBCejl6Y1RVMy1OQ1F4eDdXT0dpZURfNENMVGJtYmJQQWdRMEpzRG5YeG5wVEhscUhrZGtDNS1RNTFldS1aWE0xU29JVHQxNmNIeUVYb0xiSW9YNEJwaEZ2azhIbEVmdXVnWWNfMlZTdEN1TFhRbzYzcVN2STdfb1htS0RFNWdOaU1DcjVxX3hIVUxQWmU3VWdneHJ0RDFBeVpYYURUNGFUWmoyWVY4aE9SUlJvQkdmdzRTOUE?oc=5",
+        "press": "Simply Wall Street"
+      },
+      {
+        "title": "KOSDAQ Surges Past 900 Mark, Rally to Continue? - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFc5dkNTUk1ac3ZWTnFQYlhFbmc2WDNkcFhtNGl3WWNJUTU2eXVUTFRkLXNISjBSVUg1ZUxZVWlPellyRlZuM1dKSFYwYmxjTWVpSXFtMnRUN0l2bnZ2T0d2Z2lEYndMOG9uTHpSaWlLMWVvYnBfYlg3LXc3bU5LNmRFS3cxTGhwQ3BZbnpn?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "KB Securities touts Samsung revaluation on soaring HBM prices, richer returns - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVXBzN2JwRUlTbE94OUljcTg4bVZUZF93SHBsQUszZmtyZURwYWtES2h0LU1EZEVKdEp6bWN5ZmRneVZRLXp4U3BSR1VlQTdpRFZBS2xRNFBKWkJ5cEFYY3B2SkxKd1I5ODVJM2VSdzk1TndVN0NFOE5jV1ViakN1MNIBlAFBVV95cUxNMHduTXN5NngyQ3BYV2p2aEZ3QllRRFVjMFdrelZnRnRjZHJialR5TENZOVJteWRENWtUdmJ6ZG5PTXVtbEJZUHpNS1g5dkVJUkhjTlFIeVFlWDNBdjZaSGxGcDVrME9HdmpXZ3FZRnNOMFVjRnVIb2o4WHZJSmFDYklmRV9oejdERktrcHljc2Y0THZv?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
