@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "generated_at": "2026-10-07T23:32:03.964474+00:00",
+    "run_date": "20261008"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 102.25 (+0.41%)",
+        "description": "전일종가 101.83 / 변동 +0.4200"
+      },
+      {
+        "title": "미국 10년물 금리: 5.28 (+0.15%)",
+        "description": "전일종가 5.27 / 변동 +0.0080"
+      },
+      {
+        "title": "VIX 변동성지수: 15.08 (+0.47%)",
+        "description": "전일종가 15.01 / 변동 +0.0700"
+      },
+      {
+        "title": "S&P 500: 7801.77 (-0.22%)",
+        "description": "전일종가 7818.93 / 변동 -17.1602"
+      },
+      {
+        "title": "나스닥100: 31160.08 (-0.21%)",
+        "description": "전일종가 31224.47 / 변동 -64.3945"
+      },
+      {
+        "title": "다우존스: 51179.87 (-0.66%)",
+        "description": "전일종가 51521.28 / 변동 -341.4102"
+      },
+      {
+        "title": "USD/KRW: 1339.50 (-0.02%)",
+        "description": "전일종가 1339.74 / 변동 -0.2400"
+      },
+      {
+        "title": "USD/JPY: 158.01 (-0.18%)",
+        "description": "전일종가 158.30 / 변동 -0.2870"
+      },
+      {
+        "title": "코스피: 6941.39 (-0.89%)",
+        "description": "전일종가 7003.74 / 변동 -62.3501"
+      },
+      {
+        "title": "코스닥: 919.92 (+2.98%)",
+        "description": "전일종가 893.29 / 변동 +26.6300"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.648 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.31 | GEX -0.7B$ (만기:2026-10-07)",
+        "description": "콜OI 234,754 / 풋OI 306,884 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.28 | GEX -1.7B$ (만기:2026-10-07)",
+        "description": "콜OI 103,656 / 풋OI 235,900 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $183.69 (-1.45%)",
+        "description": "거래량 12,180,040주 (평균대비 1.1x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $780.58 (-0.25%)",
+        "description": "거래량 3,643,926주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 27.0% (54/200종목)",
+        "description": "평균 MA 대비 위치: -3.5%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 71/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market Today: Dow Opens Lower, Treasury Yields Hit Fresh 24-Year Highs — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2lHZVNpMXR1TEt6VjhHNTZqbldCdmJncHA1WDZ1TXJ2TUdSbklFTmlVWnFoODM2Yy05RTJBVUQ0QU5VeG1zZlVTRFczSkdtVVlTNzRfNkpXWXBLQ2JwQ2FNVUVRUGZyTjJ3djdaUGgtdGhPOW9LVHZJcHVRMDhpVjhKUFEtV1U?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Investors pick new darlings and duds as selloff rocks Europe's bond market - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUwxWllNS1pOd3QyU1N1SXNKRExZYWU2U2V2SXdRZkIxNTJ5NEFjNlRPMmlScW9sQUFMdzl3STlMN09oRzNqc0tPNGJVWnJ3b2hUa3NNWFN6MFRjSHJQODFZTFh4a1BMczhIU3JqY0xwUGlDRHEtUWxYbFJuXy1MbTk4ZGtHcFNnQjZ4V2d6UFc3VDNFTmtOOVlVTUhLeGRjOG1GbUp3VjFpUVBBSDdUOA?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Robert Rubin Warns AI Boom Carries Risks for US Economy, Markets - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb1kwMzNFRzlXTFUtSlFNMmVkWTdWcjQ3SGJ4THBMeFZVTk1LU3Q2ZzZ6MUJQNlZaR19NcWF2cnhZWEMzaFlwdjNDd0hlMzBYbV9sMmxSdWhMUk1BQmx4STRBQ3JWbVMtR0pfZFgwN196bHZtTktRTGstWmh3ZzdtNDNlUXNPaWJJWk5zNjJVZExKLW5UY3NmVjFBWTlRTVJ5RC14TkZoMFRnTkJzQjFsWndUZTE?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Stock market today: Dow falls, S&P 500 and Nasdaq retreat from records amid bond market jitters - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNzdzeXVFbkMwaXViZjI2SHhUTnR6V2lmRkxTcEh2ZVd2cFJNR0tvOWpfajVRWDlHSXVqeVd6ZWdUTTBOUXpiSDQxQUdPLUtaa3oySVRaazVVd25TN1ZBNEtrT3pfaXI1UUNjaGQ4OW1VVC1XTXh3OENieG42UUxmWDR5ZGZROGFEdDVab015WTBPUmpFYnhOSEdINHhZbWZtUnFtTHByNXZhTWRLWXM0?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Intel vs. SK Hynix: Which Semiconductor Stock Is a Better Buy in 2026? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYlNJdVFpWEpWSGhkeFlQdkctYXUzX3FmclJaWi10WlI2U1JNMXAwVVh6aU9OQXBYRVJXVmxSOVNPNXZxbzhrQWtoSjE3T1ZQMkdseUtvMnhjZUowTE01TjBvdHR5MGZFOE5Db1Q0T3d0bWptVnFNRUlOSy1ES0h4UWxvX2J5SHF1LU9JS2ZkSVQ1SEpvSWpvbzZOY2g?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Cathie Wood buys $7.8 million of surging megacap tech stock - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ0ZZdTFsZU1QM3NzLUxmY1V4eVZZZjkwU1hzS05raWF6WXNQNnlNUEdzRWJGS3JOYWJJNnZxSGtycDRXcmdpUGN4eVBtNllwTFhMcE1mNXdWRFk4T1RsYVl0MEJJVlNzeXoxZ2NQUHllNjAzdlZhbnBNZnFfMk5hOVZFc0hmRGd0ZnU3N3Jn?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Anthropic will be 'most ridiculous IPO' of year, analyst says - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd2dKUllnNVk3MmI2SFFNYUV4cm1jd3Z4VVJCcEJGclVRTDlSOE5NSkV2NjRBVm1PTEthM2tlVEUtNmZLV0UtMm5RY09IY1R2TFFpRkJhbDcwZ2F0allhc0lWNFNXS2V3UmVmdS1BdEtLY2g2WEk4aXlSSkR1Yjh3eFloUHVEVFhKR0k0eEdxY1dUcWRzeVA0UW9HVdIBoAFBVV95cUxOSnd6UVJsLTE4Rjc1dHE0bE9uMUZ1MnR1VnpvN2Y2M19mMkp1MVd2c1pBZUpQejhONC12REdXOHRuaGNuX0VaMkQwRW5jWTRvZGFUOEZNTlp1YnFXZmhSUEFtclRNZTNhVVg2TmtlNC0zWnBQOFF5dGZZM0QxdnlfclVsZGJCVnFPdU1xWUhuUGFZcUI4VXF1dEtSZ1A5ZEN3?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "These 7 major S&P 500 stocks need to rally at least 200% to reclaim their peaks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVUJ1ZlBlQjNZTUV4VlpWdTJYN29vSWdOenROd21Hd1lYMVlYa25vVFFEMk8zU2Q5YU9wX3ZzUjR2X0hNTXdzdnBrTl9ZTjFDSDJ4TUVTTm5TY1F6MTd6UDVoMnluZ1QtaTBwYmFoN29FYVZNSU9NTEhZdGpOSzM2N1I3Z2lwcFRaVGJ3SFB1bDBENHhjcWJKeDZsYXRyMVBUMWQzWDBFUmdKaktfalJ4Nl9Xclc3ZVFiN2h6YmdYRjA0ZUdReV82SVpPbkZNeWc?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "KOSPI Trapped Below 7,000: Foreign Exodus, Semiconductor Doubts - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUFgzOWNfd2R4LWsxTjRUcDI4eXhLSnMtTVJyRGhGbENhM19sdmNnZmdiYnZxNnlzUmx6Sno0ZVZtXzFCVXpFZDlVNFBlbnRGYlI3ZEFLRVJjNVpHcVdVQThqbFY3RkVIb3Z0dnRkanYxUWJzVzZ1a2xZanZWdjB2Q1Z5alRYVTRDbXBNYUJR?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Here's Why We Think Seobu T&D (KOSDAQ:006730) Might Deserve Your Attention Today - Simply Wall Street",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdFZ0cTBDRDZUeE9tVDBkaGwxSnE0VzZSUnVBMHhsSE1wajRFNE9hR3pvRlpjbThVYVpER2dhZEdWNVZGRldZamtZakh3Yy1YcnZLSmxBQWQzcU5RaWZ5c0dKbmhQTnBJVTB6SEhrdldXYld6MnBRc25pMmVqWXkyb2h1a2kzUDF2Y3RyT2M4dHNrMmpObFNtWUpYVFFWajROSzZlWHQ0dzNxV0tzajZpdFE0Tkt5bnFDY0xDOG16bHVmcDJxaUxMdE0zOGJRUmY2dmtEaEgwVkhIcE1YRXfSAeMBQVVfeXFMUG56LWVmZVZ3bWgtVGt4c0V0MFptdWRZd1haTWtXUW53ZDdNWENxLXhYYldOdklCS1dRSms3Rm83RXNyblJWSWtvM25DX0VGdUd3aFhGVWNQR3NGQlFvaDBxME1xencxUzdjZzZqMUpMUXNiMXJlaTY4ZkxiVEJFcjhFeTcxYzkwWTBxdDNpYnJ6dk03b2NoY1RlR3NVR1A0TlY3LUE1UEwyTDBPZlFTbXNpZWJQRjFFZkhsZE1FVlhzbXQ5SDQxdWk4b1ZDbkpZNE1nSjVtaWdTdmR6MEVZTnVoNEk?oc=5",
+        "press": "Simply Wall Street"
+      },
+      {
+        "title": "Court Halts KRX Delisting Policy Over Market Capitalization Thresholds - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUkzSVdaN3pwUTllUmNWNkFVaDFTRHQ1TmVBU1h4QUp4WUwzVm8xVXkxQ0VpMjU2c2pKeTVaQXNNMVp0Vi11VTZEc3oyNmhTMDBycUtYVUJ0RHM3TURZVmlWQTNsczIzbUFablZ0aUFDNVA1bExWQ0twZ1NnTUgydVdPSFM1alY5TEZ3d3hR?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Jenon Begins KOSDAQ IPO Process, Files Securities Registration Statement - 아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ldUtzS0l1VTkxbG45UmhvT1ZMVlNJQWVWNXlXODUtY2NSUEJqblZzREdGOXdMWmxMQjd5aEZ0bWhKajNVNEZBUjhxVWRDaEVELU54VV9hMlpZY1U0ZzhqdDNBdkZvbkFBVFlPeVR4UWxvNXhyUU5SMHh0QQ?oc=5",
+        "press": "아시아경제"
+      },
+      {
+        "title": "Samsung Memory Employees Could Earn 750M Won Bonus - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNFFYRmgwVmpUSmxzbXFPVTY0TUhoRWZsYlB2cnV2MDd0d2NlaWdjaGZWbzFrcU5fR09YRFVBS2xQUVJ1OG5Yd1k2TWp0SHVRNFRNb2hXai1GZzVzVjQ4UU4tMjBMR0lSZnJUWVB6QUlLeDZydkp6cnRQcTNlWWpkUV9WX2VjVHBn?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Planned U.S. chip tariffs to tie exemptions to local production, pressure Korea to invest more - Korea JoongAng Daily",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTHdaT1Nrb2wwVGJROFRIM3ZxdnFyczIyMFVRUFFvdVoxemwtaXpxZi1pLVhUa0UwblFTLTlfekwyeGttR1g0TExIZ2phME81Mk56eFQ5aVU5RmxaZ1VFUlRUVEgwb1ZMbTAzOHIzRnBYek1EeDBhTkUwVHpvWV9rN0ZLc3ZFZ3JvRm9tVU9UQnAyYUNRSkVVS2pWckFWVlZjaUMwMjFVTEcxTG84bWpNT3htZ0hwV1BJaUVJVGxtUFFvNXp1eUZmYWxsZXJReXVUUE15akRHTUdwcXZl?oc=5",
+        "press": "Korea JoongAng Daily"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
