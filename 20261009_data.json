@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-10-08T23:32:22.715683+00:00",
+    "run_date": "20261009"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 102.11 (-0.12%)",
+        "description": "전일종가 102.24 / 변동 -0.1250"
+      },
+      {
+        "title": "미국 10년물 금리: 5.23 (-0.87%)",
+        "description": "전일종가 5.28 / 변동 -0.0460"
+      },
+      {
+        "title": "VIX 변동성지수: 15.41 (+2.19%)",
+        "description": "전일종가 15.08 / 변동 +0.3300"
+      },
+      {
+        "title": "S&P 500: 7765.36 (-0.47%)",
+        "description": "전일종가 7801.77 / 변동 -36.4102"
+      },
+      {
+        "title": "나스닥100: 30725.81 (-1.39%)",
+        "description": "전일종가 31160.08 / 변동 -434.2715"
+      },
+      {
+        "title": "다우존스: 51231.64 (+0.10%)",
+        "description": "전일종가 51179.87 / 변동 +51.7695"
+      },
+      {
+        "title": "USD/KRW: 1342.53 (+0.26%)",
+        "description": "전일종가 1339.08 / 변동 +3.4501"
+      },
+      {
+        "title": "USD/JPY: 158.06 (+0.00%)",
+        "description": "전일종가 158.06 / 변동 +0.0010"
+      },
+      {
+        "title": "코스피: 6803.90 (-1.98%)",
+        "description": "전일종가 6941.39 / 변동 -137.4902"
+      },
+      {
+        "title": "코스닥: 898.43 (-2.34%)",
+        "description": "전일종가 919.92 / 변동 -21.4900"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.526 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.90 | GEX -6.0B$ (만기:2026-10-08)",
+        "description": "콜OI 177,752 / 풋OI 337,573 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.45 | GEX -0.6B$ (만기:2026-10-08)",
+        "description": "콜OI 90,882 / 풋OI 222,375 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $176.29 (-4.03%)",
+        "description": "거래량 19,056,075주 (평균대비 1.6x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $777.27 (-0.42%)",
+        "description": "거래량 4,580,672주 (평균대비 0.8x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 33.5% (67/200종목)",
+        "description": "평균 MA 대비 위치: -2.4%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 64/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Nasdaq falls 1% as AI trade stumbles following OpenAI revenue setback - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uZnFqRjRicl9Hc3lSeXlCQV9SS3QzVl83MFlGaUU5dDI5TFlWNWNmTktaTUtmLTJyNE5FQ3A2dE1lMU5pdk5IN21odldNeXlMemZpZEJuWFdVcHlWa21WaVBQOVRzNE9lR2dyOWhOOUF0amdINVkxStIBfkFVX3lxTFAxOVBHNFJ3UUZ5NXVkME1WOWpYZXZqSVpndGFCRUtTS2JJYnI3eVR6eXBDQjBkODBxYzdlOUFDaU5qMjQyS3J4b25sVmNtUlRmd0NBbGdOcjFMOHFGTEtWZkJzaU9ibXdWZjB4M2tpdWVIZi1vTS1lU19pUGk4QQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock Market News, Oct. 8, 2026: Oil Rises, Nasdaq Slips on Fresh Tanker Attack - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRXZ4MHZha2h5MTVsV0UxVGxlcFFqZ1lvWUk3VkNxbkd3RHVRNXRRVGZfbVItMXRJa3VTbUhDa1lUM0llR0Y0eVFBRFBoSVNSMjhNR3VmNGNfVndmWm9RNnFhR2MtU20wS015RV91QmFGQ0o2LTVmRGxvX1ZRdm9Wa1Y0SXQyN0U?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Nasdaq falls 1% as AI trade stumbles following OpenAI revenue setback - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5uZnFqRjRicl9Hc3lSeXlCQV9SS3QzVl83MFlGaUU5dDI5TFlWNWNmTktaTUtmLTJyNE5FQ3A2dE1lMU5pdk5IN21odldNeXlMemZpZEJuWFdVcHlWa21WaVBQOVRzNE9lR2dyOWhOOUF0amdINVkxStIBfkFVX3lxTFAxOVBHNFJ3UUZ5NXVkME1WOWpYZXZqSVpndGFCRUtTS2JJYnI3eVR6eXBDQjBkODBxYzdlOUFDaU5qMjQyS3J4b25sVmNtUlRmd0NBbGdOcjFMOHFGTEtWZkJzaU9ibXdWZjB4M2tpdWVIZi1vTS1lU19pUGk4QQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Tech stocks drop after report that OpenAI’s revenue is lower than expected - CNN",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BOTNlajdpNk5VanVGYmx1ZDZBZUpSZGtoWktCQmhzcDVNQ3BtUzBDb3d3MlNndUQyVnFLMThGX3FTZ0RjWDIxM1EyUTJZbU5nM2Z1VFBLRFQxV1o3dFRkdHFzM0tLRHVJT1c1dG9B?oc=5",
+        "press": "CNN"
+      },
+      {
+        "title": "Meet the Super Semiconductor Stock Crushing Nvidia in 2026 - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWUM1OURoWmI5amFYM2hONXJyLVEybXFpWWNMLThuUTFoMklCaldmMUtncGhQR3lPTVlORUd5WEdkU2toVFgzZC1DaGlsNU1XSUxvZG1IUXdpeXpRNFB0Tkc1aVozeWZqMmh3aTNMczRrZnVXeThzdlpTNURaMTZpSFdLZjRMRzBBa3pVZjVwQV9KOUw4enIw?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "Stock Market on Oct. 8, 2026: Dow ends higher as Treasury yields retreat, S&P 500 and Nasdaq fall as AI-related stocks s",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaHVVTnVzWW5SdEp1QVpGdUVLcnVVeXVHSHFscmR2OXh3MUEyYmNVaS1NU3dHTXFyVnFSaE5udjJDM0ZTR2dQaU1XV3YtYVRIcThVejZua3VqRVRjTXhrcXkxWHJlTUVQWEFxd2lUa0c2V25FcGxlbHRaRTJHTXVGam1Pa3ZCUWZFYUVWaTljNFRyVWdZVDV5YlJIT29TYWtmOEFORHFDRGpqZjBBRXdsZVZHcWVqNWpYRm9mQ2lma1k1YVE?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Tech stocks drop after report that OpenAI’s revenue is lower than expected - CNN",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BOTNlajdpNk5VanVGYmx1ZDZBZUpSZGtoWktCQmhzcDVNQ3BtUzBDb3d3MlNndUQyVnFLMThGX3FTZ0RjWDIxM1EyUTJZbU5nM2Z1VFBLRFQxV1o3dFRkdHFzM0tLRHVJT1c1dG9B?oc=5",
+        "press": "CNN"
+      },
+      {
+        "title": "Jensen Huang, Larry Ellison Lose Combined $15 Billion In A Day - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTjZ4Mnl4M0VQSEdRTmlVVkctdGRqU3pfZ1g2TGh6TVM2dmx3aXpDNWh3MkNScnZENjI5R2djVENVb0V1U0VjVEV5dUVtYmNYSEc3LWhVOWdXVWJ1djVuSnVHUUdSOGJWVGM3SURtcWM0ajR3eTFUU0x5eWVCMXlWSm9nQXVzMVZqWjVoOVlES0I3bVZlU003TmdudVR2Rnpvak9YWDVfS2I0MzQxVFhJbl9aRUMzSGh5MUFXUF82anB6dFNVWXd4RTNkRjBkS2JZUVpr?oc=5",
+        "press": "Forbes"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Is Now An Opportune Moment To Examine Daewon Media Co., Ltd. (KOSDAQ:048910)? - Simply Wall Street",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLVo5SnBNYV9FV21zbkN5R05od1hMNllKdDJMODdJZ2FOT1NSblBodEs0SHdyckdxN25fLUVzUlE3RnVwb0k3aHhWcTZiZ1U0M0pkLXdNUFpENU55RndGSGNiTWJrWVhMcVM5UHRnekFxam1OcVVCU0FZU3ByVjAxTk5fVHlFZ3N4QXJTMEhyR2dVTmhhZGZKNzdpOWpoRFpBal9abF95MVVhcXZqMWRIb21idFA0TFhCT3NuNXI5blNwSG9iLV81M3FBampnbWlsSnJfRdIB2gFBVV95cUxQNWViV1hwMjZOLWd0SmJpQTBjaHdzNFI1WmV1YXo1M3lSaTYzVjI3YWpnMkdSdWxnZ1h3eFlXQ2wyWm5xcnpFRFpuZ1lpRUhCUzROMmo4MXgxZDctMHpDWnMwSFY4N01jTUNLX0NsUG9mdlNyVlo1V3VXSTdLdDZ4UmdlY2FJNC12YWxXZkZqc19veG52eU5zN2dEb2p2QldVcXQ2NXJpby16a3oyUFpPWmJweVUwZDg1dG9jLUdQRWlhdHpsOVNCRGhaQk1JQXhybTFORlJjSUowUQ?oc=5",
+        "press": "Simply Wall Street"
+      },
+      {
+        "title": "Korea ETF rally shifts to small, mid semiconductor suppliers as KOSDAQ surges - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONjdvMnJ6cGpTejc4dWZkV1NjWVRoY2JIUzI1RDAzSHQ4WFRrNnpTcEtSR3IxUFdvUmZnUVEyU1ZnTlU1RFRfN3pQTWFMVl9iSWhIczZyRElKWDBGQU55ckNfeDFwWjJRaHZwcGp2RERLTFJ4RTZSZlhmdWN4WmhNUNIBlAFBVV95cUxNakVMUXpSZ0h5Nml5TWhZUTdsUUQwT3NOSkRLcUkzYUVWelkzNEJaNDV5NXN4UUQ5NDUxc2VSQS1uN0hTdEF3LW5jWGV5R0t6SGRqMl9nejhKdFJtN3dfS1JRcUJ4SFAtQVdjMGE0S2EzNUxDV1dIalQ2SWlrQUtnWDlaR29Id0R6LUhiVWpzQnJvRmJK?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
