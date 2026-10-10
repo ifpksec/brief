@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "generated_at": "2026-10-10T23:32:07.785250+00:00",
+    "run_date": "20261011"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 102.21 (+0.07%)",
+        "description": "전일종가 102.14 / 변동 +0.0700"
+      },
+      {
+        "title": "미국 10년물 금리: 5.24 (+0.25%)",
+        "description": "전일종가 5.23 / 변동 +0.0130"
+      },
+      {
+        "title": "VIX 변동성지수: 14.84 (-3.70%)",
+        "description": "전일종가 15.41 / 변동 -0.5700"
+      },
+      {
+        "title": "S&P 500: 7811.54 (+0.59%)",
+        "description": "전일종가 7765.36 / 변동 +46.1802"
+      },
+      {
+        "title": "나스닥100: 30883.15 (+0.51%)",
+        "description": "전일종가 30725.81 / 변동 +157.3398"
+      },
+      {
+        "title": "다우존스: 51654.95 (+0.83%)",
+        "description": "전일종가 51231.64 / 변동 +423.3086"
+      },
+      {
+        "title": "USD/KRW: 1340.90 (-0.16%)",
+        "description": "전일종가 1342.99 / 변동 -2.0900"
+      },
+      {
+        "title": "USD/JPY: 158.25 (+0.12%)",
+        "description": "전일종가 158.06 / 변동 +0.1860"
+      },
+      {
+        "title": "코스피: 6625.93 (-2.62%)",
+        "description": "전일종가 6803.90 / 변동 -177.9697"
+      },
+      {
+        "title": "코스닥: 892.27 (-0.69%)",
+        "description": "전일종가 898.43 / 변동 -6.1600"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.557 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.51 | GEX +1.8B$ (만기:2026-10-12)",
+        "description": "콜OI 97,897 / 풋OI 147,681 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 2.27 | GEX +0.4B$ (만기:2026-10-12)",
+        "description": "콜OI 68,836 / 풋OI 156,277 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $177.24 (+0.54%)",
+        "description": "거래량 6,522,900주 (평균대비 0.5x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $781.97 (+0.60%)",
+        "description": "거래량 3,080,300주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 37.5% (75/200종목)",
+        "description": "평균 MA 대비 위치: -1.9%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 64/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Trump Reopens U.S. Market to Putin’s Diesel — Consumers Get Little Relief - MeidasTouch News",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYW5yenFydDdabXc5djdQaDJ4blYtT0RSdGtEMFBTY0NvVXlsWW9oSWRhTTY3ZFhLZ1RrZExZWnFXX0ZGUG9fM0VxM0h3cW1TdnFfbHVET2g0dGxreVFqcUtvUlhLM3EzU0JVcFRmRkhQbnAxcWZZcTF1T3ZlWWY1d000aHI?oc=5",
+        "press": "MeidasTouch News"
+      },
+      {
+        "title": "Where Will Credo Technology Be in 3 Years? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3oxelhBak9DSjlneEhFbVJHaVBqQmV5MV9oSmp4bjhEUlp1WFMyclNCOWJ4VHNEd3RWZzE5YVNSdFVJaDdzX1czNmY5eGFheGwxMVEtSm1mM3dVdHk4OVRpTDZVaTd6OWs0dm5faGxuTjdRYUpGd1pKcC1oWVVhSERYcXVHN0lpeTgzT3dOenRvSHI0U09rY1d3Yw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Futures: 6 Stocks Near Buy Points; Big Earnings, Inflation Data Due - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQREhqRW9yMTk2QWxZb0k1a19pUVZhNFF6WkRVRVVndFVCM05zTDlfdFg2dmlVNlY3bm1ydGswcWsxdWJwOHJWa1dFelhCNC1jTUdHdUE0QzJLUkUzMFZJckVMTWhiSVM1R0k2OGdINEJmSkxRMHFZYThJNWJLd0FwakV2LWJrYkV3Tzdta3R0MEZrYjFHaHRidEJwUzB3LXEzNmZJSC04alY1c2w1emdBcHhTc0xObW54bm0yckpTMVNzUUdNOW9hQ0pzRlNqUQ?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Why Wall Street Is Tokenizing Stocks and Everything Else - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMnJ4UU9UY3BDZ2VwYjExYl9zLVNLV1hueUttRVVCSGNRXzR6UTd1V1R3NWpFYTYtcGtPUVVxNnQ1bmRVWlRpU1RqZEg5eGYxeTlJcFQtb0dqbjY0MjFJLW4yWExudHFMNnA1QmMxUGtUZ29TNHVKQVR4MEIzVDBWUlVTTQ?oc=5",
+        "press": "Barron's"
+      },
+      {
+        "title": "(COMM) Market Performance Analysis (COMM:CA) - Stock Traders Daily",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeFNWQmZ2WGhhcVV4YmtCd08tdWU5dU5WbGEzQ0NlUzViSHRxQlZYZ1lUMGtmeEZCWFZqempLY0ZkODE3TTl2VU9IdEhITGNDdXhhZ3NaVW41elNaeWtMUmlPS21MUlRWeWY1NkgxTW9MdkQ1S2hseUs2TElnRXVlLXVYbFlSZ0NRYlFrZFdMdnVkTXlP?oc=5",
+        "press": "Stock Traders Daily"
+      },
+      {
+        "title": "Warren Buffett warns of a reality check coming for stock investors - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZjZPOWowSkdiOURQc1J1VDZpeVpNeFYzYTZTZG9oQzRfeVp2WDY2cHB3Q0t6YmxtYUJmTDF1bUFuNV9kbmNqOGtiSmU5ZWpTN2ZxQkE5VHNCUFFkU2YzSkpad2IxY0ZsMWpodldUak43WXIyd0ZJNnlSY2s2NHl4T2w2X0I0Q2cwdWtUblN1YnRlWjdQUGdOcmdiZXR3UUhh?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "What to Expect From Teledyne Technologies' Q3 2026 Earnings Report - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWWp4RFZoY1g4Y0o5NkhxS3ZjczF4S0MzZ0UxU3BzdmNYdTFXdkhSM3B0SE8xOC15ZGg3MF9CanQ1WlYwYmJYZjM1SjlCU0hiWUZ6dGtuYks2cFRHa3dfcVBoeTRNTjc4NGlsYW54MmFWcTJYVldZYUVkWm1ySVplSTkyWFRjTTNzYlVuNHlDenYwRU5BNWViTzA5MENNNE0zTlpBS05XcjUzd3VGMXc?oc=5",
+        "press": "Barchart.com"
+      },
+      {
+        "title": "Scrapped IPO of Nvidia-Backed Company Points to Limits of AI Boom - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaWFkcXdfaE16UDI1bFo3blBEbDdtT0NRZjN0WkR3aTczRHBBOWJmMTI1empxRm5MRU9nMHRITlNWaGl5Zm9LZk5KTVhyWHdWT2NteXJxbUFxNUZSSFVtbWtYanNaa0lUTHBjdF9zOXBBX0JlYUFOVDBKSlpQeWYtUzRFQjJuMWs5dHlkUk9RdHBvQzNHNmUtSWszNnhwZ1pjX3MwM3hLY2FOMGZrVVE?oc=5",
+        "press": "WSJ"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Foreign selling and buyback finales test South Korea stocks as inflation looms - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUFYwMzNJUTRpQnZfWU1GMHFMMUMxSVFfdVltckNFb1MzU3poNGc1ZFpLM3g5YkFOdXhySFN1TkVNZjBfbkN6YW5HbDRETWFwTEdtUkNSQUo0b2Nsbjc2aDZaa1I0SWZpRWlzWjZLdUFPbHYzbENoemc4dTJOckZSYdIBlAFBVV95cUxNckFkU2dGSGxOSGgtRzhhalZuN2JhanN1aFUwQ3RlbXZWN0ZvUzc0ZVU2cndQNWxfbFJubmNETEpfbFc0Q3pydEV1elB1YnpxYTh6ekYyRlpKN1MzcXZXNDNBT3l2YlRWVzhJREUzaDU1ZGIxUEtRdHo5bUJ3elB4STRzSjJQSUplVXNFNU1hdEw0eWhq?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Naver Accounts Compared: Features, Access, and Security - timesdaily.com",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdjB4eFE2ZnFhXzFPS09zMUY4QkpyQ1pVaF9HWkl0Znc0T3B5YjN6Y21OZTIweG00TEktLWZVMzNDd2Y3c1gtYm5mRUhubmFKd05wc0dzOHpFLVhLRjdVV3N3TWd4M1JrM1AwVjJvRTNOTG9yMGUwa1VfSUdsRExTTmQ4TF9kUWpNMXVlUGhsMktMSjlnYkMyWFdPSmNDQ1UxWVJQcFYzYWFhcTB5bUx6dENtTjhNdmlZVXJDY2FEdnVrOUlBVFE?oc=5",
+        "press": "timesdaily.com"
+      },
+      {
+        "title": "Foreign selling and buyback finales test South Korea stocks as inflation looms - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUFYwMzNJUTRpQnZfWU1GMHFMMUMxSVFfdVltckNFb1MzU3poNGc1ZFpLM3g5YkFOdXhySFN1TkVNZjBfbkN6YW5HbDRETWFwTEdtUkNSQUo0b2Nsbjc2aDZaa1I0SWZpRWlzWjZLdUFPbHYzbENoemc4dTJOckZSYdIBlAFBVV95cUxNckFkU2dGSGxOSGgtRzhhalZuN2JhanN1aFUwQ3RlbXZWN0ZvUzc0ZVU2cndQNWxfbFJubmNETEpfbFc0Q3pydEV1elB1YnpxYTh6ekYyRlpKN1MzcXZXNDNBT3l2YlRWVzhJREUzaDU1ZGIxUEtRdHo5bUJ3elB4STRzSjJQSUplVXNFNU1hdEw0eWhq?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
