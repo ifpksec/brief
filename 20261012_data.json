@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "generated_at": "2026-10-11T23:32:19.106279+00:00",
+    "run_date": "20261012"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 102.24 (+0.03%)",
+        "description": "전일종가 102.21 / 변동 +0.0280"
+      },
+      {
+        "title": "미국 10년물 금리: 5.24 (+0.25%)",
+        "description": "전일종가 5.23 / 변동 +0.0130"
+      },
+      {
+        "title": "VIX 변동성지수: 14.84 (-3.70%)",
+        "description": "전일종가 15.41 / 변동 -0.5700"
+      },
+      {
+        "title": "S&P 500: 7811.54 (+0.59%)",
+        "description": "전일종가 7765.36 / 변동 +46.1802"
+      },
+      {
+        "title": "나스닥100: 30883.15 (+0.51%)",
+        "description": "전일종가 30725.81 / 변동 +157.3398"
+      },
+      {
+        "title": "다우존스: 51654.95 (+0.83%)",
+        "description": "전일종가 51231.64 / 변동 +423.3086"
+      },
+      {
+        "title": "USD/KRW: 1341.57 (-0.11%)",
+        "description": "전일종가 1342.99 / 변동 -1.4200"
+      },
+      {
+        "title": "USD/JPY: 158.24 (+0.11%)",
+        "description": "전일종가 158.06 / 변동 +0.1810"
+      },
+      {
+        "title": "코스피: 6625.93 (-2.62%)",
+        "description": "전일종가 6803.90 / 변동 -177.9697"
+      },
+      {
+        "title": "코스닥: 892.27 (-0.69%)",
+        "description": "전일종가 898.43 / 변동 -6.1600"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.557 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.51 | GEX +1.7B$ (만기:2026-10-12)",
+        "description": "콜OI 97,897 / 풋OI 147,681 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 2.27 | GEX +0.3B$ (만기:2026-10-12)",
+        "description": "콜OI 68,836 / 풋OI 156,277 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $177.24 (+0.54%)",
+        "description": "거래량 6,522,900주 (평균대비 0.5x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $781.97 (+0.60%)",
+        "description": "거래량 3,080,300주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 37.5% (75/200종목)",
+        "description": "평균 MA 대비 위치: -1.9%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 61/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Micron Is Down 18% From Its High. History Suggests This Is What Happens Next. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdjhiTFIwNXN2QzJsQ2xma1BQOEtjVlNFRkgxdEV5RW5URFlBU3FzeF8xSWlFaUJyWlltMW1MbjVYMGx6dEFVUjRRU3ExVmdnM1drdG5vQXpFc2Z4MXJZbGR4a3pFWTRhNUVyallqc0syS2YwdXA4cjg5aHhETHh1WXJQcHAxVzFWOVJjRnRobjBPQW9lR1E2NA?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "Is 8% next? Why mortgage rates have surged, and may stay higher for longer - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdFNPbDNtTWJfTzlPMkhtSkJqVVVvOFJ0TmhQakVFbWxyY3p4NDU3T3h2bG40cVl3V1dxTGFWRm1WUnVRY01MZ21HRExFYTRzRE8tVkFqbmg2UTJUdmF2VzU0a0s1aTZ2emZXZTRxRVpka2VwcGV4LTBFdVZDbUpnRjV2MmxybmFMQm1FUG03dXNkVFdKeGxPNnM2V2RTdE90bS14M1NqOU52UlB4QVp4c3NvQmNiM0djeDg4Y19Jd2tLYW5hU3FqWHJmUFE?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock futures are little changed with big banks set to kick off earnings season: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cnRXR0YyTHF0YWUtQkZHYlZZb0lBTXVJVjQ5a20zSVZzU2Q0T2ZNNkdJSWQ2QWlxdWpUd21SZFhLeTdMVHhFaWVMRWhTYk1mR2FDMnNsVWhTSlVyQ3J0QVVlSWQ0Q0pWY0xEY0JpUVoyMDBQWUdr0gF8QVVfeXFMUEVZRmpuYWxmTnZpcXFhMk93UmlZRkZ1ejNQOVBlV2ZxdmNiaEVqaGJnVlZDREs0ZVBqTV9IMTJwWG51aXZDM3I0blE1QUJpRGZSZXBIYlZJNkZNQnNvRHhBblVGbUJRLWtGdm9DaUVuX3hjV2RxUnhudVFRaw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Dow Jones, S&P 500, Nasdaq 100 Outlook: Top Stock Market News This Week - State Street SPDR S&P 500 ETF T - Benzinga",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNFFUTVVKcDBXdHUxNFVHWlhnT0lPMzhva1F3TVFmdWE0WWljenJyd194enNnbk1ITDV3aWxvTW1MTFZqZ3d4aEhlY0JHLTFMazdEaEJFalFudWp5ZFZsLXFHeHJsS0pEbnBnRzNwblJRUkRFNGNTM21Yd2xaOVhIal9pcm1odklMVEJDWDZDQVppeVQwakNrVkdpZFVmVlRLTURUNXNrZzg3eWFFZEEzemhmRGZGSDZZaXpXalJ5RWZQUQ?oc=5",
+        "press": "Benzinga"
+      },
+      {
+        "title": "Stock futures are little changed with big banks set to kick off earnings season: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cnRXR0YyTHF0YWUtQkZHYlZZb0lBTXVJVjQ5a20zSVZzU2Q0T2ZNNkdJSWQ2QWlxdWpUd21SZFhLeTdMVHhFaWVMRWhTYk1mR2FDMnNsVWhTSlVyQ3J0QVVlSWQ0Q0pWY0xEY0JpUVoyMDBQWUdr0gF8QVVfeXFMUEVZRmpuYWxmTnZpcXFhMk93UmlZRkZ1ejNQOVBlV2ZxdmNiaEVqaGJnVlZDREs0ZVBqTV9IMTJwWG51aXZDM3I0blE1QUJpRGZSZXBIYlZJNkZNQnNvRHhBblVGbUJRLWtGdm9DaUVuX3hjV2RxUnhudVFRaw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Is the stock market open on Columbus Day, Indigenous Peoples' Day? - USA Today",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT3lQcGxYRDNCRGdkUHE0bk9QcXh1Vmt0NC1ETGhHUjJsb2JkcHF3TGw5Ti1tdTZQdWZ5LUw0bzV6RkRyUVlRcUVUSWd2VzBGLWx6U2NQSlJfVjJGTHZ3dklkUnFIN1pQSWpNQ1V0UDlnY0FVdUlSODd0UUdGTTRUZFZaemc1d3Y0dFRzUVNEdFFmZmNHSF8weU54a1FhUkJQd1BUWF80Rkt0WW5zS2R1STBjS3R6VG1HYWhaM1pPb0I5dzVmMVdhcHp3enpyZzA?oc=5",
+        "press": "USA Today"
+      },
+      {
+        "title": "Stock futures are little changed with big banks set to kick off earnings season: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cnRXR0YyTHF0YWUtQkZHYlZZb0lBTXVJVjQ5a20zSVZzU2Q0T2ZNNkdJSWQ2QWlxdWpUd21SZFhLeTdMVHhFaWVMRWhTYk1mR2FDMnNsVWhTSlVyQ3J0QVVlSWQ0Q0pWY0xEY0JpUVoyMDBQWUdr0gF8QVVfeXFMUEVZRmpuYWxmTnZpcXFhMk93UmlZRkZ1ejNQOVBlV2ZxdmNiaEVqaGJnVlZDREs0ZVBqTV9IMTJwWG51aXZDM3I0blE1QUJpRGZSZXBIYlZJNkZNQnNvRHhBblVGbUJRLWtGdm9DaUVuX3hjV2RxUnhudVFRaw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "(ZCLN) Strategic Market Analysis (ZCLN:CA) - Stock Traders Daily",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVpiNEREMk5ZdjYxejFHUjlKUEtnNVRjeWpKWkpXbDgtaGlMZVU5RUtoX0dOX1BONUtrTUVMSnM1Rkg5ckJoUkp5bm9SbGFleUtzajJKalNJaW5YT1REVHZNaGRpcFBaRF9LR2dLZjk2VllfbUt5Sm9Nd1dqSllCWjFQNjh0eDlnU0VhX0dlR1lGZw?oc=5",
+        "press": "Stock Traders Daily"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "KOSPI Loses Buyback Support as U.S. Inflation Data Looms - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaXUyd2dQbzJLdUFwa0p3dlFFTVNNSDRuLTI4LTRYRG9fMU5kSGZkTHVKVFYzbE53aXhSamNNOEl4OEtUcXdjeGZyMHg4dXJuVGJqRFJ4Rmdjb1N0dGUtNm4wTGVJamNPcTloYnl4NXMzV2REbG1aOGtKNkxCR0dDSE9KMEFCYkVkWE9QY2J3Z2UzdUhtaWF5NzlJaTI?oc=5",
+        "press": "Seoul Economic Daily"
+      },
+      {
+        "title": "Is Now The Time To Put Global Standard Technology (KOSDAQ:083450) On Your Watchlist? - Simply Wall Street",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQ1FIUmc3bTlWVkZLZ2dDM0xCaGZFQkxYNWNYTGwtTXc1OHA0bkxOMFRkemEzbU9NV2pheWVwSDdnSW5GMnIxY2QxYmNfVG5NeEJoUmYybHJZb2k2bFZjdlhxWDN0dEY2WVpTRW1GOTV3MmZhVkY3bFBBNl9oZkEwMnJEaHEzZWtlWkJBQUNUbGUwOFgzbnN6cUptZDlTMFYyaWF4eE1LMDNoaWhPXzdmeHBOVWRXVU9tRmxJYV9EYkkweTFLQmFOM2VXVHJPdm56Q1EyS2tJUWpuZjhCOWJYbmZUNVJoRlZPb0FUWGFFcVVoMWfSAfgBQVVfeXFMTWwyUm1Fakh5RE5UN0x5T3ZBWWlwa0h2X1RSUzBRZ3lpbk93cThfbkozazMtMnFJUDZ0SmhJYlNIaVdFWU1uNjdCem5tN0pBamJuMV9KVjVoX0hDNl8tNXZ2NlY3MjBBZ2FZbl8xYWphM3Z2a3hNclhBXzJUN2tvSHNJVHNZb0pSeUVnU202OHpNVzhGTnF1UGE4QmZpLV9McjRzRTBMU0dTUU43N3ZBVW1xMXBLUUNvVTBUVWhWWW1ZVkg5ZnhEanZuT0RSUFBaV05ndWZYZURtSzhNZUxTNHlrN2o3OVo2bHBKOWZscS1uSWV3SE8yZjU?oc=5",
+        "press": "Simply Wall Street"
+      },
+      {
+        "title": "ENKI WhiteHat Files Securities Registration Statement, KOSDAQ Listing Process Gets Underway - 아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PMkJpTXA1S2RuTmVtaGl3akxibWhFektpTjlwWEMxZm9wYTd6VWFVUGdfc3llYjZ4VUVzX1VuaFFIS1JSNDM5Tl9KSk04MVcwcy1MS2FwNkZFTHRsX1FoY0t0X21MMXJmcUt4dm8wbW5oNDhDOUZhUEhsWQ?oc=5",
+        "press": "아시아경제"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
