@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-10-12T23:32:16.314051+00:00",
+    "run_date": "20261013"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 102.57 (+0.35%)",
+        "description": "전일종가 102.21 / 변동 +0.3620"
+      },
+      {
+        "title": "미국 10년물 금리: 5.24 (-0.08%)",
+        "description": "전일종가 5.24 / 변동 -0.0040"
+      },
+      {
+        "title": "VIX 변동성지수: 15.21 (+2.49%)",
+        "description": "전일종가 14.84 / 변동 +0.3700"
+      },
+      {
+        "title": "S&P 500: 7807.24 (-0.06%)",
+        "description": "전일종가 7811.54 / 변동 -4.2998"
+      },
+      {
+        "title": "나스닥100: 30664.70 (-0.71%)",
+        "description": "전일종가 30883.15 / 변동 -218.4531"
+      },
+      {
+        "title": "다우존스: 51850.55 (+0.38%)",
+        "description": "전일종가 51654.95 / 변동 +195.6016"
+      },
+      {
+        "title": "USD/KRW: 1334.79 (-0.61%)",
+        "description": "전일종가 1342.99 / 변동 -8.2000"
+      },
+      {
+        "title": "USD/JPY: 158.52 (+0.29%)",
+        "description": "전일종가 158.06 / 변동 +0.4600"
+      },
+      {
+        "title": "코스피: 6625.93 (-2.62%)",
+        "description": "전일종가 6803.90 / 변동 -177.9697"
+      },
+      {
+        "title": "코스닥: 892.27 (-0.69%)",
+        "description": "전일종가 898.43 / 변동 -6.1600"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.561 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 2.18 | GEX +nanB$ (만기:2026-10-12)",
+        "description": "콜OI 178,122 / 풋OI 387,741 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.63 | GEX +nanB$ (만기:2026-10-12)",
+        "description": "콜OI 109,394 / 풋OI 287,548 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $170.11 (-4.02%)",
+        "description": "거래량 14,374,272주 (평균대비 1.2x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $781.44 (-0.07%)",
+        "description": "거래량 3,206,638주 (평균대비 0.8x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 39.5% (79/200종목)",
+        "description": "평균 MA 대비 위치: -1.8%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 69/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "S&P 500 closes near flat, pressured by higher oil prices and memory chip stock losses - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cnRXR0YyTHF0YWUtQkZHYlZZb0lBTXVJVjQ5a20zSVZzU2Q0T2ZNNkdJSWQ2QWlxdWpUd21SZFhLeTdMVHhFaWVMRWhTYk1mR2FDMnNsVWhTSlVyQ3J0QVVlSWQ0Q0pWY0xEY0JpUVoyMDBQWUdr0gF8QVVfeXFMUEVZRmpuYWxmTnZpcXFhMk93UmlZRkZ1ejNQOVBlV2ZxdmNiaEVqaGJnVlZDREs0ZVBqTV9IMTJwWG51aXZDM3I0blE1QUJpRGZSZXBIYlZJNkZNQnNvRHhBblVGbUJRLWtGdm9DaUVuX3hjV2RxUnhudVFRaw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "S&P 500 closes near flat, pressured by higher oil prices and memory chip stock losses - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cnRXR0YyTHF0YWUtQkZHYlZZb0lBTXVJVjQ5a20zSVZzU2Q0T2ZNNkdJSWQ2QWlxdWpUd21SZFhLeTdMVHhFaWVMRWhTYk1mR2FDMnNsVWhTSlVyQ3J0QVVlSWQ0Q0pWY0xEY0JpUVoyMDBQWUdr0gF8QVVfeXFMUEVZRmpuYWxmTnZpcXFhMk93UmlZRkZ1ejNQOVBlV2ZxdmNiaEVqaGJnVlZDREs0ZVBqTV9IMTJwWG51aXZDM3I0blE1QUJpRGZSZXBIYlZJNkZNQnNvRHhBblVGbUJRLWtGdm9DaUVuX3hjV2RxUnhudVFRaw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: Dow gains, S&P 500 and Nasdaq slip as focus turns to earnings season kickoff - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnFrQzljRnk1bzlITTdDSEVpNEY2ZkQ1S2RaNmU1T0c0ZlNfRDMzMkZXd1FpUF9qeExxbHd6NjVjaHM3S1NieXEzTmNvblRwV3p5Ml8zVTlYbDYyR3Y1S0ozeTEtWFhXU0ZyRTB1QWdwZ1BiUDFDNUhDQWFiRU8yd2xEZjNDbXRBcU53NEJxSGtUMUh2V2F0TTF5NmRXR0lfTVVRX1dYYW9pYW8w?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Nasdaq falls ahead of earnings, economic data while oil rallies - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOck00LVRZX0lQNUw5SGlYU09FOWw1dUVTNjZTQ0p6YklVVUlRSms1eVZRcDd6VjRySF9rOEptM3Nrd19mSURMa1dmbTdIOE1VZjJKdThIR0tabGRTdjBiX0JCWkVndjJFNkZrT0w4NzZ2VWVibjlyeVZHRmszeXRraWRfT0p2SDhSQnFTY3QycG05eHpjQVVLYk9yRF9UYzZ0VmZ6Sw?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "S&P 500 closes near flat, pressured by higher oil prices and memory chip stock losses - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56cnRXR0YyTHF0YWUtQkZHYlZZb0lBTXVJVjQ5a20zSVZzU2Q0T2ZNNkdJSWQ2QWlxdWpUd21SZFhLeTdMVHhFaWVMRWhTYk1mR2FDMnNsVWhTSlVyQ3J0QVVlSWQ0Q0pWY0xEY0JpUVoyMDBQWUdr0gF8QVVfeXFMUEVZRmpuYWxmTnZpcXFhMk93UmlZRkZ1ejNQOVBlV2ZxdmNiaEVqaGJnVlZDREs0ZVBqTV9IMTJwWG51aXZDM3I0blE1QUJpRGZSZXBIYlZJNkZNQnNvRHhBblVGbUJRLWtGdm9DaUVuX3hjV2RxUnhudVFRaw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: Dow gains, S&P 500 and Nasdaq slip as focus turns to earnings season kickoff - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnFrQzljRnk1bzlITTdDSEVpNEY2ZkQ1S2RaNmU1T0c0ZlNfRDMzMkZXd1FpUF9qeExxbHd6NjVjaHM3S1NieXEzTmNvblRwV3p5Ml8zVTlYbDYyR3Y1S0ozeTEtWFhXU0ZyRTB1QWdwZ1BiUDFDNUhDQWFiRU8yd2xEZjNDbXRBcU53NEJxSGtUMUh2V2F0TTF5NmRXR0lfTVVRX1dYYW9pYW8w?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Q2 Earnings Outperformers: CrowdStrike (NASDAQ:CRWD) And The Rest Of The Cybersecurity Stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLU9yQ3RneEtQZDFPXzBWXzE1Rk8tN3E5bUc2Q0RnNTB1QkdPWmQ1TGJMVFYxTjd1ZkVSUTlwMEprR1JzNlFxS1V3bF9oMklfa2FuRHZHOUJSV053V3V3NzVWQUNQSHc5M3FZSGdjNWx3QWQ5ZjNjbFFBU2c1YUFEd3ZfOS1qSTVkYm5yU1hJRkQwYjBZNmJLNTFweFVZektweDB1cm5aVi1Cek5GMmc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "JEPQ Pays 11.27%. This Lesser-Known Nasdaq ETF Is Paying 13.58% Monthly - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcnUtQmd2ME5NaGx6ZnF3WlVRek5DbmMyall6ellzNEpSNzRaalQxb3pUcTA1OHVBQzQ0UzlZcGRub3hOV0wwMzNhdHBHZy1TdFJZVWhzTmlaTDBQQkhWVm9FZzhCQVE5ZktxYWQ0VE42czhoQkNZRUtfc1dUMVRYcklhdERLV1k1SjlZOERYeFY?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "At ₩61,000, Is HPSP Co., Ltd. (KOSDAQ:403870) Worth Looking At Closely? - Simply Wall Street",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQVRieG51WDdpbEdZSm5vaDdoNHJ5SEk2bVI1V1RsQkJjWnF2M1hCMTFTNHo1Y3p2Ym9kODFKdnd6NWhlTklPcnFhOTZ6S0FTZlFVY1NpTlAyOUpiekUwWTVxa0ZjWWs1MkllZy1KcVNILUNVYTg1Ml8tWHJrMEc2QUM2SmlScVNOcFBVOWlnNnlhNlFVN3QxbnhHaG5wNGRTNmwwbmJ3Mi15NGthc0hUbm5xRDlaUVBCTVMzajh0TEtJVFJma3VIMUd5SWpIcVZGTlVUa3ln0gHbAUFVX3lxTE83Sm9IMVJOcDBMWG0zUm5wRFk2UkMtZVJBRWpjTjVuNVB2YXhubEl2YkNuUjAtSUlBZC1DNzNuNHg2TGNaWndKWVVwaU15V2NHVFd6MnFoY2tUeFZ6NTNjSTZnejJCSW5ZRllDQ3ZJdWMxTUlyaEh2UEduVEc1Qnl0SmV3ZlJQZkpwM0d5ZFZUTGN2UlFGWkZPbm52Wks2YUxnblJrZGtEUWpKQmpsaTZyby13enZwcXg5Qjd3cWdwa2hkR2tGWVotZnUtcko0MXlDTVljdkRPMmFwaw?oc=5",
+        "press": "Simply Wall Street"
+      },
+      {
+        "title": "FSS urges Korea firms to ready for K-IFRS 1118 adoption next year - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNlMwWWFPeGd0QUZUTEE0dlZxY0J4QTRNZmpWUzRnUElOM3pzTnl3MXBnRVcyUG50cUMwTXlvNEdnclZSb1dnSXJURTJkQmdtZGxIRnVrWWJ3cEFyQjhjeE5QWFR2em1XakxHN1R6OTFtZXFIejZUTXpLNlF4aHpyd9IBlAFBVV95cUxQX1JYMnh6MnBWUGxDQnRDR2FBQ3d6UmlmcVdubHhjSHdOSVo4ckdhc3RidWx0TkZiNnR2aVhwd3JrZVZTSTFUUElvWnRUSURkUHlfQXFFRS1ib2JkUjEwOUtaUGRIWnVxQkE5LXlyTUxpMWNXWkFKR2NrQnA2SUxocExHX2gzWDhEX0V5bWwxSkhEU2xp?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
