@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "generated_at": "2026-10-13T23:32:09.750553+00:00",
+    "run_date": "20261014"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 102.21 (-0.36%)",
+        "description": "전일종가 102.58 / 변동 -0.3650"
+      },
+      {
+        "title": "미국 10년물 금리: 5.22 (-0.44%)",
+        "description": "전일종가 5.24 / 변동 -0.0230"
+      },
+      {
+        "title": "VIX 변동성지수: 15.27 (+0.39%)",
+        "description": "전일종가 15.21 / 변동 +0.0600"
+      },
+      {
+        "title": "S&P 500: 7807.24 (-0.06%)",
+        "description": "전일종가 7811.54 / 변동 -4.2998"
+      },
+      {
+        "title": "나스닥100: 30569.48 (-0.31%)",
+        "description": "전일종가 30664.70 / 변동 -95.2188"
+      },
+      {
+        "title": "다우존스: 51850.55 (+0.38%)",
+        "description": "전일종가 51654.95 / 변동 +195.6016"
+      },
+      {
+        "title": "USD/KRW: 1340.22 (+0.46%)",
+        "description": "전일종가 1334.13 / 변동 +6.0900"
+      },
+      {
+        "title": "USD/JPY: 158.36 (-0.10%)",
+        "description": "전일종가 158.52 / 변동 -0.1610"
+      },
+      {
+        "title": "코스피: 6384.24 (-3.65%)",
+        "description": "전일종가 6625.93 / 변동 -241.6899"
+      },
+      {
+        "title": "코스닥: 849.19 (-4.83%)",
+        "description": "전일종가 892.27 / 변동 -43.0800"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.557 (강한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 시스템 위기 또는 강한 인플레이션 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.35 | GEX +nanB$ (만기:2026-10-13)",
+        "description": "콜OI 173,091 / 풋OI 232,907 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.15 | GEX +nanB$ (만기:2026-10-13)",
+        "description": "콜OI 102,228 / 풋OI 219,441 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $166.56 (-2.09%)",
+        "description": "거래량 22,329,675주 (평균대비 1.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $781.54 (+0.01%)",
+        "description": "거래량 3,965,666주 (평균대비 1.1x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 40.5% (81/200종목)",
+        "description": "평균 MA 대비 위치: -1.6%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 57/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq slip as chip stocks fall, earnings season kicks off - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWElhakU3ODExbEt5OS1IbW5xS1luMUdSUk9SOEFwUlQyenYwTkExT1JjRm9VWEs3aXFsVUVqSTFQVmVfSGp6R3A3aWV1Q000ZzE2bTRNdjVpTmhXX19veGdzUW81cU5zRkRGeDBNeXdaTWotWkNLVC1NcElGbkdNajBWVzlFU2d1OUFqUm1GTFE2dmRwOVpYM2E0dlhBUXlOZlVTX1FWWHhkQk85MGo2VjBxYTYyODgyTGZmNDdR?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market Today, Oct. 13: Cipher Digital Drops 13% on $850M Convertible Note Offering - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXBrLW13dlNWU1JEVldLb1NnUXIxTFMzR2l1UGpZVzdxTUIwQk1FTU5PS3BCTmVzT05vUnlSZml4S3lFemNVRzJPdUI1b1NDSjR3TUNwVXRpSnZ3c0wwbnRhX1ZyUmdudWlmTGlmdFN0bTNxa0FTSi1FT0lvS3lIV24tU3d6Q1FWYmhUbVBDN2xqdl9R?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "S&P 500 closes near flat after big banks post earnings and memory chip stocks decline - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vWkJFUkNSVTNpSXFUNGgxZWtlWUdXSmt3eC04ZllUYm9ma3UtYUNMS1ZQbDhDX0R1am5LZlZDcmx5Q2ZkR1pUTVBaOFR1WHgtY0FTakRvVkNpY1dnSDljcEp4SGpHYkw1cVF4LUhYZndrbmY5MlRR0gF8QVVfeXFMTmZhUmNzY2Z3a2tVNVlDdHVPZXUzeUQ2a3Vjc2Y4OGZuUTdmYlRvdDhSZXhVZmN0MWpoRjNkd19QYzQxZjN6RXlLcGZGYk5jLUQ1ZUdUZVpQSHp6eDh5X05pN1lWY2JpRWlpenZDNDFGQTJSdGtaOVFrczZUdQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "The Iran war is costing American households $2,000 each, Moody’s estimates - CNN",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5URThOcldKbDAzVkFoX2IxZThObUpOSGVEbmZrNFBzZ252QWE2YzZ4dXNVQkJYenRIdGxiR3hEMVhwSzJZXy1rTHdGMG9CS0U3NlFMVXVVTmFwdkw2NG41YU9yb0pOQlFOQXVFODRDVElrUTVqZXJodTJoSzI?oc=5",
+        "press": "CNN"
+      },
+      {
+        "title": "How will a diesel deal with Russia impact the U.S. market? - NPR",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWdseENYQ19oTzJYWVNLWWdjc1hZd0s3dkxLc2pXN1VOVTJGcGpQR2J2ZXUtQ19PdC1qS3JiMXhoVlR0ajk0Y3BZNVdBNlVhWWlxY1BWV1gxdkhaYndwaGZvamNJbUdka00ybFAwNVlzOTZhekpKM0l2VWpjdzQ3OHZ4TWFpZjJWYTlZR2VkbEtKYy1JRWN6YVZuNGFSaERIZ1RR?oc=5",
+        "press": "NPR"
+      },
+      {
+        "title": "Chip Stocks Tumble on A.I. Spending Fears and Rising Chinese Competition - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSWJ0ZG5rRVhWSUQyclV5TE1zWHpBVmY1SDRRUkRMSUM5RThQVVpsakFsQmw5UG5CV04tMkFGVnhHNW4talZ2bHlxbDVrUGlweGxEcFhzWWwzX21fSTRYUi1PNS1pU1lVczFsOU1vRGF4R3BJUmppXzhfdmJTSThBRFZ3?oc=5",
+        "press": "The New York Times"
+      },
+      {
+        "title": "Dan Ives Names Top Tech Stocks for $4 Trillion AI Boom - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTk1UdXFMQ3ZoelBmNGhmdTR5RVV0WDlrbkxvQmE5MzNjWTJRTHZ3QWdsbGVjckpLMGxRNkluWHliVUxKeGdYZnMwTUh2c3VwWHhFTmJwTVZSZ2t2NThoVkluVUlJZ2FFdjczSGFGbjUtRFcwdV9Tbk5lYTZ6RmJXc2FVbTZZS0xTVE94cXlEN2U?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock futures are little changed as traders await consumer inflation report: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5LXlOZnZiVWJqSnQ2TzM5RmJkamRlQ0dDeFQ3QjVMOVB6TFFUaENwSGJsOEk5enQwRVRPSUN6cGlDNldmXzdTX3ZLYmpiZFJaWW9WbFF1RUZYRjhuMk5NZ0lWa0JtREEyM2ZXV3R3cU9KWDVwYk9UbNIBfkFVX3lxTFBuUXFxSkctRkxsaWZMQ1ZEUzNLaDlwMHZzMjlfcW5wdmpTbklYcU45bks5WmY0SUJvdWlTWERCd1NHUUwwcjNJQ2V2ZkUxZGtWem16cmU4VXNVdnpqUnR5MzZkQVBsTnlBWmh1bDJ3THRyQVZfd3Y0aHptTER4Zw?oc=5",
+        "press": "CNBC"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "KOSPI Plummets to Barely Hold 6,000… Fears Over China's Semiconductor Catch-up - SBS 뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jOXB4Q0NfT1FkNEgzck9hSDJUUjVoWnlsXzduZ1ktN05KaGRXeW5vXzE1RFJaeG5kS2ljYy1MUkVKZ3ZqMUF5Mjg1VXo1c19yVE1OQmF0N2MtXzJIbVNIbW5hOWs5bjd4X3puQldB0gFmQVVfeXFMTVdtNkl1NjJuMVRVbHFRZVlQNHdSTXFwSHB4TkFFak5yWF9oQVpxRk5TM2hTVWMwYlZzakREUlJ6SmpJMWdpRzVaZ0U3NmVQc3pQRENMbUJTcHhXRTd1d2V1TDF2VFFR?oc=5",
+        "press": "SBS 뉴스"
+      },
+      {
+        "title": "Here's Why We Think Tokai Carbon Korea (KOSDAQ:064760) Is Well Worth Watching - Simply Wall Street",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaXhDRWpkWldIYkRnVmtGLVFhbHJSY1lKMzBMWlZ3amE4SWE5QzhtYVNCRTFrVUVnODVwMmU0YWFucDYwYWxSNWp3S3JVY1ZqT3FUdFlrZEpOSEpfTDNjQ2lXYlZIT25kdnMwcnRURWRHN0VWSmNMZllxVVo5UlQ5WEtvbDdPSlZJYmdsZUwtWi1BSUpkQ0puZGRZOUlDWFlfampfUDJQemdKNVIzV2ZTRThGYmJwdlYwMHV2c2poMy1fcmVQblFKVUtEVlAzZE1mdFpfUlRCUHl4b2M4aDRmbm1yRUVzTzZs0gHuAUFVX3lxTFBQT2ZkMm5VSGwzU0pxX1cwcFV3Z3cxcWxnUTN4ODhLeEdCeE16elJrRVJzVGpOT3VkQ0NXYzhnOXVqMGtnSElYa204MkhFUWlBbWlTSGlxMVl6NmpqSWpSZ1V3NmNlNVVOWDVzSnFnNWx6OXJLZWlHOUxIVzJCcGlHbkdvd3pNWVNXY3JpQkZzUTZoeUswZ0twcFU0Z1VkYjIzSzA3QTZ4RDdVM0tWM3JpODdIemI2V2lyQUZ4Nk9rMEFwWUMzaklualpnT3NPOW8zX3FseVhSOW9HLXFacGVZVWw1TnpjLTFlbTdWUFE?oc=5",
+        "press": "Simply Wall Street"
+      },
+      {
+        "title": "We're Interested To See How RoboRobo (KOSDAQ:215100) Uses Its Cash Hoard To Grow - Simply Wall Street",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWExNaXcxeXZYbHpRT0d3cHJWcmJuMEh1c3RJVm81NHFiQS1IbHRtOUlMel81TTl0MGd0SXJJajZZMnhTQUgxLWVWcGJaemFkem9YUDlqY0dLcVB5Y1RaVjFOZGRyVUNWTXBISWczYzVsNlNNWWQzOU5QRUZWSFc1bjMtbmtHSTd4V3VhZlpjZ0ZMelFOejMwZk5heWlsVTFSRGl1ekhYRDhRWi14ckxhdmFEZE1lTWFTai1VMkZKcHFvN0hrUmhQOE5FQldLTk9Uek9BNi1sS0lUd0VSRnpZ0gHkAUFVX3lxTFBQSjZDeFRNM01HUmZ1MDlQTE9sNFVpLXo0VjViU29DTHo4dzRtYV9PNTktcEhGNXZlbTVNVk5VTTZydGwxS2N3T0RnY0V2a3ZtNnhfak1JcmE1aGpqaTNjQjBlcVFwQnFNaGtRWG4zbUtnT21abWlFblNOcTlkX1cyWUQxb2JrRzFNaFp0ekF1aFZ5M3BKS0ZzdS1CYVBCNFVXR2NKYm1WUG9CNXpHVEgzQTNPUHEtOWFmQmplSTdKeTQ2bWtpdGRVVGdEcUw2RlhkSXk3VEVoakEyUnBHUzVZVWVpXw?oc=5",
+        "press": "Simply Wall Street"
+      },
+      {
+        "title": "Vietnam’s FPT Joins NAVER Cloud to Expand AI Factory Services Across Asia - TechRepublic",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNjdwWFNMbXQ5ZGctUmdZVktaZnhLck9IWldtNmpoS25UZHVMYjczVDl5c0ZUZ20zQ2xvT0E1REU5ZUZwNzlKR204S0tZektFaTM4SjJVV2JnREdSOEM0V0JZODJPQmtfRjVndVhIbkJCS3ZFZ01YWVg0eDVnYjgyLTJLT1lwT3F3U3c2SXhZLV9jX1MtZkNiZ0VB?oc=5",
+        "press": "TechRepublic"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
