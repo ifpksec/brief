@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "generated_at": "2026-10-14T23:32:56.392834+00:00",
+    "run_date": "20261015"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 102.53 (+0.34%)",
+        "description": "전일종가 102.18 / 변동 +0.3480"
+      },
+      {
+        "title": "미국 10년물 금리: 5.19 (-0.52%)",
+        "description": "전일종가 5.22 / 변동 -0.0270"
+      },
+      {
+        "title": "VIX 변동성지수: 16.87 (+10.48%)",
+        "description": "전일종가 15.27 / 변동 +1.6000"
+      },
+      {
+        "title": "S&P 500: 7718.94 (-1.11%)",
+        "description": "전일종가 7805.45 / 변동 -86.5103"
+      },
+      {
+        "title": "나스닥100: 29950.82 (-2.02%)",
+        "description": "전일종가 30569.48 / 변동 -618.6641"
+      },
+      {
+        "title": "다우존스: 51621.48 (-0.09%)",
+        "description": "전일종가 51670.10 / 변동 -48.6211"
+      },
+      {
+        "title": "USD/KRW: 1340.94 (+0.05%)",
+        "description": "전일종가 1340.31 / 변동 +0.6299"
+      },
+      {
+        "title": "USD/JPY: 157.99 (-0.21%)",
+        "description": "전일종가 158.32 / 변동 -0.3270"
+      },
+      {
+        "title": "코스피: 6035.35 (-5.46%)",
+        "description": "전일종가 6384.24 / 변동 -348.8901"
+      },
+      {
+        "title": "코스닥: 837.03 (-1.43%)",
+        "description": "전일종가 849.19 / 변동 -12.1600"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.447 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.82 | GEX +nanB$ (만기:2026-10-14)",
+        "description": "콜OI 214,243 / 풋OI 390,597 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 2.13 | GEX +nanB$ (만기:2026-10-14)",
+        "description": "콜OI 102,433 / 풋OI 217,811 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $159.83 (-4.04%)",
+        "description": "거래량 17,900,400주 (평균대비 1.1x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $773.09 (-1.08%)",
+        "description": "거래량 4,999,099주 (평균대비 1.3x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 39.0% (78/200종목)",
+        "description": "평균 MA 대비 위치: -2.1%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 62/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq fall as tech falls after hot inflation report - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbmNfYW1YU2h6RkdxZGI0Sk1Obko1aUlMT1FydzFhRFR6ZzJ6c2R0YllDOFlDYzBjaTVsVFlucHFDWkhSc3kzNnBpSTJWb1JXb1ZHTGg4eXRCZG42MWJfUTdSQzJic1BDc3A4cHp6MUhDQVlaRU8zWXdXVlRBT3ZybEJlVU5naE5jNjBYR2FwNWt5SE5mbUdTby1mVlZqU0lSbjZrYzV3WnBNSHpKemNZZg?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQzRVZXBqNWQ1NGhQaGEzbHNXYS1LUnBVd3hrdlBwZmdXYndocndNaXVkWDV0OEpGSUVVQ3lCR2dheHZJTnFxVnNwelJsVUJOYW5ZTWxpc3pMRzRqekVyOGFsR2VNTDhGZ0VZVElIMzkyRlRaVVVQYnBJVU5TVVhsZEJJa3JHN3JvRmxQU1NkUS1zRGdtbk5JY2R5X0M?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Jim Cramer says don't give up on this unpredictable market. Here's why - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83VjZieVhWSXFlblhlZkltMHRnemdkWERwUVdvVldWSXZFald0SndJblRZeXlWRE9aUFAxT2Rwdi1FRHphV2FTcU1HY1Q3bE4xUElzaVZmbDhFc3JMaEdram5nZEpDNENuVmlLNV9BRW1DSUVTcHVCLXRPREo4TXfSAYQBQVVfeXFMTmpSLW9EWm5vNEVCOEk5a3VTTTlkUlA2YXZNME5pMDdtNEhWVFllMDA2bEpLdUhHNFJyZXdMd25qSjAtWERXZ1lzS25rUjRnU2RFT0RHWkV5MVhmOG5xRzlObTlWWUl0SXhYaEYwVXpqczVBZVUyR0s0eU40dEp2cEtLT25E?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Federal watchdog says 9 large US banks denied service to customers over political or religious views - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYVNNNnhGbVg5UlFkdk93OGNOV2prcGwyRU5XelBhd1BzWVp2VlpJZVFfclB0WFFvamx6VTJ2SW5zRDE5cllhY2xaVEVNZmhUQU1xT1NydVVYc3g1OFhxQU1VelRNY2lyd0hVejJpSEhfNmNDUDlfSFh6RXk0alNJQmNQRFNUU1o5Ry1kQjUtUTBBbkhENGFHTlQ2TTdFeV9rSHQyakxXSnUwOFZ0Y1pqTDVwM3pDci1FMll6UnlWZ19UQmY3RVE0d0l5enBwZ3RkR2xIcDhXUV9XTC1PSnJMRFZxZ1R0T0h3U3JZbVRB?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Trump was trying to force prices lower ahead of the midterms. But Iran gets a vote, too - CNN",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBhQXJ5Q21Ma1ZBU1cwNGFTanFZN3RzcWVwUUdDLWxiRU5CV3Y4d3JKX2h3blVyNXZoeE9oazNVemc4UzNNZ29yVXEyZzJjMXhKdjQwZjNZTU01SU1ZTHdVWnFHdnV3akt2alkyNkNPNi1md2RRVENZbg?oc=5",
+        "press": "CNN"
+      },
+      {
+        "title": "Stock market today: Hot inflation report drops tech, drives S&P 500, Dow and Nasdaq down - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNd1dyS0JCRnFXYVM3dS00OUFGc2EzdV9pRm0yR3M3TndxOF84SE5iN3BNcmN1UWpnWVFBVmhTVHhNekczM3FKSVNZUUdXLWZGanM3c09sMDFFa3dPV2VoMUJUekhYaC1FZlAyclBSQVhIV1c3c3dsUUZCV09RWkFUSHJZRVNkOG5kQXV4eTNlTFhnVXhzWElwU0pVYlpKUUNucEplSWNHdzRSbDFSbFJuYi1UWkRiT3U5VUotYUM1cUhKMnVuTndydnR3?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stocks Turn Lower as AI, Tech Shares Slump - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWDg0c0hqOWpocm5NRkdFQUVhdHlsbUFoTDloRFFRdW12ZUhwQzRRRGFYZXhRQUQ5WFoyMm93Q0tJd2JkbWpQR3JDZVM4Q3MzdWhXTzhkWTJDUm0wZlZSSGg2WWhVdWtEaXNVanNPNElNMjFpc2J4dnl2cTMzejFPUWp2c1pvN29sQW4zSk5OSjBYSF80MEhTd2xXa1RaSmpqQlhpS0J6QUFqeVZncXo2azFMQ2Y?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Federal watchdog says 9 large US banks denied service to customers over political or religious views - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYVNNNnhGbVg5UlFkdk93OGNOV2prcGwyRU5XelBhd1BzWVp2VlpJZVFfclB0WFFvamx6VTJ2SW5zRDE5cllhY2xaVEVNZmhUQU1xT1NydVVYc3g1OFhxQU1VelRNY2lyd0hVejJpSEhfNmNDUDlfSFh6RXk0alNJQmNQRFNUU1o5Ry1kQjUtUTBBbkhENGFHTlQ2TTdFeV9rSHQyakxXSnUwOFZ0Y1pqTDVwM3pDci1FMll6UnlWZ19UQmY3RVE0d0l5enBwZ3RkR2xIcDhXUV9XTC1PSnJMRFZxZ1R0T0h3U3JZbVRB?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Here's Why We Think i-Components (KOSDAQ:059100) Is Well Worth Watching - Simply Wall Street",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTEw5R0dHYUZMWms2eWxWVFRNUHFGeGEyMVRtMkxHc2F1QjB3MXFfQkQ1RW5mMEpCak5rMmtJUl91SkNPTzh2aEdnX1hwMkl1Sk9mOGpBYnVMcmQ0QlFkUzRQQ3g3R2FtdHhVRFY5d05YX0JubHh4N2k2Y2lsclZFbllYSjB1MDV5Q0c3NnZEUThDUXAwc3VzLUF3bDJlakQxNUhOWmtXOTVUZWpZa0x2LVMxbW0tZElINXRqeTl6b1BJUGtBMS0ydnNYNU5Cbk1zUGRR0gHYAUFVX3lxTE51a1kwQ2JNem9fNGNRYUxDT2ZsX0l5OU1KcDdyaGhsc2pQVlZ1UGNqdDBjZmZENmc1WmVvZWY1OUVJWjUzWDczNk9nS0hFZ2J2SFpqbmNlV3VDWWFxOU9JSGhFcl94MC1pYXFsNGM5M2gwZkd6Q2NjWHp3Q0NyN2NmeExXcEVUbm1kTkxxVUVmZVNtYTFjaEdTNGI5dmhtTkRROTlmZGFnVWw3dnhWblZGMzIyOW1sclVjdkI2OG5pdWVFcXI1Z1BvVE1Vb0hLTWpNTkNDWmdjYQ?oc=5",
+        "press": "Simply Wall Street"
+      },
+      {
+        "title": "Logistics robotics maker PyBrain AI raises $485K from Kosdaq-listed OA - Dealroom",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNllPOHZrUEVyQlZva01lZlY1Rm9JQnc3dnZCU0xtdEo2UVZpSmtlX0pSZlJxd3hBNmJKYlhaak02SnB5NExUM1hoTjhReU9DSllBUmxVRHBTbjNtVlAzaVdRc0lfWXREbl81aTF6NUxVM0VZU3pQUFVxRXJENF9pY2FZUlhMVXF6aTlXNVBDSDBocGxuOWNrWDBlemhGTldpNnI0dURR?oc=5",
+        "press": "Dealroom"
+      },
+      {
+        "title": "KOSDAQ Slump Drives VCs to Early-Stage Investments Amid Startup Struggles - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQjhZcGkyTVdmcDlrUFRBMFlHNnlBaTRjX09mOVVSN0ZkMUR6b2RXeVJJU05xaW1rNk92anJNdWVzb2NPaW82WDBvSDJhb0RlZnIzcFRSbFIzU1BWVW9zbWQzQ0RXNUMtaHNEMkF5a3kxdzVfaGtJWlB0SUx5ZW93c1NaMXJjNF9V?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
