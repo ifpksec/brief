@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "generated_at": "2026-10-15T23:32:04.260673+00:00",
+    "run_date": "20261016"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 102.00 (-0.53%)",
+        "description": "전일종가 102.55 / 변동 -0.5460"
+      },
+      {
+        "title": "미국 10년물 금리: 5.09 (-1.95%)",
+        "description": "전일종가 5.19 / 변동 -0.1010"
+      },
+      {
+        "title": "VIX 변동성지수: 16.46 (-2.43%)",
+        "description": "전일종가 16.87 / 변동 -0.4100"
+      },
+      {
+        "title": "S&P 500: 7744.06 (+0.33%)",
+        "description": "전일종가 7718.94 / 변동 +25.1201"
+      },
+      {
+        "title": "나스닥100: 29935.59 (-0.05%)",
+        "description": "전일종가 29950.82 / 변동 -15.2266"
+      },
+      {
+        "title": "다우존스: 52177.69 (+1.08%)",
+        "description": "전일종가 51621.48 / 변동 +556.2109"
+      },
+      {
+        "title": "USD/KRW: 1340.43 (+0.08%)",
+        "description": "전일종가 1339.35 / 변동 +1.0801"
+      },
+      {
+        "title": "USD/JPY: 158.11 (+0.09%)",
+        "description": "전일종가 157.96 / 변동 +0.1490"
+      },
+      {
+        "title": "코스피: 6008.81 (-0.44%)",
+        "description": "전일종가 6035.35 / 변동 -26.5400"
+      },
+      {
+        "title": "코스닥: 823.88 (-1.57%)",
+        "description": "전일종가 837.03 / 변동 -13.1500"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.361 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.71 | GEX +nanB$ (만기:2026-10-15)",
+        "description": "콜OI 231,354 / 풋OI 395,508 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.50 | GEX +nanB$ (만기:2026-10-15)",
+        "description": "콜OI 153,216 / 풋OI 229,788 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $156.22 (-2.26%)",
+        "description": "거래량 32,930,295주 (평균대비 2.1x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $775.16 (+0.27%)",
+        "description": "거래량 3,701,927주 (평균대비 1.0x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 46.5% (93/200종목)",
+        "description": "평균 MA 대비 위치: -0.8%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 53/100 (Neutral)",
+      "description": "중립 — 방향성 불확실, 관망"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Dow jumps, S&P 500, Nasdaq gain as AI jitters fade - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXMtT0xubkZXQmJFT1dISGM1VFFqOGdIWmxYOXhTV005LWVDNEw0UmNCVHd1d09ycUxoNWJJWF9BRlRMdG50WU92Mm9PSHloUHVOaExscWlJWmZPbnA2WlQ2MjQyVGZXNzR2Ui1jSmZ5UWZpc0hxN2xpYkd3dGc5Wlp2enA5c2g5aHkxdzlJQlgxUVFTZGVuVkpLWmJ3Q3hJWUpYNEpZMEk3VHg2VDU1V0Q1Z0gyZXV5SjVXMV9xMWxaYUZzU1ptNl9KOTM?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Markets News, Oct. 15, 2026: Dow Ends Up 550 Points as Investors Rotate Out of Tech Stocks; Wholesale Prices Top Expecta",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaVFEYWJaUU5zbkJodmVHRWNMU1VMSmNmN0NsZXdldlA1Nk1LSFJjV0c4T3UxSkRJSW1sV0tVVmUwTWx4eGV6MEJMelRjNGhGRXhUakN5NXNqbUlfUzJBUXlFeXhoRV9RdTBIT2UyT1BTWmNQUWF1Mk5sb21yWnA5dk1KYV9mOGRKOXdtZ3lTeW4?oc=5",
+        "press": "Investopedia"
+      },
+      {
+        "title": "Stock futures are little changed as S&P 500 heads for losing week: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93d3pqaDdoN1RiVVZKZnIyYl9SZ05PdXNGc3JIMjFqbmF4Um96Z1prZVJVcHBrV3g1YmR6X1ZJNEhINUUtRm5ESXVtTTFMdGUwbUs4N3BjUjNZQzhDX3pjRmhmMlY1YzVjbkFtM2RkWUZZQzhtYURJ0gF8QVVfeXFMTWxnYjlydmY0c2ZnQkdLcHo2NFZVcFpEWUNvcGUxOUZXSVhzSVE5UDJGMUc0ZGttWF95YVFTTmJZeGJpUXYyV2NicmtfdTIyTDRXdjdxemNCaDdtZlRVRzNWU18tWlVDNjdOTU5pTlNPOTZmdWJTRGUwRmE4RA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Dow rises more than 500 points as investors rotate away from AI trade: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pUGoyb2Q2c1FvdW5RZUNXMGQ4Vk55SWZ1RGlEZ2xocGYwZkRlbGU5WUtNNzB0N1ZUdUxGank2bFFkcUpwVWtYcTNLUUhLUG12SUVpX0txZkdiamtWZXB0SHVQLW83dUM0cFI4YnpScHdmVmE3SjVv0gF8QVVfeXFMTnI4TmlaWHJ3endjbXZvUXlYOHRhV3lyb1lvNjNrYnVDVmYwUmxxQ0M4Vm42WDR2WUxZWE5CRnRhaExSY1prYkNlOUNId3R6akpzcUdlUUxfZmEzdFZCZnc4bjAwZDhYVnpVR1lBMTNHa0JGREd3NUQtaDlUeA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: Dow jumps, S&P 500, Nasdaq gain as AI jitters fade - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXMtT0xubkZXQmJFT1dISGM1VFFqOGdIWmxYOXhTV005LWVDNEw0UmNCVHd1d09ycUxoNWJJWF9BRlRMdG50WU92Mm9PSHloUHVOaExscWlJWmZPbnA2WlQ2MjQyVGZXNzR2Ui1jSmZ5UWZpc0hxN2xpYkd3dGc5Wlp2enA5c2g5aHkxdzlJQlgxUVFTZGVuVkpLWmJ3Q3hJWUpYNEpZMEk3VHg2VDU1V0Q1Z0gyZXV5SjVXMV9xMWxaYUZzU1ptNl9KOTM?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock futures are little changed as S&P 500 heads for losing week: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93d3pqaDdoN1RiVVZKZnIyYl9SZ05PdXNGc3JIMjFqbmF4Um96Z1prZVJVcHBrV3g1YmR6X1ZJNEhINUUtRm5ESXVtTTFMdGUwbUs4N3BjUjNZQzhDX3pjRmhmMlY1YzVjbkFtM2RkWUZZQzhtYURJ0gF8QVVfeXFMTWxnYjlydmY0c2ZnQkdLcHo2NFZVcFpEWUNvcGUxOUZXSVhzSVE5UDJGMUc0ZGttWF95YVFTTmJZeGJpUXYyV2NicmtfdTIyTDRXdjdxemNCaDdtZlRVRzNWU18tWlVDNjdOTU5pTlNPOTZmdWJTRGUwRmE4RA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: Dow jumps, S&P 500, Nasdaq gain as AI jitters fade - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVXMtT0xubkZXQmJFT1dISGM1VFFqOGdIWmxYOXhTV005LWVDNEw0UmNCVHd1d09ycUxoNWJJWF9BRlRMdG50WU92Mm9PSHloUHVOaExscWlJWmZPbnA2WlQ2MjQyVGZXNzR2Ui1jSmZ5UWZpc0hxN2xpYkd3dGc5Wlp2enA5c2g5aHkxdzlJQlgxUVFTZGVuVkpLWmJ3Q3hJWUpYNEpZMEk3VHg2VDU1V0Q1Z0gyZXV5SjVXMV9xMWxaYUZzU1ptNl9KOTM?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "US 10-year Treasury yield levels not unprecedented, BNY CEO says - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUzhYSEVjZzZiS1NmeVZ6V2d6OG5oTDFuak5yWWZyb2NqeGFWZEMxTFBBTWdhV1ZMN1F5Q191M3VuZ2szMzZDT1dPS3l0bTVlWHVkQnNFSFV6YVJnZDFfdW5OYllhTmZFeTBCUTNZVkpueHlESlVzSFVRZWZwQmlSVlJCR3hPR29jNlBhM0NlLUN2c0t0Sm0zdkdYMnJ3V0VGc29QRzEwZjlwaXV0YVIwUU8xd2xEZWc?oc=5",
+        "press": "Reuters"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Kospi plunge and Solidigm listing fears fuel backlash against ruling party - Korea JoongAng Daily",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYWk5QkxmMm5qMXhqTkZTVFVibW1nUXoyOTFLd1NYRWtqcG1rdlhCbncyTkt5WjhGTUFCbFhnQTlVSjZGZ1RyVkV6ZTJMbWJ6MkRMbHVpZjRZN00wcG1tOFJ1cFRtS3dtc3NUeERrU2ZhdThzRXAybm9nWk8zbTBtWlh1QnJCanFKVldSSUN1LU5RWkd0WE9Ua2ZrVWcwN2lsU2NWdDJHcjBZNk51dnp6bWdvVUR0WXJDVmdpWkp6WXpxZw?oc=5",
+        "press": "Korea JoongAng Daily"
+      },
+      {
+        "title": "Kospi Plummets 7.5% in \"Black Thursday,\" Falling to the 5,500 Range - SBS 뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ORHBZY1pOazFWc1A2RDNFLUsybFBpaWhBdWVJZElSWm8xM051VTBnTkVFeDB6azE4SE5xX25KUVlQM29QMHVPN2hRd0FwNm5mbFUteThCYXpYczB0RHpzMUt3OTB1czV2eWt0UDRR0gFmQVVfeXFMTzU2cWwxM2ZSeHNYdExHWFQ4ZHBacnlFOEZRb2lVVnFwVWV0dy13R2dCRFlTdG9Uck5XNllhbTBlSHk1TnFILUZQSVJaS0cxQ2JLak5GMDhfNTJWT05sZHAtOGFvaXFn?oc=5",
+        "press": "SBS 뉴스"
+      },
+      {
+        "title": "S.Korean shares face downward pressure as retail margin debt hits 3-month high - KED Global",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Mc0gwblEzeU1hSUFMaEY4ZnR1R0kxYzVTY0NGa0ZmNl9tM2FETW9RdE9tQTZ6R3p6cVNXRzBWWDZXQ0lBM2ZkREMwYUlHVXVmdS00cVFXSHJEUjJ2alVCUlNxQXVwMEFSZ1lCSzFENlRya2lHSVlvVnZ3?oc=5",
+        "press": "KED Global"
+      },
+      {
+        "title": "Naver Pay, Kakao Pay, Toss Notify Users of Long-Unused Prepaid Balances - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUhiWGotNVRUT0FaUHpadzA1NHhNb29XLWYzNHZqaGUtTk9NY2M2VEFTNWM3QmRaTWpod3BXQ3ZxVXlPRDBiVGhFUEhBMnRVdG91X29BNkhYZmxZaTY4VlZweHJpMzQ4UG8tNllsWTRROHJyZDlWX1d0cXlCNk55aUtDWmNGZXpwNTdPb05n?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
