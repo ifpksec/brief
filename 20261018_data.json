@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "generated_at": "2026-10-17T23:31:43.218383+00:00",
+    "run_date": "20261018"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.84 (-0.16%)",
+        "description": "전일종가 102.00 / 변동 -0.1600"
+      },
+      {
+        "title": "미국 10년물 금리: 5.10 (+0.18%)",
+        "description": "전일종가 5.09 / 변동 +0.0090"
+      },
+      {
+        "title": "VIX 변동성지수: 19.99 (+21.45%)",
+        "description": "전일종가 16.46 / 변동 +3.5300"
+      },
+      {
+        "title": "S&P 500: 7659.44 (-1.09%)",
+        "description": "전일종가 7744.06 / 변동 -84.6201"
+      },
+      {
+        "title": "나스닥100: 29187.55 (-2.50%)",
+        "description": "전일종가 29935.60 / 변동 -748.0488"
+      },
+      {
+        "title": "다우존스: 52002.41 (-0.34%)",
+        "description": "전일종가 52177.69 / 변동 -175.2812"
+      },
+      {
+        "title": "USD/KRW: 1329.60 (-0.85%)",
+        "description": "전일종가 1340.95 / 변동 -11.3500"
+      },
+      {
+        "title": "USD/JPY: 157.99 (+0.02%)",
+        "description": "전일종가 157.96 / 변동 +0.0300"
+      },
+      {
+        "title": "코스피: 5668.05 (+2.05%)",
+        "description": "전일종가 5554.22 / 변동 +113.8296"
+      },
+      {
+        "title": "코스닥: 794.78 (+4.46%)",
+        "description": "전일종가 760.82 / 변동 +33.9600"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.329 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 3.13 | GEX +nanB$ (만기:2026-10-19)",
+        "description": "콜OI 94,121 / 풋OI 294,919 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.49 | GEX +nanB$ (만기:2026-10-19)",
+        "description": "콜OI 89,346 / 풋OI 132,830 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $150.44 (-3.70%)",
+        "description": "거래량 20,383,100주 (평균대비 0.9x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $766.67 (-1.10%)",
+        "description": "거래량 4,693,200주 (평균대비 1.2x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 50.5% (101/200종목)",
+        "description": "평균 MA 대비 위치: -1.0%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 55/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Lam Research vs. Applied Materials: Which Buybacks Are Better Covered by Cash? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV082S3ZTRERfWmJrX2FqaUdIVnlFR2VZM1lhN1QwVWRxNmU2OFU5S3l1Q2FIbU5CREszMUNiUHFUbzJGR1ZDN0t2T1ZGSVp6QmlSaGJ0U0N4UU5HdEpkTTljT1YzWFd1U3dFWDM2MzdBODF6Z3ZVRm5aRkJqa0J3Y0liMWZuU2M1QzE5OFcyN1Q4ekkxZDZsc1JoYm5MQjg?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Micron Looks Cheap on Earnings. How Much Can Profits Fall Before That Changes? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWW4tQnYtcFF2NHVDYlA0d2IzLUxOR3FWUkdONXVfR09NVF8xalRRNERvc2pOVklxUmNXTTBCSTJlRVJSVjE1N2pxeXVDLU5PZVhpQ0d5ODZFUDZhbURfZVVhY05mdXNNQTgwUmFMOWhJT2JWb1p1Tl9QUUQ4MUR6bmk4bjVYZlFBV1B5b3lmSGxLQndkSlB5cGRIODJZdw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Can Elmos Semiconductor (XTRA:ELG) Justify Its Price Through Cash Flow? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeDZfTUp3QXVHR1NtXzRMN093WkRUZzVSYm9nbEJ6eEFieXNfbFBuNVRjc252TnJ6R0xidHM1b3VTS01oTkI4TDBleFVOaVpBRjQ0Q19JS0N1X1pETklmb2lqM2dwVnhrZG9VV2lTd1FqV05BeGQ2VTVrZDZWVUZ6aDFiYm5oaUZZcHk0UVNXc2QyeXZGeWVMSmNaOThiaWgxazE4?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Potential BoC rate hikes loom over Canada’s housing market outlook - Mortgage Professional America",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMUJlT2oyRnd5dGFhU0RsOEh5RE94OWZIejJ3UlRHRS11ZF9POVd4UUFsMjYyd09vSVlsRk9sNTNKcVp3T1lFZERSVWFwcE10ZjJfaGJlT01uYzRUbWpMa1VxQkNlTTV1VXRTLUlOZnZLY0tYWnhIN1VieUFYWXlvWVhsUUJ1dUxvbUdFbVhiVEM4dnIxRklLT21NWk40NXdKMFdldTF0djdPcWktTTlvdnBFam5xay05TjdPMUVBWWtsVmpUZUhkQ0txNUk?oc=5",
+        "press": "Mortgage Professional America"
+      },
+      {
+        "title": "Vanguard Morningstar Total Stock Market ETF (VTI) Stock Price, News, Quote & History - Yahoo! Finance Canada",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PNWdBY2dHci1jSjlZeUxNSkxEc0VjaFBSVmc1U2pKT1ROM3BZQ20zQnpHUWFzM0wwNVl2bjJDRjhsaFN5cFY1MTVFbGp4UnhN?oc=5",
+        "press": "Yahoo! Finance Canada"
+      },
+      {
+        "title": "3 Reasons the Vanguard S&P 500 ETF Could Be Worth Holding for the Next 20 Years - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOTgwWVpacm5LSWJGU21JYU01Q3lNZVZfVDYtdmt3aWNLYUlpMjNKdEFral94WHctakJTWXVYMjdBeG9HX0FVczJ3VGdyd21yamkydjF4MzFSa2h5QVJwYkQ3Z1E5QjVlR3had1RiRm44bmlvRVhMeGdsbUxQNjNETzl4TnRGX1owc1phQ1dqY0hNTzA?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "(ETHH.B) Strategic Market Analysis (ETHH.B:CA) - Stock Traders Daily",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcGxBRHByT2pJTy1mLU1PR3d6aUlBWUw5bkRGaWtfRURjd0dDNzRDVVVQSnlWbExYWVdqa3QtSGg1Yk8tS2xSQ1RBdnlrbnNtemRNQjhaNGxaRFMyZ0NSclMwTFlpbS0zOUg4UEhXMnJsZWoxOFVhaW5iek1RWjIwSVlNODFYOUMyWXRrUVF6TUh4RE0?oc=5",
+        "press": "Stock Traders Daily"
+      },
+      {
+        "title": "Human EGF ELISA Kits Market To 2035: Cancer Research Demand Drives Growth - News and Statistics - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2ZfMUdXZlBxRWNWejB2MUVjanBRNEhPOTE5cXlZUUh3Z2dyZGFPNTU3THpvaE8tb3pTUVZkZHFiOTdSTzNqRjd0WkRVNGVIdWhSMlI0ZVhQR254SXRkeXJZQUZxTDVaWGdld1MwaUxrY3c4OVJsOFl0dHYxYk1hbVI1OE1nRXBFOUkzanRkdjRKbTBOX2dRbTJ3bkRXd2tzUF9hYUx2ZE9pY084eXZSSQ?oc=5",
+        "press": "IndexBox"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "KOSPI Rebounds After Seven-Day Slide as AI Doubts Linger - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbkhTd21QdThDZWh0T00zbXRTQ05tWlhFTmoxY2JxZnNTTEc3M2pVZHFWRGlsbEg1RnRtS2lrQWVTeFJmVDhUM1NhdFJ3MGp1VnVzQjZvTWxwbHVsclNUTEF2RzNmRE1aRHFyUjNjZmZCVzFDTlgwcEZ1Qi1jRzlOWjVzbms5YlVHOFgxYm4xTjdNa05qOEwxOUh5TDh2VW8?oc=5",
+        "press": "Seoul Economic Daily"
+      },
+      {
+        "title": "KOSPI rebounds as Korea eyes rate decision, US tech reports test AI hopes - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdmVVU05mSFZBR3R1ZTBwN0x3R0R1cTlCbG1QNDVlX0tacWg1UE9DdGo2eHloMzhORmwzc3NES2k4OW54Ym1FaHBhZFYwdHNjQTlwX2dfd2NZWWFMb1BHcGc2dG05WGtCazZhdlc3b2xjUDNrNDR5QWE5V3MxeU5oLdIBlAFBVV95cUxNc0c0SXJUN1NBeUNZbDV6dlBYaTB6Wi1wSVlISGQ5T1VZTmd6cnkzRG1rQUp4aEwwZEdISkU4dDNOZDc2YmZmMU9TTGxXS2kxMXJ1eTJVczRKNWtPWmRubXRkOXdDVWxJR1BVaDcxMzJJNE9fQVFZVE9nem55T0ZjSHpEbnlLZlhVR1hMZEhSVkMxVGNi?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "KOSPI rebounds as Korea eyes rate decision, US tech reports test AI hopes - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdmVVU05mSFZBR3R1ZTBwN0x3R0R1cTlCbG1QNDVlX0tacWg1UE9DdGo2eHloMzhORmwzc3NES2k4OW54Ym1FaHBhZFYwdHNjQTlwX2dfd2NZWWFMb1BHcGc2dG05WGtCazZhdlc3b2xjUDNrNDR5QWE5V3MxeU5oLdIBlAFBVV95cUxNc0c0SXJUN1NBeUNZbDV6dlBYaTB6Wi1wSVlISGQ5T1VZTmd6cnkzRG1rQUp4aEwwZEdISkU4dDNOZDc2YmZmMU9TTGxXS2kxMXJ1eTJVczRKNWtPWmRubXRkOXdDVWxJR1BVaDcxMzJJNE9fQVFZVE9nem55T0ZjSHpEbnlLZlhVR1hMZEhSVkMxVGNi?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
