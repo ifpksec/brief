@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-10-18T23:31:52.698837+00:00",
+    "run_date": "20261019"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.89 (+0.05%)",
+        "description": "전일종가 101.84 / 변동 +0.0470"
+      },
+      {
+        "title": "미국 10년물 금리: 5.10 (+0.18%)",
+        "description": "전일종가 5.09 / 변동 +0.0090"
+      },
+      {
+        "title": "VIX 변동성지수: 19.99 (+21.45%)",
+        "description": "전일종가 16.46 / 변동 +3.5300"
+      },
+      {
+        "title": "S&P 500: 7659.44 (-1.09%)",
+        "description": "전일종가 7744.06 / 변동 -84.6201"
+      },
+      {
+        "title": "나스닥100: 29187.55 (-2.50%)",
+        "description": "전일종가 29935.60 / 변동 -748.0488"
+      },
+      {
+        "title": "다우존스: 52002.41 (-0.34%)",
+        "description": "전일종가 52177.69 / 변동 -175.2812"
+      },
+      {
+        "title": "USD/KRW: 1334.36 (-0.49%)",
+        "description": "전일종가 1340.95 / 변동 -6.5900"
+      },
+      {
+        "title": "USD/JPY: 157.81 (-0.21%)",
+        "description": "전일종가 158.14 / 변동 -0.3330"
+      },
+      {
+        "title": "코스피: 5668.05 (+2.05%)",
+        "description": "전일종가 5554.22 / 변동 +113.8296"
+      },
+      {
+        "title": "코스닥: 794.78 (+4.46%)",
+        "description": "전일종가 760.82 / 변동 +33.9600"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.329 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 3.14 | GEX -1.6B$ (만기:2026-10-19)",
+        "description": "콜OI 94,121 / 풋OI 295,806 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.48 | GEX -0.9B$ (만기:2026-10-19)",
+        "description": "콜OI 89,462 / 풋OI 132,830 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $150.44 (-3.70%)",
+        "description": "거래량 20,383,100주 (평균대비 0.9x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $766.67 (-1.10%)",
+        "description": "거래량 4,693,200주 (평균대비 1.2x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 50.5% (101/200종목)",
+        "description": "평균 MA 대비 위치: -1.0%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 53/100 (Neutral)",
+      "description": "중립 — 방향성 불확실, 관망"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "US Stock Futures Rise Ahead of Busy Earnings Week: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0MwWG9IMlN3MDVva0xabG5QbzNhX09jY3JnaVVTSHJvYXFMSmtHaDhFZ2RTSHVFLUVKYU9za2MxTXA4UGZDN0E3YVk4dEF6QmtIc2Z5YnR5TXB4V2h1QWR6MllZYXRUcGsyOExYMEloYll2RDhHVklKRno4TGhCaGV3RC1OMFJ3c04wWUVCblVFUkdB?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Nasdaq futures gain as investors buy the dip in the AI trade: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HbFJwRngzU3pDcVBXWDRFNkVpcDJNc1RGR1RQWF81S19DMlk5WUhxdUREWWhVaHF4blA1aHZPakNFWTBlWTJPXzdUXzZ1Rm13cDZlVFpyQ21hemtsdWxMUlh0eXgzS25nSGZCWGtsVXpqMFJHd2Yw0gF8QVVfeXFMTUZvN0xGZEdUVnJjWFhMb2d1SnNvOERHV2lRREpINzJFM1JrNi1sM0FMV2Z4UnpGVVdZNmR5OTE2S1I3VGZwTVVQZkFhSF8tRWtDOWJ3cDB3bnNSaFRubkJNMXVuVkl3TWhIa2VscHBweU1RRHBjNnd3d0xTTg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "US rate rises are being amplified in global markets - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92RWVoUExPdG1BTDN2am82TnZpTXhyaXB6c092ZHJraVpQaW0tY2pUdGtJUDNjSjBrMHVoVlBrV09vdm1GdUdFRnpRWkNEMUhiU0w3dDllSW1oLURmeWRmMjlvVkloRUJOT2l4NnRTVHA?oc=5",
+        "press": "Financial Times"
+      },
+      {
+        "title": "Taiwan Semiconductor Just Proved Why It's a Top AI Investment - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVBfajlrTTNrNHNqX1Z1RkFYQUMzRDA3VUhkTkREWTN4My1hbXA5Vk5qdndORG1iOWk3Y0R2cmx0WlFvME1ZRFB4aEg2V0hVeUFmbmlPMFYtM1B6Tjd5MHRRU0dWOUZNWGQ3a2ZXUmZIU0t5YmdKdUNDc0huMDZWVHZBR3IxOGpfV1FBRVlLVE5WVDZDaUNJ?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "Cathie Wood buys $11.8 million of tumbling tech stock - TheStreet",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbXFIbWZrUWJSWEVXVHNrM1l4WXJ4M1dVY2o1VFVlamtFa3ZTSEN6VUp1Tlc5V0F1WFpkczdZcm9jRlFuOUdkWW0za09CM2lNYlkxUmFwVVd3LWJsVXYxcXpWcWpDcXhESS1BYmtCTzIxVUpCMWNHNnlIZUpERFRCWVJjZVc2STAway1CYkVPRW9ERE8zdV8zbFhEaTZ2TUo1bllDOHFZa2g3eFFIWlY4?oc=5",
+        "press": "TheStreet"
+      },
+      {
+        "title": "The Morning Catch-Up: ASX set to edge lower as US tech selling resumes - Yahoo Finance Australia",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTzM0amNQb2lpOUozTUh4OGlBZUx4SDhTbDVwWU04eG14c0RHbWRZLTl4bE0zV2hwcjRaNHhfTXNJYmJNSklMdzJJMW1CaXEyX0tRQk9vdWJpN0I2ZGQ5RTdPclBfN20yQ0pDNWRfOFdvaGgwMXFnanRFS2ZtZUNKUw?oc=5",
+        "press": "Yahoo Finance Australia"
+      },
+      {
+        "title": "Nasdaq futures gain as investors buy the dip in the AI trade: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HbFJwRngzU3pDcVBXWDRFNkVpcDJNc1RGR1RQWF81S19DMlk5WUhxdUREWWhVaHF4blA1aHZPakNFWTBlWTJPXzdUXzZ1Rm13cDZlVFpyQ21hemtsdWxMUlh0eXgzS25nSGZCWGtsVXpqMFJHd2Yw0gF8QVVfeXFMTUZvN0xGZEdUVnJjWFhMb2d1SnNvOERHV2lRREpINzJFM1JrNi1sM0FMV2Z4UnpGVVdZNmR5OTE2S1I3VGZwTVVQZkFhSF8tRWtDOWJ3cDB3bnNSaFRubkJNMXVuVkl3TWhIa2VscHBweU1RRHBjNnd3d0xTTg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "US Stock Futures Rise Ahead of Busy Earnings Week: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOR0MwWG9IMlN3MDVva0xabG5QbzNhX09jY3JnaVVTSHJvYXFMSmtHaDhFZ2RTSHVFLUVKYU9za2MxTXA4UGZDN0E3YVk4dEF6QmtIc2Z5YnR5TXB4V2h1QWR6MllZYXRUcGsyOExYMEloYll2RDhHVklKRno4TGhCaGV3RC1OMFJ3c04wWUVCblVFUkdB?oc=5",
+        "press": "Bloomberg.com"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Korea strategist urges tranche buys as KOSPI eyes 5,150 amid AI doubts - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWlRnOTRIYUd6RWpCZ2RSR1NEbGRpSW9QQTNTb3hFVUVOOTdHR25veHVKWEtjQVZHQUJnZTc0bVd0MWF4VTkwZDQ2OVBBOHFfcUY1dEpoQ3c3amRoVnFYNVZjQXNFc1FnZ1ozNGJwelVyOU1jN2JTVnl1aks4Yl9fZNIBlAFBVV95cUxNNWNnTlpPcjlsYnRyQXpYWEFLVlJZWFdqTl91VjQwVGlzdU9XcUtNNWZ5eDlRbmJqY2JqYThfbjJobmE2cWRBLWF1MTlGdFNrOE9qaWk3aWRrMUFYN0JDTU8wN1AxQ2JRRXZJekluSm1LaDQxa1lKZmpGVWdPc2Frbm90Z0R2Nk9mazVLdnZWLUtxa3lq?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Creatz, T&E Korea Open Subscriptions as Elice Group Lists on KOSDAQ - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcG82Q1FVMmRLVUR1Zk5od2JRQjVZT3RXbXVFTE5yd2JZTDdFdDFFeHl1MTZTbDVPSDN5MDhlSkZoREJCQTNDV0hab3MxVjZ6ckx0RWtJYVdjNTNVWm9HbnEzT1cyVzVmNjZBdTVTd2h2ekRsOFVnZzJiSFVFLWVXU3YyWktiOUx3ZlV1bXJ0Zk5rbXo0SS0yXzJabXZ5NXBOYnc?oc=5",
+        "press": "Seoul Economic Daily"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
