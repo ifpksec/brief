@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-10-21T23:32:17.537965+00:00",
+    "run_date": "20261022"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.69 (-0.04%)",
+        "description": "전일종가 101.73 / 변동 -0.0390"
+      },
+      {
+        "title": "미국 10년물 금리: 5.15 (+0.57%)",
+        "description": "전일종가 5.12 / 변동 +0.0290"
+      },
+      {
+        "title": "VIX 변동성지수: 16.68 (-3.64%)",
+        "description": "전일종가 17.31 / 변동 -0.6300"
+      },
+      {
+        "title": "S&P 500: 7757.17 (+0.58%)",
+        "description": "전일종가 7712.57 / 변동 +44.6001"
+      },
+      {
+        "title": "나스닥100: 29822.52 (+1.13%)",
+        "description": "전일종가 29490.28 / 변동 +332.2383"
+      },
+      {
+        "title": "다우존스: 52856.09 (+0.69%)",
+        "description": "전일종가 52495.88 / 변동 +360.2109"
+      },
+      {
+        "title": "USD/KRW: 1325.77 (+0.14%)",
+        "description": "전일종가 1323.94 / 변동 +1.8301"
+      },
+      {
+        "title": "USD/JPY: 158.12 (-0.09%)",
+        "description": "전일종가 158.27 / 변동 -0.1440"
+      },
+      {
+        "title": "코스피: 5552.74 (-3.73%)",
+        "description": "전일종가 5768.01 / 변동 -215.2695"
+      },
+      {
+        "title": "코스닥: 781.97 (-3.33%)",
+        "description": "전일종가 808.89 / 변동 -26.9200"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: 0.046 (약한 양의 상관)",
+        "description": "기간: 20영업일 / 해석: 인플레이션 또는 혼조 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.74 | GEX +4.3B$ (만기:2026-10-21)",
+        "description": "콜OI 163,603 / 풋OI 285,276 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.21 | GEX +2.1B$ (만기:2026-10-21)",
+        "description": "콜OI 118,921 / 풋OI 144,458 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $156.88 (+1.88%)",
+        "description": "거래량 15,357,933주 (평균대비 0.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $776.65 (+0.56%)",
+        "description": "거래량 4,748,906주 (평균대비 1.1x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 55.5% (111/200종목)",
+        "description": "평균 MA 대비 위치: +0.0%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 63/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Tesla Earnings Live: TSLA Shares Rise on Results — Updates and Analysis - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmtVSC1FUS1RTWFJU2t1bmFXenNxZHRsM0ZlRklRb3Fuajh2eXFDLWItTmpKTzZaU25lNzJ3dFZyR01BaXVIY01fbFNXVUVySHZOU0NYelhRSzQtSDlTOF9SWVQ1aUFxUGJKT0lzUExaOW9nNkZFYXpjcFNqT2c4QjE3SXRPdGs?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rise as tech rallies, SpaceX stock surges nearly 8% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWmZkMENBd2xWRThEdm05TlljYUFQZ0h6VkZQUk82Z0xYc0FUWVdHSE5VVjNHRkhzc2VxdlhjNzZVWU5uU2c0aGN2ZTNSbWM3NFU1TEhIVkJ5RW91STlORm9zT3BFTWJ6LV9UZk1EZTZiclJKTUlKM3JtbW5QOFhqcUQ1cThnaEdiQWtyQlZhY2tNVGdjUHlVN0luc3YtbFAyeTlnckh0azhlZjc1MTQwbA?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market Today: Nasdaq logs 1.1% gain; S&P 500 and Dow end higher as AI plays and tech bounce; oil climbs in after-h",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVkRpQXdOVzlDUERyeXdaOVdGZER5SmlMcVlvSHd5d3pHZjhLUGpRM0R4ZWtSTlp5bHRlTE1Ibl9haTJzdlBYRWNMWHJ1X2NyZU5oc2ZTWms1eWpGcUlwamNPb3ZXMk90SGIzYWtnUEd6blF6Mlo1WC1lMUVxdDNhMF9yRi1GZGpPV0ZMRDhYUGpBeXVscGxDRjF0MkxKNE9DcHJkdlV5dl9sRWRjcWFUWXRQMVpfY3RsbXlldEJJNlVMY1BBMkVB?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "S&P 500 notches 3-day win streak, Nasdaq jumps 1% as SpaceX and Tesla rally - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44andoMWc1UnV1MnYtOVNwMFJxU3dmRFhYVEFlWEg5c0NTblp5VmJZNDR2TW5jRUdISW5pUmRsTVFmWjlXS0lMUTNOM0NEZV8zeldYOEVYelVaYzMtMGJxaW0tWnZZSUhEU2FxeEppUzVWTnpyY2Y00gF8QVVfeXFMTlFJSF8yb09HR2JyVExWTG9XUTFYeWVyaGpad2ktb2FXTGZ0WnpHcF9hNzlnd1RBVGs0MXpXLXplRVNaWXo3a1d6OUd3U0x0ZVR2ZWI4N1RvVktDY1hYaDR3ZTlVUnhsM1pfT2Q2eDNPQUFHT242QmVUZDdGMg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "China Tech Stocks Slide While U.S. Market Rises: Alibaba Sinks 5%, JD.com and PDD Drop 4% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVE5fczJyMDh3bVRSMy01Ykc0bF91aHJFMGllZFhLcVZSUGlUd2JZTGZ5UFE1Y2NuekRBYmtINWhJdDgzUDdoQWhTUEFGSWg2U0EzdnJiTndYV0xoMkxFM3ZpeVJ2M2VsenpQRjVwS29EUXFWMXIyd2h0VHdiRFF4NHRBMXB3aDZGc2RGWW4zNGNpOEp5UTBWUVB3?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Semiconductor Stocks May Face An Explosive Move This Week (NASDAQ:SMH) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3lNWThUS2lQYVYzbjR0bElPZWZVWmhRajZ3QUN5NXdhVkhfd3JJM1NCMklORkk4anBjU2NrcVhpNHlXOU9UNklpbGozdXI1djk0Uy0yamxKMFhPRWNtMVBZanBBQjhhZHJfX2szVnZ3UlZYalItUzNWQkVNS19EcUFwMkJXQTJPSmluRDRZRlVBaFNKZEZYS3FEeFlqeTA?oc=5",
+        "press": "Seeking Alpha"
+      },
+      {
+        "title": "SpaceX, Anthropic and Nvidia Help Snap Tech Stocks Out of Their Recent Malaise - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVGRlMHl1WTZEajZ1em9odVlVQzlDd1FDX3VXQzYwaFlkZ2tFcktZT3g0Y1JLcGJVbTZxSzdHM3pSNzY3Q1MyZlpjYXRfVTZrRDVEM09velVsbk52MXdDbjJwUHkyUTlUZHR4X2d6SlkzeHFONlktS01wcVZJMDRyWW02NDN2ZVpyWDdLdk1ZbkpraDdYdWx5a2FEeFFYZklzNGZQSTE2UHNGYVZYVERiOUdjUzhpU2dCQWx1UkJB?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "China Tech Stocks Slide While U.S. Market Rises: Alibaba Sinks 5%, JD.com and PDD Drop 4% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVE5fczJyMDh3bVRSMy01Ykc0bF91aHJFMGllZFhLcVZSUGlUd2JZTGZ5UFE1Y2NuekRBYmtINWhJdDgzUDdoQWhTUEFGSWg2U0EzdnJiTndYV0xoMkxFM3ZpeVJ2M2VsenpQRjVwS29EUXFWMXIyd2h0VHdiRFF4NHRBMXB3aDZGc2RGWW4zNGNpOEp5UTBWUVB3?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "South Korea's Green Harbor Partners Seeks to Buy Control of KOSDAQ-Listed Foodnamoo for approximately $26.7 Million; Ran",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQeWNsWkJiUk9zLVAyWTNVdVhjdlh2ZmRTNWMxTlBwczhMNS01Z0ROeDlYMUQ5TGZ6N0Vwbjk3Vzk4RjRDdHJOZVkzLTFSZmw3S05NUDZSOWFOU0tBM01pZGROdzVuTFFsYzRPQl9SbjBKa1JPTHc?oc=5",
+        "press": "BigGo Finance"
+      },
+      {
+        "title": "FSS warning over Solidigm IPO stokes Korea dual-listing clash and SK hynix risk - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUEVTa2UwcTVkekFtNVhrNEZGMDg1VmktU01FOVNxZ3F2TEdncXY1WnktZFFMYUx3ZzlHdHdiUW0xY20taGlPZ3VrTV9xaHhPV2tFUVgwcDViMlUtTGg1NlFXTUlkcWhId1ZhNHE3YmhkWF82czdLaDNqM2RjM1ZWbtIBlAFBVV95cUxPb0VhdXJON0l6WEJ1WVpZNndYdFl5Mnlmbjc5U1BqNkctWnJZdUVJT2NObDg4YjJURndnT2ZnN1lCOXU3d0ZkWS1XbVJDN3BmNEl2Q3BxUlhQUV9jZEJtNFBCaGp5U1h5ZWZKZ3RlZUNISE1YVzBWTEtLaHU5MENhaWYzOVZhd1RnSXpVMndUbldwdG4z?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
