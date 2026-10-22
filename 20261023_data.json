@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "generated_at": "2026-10-22T23:32:03.361265+00:00",
+    "run_date": "20261023"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.62 (-0.16%)",
+        "description": "전일종가 101.78 / 변동 -0.1630"
+      },
+      {
+        "title": "미국 10년물 금리: 4.95 (-3.75%)",
+        "description": "전일종가 5.15 / 변동 -0.1930"
+      },
+      {
+        "title": "VIX 변동성지수: 19.03 (+14.09%)",
+        "description": "전일종가 16.68 / 변동 +2.3500"
+      },
+      {
+        "title": "S&P 500: 7663.43 (-1.21%)",
+        "description": "전일종가 7757.17 / 변동 -93.7397"
+      },
+      {
+        "title": "나스닥100: 28958.69 (-2.90%)",
+        "description": "전일종가 29822.52 / 변동 -863.8320"
+      },
+      {
+        "title": "다우존스: 52867.98 (+0.02%)",
+        "description": "전일종가 52856.09 / 변동 +11.8906"
+      },
+      {
+        "title": "USD/KRW: 1324.94 (-0.05%)",
+        "description": "전일종가 1325.59 / 변동 -0.6500"
+      },
+      {
+        "title": "USD/JPY: 156.57 (-0.99%)",
+        "description": "전일종가 158.13 / 변동 -1.5600"
+      },
+      {
+        "title": "코스피: 5735.66 (+3.29%)",
+        "description": "전일종가 5552.74 / 변동 +182.9199"
+      },
+      {
+        "title": "코스닥: 792.76 (+1.38%)",
+        "description": "전일종가 781.97 / 변동 +10.7900"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.258 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.09 | GEX -2.6B$ (만기:2026-10-22)",
+        "description": "콜OI 181,131 / 풋OI 197,770 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 0.95 | GEX -1.9B$ (만기:2026-10-22)",
+        "description": "콜OI 177,976 / 풋OI 168,258 → 균형 | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $149.06 (-4.98%)",
+        "description": "거래량 17,937,450주 (평균대비 1.1x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $767.41 (-1.19%)",
+        "description": "거래량 4,262,006주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 62.5% (125/200종목)",
+        "description": "평균 MA 대비 위치: +1.1%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 68/100 (Greed)",
+      "description": "탐욕 — 상승 모멘텀, 과도한 낙관 주의"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq tumble as tech stocks sink, Meta plummets 8% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXJjNWgxTzlXaXBEejRVWmJFVFBISzd6QkFvSTZxX0x3UWllaFJaTVVlOXQtZDlQTV9XZVQ3eWhVckdpLUhJZTVJUl9PSXU3dmtoSWZfM2xSUDZ3SXFVNFN3LWRhREx2NDVmbjhhdlJuM1pETkZ1RGowUjRFaWFReWRoVXdYRVlsdm9pMmdHSFV0N01mN3RIWUhwVEp2eG5PQzdEWTBhZ3dXaFF0MTl5ZVNfblF6Y0VsUmk4Qk1B?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "The U.S. stock market is fracturing into two camps, and it’s leaving investors with a brutal case of whiplash - MarketWa",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNR2VKQkQxR3RUaVlmUkhsV1VzOE9Jc1Y1R0NOVE8wZGRtWUpZX3FHbkZFMWNfWjlqejNUQzFvd1F5TmZoaFZsN0JlbkRVUjVVdlFNMW16cXZPWVNsSjE5RDlsTU1NZm8xOWZVSm1zNEdHYV9tVWtMMlhodXdsVzhVb1dyT1d6dnRtb01KQUhidmZTcVN2RkpZMXJMS2lpbEdmMGU3ZUY4emdHWjRaUXo2M0E5ZU9WTHNvVjg2Wjg2QnJFcEtpZWVjYWRqVm1Gem1abHNDRVFMX3AzaF90bG40LWljcw?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Southwest Airlines (LUV) Stock Rallies As Q3 Earnings Counter Fuel Pressure - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjR2TS1pcnhRU1RiSHlHSG5ibmlkZVZsUTRPZWxpSV8yV0o0cGgxWk03NUZkRG1BTFhWSWhaNzBfTmd0TlhISllxamVjSldnQ2VEOUkyWnRYRENEZWJzTWdUQ2NicFRKTVZ4UjM0aDBvTzM2SHRWdkRUN2FIUDdkWGhKVnlTbkZyc3Rsc2ZPNHR1NlFZRlZpc2Qydk9QLTNsTEtr?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Stock futures are little changed after tech sector sell-off: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNc0s0YTFvMUVGOTZsQTBGQ2xGQkNJNmZrZVlXOXpMTTV4VDFZQnF5LTBOVHpXMVI1cmI4QmhFNTVudnpRVDVUbldkZEZmeXl3MHI4aU1UaXVvbHNEdHhvbmNweVQ5TWdjaWRPQWpZLXJIYk5RTlHSAXtBVV95cUxPN0Q0eEc2UXVTTmwxcTZsY05HeEdKN0U1dDc1S1YxWmxZOXJlSm1NVVZDU3MxcXFKNlduX3NxckhxZ1puVlE1d09SZk4zSGhVcG9xNFhBb1d6Skd4NlZSdDZ5Y1I2NkxEXzJuUmxUMThNX3haWnlIeUZQQ0k?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Markets tumble as concerns about Iran war and high AI spending collide - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVY4cFhVNmoxak9SOVdrbDh3NkozUkd0Wmc3YmtsWW9PWUFQWFgtb25pX2xhV2liWmxyRktLSjgwRkxLRERjaTk0Y1RyLWdFeVVHNFphUDY4aDZyVWhHdWltNnBtM0JWTTFVRXNjY2prMWZnRlJpeUFMeGxnb1VlOGlFWE5FRGNtNlpEUUtKVVFzT2J5dWc?oc=5",
+        "press": "NBC News"
+      },
+      {
+        "title": "Chip stocks fall as equipment maker Lam Research cites 'supply chain constraints' - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNTFRUEdPVXNMUm5MbFhpU0ltTkZDam0wSXU0R292ZDBvVGhlT3hlOWxJbk1jZjBJeFhZUWNXbmgtemF0TTFrak1fRnNxOFlsaGJJa0xMWEUtZUZ3LTEtcHh6OXl4d1hPaVlPcjJlbDl1NlQwZC1CN2VIcmQyOVlQczVpdVotR2pjZGI5MWJyWk1pVFdjLURHS1ZmeFY0VGd6ajMtRGxWTkRkY2xUVS04cnRSZ1ltQl9UMnRCOWpBTGpIbVJBX0pnZ29jRlp3NUhXdmc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Taiwan Semiconductor and ASML Are Incredible, but 1 of These Monopoly Chip Stocks Is Far Safer. - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMHlGRTJ0YnlWblZ6Nk1keHVUdG83aGlNRjc3a0t2YTROdTJjdnpGSjdHS3FsUHRteGk4TjQzSTRkNWxCU0N2WG5nLU9UTndaQXNWeFVnVktjVGpRc1FxcTZxSEEtWXVYazB0TGtKc09iZzEzY1pjckFXQ01jNVVkNjJKeXpSaWdyeTY5ZnF1SXRLX1pyd2V1bw?oc=5",
+        "press": "The Motley Fool"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "KOSPI Slides 3.5% as KB Warns Second Bottom May Be Lower - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdmRvdnRnNjZ0VTBMQUpVaWZkaE9XT3d4VUZJbDVvX3RUdnBVQy1rRllLTnVpTE1xVV9BQ2pPTE9PeHprdEZQMFIyakNUQVA1NVVVQVotb3o4a1hfM3A3YnFISi15WVpNTHY4OS02SkZIa3ZiYVBaVjlWQzAzY1NFQ3R0N29EcUN6VUVRdEhvQUhrV3NLSm9KWjZBSGZ3MEE?oc=5",
+        "press": "Seoul Economic Daily"
+      },
+      {
+        "title": "Still Bullish Into Year-End: Thoughts on the Kospi Bottoming and Brent Topping - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVlDWmRRbW9jQjhLUmlMbmJBZl9xUHNqVG52bThya1NHMHJxSG1oSEhpeTFzaTB6LWZGVVk5Y1JuQkNSOWhGSlpRQXpnandiNWhXcVJrLU4xRDNzRTIwNTNNS2pOMDFFY0QxUFJWeE1kY3NBMVZ5LXZPa3RkWnY1bDdva2JWT2pYOXc1RQ?oc=5",
+        "press": "Barron's"
+      },
+      {
+        "title": "Bank of Korea Governor Warns on Fiscal Policy Sustainability - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjVqZVJmR2xnYjBkaTg1cnlYR3ROVkNJdlhPNHVwNDhDMkc3LWwwdlFWOWpPWEdFbHM1OGM1ZGRQNVMxdGw2bXdwQWJHbDZ4NnVJRjlIUjBwLTFkUy05cWt5dW9kQ2FBQWYweXZIemUzNzhQdHdWNjkzbXFCLUxSMEFSSTNMcHEtbnZXdEdR?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Breaking: SK Hynix Suspends Solidigm IPO Review - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWG1aekNCU1R6cmZjc3otWWxxakNQNlhXZ2Q1RmpiMUg3Vm5jdURoVzNaNXdLYjRkX3ZKS09QaXZyY0prOWExSkVLcThVbVFJS1ppSzVQSUxpUzVfTEVqME5ubDRiYWVSWlpvdFNkS29OajZxR0ZZbUJIejdkVUlIRHNzbTZKcVpN?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "NAVER, Korea Expressway Pact to Share Crash Data in Real Time - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNmF6UEtpMEJFV2N3VlJxUVlFRGtPdDc3NHVrS2ZlODZYeWNpLXpERHZGaW1oYm53bjBwSFV1TzBJLTAyNXN2UHp5dGlMY3UxUHJpeF9ySnUtNUhvZW1NLTBjNFlFdnJ4c1laRnhmT0NGcHN5UmNFVl9VYzlXbFN1SWs3cHg3OFY3Q21qXzc3a3FPM0JiazRvaEluR2RPOHpGNW1ma1dXVWw?oc=5",
+        "press": "Seoul Economic Daily"
+      },
+      {
+        "title": "Bank of Korea Governor Warns on Fiscal Policy Sustainability - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjVqZVJmR2xnYjBkaTg1cnlYR3ROVkNJdlhPNHVwNDhDMkc3LWwwdlFWOWpPWEdFbHM1OGM1ZGRQNVMxdGw2bXdwQWJHbDZ4NnVJRjlIUjBwLTFkUy05cWt5dW9kQ2FBQWYweXZIemUzNzhQdHdWNjkzbXFCLUxSMEFSSTNMcHEtbnZXdEdR?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
