@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-10-23T23:32:19.185650+00:00",
+    "run_date": "20261024"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.75 (+0.14%)",
+        "description": "전일종가 101.61 / 변동 +0.1420"
+      },
+      {
+        "title": "미국 10년물 금리: 4.99 (+0.71%)",
+        "description": "전일종가 4.95 / 변동 +0.0350"
+      },
+      {
+        "title": "VIX 변동성지수: 19.45 (+2.21%)",
+        "description": "전일종가 19.03 / 변동 +0.4200"
+      },
+      {
+        "title": "S&P 500: 7623.68 (-0.52%)",
+        "description": "전일종가 7663.43 / 변동 -39.7500"
+      },
+      {
+        "title": "나스닥100: 28957.53 (-0.00%)",
+        "description": "전일종가 28958.69 / 변동 -1.1621"
+      },
+      {
+        "title": "다우존스: 52215.16 (-1.23%)",
+        "description": "전일종가 52867.98 / 변동 -652.8203"
+      },
+      {
+        "title": "USD/KRW: 1323.66 (-0.15%)",
+        "description": "전일종가 1325.59 / 변동 -1.9299"
+      },
+      {
+        "title": "USD/JPY: 156.81 (-0.83%)",
+        "description": "전일종가 158.13 / 변동 -1.3180"
+      },
+      {
+        "title": "코스피: 5533.77 (-3.52%)",
+        "description": "전일종가 5735.66 / 변동 -201.8901"
+      },
+      {
+        "title": "코스닥: 764.10 (-3.62%)",
+        "description": "전일종가 792.76 / 변동 -28.6600"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.268 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.41 | GEX -11.4B$ (만기:2026-10-23)",
+        "description": "콜OI 435,717 / 풋OI 612,928 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.26 | GEX -0.6B$ (만기:2026-10-23)",
+        "description": "콜OI 367,922 / 풋OI 463,982 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $151.26 (+1.48%)",
+        "description": "거래량 9,902,625주 (평균대비 0.6x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $763.25 (-0.54%)",
+        "description": "거래량 4,189,936주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 59.0% (118/200종목)",
+        "description": "평균 MA 대비 위치: +0.4%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 50/100 (Neutral)",
+      "description": "중립 — 방향성 불확실, 관망"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Dow, S&P 500 drop, Nasdaq rises after sharp tech sell-off - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkpSbFBZWVAtYnhBcUdQR2VtYUl5QldNNjVHeWthdmJaUGxNUVVPV2hsV0RhN2hma0hTcW41Vnl6SFprOTlQNnFfdVFFSWRYUkVKM29XMWpwbExpOTRQSzlxcTFfYUxFRFFoYWQzRHpZNEpUV0lrOXVnTlpmTjVUY091dXI1NlpYbVFKSFN4MEpsTzR6RFl3eWpsWm53bUkyNThoWlA0Vzg3VnRuNUNEQk1HTGMtNEJ3RHp5Qzg1aVBOcFJGTGc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "AI pixie dust is losing its stock market power - Axios",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ILUtHNDlPMWRZdXNwQXlnTnQtVE8zTTJBUmtzVTVudzJMRTV1dHRsRFFsd3puWEJGR0Q0dTZtMXYtbGM3Z3hPZUg1MUR4dVZCMzJGOUMwcWU2MVp3YzR6Tm5fYUZwN3d4Y2NvaDFLV3U?oc=5",
+        "press": "Axios"
+      },
+      {
+        "title": "Dow tumbles more than 600 points as oil prices rise and market sell-off hits most sectors - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNc0s0YTFvMUVGOTZsQTBGQ2xGQkNJNmZrZVlXOXpMTTV4VDFZQnF5LTBOVHpXMVI1cmI4QmhFNTVudnpRVDVUbldkZEZmeXl3MHI4aU1UaXVvbHNEdHhvbmNweVQ5TWdjaWRPQWpZLXJIYk5RTlHSAXtBVV95cUxPN0Q0eEc2UXVTTmwxcTZsY05HeEdKN0U1dDc1S1YxWmxZOXJlSm1NVVZDU3MxcXFKNlduX3NxckhxZ1puVlE1d09SZk4zSGhVcG9xNFhBb1d6Skd4NlZSdDZ5Y1I2NkxEXzJuUmxUMThNX3haWnlIeUZQQ0k?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "SpaceX wants to be America's fourth phone carrier — tower owners are cashing in - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSFBqRk1SaHBvbTZGVjNSUmI2TU9LQW9sZmtWVnRQc215aUxKNVBkb2xVYkhvWGk4eHE3TVlET3R5TmhjU3lkMm96a2sySjdJUDdSRUN5c0J2NGFiZmtTRGFwRzFUZmEwMjI3eHBnR1VlN1M0ajRtbEtRVjlQNWwtVkNRSzh3ZmFLYmVlWmwzRGZ2Qy1YU0VNQTFsQUxWVjVOU0N4UHRJOEJITnpVUmx0VVBTZFJ3cmhTVV9MX3RDaTR4LTVJVjYyaXk2ZjhwOVk?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out. - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdFhHTWtJcnJWd01PdHhWcXFYYW9Rc1hLRC1vdGxXT1JpV1pqUS1VVGhVR1pmdTR5bnQxWVBrNnl0Wkw0RVNhN0M5SFRiUlItMWlfVVJvc2daMnlSRFNmdDloWUlhUE9oTDdfS3RRMWJScU9GcVpJN1k4SWZXR2NHSHk4bDFyWmRFTWt0bHNXc0t2OEI4UXd6b3Nla2hzaWRNYlMtdEtjR1VuakJjMUJqSF8xMlJUc0haSkpCbGd3ODVqdnVIUjhzSGlHbmoxdjZuLWJHZQ?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Dow tumbles more than 600 points as oil prices rise and market sell-off hits most sectors - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNc0s0YTFvMUVGOTZsQTBGQ2xGQkNJNmZrZVlXOXpMTTV4VDFZQnF5LTBOVHpXMVI1cmI4QmhFNTVudnpRVDVUbldkZEZmeXl3MHI4aU1UaXVvbHNEdHhvbmNweVQ5TWdjaWRPQWpZLXJIYk5RTlHSAXtBVV95cUxPN0Q0eEc2UXVTTmwxcTZsY05HeEdKN0U1dDc1S1YxWmxZOXJlSm1NVVZDU3MxcXFKNlduX3NxckhxZ1puVlE1d09SZk4zSGhVcG9xNFhBb1d6Skd4NlZSdDZ5Y1I2NkxEXzJuUmxUMThNX3haWnlIeUZQQ0k?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "How Worried Should We Be About the Economy? Let’s Look at 2008. - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkhaOEp0cXJmVGhjZnc5ampxRFFuelZOWndNUFJnVjg0Tm1KMUdJa1luTWNLQVhIZkhpRHNXeUFzQ0xaX0VVVlRUVTRTQjJJcVNHem9QN1FqNlhBamVLZzV2cmszeFpZUkx5YVVVOThQbkN0cExTQTBxR0cxWFNyZG9KQmM?oc=5",
+        "press": "The New York Times"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500 drop, Nasdaq rises after sharp tech sell-off - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNkpSbFBZWVAtYnhBcUdQR2VtYUl5QldNNjVHeWthdmJaUGxNUVVPV2hsV0RhN2hma0hTcW41Vnl6SFprOTlQNnFfdVFFSWRYUkVKM29XMWpwbExpOTRQSzlxcTFfYUxFRFFoYWQzRHpZNEpUV0lrOXVnTlpmTjVUY091dXI1NlpYbVFKSFN4MEpsTzR6RFl3eWpsWm53bUkyNThoWlA0Vzg3VnRuNUNEQk1HTGMtNEJ3RHp5Qzg1aVBOcFJGTGc?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Five KOSDAQ Firms Face First Delisting Over Sub-1,000 Won Stock Prices - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeUlGejY2dnl3aVdJMnJzd1Q3VU1fTm1ET0x2UDlOWlpBSGhwSFB6bTRHM3ZTeUtwdWRfbVR4ZE5iTWRkck9JQWpqVHBDNWJsQ2RUVndsdHY5TnlpaENKQXNHUXVvSXlsR3lJT1ZqSGkzSENPcXJ1VXJWLWFTekxYdnBBQ3VGVEREYXZybjln?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Editorial: Bank of Korea Governor Warns Oil Price Cap's Fiscal Burden - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnoxaGlLVWphSkdiNF82aHJhNjJGT3dIUjhSaXQyWEpjdnVPYnhPOVNXdnNkS1N3RThMbDd0cURQdndMVEhmR0lRMXFXMFZCWldzamhkbGxVQ0tQdjRtejhYOVRwMDFnQmJIS1R3Z3FSWWs4UzQ0aG1tbHNuWHk0MzhCV1pZb2s?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
