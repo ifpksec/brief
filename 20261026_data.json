@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "generated_at": "2026-10-25T23:32:12.330830+00:00",
+    "run_date": "20261026"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.78 (-0.03%)",
+        "description": "전일종가 101.81 / 변동 -0.0270"
+      },
+      {
+        "title": "미국 10년물 금리: 4.99 (+0.71%)",
+        "description": "전일종가 4.95 / 변동 +0.0350"
+      },
+      {
+        "title": "VIX 변동성지수: 19.45 (+2.21%)",
+        "description": "전일종가 19.03 / 변동 +0.4200"
+      },
+      {
+        "title": "S&P 500: 7623.68 (-0.52%)",
+        "description": "전일종가 7663.43 / 변동 -39.7500"
+      },
+      {
+        "title": "나스닥100: 28957.53 (-0.00%)",
+        "description": "전일종가 28958.69 / 변동 -1.1602"
+      },
+      {
+        "title": "다우존스: 52215.16 (-1.23%)",
+        "description": "전일종가 52867.98 / 변동 -652.8203"
+      },
+      {
+        "title": "USD/KRW: 1323.44 (-0.19%)",
+        "description": "전일종가 1325.99 / 변동 -2.5500"
+      },
+      {
+        "title": "USD/JPY: 156.90 (+0.26%)",
+        "description": "전일종가 156.49 / 변동 +0.4040"
+      },
+      {
+        "title": "코스피: 5550.30 (+0.30%)",
+        "description": "전일종가 5533.77 / 변동 +16.5298"
+      },
+      {
+        "title": "코스닥: 751.69 (-1.62%)",
+        "description": "전일종가 764.10 / 변동 -12.4100"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.268 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 2.91 | GEX -4.5B$ (만기:2026-10-26)",
+        "description": "콜OI 102,513 / 풋OI 298,082 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.93 | GEX +nanB$ (만기:2026-10-26)",
+        "description": "콜OI 69,017 / 풋OI 133,503 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $151.26 (+1.48%)",
+        "description": "거래량 9,922,700주 (평균대비 0.6x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $763.25 (-0.54%)",
+        "description": "거래량 4,190,600주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 59.0% (118/200종목)",
+        "description": "평균 MA 대비 위치: +0.4%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 54/100 (Neutral)",
+      "description": "중립 — 방향성 불확실, 관망"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Prediction: 2 Stocks That Will Be Worth More Than AMD 5 Years From Now - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTjlOLUREU2p5Y1VMLTFCUEgxb3pETFdmWmRua0RrV2E2VDIyb0MtdXZERDBBUVJjTWlBNUYwQXZsSm0xTXljZXNRRkVlUHhGbHBZOGJqbzJqczBFYk4zV29GZm10a1NkYlEyQ2NtSXpuNGhraVNwR0VNNkZnVnZMX0dPLU81ZGpiX2ZsYzJEd2xELUcyWk5rUw?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "FOMC and Big Tech Earnings Drive U.S. Stock Futures Higher - SBS 뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIQW9GeFFySVhLeFRSclJfZkp6aXZJMm9uUy1MLWZxSkRJa1hYNC0zOGlOM0NsblhsOFNZU21rYlhsaW01N2ZyOEhadVRJdzZURE1QWExXZS1KOC1rNFRlNkJQc2Q0cjZNTElCNlhR0gFmQVVfeXFMT2kxbHgzakx2MHpVOFdNRmZQX2VTVkNPckw0NjE1bmJJSktjeXBwQ2NnV0QtOEJVUWxnZ1ViNUh0V1N2bG5oYW41czdpdGZDd2FDQUI2RXZyeDJlbEdYeEMyd3I4U2pR?oc=5",
+        "press": "SBS 뉴스"
+      },
+      {
+        "title": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RYndxMUwyOEhHdkN2LUJFcFM5OXViRV9sLV9PNGdiZDJTdjVMTXBYeVh3LXBBdW5EYkRBd1hzWXhPT1hXVUxTYmR3YjU2Rnpuekk4V0hRd0tId3NERjBXb1IydTBKSDRNM25RRFptRHFIYXNrOGxn0gF8QVVfeXFMTzZtMm5Xc0pMVlEta0dPbmY1S0Y0RUZmaF84alY2X3Iwb04tajltY0JIMGNFZ2dtaWp3ZDFhZ09RV2tjVm1KbU9HRm9WeWYxT25mc0d5bjgyLVJfMFZ0OTNxM3g5Umc5XzBidXpQR21ld203cUpxNTA2RjhlWA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "The US has the largest gold reserve. But repricing it to $1 trillion 'would backfire in a big way' - Fortune",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbHBxNUF1SHZxTzlxSEpoUE5wUXJKbXNLdlI3M3pSeUpMenhqTEEwUTN2QngyNXhLM3FXVEhVanNBUlBGWnFoRlQyYTBoZlRBTVA4aVlZYWNkU1hsWkxQcFdNSzE2dEc4RDgyUHNEUHQ3NkVtZXF6QkdFZHlrSkJDLUNaOWlpdDJjai01U1lmTVJocHBzWW9rbDZ3dGZaQnNnbzNPZ0Y2WE5HTEJr?oc=5",
+        "press": "Fortune"
+      },
+      {
+        "title": "Interest rates unlikely to reach 4.75% by next summer, say City economists - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSW9Md24yaURNYUhGWm5kdWprRmFjT3lMdmZzczRzOE05aVVrSEh3d3BPRGRzNk4zbHBwQkJndTVnQVcwTFNuVG1rbVV6WV9uVjQzdUZMYS1HR0pmS0tWYlQ5dXFRMWZvLXhraDBLY1puYmlRYzJNTXJUSDJ0cEVTUzNMbndmMUNnVEVXWWhlYmlONjhQMTlvLWVNUzl2Zw?oc=5",
+        "press": "The Guardian"
+      },
+      {
+        "title": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RYndxMUwyOEhHdkN2LUJFcFM5OXViRV9sLV9PNGdiZDJTdjVMTXBYeVh3LXBBdW5EYkRBd1hzWXhPT1hXVUxTYmR3YjU2Rnpuekk4V0hRd0tId3NERjBXb1IydTBKSDRNM25RRFptRHFIYXNrOGxn0gF8QVVfeXFMTzZtMm5Xc0pMVlEta0dPbmY1S0Y0RUZmaF84alY2X3Iwb04tajltY0JIMGNFZ2dtaWp3ZDFhZ09RV2tjVm1KbU9HRm9WeWYxT25mc0d5bjgyLVJfMFZ0OTNxM3g5Umc5XzBidXpQR21ld203cUpxNTA2RjhlWA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock futures climb as traders try to recover from the S&P 500's losing week: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RYndxMUwyOEhHdkN2LUJFcFM5OXViRV9sLV9PNGdiZDJTdjVMTXBYeVh3LXBBdW5EYkRBd1hzWXhPT1hXVUxTYmR3YjU2Rnpuekk4V0hRd0tId3NERjBXb1IydTBKSDRNM25RRFptRHFIYXNrOGxn0gF8QVVfeXFMTzZtMm5Xc0pMVlEta0dPbmY1S0Y0RUZmaF84alY2X3Iwb04tajltY0JIMGNFZ2dtaWp3ZDFhZ09RV2tjVm1KbU9HRm9WeWYxT25mc0d5bjgyLVJfMFZ0OTNxM3g5Umc5XzBidXpQR21ld203cUpxNTA2RjhlWA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Oil Edges Lower From Six-Month High as Traders Assess Iran Risks - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNFpHYTlFcXR2RGt0NHhpMWtQcTRwdTktRHJKZGJIODZ4RldHbUFZODFIMXBRZkRObXAzN3lxZE1NV0QtOVlmaDc3S0R1YWV0S2ExZmpJTWlYb1RITGIzZTYyR0xkT0c0WXdvNHExUVZJUURPbEZ2MWoyc3NyNkRWNzB5c3VUVVFwMHppaWRIWmxoaDVNRjM5dndha3hTZw?oc=5",
+        "press": "Bloomberg.com"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "U.S. Fed Meeting, Chip Earnings to Set KOSPI's Direction This Week - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObUtEbE84dmdQNm9oX00zdmhWN0pXWlZjaWhYckowTnVLSGFrQ2liVXdnUVUxek5XT3owUnQ3amVQN21LMXlGSVlXcWtNSGpNSmF1MzRuWDlLNXZueTE1RE1mRkN2S0hZWFJhYWgzUTJFazlRc0lYTmhjR2RDRklMT1g3dTRCYlRNS19jZ3dfY25IWUJWNWl3a0J6ZlE5bi1PdVA1aQ?oc=5",
+        "press": "Seoul Economic Daily"
+      },
+      {
+        "title": "Korea retail investors shift to S&P 500 ETFs as KOSPI volatility surges - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSzdheXlzU0V5eVBFMmU5bGV4ZS1LWEJmSXotZDRiSXBUaEFhczRjN0MwU0d3ak9xeFh6b2Z6dTJ6THJmXzhQZjhQZVNUS0RyaC1hT3BaTzJVa0didW9UTTNoVGEwa0VxTEw1LU9DdURYRlNQNzRkaWZhVlVnUVJYM9IBlAFBVV95cUxOZlVWeEhIV1ZHRkVnaTNCVnZ6ZURjU0JmODNqczNibDZMc25USGFSZks5SUJRaVhuZ0Z0eEZ6X0Z3Vjl3UTRESGJ0TUxMLWlrZ0JKZVZnRllzX0VHeUh1eUpBRlhBN3YyY2dUTEFWVlEwalVhcGQ3dTMxS2xGU3hya2E2RmpheWhmZG9ZQVB5TklzcTFW?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Three Firms List on KOSDAQ This Week as IPO Pipeline Stays Busy - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMFJaekRwYlNHSHJrTmhTdVR5amtMQTR6Z2o0TGp3NDB5NE1FaGVDYlZjWGRhMUtlMnpCV1lYWFE2VElIU2ZNUnNuSVZDQ19DalIxMkZKT3UxSzJMR1ZFRTJrcFczYjBPZWp3RmJqVEMtTlF4ei1KS2t4ZDJva3RoSjFXRnZLRGZuT05QT0dORmpsSThpM3hXZHRsZGRuTnpYWGc?oc=5",
+        "press": "Seoul Economic Daily"
+      },
+      {
+        "title": "Samsung Electronics, SK Hynix Unveil Earnings Amid Shareholder Pressure - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUVhmc0JseXdCSVI0WVhubmhjRWlPSHdRTDNLUDQ3Z3R3aXBEZS1iSmhJQ1pKR0d1T3NwVjNJd2hmcUU2dG82bUhwdWYzMGpTNVZ5TDJxeWN2b1QwcGJ6TWU5d1BTUG5FbHNOeGQ3ODdMVV9HUG9jU0lBSTRzbmhBRDVSVXV0dnVo?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Samsung Electronics, SK Hynix Unveil Earnings Amid Shareholder Pressure - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUVhmc0JseXdCSVI0WVhubmhjRWlPSHdRTDNLUDQ3Z3R3aXBEZS1iSmhJQ1pKR0d1T3NwVjNJd2hmcUU2dG82bUhwdWYzMGpTNVZ5TDJxeWN2b1QwcGJ6TWU5d1BTUG5FbHNOeGQ3ODdMVV9HUG9jU0lBSTRzbmhBRDVSVXV0dnVo?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
