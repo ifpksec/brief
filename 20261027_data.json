@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-10-26T23:32:01.731850+00:00",
+    "run_date": "20261027"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 102.03 (+0.22%)",
+        "description": "전일종가 101.81 / 변동 +0.2200"
+      },
+      {
+        "title": "미국 10년물 금리: 4.99 (-0.04%)",
+        "description": "전일종가 4.99 / 변동 -0.0020"
+      },
+      {
+        "title": "VIX 변동성지수: 18.39 (-5.45%)",
+        "description": "전일종가 19.45 / 변동 -1.0600"
+      },
+      {
+        "title": "S&P 500: 7676.77 (+0.70%)",
+        "description": "전일종가 7623.68 / 변동 +53.0898"
+      },
+      {
+        "title": "나스닥100: 29273.40 (+1.09%)",
+        "description": "전일종가 28957.53 / 변동 +315.8750"
+      },
+      {
+        "title": "다우존스: 52361.58 (+0.28%)",
+        "description": "전일종가 52215.16 / 변동 +146.4180"
+      },
+      {
+        "title": "USD/KRW: 1324.57 (-0.11%)",
+        "description": "전일종가 1325.99 / 변동 -1.4200"
+      },
+      {
+        "title": "USD/JPY: 157.54 (+0.67%)",
+        "description": "전일종가 156.49 / 변동 +1.0480"
+      },
+      {
+        "title": "코스피: 5550.30 (+0.30%)",
+        "description": "전일종가 5533.77 / 변동 +16.5298"
+      },
+      {
+        "title": "코스닥: 751.69 (-1.62%)",
+        "description": "전일종가 764.10 / 변동 -12.4100"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.402 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 2.31 | GEX -1.3B$ (만기:2026-10-26)",
+        "description": "콜OI 169,543 / 풋OI 391,761 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.59 | GEX +1.1B$ (만기:2026-10-26)",
+        "description": "콜OI 135,517 / 풋OI 215,562 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $152.72 (+0.97%)",
+        "description": "거래량 11,269,181주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $768.69 (+0.71%)",
+        "description": "거래량 2,583,357주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 59.5% (119/200종목)",
+        "description": "평균 MA 대비 위치: +0.6%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 50/100 (Neutral)",
+      "description": "중립 — 방향성 불확실, 관망"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market Today: Dow, S&P 500 and Nasdaq close higher as Anthropic IPO filing helps boost tech stocks - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOODZ3Y2F6eXZQeE1pRjRFTUlJNlhqUlRIMmd2c1BlWGVwTDdYNlQwbURQVmdPTjFKUEduU2YtR0J6Z2o1Wi1UWXgxZWY1X1BmaTJJMmVlVXZoQmhZYnc0cHo4YWVYazVRWGlHQ1RaYTREVkZxTVFNdWhzUExZSHdheS1SQlVXRkZRa2VfSkU2X1dVMEV0RmZpOGwzdU1wbDBZU0JmY3YxNDFTOGFPWjhQdXpGdnlRVjFOV0wyclRjZkplemhqdGdXdEU4RTIyZw?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Anthropic IPO live updates: S-1 filing discloses $16.3B in first-half revenue, plans to list as 'ANT' - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZVVwTHk4NkFMRjBSRDl6cWxNbTluOU5tVnBab0t5Sm1VYjF1LS1hOUJUZTNLajViMTNrbDJZamZNOEx1MEpXVjhlaHRHb011MFVOX19CY0Y4a0xPSHFBcFd2QUpULTdTZEstc0R4czRFRVhEdDhKNmFUV0gzNHpNejVkSkVWYmpxanhOdEtoN0NkSTQ1U21CZEp1WE5Ccm1LRTdKbEdwUU4tLVZXYV9JOTJYT21kNWNpU0lqam9fcUI2cHd3ZzJEVEJpM0ZiaFRXdXpvcWZRaEZMN1B2MlBxV194RENONlV0Rms1b0hrOEJxZw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Can Sterling Infrastructure Stock Double From Here? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdWZKYU5jTVVmcWwwLWJyMUZ2QXl1UWhkLTFEdGRvSkFNNVl1TGo5OW5PbDlINzNGTHIyUkJSVTJjTUVvMkV2a2dQUV9VU1l3dlI4RlJReEM0OG1aeHdiS2NTbDdUM3liMXp1RzhUTWZrRGpab3E0NkQzcHh6M3VLOEk3RlNxbF9KVWFEbWd5Zklkck9BcWdvNUlXTG9TbERiVTRr?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Anthropic IPO live updates: S-1 filing discloses $16.3B in first-half revenue, plans to list as 'ANT' - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZVVwTHk4NkFMRjBSRDl6cWxNbTluOU5tVnBab0t5Sm1VYjF1LS1hOUJUZTNLajViMTNrbDJZamZNOEx1MEpXVjhlaHRHb011MFVOX19CY0Y4a0xPSHFBcFd2QUpULTdTZEstc0R4czRFRVhEdDhKNmFUV0gzNHpNejVkSkVWYmpxanhOdEtoN0NkSTQ1U21CZEp1WE5Ccm1LRTdKbEdwUU4tLVZXYV9JOTJYT21kNWNpU0lqam9fcUI2cHd3ZzJEVEJpM0ZiaFRXdXpvcWZRaEZMN1B2MlBxV194RENONlV0Rms1b0hrOEJxZw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stocks close higher as excitement over Anthropic IPO filing propels tech sector: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RYndxMUwyOEhHdkN2LUJFcFM5OXViRV9sLV9PNGdiZDJTdjVMTXBYeVh3LXBBdW5EYkRBd1hzWXhPT1hXVUxTYmR3YjU2Rnpuekk4V0hRd0tId3NERjBXb1IydTBKSDRNM25RRFptRHFIYXNrOGxn0gF8QVVfeXFMTzZtMm5Xc0pMVlEta0dPbmY1S0Y0RUZmaF84alY2X3Iwb04tajltY0JIMGNFZ2dtaWp3ZDFhZ09RV2tjVm1KbU9HRm9WeWYxT25mc0d5bjgyLVJfMFZ0OTNxM3g5Umc5XzBidXpQR21ld203cUpxNTA2RjhlWA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Anthropic's soaring sales, steep losses put AI frenzy to IPO test - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLVVZWVV6TXQtR3ZqaWZKZERKZ3J3VVpIZlNtUjVfRjdTS0tuVTlRQ0F0UzRhcW9Hd2hxR1BtNzF4UVBVYXBpTkc0Rmozb3pRekc2RVNnOVBYd19KUGZ5VE1UN29haXQ2M0w0Qk1QTm5INk5KRlhxLUR6Q3REWHR3OG9EYkpFMGJUUm5HMGFiX3pBLXhZMHV5Qkgwdlc0RTczMnhOc3Q4NFpORFE5SlRfRkVDOWdmZw?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Chip Stocks Find Support Before Key Reports From Intel, Sandisk - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWEw1a2xadXdxUEZzckxXYWYyb1pxSm9YWXJDV1QyWHdDcEJrMTlQMVk4NlI2X0ZPMGhDUndGd1RFNlFqeHhSQjVTc0JCMUt3dnBuU3o4RVlQYXVBSjRNUWFHYkxlY01VUnR1Q3Fzc1JzTzVHXzAyd2NyS0dIeG9jWFZWdTlXdFM2cnlEeXZET0NPdVd2X2tSRzlR?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Stock Market Today, Oct. 26: AI Optimism Lifts Nasdaq as Tech Stocks Rebound - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOHVuTE8zTkRvajhSYXIxeWtfSmJod0ZDTmRvc2p0RzZBU0ZkU1I4TlpUcTBoc0hNSjZhX3Bkc0Rkc29BWUNYeTBzYXVOdXJzSVkxX1p5X2o5OGlsQ3RleS1zd3ZaR2Z0ejcxTmhqeHFOMVRWeV9pbEYxZEFxYjRLS1k2Yk5GQWZubkJBTG5OQ21QTnVt?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Global IBs tout Korea rally as foreigners dump 200 trillion won in stocks - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSGFJVWdlLUM4QV9jRHVOOUxmbkxhYmJfWWZkaDAwNWtqZW52MTd1cmp3bDFNZTlkekFhelUyUkI1LUtlU0pZaDloVnJ6Y1Bkak9ydHlCS1BGQU54TloyQzlnTmVqajZhTl9KcmdqMFhxZmZUc3dfbjZqMW1RUXl0LdIBlAFBVV95cUxNbXc0OWhSQlVFQUdNQnVNN010NUJOUUFmdl9UUDQ3aUVkU2RMMlVuREJGaVZXRFZ0VjNEOUNlS2RhU19HdXZRdmVLcGFiQU53TUx5dm41T0NpRkItdzUydGJEMFJleGltTHA3MWV3MlFtY21ET1d0aE4yd1IxcGNaMFZyaWJ3eXplWEtLczNwYmhyYjlR?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Breaking: South Korea's 1.0% Growth Driven by Semiconductor Surge - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMjhLdXhYSjNoeUpyV2tIOGk5UTdfTkFNcERlR0hLR1pjbzIxS1MzRmRoM0V6YkRGYUN3RUNweG9QakhYb1Z0MGdwUWU1Q1J2dmx3TXVMWFE4MVhWMF9IYjNYNXY4V212TS1IdmhNdi1JR1hyM1BfMU9uMW5aZzltT01RRW5JS0NVcG5faDF3?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
