@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "generated_at": "2026-10-27T23:32:13.762843+00:00",
+    "run_date": "20261028"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 102.36 (+0.40%)",
+        "description": "전일종가 101.96 / 변동 +0.4050"
+      },
+      {
+        "title": "미국 10년물 금리: 4.99 (+0.14%)",
+        "description": "전일종가 4.99 / 변동 +0.0070"
+      },
+      {
+        "title": "VIX 변동성지수: 17.52 (-4.73%)",
+        "description": "전일종가 18.39 / 변동 -0.8700"
+      },
+      {
+        "title": "S&P 500: 7722.60 (+0.60%)",
+        "description": "전일종가 7676.77 / 변동 +45.8301"
+      },
+      {
+        "title": "나스닥100: 29651.44 (+1.29%)",
+        "description": "전일종가 29273.40 / 변동 +378.0410"
+      },
+      {
+        "title": "다우존스: 52377.57 (+0.03%)",
+        "description": "전일종가 52361.58 / 변동 +15.9922"
+      },
+      {
+        "title": "USD/KRW: 1325.93 (+0.32%)",
+        "description": "전일종가 1321.76 / 변동 +4.1700"
+      },
+      {
+        "title": "USD/JPY: 157.99 (+0.74%)",
+        "description": "전일종가 156.83 / 변동 +1.1560"
+      },
+      {
+        "title": "코스피: 5469.47 (-1.46%)",
+        "description": "전일종가 5550.30 / 변동 -80.8296"
+      },
+      {
+        "title": "코스닥: 727.21 (-3.26%)",
+        "description": "전일종가 751.69 / 변동 -24.4800"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.424 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.48 | GEX +4.8B$ (만기:2026-10-27)",
+        "description": "콜OI 147,975 / 풋OI 219,537 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.32 | GEX +1.1B$ (만기:2026-10-27)",
+        "description": "콜OI 143,539 / 풋OI 190,032 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $157.46 (+3.10%)",
+        "description": "거래량 14,184,422주 (평균대비 1.0x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $773.25 (+0.59%)",
+        "description": "거래량 8,860,541주 (평균대비 2.2x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 61.5% (123/200종목)",
+        "description": "평균 MA 대비 위치: +0.6%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 48/100 (Neutral)",
+      "description": "중립 — 방향성 불확실, 관망"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rise as tech gains for second day, chip stocks rally - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSHpsV0xUcHBURmVHRUVFemJoUXY2MnBEdXNCdHR3MDFfRklkbUpaWThCVWVHaG5FaktsRTg0R3dWNFRDMzFnTGIxTTNUN1VjbEFyOWhpUG9lRHdWV3h1cGlBYkxqTjIwSUxZRFBXX3U2djRYck1GNGFvVG5Ba1lsTXVqUURhVUJiQmtPMUFycEdvcXNZTmZmcHl2SEI2U08yRlJ3YlBKdmcxMXF3M0FkemgtM2d6dHB1YnpLV0Vn?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market Today, Oct. 27: Boeing Plummets 11% on Lower Production Rates and Missed Delivery Targets - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQWZJTmZXNk5BUmlzSmRVaTZ2V0dSZEl1WTd0Z3hPSkRsc0IwVmsyUXRQWkpNLWNMem5zOE9iUDJId0FKc0s4OF84Q3dNZk9USGZORlc0UVFGencwaFY5NzhXUFVPaDlNZGpPOWFYVW10TzItU0lQNWhlVEVaOExubDlMMmpmUUJrejlUeUhzR2NvQmR3?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Techs, Small Caps Lead The Charge As Stock Market Rallies Ahead Of Fed, Big Earnings - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObWlXRGNQdXVDRlFtSjhrWFdQZ2lpMEh6WkZBeHpYNm16QVdjd2JldFQzc2VFeGM0NWNfNmJZUkZIallLWk1wV0l6M0Uwa1JMbVZZV1lrSjVKblNIQTgzUXJSNVdXLTc2d2FzdDJpZUJ5SFh5SmVSeGdqOEUxY0ZmWExMb2hXbUoxdnN2SVRZYkJIS01NXzVjMlhFOWJiY2dEdG41eFdienVTM0k?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rise as tech gains for second day, chip stocks rally - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSHpsV0xUcHBURmVHRUVFemJoUXY2MnBEdXNCdHR3MDFfRklkbUpaWThCVWVHaG5FaktsRTg0R3dWNFRDMzFnTGIxTTNUN1VjbEFyOWhpUG9lRHdWV3h1cGlBYkxqTjIwSUxZRFBXX3U2djRYck1GNGFvVG5Ba1lsTXVqUURhVUJiQmtPMUFycEdvcXNZTmZmcHl2SEI2U08yRlJ3YlBKdmcxMXF3M0FkemgtM2d6dHB1YnpLV0Vn?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rise as semiconductor stocks lead tech sector higher - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ2hycUcxMGR2ZVZDek4yWVplY2JnTF8tVUtkVG9nSnFMRWt4R0Y1QkZTbHVJQWZ2c0czWnQtTUNEcHkxUUNtUXpCYXdZNFhLb0kzNXRmOG5pMnYxWmJPVWZRMEtMNklRb0pwYzVuUlpYVnFvVy13dlhpWVRpUHBoWHBtRjF2WkdMVmZCcF9xOThMbmxHM1VHU0gydWdSRmNlSGotMzljemxuVlB6V1E?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market Today: Nasdaq Extends Gains After Anthropic Rally — Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQzZjNjNPU0JVeFdraWZkQkRCbmZVbEc1S3lScGJ5a3g5TEJMSVdsSXhlWXpiVkY3SDJwUTg4N1JtSlVhM3A0VWNzOFg4bDgtVVhMUU1ZWlIzZml3cHF6eWxlMVg5MGZNdE9SRlBUWDh5ck1oVHhLQ1ZITUs3VXE4a01NRmQwdmM?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Stock Market News, Oct. 27, 2026: Dow ends flat, S&P 500 logs gains and Nasdaq books best day in nearly a month as chip ",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZkdLT0QtQ2p0YTIwUkRTRWRJSFF1VUVxRW43RjRfZldlcFhtdFdjeVJmMVQzVUxhdWRnSXU2c19RWlBKY2paSW1vRFJ3SjhDaXdHc1hyWFlVMnV2a3ZUZkk0c1dXdkdra00zVmFYTlZKbXBWNWtxTGxsV2FFZnR6YzgtN3NzeUVJcmJackxfOGcyMUZhZXBPMkZIN0dGUVhmWHZWbVlwcjZwLWtSRjZrY1d0NUE2UQ?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Nasdaq Texas & Walmart Discuss Corp Listing Strategies - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTFdiajFBdjNiVUJ1ckVDTV9hYjI0QmpENmNKOXRMSEJxUm1NZTVjeDU0OXI2SDRzaXgwa2NOT25jaWhRMG9WYVlMS3o5YWtEMTQ1YUc0SS1ieVRyY1JlTGhYV1BlQURMc2FibFlGbVpHaUpRZTFpSWZZbWd2QXFBRWE4QjRHNG8?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "U.S. Treasury Yields Are Falling... Why Is the KOSPI Still Reeling? - 아시아경제",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wb3QzeHlreGg3RmVDUW53ME14RkpwZVZWVTFIR3ZCTEhRdUp4QV9wZXJEOEY5VlRLZklOY1RZZGZFbW9KM1UyaE15MkllT2lVM2JQSFFXdlVkSXZBTGZFS3RSMlM?oc=5",
+        "press": "아시아경제"
+      },
+      {
+        "title": "SK Securities Says AI Demand Intact, Calls KOSPI a Buy - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdUtGeU9QRDluTkw4RjNLNHI2OFl6SjdNdXZOQ3p5aHVUR1FqOXR1QTJBVGhMbHNtTVVNSlBnN0d3ZFhNTjF3YVRwcER4M0F4V3EtMWdma0JOVmRjYVhqOUk1NG9WRUlXWjFpRHZ4VVZ1dktjNHBWNTlSQmRVNTZRbnp2WmlwN1ptMGNnQzhrTHRyZy05TllIdFJHQQ?oc=5",
+        "press": "Seoul Economic Daily"
+      },
+      {
+        "title": "Seven Biotech Startups Pursue KOSDAQ Listings With ADC, AI Platforms - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN1E1VzY1cDdDRUNIRkNOTkowTS1oWlhOOFE0MExVUWc1RWQwTnEyNE45YkI2WE54Z19SMGM3TjVhRkVzYjc4MjB3WWtJdkVCQ2x1VmN3ejZuMXdwaWpDNy1qOU1VV3VkajhqN3ZIdTJzSVFoS1lvMTRhTERjSHh0Y3dBd1A3SzVEaWlrYnhLQnMyQ25tSk1XaWtxdUZhT1ha?oc=5",
+        "press": "Seoul Economic Daily"
+      },
+      {
+        "title": "Should You Think About Buying LS Marine Solution Co., Ltd. (KOSDAQ:060370) Now? - Simply Wall Street",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPLTNfOUFaUXRXbXk5bnlWaEt1ei1GZXB5bm5JVjVPU2l2Vzh6bU51ZE5yS1g5TkxIVDl5OWtRSlhBczVfUmNLTWxfY1puZm5nTWFLb294dDJPWUlZcWxTTFJSb1JXWHIyTDN0M0ZKa1U0andvTThIejRjZjctVEFDRUFKekxkNWRUY1kyTnZPRFNrNEZsdk83NmtNaDZiVk85bTRmZnRnT09Uc2dvdDhBSXZNNXlBLTJRd2ZlU1dLMXh6S1BYUDVuU2VJWndLZFhCUDhnNzRnN3d1RDVaeXRoTE01R0xiTGfSAewBQVVfeXFMUGYwbmdBQW9UZlF6S01XUGpuQTZFanpnTHpJR3BzVy0xckZWUk9ITWY0bGp5OVdwR3g2ZmRVcnByVXdfSXRpSXJrYkY0R1FBeWZpU3lCdEs1aEMwMEZSZU1BQk5HbFdMT3RiWnFYc1ZHMjdXbVJ4YklfZFp1SWpGX0VoNktqalFhQUd2WFpMN2RYTGJTUE42ZE10ZUNvM05CMDdZQWJiTGY1aUk4emFLQnNXYXZVeFZTc0h4d0cteVZiLXJEaVgyWVdzUm9xZnA0b1B6RGU2cGUtWEZvR1NNRHdzM25jaHhUcTRmZl8?oc=5",
+        "press": "Simply Wall Street"
+      },
+      {
+        "title": "Samsung Electronics Fined 20.1 Billion Won for Omitting Game Limits - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaGRkR2kzbklRelNtNzBkZkwyZVVLdzRCcElYSlJIUmJuVU4tRldKRzk5UmhNMEhOX3N5M1FPYkdUWlJfeTB0ekI3YzlkVm5NQ3MwS1c3ZmF1cDVKTmFNSUxSdmYyT0JZWTBvZUJja2xybkFMdG9xdE0wNjRRUVZIZTVRN3hwb0JuSkF6YkR3?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Naver Extends Beyond Search to Offline Spaces - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVFFqQ3pKeC14SzE3LWF5VXU1ZkFtRy14QlVkVTdQR3E4NWlRQXVVd0pjUHhjS05ldDNURUpDcUNpeUs2OVBBOVpRZmZrQUdWUmdVX3lSODB2c2g2Q2RjUG5vV1FubjdhaDVWM2tEeHMyVzZRTW9lRDQzalBnbE5YZnQ0bTFaMklw?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "아레스 캐피탈(ARCC) 2026년 3분기 실적 발표 콘퍼런스 콜: MFIC 딜 및 금리 순풍 - TradingKey",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE95WTh3TlBUeno1YVBrbmh4OWtfU1hJVDM4c3ZfNzByMXA3Zm9ueGlIdVJlTm13VjdGY09wLTFiU0Vya002NThQNjRIbXh1TExadHowaE9PenVwa3Y4czVnb0MzQS1zS2ZERGFYNkk0dlN4NjdKTFE?oc=5",
+        "press": "TradingKey"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
