@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "generated_at": "2026-10-28T23:31:59.711898+00:00",
+    "run_date": "20261029"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 102.15 (-0.16%)",
+        "description": "전일종가 102.32 / 변동 -0.1650"
+      },
+      {
+        "title": "미국 10년물 금리: 5.05 (+1.04%)",
+        "description": "전일종가 4.99 / 변동 +0.0520"
+      },
+      {
+        "title": "VIX 변동성지수: 16.91 (-3.48%)",
+        "description": "전일종가 17.52 / 변동 -0.6100"
+      },
+      {
+        "title": "S&P 500: 7743.98 (+0.28%)",
+        "description": "전일종가 7722.60 / 변동 +21.3799"
+      },
+      {
+        "title": "나스닥100: 29813.16 (+0.55%)",
+        "description": "전일종가 29651.44 / 변동 +161.7168"
+      },
+      {
+        "title": "다우존스: 52475.10 (+0.19%)",
+        "description": "전일종가 52377.57 / 변동 +97.5312"
+      },
+      {
+        "title": "USD/KRW: 1342.05 (+1.30%)",
+        "description": "전일종가 1324.77 / 변동 +17.2800"
+      },
+      {
+        "title": "USD/JPY: 157.74 (+0.14%)",
+        "description": "전일종가 157.53 / 변동 +0.2170"
+      },
+      {
+        "title": "코스피: 5638.34 (+3.09%)",
+        "description": "전일종가 5469.47 / 변동 +168.8696"
+      },
+      {
+        "title": "코스닥: 743.83 (+2.29%)",
+        "description": "전일종가 727.21 / 변동 +16.6200"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.460 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.35 | GEX +2.1B$ (만기:2026-10-28)",
+        "description": "콜OI 156,256 / 풋OI 211,007 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.62 | GEX +1.0B$ (만기:2026-10-28)",
+        "description": "콜OI 110,694 / 풋OI 179,118 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $165.91 (+5.37%)",
+        "description": "거래량 22,028,455주 (평균대비 1.6x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $775.65 (+0.31%)",
+        "description": "거래량 2,758,484주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 57.5% (115/200종목)",
+        "description": "평균 MA 대비 위치: +0.5%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 51/100 (Neutral)",
+      "description": "중립 — 방향성 불확실, 관망"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Nasdaq wavers, S&P 500 and Dow climb as Fed votes to hold rates steady in 10-2 decision - Yahoo Fina",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdHZRVUxuLTdMcW5FVjFpLTJKY29qczJmSWtSOVhIVmFTSUR1WnR2X0NsSGxNcDBrcU5IcWVvRzNFMkZQOWpENENYNUZ2UU8yTXFKSW82SEVfY1ZMZHF3Q2dtSDU2SGRTNS1tRk1XQjVNdkVkMlZVTXdJZ3E0eHV2ZjZIeDdwWWxUeFU3VEVjaE85UnBxMzRWVlFuREt1MFliTHpmcFpKWXJrbzAwWEdnSDFHSHpXXzJubzVCYVM4TzNkdndFYV9EVTZmQ2s1SXRD?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Semiconductor stocks lose momentum as S&P 500 takes lead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDgxb0gxQ25yWFJzSUpFVnFmZG9ZMWJ0alVTM1E2VkpWdWl5NFBMb0U0amZ4UU9UYkNsbnNLWGFoNndEd2ozLUNGQmpDVEVaYTZMei1VZnY1QnVJTGR0VWlnakdnUV81YTJNNkN3WGpUTWFONFBsVlZhZW9xQU5VdDJfcFlIOWIyTUVzY1FqNGVGVk4tUHF0WHF0NldTeXk4RmNv?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock market today: Nasdaq wavers, S&P 500 and Dow climb as Fed votes to hold rates steady in 10-2 decision - Yahoo Fina",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdHZRVUxuLTdMcW5FVjFpLTJKY29qczJmSWtSOVhIVmFTSUR1WnR2X0NsSGxNcDBrcU5IcWVvRzNFMkZQOWpENENYNUZ2UU8yTXFKSW82SEVfY1ZMZHF3Q2dtSDU2SGRTNS1tRk1XQjVNdkVkMlZVTXdJZ3E0eHV2ZjZIeDdwWWxUeFU3VEVjaE85UnBxMzRWVlFuREt1MFliTHpmcFpKWXJrbzAwWEdnSDFHSHpXXzJubzVCYVM4TzNkdndFYV9EVTZmQ2s1SXRD?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "S&P 500, Dow rise for third consecutive day after Fed holds steady on rates: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsTVRHVVZZQzNkSHotQ09vdW54RlVucGpqVlNDcU44bWk0NnMxZExaUkZPWGYtRFRhdGxFSjA4OUpQTzdwRGROeFRyY3pTOTVvQkowRW5Ca1NyMjdmbkl1Xzc3SGpJcUNvckl0SVlVeWxNMUp4LTNv0gF8QVVfeXFMTUQ5VHp4S2d6WFdtUkdIYlZKMGp6RVd0NUxnTm0zU2ZfOW9iVHpaWGlaaDFwQXpEMGd2TllQUFJ6ZjQ2YkVxMW5XZnRhT3dKN3hfUTVjU3BhX3J2YVlwRGRPOG5hbWN0T19aUEZWQWg1cHo3X091aURwcV9LUA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Semiconductor stocks lose momentum as S&P 500 takes lead - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeDgxb0gxQ25yWFJzSUpFVnFmZG9ZMWJ0alVTM1E2VkpWdWl5NFBMb0U0amZ4UU9UYkNsbnNLWGFoNndEd2ozLUNGQmpDVEVaYTZMei1VZnY1QnVJTGR0VWlnakdnUV81YTJNNkN3WGpUTWFONFBsVlZhZW9xQU5VdDJfcFlIOWIyTUVzY1FqNGVGVk4tUHF0WHF0NldTeXk4RmNv?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Investors turn cautious ahead of tech results, Fed update on rates - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWXJLMXkxeUZ6TUhnSmg5ck5NUG5yRDZSOUV6WUViLW1wUDh5NThKTS0xRDZjNjhtSzAtcXYzelNIQlZrcmJYSl9EZmFrbHpiamtVaEpJdVdKWVVYSTJZX05TUzROdER1Y1BvODJXZGItbWtVWFNWal9Ga1Baa2pfZjJHSy1kSDdaU3FJZzlxSUhSWm1H?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Jim Cramer says these tech giants can weather market turbulence - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yRlBaVktxcDJxVDYwSHJBcFQwWVBlZ1VSNGtvbi00R2JEWUVLZ3JUYlNlajl0OTUwNzVidmY3eW1kRHMwQUVtQzVnVE5nbjMwSU16RmZJUUJpVUE0Zzc1Sm5GcXk2aDBYUTRQOHhhb3dvc196dzFWUG1IZWcyd9IBgwFBVV95cUxORER6OVIyYVN5Skl6bXJHZ2x6ZWlDLXdrOXlaVVVJQkF6WHVQT2oxZ3lXNi1ndHhzc1k0X1ZUbU9YSE04NFNBUWx1UGl4RnVlTUhnRmdfTHNSNVZ1ZURPa1RuU1lza1FHc1lTLTg3WXA4ZG1CR00zQ2xaMXpoRjFiaGh0bw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: Nasdaq wavers, S&P 500 and Dow climb as Fed votes to hold rates steady in 10-2 decision - Yahoo Fina",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdHZRVUxuLTdMcW5FVjFpLTJKY29qczJmSWtSOVhIVmFTSUR1WnR2X0NsSGxNcDBrcU5IcWVvRzNFMkZQOWpENENYNUZ2UU8yTXFKSW82SEVfY1ZMZHF3Q2dtSDU2SGRTNS1tRk1XQjVNdkVkMlZVTXdJZ3E0eHV2ZjZIeDdwWWxUeFU3VEVjaE85UnBxMzRWVlFuREt1MFliTHpmcFpKWXJrbzAwWEdnSDFHSHpXXzJubzVCYVM4TzNkdndFYV9EVTZmQ2s1SXRD?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Hynix powers KOSPI rebound as Korea eyes Samsung 30 trillion-won payout - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdWRLbDJDVnY5MFVxSkdQZzM0NHZiMFFkSGNHbncxR1pZV0VhRWpDbG93d25ZUkRyVVR2dzUtbFM4dDFYT0VzMzNHU25nZnpRbndfMUhlVHNnVVFOSU11ei1MMVQ1Q3d2RUQwZkRQVkVNdXZEdzEzRmpVWk03YnlyOdIBlAFBVV95cUxOS0pCeUhQMVBra09KMTlTaHljUU9BZjBJeXZDX09zWXJUSkpWeFhiczJsQV9mM1dQMFVrU2ZrSVI0aEFINGM0YlEwNnd6TU1hdUdUajdGUFdERlIxbTYzU183amNuN3BXOGdYYjRVMWR4T3AydURuSUVMNlBWSDdDTXBXQ205aVI4N3gtcGsxWEJkX0ZR?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Semiconductor Effect Boosts Domestic, SME Sentiment to Four-Year High - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOXI3aGNTQkhySzJOcHZIR0U1TURYbElCM2VDaUFYZFZrWVRiQUpzc0hpZ3hIOEVGcmN3UTZUNXh3OVljSkg4dW1IdXVvWXFyN3FnWF9aNVQ0dmlYcmxiS2MxMnFnLUFqTDJxNjhCeTI3SVEwYTJyU0g5dW5zX3BGX0Vxc2kzR1pSYkF4UXpR?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "[전문] 연준, 기준금리 동결(영문) - 연합인포맥스",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nNk94SHNHSG9lVDVvQUIxbUdpOGtjQXJYWThpa2d0Q013Z3E0cDJCSTJIMWlXQjBhVFpLZTFEUEdMZ3IxY2pNWElpMC1YVHlGQVlyVTlmSXA3Y3c4YXc3T0hYZ2tGc1BlOFpfeEhYVGpJMXQ30gF0QVVfeXFMT2c2T3hIc0dIb2VUNW9BQjFtR2k4a2NBclhZOGlrZ3RDTXdncTRwMkJJMkgxaVdCMGFUWktlMURQR0xncjFjak1YSWkwLVhUeUZBWXJVOWZJcDdjdzhhdzdPSFhna0ZzUGU4Wl94SFhUakkxdDc?oc=5",
+        "press": "연합인포맥스"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
