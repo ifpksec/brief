@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "generated_at": "2026-10-30T23:32:11.723826+00:00",
+    "run_date": "20261031"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.96 (-0.07%)",
+        "description": "전일종가 102.04 / 변동 -0.0760"
+      },
+      {
+        "title": "미국 10년물 금리: 4.93 (-1.20%)",
+        "description": "전일종가 4.99 / 변동 -0.0600"
+      },
+      {
+        "title": "VIX 변동성지수: 19.42 (+12.91%)",
+        "description": "전일종가 17.20 / 변동 +2.2200"
+      },
+      {
+        "title": "S&P 500: 7580.07 (-1.82%)",
+        "description": "전일종가 7720.39 / 변동 -140.3203"
+      },
+      {
+        "title": "나스닥100: 28384.85 (-3.46%)",
+        "description": "전일종가 29402.51 / 변동 -1017.6641"
+      },
+      {
+        "title": "다우존스: 51770.31 (-1.09%)",
+        "description": "전일종가 52342.56 / 변동 -572.2500"
+      },
+      {
+        "title": "USD/KRW: 1333.44 (-0.51%)",
+        "description": "전일종가 1340.34 / 변동 -6.9000"
+      },
+      {
+        "title": "USD/JPY: 157.52 (-0.20%)",
+        "description": "전일종가 157.83 / 변동 -0.3140"
+      },
+      {
+        "title": "코스피: 5937.66 (-1.24%)",
+        "description": "전일종가 6012.44 / 변동 -74.7798"
+      },
+      {
+        "title": "코스닥: 753.23 (-2.34%)",
+        "description": "전일종가 771.28 / 변동 -18.0500"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.516 (강한 반상관)",
+        "description": "기간: 20영업일 / 해석: 채권-주식 디커플링, 위험회피 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 2.24 | GEX -6.0B$ (만기:2026-10-30)",
+        "description": "콜OI 760,229 / 풋OI 1,701,981 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.70 | GEX -14.9B$ (만기:2026-10-30)",
+        "description": "콜OI 499,928 / 풋OI 850,283 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $152.89 (-5.52%)",
+        "description": "거래량 22,500,953주 (평균대비 1.4x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $759.18 (-1.78%)",
+        "description": "거래량 6,012,218주 (평균대비 1.3x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 62.0% (124/200종목)",
+        "description": "평균 MA 대비 위치: +1.1%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 30/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Nasdaq, Dow, S&P 500 clobbered as October closes with brutal sell-off - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVEJYRTREa2JJM1FSeW1nTTVldXlmeElCanRweTcwcVpudjZ0WUtBVjU5RURERzdESU8tVV9GanJ3VHlBUlhkWjVmbG5ielVFbEx5cXNLX0M1Vk9XTU5nTUtLVm0xaDA4LTlaZ1BnS0Z0d1FrNXBHVTJHLVFYUExYQjhCNDVGRWhNWm0wOEFjbG05R2toV25YMlZ2LTEyUUVNR0t5R3A0WF9NZWw0Zk1LWjBUaFpWdHVHdVJqWmJ4UkMxaUJaX3NrS3M3eFBWQQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "3 Dividend-Paying Value Stocks That Let You Rest Easy Even if the Stock Market Sell-Off Worsens in November. - The Motle",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU21jYWFYTDc0MDhPd1JtU045Y1dlUjhMZnhfelNpRlF4VDQ5YjhHd2t5alRqb09xYXdvNElRQm1nenFCS2hwTE45RnJtbmZsQ3h2Y2NhSURhTTgtajNzUHZNSmZiTFlKTkVWNVNPUHh2amhicHRjVWNPNUJTQjlDV0dVZlVVYmU1UVlJYzlvQ0UyUEFNX2xnNg?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV0lZbXhSZjlKZXRPOHVOUjcxUmctdlM2ZDc4V1FLTG1uNzlJNV9QMnpBYXZPSGt3QXlJSWs3d1hrb3BZWVI0ZEpnekhBX3NSWGxYd1ljdm5EcmdkMldET19ITWJPcC1zQ3lFLVhHT2hPeGU2VmlYYlVFd2FNT0xpNlFxdnNtRzNXamxB?oc=5",
+        "press": "The Guardian"
+      },
+      {
+        "title": "How will the US midterms affect Australian markets? - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWlVwdEF5SHdYTWotR1BUWmtXUWdHdXdQTzdQV2x6RnM1YmNwak1VSW9IcHJmT2lXaU4xRnFWZVNfeFNGOVJDM3I5amxtWnA3TVRra0tfa2ZwSS1Nb2dYVFljZXdPXzNCUW1oSG5QQ0JqZkdCemVkNklwSjdZdlFPaEszNkVOT0tSUm85Ul9EekR5cnRtemdpeEFxZEM3dGhvTHJYUkt2YXE?oc=5",
+        "press": "The Guardian"
+      },
+      {
+        "title": "Stock market rocked as investors dump tech shares; Nasdaq suffers worst day since June: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZVVQzRnJqelRyUjFGQjZLZlhIbGsyQUxabzc5TE1TaEx6TWRnaTRRcXVmanBTWXZ0NmhmZWpHeVZFZ3lSX1kyaEhfMnBVMnprQ0xscEpBZzhOWFZLbnZCcUtDUnJJNmdROEhxOVhSRDdFVDd4THg00gF8QVVfeXFMTmgwT1lfNnJpUlczcFVnQW9lanFWbDZzYXRadlNsNmRoS1NSVURVS1VsRjlsWGlZOGhiTkF2X3FJRzJnTllYaTAxdVRCSjgyUlduRGRQTV9kUzNDdFVyQ0VWUHQ3ODU5bW1hZ0hvS2FubEFWMEJnWnAtdUN0bg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "If AI Spending Slows in 2027, These Semiconductor Stocks Could Hold Up Best - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0FnTTRGYlBXT1k3T0RjQmoxTWllR24wNExmQ0JqanRvLTBuT2ZwY3Z3aGpwdzJmVElmeTRneTdNNGItdG02cHhmVGc1ZXdrTkxKMEhCQ3NaOHhLMW5fT0FHSWRiYk1SVW1NcVBLQUdIUFR6SGp5eFAxckJLekVXR2ZwWGIybkh6VktsMEZxSF9abHREdzBoVkdqMHpwaldmNUFGV3pZWGJHTG5XbGdPNDVPcWtIRHRlUWc?oc=5",
+        "press": "24/7 Wall St."
+      },
+      {
+        "title": "Intel shares plunge 28.6% as U.S. stocks suffer broad selloff - Honolulu Star-Advertiser",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUItYV9ZREppMC1aclQ5ZUJ3cVBpX1BSeG1VVVVBOXY1T2pudWpjaFYzYjB2S2RoN0R4dFk0UnFwV3kyUm1RbnA5VUpyUmlxSzRLZERqNWpjR0UwMkI5bDc5RVRRLWxTQS1Ldll5c0NLcDVHcFVYZUMzNFI3c19BYW5xWVp3MTFFcFFtak9OOWVfb3JLMDg5WXNvM081NXA5c3VzNUtneEZmMXNxZTEyYWtLSXQ?oc=5",
+        "press": "Honolulu Star-Advertiser"
+      },
+      {
+        "title": "Tech Stock Selloff Deepens on Earnings, Oil Rises: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNLWZRMVRrOG1xQ1NBUE55MXNIWTFyTFBfUDBwVnUwbDRHOHNibGNUazhpRVVJamItaGc5UndhUngwMTFOLUE1M3dscmdtSDBvWUJrNmoyWnFGZ2tBcm9VZjZ5MXcyQXFuSDZmWmE4WVlheXZBeTVTci1CXzFQMUxnMkpFRXBVTjh0SlI0N0hobUZzOHh3?oc=5",
+        "press": "Bloomberg.com"
+      }
+    ],
+    "domestic": [],
+    "naver": [],
+    "telegram": []
+  }
+}
