@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "generated_at": "2026-10-31T23:32:10.682613+00:00",
+    "run_date": "20261101"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.88 (-0.16%)",
+        "description": "전일종가 102.04 / 변동 -0.1600"
+      },
+      {
+        "title": "미국 10년물 금리: 4.93 (-1.20%)",
+        "description": "전일종가 4.99 / 변동 -0.0600"
+      },
+      {
+        "title": "VIX 변동성지수: 19.42 (+12.91%)",
+        "description": "전일종가 17.20 / 변동 +2.2200"
+      },
+      {
+        "title": "S&P 500: 7580.07 (-1.82%)",
+        "description": "전일종가 7720.39 / 변동 -140.3203"
+      },
+      {
+        "title": "나스닥100: 28384.85 (-3.46%)",
+        "description": "전일종가 29402.51 / 변동 -1017.6602"
+      },
+      {
+        "title": "다우존스: 51770.31 (-1.09%)",
+        "description": "전일종가 52342.56 / 변동 -572.2500"
+      },
+      {
+        "title": "USD/KRW: 1335.10 (-0.22%)",
+        "description": "전일종가 1337.98 / 변동 -2.8800"
+      },
+      {
+        "title": "USD/JPY: 157.80 (-0.02%)",
+        "description": "전일종가 157.83 / 변동 -0.0290"
+      },
+      {
+        "title": "코스피: 5730.74 (-3.48%)",
+        "description": "전일종가 5937.66 / 변동 -206.9199"
+      },
+      {
+        "title": "코스닥: 724.38 (-3.83%)",
+        "description": "전일종가 753.23 / 변동 -28.8500"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.516 (강한 반상관)",
+        "description": "기간: 20영업일 / 해석: 채권-주식 디커플링, 위험회피 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.69 | GEX -1.1B$ (만기:2026-11-02)",
+        "description": "콜OI 68,079 / 풋OI 115,120 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.51 | GEX -0.5B$ (만기:2026-11-02)",
+        "description": "콜OI 71,310 / 풋OI 107,918 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $152.89 (-5.52%)",
+        "description": "거래량 22,507,600주 (평균대비 1.4x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $759.18 (-1.78%)",
+        "description": "거래량 6,015,300주 (평균대비 1.3x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 62.5% (125/200종목)",
+        "description": "평균 MA 대비 위치: +1.1%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 30/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Miami International Holdings (MIAX) Stock Climbs As Q3 Earnings Spotlight Margin Strength - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTWdiNzNuYTVkRmJUM3pWNS1yUzFuT2dtSkVNbGNZY3JKbmZYUWhXYkJsMTUyRS1FR25TdHctYlpqWTR2M2owUlRPZUFQRzM1c2ZYVE9hWVE0Mkp2bTgzOWVicll5LVZGVWNBbVNoMmhVOHB5MjFJQXJOS2JjZ3JNWDJxZzZhYWstQmpsYklEaGkwOVFLSlhrVlM5YWh3M3FFVXUyYXNDSQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "SpaceX Stock Fell Below Its IPO Price, But Binance’s CZ Is Bullish - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUc4WjV1WEdfcjZ5Q2RuYVExLWgtT0M0X01jUkw1NV8tMXRFS2V4eDNBdjJIU001V3MwRi1aTG00T0x2bUptb2tnYXRvQmRNNjhVeC1KUWZjUVBHVG9rM2dWNXlyU1RHcGpUU0hJOUlyWnZVQVBlV3hSbHctSjBVdHJsaWQtY2xPSVYwNkJkUnhuc1ZtVklN?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Why Reddit (RDDT) stock is trading lower today - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDhhRTJNTXJTb3hUWWZvVDBROUtaMHN3UnBWSXRvbDFrRkd2aHoxeDJDc3I5b19samNnUUZKdzlEMlJVVWRlenVjZ29TZTBUaXoxVlRPa09zeE5pcWR4NjE3V05yTkw0QTB1OVZVZVp1NVZ4WmZfMnhUNGtubElFLXBvRk84MHNPdDJpRno3RjV5Z1NRaTQ4OHdB?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "FY27 Q1 - Press Releases - Investor Relations - Microsoft",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaXNEUTdVWndDS3RFQS13VmtYUjYya2J6NTJvOU5rX29OY25MVjd0ZDFrakZJanZ6TXpmYnduckNrQ2FkaUFRaXlaR1ktNXhwdEozTUVGcVUwRDRLa3BjdkUyNDU1Skk3cnA1NnlxQWFBWG5JRUNlNU9UQjFueDM1V2pla21XZmFfWUE?oc=5",
+        "press": "Microsoft"
+      },
+      {
+        "title": "After Eli Lilly’s Explosive Earnings Report, Is It Too Late to Buy the Stock? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ0FMM2xjcVAtVGRoeUZuY3ZNUVd6cDJha0lwbTBYNDlSQ1J6U0VtX20wNS14M2Fab3JzRmliVGJ2OXlYQmUzOGFHSmNIOTRqQjcyb1lKQnBBRXMyUG1Cazc5Y2JKSFkxb2VURFpNQkJjblVZaVhzVG12RDJLbHY2ODBUYW5rNlM0WEVCVlRmWk8yanNOb3dUTFhYaDhVeWo3bEE?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Jersey Mike's CEO says the stock is 'undervalued' after post-IPO slump - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMGxwQjhiYkhucVBWTDJoT0JiZHpHbjBwNHVjd3RYNzlJYktOaWV2ZDRvMjJvcVpRWXd6NmEzNWwtSnJpRUo1ZjlCN1JNM28wVnZ5bFp4TzFQQ0F2dFljSnluZXFDbTNIUUNCMTdUeFhELVZXa3JweVMyT01DSGpBX3l3WS1Lc2N5QnRrT2RKR3pVMG5xbXdkVVEwQnlhV0dTaTBMQVM2NnRTS2s2TUhNRVBlNk9wMmFmUmQ0c2c5bEZuNE1DSzJzd05RWQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "5 Best High Growth Stocks Outside Big Tech - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSjZtSjYzQU0wVW1HVkduSU1DTXZxMFJGcVFmVHlxaGp4ekxrdkdLNDQ2R0JkZWl6WFBnSDFoU3R1b08xVy1DVm9rRHBiM2k0eTFvR3RCbE5pMXY3d2xsV3hnM0tCMlVRWDFNLTFCOS1DRTRmeS1zRUhuWERIRVlkTFh6ZW8weHNObzdpMFlEbmFkTlFO?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Grease Market RD Size, Share and Trends 2025 to 2030 - Precedence Research",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBZN3lSX3AyM04xU21oXzhOSWtJd2xpZWMyODE5dHVhcVpzTjV2WDhiV01KM09McWoxaVM1d1ZtbXZKT0dRcDZQTVVGQjJMR3Btd2lmby05UEFSTlNR?oc=5",
+        "press": "Precedence Research"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "U.S. Midterms in Focus as Korea Reports October Inflation - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPd2xWNmhUM0VnUG9DVjhGU1B2Tnc5dU1vVnlRdXlReDJQY0hqMFN3R0FNbV9vbDk5SnZjbGVYWVFfVGRVS3NnYW5tenQxQzVzLTNDZTd1YVMyODhyMFBza3dfejhFY2tlWWwyQ1l2VEVfck0wNWFHdzE4d2NDV1JWUDB1NkhiLTIwZFFNZlc4S2Q3S0hWQnJTZm9YVDk0UQ?oc=5",
+        "press": "Seoul Economic Daily"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
