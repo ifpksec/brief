@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "generated_at": "2026-11-01T23:32:09.603133+00:00",
+    "run_date": "20261102"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.96 (+0.08%)",
+        "description": "전일종가 101.88 / 변동 +0.0810"
+      },
+      {
+        "title": "미국 10년물 금리: 4.93 (-1.20%)",
+        "description": "전일종가 4.99 / 변동 -0.0600"
+      },
+      {
+        "title": "VIX 변동성지수: 19.42 (+12.91%)",
+        "description": "전일종가 17.20 / 변동 +2.2200"
+      },
+      {
+        "title": "S&P 500: 7580.07 (-1.82%)",
+        "description": "전일종가 7720.39 / 변동 -140.3203"
+      },
+      {
+        "title": "나스닥100: 28384.85 (-3.46%)",
+        "description": "전일종가 29402.51 / 변동 -1017.6602"
+      },
+      {
+        "title": "다우존스: 51770.31 (-1.09%)",
+        "description": "전일종가 52342.56 / 변동 -572.2500"
+      },
+      {
+        "title": "USD/KRW: 1332.78 (-0.39%)",
+        "description": "전일종가 1337.98 / 변동 -5.2000"
+      },
+      {
+        "title": "USD/JPY: 157.57 (-0.15%)",
+        "description": "전일종가 157.80 / 변동 -0.2380"
+      },
+      {
+        "title": "코스피: 5730.74 (-3.48%)",
+        "description": "전일종가 5937.66 / 변동 -206.9199"
+      },
+      {
+        "title": "코스닥: 724.38 (-3.83%)",
+        "description": "전일종가 753.23 / 변동 -28.8500"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.516 (강한 반상관)",
+        "description": "기간: 20영업일 / 해석: 채권-주식 디커플링, 위험회피 국면"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.68 | GEX -1.1B$ (만기:2026-11-02)",
+        "description": "콜OI 68,414 / 풋OI 115,121 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.63 | GEX +nanB$ (만기:2026-11-02)",
+        "description": "콜OI 71,395 / 풋OI 116,378 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $152.89 (-5.52%)",
+        "description": "거래량 22,507,600주 (평균대비 1.4x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $759.18 (-1.78%)",
+        "description": "거래량 6,015,300주 (평균대비 1.3x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 62.5% (125/200종목)",
+        "description": "평균 MA 대비 위치: +1.1%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 34/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock futures tick higher ahead of busy week of earnings, jobs data and the midterm elections: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrbkQzMEJlOVN5RDBtcEZuU2VQSkZydW01ejJqY2hObWJXOUl0dUhUMWVoVXRwZWhsU3BIRkVGR0lhc3JmM0w4ak5ybUpCVElXOWxKMm1tQ3ByOE5TNzNJQm5YUDFaa2hRNENZNDJacnlMci1tZmU00gF8QVVfeXFMUHRLQWRCRkw3cUdsOVZINFdPc1VsLVN4UzJKT1BmX2ZaMlBrcDM2WER5cXY1LTdZQjZXMy1FVUU3RFhFcHVxcXA5eEx0a041Vlo2Y3BlVXN2S0hpTG9tVVV3SndoWVRMU2JweGZKUVNpVWxJeXk4Sno4a2hmZQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "This researcher says he has cracked the code of market bubbles — and he has bad news for investors - Financial Post",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa0tIWkJKNTNMU3hCTVpxeXdfN1NiS3UtRFA0VGxJbUlQM2tyNXZpbl9IendUMkYzX09rcWNId2JaTmYyMFJtUUMtUFVReUl2T2NuVU5LSjB2NVk0RU1IQ0ZxajYyWldjN3JtV3lZMFRXNy01cDJOOGExREdvSXI3WkhKMWxFeDdQamtVbzg2MjRZSFpHcjhJRldB?oc=5",
+        "press": "Financial Post"
+      },
+      {
+        "title": "3 Catalysts Cramer Says Could Extend the Nasdaq Sell-Off This Week - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT2hzY0pvZ2lobC01MmFWT3JWTVhKd3o3d3RIZXA1UkxqN0FwY0RyNWIzd19vZ1JodGp6Y2R2UGV3RUd2YmZ0X0VIWjF1bEF0VFI3d0doOXlrMlhnQWpmU1BGMUZyT2xUN01zbnJzMFVHYU5TMjc3REJQQUFWSFBQVDhsWl9ZYmlKNXhqN2RjVXhFVTJ3NXZsSmNB?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock futures tick higher ahead of busy week of earnings, jobs data and the midterm elections: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrbkQzMEJlOVN5RDBtcEZuU2VQSkZydW01ejJqY2hObWJXOUl0dUhUMWVoVXRwZWhsU3BIRkVGR0lhc3JmM0w4ak5ybUpCVElXOWxKMm1tQ3ByOE5TNzNJQm5YUDFaa2hRNENZNDJacnlMci1tZmU00gF8QVVfeXFMUHRLQWRCRkw3cUdsOVZINFdPc1VsLVN4UzJKT1BmX2ZaMlBrcDM2WER5cXY1LTdZQjZXMy1FVUU3RFhFcHVxcXA5eEx0a041Vlo2Y3BlVXN2S0hpTG9tVVV3SndoWVRMU2JweGZKUVNpVWxJeXk4Sno4a2hmZQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "AI Investors Are Racing to Get Insurance on the Biggest Market Bet in History - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb0JSYUVTbWFDbVNEek5LbEFJckNNWEQ5THF0R1VVbnk3RHU5Q3RUeV9LT19Bdm9QZXBBMkR2cUNoVHhuN1dUcGFabnZoVmd0eUl6dHhrbGdYNHJRUnBGZF9QRTZZTFZXNGg1NlZRTmoxS1NsRVRWVzU2UmRyeFhReE13UnZBRE95UVVEN2pkaVZ6aWVic3dmVDBrQWFuZ1Q2QXkzdjRwUzJIVzJJVVBqMm1qTDFLZ1llbXdtcjdn?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Energy Transfer's Next Earnings Report Could Send the Stock Higher - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU2M5cm1iR2ZRMlU2aEpHYUpvb3lNcWpWcUEtcTVQdmw2TjJFazlSSGo0ZWpOY3l5R0d5Q0FVZjBYTi1RTVFvMzZ4d1BiOHpyWGgwekFkX2F3eGFSb0pUMGFja01jQ3F2dWZlVTNQSG0xV0M1TEJBUld1bEFDcVF3bDRsb2d5OHdIUndpNldhZU1vRlk0X2lWcDdn?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Crescent Energy (CRGY) Q3 earnings report preview: what to look for - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSVVkV2IzNmN1bUljYUxRYm5hRWtpT2RONERrc01XVWE2cTNBQ05XODdXVk9ya1RSU2NjQ0dKMHZUc3FtQjFkaW1SNEJ1U3pBRzFxaGhwWVhweTNkRmczQ29UVVM0a1V5MDdLUEQxRzlyQjA5b0JrUUpDTjJEYXlvOEgybVFKd285RXhwYTQydHNiNWtkREtSS0NuMnJWdw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Dropbox hikes IPO price range - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RRTdLaG51by1YdVdhb2EzU1F4cW0wUXBTWnVTMWY2enE1RnlvSVprOXlWeXVGTERDVVRORFY4LUJIeEFCeXZDWDRZZUNyc2UwWVJ3U2RBcXNfT3Ju?oc=5",
+        "press": "Reuters"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Doubts Over 'AI Profitability' Resurface... How Will the KOSPI Fare Today? - SBS 뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlRUJKc1JfSDJTeTlUcS02Q0xaazFES2tDT25LdldvZ0FwZ1BtMjAxNWFIenVacFNQUlpLU2YwWjRubzZkSE9sZUdJeVYxNFRGeWMwS2RaODJnWnNGTDd4QlBTV2VtNkd1WktWUF9n0gFmQVVfeXFMTndWSzdxLUNpeUdrbERSbnRPeF9VWWt4Nm8tYjU2eVJ5UGh5V0h0ZkRjaE9FQnMzR0Y0cUtnMFVUdVR2Wk5jR1hjaW5kdnF2QkFhdGJSRU9ZdlptYU5aRTdfYUpuYjFn?oc=5",
+        "press": "SBS 뉴스"
+      },
+      {
+        "title": "52-Year Intel Shock Triggers KOSPI Plunge - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaFAxZW51VllNbHRXSl84Q1FCeG5ZRExYVFg3QTFuVEVzVFlaSDItMlhkUmtidl94WUVYQmM0dFZ5elBSLVQwSGhPQ2FCajlFYmxza29sSGk2d1VWVk44cVVuRmh0R19USG91Y2k0OWJmc2FZWExNNlI2SU5sODZIRGRqTkNsVklGWFR6ZTJR?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "KOSPI Sinks 16% in October, 7th-Worst Monthly Drop on Record - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdnNaaTAyLUlKUlFCVzlFYWN1aEI3R1BzSy1ZT1QzQzlwLW5qQm9TYkJvRVFPS3hsVFlGaVBFbDN2bm4zM2pYNFcweFlwRU5WM19MdWZiWXRCbVk1c05OcEJKVVc5a1ZrNXRTUnBrTmZfaEpVVlNVaHRYZFhBSTd3a0hhYmpidUhudkZDbHBqX0hBcjE0QTVYa0tnRlRYTlpQMnlN?oc=5",
+        "press": "Seoul Economic Daily"
+      },
+      {
+        "title": "Three Firms Debut on KOSDAQ as Six Others Open Share Subscriptions - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNak4yRWg1RmxoU0dYNm5DSER4aFFscFdnc1pvaHU3R05xWkczV0ZLM29UUzBQc1gtcnZlbk8xU3VpLVIyTlRiOTJIZkhHR1NwVFdkdEhUdHhLVWp4YS1VWUpvRlA5Ymo0UnZBT2FNd01BZC01VlloeXFrNlNFSHRUdFQtOWt0N2pkUFVOX0JZSFAzRlRqV0tsMC1R?oc=5",
+        "press": "Seoul Economic Daily"
+      },
+      {
+        "title": "151 listed companies with low stock price net asset ratio (PBR) among KOSPI and KOSDAQ listed compan.. - 매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51bWc3ck4tajg5dy1Ec2NrNDdpNXBhNUExSVhpdENybTNVcjllSFhibzNwbVlRU24teVBvbDliaS1ZNEhwR1BKSEZpNDhVcHc?oc=5",
+        "press": "매일경제"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
