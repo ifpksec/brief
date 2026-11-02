@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "generated_at": "2026-11-02T23:32:19.074929+00:00",
+    "run_date": "20261103"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.80 (-0.08%)",
+        "description": "전일종가 101.88 / 변동 -0.0810"
+      },
+      {
+        "title": "미국 10년물 금리: 4.89 (-0.71%)",
+        "description": "전일종가 4.93 / 변동 -0.0350"
+      },
+      {
+        "title": "VIX 변동성지수: 21.15 (+8.91%)",
+        "description": "전일종가 19.42 / 변동 +1.7300"
+      },
+      {
+        "title": "S&P 500: 7541.40 (-0.51%)",
+        "description": "전일종가 7580.07 / 변동 -38.6699"
+      },
+      {
+        "title": "나스닥100: 27989.82 (-1.39%)",
+        "description": "전일종가 28384.85 / 변동 -395.0293"
+      },
+      {
+        "title": "다우존스: 51983.98 (+0.41%)",
+        "description": "전일종가 51770.31 / 변동 +213.6719"
+      },
+      {
+        "title": "USD/KRW: 1344.28 (+0.47%)",
+        "description": "전일종가 1337.98 / 변동 +6.3000"
+      },
+      {
+        "title": "USD/JPY: 157.91 (+0.06%)",
+        "description": "전일종가 157.80 / 변동 +0.1020"
+      },
+      {
+        "title": "코스피: 5730.74 (-3.48%)",
+        "description": "전일종가 5937.66 / 변동 -206.9199"
+      },
+      {
+        "title": "코스닥: 724.38 (-3.83%)",
+        "description": "전일종가 753.23 / 변동 -28.8500"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.437 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.82 | GEX -1.4B$ (만기:2026-11-02)",
+        "description": "콜OI 163,112 / 풋OI 297,373 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.19 | GEX -1.3B$ (만기:2026-11-02)",
+        "description": "콜OI 203,903 / 풋OI 242,508 → 균형 | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $151.62 (-0.83%)",
+        "description": "거래량 14,648,768주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $755.36 (-0.50%)",
+        "description": "거래량 6,407,843주 (평균대비 1.2x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 67.0% (134/200종목)",
+        "description": "평균 MA 대비 위치: +1.8%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 37/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market Today: Nasdaq Falls 1%; Dow Rises After Friday's Selloff - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeE1wX0VMX3RqMkpRUmkyWE9SeV9rYlFqNzBTb2QyalVqQjl1Z1FjaWFVd3J3RDJRUnFMTHd3dzJjQlI1R0dPRWtiNjM0ZlIzTUtWV3BUWHhEU3gtN29FbVNfSENrREdRX2dZejFlbE1xRHF2U1ZMS3o5TnMxb0NwMUV2WHpwZ00?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "AAPL Stock Ekes Out Minor Gains After-Hours After Tapering Q4 China Sales Growth Offsets Earnings Beat - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObzdtN1B3QVIxc1dVNk9Cd2xmZUVPTm1SVDM2TVRpeVNfOUpwRzQxQ091Rkx4WEJlS1NUb3lFVFp4d1BDT1BqRkhJdUpSeTNqQkJoNi1acG1lTnpxV1l6QnhMT1ZsdjBRLUtvajdkTjZabHhXLUFYaGt3QVFWWnZ4ekYzempKcS1mY0Q5S25qTkpnejlCRkZn?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market Fades Strong Start As Oil Plunges 8%; Marvell, Lumentum Dive On Deal News - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTVc1dldkWUQzeks0VWxucDNWNk40UFF4Y0VpRW1OOVFqbndFeGxOZ1NVQVZwLXgwMGpuWElrbWJEa0p4TjV2NVpuaUFrbC1sSkY3SEpBQXRvMGRvWnEtTDVpQ2hyTEtwSkZtQ0RaNTRtU296UzhFZzJsVkRHcWtweGNUMm13OGpud1l3RGs4bldhazI4V2lDTHBTLXhsa1l4YU1ScjkwWXhzZ29ubVE4WFRfMzR6Smc?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Break Into Tech Announces Expansion into the US Graduate Technology Sales Market - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQmxYRW44dVFjd0YzcFZFQ0NyV2VOTGJtQ2dYcnkzbldBVE1aYTQzZ0JXdkR0Y1NhNzhVMFIzNk1DcVM4cUtqUF9WZWRuOUJBSlJlbEt4TWgtMWRFZFNITVJhRnZ4aERYUUZTMlJnSG9vaUJvekRScTZLSm9ZWXdrakp2OHRtS1BEWEdHbVQ3eTJqanlTQkkyRUlyUWZGN2M?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Nasdaq starts November with 1% loss as tech melts down again - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrbkQzMEJlOVN5RDBtcEZuU2VQSkZydW01ejJqY2hObWJXOUl0dUhUMWVoVXRwZWhsU3BIRkVGR0lhc3JmM0w4ak5ybUpCVElXOWxKMm1tQ3ByOE5TNzNJQm5YUDFaa2hRNENZNDJacnlMci1tZmU00gF8QVVfeXFMUHRLQWRCRkw3cUdsOVZINFdPc1VsLVN4UzJKT1BmX2ZaMlBrcDM2WER5cXY1LTdZQjZXMy1FVUU3RFhFcHVxcXA5eEx0a041Vlo2Y3BlVXN2S0hpTG9tVVV3SndoWVRMU2JweGZKUVNpVWxJeXk4Sno4a2hmZQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "US Tech Stocks Enter Correction on AI and Midterm Election Risks - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0c0ajcwSC1TMmdqcklFOVR5M1lxNzFzRHZ0MTBILTlITXBKYXpFbTBaN2dFdnVNbmR4U2Jsa2kyYngzVnp5Tkd3OG9mNmpXd0EwY0ttem9zeGhGRmg3S0ZFNnIyNXNHdE1DSGJNU3E1UkNoR0N1bDFNbjIyUDcyaHJKaDhEQVUtbjlrWXBRZi1WS3IxVnhnMVN2S1NacTczejdUaWVjM1o3Y1A5bnQ5QXdlNA?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Weekly market commentary - BlackRock",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "press": "BlackRock"
+      },
+      {
+        "title": "What the US midterms could mean for markets, AI and the debt ceiling - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSndxQlZKTnRLd3BYVTNReUZRU1Z5dDlrdGpidzBlWVhITzgzTkJrXzJlNlhHZHZvQS1JV0E3YUZmT3gzNy1KbWVGVGs4NjR0bVFDanJ4RjYybjU2Rm9DS2tNR0w3SVNpb0puX2NwUjctM1U2cm1EYmZRUWRXd08tY1dfT1BGYmF0TG5UREVHTUVfM0s5MGhHZE1EVVhVUlRCbk5tZmExZU8zUi05bm9B?oc=5",
+        "press": "Reuters"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Chesley CEO: KOSPI Fair Value 7,200, Buy During Panic - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOUxyVkwxY3l4YTdMZUJIUVZJM3NYdy16ZXdJclNSbmpDekZPV1l2VVM4SDFSdXEybVl3UngtT2Z6M0YyMmNhZmtLZTlkbWJRbG00MG52OE1wWjRDeDBfclM5d1ROSkNPbFI3Y1ljRTZRRmFIbEpGOGVvVGFVckpyVWtQUXA5NUMzcDdBcl9n?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "South Korea Inflation Eases to 2.8% in October, Still Above Target - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMHNoTTBBOVlvWk1iWVVQbHNOakVTTUlybkM5Z3h3NkFncTBnNVB1YzBPOWJ1bXNOV1IxRDVBR3lHY0t0SjJJbko3anFVaEE3MGV6OW1xTTA5UlVtdVdKdmNlR2hPSkRzRVV4dGNTNncyVkptT2Z3aVZ3TjdBaHQ4ZXR5cXJIRXJGQWk4blB6V3ZzZTl3S211V0Via3hBajV3UVdZ?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "South Korea Inflation Holds Firm, Bolstering Case for More Hikes - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeEplWmVaRnNwMEdCWjVhSTkxN2RiZkRiM1FJbTNwNkRKU1pUS2JiVmxtZjh5Tjl5dk1DcWxhamhERnlxT2lEcThMNFRWd3Q2cURncTdtVHhkYTFscEVFWEprOWdDNlVFbGJYMldSeTBnUXZZM1lrUXRza0JUU0xnQ2RpTG80aXE3Tk1iM3MweUk4UWwtVjlyMVF0eXpVOElIMUhSaU9iakJOMFZ1U21HaE1jU3E?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Breaking: South Korea's Inflation Holds at 2.8% as Petroleum Prices Surge 14.9% - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeEJFSDZEemk5RnhOQXVlNm4tZlN0X2RWLV9oOWcyQzFGT1QwM2I1ZC1GNG55OWMtaTFFRFFnUUpyaXNobExzNVEwSkY4aUtSMk9aOEZNSUhpdHUxc3JOTTdSTzd6c3ZrTWtXTFdrSUQ5ZUNReGNqUXlfdlJEYUFNTHBiVWZmRndBakNTXzNn?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
