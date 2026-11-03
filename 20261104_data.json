@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "generated_at": "2026-11-03T23:31:59.067184+00:00",
+    "run_date": "20261104"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.89 (+0.14%)",
+        "description": "전일종가 101.75 / 변동 +0.1400"
+      },
+      {
+        "title": "미국 10년물 금리: 4.95 (+1.19%)",
+        "description": "전일종가 4.89 / 변동 +0.0580"
+      },
+      {
+        "title": "VIX 변동성지수: 20.83 (-1.51%)",
+        "description": "전일종가 21.15 / 변동 -0.3200"
+      },
+      {
+        "title": "S&P 500: 7568.92 (+0.36%)",
+        "description": "전일종가 7541.40 / 변동 +27.5200"
+      },
+      {
+        "title": "나스닥100: 28180.26 (+0.68%)",
+        "description": "전일종가 27989.82 / 변동 +190.4434"
+      },
+      {
+        "title": "다우존스: 51786.72 (-0.38%)",
+        "description": "전일종가 51983.98 / 변동 -197.2617"
+      },
+      {
+        "title": "USD/KRW: 1343.71 (+1.37%)",
+        "description": "전일종가 1325.52 / 변동 +18.1899"
+      },
+      {
+        "title": "USD/JPY: 158.70 (+0.65%)",
+        "description": "전일종가 157.68 / 변동 +1.0180"
+      },
+      {
+        "title": "코스피: 5859.08 (+2.24%)",
+        "description": "전일종가 5730.74 / 변동 +128.3398"
+      },
+      {
+        "title": "코스닥: 734.36 (+1.38%)",
+        "description": "전일종가 724.38 / 변동 +9.9800"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.484 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.37 | GEX -0.1B$ (만기:2026-11-03)",
+        "description": "콜OI 183,064 / 풋OI 251,149 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.31 | GEX +0.2B$ (만기:2026-11-03)",
+        "description": "콜OI 138,967 / 풋OI 182,658 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $155.06 (+2.27%)",
+        "description": "거래량 11,443,748주 (평균대비 0.6x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $757.88 (+0.33%)",
+        "description": "거래량 3,561,253주 (평균대비 0.7x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 67.5% (135/200종목)",
+        "description": "평균 MA 대비 위치: +1.5%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 26/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "S&P 500 snaps 3-day skid on Election Day as chip stocks rebound - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PbWNuUmM3YXpROGVjV016d1ZUZzlCQmc4a3dJaWpoLTcxeXVzTEFMbTY2bjNGWXljaUtXLWo2bE1QNzZ5NGlTMnA3M0VVQjlhaWN6eUVzOW4xS05EQnd0bEJYMEw0aXJJT3NXWklaNmcxcjVnOWVz0gF8QVVfeXFMTVAyTUQ0UV9iNzQyaThOY04yU1FlSEtRRHpLQXBXZnpvLUV5TklWSzhRaGw2ckowNEtJcXRtWldwelIxYnhDMDFSTzVJVFZwbXZ1Q2QxZWlTUHdUdzdqaW0xMGZIUHlpWlBYWHJ6UGE3cVhRWkpDdTExU29VRQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Group Backed by Cboe, Citadel Securities Sues CFTC - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOeUhyN3dwZ0d2aXkwMXgtbGNxaXpzbjk2emxSbjFHdWJFczZ1aC1PXy1vMG9FWWhiTW40eXV1a1FVTlphaUdJLVRfWWFCUV80VnVoMG9VVU9lSkdxaml3UWJKaUFVRFp3OWhhcXJJR1d2dnI1TXRRTlluRTJ5UzUxUzM2aEowNFhqbk9hUlNMSE5iVGhxaFRuX3NfbGdlX2h3M1hJQ09XZHdFdFU2VGYwN0FRX3gteXA0RWotWG5uOU0zUVUwWXBFS2pJTE5zQVZPNk5HMzMwODdQZnNvdjlVUmg2WlQzLVR3bEZQVA?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "How Wall Street analysts think the midterms could affect the stock market - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKNExSNUh0clVZWHY5bmZ0dGVxMHFBT25FbU9ybTZ1MElfRHhNN1hKSFhja1J4VTZPT0ttMkprWVVMWEhKMVdlTHVwVWRQMS1ZMkkzQ1YwZmpHQ184QjJud1ZQVk9GeGJxWUotMjhhMHpFTW5nMXNmQXFqdFo?oc=5",
+        "press": "CBS News"
+      },
+      {
+        "title": "US tech stocks recover after selloff spooks investors over AI spending - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHk1ZjhfMklrX0ZsaExCalhYZHVyZjg2Z0NhQTZJWk8yLXNISkZJU0ptOVE1WmJ6OTVBN0dfdlB3VnpDRENzdFBJc0kyeHBacFVPa21iOTlGb0RIcHlFSGVlQmJ2RmZSdkRlVGNpeTkzbnBJSFlmTUNWc2N0OGVKQ0RoQThKVmRyOWhCRg?oc=5",
+        "press": "The Guardian"
+      },
+      {
+        "title": "S&P 500 snaps 3-day skid on Election Day as chip stocks rebound - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PbWNuUmM3YXpROGVjV016d1ZUZzlCQmc4a3dJaWpoLTcxeXVzTEFMbTY2bjNGWXljaUtXLWo2bE1QNzZ5NGlTMnA3M0VVQjlhaWN6eUVzOW4xS05EQnd0bEJYMEw0aXJJT3NXWklaNmcxcjVnOWVz0gF8QVVfeXFMTVAyTUQ0UV9iNzQyaThOY04yU1FlSEtRRHpLQXBXZnpvLUV5TklWSzhRaGw2ckowNEtJcXRtWldwelIxYnhDMDFSTzVJVFZwbXZ1Q2QxZWlTUHdUdzdqaW0xMGZIUHlpWlBYWHJ6UGE3cVhRWkpDdTExU29VRQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Nasdaq ends higher as AI heavyweights rebound ahead of midterm results - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWVp0N2w0REZqOUJ3YkRxcmliYkhtX25yTkFtdmJDUFdSVm5CcXRQYjdMeFFLU0gxcHk1STM2R0xXaGJ6TW9ZN2ZQS2RReVRiXzNtY1B3Qm5fZ1lfTUFaMVpRM2d2ZVZodnZtbUFFLUtkcURfUEtENElyNG5YcFRGcncteEFaZFUwOGxVUmpTMWFkMEtvb09VTG50a2NSbjhLUm5Zc3EtZS1XUU5lWm9B?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Tower Semiconductor Sinks 14% in a Week Despite “The Strongest Growth Phase in Our History” - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONjNOT3J1Yk4tcFBIb3NqZGtZTXFzQVB1ZlJDSTFFNjZ3MWxSQUZNdDREWFZ2WVhORElTUFFRbDFZT1RiMFlKNi1MSHZ5YXFkQXJ5Vm5HMmU0ZEZWWVdKblNjMGs4MzFWQVVXRTEwTk1qRFVWbE5WN2hKb1VBRjdqU0RRY0dPcl9NdmF0UDIyS0s0WTBRVHF1clA2VFg2RjQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "US tech stocks recover after selloff spooks investors over AI spending - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHk1ZjhfMklrX0ZsaExCalhYZHVyZjg2Z0NhQTZJWk8yLXNISkZJU0ptOVE1WmJ6OTVBN0dfdlB3VnpDRENzdFBJc0kyeHBacFVPa21iOTlGb0RIcHlFSGVlQmJ2RmZSdkRlVGNpeTkzbnBJSFlmTUNWc2N0OGVKQ0RoQThKVmRyOWhCRg?oc=5",
+        "press": "The Guardian"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Foreigners buy Korea stocks after U.S. midterms as uncertainty eases - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX1pvblByQ2xjTjhXMTFhbEowYkY5QWdabkp0UzkzNWVqZ0xrc2YzQ2NDY1dCSWtUT3ZtQ0s2MmtobERQd05Yc3BETko3cDNERXNCd19nUXpzaUFVOHVMb1pXMDBlMWloZE9lWHV0ZW5PWUtMTkJPVTRRN2Z1djZ4c9IBlAFBVV95cUxOMnBiWUxYS2FiaERfU1VRc095N2ZITl9jbHp2TkktWk1HNW9vQzJJYWVlRnBhMDMtdnRqSl9xdHlPbHdFcE5QZUF0akZ0ZFV3WGFseGhqaFBKdF9Sc3JUWlByeHd3bmJpV2ItLVdEbDBqZTVwWjF2NTFDbUVva1VTVnNNU2NIWXBzT0lxSW00cGJ4UWo4?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "KB Asset ETF: Active Picks, Monthly Distributions - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNGFjRWY2TEtxaWFPcHRHRURqZjY1V2JlN09NR091VG5yZnVYY2lxT05lZ29yc3Jadzkwd0VtREN1WENMY2hReHU3Vl8zNHRKb0pVM1o5SW1IRm00VkhDWWN3eHM0TEh1bkVPcmdhTVo1Q0lIM2xwTGxiRGowVDBOOHNkV3NaTWlNYVMxbDZ3?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Samsung, SK Hynix Anchor Market Amid AI Debates - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTHdvRUpXSzMtakc3bFVmV3A2VklvQzI2TXljNFBySUxYa0Y4VmxnT3NKMW1wR01PM3hNckpMY2htaEx0UFF3MVRTSHZYSHlqb2dMbTdMZVdpbHg3ZVFiNnR3aFN1WEhhU0djajR3UFNxZ19NaWNkZG81RVFtdTNENzFDUlJQV1EzZDNpWnlB?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Samsung, SK Hynix Anchor Market Amid AI Debates - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTHdvRUpXSzMtakc3bFVmV3A2VklvQzI2TXljNFBySUxYa0Y4VmxnT3NKMW1wR01PM3hNckpMY2htaEx0UFF3MVRTSHZYSHlqb2dMbTdMZVdpbHg3ZVFiNnR3aFN1WEhhU0djajR3UFNxZ19NaWNkZG81RVFtdTNENzFDUlJQV1EzZDNpWnlB?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "South Korea's Foreign Exchange Reserves Rise, Rank 9th Globally - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOE1uODBlZ09fOWtYa3h6T1U2Ykg5ejBPQjExVEQxQS1LaUdrNmtpMFVlOWtOX1E1Y0k3Z1BQeDZXZUxjdDhMS1hzN05ySkJXWVVFOGFPR243aGtvM3JBcGtyMF8tQV9fTjAwNGtnV0RadC1pald2RU15NjR2NTdDdDk2cEdyQlhnOWdoZmFB?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
