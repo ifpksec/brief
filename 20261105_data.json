@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "generated_at": "2026-11-04T23:32:01.732728+00:00",
+    "run_date": "20261105"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.49 (-0.37%)",
+        "description": "전일종가 101.87 / 변동 -0.3780"
+      },
+      {
+        "title": "미국 10년물 금리: 4.89 (-1.17%)",
+        "description": "전일종가 4.95 / 변동 -0.0580"
+      },
+      {
+        "title": "VIX 변동성지수: 16.61 (-20.26%)",
+        "description": "전일종가 20.83 / 변동 -4.2200"
+      },
+      {
+        "title": "S&P 500: 7688.62 (+1.58%)",
+        "description": "전일종가 7568.92 / 변동 +119.7002"
+      },
+      {
+        "title": "나스닥100: 28437.17 (+0.91%)",
+        "description": "전일종가 28180.26 / 변동 +256.9062"
+      },
+      {
+        "title": "다우존스: 53356.12 (+3.03%)",
+        "description": "전일종가 51786.72 / 변동 +1569.4023"
+      },
+      {
+        "title": "USD/KRW: 1340.56 (-0.32%)",
+        "description": "전일종가 1344.81 / 변동 -4.2500"
+      },
+      {
+        "title": "USD/JPY: 158.39 (+0.30%)",
+        "description": "전일종가 157.91 / 변동 +0.4750"
+      },
+      {
+        "title": "코스피: 5648.79 (-3.59%)",
+        "description": "전일종가 5859.08 / 변동 -210.2900"
+      },
+      {
+        "title": "코스닥: 704.39 (-4.08%)",
+        "description": "전일종가 734.36 / 변동 -29.9700"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.285 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.79 | GEX +3.1B$ (만기:2026-11-04)",
+        "description": "콜OI 181,645 / 풋OI 325,388 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.79 | GEX -1.3B$ (만기:2026-11-04)",
+        "description": "콜OI 135,829 / 풋OI 243,217 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $152.12 (-1.90%)",
+        "description": "거래량 16,554,791주 (평균대비 1.0x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $770.17 (+1.62%)",
+        "description": "거래량 5,887,761주 (평균대비 1.2x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 72.5% (145/200종목)",
+        "description": "평균 MA 대비 위치: +3.5%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 34/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Dow posts biggest gain of the year after Democrats take control of Congress - CBS News",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV2QyeUczMEN1RzM2UXRheGYwT2xDVUJxenVhOURnU2tFLWU5UlY4VGYtci1TRmtvbUlGM1hsNUJHVUhlUHEyQXVLUFlMVGFiVlFIZWFoTmhNWVl5MmhiYTFRYlZZQXJvTDF0R3RIa3UwSFNLUVpPUG1Udnh3QUpxdmNZNU0xQnQxeFE?oc=5",
+        "press": "CBS News"
+      },
+      {
+        "title": "Stock Market Today, Nov. 4: Oracle Falls on Canceled $7 Billion Tencent Chip-Leasing Deal - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTGozRjJFd2k1Ynh2UlJNdjZueG5zX2Q5R1lIMGpYdTZaNE94VzQ2YUhuY3lHaG1NQ2VUZkNIclA1UHlNWVg5TzJKQzJQcnJlUVlCbXpVaktacE9sYVJPNms1SXNrd05vVHFxcTlxSG5IMTZCOGgxZjAxenlFN0pfWHJEN1FQVk9CaHpkcTJVWnRQVWs?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stocks Rise as Democrats Flip Control of Congress - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ0ktb3JQam9saVhrUDhjbXZWTDVQaV9tVGFyX0VWdnh1Y3lTd3BDYlBlTFN3WS1tN0szdm4zb184WkZEcnhDZWVaS3h1RHp3azFaUEFfTWNtSjY4UXhXTG5ESjBvRmRHTzluZks0VlBrS1RzR1ZuNVJSa0s3eFNVU3J2WmZpQQ?oc=5",
+        "press": "The New York Times"
+      },
+      {
+        "title": "COMMENTARY: Trading Day: Oil tanks, stocks leap on US midterms - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc0g5LTRCVmcyN3VZSy1SLXN5c1dnSENEYXhocXN1STdoUWxPYk9qbUhTM3dYckRlZ3hpVDktbzZhWnlha1hMRlpITmFlNEdCc0VIMU9PUGprQmRfLUk0b09HM3VzWG5adFZZUWZoX1prbTNoeHcyOWZ1WXl3LXFLQWhrSWd3dE8yNXJseDNXWFR1S19LT0FPNXFjTUtjbVhJbW1tSU9B?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Stocks and Bonds Rise, Dollar Slides After US Vote: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLVc2azZiNTdEZEJUM0RFOERmNk1QaTRQOGdkbE5EOUM5YVE5M2pqVTFkYmJsTC13MnpKaVRSd2ZLYmowSlhpOE5VcjdJNnJleWZsTDJ2SGN2b3JTOE9pdkZLMmdCblZhSE5ucGoyd2k2SEJwOFpVZVp1aWk1aWJYSHdvQ3VTMGtGa3FXa3NYUWxiWEsz?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "SpaceX Is Teaming Up With Qualcomm on Mobile Network. What It Means for QCOM Stock. - Barchart.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb1dQX29XeDdlRXQ0S3JhakZKN3pqS1NwdU9SMUdDT0ZZRS10UVZmd3p5dnVMMDkyaVlaalVraEJodmR0STZ1TDROSUV3c3h2eVRESWZoVjhYVkozWTI4S01CemVic1NudzRXZFFNbXUwaUc2UndubnNlQktnZktkTEFPcmg1cGVlQnlROEU0anhNVW5xci1ubUttZ18yZmlEcFl4c2lJVWtvLWVNRTVqdjRSVm1jc0l1dlNXSUVpTF8yQnM?oc=5",
+        "press": "Barchart.com"
+      },
+      {
+        "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdFNlSnBWU1oxVG56SkdEZEVwUmx5TWVZLWVMSFZfdDh1ZUNPQ01hZGxZcFd3Sy12SUhjcWZ2bGw5aXB2RDRzQ2FGb1dWd1gzc0lxUC0yNWJxd3UwbU56RURkb21zcm4xaFhaTnpsTnVycUlfMGUzcktyZ196ZzBWRjVkMWNSamgybTdYOWJFNk5FNlJQVGZPV3RIYnc?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stocks surge as ‘blue tsunami’ puts political uncertainty to rest - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd3ZnZlRJQm9TTnFUd19yM3hZeDFieUkwLW1lVHpSV1R4MW8zbmlTcEQyODA4bzZVS2o5bjFIdGVJNDZjZ2h4S0RiaTgtSHBEX216Y0czWGtfeERWY2REODZNUEhyclhqc1pCUTNfeUkweVAxdVNteXZmVTBNc2x0ZEcxZjBFSTl5VmdrVjNzVQ?oc=5",
+        "press": "NBC News"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Here's Why We Think Mecaro (KOSDAQ:241770) Might Deserve Your Attention Today - Simply Wall St",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUlJYUENVVmxUdEUwYnozdFU1M1NudVdQSGYwR3Vydkl5YncxS2hUZ3VBYmgyU0h2MFpfSmRtUDBCZXJ6c2Zqak9QQnFDTk8yOTdLMWJqQkNuNEVwMnQyUjlwUHU4WkhfTDJNT2JrNVZVcXdBaGRxbngtTjkxa3VFX0toUTJVSVhSMk1UT1hzY1Y0VzZWZ2QxZDJjYk1TbWhlN0ZMeWtQUlVhUkxoU0pqWnQ5TXlYQVRWcHh4TW9GcXg4aXlad1Y3djNKblJiUzl6NDNuSm1uSVI2bUnSAeABQVVfeXFMTjB4UUhhOHBNNnhkaEtwNHVESmFSdjJfRy1BQ0IycU13d1RwcWNteGU5YmJsMVJrVXQ5S1JwSFEzM0hoZnJnRFNyOExlbHA2Q3JmajNRbEVpQnJmM1dYNEhHQlJMUDlQQWFPTWRDZmlyM3BYbWJMMmF4TDljRGhmT050SXJubElFTVJ3anRTWk1YcFQ0dGktbWM1dHNldXY2MWJISEZEcHpfZlB5ZmVxR0pWTjRhdHhMX2cyamJ4NlhkS1ZVVTJ5TUp3UUhtaW9hdUZlVDNrdHZPY2VDSzZhS3Y?oc=5",
+        "press": "Simply Wall St"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
