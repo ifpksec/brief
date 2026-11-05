@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "generated_at": "2026-11-05T23:31:58.948670+00:00",
+    "run_date": "20261106"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.57 (+0.06%)",
+        "description": "전일종가 101.51 / 변동 +0.0560"
+      },
+      {
+        "title": "미국 10년물 금리: 4.84 (-1.16%)",
+        "description": "전일종가 4.89 / 변동 -0.0570"
+      },
+      {
+        "title": "VIX 변동성지수: 28.18 (+69.66%)",
+        "description": "전일종가 16.61 / 변동 +11.5700"
+      },
+      {
+        "title": "S&P 500: 7353.73 (-4.36%)",
+        "description": "전일종가 7688.62 / 변동 -334.8901"
+      },
+      {
+        "title": "나스닥100: 26629.81 (-6.36%)",
+        "description": "전일종가 28437.17 / 변동 -1807.3613"
+      },
+      {
+        "title": "다우존스: 51523.06 (-3.44%)",
+        "description": "전일종가 53356.12 / 변동 -1833.0625"
+      },
+      {
+        "title": "USD/KRW: 1356.30 (+1.00%)",
+        "description": "전일종가 1342.90 / 변동 +13.4000"
+      },
+      {
+        "title": "USD/JPY: 157.30 (-0.74%)",
+        "description": "전일종가 158.47 / 변동 -1.1690"
+      },
+      {
+        "title": "코스피: 5683.80 (+0.62%)",
+        "description": "전일종가 5648.79 / 변동 +35.0098"
+      },
+      {
+        "title": "코스닥: 714.95 (+1.50%)",
+        "description": "전일종가 704.39 / 변동 +10.5600"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.268 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.35 | GEX +nanB$ (만기:2026-11-05)",
+        "description": "콜OI 77,013 / 풋OI 104,057 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 0.70 | GEX -0.0B$ (만기:2026-11-05)",
+        "description": "콜OI 72,946 / 풋OI 51,037 → 콜 우세(상방기대) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $131.65 (-13.46%)",
+        "description": "거래량 43,478,191주 (평균대비 2.6x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $736.21 (-4.41%)",
+        "description": "거래량 15,269,328주 (평균대비 2.7x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 64.5% (129/200종목)",
+        "description": "평균 MA 대비 위치: +1.0%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 50/100 (Neutral)",
+      "description": "중립 — 방향성 불확실, 관망"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Dow drops 1,800 points; Nasdaq tumbles into correction territory on AI tech wreck: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sdjFuSm1kNThIRUluMXJ1c3ZyVS1icmJDN1pVNVVOdlVVa1JwWFE3VGw0UkRfeTJqUlg3ZUotVzZPVFdCZ0tIOERPekZYbHRXSER6ZWpka2ZYV0ZQMXNuXzZ0VnBIREVTVVZtTXdZLXM4aGJOc0c4?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "What Wall Street's tech stock sell-off means for your 401(k) - Fox Business",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUlFIMzl3TFRfTWpXa0xqbWZjQmhzSFNBZWk4d09uaVh4RzJ4NXN0ZUpvcGVIRFkzR0xRdDRyai1PbHBObUhraVBVLUE4LW95RC1QVTFxdFF6ZURROUo1aVM2REprdzVPRlhHVFFCSkdFYWtoMGVaVXlMNVlyeVlSNGFIRmZqWmplaDZSMNIBkgFBVV95cUxOTjVPQXpJVDJOLTZEUm5ZSVd1clkxMXB4bXZubC1HX214a3VqZHJVMkRUbWEzMHJFWnY4ejNoeWxDcHNUWEk3Vy1MbVVZRTM1MVpIZHlIZHQxeGZuMGNDeHBvcDg4UzhxSi1PdTdaNWozR3lnWkRwcEhObmt3NWpoYmpwZG9HRjRVdnNHeTFibjl1QQ?oc=5",
+        "press": "Fox Business"
+      },
+      {
+        "title": "Phones 'explode' on Wall Street as 'steamroller' shows up for the AI trade - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWjhqRms1YmpjV2l6LW1FMTllNnp5R3BoZzc3TExxXzJUVGk1RmNCbkQ0d3pGN05WSHBsX0RldGJ4UWxoWjd4VmpLT1RabTJQNDA5cmV5QXV4RG1ITHVBQUsxNEJla1pnWXJIYWhHTE9waEZCaUpud0dQX3lQVzZmUTlEalJLX29nSTBrcVFrLUdaSVU2cDRDNUFfbE03ZEZqcHhCbEN0My1zZmJYaXVtOWpYdUpEVDhL?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "US Stocks Fall Sharply as AI Selloff Gains Steam on Election Fallout - Morningstar",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeEhSeXpZaGRjWFJyUk5pc2VTdDh3ZHZSMHM5ZFNvSzl0Q2VWeVl2dXZKZVhvcXZ6U0dDVEdEVlhtNXU2aDBhUnNRTm5fZ0ZCUUVvYnU1RzBSdGRpVWV6eHRXWUluUklpeUktZEMzcmkySUlzNWZQelpjQ3AtWnlaWEpabGpUZkszeUtKTEdpQWtxUnNSUzhFYVNtblpjNW02MlBXZWZtODhjaVk?oc=5",
+        "press": "Morningstar"
+      },
+      {
+        "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT1V3SHFuWkhMcHVRTGdVUUM1ODctZTZESFNFWXlVSUhkUHRoMUdwOXY2M2IzMG9kMHE2ZjJnMGV5S1dMUFNTNlpyemliSUNvSUdvSlJyanU2a2RoeVFULWt4UWRiSUx3V2NVY05WVnJCSUtOMUlkbUxHX01kRHZxRS1NTjgwS2VEZ3hUTWpxS3BRY3BKckNLN0V6ZVMzWjRuUmIyNE56N2FLcmwyUE9EWg?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Chips Selloff Worsens as Fears About AI Trade Grip Stock Market - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWXhpS3pHOUtRckZzVEhDZ1ZZZ29uMHE0N3RSWHZsZ2IzZTJ5ZjBaYURBRWxiNjRsVkFXbExXT2c0a1d4VUx6T2otWDJZanpJVlMtc0g2QjZhaW5uYVRZdGNVT2NOd2RjTERhbE9KbU9lblpDR0FUOEZDbXFWRlNEd0JYWWtORGE3cEt1REdkZ0R5N2dfYW1fSFphX2Z0RkxhWThRRzZsMy1wMS1EZ2x2LW52Yzk?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Chip stocks under pressure: Twelve semiconductor names with oversold signals (SMH:NASDAQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmxsd05CVjNxNnhwV28yUmZ4QVJMVUJxcHkySGdSTFNrSHE5WllWbTFHNHotQ1VxXzlYQS1JLUU4WHhxVVVGbEFPNWRHNzg4cTZNZm9SaUhrMWk2cERPR2g4MVVYQTlqRjU3TkstWU5PbnBQT1JTZlpyQ0NXMUdVS0ZLa0dVQW8xVlR6eUNPLTNQV2NScDRidTduQlNIQTJzRXhkUWJ3UnFsNVYyWldtbUJwRQ?oc=5",
+        "press": "Seeking Alpha"
+      },
+      {
+        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XdkJGRE8yWFZFWXBDYzA4WXRyM1doblZVak9PRjFMNGszT1NCSEx0UEQ1QWduQjlvZ1Bnd21qcEc5MDU3cjRxRXFtTV8xd3BPdURJaENhUDdUMms?oc=5",
+        "press": "BBC"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "AI Sell-Off Sparks Kospi Plunge as Black Friday Fears Mount - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTWFJY2J4UVg4LXhTOW5hUXlRQU9pUTBDTWVJOUQxTnczZWhycUNZZGZkeGlaWXlQVjh5ZUtNLTNDSDAtV25hTjNCZHpScUJVUkFDbGhLWC16Y0VkV1pscE95Z2FFS0RzRmZ0MS1Bel9ITTNfTVRmbHRCcERaVWo3Zm1RaktLa0hNd0dQOGh3?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "A brutal sell-off for AI stocks sends Wall Street reeling, and the S&P 500 tumbles 4.4% - WRAL",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOVp4S0VfNk94andka3phWVlNeXZ1eVFpeDJoZVNxeU9xTVNCdjZMYzgwVGQ0a1VwSEpqeHVONWdhSHFKZVQtMzBtdVZ4dVZMYmJKdHRxMDhwSUU0MlNRTXd6WmNxUEZHY0loZFRzdlhZNVB0Z09PZ2JGN1VReFNya01XUGZZX3pWbUpnUV9Cemt1YkltYWI5ZEtxTHVXaU5ITzVva0tSUEVfR2VLRDNrN0xqR2hKRmRQM002RmQtcFRTYmNsOFB6bg?oc=5",
+        "press": "WRAL"
+      },
+      {
+        "title": "Should You Investigate Intellian Technologies, Inc. (KOSDAQ:189300) At ₩46,250? - Simply Wall St",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc3FqMVZCM0s1RjVRa3hWRFpwMUVwdlladTlyd1AzZjk4M19sM1VqOTd0NlZYMkxCMHB2QUFtZ3ljY1FsUmlCWnkzRngwb1Y3M3V4TVlaTEpRWFQ3Rl8wcDBUMVBXaGtJM2ZMREZjWnl5NWJHcDFUYzNRemJpWmxZMFhpUVRjZnNLbERua2dfaDNKLVBsOHoySl9ENFNxSWQteXJKQ3VQTXFLR0xXd2FyX3pCSTBwa2lReXVjbjNKY1A3MWc2RERpa3czY2RSY3lRdm9zV05sRml4Mm5VUFVndNIB5gFBVV95cUxNWUhzS3NTWU1vLU5LRUctc1BfMjliNm51VVZ5QUdXaGl2enEtb2E1RlVZbW14TV96RWQ1MWJkWGpKUFV3dHVQTHNESjJWRTNBdGJSQjJKUjgwOGFCblpwOWFkM25CdERKb0w0amFUY1ByWGtROGpXcGczbFpFX1VhaUxxalhrLWluMjdrNkRRdU9CbUFPM3JhYTdCWWVOTjhkY3RoQ3g5UHJiYlp5VHBOa3gyNTJqMVNQMkEwSUhySTJKVUNlSFdtQ1gta192LXVUVThJV2xLaWJWcmlkREFieDkzQzdTQQ?oc=5",
+        "press": "Simply Wall St"
+      },
+      {
+        "title": "NAVER Adds AI Agent to Ad Platform, Rebrands It N Ads - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbVBxLUV3ZlQxRGoyQnEtdkJRajlkWkFoWDkyOXNqVzhROEtsV0g3VnBJRGUzNXpsejRWVWxhbkRBYVlPNFpkMmxpYjZiWnhmX2ZVaWhJdU1YN3V1dWFwWkduanBSQTdOUVJDcnBpS0l1eFFhNzdJMU5aWnd6bmw4UUlCRVZiM3dweWVzdnkxekN4UHJMV3o2OFBTaU5IUQ?oc=5",
+        "press": "Seoul Economic Daily"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
