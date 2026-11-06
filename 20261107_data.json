@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "generated_at": "2026-11-06T23:32:13.291810+00:00",
+    "run_date": "20261107"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 102.28 (+0.72%)",
+        "description": "전일종가 101.55 / 변동 +0.7290"
+      },
+      {
+        "title": "미국 10년물 금리: 4.86 (+0.45%)",
+        "description": "전일종가 4.84 / 변동 +0.0220"
+      },
+      {
+        "title": "VIX 변동성지수: 25.64 (-9.01%)",
+        "description": "전일종가 28.18 / 변동 -2.5400"
+      },
+      {
+        "title": "S&P 500: 7376.86 (+0.31%)",
+        "description": "전일종가 7353.73 / 변동 +23.1299"
+      },
+      {
+        "title": "나스닥100: 26989.99 (+1.35%)",
+        "description": "전일종가 26629.81 / 변동 +360.1816"
+      },
+      {
+        "title": "다우존스: 51285.73 (-0.46%)",
+        "description": "전일종가 51523.06 / 변동 -237.3281"
+      },
+      {
+        "title": "USD/KRW: 1363.65 (+1.76%)",
+        "description": "전일종가 1340.07 / 변동 +23.5801"
+      },
+      {
+        "title": "USD/JPY: 158.43 (+0.04%)",
+        "description": "전일종가 158.36 / 변동 +0.0680"
+      },
+      {
+        "title": "코스피: 5383.80 (-5.28%)",
+        "description": "전일종가 5683.80 / 변동 -300.0000"
+      },
+      {
+        "title": "코스닥: 678.41 (-5.11%)",
+        "description": "전일종가 714.95 / 변동 -36.5400"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.266 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.98 | GEX -3.2B$ (만기:2026-11-06)",
+        "description": "콜OI 494,172 / 풋OI 484,050 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 0.88 | GEX -1.0B$ (만기:2026-11-06)",
+        "description": "콜OI 581,083 / 풋OI 508,984 → 균형 | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $137.01 (+4.07%)",
+        "description": "거래량 21,546,101주 (평균대비 1.0x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $738.68 (+0.34%)",
+        "description": "거래량 6,997,478주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 64.0% (128/200종목)",
+        "description": "평균 MA 대비 위치: +0.5%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 28/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "What’s going on with the stock market? - NPR",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOenJEWXVkNDd2bTZxd1pFdFd1WkY4N3hTM0lZNkZOTS1nWlJNckFWVlNPTGVEek1wLVBTQ3E5eWhYNDB2SU5LQllDYUI0aGdRTG5JbEtQWTFjVDhHMDVGNGZaN2kybWZWZzcxRXJuNFhvbEdHMnROb2N0UlNWdHRzb0J5aklKQ2R5?oc=5",
+        "press": "NPR"
+      },
+      {
+        "title": "The Stock Market Can Be Volatile. Here’s How to Stay Calm. - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZzc2Y1hnRTBmcU1KNzA2TTRUX3UtNGhCdTVSaDhtWXBHTGRMbWwwS0ZTdnpzcVF4WG51ZTR0LWdtOVBFbVY0RzI2ZkE5ZUVPVGExWlVabEZCSC1pMHZINjdpcExKWnNETmJSNjNTREI5eUdJWURVeVdaRE9jbmlFMTFBbktrdk12d1hPazE4MA?oc=5",
+        "press": "The New York Times"
+      },
+      {
+        "title": "Markets moves as they happened: US stocks recover after tech rout - Financial Times",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWkFLRVUtWHlGbEpYNDdzYzNpLTZKS0RheGpnTndnUHNHcnBjZXhkNjRSUFJ6UENEMUZKYzNfVTVzMFNkWUFOci1MQUJsT2JRczJIU1d5TS1BcWhGZEdCWHBlUmpXQXlTR0lMNnl6Q19UbTd2amVEaDk1dURsT0FLOXVBaVA?oc=5",
+        "press": "Financial Times"
+      },
+      {
+        "title": "Cathie Wood buys $47 million of popular semiconductor stock - TheStreet",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY0Y4Smk5cndEWlN1S1pzQjdGQWdVVXJxaUFVM3JMT0xVVEtLVTFVMHp2TWJLV2pDckxfdHJTYUF5R2dqYnV3azVmeXVYUkl0bmJFQjJmc1htb3MzZjVNTjk3dnhXdjNLNGIxXzgwTUpBT1JRRmpIRFpaU1dBalJkajdWLUs2U1pKek8zaTBsc0xFN3lEeW9EUVpMZEtYRExrYUhoeWduTWJBaFlGOHVIMVdmcw?oc=5",
+        "press": "TheStreet"
+      },
+      {
+        "title": "Chip Stocks Have Been Hit Hard. Nvidia and 4 More at Fire-Sale Prices. - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZ2JpNmpFX3NFWURNaTBlZDB5WDI2THhydmtNeDJUTk1YenZfU290TWh5VlR1RnZCVWdkZWxFWkswVnhXUm1tVGtRaThmM0trRTRmMFY0VW4tbk1DTkVfeWpEWWpPT3NuRERrZ255RXpwQ1RGRFRTV1k2WUt3Ymx5M19mSGw0Q1pC?oc=5",
+        "press": "Barron's"
+      },
+      {
+        "title": "Live Updates: U.S. Jobs Report Shows Strength After Stock Market Falls - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSWtWUC0wbVZ5Um5oQUpudDNtcUZWLXV0SWJDRFRpSVBTRDhJTHUtT20xV3hPR3FwV2NRUERjVVFMeWgtMFhVV2QyNEVJcndzSEJ2Wmo3dkMzb2FWWkV4OXk0R292RnhOUENMbi1rX2d3NE4xV2RJcDIzWmJrbERwdkpabWo4QnhGb0E?oc=5",
+        "press": "The New York Times"
+      },
+      {
+        "title": "Fed policymakers consider rate hike after strong jobs report - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMF93ekZ4N2wtdW4zX1llS2FoZWpNVlhMLTRNOGVJTUktZmpLQUNBSzY2bW16Mm9mb3lrZERqNFZ6WkRmYkhBTG00Z2k2NFYyNTVLcmVBSkV5eVJRU1RwZFc5blM4MkRmcUxYU2hadXRWbVh0VXpjektqM1BGS3ZlZlNMeW43VWxmeE5TQm13d0E3bTVwUnp5dzFFNA?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQczRsWEFTT09RbmU4ZGVBX1lFYlBqdTdJREZ3OGFvaHJuSkMzYk4yWE1wQmx4SnhoV2lTMnB6TW52ZmR6ZHVlN0x6UjQwWUNicHYwN1ZhX3U0Qll1S0dJanBCdG9QNGVDOVd5VkR3RmcxRVZBdHB0ZVFZRzdkdkZTWVg2SFZ0QTNjUm1GUGlJcGhkbnlqbG11TTU3RFhKTXl3dnc1ZXlZT2txYUlsa3ZKdVA4TkE5OHJ4VkZCaGhqVnRuUThUaHZSTQ?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "South Korea's KOSDAQ Plunges Below 644, Sinking Under Post-Martial-Law Lows; $219 Billion in Market Cap Wiped Out - BigG",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pRUtKWnVGczhhTEFSTl9kMEFWeXFFQWtzcGwxYkd5WGZSLWJJRHhaM0J4Q3lrZnE4NERpZU9NV05JdEZFNVo1TUpFbUZMSWk1b0lsaks4c3pqd3o0ZW9GZDRXVXVvUG5LTXZyTUg3c3NPSmJmT2c?oc=5",
+        "press": "BigGo Finance"
+      },
+      {
+        "title": "KOSDAQ Falls to 644, Below Level After Martial Law Shock - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTFdUd3N5X0s4cjNFTGgzVlBtRWprWU1sMkZDNjk4Qll0UWpnbEl4Q25sTzc2aXdHcGg2d2NYY0RKaVYxTm5yQXRodnFRX0NKQlFGMzRwV2FXaGtVbS1KQ3ZFRTdPMWg5djFpU3JocDVRZ09NUndINGVYa1JqVnZqMUdxQWJWVi1ZWmluY0l2YU1WZFdjbXJZWU13?oc=5",
+        "press": "Seoul Economic Daily"
+      },
+      {
+        "title": "Should You Think About Buying Intops Co., Ltd. (KOSDAQ:049070) Now? - Simply Wall St",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWDR6Sk5fQ3lMamFlRm56dU9ZZy1mM3pXSllyUlhVbEMxaW5BdWQ0UGdjRm91cEx5cjdwb2RHaG55LWQxMnFXRWhwZ3VXbXBuNmZmOEU3VnFYWHBmSnBQdXg5NE9lck1ERU8tVlVLZ05DNDRudXd2aTJ5MXpxNXhLSl91UV9DYmk5NUM5TlNMbXY4Nmx0eHd2RG9lSlhuVzdMekcyX2hZY3k3UGhsbHdRWlJzdm1rci1Yd1ZLaXpTbkRVTC05Tm1aN2g0MUZLZ9IB0wFBVV95cUxQNDJ1cWhPMXRlMjl5MXkyZmJoLUZYbzRSYy1EQWFSTF9pNDZNX0JPUlptR3hTRldkM2oyU2VqenRhRzdaX3VXS1MtQWJzdmpNaktheGVXbkVmb3c0NjUzOW5pVk9EekxvNlMxbzhGb1VqNm1rWkdDcDRUSW95cVBockdxMHQ5ZUE2V3B5cHV1OHVsMVgtOHhiWTAyRUZqT1JlS053NkQyLUN0WFNsVVZKdjdfTm5CY1BjZi12QXRSS2pxNDAzczZqTmQ0UVZiT3VDNnVZ?oc=5",
+        "press": "Simply Wall St"
+      },
+      {
+        "title": "Naver Pay achieves biometric security certification for face payment expansion - SC Media",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTnd4dVhEYWdDLXlVd241Y2x5UzNDVnFsSFlaY0xJT01IWEl4NjhPTEp5S01mNE5VWnB4SURkOEdzb2dIcUF6a1JTRGg3SnA2clZTUGItTUdObEs1RlpMelhBdmsyZG1MSUVNZkJLQllNbVNjcGQ1UjNEeW5sODNsTTRLaGV2OVRMUm9HcWNmXzU0Qng5UDlBTXZkUDNIY1BMeFlzLWZpbDRNbkpH?oc=5",
+        "press": "SC Media"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
