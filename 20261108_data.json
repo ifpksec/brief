@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "generated_at": "2026-11-07T23:31:56.452748+00:00",
+    "run_date": "20261108"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 102.30 (+0.74%)",
+        "description": "전일종가 101.55 / 변동 +0.7500"
+      },
+      {
+        "title": "미국 10년물 금리: 4.86 (+0.45%)",
+        "description": "전일종가 4.84 / 변동 +0.0220"
+      },
+      {
+        "title": "VIX 변동성지수: 25.64 (-9.01%)",
+        "description": "전일종가 28.18 / 변동 -2.5400"
+      },
+      {
+        "title": "S&P 500: 7376.86 (+0.31%)",
+        "description": "전일종가 7353.73 / 변동 +23.1299"
+      },
+      {
+        "title": "나스닥100: 26989.99 (+1.35%)",
+        "description": "전일종가 26629.81 / 변동 +360.1797"
+      },
+      {
+        "title": "다우존스: 51285.73 (-0.46%)",
+        "description": "전일종가 51523.06 / 변동 -237.3281"
+      },
+      {
+        "title": "USD/KRW: 1356.34 (+1.21%)",
+        "description": "전일종가 1340.07 / 변동 +16.2700"
+      },
+      {
+        "title": "USD/JPY: 158.43 (+0.59%)",
+        "description": "전일종가 157.50 / 변동 +0.9270"
+      },
+      {
+        "title": "코스피: 5059.69 (-6.02%)",
+        "description": "전일종가 5383.80 / 변동 -324.1099"
+      },
+      {
+        "title": "코스닥: 644.27 (-5.03%)",
+        "description": "전일종가 678.41 / 변동 -34.1400"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.266 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 2.50 | GEX -0.7B$ (만기:2026-11-09)",
+        "description": "콜OI 48,414 / 풋OI 120,946 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 0.81 | GEX -0.0B$ (만기:2026-11-09)",
+        "description": "콜OI 62,637 / 풋OI 50,964 → 균형 | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $137.01 (+4.07%)",
+        "description": "거래량 21,590,300주 (평균대비 1.0x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $738.68 (+0.34%)",
+        "description": "거래량 6,999,100주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 64.5% (129/200종목)",
+        "description": "평균 MA 대비 위치: +0.5%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 25/100 (Extreme Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "SpaceX's December Lockup Is Nearly the Biggest Share Unlock in IPO History. History Says This Is What Happens Next. - Ya",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVFVaREdwb29kZHB0WU5zN3RCM0Q5QjBtM2NKUnJnOE42WTZXejVIMGJ0R3RRT2JsbU1Nb2w5dVhrVWZuTGFYdE9rUGwwMThneWxSbEJsWEZnN2JIMm5vZTlvVldQeUNvTFZsX2UyT2xBbl9kR1lBMkVkZ2lNUXVic2NVMUhBREstVDFzRHZMMGRCTGNvT1dZbHVXWktpckhVXzhYUzh3?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "3 British Biotech Stocks With P E Under 27 To Watch - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbGtsdmQwTjBnTWMtelBDWG9BQ3ZwaG9EXzlKTmlGajVfZW5RYU5sUmNuSXE2MUZwVjBqc1VIZDZQdndjdmxqQjR3UW1XQ09zdmF1UElYRGtKalEtR0ZSWmRkaDF0aUxhNlZEZG1KNUYwZlpwa2V3NHEyNi1ObGRRUUZrNU1IbUM4V1hVY182ZmE?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "French presidential hopeful Melenchon pledges economic stimulus, renews NATO exit call - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUm5pT3hsUTgtVnJTWl9zTUxFZlpBUEtYeHNsMjQ2em9ybzdCcmtHLWszT1lhZEc0NkJqMV8xWHRMUG9faXQ3M2pyMUxLejRUWXJNa3c2aFhaamdEbzdPMWJtdGl1Yno3TEVBaUpvQzVZdHFibEFiMGRSeUswdUhhcmM0cllNV0VpYTV0VU1oTlBva3F2NGV5ekdiZTNDUXBqWFNjaXczclRmb0pNUGYtUWZTT3JJNlo4RDZj?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Devon Energy Stock And Other Oil Producers Facing Inflation Pressure - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQWFqNXdwQUJnT1Qxa3hMVWZjSWZOUzVYanRxeGsyUUF1TFk1Q0ZVV1p5RUx1OHM3WGUzSGwzYUxCbnBNTFVtNW1Qa3c3OGxRYWI4ckt2ZHp0T0dqVVgxRTc0SEtJaWh6VGhOZ004d2MxWG5hVFVhcHdGX3Q5ZVRtZzdHOHpvT045RnVLU1BR?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Korea’s pension fund was a market backstop during the tariff shock. Not this time. - Korea JoongAng Daily",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZlpSWlV0X0tSUnRLV1FHUHdTMDFnMERrek1NMHFrYU9QdDRvc2RWVUJNdG84a20yRElneFVPYmM0SUlmN3N4TkxTQWx1aEwtUnE0cHpZcnM0bzFBSGp6dlVqVHJ0bFZ5Smh0dUxlakRTOWNTaUs0Szl0Yy1MdXh5cWdMSzZDRGFMS0diUjJRdngyTzZRZW1vMXBNeVJ6d0hzdTFkQ0hkRTM3aThXa2wyMEJlZmdzVWtYcktraG14ZVRuQlVVc19tM2dQVkk?oc=5",
+        "press": "Korea JoongAng Daily"
+      },
+      {
+        "title": "Dongwon Parts, Baro Farm, Nexi… Three Companies to Debut on KOSDAQ Next Week - 머니투데이",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HZGpWM2lkb2ZVVmpRTGRvLUp3LWd0UW1ZMllTRXJ0UFpBWkVJQ1Izb3M4SnpNRExSbGJ4OC0tb3pfcXZZLWU4c1pyM1YyVTdXSTJiOEREc2NtRWJ2N2lCemRQTU5NME9UR0RMSA?oc=5",
+        "press": "머니투데이"
+      },
+      {
+        "title": "Samsung, SK hynix race to lock EUV amid ASML shortage in South Korea - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04VEdjRjYwc3VqY0MyMTFUOXprVk5FUjZDVHNpVk83ZFRHWDRRSXFwamZsUDh0QnUyLXJyYm9oYTNhRjJiajlkMG9WNEpDRm9vTG80Vm5fQ1lmWjg1Tkl6YWpDbEdJOHVaRlM4eFNfV3R6ZmwtaklsZzhR0gGOAUFVX3lxTFBIQzM3SGI3akh5R2ktWFdMSGN4ZXpmV1MycW5MUDlWeE5HaFBOWm56MmRGMEJTZTdBSks5QkRTREt6ZWNOTUdQNm9ZQTlrS3hBRUVFaUhfaUZEZDZTMk95RlVKSjhYc0dDdC1aSG5YOHpWbDhlVkFwQjVQUUNKTENZWHVwdkF5b1kwR0tYZWc?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Samsung, SK hynix race to lock EUV amid ASML shortage in South Korea - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04VEdjRjYwc3VqY0MyMTFUOXprVk5FUjZDVHNpVk83ZFRHWDRRSXFwamZsUDh0QnUyLXJyYm9oYTNhRjJiajlkMG9WNEpDRm9vTG80Vm5fQ1lmWjg1Tkl6YWpDbEdJOHVaRlM4eFNfV3R6ZmwtaklsZzhR0gGOAUFVX3lxTFBIQzM3SGI3akh5R2ktWFdMSGN4ZXpmV1MycW5MUDlWeE5HaFBOWm56MmRGMEJTZTdBSks5QkRTREt6ZWNOTUdQNm9ZQTlrS3hBRUVFaUhfaUZEZDZTMk95RlVKSjhYc0dDdC1aSG5YOHpWbDhlVkFwQjVQUUNKTENZWHVwdkF5b1kwR0tYZWc?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Samsung Electronics' Cash Reserves Top 200 Trillion Won… Signals Record Shareholder Returns - 재경일보",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE56cUp6dU5fM0ZKUlduRjB0MlNwbDFVMF9nRUVsSzJsVHNZZHpDRkxTT0hIMk92NlltRThFS2dLTXhGTE15ZEdpOUYwUFFQR04wdnhBRGZkdDE4M3c2b1JuMm1n?oc=5",
+        "press": "재경일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
