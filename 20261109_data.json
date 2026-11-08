@@ -1,0 +1,177 @@
+{
+  "meta": {
+    "generated_at": "2026-11-08T23:31:52.283244+00:00",
+    "run_date": "20261109"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 102.24 (-0.06%)",
+        "description": "전일종가 102.30 / 변동 -0.0610"
+      },
+      {
+        "title": "미국 10년물 금리: 4.86 (+0.45%)",
+        "description": "전일종가 4.84 / 변동 +0.0220"
+      },
+      {
+        "title": "VIX 변동성지수: 25.64 (-9.01%)",
+        "description": "전일종가 28.18 / 변동 -2.5400"
+      },
+      {
+        "title": "S&P 500: 7376.86 (+0.31%)",
+        "description": "전일종가 7353.73 / 변동 +23.1299"
+      },
+      {
+        "title": "나스닥100: 26989.99 (+1.35%)",
+        "description": "전일종가 26629.81 / 변동 +360.1797"
+      },
+      {
+        "title": "다우존스: 51285.73 (-0.46%)",
+        "description": "전일종가 51523.06 / 변동 -237.3281"
+      },
+      {
+        "title": "USD/KRW: 1362.94 (+0.49%)",
+        "description": "전일종가 1356.34 / 변동 +6.6000"
+      },
+      {
+        "title": "USD/JPY: 158.47 (+0.62%)",
+        "description": "전일종가 157.50 / 변동 +0.9700"
+      },
+      {
+        "title": "코스피: 5059.69 (-6.02%)",
+        "description": "전일종가 5383.80 / 변동 -324.1099"
+      },
+      {
+        "title": "코스닥: 644.27 (-5.03%)",
+        "description": "전일종가 678.41 / 변동 -34.1400"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.266 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.88 | GEX -0.9B$ (만기:2026-11-09)",
+        "description": "콜OI 111,251 / 풋OI 208,635 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.04 | GEX +nanB$ (만기:2026-11-09)",
+        "description": "콜OI 98,626 / 풋OI 102,249 → 균형 | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $137.01 (+4.07%)",
+        "description": "거래량 21,590,300주 (평균대비 1.0x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $738.68 (+0.34%)",
+        "description": "거래량 6,999,100주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 64.5% (129/200종목)",
+        "description": "평균 MA 대비 위치: +0.5%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 28/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Dow Jones Futures Loom For Damaged Market; Nvidia Probes Huang Spying Case - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ0hGNFB0QTUyUUxKc2F4M2x6bVg4TERkVlF5ak9TbTAtTzN2U3IzaE1NNmFET1FJLUdsYnNvUWxaNm5iZHJtRmkyX0Fmb1dEanFlMGkyZzZSRDZhWHplTnRBVDRpOXlYZkRUNU51bVFWbEF6bnFwa1NOMEx6Nkt4UnhfYUtmQ1VFWlpyaVNCVm5peWhMYkRmeVhuaUc4QWZ2ckE0U1JUOXh4ZVl3dk1NTWlIT1dDZlhR?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Anthropic's IPO dilemma after the AI sell-off: 'Damned if you do, damned if you don't' - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaVlpNjBPSk5CcWpIVmc4RnVtUmsxT00wUFVZTXNrYzJqU2w1VGFoUUlUVS02TXVDODhpanJQSUlrNEUzLUo5c0czMXRaYVdSUzdubzBSTG5lVnVEUUE4bW9HSmVHZGV0ZVhYazJsOWw1WDdLMzYxRU1BaEVfbWpWTWtkTDZhakdWd1l5aU1DZk1abDJKY1JRM1VHQnU2Snl5X2xCMHQwaXJ5bWJxYzZPMFFybnlXOWhGSlByeGFDRXZGY291RzJkeW01dHN2a3Fsd0Jn?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Cryptocurrencies slide to two-month lows after US midterms - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZ19jb0ZtdjRvY1E4V0ltOHBXdkI0UXpfY3lNeFVhM0pxRUlUUmVhWVdRSW1Ec25SMnVvSXVxQ0hQcjJfamxSWWpRSVNoYnh4QUxaSHlHRExaWVBiNklkRUpvM1dMZENjS1RNRzJJUFNydjN2RVFpQkxfcGpSaGNUREEyX29scVBNTkoycjdRckk1ZFBIaTgybHh1NjU4eUxVUEE?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "U.S. Stock Market Outlook for the Week: CPI Data Due on Tuesday, Earnings from Three Major Tech Giants to Follow—Can AI ",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQXF6Z0tTdk5lWFkxd1lweEh4UnpmR3dWc3hSYmVFZ3pwdlJ5dU9TQ3FRSGZNSGNwMDZSSkxRZVN5a2JWZi1wa2FLT3ZnWER2VG5Xdjk4dTM1dEdLT1FKel9wWnpZMVo3VEVIUjdTdXZuUkk0SU5PMm1qNHM0RkduOHVmR1YwUzB3RzZiU2J2aXNNN2plVzlUdw?oc=5",
+        "press": "Moomoo"
+      },
+      {
+        "title": "The Nasdaq Is Toast: QQQ Could Go 40% Lower. Here's How, And What Could Stop It. (QQQ) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPU0xMblpKVVh4T1hab2JtUEtXN1pheW0zZm5XTlQybUw5cmIybTF6elU5TWhFTVJuMW9rU3NMYmcyaW5sZDhQbF93SWo0aGRuQnU1WThvTXhUeUtSd2FRVmwwN0FBOEFNUU5KMmRFejh5ZWRLaDBzYjJtdnEyeDQteGtwblpxc2lsRWprQVFBUFlob2pPWnZRX1NQRjNQWGJYeXNTQ0pSVHc5cTluRkw1djVSUWktNlFVMTNR?oc=5",
+        "press": "Seeking Alpha"
+      },
+      {
+        "title": "Jensen Huang Just Handed Nvidia Shareholders a Warning No Earnings Report Can Fix - 24/7 Wall St.",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXliaGQyLUNnU2wxZ1pMSF9VYUE4MFpjQ3NONTJyaUxjU01QUEJONGVsZ2tGVXk4RHAzTUlNRUdzOU55QXd6dGlhb1Nlbm9Dcmk5ZVBlUmdfY1h3eU1rbGE4SWFyWHFqREpnSm50cUhXcnlwVXF4Q01WZ2x2aUo1d3gyWEh0MlNGc3lQUFBkTF90N1dlMnhRaFIzdlBpQkd5SXdkSlJsajdEZHJSQW9jN1ktSHVGVnFIcmoxZDgzMWc2eEk?oc=5",
+        "press": "24/7 Wall St."
+      },
+      {
+        "title": "Africa’s largest refinery IPO fails to meet its 10 million investor target despite attracting ₦6.4 trillion in orders - ",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQVZkUjIwM0dOcFNvTWlJS2pNM2lBQ2U2OGJOSTlsZlhaZ2ctQ0YwYndPWHAtWVM5cTRBMndEZWFIcHJIWEM1d2I5Vy1zdVJ0aEZUZE8zUzNDR3V5YjVORDhDZV9IdHdpX3VuR0Z1eXV6cXVPTkgya2RSTzJoMFFyRXRmN0dNSUd3VVNfUHI0N2VfWDNpcWlBYmxSU2czMHZOR3NDS3hBUDVCa2lBel84dW1QVnd4NTlpTDJHQjlrU1VfM1VuQU1qY0hvUk1LX0RIQnFaRA?oc=5",
+        "press": "Business Insider Africa"
+      },
+      {
+        "title": "Anthropic IPO to Test AI Industry's Financial Viability - BankInfoSecurity",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeTJDUU11OHd3c1RRWWRaVEtYdWxCdlNCWGVMMUxiM1BLLXEzM1AyOHJyS2JlRGM2VG1DcGdzR1laV21seHBYaVRuSS13ZmNoY2xjSzVnUnVLXzl1QVdlRm44V1o5LXd6eDRGblZFZDZXWFVPRlpFdDlQN1h6MWZIaEhiWmd5aXBESng1MThuRTVlVU03VzBhQ3FKSQ?oc=5",
+        "press": "BankInfoSecurity"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "\"Rollercoaster\" KOSPI Seeks Relief Following U.S. Rebound - SBS 뉴스",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uWS1ZaFpPR2NsVDlPZWQxWldmQjJZSnRNb21ja1lsVElmdlVTNnNaZy13SlJFQ1M0dVZqSm16bFpqRzNsdmRyWHVuWkFCZzl2LXdZSGs1NWJ1ZXF1YktvRWxrM3dvY0dVTWQxSWpn0gFmQVVfeXFMT3o1Vnlvc1RYQWl4b3h5R1R5bW55UlYyTjRvX0VtcFVfNEt3SGJLZlBQVXFnV1oyMkFvNDloV2UyakpGUHBaUU51SGpwMm1jcktIcWl6TEExN3d3d29rYjN4Y3RDXzJB?oc=5",
+        "press": "SBS 뉴스"
+      },
+      {
+        "title": "Hana Securities says KOSPI rebounds when tech credit spreads and volatility fall - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU2VzdDNsV001NThzZURzMm9OQmlBSFVNVTJVaGY3NWplbURieUxndGpZVTFHRjZwaWlhaXZiT3dqVWlRRGFGVXJvd3d6VW45Skhwck9IRjBJbTdHekd3dlVmOVVtNkg1Tl84UHRVbXpiN0Q0Z1BtR0pZcGxSQ0dKVdIBlAFBVV95cUxPbldTSFV2MUlzeHNsM19aWi1TZWhrbHk5eXNIdDZvNHY4R0Q5Wm9QeUxtZzNTSjBVSlB5X2RYaTlmSWdPbG9LcWYzUVVhNzl4RmRWUkQ0WFUwUVhfbGhVNnJqM25DNjd5SlJuYy1xR3hsXzJiemdFaWFuNWNqU09NWEg0dExQR1FlQ2lhdEtwVk04bGw0?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Five Firms Open IPO Subscriptions as Three List on KOSDAQ - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNUNnbFU5M3hSM1ZRbWpwNTdxQ2JDeFNHSHY4U0Fhc3J1NDE5SXFYTEhVR2VyVU9KMTJsZHViM0N3a1lpdTNuTFE0em5EN1UzS3dORGd0bGlBN2pUUG5abVlpb1NVLUxtLTNBcWR4Ymw2VU1TMlpQdWJsbThqMk40SzRnMUFzT0dqSkk5bHRWT3VwNWhLdEZtTEZNR3dOSDBh?oc=5",
+        "press": "Seoul Economic Daily"
+      },
+      {
+        "title": "Samsung Hosts Hyundai Executives at First Domestic Collaboration Event - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPem1SLURTR0NVRnRMWjJkZ2NHcGtCZy1rUGVmXzJYeEFkM1hiWmhpeVVmNXMwbkRKaWRoc0hiRmZ2MU5aeVh5TEVGc3ctZ0pFNXQzQkphcnVhMnY1Qktsa3NrU3ExamI0SmNIc1JOWlZTak9MM0JMWE5TSlR4bHZZMi01ZFg2VW1Z?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Korea’s economic rebound may be more fragile than it looks - Korea JoongAng Daily",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNXpjMnBWU011MzF2dVd3cVE2Mk41MWJhOXlTaUhtaWM2Wm1JdmExeE5QUGEzaWxmclBKdmgwb0hZRHhTbGQ0dlVjbmV6Ym8wRnNpS1ZqY0lSb3luT3RjNHdhSDU3aWZMUVZKTXNsY1FWSEFWSi1DNWtqMUVxOHNhaVc5dm1Lcm9MU2NJTQ?oc=5",
+        "press": "Korea JoongAng Daily"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
