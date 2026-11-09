@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-11-09T23:32:12.521145+00:00",
+    "run_date": "20261110"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 101.68 (-0.61%)",
+        "description": "전일종가 102.30 / 변동 -0.6210"
+      },
+      {
+        "title": "미국 10년물 금리: 4.86 (+0.10%)",
+        "description": "전일종가 4.86 / 변동 +0.0050"
+      },
+      {
+        "title": "VIX 변동성지수: 19.92 (-22.31%)",
+        "description": "전일종가 25.64 / 변동 -5.7200"
+      },
+      {
+        "title": "S&P 500: 7549.94 (+2.35%)",
+        "description": "전일종가 7376.86 / 변동 +173.0801"
+      },
+      {
+        "title": "나스닥100: 27907.62 (+3.40%)",
+        "description": "전일종가 26989.99 / 변동 +917.6348"
+      },
+      {
+        "title": "다우존스: 52389.75 (+2.15%)",
+        "description": "전일종가 51285.73 / 변동 +1104.0195"
+      },
+      {
+        "title": "USD/KRW: 1341.70 (-1.08%)",
+        "description": "전일종가 1356.34 / 변동 -14.6400"
+      },
+      {
+        "title": "USD/JPY: 157.98 (+0.30%)",
+        "description": "전일종가 157.50 / 변동 +0.4780"
+      },
+      {
+        "title": "코스피: 5059.69 (-6.02%)",
+        "description": "전일종가 5383.80 / 변동 -324.1099"
+      },
+      {
+        "title": "코스닥: 644.27 (-5.03%)",
+        "description": "전일종가 678.41 / 변동 -34.1400"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.288 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.80 | GEX +3.4B$ (만기:2026-11-09)",
+        "description": "콜OI 193,324 / 풋OI 347,726 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.30 | GEX +1.6B$ (만기:2026-11-09)",
+        "description": "콜OI 152,037 / 풋OI 198,284 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $142.10 (+3.72%)",
+        "description": "거래량 16,841,356주 (평균대비 0.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $756.05 (+2.35%)",
+        "description": "거래량 6,999,488주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 69.0% (138/200종목)",
+        "description": "평균 MA 대비 위치: +2.6%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 29/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market Today: Dow Pushes 1000 Points Higher, Nvidia Stock Slides Over Jensen Huang Affair Probe - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSV9fWHdCZGw4OGdCbVpVMVJreGluVnp1TVhmT1JkemQ0RGdWQTZfNFNuODhETWJUQUt6NTVlUlRGY0NwNkRXOVd6VFlLSWFlTERpMEJWODJraHlyX3ZtRnFpSjUtVzhmOVVKNkRfS0RPZ3l4WHBnWEdwTTRRaVVDdmM3TEhxR0k?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Earnings live updates: 'Grand Theft Auto VI' preorders hit 'unprecedented levels,' Take-Two CEO says - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaXpoOXRvVDE2YThCZmtXM2JvRzllWWl1eEJ6SGc0Y0t2QkpMc1dIQVgwaVVKdXVmbEhvSmpad2FELThMYW1xaGE0UmNZaVg5d3MyTG9abWtIbVhPTmo3TFo5Sjg1dkRxd29vZUlzZzM5M1ZwcWlocFhHQk5hWWh0V2JwQ3U0ZUY1V0VJb1B1VUlIdWZrQ1JKTXlCNmdRU3RPaHpMcEhfUXBpcTNESGJZ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Asian Stocks to Rally on US Tech Surge, Oil Slump: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXVKNll2bkFUUU5EVDg4eTF6a3YwZ0pIS0d4bGFTdkItMkl3SkFCbGRiZFdzSmlidHZZN3I1YzF1VkVXYlM0dDJrRlRPeDRGYXp6cVBuRGVjbl9vNWxrdlRYLTl4NTRxMnRFcGtuOUROekFvUUsxdTE1R3IwWmRKRVlUVFpFTlY0WXNlWTZTa1hIdmV1?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Dow surges 1,100 points, Nasdaq climbs more than 2% as tech rebounds from last week’s tumult: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FVDc3UlZHcHBOWVJmWWs2YWxla3J5NkpsVmNlTERMM2lQNm1MdlRteDEyeUFGcGFKVHEzV0JGalFMZXlvV3o2R3dmb2dGWUh5WlpMOWxiYkdlb1c1RzB4WlNhQzRoTF9qM3lfaUlKeUhqQUFtWkdj?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: Nasdaq surges despite Nvidia stock slide, Dow and S&P 500 rally as AI tech trade rises - Yahoo Finan",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdG53R1lmOWxNelNURjQwQjh1a25leVVnRjdkU2lrX2VDemx5VDlJdk56Y24zeXE3dzVOdGtETjlEblo1UGNxdkRXQkR6UXZrT3VVU0pNamhlM0RpMldLdXhxSEdEUnF1WXo0MVZLLW4zb28wclBSdE5ZWmJ6aWVnelpVWUxjcTZLZ1pKNGhpNUVCREExWnJJV3JDMzVFQUF0V0hud2ZYSUJnTVVRV0diNFdpanlSZw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "European Stocks Rise as Banking and Technology Sectors Advance - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSEFmSmlFM2JkZjZ2NTF4bWRQdTRHQU5yZ1ZzVnNnWll1VVdTVWNjSVpwVmFlVVdzdFRrWm5NVTV0cS1BV3pKUlRzaDZ2OVFEb0EzWGphQk1IRmtSLWdUR2lhYVo2T19ZWmduN0M2QmVLM09OUUc4LXVDOU5ILTFheE1XWGdzQ0VqSFhKaTdia0RkUkJmc3N4ckJvb2R4cS1yd1llTnB2TDJEUQ?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Tech stocks rally as Nvidia stock and oil prices fall: AlphaCheck - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObzVpWHZSeklab0tOemZ1NkZRQTExZXNOV3RwMjJheU9TX01aQmo1allWU2tOeERXX0J1enpoaVpnYWw2MUZSZTdsdTJuejMwNVkwT3JvRkhLV19MaHA0dUtqcEFQLWJsd3QzRU9aQnpLSENZT3ZmXzctU2dlREh5aGxGVm0wbjg2R2Z6WEU4Qk1IMGpJdXhnQUl6ZXpadHBJQ3pZV2VhOHN4N1BkUExxTkJadVNvVlNnQWt5OUVn?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Is the stock market open on Veterans Day? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWmw1Y1BTZHdPT1BpakVXMnhWN005Mlo3NHhsblZ4a2FlUUdId2I0NTQtN05RZkZwMjlnUHp1S2F3UTFPZ2NaUV9jUktNZEdwNU5tS3BTOFo4amhhSExiTU5aNHl4alZzTF95Vm94eWJTSktyLUc5SXFSUmQwcl9LbC1CSlJ6cVdSNnFWeFZ6OC0xVF9VWEZKVFJYYkFfZk9IcTA0cXlFUUZSXzJlelkyeW5lRXJHU0E?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "At ₩9,670, Is KHVATEC Co.,Ltd. (KOSDAQ:060720) Worth Looking At Closely? - Simply Wall St",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObVJEenFKSmdFLWlZajdjNDlaN1VWT3laV3NsVWtLN3BsZVp0QllGVHNUNURxVUFmSm12bVE2QTlWYXE1azBOempid0c2cUtNeklNYkJNYU5mYmdYcWF5TllyQWhCZ2JiRXJzRUMzSGo3MVlnVkxwRlVUZUVVQ2U1S0M2Z0E2aHlKQUxNaFFLSG1aS01aZ09MS243SzRFSGpjY0ltZFQyNnpMTURTOEdudFJybGRaUWxGaWJJZ1hEUmVLS0NEOVZhX2Rmb3NGam960gHWAUFVX3lxTE5qdG1KSlRqOVZobTRlR3czNThuN01YMzJSM1NhUUVzNXhTTl9aWlpFUmw4Ml9ZcFRlUEVBUjdxSmFKV3h4TzR1dW5KSXFKeTg4dmFqUThCOXhlUmFNMVFoSWJwRk5nb3lrcDNIWEVOMTNtSU12YVI1bnlzaWpjOUVGV1VXejVwZmRXS3VtZmo3Wm1aNzZmTFZteVNhdC1nQTBZbWFNeVo4cmF0bWNaVTA2WmFQZGROVVJKcElTZlctT19YSjZabk1mdjVlZWl3VHdQNUluMXc?oc=5",
+        "press": "Simply Wall St"
+      },
+      {
+        "title": "Hyundai Motor Group, Samsung Electronics Unite as 'One Team' - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX3Fvd2xPeVdKQjRFUGxiemdDWnZwcVIxSXQ4bzc4cUo2bUlYSlFEeF9YaXhXN1lDNjlQSW5ISVhPS2xoMXJVaXc5OVZCbC05aU1YSVJoR0o5d2w0Zkp6UVpFZFlHc1NZd1FwQjI4Y0RkRHlNY3F0bjJqaWE0eWxOZklUaWJrb2Rj?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
