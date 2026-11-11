@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "generated_at": "2026-11-11T23:32:05.607430+00:00",
+    "run_date": "20261112"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 102.84 (+0.60%)",
+        "description": "전일종가 102.23 / 변동 +0.6130"
+      },
+      {
+        "title": "미국 10년물 금리: 5.00 (+0.30%)",
+        "description": "전일종가 4.98 / 변동 +0.0150"
+      },
+      {
+        "title": "VIX 변동성지수: 17.49 (-10.12%)",
+        "description": "전일종가 19.46 / 변동 -1.9700"
+      },
+      {
+        "title": "S&P 500: 7619.38 (+1.31%)",
+        "description": "전일종가 7520.93 / 변동 +98.4497"
+      },
+      {
+        "title": "나스닥100: 28374.25 (+2.28%)",
+        "description": "전일종가 27740.79 / 변동 +633.4629"
+      },
+      {
+        "title": "다우존스: 52486.49 (+0.49%)",
+        "description": "전일종가 52231.89 / 변동 +254.5977"
+      },
+      {
+        "title": "USD/KRW: 1336.63 (-0.54%)",
+        "description": "전일종가 1343.84 / 변동 -7.2100"
+      },
+      {
+        "title": "USD/JPY: 159.71 (+1.09%)",
+        "description": "전일종가 157.98 / 변동 +1.7220"
+      },
+      {
+        "title": "코스피: 5239.13 (+4.39%)",
+        "description": "전일종가 5018.85 / 변동 +220.2798"
+      },
+      {
+        "title": "코스닥: 667.61 (+4.48%)",
+        "description": "전일종가 638.97 / 변동 +28.6400"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.239 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.08 | GEX +6.2B$ (만기:2026-11-11)",
+        "description": "콜OI 190,347 / 풋OI 206,507 → 균형 | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.37 | GEX +0.9B$ (만기:2026-11-11)",
+        "description": "콜OI 118,160 / 풋OI 161,930 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $147.81 (+6.20%)",
+        "description": "거래량 18,993,588주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $763.08 (+1.29%)",
+        "description": "거래량 4,494,467주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 73.5% (147/200종목)",
+        "description": "평균 MA 대비 위치: +3.5%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 29/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rise as chip stock rally rekindles AI trade - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSjNNaXdrQndXWjJ4bGtQS0xsNGRLeTdndTF4UHJsMzl3RjhSam5tOWtGUmp1bXpKcGxIYkRxWXY1SGJINDA5dDZmZHFaT1VRS1k5WlNPakR2RHJxbk45VVpqeGo2R1lwMld4SmFjalV0QzE4cEF0Vl8zSWg4NVhPQmdyQWx0ZXM0RzNWclhnOUJxb3BHejlzaXljaF9raWkyRExvQ05pbnR5SFVtbUlFU0loWmUyOWlYMHFRNXdJT3V5eExpaEw3YkFfTllIMnpxQ2RMY25pU3lkdw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Nasdaq-100 futures slide, dragged lower as Nvidia sell-off resumes: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00cTdQYjhOUVlzVEZnQndNN1NKNzBJSjIta1lDWVlVXzhDcXkwWWpVRnE3c1VMTVF2bkZ5WnhHU2NSd2ZRZlI4RVRjREJvbG9xWDZJRF9QMG1MNE40ZGdESkpmZXhsOUhCTUcyZGZiOGhfTjdiSUk4?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Nasdaq gains more than 1% as CoreWeave spike revitalizes AI trade - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tNUpWaERRaEpZWXFmM0tBRnFQQlBPVzlJUm9ldF9teW53ZjY0WHZ5X1FBdXZRWk1UR0dWRlZXX19VTDAyT2N5QVA4RzlST1FFcFpBUEVMek5OTVN1Vzk3eUNra1puWVlyVk9SMVVXX01YWm1BbUVZ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock Market Today, Nov. 11: Intel Climbs on Broader Chip Rally as AI Infrastructure Demand Lifts Semiconductor Stocks -",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTkhodDFrb2Rsa1d5c0x0U25GVTJqRS1xRndhSjh5UkxsNnc5WnZuZElydWpRYWpIWlZteXFlUmlGS2ttR0I4YlE0UW1lVkhUZjYwSzBTaTVpRmxtMlg5LWhqLTVTaGh5SnFIRjFZcXAzWnFYdFZzNDFjQXBFTUI0V3NkNktrRUZIU05BVGtTdVFJYzZt?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "European Stocks Set for Record as Miners and Tech Rally - Bloomberg",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMTE2SUlYQzc3UTRKeHhQRVZUY3c4eG9aZzVEV19rNkEyLTY5aVlOME00R0pSYV9NeWR5ODZJVmFtQjNubnVSNHVBX3FDT0NhZWpScmZEbkxOTlpUanVWQ3RBSmVqNkhENjdBbHNDS29ISU9WVk9RZHY2dE1teDNVMkpGT3VkTDhaRTNGUzJSSXR0RkYtc0owM3dfODRkRE1kM3BkQ3lXSHhXdw?oc=5",
+        "press": "Bloomberg"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rise as chip stock rally rekindles AI trade - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSjNNaXdrQndXWjJ4bGtQS0xsNGRLeTdndTF4UHJsMzl3RjhSam5tOWtGUmp1bXpKcGxIYkRxWXY1SGJINDA5dDZmZHFaT1VRS1k5WlNPakR2RHJxbk45VVpqeGo2R1lwMld4SmFjalV0QzE4cEF0Vl8zSWg4NVhPQmdyQWx0ZXM0RzNWclhnOUJxb3BHejlzaXljaF9raWkyRExvQ05pbnR5SFVtbUlFU0loWmUyOWlYMHFRNXdJT3V5eExpaEw3YkFfTllIMnpxQ2RMY25pU3lkdw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "A.I. and Market Whiplash - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LN2lBVk9ialg4T2dCYXJvcGVHeXItRWJCZ2xqMDAzU1otdnM0OXdkNGNyYUY3T2RiZG9xMkFQNnAydHNUeGdrdDY4ckl5LXNCVVQxN3MzS0E0OG1ISEZwRHZKQnF1eTlUemxRLU1saXd1TlZkVnFYR3FFVUliUQ?oc=5",
+        "press": "The New York Times"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq rise as chip stock rally rekindles AI trade - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSjNNaXdrQndXWjJ4bGtQS0xsNGRLeTdndTF4UHJsMzl3RjhSam5tOWtGUmp1bXpKcGxIYkRxWXY1SGJINDA5dDZmZHFaT1VRS1k5WlNPakR2RHJxbk45VVpqeGo2R1lwMld4SmFjalV0QzE4cEF0Vl8zSWg4NVhPQmdyQWx0ZXM0RzNWclhnOUJxb3BHejlzaXljaF9raWkyRExvQ05pbnR5SFVtbUlFU0loWmUyOWlYMHFRNXdJT3V5eExpaEw3YkFfTllIMnpxQ2RMY25pU3lkdw?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "NEX-I debuts on KOSDAQ after cut-price $29.9M IPO - Dealroom",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWEtnSzROR0N1cU5EeVRaN0l0UldNYVozbzVSWnFDRGc3UjdnTEQwc1BvZG1zWTZSSU4wWnRoY3MxRWdSZWNldlFUVUVQRmJXc1VaaEhJVjczVXZDN1owNDRCUWNUa1FQcUFEVXBSbi0tMkpEMU5yRlNBS1M4dm81bXBtend6Rm5tS2c?oc=5",
+        "press": "Dealroom"
+      },
+      {
+        "title": "JNTG Withdraws KOSDAQ IPO - THE ELEC, Korea Electronics Industry Media",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BcmVwOGk0Ym5iS085LUdjeFNRRWJtYTkwQVRpMGxvcm8zMmwwbmp1VWtzTEJMVXVKekhEdnFDcHdGQVZjRi16eWxiMVFEU2hGZkc0b0dTVlVBQ3l0V2pPNE9sMWpjXzA?oc=5",
+        "press": "THE ELEC, Korea Electronics Industry Media"
+      },
+      {
+        "title": "SK hynix tops 70% HBM4 yield, sharpening race with Samsung and Micron - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFByeE95ZVJ0azhOZkd6LUduUUREYmxRMW1teUpqbkxCMFZNaWxJVmJmMDhmbE11SkJZbDZFeWRoQUdDOGJGXzZ1TzZyZ180SmxKRC1CYlpkclc4eUVyMHRJd3o5X2NvV25kZ2s3V0R6S25fa19SNVdEY0tR0gGOAUFVX3lxTFBxLVdvcTIzdzIxVjRQTlpBaUhrcFlCRlZCR21NSVd1VUZvRHljUXpKRjRmTks1TEplM1BaZ0p4TWN0QTR0aDNHcU9qRG5ON2RoUmx4bWdxRXpCTFpqMUhfN05rd2ZKajZTNm9rM1J2bW1sX2t4RnRFdDVhbHBKWUxPRHRxRm85UEd0cDMxSlE?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "Memory Chips Are Completely Distorting South Korea’s Economy - Foreign Policy",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT1lWRktqbDYwbGEtbGpkMHJ4WWR3WnBWdDNKLUFYT29kVWpUSWxWZ1ZYUnd5QWhPQ1A0YlRXSU1lUXRGNDh2ZW43UmFtOGJlTm9Bd3JNZjI0OVdvYm9ZRlBYWVFBOGpEcjBIVjM2Mk8zYmloLWNyQlhIVVhBQmtHdzJYd1FQOHNBOC1sUVd2SFQwZXZjYVFSV3ZLYlZ4ZjhBSFl6NWtmcVpuX3RibjduZy1UYVNLVHZEUnhKTG5OSlhFdw?oc=5",
+        "press": "Foreign Policy"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
