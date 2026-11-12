@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-11-12T23:32:02.555907+00:00",
+    "run_date": "20261113"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 103.17 (+0.25%)",
+        "description": "전일종가 102.91 / 변동 +0.2600"
+      },
+      {
+        "title": "미국 10년물 금리: 5.10 (+2.10%)",
+        "description": "전일종가 5.00 / 변동 +0.1050"
+      },
+      {
+        "title": "VIX 변동성지수: 18.70 (+6.92%)",
+        "description": "전일종가 17.49 / 변동 +1.2100"
+      },
+      {
+        "title": "S&P 500: 7592.40 (-0.35%)",
+        "description": "전일종가 7619.38 / 변동 -26.9800"
+      },
+      {
+        "title": "나스닥100: 28289.19 (-0.30%)",
+        "description": "전일종가 28374.25 / 변동 -85.0625"
+      },
+      {
+        "title": "다우존스: 52297.09 (-0.36%)",
+        "description": "전일종가 52486.49 / 변동 -189.3984"
+      },
+      {
+        "title": "USD/KRW: 1334.70 (-0.54%)",
+        "description": "전일종가 1341.91 / 변동 -7.2101"
+      },
+      {
+        "title": "USD/JPY: 159.86 (+0.73%)",
+        "description": "전일종가 158.71 / 변동 +1.1530"
+      },
+      {
+        "title": "코스피: 5375.36 (+2.60%)",
+        "description": "전일종가 5239.13 / 변동 +136.2300"
+      },
+      {
+        "title": "코스닥: 705.10 (+5.62%)",
+        "description": "전일종가 667.61 / 변동 +37.4900"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.246 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.42 | GEX -3.1B$ (만기:2026-11-12)",
+        "description": "콜OI 165,057 / 풋OI 235,011 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.29 | GEX -0.6B$ (만기:2026-11-12)",
+        "description": "콜OI 122,875 / 풋OI 158,398 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $145.38 (-1.64%)",
+        "description": "거래량 14,050,855주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $760.78 (-0.30%)",
+        "description": "거래량 8,263,549주 (평균대비 1.5x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 72.0% (144/200종목)",
+        "description": "평균 MA 대비 위치: +2.8%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 28/100 (Fear)",
+      "description": "공포 — 저점 매수 관심 구간"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stocks making the biggest moves Thursday: Cerebras, Cisco, Applied Materials & more - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSnRjVVEyQTc5NnhZY0wwMEZ2dk9kOHVPVzVOWDBXbVR6bW1WYVVuUUpsRzlPRzJCdTBWa3FoSUo1d3ZaMy1EamVyV3NDQktCN3FTMHRlMjNBalVhaUdXdHpjQ3JhSWJxVndhNVdIVDk5NnNJZmZlVGM5UjlUUjVTeE85ekzSAYoBQVVfeXFMT0k5UUtESVhRczhpbmlzdlFtMV9aUmZpbm94MWp3M3BqbEVHWFA5RkxRejhBUlFUdnJVRHZWcUw3OE96TGlDQmlNcHBiWHNCVFlMWnNwT0FrVVI1TUttenlnMUFSbVZ1d2RSU3BlN1hHMDk5N19LbnVySE5NcHo5UDdOUkFESWhWTmN3?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Nasdaq Composite slides as Nvidia shares tumble on Jensen Huang’s exit; oil prices jump: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00cTdQYjhOUVlzVEZnQndNN1NKNzBJSjIta1lDWVlVXzhDcXkwWWpVRnE3c1VMTVF2bkZ5WnhHU2NSd2ZRZlI4RVRjREJvbG9xWDZJRF9QMG1MNE40ZGdESkpmZXhsOUhCTUcyZGZiOGhfTjdiSUk40gF8QVVfeXFMTWN0NjJIZlNoTmVNdFV3NUVBOXBZTVdvWWJYU2ZteENJN0ZvVDE1d3BlaGV2NWhLZHVoWnhtaEVIWDJjWWx0LU9rbm5qMWh4RUV3amJrMG93Q3RfVFVNa0p5WEl1emJ1NDJPSXZCekt0Mk5LdEtQZ3hWWG0wTQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Nvidia market cap plunges $490 billion following former CEO Huang's affair scandals - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYW00QXU1X0N2NDd1VS1LWWxSSmFVTVpFeXFBbFZublk0NlZqVnIwbHlVb184WWJ5TWNZdC16YjR0bWozdEIyN1VYMVgweUVhdDBRYXlZaUVzYktfUkVuRkVCQW1qYWo5cGUwQnY2RTRMZ2lKZklFcWxoVzZLVWY0VFhEZTFQYzFLamt5bzViQkU0ZEtaaU9TaHRzVEYzaDlCY2ppaDB2bGlzdVpQTjFYNE93T0wtRWh0ZW50Y1FENE5MQ0tHVms0LTkwSkhRS2JTbDVzWlZYTkI?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Nasdaq Composite slides as Nvidia shares tumble on Jensen Huang’s exit; oil prices jump: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00cTdQYjhOUVlzVEZnQndNN1NKNzBJSjIta1lDWVlVXzhDcXkwWWpVRnE3c1VMTVF2bkZ5WnhHU2NSd2ZRZlI4RVRjREJvbG9xWDZJRF9QMG1MNE40ZGdESkpmZXhsOUhCTUcyZGZiOGhfTjdiSUk40gF8QVVfeXFMTWN0NjJIZlNoTmVNdFV3NUVBOXBZTVdvWWJYU2ZteENJN0ZvVDE1d3BlaGV2NWhLZHVoWnhtaEVIWDJjWWx0LU9rbm5qMWh4RUV3amJrMG93Q3RfVFVNa0p5WEl1emJ1NDJPSXZCekt0Mk5LdEtQZ3hWWG0wTQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Equities close lower as Nvidia drop outweighs energy gains - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQY01YWkJBY3Roa2hlWkVsbHhpcHplMm5NX09pWEJlMC1rWTY1ZDJoTUh0elc0WTZvdmpDOXJhS04tN2J5Y0N4NmZPdGk0aUhKdVZLT2RMSTk4S2EyZEJMYzY3WnpMMklfRjF3ZEJXZzU3d1VBTmlWS3Y1cllaYURseVQ4Nl93RFVLOXB4M1J6bnM1YVQ5QXBaSDZCOXEwUQ?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Stock Market Today on Nov. 12, 2026: Dow, S&P 500 and Nasdaq end lower after Jensen Huang resigns from Nvidia and bond y",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNGNYLThrNnhscF9EMGJ3RmNPb0JGaEhHZkRvZnMyTWJ6NzdyalFOZGJZclFENVktUDNCZ3hLRmNUdmNfank3cm1BeGtYVVlZMXlBZE94aE9pdVk1dmMwd0VwQWNGR20xaG5VWU9CU2JXUlVZQ2lPWGJoQ1NFbmRFZFJzQnpDdi1ZSjlvSnJGblRyU3M2ZWVqODVXbXRYY0RnRi1meXhOX21SSWk3ZDk1SktKU3VLS21tNmc?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Nvidia Stock Tumbles After Jensen Huang Resigns as CEO - The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZGZPN0R3U3EyaUN6MEpaNXlrd2pJbnJJTG1BZXo4WWRKSW9oMW0xQkE2VjlyeU42TldBVW1kcDdxNEFJSVFtdEg5VjdfdmtGRW1VRzlhWFlNSGdQdjFwMXkxYkl0OVl4el9XcFptT1hxekxPNFBvLVRHQXFlaGhJdThQRmFMWWVXZHJYUzY2SUFWTEpqS0E?oc=5",
+        "press": "The New York Times"
+      },
+      {
+        "title": "Tenivac Market Outlook Report Including Segment Evaluation and Strategic Industry Insights - EIN News",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSXVBaHZ2Z21JcFZtMlZfRzVJaF9PXzlqSFp5NEZuZ0xsRnVGUTNRUjI3WUQwaW5ObHpVMVRGd0p0UUtJY1B4a0dkbXdDZzBXd092YWZNTmhfQjFVSThZOTVqSlJLTFlTYjhUaVpsZDQtUE9kTElYdVZ2bzVsRWRMTHVkUHgtZTUtUWJwZlQtVTJxT2YzbldVbTFXNFJYdThGS0xBNWFsV0QyZkFTQ2hodEYyRXlQUnFJc3BCdFI4eUY3TU54VnlOUDdrWmM?oc=5",
+        "press": "EIN News"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Although the KOSDAQ index is trying to rebound, those who have invested in KOSDAQ exchange-traded fu.. - 매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fakRjNk82S2NpVzgtWmNiN21jQ2tiLVV6N2lXOWVBWlhsMmRudUJMODBvcTQ1N2loUFNXOVd6QkJIWHZkUVhNNHNPUUg0MHM?oc=5",
+        "press": "매일경제"
+      },
+      {
+        "title": "Naver Establishes Logistics Subsidiary to Challenge Coupang's Rocket Delivery - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3VHOGdINWN5RTB1cTYtekNEbDNzeGd0azAtLUlrLWVfVlFNNlZlLXNwelZGYnotRjlRSVdUOG1PcW14el9ScUpHYlJRYlNDTk5STHlJTGUtV1l1ekRnSUEzcTk5Q3hqZnduR3E1V2x2bUE2TnNEeXRBQ0E2eHpEQ09jNnV2dWpt?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
