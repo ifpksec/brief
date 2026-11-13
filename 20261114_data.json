@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "generated_at": "2026-11-13T23:32:16.737280+00:00",
+    "run_date": "20261114"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 103.41 (+0.23%)",
+        "description": "전일종가 103.17 / 변동 +0.2410"
+      },
+      {
+        "title": "미국 10년물 금리: 5.15 (+1.00%)",
+        "description": "전일종가 5.10 / 변동 +0.0510"
+      },
+      {
+        "title": "VIX 변동성지수: 19.30 (+3.21%)",
+        "description": "전일종가 18.70 / 변동 +0.6000"
+      },
+      {
+        "title": "S&P 500: 7561.67 (-0.40%)",
+        "description": "전일종가 7592.40 / 변동 -30.7300"
+      },
+      {
+        "title": "나스닥100: 27943.74 (-1.22%)",
+        "description": "전일종가 28289.19 / 변동 -345.4531"
+      },
+      {
+        "title": "다우존스: 52347.55 (+0.10%)",
+        "description": "전일종가 52297.09 / 변동 +50.4609"
+      },
+      {
+        "title": "USD/KRW: 1335.11 (-0.09%)",
+        "description": "전일종가 1336.26 / 변동 -1.1500"
+      },
+      {
+        "title": "USD/JPY: 159.69 (-0.03%)",
+        "description": "전일종가 159.73 / 변동 -0.0480"
+      },
+      {
+        "title": "코스피: 5342.73 (-0.61%)",
+        "description": "전일종가 5375.36 / 변동 -32.6299"
+      },
+      {
+        "title": "코스닥: 696.53 (-1.22%)",
+        "description": "전일종가 705.10 / 변동 -8.5699"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.237 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.42 | GEX -3.7B$ (만기:2026-11-13)",
+        "description": "콜OI 468,637 / 풋OI 663,631 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.23 | GEX +3.0B$ (만기:2026-11-13)",
+        "description": "콜OI 386,843 / 풋OI 476,815 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $142.78 (-1.79%)",
+        "description": "거래량 12,738,112주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $757.65 (-0.41%)",
+        "description": "거래량 3,321,040주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 73.0% (146/200종목)",
+        "description": "평균 MA 대비 위치: +3.1%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 20/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DUGhtX3RkQk1tTVc3WFZQOGhSalVKd2RzNks0R1dHRlFMSUd1bUhOeVVmNTQxS09JQjhaaTBQVWVnY3RBblNRRlc3a21TVEJJUnZmVm9pYmJMSVNWazl5bU9lZkdyOVpSSXhoSUlfeEx1ZUdvakVR0gF8QVVfeXFMUEZVRDFwUjNBQ01QTjdQX0h5WXU5R3BqdDZwVFJiNU9obl9qYk1lWC1XTWUxbDhFaGR4V2x0cERQdDAyNFlJQk1fNXBqdFItb3FaTDdyV2R6WklkbExBZHNnQ3k1WFR4X0FaeGpRM09SZHprem0zajZXbEx6Vg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: Dow rises, S&P 500 and Nasdaq slip to cap volatile week, Nvidia stock plunge deepens - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORHNBdWVhWllRY0IzSV9JUGtmWVdfQk5EaGVSVVNNXzVtUWtITW1xRUhYRDA3SVdSbWFaWjExbkI0VXA1ZjVuWXNWWkI2M3hUTVpxeUxvekxyZmhLOGdBMFZXdktzTWdvT0tOdnVIenp6UFQtdWt5bkJtNWlMSGpGdDZ2WEZmbTlidlQ2QVhSREdGdXNDb0F0ZzNJUGNSejZwSXE4Y2NCdHRHQWxKNkZrTWNQbUtVYXFGU3k4Tw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market Today: Nvidia Slides Again as Investors Brace for More Fallout; Nasdaq Slumps— Live Updates - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOG9vVjRkb0hxUE1ybFptSEtacTBMTjBOOFBETTU3TkJ1YlVvbkoxN1BnR3hmRDZHZzdZZURNY0pwZTFCb1pzRXFaQzJMZnB0ZGxXRF9SODZxOXZ0SktNUDBNX1BFOUcxaDlPcGlIeGM1M2Z6VkN3V1g3YnN3QmFHQlJYaFRtLTA?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "FAA orders nationwide ground stop for all flights, airline stocks fall - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUkc1ZFZkTVppV0JQNnJWS0RLSlEwLUlXRFhORmpMbk12VjBYamNtV3RSSjFJU3lCWkxLQ2xtdGdWZkVrOUJDbDhUUkluZDVCUnhpd1B5VmdsbHN0dFdQN0dJbHVyNnJKbDJGdlNlX0RGcUNTclhWV2NrODBOejJLV0FseHhXYUNTbC00d25WbHU3bDR4S1llQ3NCMjFfemdSVzkxbWc4eVFXdmFTbUN3NmdXck5DQUdQWkR3SEh0bldLNGpw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DUGhtX3RkQk1tTVc3WFZQOGhSalVKd2RzNks0R1dHRlFMSUd1bUhOeVVmNTQxS09JQjhaaTBQVWVnY3RBblNRRlc3a21TVEJJUnZmVm9pYmJMSVNWazl5bU9lZkdyOVpSSXhoSUlfeEx1ZUdvakVR0gF8QVVfeXFMUEZVRDFwUjNBQ01QTjdQX0h5WXU5R3BqdDZwVFJiNU9obl9qYk1lWC1XTWUxbDhFaGR4V2x0cERQdDAyNFlJQk1fNXBqdFItb3FaTDdyV2R6WklkbExBZHNnQ3k1WFR4X0FaeGpRM09SZHprem0zajZXbEx6Vg?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade | Markets P.M. for Nov. 13 - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdk9KSVZ5ZlN6RFNmNnlQVEZmYzB4RkxuXzVlaGEzMDdoZ1REdGkxNnhJdW9CMmszTEtpWGlWMUZUTkNLV3FSdll5S0ZiT29JWS1FZHVuSDJpeGxfQjNoUmZPOHdFcFJWUFlSQzdhN085Mld6ZDRJLU1jODF1dmRkQ0hKSWcxTGp4dUF5eENRTkYyLWYtZktxM2VmSnNBN2l2MUVTNHFLU3BzR00?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "3 British Tech Stocks Trading Up To 32% Below Fair Value - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYWpzdHgxV2lHM3pjbWhVUUl5ZWhhN09MOE9XUlBRWHNMV1hvbXY0VUhpaGdBbHBoMUkwRENqS0hRZm5VQ01SaWRUVHBBbmhob1owbmNlMWRQXzNvZlR0SF9sSGVEQkRGTXZsczdEUG5LZDRLZWpjLUVWUWtBMnhrQ25ScWJkWGZkcUx1a2VlUy1oa0pv?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market on Nov. 13, 2026: Dow ends slightly higher, S&P 500 and Nasdaq fall as tech stocks struggle after Nvidia tu",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSmg4NHJ5V24yXzQ2TFZvRlVSeEJJSGFhUm5uYUUxTXhMVWhLdzlkOFhfUktLVDBrV2VkTnVwZnUxN3MzZlhYbUdCY3JhRkJWTEd2MW9IZDVJc0xOVjVsN2ppZS1vX3Zia2pYd0xablc5YnZhTnZvUE95eVdKY0Y4Sm9jZ1JyRE1RTHI5Nk92SDgtQjE3c0Z6LU9WdEVEVzFfUUQzZUNUd0h1MDcyQ1YxalFfOGxFNkx5VEdKcDR4eWc3OW41dmN6aQ?oc=5",
+        "press": "MarketWatch"
+      }
+    ],
+    "domestic": [],
+    "naver": [],
+    "telegram": []
+  }
+}
