@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-14T01:23:27.579257+00:00",
+    "generated_at": "2026-11-14T04:58:32.768521+00:00",
     "run_date": "20261114"
   },
   "market": {
@@ -36,29 +36,29 @@
         "description": "전일종가 28289.19 / 변동 -345.4531"
       },
       {
-        "title": "다우존스: 52347.55 (+0.10%)",
-        "description": "전일종가 52297.09 / 변동 +50.4609"
+        "title": "다우존스: 52347.60 (+0.10%)",
+        "description": "전일종가 52297.09 / 변동 +50.5117"
       },
       {
-        "title": "USD/KRW: 1333.78 (-0.19%)",
-        "description": "전일종가 1336.26 / 변동 -2.4800"
+        "title": "USD/KRW: 1336.20 (+0.18%)",
+        "description": "전일종가 1333.78 / 변동 +2.4199"
       },
       {
         "title": "USD/JPY: 159.88 (+0.09%)",
         "description": "전일종가 159.73 / 변동 +0.1410"
       },
       {
-        "title": "코스피: 5342.73 (-0.61%)",
-        "description": "전일종가 5375.36 / 변동 -32.6299"
+        "title": "코스피: 5290.53 (-0.98%)",
+        "description": "전일종가 5342.73 / 변동 -52.2002"
       },
       {
-        "title": "코스닥: 696.53 (-1.22%)",
-        "description": "전일종가 705.10 / 변동 -8.5699"
+        "title": "코스닥: 699.66 (+0.45%)",
+        "description": "전일종가 696.53 / 변동 +3.1299"
       }
     ],
     "correlation": [
       {
-        "title": "SPY-IEF 20일 상관계수: -0.246 (약한 반상관)",
+        "title": "SPY-IEF 20일 상관계수: -0.237 (약한 반상관)",
         "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
       }
     ],
@@ -74,18 +74,18 @@
     ],
     "inst_flows": [
       {
-        "title": "iShares MSCI 한국 ETF(EWY): $145.38 (-1.64%)",
-        "description": "거래량 12,738,112주 (평균대비 0.8x)"
+        "title": "iShares MSCI 한국 ETF(EWY): $142.78 (-1.79%)",
+        "description": "거래량 12,972,100주 (평균대비 0.8x)"
       },
       {
-        "title": "iShares S&P 500 ETF(IVV): $760.78 (-0.30%)",
-        "description": "거래량 3,321,040주 (평균대비 0.6x)"
+        "title": "iShares S&P 500 ETF(IVV): $757.65 (-0.41%)",
+        "description": "거래량 3,326,400주 (평균대비 0.6x)"
       }
     ],
     "breadth": [
       {
-        "title": "S&P500 50일MA 상회: 0.0% (0/0종목)",
-        "description": "평균 MA 대비 위치: +nan%"
+        "title": "S&P500 50일MA 상회: 73.0% (146/200종목)",
+        "description": "평균 MA 대비 위치: +3.1%"
       }
     ]
   },
@@ -104,18 +104,18 @@
   "news": {
     "international": [
       {
-        "title": "Stock Market News, Nov. 13, 2026: Nvidia Shares Drop Again as Investors Eye Fallout From Huang's Removal - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOG9vVjRkb0hxUE1ybFptSEtacTBMTjBOOFBETTU3TkJ1YlVvbkoxN1BnR3hmRDZHZzdZZURNY0pwZTFCb1pzRXFaQzJMZnB0ZGxXRF9SODZxOXZ0SktNUDBNX1BFOUcxaDlPcGlIeGM1M2Z6VkN3V1g3YnN3QmFHQlJYaFRtLTA?oc=5",
-        "press": "WSJ"
+        "title": "Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DUGhtX3RkQk1tTVc3WFZQOGhSalVKd2RzNks0R1dHRlFMSUd1bUhOeVVmNTQxS09JQjhaaTBQVWVnY3RBblNRRlc3a21TVEJJUnZmVm9pYmJMSVNWazl5bU9lZkdyOVpSSXhoSUlfeEx1ZUdvakVR0gF8QVVfeXFMUEZVRDFwUjNBQ01QTjdQX0h5WXU5R3BqdDZwVFJiNU9obl9qYk1lWC1XTWUxbDhFaGR4V2x0cERQdDAyNFlJQk1fNXBqdFItb3FaTDdyV2R6WklkbExBZHNnQ3k1WFR4X0FaeGpRM09SZHprem0zajZXbEx6Vg?oc=5",
+        "press": "CNBC"
       },
       {
-        "title": "Altria Group (MO) Stock May Still Be Cheap On A 166% Run - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQldwVEkzYWhuMUlsWFRfRmhIZlZ0Mmh2ODNMa3RNdWoxYnNkNTIzaWlyalJsZTNCU25BeGdyV05LcUpWUlZLSFNDd2ZNLTNBMm11bzNlOEN3SFBMczlYN3c1aDVYQmotN21uRkJBQ2d6c1JkUlNyLWNSX3l4MFVBQ09GaGJVbHBHNk5LV3EzYVBVdjBs?oc=5",
+        "title": "3 Defensive Dividend Stocks Retail Investors Are Watching For Reliable Income - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQczFOcHZWWVRPbV84dVF0eU16bDdOODFvbTFUT2Qzb21wTHFqbDhUU3g3NXRKaERHTXdMMmQ5Qjk1LTA0Ukx1bVJfZGlicWZZNkRKWlpMc0dHM1c1VFRfS2JET2MtaGZ4QlU1WHN2dV9GVEwzaVZucTBqcUVrZkNtWGsxQVZ2R1BRZ21GMWg4eTdnZ3I2TV9KWlZ6Snpxb2s2?oc=5",
         "press": "Yahoo Finance"
       },
       {
-        "title": "CEO Transition Might Change The Case For Investing In GEA Group Stock (XTRA:G1A) - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSXczOFh0YUdPX2RyZFY4dFg3REhfamdlSmxJbFQ1eV91UVVJQk0yNDFUOHNRUjh1dUxOZzFJa3RaSzJBTHZZSTBkU1pObEt6bkt1bzRxaWdnWkZyUUpiMndaMzJ5NmVDdHlpS1BJeENjb1hlOTNYbUgySWFCRGM4a2xicXBqWTFkWjRCX2pNOEotVW13UlFOT0Vtc2pJQQ?oc=5",
+        "title": "AbbVie (ABBV) Stock Looks Below Fair Value After Strong Cash Flow Growth - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaTZEUmx3MzNvcEh5YWhfZkJoTzh4cVhaMU5vT1EyU1hDenE4cUFWeUR1alVTa1FXeEwtc1gwY1lfTTY1VEZuZ1pzMWR4TDg3N3FUWm5OZGptRFp2RzlMTTFKM2NnNExSb2otcUxOaVo5d1FnZWZrMzVVQW9INExaSG5NVkVfbmJpRXFqY2ZHOHlYeGllakd1eXlR?oc=5",
         "press": "Yahoo Finance"
       },
       {
@@ -124,8 +124,8 @@
         "press": "CNBC"
       },
       {
-        "title": "FAA orders nationwide ground stop for all flights, airline stocks fall - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUkc1ZFZkTVppV0JQNnJWS0RLSlEwLUlXRFhORmpMbk12VjBYamNtV3RSSjFJU3lCWkxLQ2xtdGdWZkVrOUJDbDhUUkluZDVCUnhpd1B5VmdsbHN0dFdQN0dJbHVyNnJKbDJGdlNlX0RGcUNTclhWV2NrODBOejJLV0FseHhXYUNTbC00d25WbHU3bDR4S1llQ3NCMjFfemdSVzkxbWc4eVFXdmFTbUN3NmdXck5DQUdQWkR3SEh0bldLNGpw?oc=5",
+        "title": "Stock market today: Dow rises, S&P 500 and Nasdaq slip to cap volatile week, Nvidia stock plunge deepens - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORHNBdWVhWllRY0IzSV9JUGtmWVdfQk5EaGVSVVNNXzVtUWtITW1xRUhYRDA3SVdSbWFaWjExbkI0VXA1ZjVuWXNWWkI2M3hUTVpxeUxvekxyZmhLOGdBMFZXdktzTWdvT0tOdnVIenp6UFQtdWt5bkJtNWlMSGpGdDZ2WEZmbTlidlQ2QVhSREdGdXNDb0F0ZzNJUGNSejZwSXE4Y2NCdHRHQWxKNkZrTWNQbUtVYXFGU3k4Tw?oc=5",
         "press": "Yahoo Finance"
       },
       {
@@ -134,17 +134,28 @@
         "press": "WSJ"
       },
       {
-        "title": "S&P 500, Nasdaq end lower as Nvidia uncertainty weighs on tech shares - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0xIRkJ1T2xEOU9abUNDYi1vTlpmRWJzd0MyQkFqa2NSb1BkMEdUNDROMmVmaXo3bDVRdThuRDFRaWZySXAyRjN5d1NDNjhCclFJUDVxdG9CQ1dyWWpDbUEwVHVRaHpNWUg5SjdreUtMeHNHXy1feGNBVkFLN3Z4cGNTcGtyYXg2bXFHdlpZQWtneFJDSWVreFROZ09oamc?oc=5",
-        "press": "Reuters"
+        "title": "Market has been ‘extremely concentrated’ in tech stocks: First Eagle Investments global value team head - Fox Business",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PUG1zNlkyZHhDZ0RGT1NNcTlWUVJ6U2RpSkJGQ0tXZm5MWmlUMWl2LVVTQUVtSzhnbWV2Q0xKWDNfcUdTX25KNzdnT0ZMYU5QOG15bkxlTGNNRkE?oc=5",
+        "press": "Fox Business"
       },
       {
-        "title": "Stock Market on Nov. 13, 2026: Dow ends slightly higher, S&P 500 and Nasdaq fall as tech stocks struggle after Nvidia tu",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSmg4NHJ5V24yXzQ2TFZvRlVSeEJJSGFhUm5uYUUxTXhMVWhLdzlkOFhfUktLVDBrV2VkTnVwZnUxN3MzZlhYbUdCY3JhRkJWTEd2MW9IZDVJc0xOVjVsN2ppZS1vX3Zia2pYd0xablc5YnZhTnZvUE95eVdKY0Y4Sm9jZ1JyRE1RTHI5Nk92SDgtQjE3c0Z6LU9WdEVEVzFfUUQzZUNUd0h1MDcyQ1YxalFfOGxFNkx5VEdKcDR4eWc3OW41dmN6aQ?oc=5",
-        "press": "MarketWatch"
+        "title": "Top 3 Australian Undervalued Tech Stocks To Watch In November 2026 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNkJxNnlsakxoNS1HX09vcU1NS0FPVXZrMzY5QVoyOUQyazRvNmYzR1JCN08zOVhIODJNaklkazJxNThRdW9hTUlvMW5PZE9qcGNCTHR2TVRoQlNqcWNHLXFRb3V6Z05TUklOVXQxUUlrSGExaFBHUEptcXg5LWRyVmh6Qnhvb3l2ZE0zb3hyV1VWSEdPenhJOFB3?oc=5",
+        "press": "Yahoo Finance"
       }
     ],
-    "domestic": [],
+    "domestic": [
+      {
+        "title": "SK Hynix Stock Falls 3% to 1.216 Million Won as Kospi Gives Up 5,504 Intraday High - FinanceFeeds",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1R2NFhrNEphUlI1TzgxdjlYM1hvLU14XzIzeFA0NlFmdkZxTlhuUzNlZHJQU19kRU5yRXVDcE1tV25pX1dRTG9qNE0wVmZUVlhxUXRIak5QZWY5LWJaQVJiS294ZXRfQ21TbldXMjVkWFNRbHcyNlFaTnhWdFFISTNyQ2hoS3FVa0gzN2lwSGN4ZEg0QXFOc0s1NEtZVzNlSFhvZFItdW10QQ?oc=5",
+        "press": "FinanceFeeds"
+      },
+      {
+        "title": "When Should You Buy CHEMTRONICS.Co.,Ltd. (KOSDAQ:089010)? - Simply Wall St",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQlFpT1l6OVF5THRXaDg5cENXcWtTaDFNaUtGSlQ3R3l6dk9LTzJtN2tmbzBvLU9GVFNDd09qYzZJN0o5YXJyMzJ2QlYxS1lkSENreGpRRlhrR0NEQ2NJWkdLWFNpUWg0ekFISGVTejF6M0M4c0F2MUxzcGFkLXE0UzVheFJJNEJUZnpqeHI5RlY0UkdDQzZnS3QwRTF0dmdyTl9RRDZ2WjR1VWJqelVGd2VWUElaaXdwVHd5eWJyNkRyVDUyaFRSWWtn0gHPAUFVX3lxTFA3QWdYV0NlX3Z5bzcxeGthWTB1S3RBd252M2hibS1tWEMwd2Vid0EzTjlBdzlHT3J4bXNtNGkwdEdKbGw1QmY5SVNFeDdxb1pCaEVsV0RJcEN2Nk5sdEpIQTV0NzduaERGNXhUX1kzSkxkX3pVU0J5Q0t6QXgtQ0M3SFI2SEhkbWMxRTlLVURndDRNZWVXNXVtMmlNOHhJNUVYSWs3d1JUM1c3TUdYWWFuZnZtNmRVd3JpUFM1SFpGZGNSbXlQVWs2aDl2YXZuWQ?oc=5",
+        "press": "Simply Wall St"
+      }
+    ],
     "naver": [],
     "telegram": []
   }

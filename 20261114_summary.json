@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-14T01:23:27.580694+00:00",
+    "generated_at": "2026-11-14T04:58:32.769939+00:00",
     "run_date": "20261114"
   },
   "market_mood": {
@@ -46,17 +46,17 @@
     },
     {
       "name": "다우존스",
-      "value": 52347.55,
+      "value": 52347.6,
       "change": 0.1,
-      "insight": "전일종가 52297.09 / 변동 +50.4609",
+      "insight": "전일종가 52297.09 / 변동 +50.5117",
       "tag": "Bullish"
     },
     {
       "name": "USD/KRW",
-      "value": 1333.78,
-      "change": -0.19,
+      "value": 1336.2,
+      "change": 0.18,
       "insight": "원달러 환율 — 약세 시 외인 자금 유입",
-      "tag": "Bullish"
+      "tag": "Bearish"
     },
     {
       "name": "USD/JPY",
@@ -76,97 +76,109 @@
   },
   "kr_briefing": [
     {
-      "point": "국내 시장 데이터 없음, 현황 파악 어려움",
+      "point": "SK하이닉스 3% 하락, 코스피 5,504 고점 후 조정",
       "tag": "Bearish"
     },
     {
-      "point": "국내 뉴스 부재, 주요 이슈 미확인",
+      "point": "원/달러 환율 1,336원대, 약 0.18% 상승",
       "tag": "Bearish"
     },
     {
-      "point": "달러 강세 지속, 원·달러 환율 소폭 하락",
+      "point": "EWY 거래량 평균 대비 0.8배, 외국인 매도세 지속",
       "tag": "Bearish"
     },
     {
-      "point": "미국 금리 상승, 10년물 5.15% 기록",
-      "tag": "Bearish"
+      "point": "코스닥 CHEMTRONICS 등 개별주 관심 지속",
+      "tag": "Neutral"
     },
     {
-      "point": "극단적 공포심(13/100)으로 매도 압력 예상",
+      "point": "글로벌 반도체 약세로 국내 IT주 동반 하락",
       "tag": "Bearish"
     }
   ],
   "us_briefing": [
     {
-      "point": "달러인덱스 103.41, 전일 대비 0.23% 상승",
+      "point": "나스닥 -1.22%, 엔비디아 매도세로 기술주 약세",
       "tag": "Bearish"
     },
     {
-      "point": "미국 10년물 금리 5.15%, 전일 대비 1% 상승",
+      "point": "S&P500 -0.40%, 다우 +0.10%로 차별화",
+      "tag": "Neutral"
+    },
+    {
+      "point": "VIX 19.30, 변동성 확대 신호",
       "tag": "Bearish"
     },
     {
-      "point": "VIX 19.30, 변동성 3.21% 상승, 시장 불안 확대",
+      "point": "공포탐욕지수 13, 극단적 공포 구간",
       "tag": "Bearish"
     },
     {
-      "point": "S&P500 7561.67, 0.40% 하락, 기술주 약세 지속",
+      "point": "QQQ GEX -0.2B$, 딜러 숏감마로 하방압력",
       "tag": "Bearish"
     },
     {
-      "point": "옵션 GEX 전반 -1.1B$, 딜러 숏감마로 변동성 확대",
+      "point": "미국 10년물 금리 5.15%, +1.00% 상승",
       "tag": "Bearish"
     }
   ],
-  "kr_news": [],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "SK Hynix Stock Falls 3% to 1.216 Million Won as Kospi Gives Up 5,504 Intraday High",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1R2NFhrNEphUlI1TzgxdjlYM1hvLU14XzIzeFA0NlFmdkZxTlhuUzNlZHJQU19kRU5yRXVDcE1tV25pX1dRTG9qNE0wVmZUVlhxUXRIak5QZWY5LWJaQVJiS294ZXRfQ21TbldXMjVkWFNRbHcyNlFaTnhWdFFISTNyQ2hoS3FVa0gzN2lwSGN4ZEg0QXFOc0s1NEtZVzNlSFhvZFItdW10QQ?oc=5",
+      "press": "FinanceFeeds",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "When Should You Buy CHEMTRONICS.Co.,Ltd. (KOSDAQ:089010)?",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQlFpT1l6OVF5THRXaDg5cENXcWtTaDFNaUtGSlQ3R3l6dk9LTzJtN2tmbzBvLU9GVFNDd09qYzZJN0o5YXJyMzJ2QlYxS1lkSENreGpRRlhrR0NEQ2NJWkdLWFNpUWg0ekFISGVTejF6M0M4c0F2MUxzcGFkLXE0UzVheFJJNEJUZnpqeHI5RlY0UkdDQzZnS3QwRTF0dmdyTl9RRDZ2WjR1VWJqelVGd2VWUElaaXdwVHd5eWJyNkRyVDUyaFRSWWtn0gHPAUFVX3lxTFA3QWdYV0NlX3Z5bzcxeGthWTB1S3RBd252M2hibS1tWEMwd2Vid0EzTjlBdzlHT3J4bXNtNGkwdEdKbGw1QmY5SVNFeDdxb1pCaEVsV0RJcEN2Nk5sdEpIQTV0NzduaERGNXhUX1kzSkxkX3pVU0J5Q0t6QXgtQ0M3SFI2SEhkbWMxRTlLVURndDRNZWVXNXVtMmlNOHhJNUVYSWs3d1JUM1c3TUdYWWFuZnZtNmRVd3JpUFM1SFpGZGNSbXlQVWs2aDl2YXZuWQ?oc=5",
+      "press": "Simply Wall St",
+      "source": "domestic"
+    }
+  ],
   "us_news": [
     {
       "category": "반도체·AI",
-      "title": "엔비디아 주가 재하락, 황 사임 여파 투자자 우려",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOG9vVjRkb0hxUE1ybFptSEtacTBMTjBOOFBETTU3TkJ1YlVvbkoxN1BnR3hmRDZHZzdZZURNY0pwZTFCb1pzRXFaQzJMZnB0ZGxXRF9SODZxOXZ0SktNUDBNX1BFOUcxaDlPcGlIeGM1M2Z6VkN3V1g3YnN3QmFHQlJYaFRtLTA?oc=5",
-      "press": "WSJ",
-      "source": "international"
-    },
-    {
-      "category": "시장·기타",
-      "title": "알트리아 주가 166% 상승에도 여전히 저평가 가능성",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQldwVEkzYWhuMUlsWFRfRmhIZlZ0Mmh2ODNMa3RNdWoxYnNkNTIzaWlyalJsZTNCU25BeGdyV05LcUpWUlZLSFNDd2ZNLTNBMm11bzNlOEN3SFBMczlYN3c1aDVYQmotN21uRkJBQ2d6c1JkUlNyLWNSX3l4MFVBQ09GaGJVbHBHNk5LV3EzYVBVdjBs?oc=5",
-      "press": "Yahoo Finance",
-      "source": "international"
-    },
-    {
-      "category": "시장·기타",
-      "title": "GEA 그룹 CEO 교체, 투자 매력 변화 가능성",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSXczOFh0YUdPX2RyZFY4dFg3REhfamdlSmxJbFQ1eV91UVVJQk0yNDFUOHNRUjh1dUxOZzFJa3RaSzJBTHZZSTBkU1pObEt6bkt1bzRxaWdnWkZyUUpiMndaMzJ5NmVDdHlpS1BJeENjb1hlOTNYbUgySWFCRGM4a2xicXBqWTFkWjRCX2pNOEotVW13UlFOT0Vtc2pJQQ?oc=5",
-      "press": "Yahoo Finance",
-      "source": "international"
-    },
-    {
-      "category": "반도체·AI",
-      "title": "엔비디아 매도에도 나스닥 금요일 하락, 8월 이후 최고 주간 기록",
+      "title": "엔비디아 매도세로 나스닥 하락, 8월 이후 최고 주간 성과 기록",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DUGhtX3RkQk1tTVc3WFZQOGhSalVKd2RzNks0R1dHRlFMSUd1bUhOeVVmNTQxS09JQjhaaTBQVWVnY3RBblNRRlc3a21TVEJJUnZmVm9pYmJMSVNWazl5bU9lZkdyOVpSSXhoSUlfeEx1ZUdvakVR0gF8QVVfeXFMUEZVRDFwUjNBQ01QTjdQX0h5WXU5R3BqdDZwVFJiNU9obl9qYk1lWC1XTWUxbDhFaGR4V2x0cERQdDAyNFlJQk1fNXBqdFItb3FaTDdyV2R6WklkbExBZHNnQ3k1WFR4X0FaeGpRM09SZHprem0zajZXbEx6Vg?oc=5",
       "press": "CNBC",
       "source": "international"
     },
     {
-      "category": "시장·기타",
-      "title": "FAA 전면 비행 정지 명령, 항공주 급락",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUkc1ZFZkTVppV0JQNnJWS0RLSlEwLUlXRFhORmpMbk12VjBYamNtV3RSSjFJU3lCWkxLQ2xtdGdWZkVrOUJDbDhUUkluZDVCUnhpd1B5VmdsbHN0dFdQN0dJbHVyNnJKbDJGdlNlX0RGcUNTclhWV2NrODBOejJLV0FseHhXYUNTbC00d25WbHU3bDR4S1llQ3NCMjFfemdSVzkxbWc4eVFXdmFTbUN3NmdXck5DQUdQWkR3SEh0bldLNGpw?oc=5",
-      "press": "Yahoo Finance",
-      "source": "international"
-    },
-    {
       "category": "반도체·AI",
-      "title": "다음 주 AI 무역 시험에 대비해 기술주 하락",
+      "title": "다음 주 AI 트레이드 큰 시험대, 기술주 하락",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdk9KSVZ5ZlN6RFNmNnlQVEZmYzB4RkxuXzVlaGEzMDdoZ1REdGkxNnhJdW9CMmszTEtpWGlWMUZUTkNLV3FSdll5S0ZiT29JWS1FZHVuSDJpeGxfQjNoUmZPOHdFcFJWUFlSQzdhN085Mld6ZDRJLU1jODF1dmRkQ0hKSWcxTGp4dUF5eENRTkYyLWYtZktxM2VmSnNBN2l2MUVTNHFLU3BzR00?oc=5",
       "press": "WSJ",
       "source": "international"
     },
     {
-      "category": "반도체·AI",
-      "title": "엔비디아 불확실성으로 S&P500·나스닥 하락",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0xIRkJ1T2xEOU9abUNDYi1vTlpmRWJzd0MyQkFqa2NSb1BkMEdUNDROMmVmaXo3bDVRdThuRDFRaWZySXAyRjN5d1NDNjhCclFJUDVxdG9CQ1dyWWpDbUEwVHVRaHpNWUg5SjdreUtMeHNHXy1feGNBVkFLN3Z4cGNTcGtyYXg2bXFHdlpZQWtneFJDSWVreFROZ09oamc?oc=5",
-      "press": "Reuters",
+      "category": "시장·기타",
+      "title": "기술주에 '극도로 집중'된 시장: 퍼스트 이글 인베스트먼트",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PUG1zNlkyZHhDZ0RGT1NNcTlWUVJ6U2RpSkJGQ0tXZm5MWmlUMWl2LVVTQUVtSzhnbWV2Q0xKWDNfcUdTX25KNzdnT0ZMYU5QOG15bkxlTGNNRkE?oc=5",
+      "press": "Fox Business",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "다우 상승, S&P500·나스닥 변동성 높은 주 마감, 엔비디아 급락 심화",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORHNBdWVhWllRY0IzSV9JUGtmWVdfQk5EaGVSVVNNXzVtUWtITW1xRUhYRDA3SVdSbWFaWjExbkI0VXA1ZjVuWXNWWkI2M3hUTVpxeUxvekxyZmhLOGdBMFZXdktzTWdvT0tOdnVIenp6UFQtdWt5bkJtNWlMSGpGdDZ2WEZmbTlidlQ2QVhSREdGdXNDb0F0ZzNJUGNSejZwSXE4Y2NCdHRHQWxKNkZrTWNQbUtVYXFGU3k4Tw?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "소액 투자자들이 주목하는 3가지 방어적 배당주",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQczFOcHZWWVRPbV84dVF0eU16bDdOODFvbTFUT2Qzb21wTHFqbDhUU3g3NXRKaERHTXdMMmQ5Qjk1LTA0Ukx1bVJfZGlicWZZNkRKWlpMc0dHM1c1VFRfS2JET2MtaGZ4QlU1WHN2dV9GVEwzaVZucTBqcUVrZkNtWGsxQVZ2R1BRZ21GMWg4eTdnZ3I2TV9KWlZ6Snpxb2s2?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "강력한 현금흐름 성장 후 공정한 가치보다 낮은 AbbVie(ABBV) 주가",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaTZEUmx3MzNvcEh5YWhfZkJoTzh4cVhaMU5vT1EyU1hDenE4cUFWeUR1alVTa1FXeEwtc1gwY1lfTTY1VEZuZ1pzMWR4TDg3N3FUWm5OZGptRFp2RzlMTTFKM2NnNExSb2otcUxOaVo5d1FnZWZrMzVVQW9INExaSG5NVkVfbmJpRXFqY2ZHOHlYeGllakd1eXlR?oc=5",
+      "press": "Yahoo Finance",
       "source": "international"
     }
   ]
