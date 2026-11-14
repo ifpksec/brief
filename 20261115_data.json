@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "generated_at": "2026-11-14T23:32:06.882358+00:00",
+    "run_date": "20261115"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 103.41 (+0.23%)",
+        "description": "전일종가 103.17 / 변동 +0.2400"
+      },
+      {
+        "title": "미국 10년물 금리: 5.15 (+1.00%)",
+        "description": "전일종가 5.10 / 변동 +0.0510"
+      },
+      {
+        "title": "VIX 변동성지수: 19.30 (+3.21%)",
+        "description": "전일종가 18.70 / 변동 +0.6000"
+      },
+      {
+        "title": "S&P 500: 7561.67 (-0.40%)",
+        "description": "전일종가 7592.40 / 변동 -30.7300"
+      },
+      {
+        "title": "나스닥100: 27943.74 (-1.22%)",
+        "description": "전일종가 28289.19 / 변동 -345.4492"
+      },
+      {
+        "title": "다우존스: 52347.55 (+0.10%)",
+        "description": "전일종가 52297.09 / 변동 +50.4609"
+      },
+      {
+        "title": "USD/KRW: 1336.20 (+0.18%)",
+        "description": "전일종가 1333.78 / 변동 +2.4199"
+      },
+      {
+        "title": "USD/JPY: 159.88 (+0.09%)",
+        "description": "전일종가 159.73 / 변동 +0.1410"
+      },
+      {
+        "title": "코스피: 5290.53 (-0.98%)",
+        "description": "전일종가 5342.73 / 변동 -52.2002"
+      },
+      {
+        "title": "코스닥: 699.66 (+0.45%)",
+        "description": "전일종가 696.53 / 변동 +3.1299"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.237 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.05 | GEX -0.9B$ (만기:2026-11-16)",
+        "description": "콜OI 136,692 / 풋OI 144,077 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.30 | GEX -0.2B$ (만기:2026-11-16)",
+        "description": "콜OI 70,151 / 풋OI 91,133 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $142.78 (-1.79%)",
+        "description": "거래량 12,972,100주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $757.65 (-0.41%)",
+        "description": "거래량 3,326,400주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 73.0% (146/200종목)",
+        "description": "평균 MA 대비 위치: +3.1%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 13/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Rising rents draw Wall Street money to industrial outdoor storage lot investments across the U.S. - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHdETW8wRVctc294STJHUHl3QkZaV0xKcjNDR2daRXlBWlpES0xUaDVEbTFyazZrdUdRYktOcDFOWkJKWVhSYThCM1Z2S3NjT0FHUF9PUzlTZVBuZmN1SjQ0U3Y2U1hVVkxma3JPVEJoMlBEWUM5MnlIaWJhUFZyYXBOQkEzVjhleUdLUWdkT0NTd9IBlwFBVV95cUxObWlobFBpRUs4TzY5aWdNaFhWeTdILVVzbUxuQ2pmbFpfeW5md1BIQ1NJZ2tjQXJQM1l4dUp6OVI3dUlEQzQ0X2RmU2l1R194R1FNUFF2Tkd1VzltVzNxUjMzbGlUWl85dWNjRWItY051QU5EOFlEVGFtM2ktdUhYWHV1YVZGTlFXQkQ1TldiZDl3MUZMZWFr?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "52 Hedge Funds Back This Semiconductor Stock – What’s the Catch? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjdnV2ZSNThNbklOS3pEMk1xN2RyaktzUU1IS0NoWU9nTGVZdF8tY1IyMThaeGJhZEE1RVhpX2lWcy1QWFZxOVlqd3RKcjJDOUt2UjZfdGlXU0NhNng1QzZ0NnJPNmdFUWpFM3Y3TnY2M3pFdDJXLWZZbHZZV0o4UEJkTGVSeVpnUWpUV3k5c05mOW9LOUQ3ZnZFR0NnS0k?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "ASML vs. NVIDIA: Which Technology Stock Is a Better Buy for 2027? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNWRtc3htREkwb2JqNGpoSEx0anRLVFJWWG9CQXZ4cE5GUS01V185QlhoY3lNNk80amVxQV9sTS1WbU9jT0xidTVZdUIwckdrWFM4bUwzNzF0TkNnbFlJVEtjYVJmdFdWLVhVTVVjVC1ELTRmUUFwb3p2WlBQbFI1NGZOUkd1QXZSMFZHdHZRTzdrNTFfVlFmTWJ6a3NpWWt1NFBKSW8xT0pVS05lNDh3MXYtS1ZGdw?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "ASML vs. NVIDIA: Which Technology Stock Is a Better Buy for 2027? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQVhhbjhKWXFqdjEyVzRPVmJHcFlXTC1IcW53bWlWcHJOUUwzVXp6bXVERHpLVF9MT0RxaWpCaVZtdFctUm83UnlKSGQ0OXV2UVI4LWg0dWxWLVktdnNsLVpiSlJkblNmdUx1R2ZWM2xNMTkzbnlBbk9pVWI4dk1SYmNIZGRuWWpNdEgwVmU4TFRjU1NIb3cwUEZGTmY?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Tom McClellan: NYSE Composite Index better comparison for A-D Line than S&P 500 - Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVGJOUFQ3MDYwc1pjVUpHSllQSFJtcjhLdTZza3FzR2Vwck1pSGRESDBUcVpCRmJyZVdxQzVjSWdZdWEyWGlaOWQ4cWRtazRWby04dGdDdlMtOW80V1FrLTlhMlZtTHNPaG14dms0TV9UVmUzSjJUZDlyNkx1dU4tZThRWE9MVHVLd0x5a1lKV2IxdTA?oc=5",
+        "press": "Traders Union"
+      },
+      {
+        "title": "He Thinks His $200,000 S&P 500 401(k) Spreads His AI Risk. Two Alphabet Share Classes Put $10,380 in One Company. A 20% ",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTjBvMllSQlJudFZhTlFkYjQ3ZERqakZkV2I2Sm1iVXhlRnNkZnFSSjdUWTloaVlaMDc5OXNXTFlxV1VxUnl0Q0JqME5iNlZRbk80Q1p3d25nMGJyRVltXzZjdWh6V2R5LVltSHFWTFR6d2VaTklmaHZhOVNDX3pQcHpnT0R4TTZ5N0tZRnNB?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone' - CoinDesk",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5",
+        "press": "CoinDesk"
+      },
+      {
+        "title": "Anthropic IPO to test Wall Street’s faith in AI as skepticism mounts - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcHZ4cmtrWmFOWXB6M0oyLWFDX2dJMEdOV3ZVelNIUUxpZDF4ZkdJaU5EZ2t6bUduUk9MaFJleEdsOHAzY3V6bWRzNmpxaTJFVGxYQVFic1BBU2VsUU01TjQ3S2dHNWlhZVhZczVzNi1aNTFLV3FnYmx0SVNsNjh1RC1FX21LZ0V0R0ktaDRLWTJjSWl6MHU1bUlrN3UxN0dXMklxNmV6T0VCalBZWm1aYUZYY05LdXJaWGtpM1c3UUFQb1Q5Q1M0Wk5YWQ?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [],
+    "naver": [],
+    "telegram": []
+  }
+}

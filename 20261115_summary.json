@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "generated_at": "2026-11-14T23:32:06.883023+00:00",
+    "run_date": "20261115"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 13,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 103.41,
+      "change": 0.23,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 5.15,
+      "change": 1.0,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 19.3,
+      "change": 3.21,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7561.67,
+      "change": -0.4,
+      "insight": "전일종가 7592.40 / 변동 -30.7300",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 27943.74,
+      "change": -1.22,
+      "insight": "전일종가 28289.19 / 변동 -345.4492",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 52347.55,
+      "change": 0.1,
+      "insight": "전일종가 52297.09 / 변동 +50.4609",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1336.2,
+      "change": 0.18,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.88,
+      "change": 0.09,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "원/달러 환율 1336원대, 달러 강세 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "EWY 거래량 0.8x로 외국인 매수세 둔화",
+      "tag": "Neutral"
+    },
+    {
+      "point": "글로벌 극단적 공포 심리, 역발상 매수 기회",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미국 10년물 금리 5.15%로 상승, 이자 부담",
+      "tag": "Bearish"
+    },
+    {
+      "point": "국내 시장 데이터 부재로 방향성 불확실",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "S&P500 73%가 50일 이동평균 상회, 강세장 유지",
+      "tag": "Bullish"
+    },
+    {
+      "point": "VIX 19.30으로 변동성 확대, 리스크 오프",
+      "tag": "Bearish"
+    },
+    {
+      "point": "나스닥100 1.22% 하락, 기술주 매도세",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 13, 극단적 공포 구간 진입",
+      "tag": "Bullish"
+    },
+    {
+      "point": "SPY GEX -0.9B$, 딜러 숏감마로 변동성 확대",
+      "tag": "Bearish"
+    },
+    {
+      "point": "QQQ 풋 우세, 기술주 하방 압력 존재",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "ASML vs NVIDIA: 2027년 더 나은 기술주 매수 기회는?",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNWRtc3htREkwb2JqNGpoSEx0anRLVFJWWG9CQXZ4cE5GUS01V185QlhoY3lNNk80amVxQV9sTS1WbU9jT0xidTVZdUIwckdrWFM4bUwzNzF0TkNnbFlJVEtjYVJmdFdWLVhVTVVjVC1ELTRmUUFwb3p2WlBQbFI1NGZOUkd1QXZSMFZHdHZRTzdrNTFfVlFmTWJ6a3NpWWt1NFBKSW8xT0pVS05lNDh3MXYtS1ZGdw?oc=5",
+      "press": "The Motley Fool",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "52개 헤지펀드가 이 반도체 주식을 지지 - 그 이유는?",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjdnV2ZSNThNbklOS3pEMk1xN2RyaktzUU1IS0NoWU9nTGVZdF8tY1IyMThaeGJhZEE1RVhpX2lWcy1QWFZxOVlqd3RKcjJDOUt2UjZfdGlXU0NhNng1QzZ0NnJPNmdFUWpFM3Y3TnY2M3pFdDJXLWZZbHZZV0o4UEJkTGVSeVpnUWpUV3k5c05mOW9LOUQ3ZnZFR0NnS0k?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "비트코인 가격 분석: BTC, '딥 밸류 존' 진입하며 하락 지속",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5",
+      "press": "CoinDesk",
+      "source": "international"
+    },
+    {
+      "category": "부동산·유동성",
+      "title": "상승하는 임대료, 월가 자금 산업용 야외 저장 시설 투자로 유입",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbHdETW8wRVctc294STJHUHl3QkZaV0xKcjNDR2daRXlBWlpES0xUaDVEbTFyazZrdUdRYktOcDFOWkJKWVhSYThCM1Z2S3NjT0FHUF9PUzlTZVBuZmN1SjQ0U3Y2U1hVVkxma3JPVEJoMlBEWUM5MnlIaWJhUFZyYXBOQkEzVjhleUdLUWdkT0NTd9IBlwFBVV95cUxObWlobFBpRUs4TzY5aWdNaFhWeTdILVVzbUxuQ2pmbFpfeW5md1BIQ1NJZ2tjQXJQM1l4dUp6OVI3dUlEQzQ0X2RmU2l1R194R1FNUFF2Tkd1VzltVzNxUjMzbGlUWl85dWNjRWItY051QU5EOFlEVGFtM2ktdUhYWHV1YVZGTlFXQkQ1TldiZDl3MUZMZWFr?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "톰 맥클레인: NYSE 종합지수가 S&P 500보다 A-D 라인 비교에 적합",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVGJOUFQ3MDYwc1pjVUpHSllQSFJtcjhLdTZza3FzR2Vwck1pSGRESDBUcVpCRmJyZVdxQzVjSWdZdWEyWGlaOWQ4cWRtazRWby04dGdDdlMtOW80V1FrLTlhMlZtTHNPaG14dms0TV9UVmUzSjJUZDlyNkx1dU4tZThRWE9MVHVLd0x5a1lKV2IxdTA?oc=5",
+      "press": "Traders Union",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "알파벳 주식 2종류로 AI 리스크 분산 실패 사례 분석",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTjBvMllSQlJudFZhTlFkYjQ3ZERqakZkV2I2Sm1iVXhlRnNkZnFSSjdUWTloaVlaMDc5OXNXTFlxV1VxUnl0Q0JqME5iNlZRbk80Q1p3d25nMGJyRVltXzZjdWh6V2R5LVltSHFWTFR6d2VaTklmaHZhOVNDX3pQcHpnT0R4TTZ5N0tZRnNB?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    }
+  ]
+}
