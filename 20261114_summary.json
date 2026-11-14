@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generated_at": "2026-11-13T23:32:16.738101+00:00",
+    "generated_at": "2026-11-14T01:19:24.754751+00:00",
     "run_date": "20261114"
   },
   "market_mood": {
     "status": "Fear",
-    "score": 20,
+    "score": 13,
     "label": "매도 우세 — 반등 탐색"
   },
   "key_indicators": [
@@ -53,17 +53,17 @@
     },
     {
       "name": "USD/KRW",
-      "value": 1335.11,
-      "change": -0.09,
+      "value": 1333.78,
+      "change": -0.19,
       "insight": "원달러 환율 — 약세 시 외인 자금 유입",
       "tag": "Bullish"
     },
     {
       "name": "USD/JPY",
-      "value": 159.69,
-      "change": -0.03,
+      "value": 159.88,
+      "change": 0.09,
       "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
-      "tag": "Bullish"
+      "tag": "Bearish"
     }
   ],
   "cat_labels": {
@@ -76,139 +76,100 @@
   },
   "kr_briefing": [
     {
-      "point": "외국인 코스피 3거래일 연속 순매수 — 반도체·금융 집중",
-      "tag": "Bullish"
-    },
-    {
-      "point": "달러 약세로 원화 강세, USD/KRW 1,350원 진입 시나리오",
-      "tag": "Bullish"
-    },
-    {
-      "point": "SK하이닉스 HBM3E 16단 양산 개시 — 2분기 실적 개선 기대",
-      "tag": "Bullish"
-    },
-    {
-      "point": "국내 주담대 증가세 지속 — 증시 유동성 소폭 제한",
+      "point": "원/달러 환율 1333원대, 전일 대비 소폭 하락",
       "tag": "Neutral"
     },
     {
-      "point": "코스피 2,700선 지지력 확인 중 — 추가 상승 여력 탐색",
+      "point": "EWY 거래량 평균 대비 0.8배로 수급 관망세",
       "tag": "Neutral"
+    },
+    {
+      "point": "글로벌 기술주 약세로 국내 반도체 업종 부담",
+      "tag": "Bearish"
+    },
+    {
+      "point": "극단적 공포 심리 속 역발상 매수 기회 탐색",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미국 10년물 금리 5.15%로 상승, 위험자산 회피",
+      "tag": "Bearish"
     }
   ],
   "us_briefing": [
     {
-      "point": "달러인덱스(DXY) 98.20 — 98선 하향 시 EM 자금 유입 가속",
-      "tag": "Bullish"
+      "point": "나스닥 1.22% 하락, 엔비디아 매도세 지속",
+      "tag": "Bearish"
     },
     {
-      "point": "미국 10Y 금리 4.32% 하락 — 성장주 밸류에이션 호재",
-      "tag": "Bullish"
+      "point": "S&P500 0.40% 하락, 다우만 소폭 상승",
+      "tag": "Bearish"
     },
     {
-      "point": "VIX 18.45 안정권 — 딜러 롱감마 구간, 지수 급변 제한",
-      "tag": "Bullish"
+      "point": "VIX 19.30으로 상승, 변동성 확대 신호",
+      "tag": "Bearish"
     },
     {
-      "point": "고용지표 예상치 하회 — 9월 금리 인하 기대 소폭 회복",
-      "tag": "Neutral"
+      "point": "공포탐욕지수 13, 극단적 공포 구간 진입",
+      "tag": "Bearish"
     },
     {
-      "point": "HY 스프레드 279bp 안정 — 기업 신용 리스크 양호",
-      "tag": "Bullish"
+      "point": "QQQ 풋 우세, 하방 압력 및 변동성 확대 전망",
+      "tag": "Bearish"
+    },
+    {
+      "point": "FAA 전국 항공기 지상 정지 명령, 항공주 하락",
+      "tag": "Bearish"
     }
   ],
-  "kr_news": [
-    {
-      "category": "반도체·AI",
-      "title": "SK하이닉스, HBM3E 16단 양산 본격화 — 엔비디아 블랙웰 공급 확대",
-      "url": "https://www.etnews.com",
-      "press": "전자신문",
-      "source": "domestic"
-    },
-    {
-      "category": "반도체·AI",
-      "title": "삼성전자, 파운드리 2나노 GAA 수율 목표치 근접 — TSMC 격차 축소",
-      "url": "https://news.naver.com",
-      "press": "이데일리",
-      "source": "naver"
-    },
-    {
-      "category": "매크로·금리",
-      "title": "미 금리 인하 기대 재부상 — 고용지표 예상치 하회",
-      "url": "https://www.mk.co.kr",
-      "press": "매일경제",
-      "source": "domestic"
-    },
-    {
-      "category": "매크로·금리",
-      "title": "달러 98선 하향 돌파 — 원/달러 1,350 진입 시나리오",
-      "url": "",
-      "press": "매크로채널",
-      "source": "telegram"
-    },
-    {
-      "category": "K-증시·수급",
-      "title": "외국인, 코스피 3거래일 연속 순매수 — 반도체·금융 집중",
-      "url": "https://www.hankyung.com",
-      "press": "한국경제",
-      "source": "domestic"
-    },
-    {
-      "category": "K-증시·수급",
-      "title": "[옵션] SPY GEX +1.3B$ 롱감마 — 만기까지 지수 급변 제한적",
-      "url": "",
-      "press": "옵션채널",
-      "source": "telegram"
-    },
-    {
-      "category": "부동산·유동성",
-      "title": "국내 주담대 증가세 지속 — 금융당국 추가 규제 시사",
-      "url": "",
-      "press": "매일경제",
-      "source": "domestic"
-    }
-  ],
+  "kr_news": [],
   "us_news": [
     {
       "category": "반도체·AI",
-      "title": "엔비디아 블랙웰 GPU 공급 차질 해소 — HBM 수요 견고 유지",
-      "url": "https://www.reuters.com",
+      "title": "엔비디아 불확실성으로 기술주 하락, S&P500·나스닥 마감",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0xIRkJ1T2xEOU9abUNDYi1vTlpmRWJzd0MyQkFqa2NSb1BkMEdUNDROMmVmaXo3bDVRdThuRDFRaWZySXAyRjN5d1NDNjhCclFJUDVxdG9CQ1dyWWpDbUEwVHVRaHpNWUg5SjdreUtMeHNHXy1feGNBVkFLN3Z4cGNTcGtyYXg2bXFHdlpZQWtneFJDSWVreFROZ09oamc?oc=5",
       "press": "Reuters",
       "source": "international"
     },
     {
       "category": "반도체·AI",
-      "title": "구글 TPU v5 공개 — AI 가속기 시장 경쟁 본격화",
-      "url": "https://www.bloomberg.com",
-      "press": "Bloomberg",
+      "title": "엔비디아 매도세로 나스닥 하락, 8월 이후 최고 주간 성과 기록",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DUGhtX3RkQk1tTVc3WFZQOGhSalVKd2RzNks0R1dHRlFMSUd1bUhOeVVmNTQxS09JQjhaaTBQVWVnY3RBblNRRlc3a21TVEJJUnZmVm9pYmJMSVNWazl5bU9lZkdyOVpSSXhoSUlfeEx1ZUdvakVR0gF8QVVfeXFMUEZVRDFwUjNBQ01QTjdQX0h5WXU5R3BqdDZwVFJiNU9obl9qYk1lWC1XTWUxbDhFaGR4V2x0cERQdDAyNFlJQk1fNXBqdFItb3FaTDdyV2R6WklkbExBZHNnQ3k1WFR4X0FaeGpRM09SZHprem0zajZXbEx6Vg?oc=5",
+      "press": "CNBC",
       "source": "international"
     },
     {
-      "category": "매크로·금리",
-      "title": "연준 위원, 인플레 재가속 시 추가 긴축 가능성 시사",
-      "url": "https://www.ft.com",
-      "press": "FT",
-      "source": "international"
-    },
-    {
-      "category": "매크로·금리",
-      "title": "미국 고용 예상치 하회 — CME FedWatch 9월 인하 확률 상승",
-      "url": "https://www.wsj.com",
+      "category": "반도체·AI",
+      "title": "AI 트레이드 큰 시험대, 기술주 하락 - WSJ 마켓 P.M.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdk9KSVZ5ZlN6RFNmNnlQVEZmYzB4RkxuXzVlaGEzMDdoZ1REdGkxNnhJdW9CMmszTEtpWGlWMUZUTkNLV3FSdll5S0ZiT29JWS1FZHVuSDJpeGxfQjNoUmZPOHdFcFJWUFlSQzdhN085Mld6ZDRJLU1jODF1dmRkQ0hKSWcxTGp4dUF5eENRTkYyLWYtZktxM2VmSnNBN2l2MUVTNHFLU3BzR00?oc=5",
       "press": "WSJ",
       "source": "international"
     },
     {
       "category": "시장·기타",
-      "title": "달러 약세 지속 — 신흥국 자산 선호 심리 회복",
-      "url": "https://www.cnbc.com",
-      "press": "CNBC",
+      "title": "FAA 전국 항공기 지상 정지 명령, 항공주 하락",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUkc1ZFZkTVppV0JQNnJWS0RLSlEwLUlXRFhORmpMbk12VjBYamNtV3RSSjFJU3lCWkxLQ2xtdGdWZkVrOUJDbDhUUkluZDVCUnhpd1B5VmdsbHN0dFdQN0dJbHVyNnJKbDJGdlNlX0RGcUNTclhWV2NrODBOejJLV0FseHhXYUNTbC00d25WbHU3bDR4S1llQ3NCMjFfemdSVzkxbWc4eVFXdmFTbUN3NmdXck5DQUdQWkR3SEh0bldLNGpw?oc=5",
+      "press": "Yahoo Finance",
       "source": "international"
     },
     {
       "category": "시장·기타",
-      "title": "S&P 500, 실적 시즌 기대감에 5,300선 재도전",
-      "url": "https://www.marketwatch.com",
+      "title": "미국 기술주 고통은 유럽 주식시장의 이득",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZm83NjIxZ3NuUW9jZldpdFpOclFTLWpwSWVFNG44bm1LYmNLaDk2Y3M1bTBOejlWVWlJeHh6VTBnem93eUVuYW1jaTdaVnVMOTZ0eF9EaGNUOGRMQVBzaUFPNmdYLWZlQkNOb2dsdWZwdTY5Nm1BU1QtUmxVay1VSGp2NVNFNlhxRW1zQ2pHRFpsV05YVE52aFNHaVNSZVVGY0E?oc=5",
+      "press": "Reuters",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "11월 25일, 주식시장에 큰 날이 될 수 있다",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWGl4aHkxc1IyaEhGcmg3ZDZIU2pXN3VIa0pzd3FCWWZNN0RwMGVYYjdLZlp1Y25aaWhvcms3TEp1UlRsYU9aenFoc0hwMVI1aTlHdmJVREp4YXZkbld0ME81M3NOSGs4TnVnNUJBX19xZ1I2aDZlU2Y0eGVKUTcySEZKMWw4S1p6V25SVXNURWl4Ujkx?oc=5",
+      "press": "The Motley Fool",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아 투기적 매도 후 기술주 부진, 다우 소폭 상승 마감",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSmg4NHJ5V24yXzQ2TFZvRlVSeEJJSGFhUm5uYUUxTXhMVWhLdzlkOFhfUktLVDBrV2VkTnVwZnUxN3MzZlhYbUdCY3JhRkJWTEd2MW9IZDVJc0xOVjVsN2ppZS1vX3Zia2pYd0xablc5YnZhTnZvUE95eVdKY0Y4Sm9jZ1JyRE1RTHI5Nk92SDgtQjE3c0Z6LU9WdEVEVzFfUUQzZUNUd0h1MDcyQ1YxalFfOGxFNkx5VEdKcDR4eWc3OW41dmN6aQ?oc=5",
       "press": "MarketWatch",
       "source": "international"
     }
