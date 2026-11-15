@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-11-15T23:31:56.237395+00:00",
+    "run_date": "20261116"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 103.42 (+0.01%)",
+        "description": "전일종가 103.41 / 변동 +0.0140"
+      },
+      {
+        "title": "미국 10년물 금리: 5.15 (+1.00%)",
+        "description": "전일종가 5.10 / 변동 +0.0510"
+      },
+      {
+        "title": "VIX 변동성지수: 19.30 (+3.21%)",
+        "description": "전일종가 18.70 / 변동 +0.6000"
+      },
+      {
+        "title": "S&P 500: 7561.67 (-0.40%)",
+        "description": "전일종가 7592.40 / 변동 -30.7300"
+      },
+      {
+        "title": "나스닥100: 27943.74 (-1.22%)",
+        "description": "전일종가 28289.19 / 변동 -345.4492"
+      },
+      {
+        "title": "다우존스: 52347.55 (+0.10%)",
+        "description": "전일종가 52297.09 / 변동 +50.4609"
+      },
+      {
+        "title": "USD/KRW: 1335.74 (+0.15%)",
+        "description": "전일종가 1333.78 / 변동 +1.9600"
+      },
+      {
+        "title": "USD/JPY: 159.79 (-0.05%)",
+        "description": "전일종가 159.88 / 변동 -0.0860"
+      },
+      {
+        "title": "코스피: 5290.53 (-0.98%)",
+        "description": "전일종가 5342.73 / 변동 -52.2002"
+      },
+      {
+        "title": "코스닥: 699.66 (+0.45%)",
+        "description": "전일종가 696.53 / 변동 +3.1299"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.237 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.05 | GEX -0.8B$ (만기:2026-11-16)",
+        "description": "콜OI 136,692 / 풋OI 144,077 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.30 | GEX -0.2B$ (만기:2026-11-16)",
+        "description": "콜OI 70,151 / 풋OI 91,133 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $142.78 (-1.79%)",
+        "description": "거래량 12,972,100주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $757.65 (-0.41%)",
+        "description": "거래량 3,326,400주 (평균대비 0.6x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 73.0% (146/200종목)",
+        "description": "평균 MA 대비 위치: +3.1%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 10/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Is SpaceX Stock Worth Buying and Holding for 10 Years? - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnFYMTlFbWdiLWEtUUNnekQ2MUF6UkdZZVQtdHV5RjlWZVJhXzZhaXNPcTlWdHhSdzVSaGtrbTlWRzZxNDU2c3oxU1ZpaXo2YTNRd3RBaG9vQk9MR2FhX2dGUHFqMTk3cWhZeENaVFNFTG8wRlREUmNWX241THpSYWp0bkJMMDl3eUdvWVd3TkNvWldHS1BMX0RlU1A?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "COMMENTARY: US blue wave reshapes Asia's winners and losers - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaC1aRUpzSldvNXpxeFJBbHVqYlNreDFNSEFJRWx3Y1dsQmpfQzh1c2tNckNKQVF4VWlnVlhlMG9fOUVVZEpfck80ZFdYd21Pd2JYeGFfb1c3dXNoN1V3T2laTDBqM1pkWDA5Zkpsb2ljZ0RraDF2dERCbDBMalRSLVpIWHhFOFk5THI5MHZXazkzcVdwWlVrNGpOYWNlZWNqSFdJZzFWMU83andJMmQzWTZpY2VpZ3dETnpfTTNlYXIyWk5QMkVFSVZhRDI?oc=5",
+        "press": "Reuters"
+      },
+      {
+        "title": "Russian diesel under Trump deal struggles to reach US market amid legal fears and criticism - CNN",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd2lqbmhHQy1wMC1zZjIwaFlyR2lJZVJMd091Y2ZnbThMQ003Y1UxVGJmWFN4N3JLZEhKc2JEeHhDLWhYdzhybGJVb3VtY2pYS3h6NERqWE83eU0zcnh6LWk1YU9STUh1d1lFVFVVdXVUc2FrYl9TNjBVYkg2ZENuT2Vn?oc=5",
+        "press": "CNN"
+      },
+      {
+        "title": "3 big things we're watching in the stock market in the week ahead - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMWJ1OEhiT3IxS0lyWGFiOXRULVRKUGxNZlRpRmZLNDNvVk5JdllEV2dRT2hlcDJ6RExJa2ZvX2VQWlYweTVIMzJQT0dJSDdVWXNWdmdocHdyMUhYa3VJRG9GMGdmMC1DWmZKZDVXeEVqTEZNUUZKOXBMd0tuNEp4MWZiZlh3eG11eVZPOTNaeWhSaWI0RlFtM1ByaE9VUV9DaWdRejhyNWc2ZzFkVFVzR3lyM1hzUQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Oil Steadies With Iranian Attack on Base in Bahrain in Focus - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTlsTGpib2E2Sm9JYXBzRlBxWTZNbGFEWHhjaHk3MG5ab1VybmtNNlAyaWtWYnFranRoZFRWNmY1clprM3lzeXJETGtTRW5oeldDa0NqdFJrWF9SZWkwUUZnSnNoVXJBcTk3ZmVNODB6Z21ZMVJLejZPSjI5S0pybXByY1hJNGEtWm5mNmVqZlJzVGxrblBCdVBiQVFNQQ?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Nvidia Reports Earnings on Nov. 17. Here's What Investors Should Be Watching. - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX21BUzJKcno4QV9IY3F5QVlpNTVYaUVlbmpUeVlzQmdjcUVrQU5ucUNTdEFBaXF2VnBRaWxDcHIzSlJKNGpDdmlNdHJweGJpN1p1cWN3TFVPZmp3Z1BQb29uQjJqSm9ENGZzTEF3a0d1V3NkOWMyMjFhdjQ1UHlBanhhN0gwSU80T19IWEpQWmN4OTk3MkRvY2F6dw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Futures Are Rising Ahead of Nvidia’s Earnings, Anthropic’s IPO - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vc2JoVGI2aTdJQ01weHBLSXpQM3lqd3JJWjVXY0x0dHdhdmNvYUtpemU2QWhWNEJrV3ZUbkY3WW5CVDVFcW5ESFA0Z2YtWlc0c3hHZ19UUHkxQnB5enp2MFNQc0lsN0Z3VkFNb3lFY0pJT2lZZjU3SVdB?oc=5",
+        "press": "Barron's"
+      },
+      {
+        "title": "India EV Maker Considers IPO as Shift to Electric Mobility Grows - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd01YRUYtbzBvM2xsVVEySVZxd1JDUjZKTGloMHgwM2hKRDBISUxfNHFRQmVTU0hBMzBQS3NBT3VLZXIwTTJpVTR1NDMtUmxSbldja1Z2NmhBc2hlY25oUE5TVlcyR2VaMWUwSm1sSVRRSE5hb1Q5NGw5aDVTOHNSem11em82SG9icXg3THBrTzNCUVh2VHJhcEc0alFDTmlRLTdOLU5fV3U5YXAtS1VCLWo1THBSdw?oc=5",
+        "press": "Bloomberg.com"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "When Will SemiFive Inc. (KOSDAQ:490470) Turn A Profit? - Simply Wall St",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOGNOcmRXVUpfVUdpWU15NFRtaFN1MDl6OUN0MjZxZzhUQVNMaHR4bWlkbUc3b05xUUxMbWREcDJMWXRGRml0SXp5MXJtdE5EdlFWNURrcnNyVnFoTl9Fa1R3a3B5dVJ2S2t0U0M1QkxNeE96UV9PVWZMT2huUkNHNUZDWlR6c1NMd2lYejhsN0FqdVNQZ1FaaEZ2X3d6ZXVCTHlFcDZCdEFuNkh2akpTSWFIZENFenYtWEtBSTh4d3NuNll1bmhCeTh0Mm3SAdIBQVVfeXFMT0VMT2Z1dmhWMDV6Q05BT3JYNV9yXzVCM1ZlLUo4NW5VU1VJUmt5UnQxbUN0QlFQUU1jSFZZQzlDRFRMSHZlM3p6cWhlYVcxa21NX2puTXV5eGE3QlNERjctcVZYYlE5TWFhZFhwYTdneVllR1Y1RWUzWjU4R243UEJtRVp6ZGxkSks2NXJsOWNVUFRVelJRb0xVeXN6b2dXcXVUeV9TLVR5MWJzSm1hVUFMLXc1di1jS09zeGtRanBNRzFzMVp3Y3FVeXFUYTBYblhn?oc=5",
+        "press": "Simply Wall St"
+      },
+      {
+        "title": "KB Securities says Samsung to benefit most as AI ecosystem diversifies beyond Nvidia - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQME5HSzM5T1FOLTl0QUR6aFZWUW5fWHhVMU9ITHBMalBUZ0l0ZFlXdlllS1RLWV83LU1fNHNES25fNHh0bVZsUVNaRjFXaFJYY2RoZVkyM3JwSnBpM1FhcFF2Ulh0TlNrOTRGZ1l6MTJXNk1sS0ZlWUZGNUpjeThGZtIBlAFBVV95cUxQWVNQWGFFLTQ3aUtxZTl4Wi1hcTh3cGd3QlNYOVlhblJHR3BmMnh3ZUVETGplZ2VJSnpOU0tFaVBLR0RXZ21xYmxoQmZ1cHNUUzN5eXFlSlpfT2dvMHdoZUtVd2d0VGwxSFBlMUtCbVZXdU9fUHpRZG5sbHhBeFRTN1pIQm9qdmNfSjlPbmZVYl80dldx?oc=5",
+        "press": "Chosunbiz"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}

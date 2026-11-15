@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "generated_at": "2026-11-15T23:31:56.238498+00:00",
+    "run_date": "20261116"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 10,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 103.42,
+      "change": 0.01,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 5.15,
+      "change": 1.0,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 19.3,
+      "change": 3.21,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7561.67,
+      "change": -0.4,
+      "insight": "전일종가 7592.40 / 변동 -30.7300",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 27943.74,
+      "change": -1.22,
+      "insight": "전일종가 28289.19 / 변동 -345.4492",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 52347.55,
+      "change": 0.1,
+      "insight": "전일종가 52297.09 / 변동 +50.4609",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1335.74,
+      "change": 0.15,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.79,
+      "change": -0.05,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "KB증권, AI 생태계 다변화로 삼성전자 최대 수혜 전망",
+      "tag": "Bullish"
+    },
+    {
+      "point": "코스닥 시가총액 상위주 실적 부진 우려 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "원/달러 환율 1335원대, 외국인 자금 유출 압력",
+      "tag": "Bearish"
+    },
+    {
+      "point": "EWY 거래량 감소, 기관 매수세 둔화 신호",
+      "tag": "Neutral"
+    },
+    {
+      "point": "반도체 업종 내 AI 관련주 차별화 장세 예상",
+      "tag": "Bullish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "나스닥 100 1.22% 하락, 기술주 매도세 강화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미국 10년물 금리 5.15%로 상승, 채권 매도세",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VIX 19.30으로 상승, 시장 변동성 확대",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 10, 극단적 공포 구간 진입",
+      "tag": "Bearish"
+    },
+    {
+      "point": "SPY GEX -0.8B$, 딜러 숏감마로 변동성 확대",
+      "tag": "Bearish"
+    },
+    {
+      "point": "QQQ 풋 OI 우세, 하방 압력 지속 전망",
+      "tag": "Bearish"
+    },
+    {
+      "point": "S&P500 50일MA 상회 종목 73%, 기술적 지지 유효",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "KB증권, AI 생태계 다변화로 삼성전자 최대 수혜 전망",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQME5HSzM5T1FOLTl0QUR6aFZWUW5fWHhVMU9ITHBMalBUZ0l0ZFlXdlllS1RLWV83LU1fNHNES25fNHh0bVZsUVNaRjFXaFJYY2RoZVkyM3JwSnBpM1FhcFF2Ulh0TlNrOTRGZ1l6MTJXNk1sS0ZlWUZGNUpjeThGZtIBlAFBVV95cUxQWVNQWGFFLTQ3aUtxZTl4Wi1hcTh3cGd3QlNYOVlhblJHR3BmMnh3ZUVETGplZ2VJSnpOU0tFaVBLR0RXZ21xYmxoQmZ1cHNUUzN5eXFlSlpfT2dvMHdoZUtVd2d0VGwxSFBlMUtCbVZXdU9fUHpRZG5sbHhBeFRTN1pIQm9qdmNfSjlPbmZVYl80dldx?oc=5",
+      "press": "Chosunbiz",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "세미파이브(490470) 흑자 전환 시점 분석",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPOGNOcmRXVUpfVUdpWU15NFRtaFN1MDl6OUN0MjZxZzhUQVNMaHR4bWlkbUc3b05xUUxMbWREcDJMWXRGRml0SXp5MXJtdE5EdlFWNURrcnNyVnFoTl9Fa1R3a3B5dVJ2S2t0U0M1QkxNeE96UV9PVWZMT2huUkNHNUZDWlR6c1NMd2lYejhsN0FqdVNQZ1FaaEZ2X3d6ZXVCTHlFcDZCdEFuNkh2akpTSWFIZENFenYtWEtBSTh4d3NuNll1bmhCeTh0Mm3SAdIBQVVfeXFMT0VMT2Z1dmhWMDV6Q05BT3JYNV9yXzVCM1ZlLUo4NW5VU1VJUmt5UnQxbUN0QlFQUU1jSFZZQzlDRFRMSHZlM3p6cWhlYVcxa21NX2puTXV5eGE3QlNERjctcVZYYlE5TWFhZFhwYTdneVllR1Y1RWUzWjU4R243UEJtRVp6ZGxkSks2NXJsOWNVUFRVelJRb0xVeXN6b2dXcXVUeV9TLVR5MWJzSm1hVUFMLXc1di1jS09zeGtRanBNRzFzMVp3Y3FVeXFUYTBYblhn?oc=5",
+      "press": "Simply Wall St",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아 11월 17일 실적 발표, 투자자 주목 포인트",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX21BUzJKcno4QV9IY3F5QVlpNTVYaUVlbmpUeVlzQmdjcUVrQU5ucUNTdEFBaXF2VnBRaWxDcHIzSlJKNGpDdmlNdHJweGJpN1p1cWN3TFVPZmp3Z1BQb29uQjJqSm9ENGZzTEF3a0d1V3NkOWMyMjFhdjQ1UHlBanhhN0gwSU80T19IWEpQWmN4OTk3MkRvY2F6dw?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아 실적 및 앤트로픽 IPO 앞두고 주가지수 선물 상승",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9vc2JoVGI2aTdJQ01weHBLSXpQM3lqd3JJWjVXY0x0dHdhdmNvYUtpemU2QWhWNEJrV3ZUbkY3WW5CVDVFcW5ESFA0Z2YtWlc0c3hHZ19UUHkxQnB5enp2MFNQc0lsN0Z3VkFNb3lFY0pJT2lZZjU3SVdB?oc=5",
+      "press": "Barron's",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "미국 파란 물결, 아시아 승자와 패자 재편",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaC1aRUpzSldvNXpxeFJBbHVqYlNreDFNSEFJRWx3Y1dsQmpfQzh1c2tNckNKQVF4VWlnVlhlMG9fOUVVZEpfck80ZFdYd21Pd2JYeGFfb1c3dXNoN1V3T2laTDBqM1pkWDA5Zkpsb2ljZ0RraDF2dERCbDBMalRSLVpIWHhFOFk5THI5MHZXazkzcVdwWlVrNGpOYWNlZWNqSFdJZzFWMU83andJMmQzWTZpY2VpZ3dETnpfTTNlYXIyWk5QMkVFSVZhRDI?oc=5",
+      "press": "Reuters",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "다음 주 증시에서 주목할 3가지 주요 이슈",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMWJ1OEhiT3IxS0lyWGFiOXRULVRKUGxNZlRpRmZLNDNvVk5JdllEV2dRT2hlcDJ6RExJa2ZvX2VQWlYweTVIMzJQT0dJSDdVWXNWdmdocHdyMUhYa3VJRG9GMGdmMC1DWmZKZDVXeEVqTEZNUUZKOXBMd0tuNEp4MWZiRlh3eG11eVZPOTNaeWhSaWI0RlFtM1ByaE9VUV9DaWdRejhyNWc2ZzFkVFVzR3lyM1hzUQ?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "바레인 기지 이란 공격 주목, 유가 안정세 유지",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTlsTGpib2E2Sm9JYXBzRlBxWTZNbGFEWHhjaHk3MG5ab1VybmtNNlAyaWtWYnFranRoZFRWNmY1clprM3lzeXJETGtTRW5oeldDa0NqdFJrWF9SZWkwUUZnSnNoVXJBcTk3ZmVNODB6Z21ZMVJLejZPSjI5S0pybXByY1hJNGEtWm5mNmVqZlJzVGxrblBCdVBiQVFNQQ?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "에너지·원자재",
+      "title": "트럼프 협정 러시아 디젤, 법적 우려 속 미국 시장 진입 난항",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd2lqbmhHQy1wMC1zZjIwaFlyR2lJZVJMd091Y2ZnbThMQ003Y1UxVGJmWFN4N3JLZEhKc2JEeHhDLWhYdzhybGJVb3VtY2pYS3h6NERqWE83eU0zcnh6LWk1YU9STUh1d1lFVFVVdXVUc2FrYl9TNjBVYkg2ZENuT2Vn?oc=5",
+      "press": "CNN",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "스페이스엑스 주식, 10년 보유 가치 분석",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnFYMTlFbWdiLWEtUUNnekQ2MUF6UkdZZVQtdHV5RjlWZVJhXzZhaXNPcTlWdHhSdzVSaGtrbTlWRzZxNDU2c3oxU1ZpaXo2YTNRd3RBaG9vQk9MR2FhX2dGUHFqMTk3cWhZeENaVFNFTG8wRlREUmNWX241THpSYWp0bkJMMDl3eUdvWVd3TkNvWldHS1BMX0RlU1A?oc=5",
+      "press": "The Motley Fool",
+      "source": "international"
+    }
+  ]
+}
