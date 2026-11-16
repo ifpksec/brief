@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "generated_at": "2026-11-16T23:32:11.726217+00:00",
+    "run_date": "20261117"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 10,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 103.59,
+      "change": 0.17,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 5.12,
+      "change": -0.64,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 22.91,
+      "change": 18.7,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7416.59,
+      "change": -1.92,
+      "insight": "전일종가 7561.67 / 변동 -145.0801",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 27197.15,
+      "change": -2.67,
+      "insight": "전일종가 27943.74 / 변동 -746.5879",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 51608.17,
+      "change": -1.41,
+      "insight": "전일종가 52347.55 / 변동 -739.3789",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1335.41,
+      "change": 0.12,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.45,
+      "change": -0.26,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "원/달러 환율 1335원대, 달러 강세 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "EWY ETF 4.36% 급락, 외국인 매도세 유입",
+      "tag": "Bearish"
+    },
+    {
+      "point": "글로벌 반도체 규제 강화로 국내 IT주 압박",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미국 금리 5.12%로 소폭 하락, 부담 완화",
+      "tag": "Neutral"
+    },
+    {
+      "point": "VIX 22.91로 급등, 위험자산 회피 심리 확산",
+      "tag": "Bearish"
+    },
+    {
+      "point": "극단적 공포 구간, 역발상 매수 타이밍 탐색",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "나스닥 2.67% 급락, 엔비디아발 AI 투매",
+      "tag": "Bearish"
+    },
+    {
+      "point": "S&P500 1.92% 하락, 기술주 중심 매도세",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미국 반도체 수출 규제 강화, 칩주 타격",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VIX 18.7% 급등, 변동성 확대 국면 진입",
+      "tag": "Bearish"
+    },
+    {
+      "point": "달러인덱스 103.59, 안전자산 선호 지속",
+      "tag": "Neutral"
+    },
+    {
+      "point": "비트코인 6.4만 달러 하회, 리스크오프 심리",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "미국 반도체 규제 강화로 칩주 하락",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0NYQzlGd3NpY1NLcXNmMm84U1pmQ1dKelhJSkRNY09iTHJVbnZfTGprZFNQWXBteHNCbnhmYVJXaDJIUEd6RkxXVlNEYzlVMzBMWnRQc0NZblllQlY3REtxN0hoQ1h2QTBzS3Q1QTh2OWdXbHBubm1IcGhBSndxNkVXa3JIMVpXUG5XV2RHcndCa2UtR1Z6NDkxTDZERXlMNmxFVUJHV2tRTXdpb1FEVkh4RlZZaTBoaWQw?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아 급락으로 나스닥 2.5% 하락, S&P500 급락 마감",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaVNkSzYwV3paZTJTMVJaQVhlZXdRaFJWWjFPNmJiSG9OOTNTajBHVVZyYlgxYndVektsSXZWbGp5YzZRcUd2eHhPT3Fwb28wWElpNDdUcXhMXzZtM3pxWld3ZDJiY3BBTENSMng2YlhweWk3YUNRZ3p0OUlGRWgxZm5aaUlLUVFyOWwtN000clhKYThUdDMxQmM0VEhac3NxdlZGZzZnbEVpY1E2UWF2T2Z0YUlrcTl5?oc=5",
+      "press": "MarketWatch",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아 혼란으로 기술주 및 암호화폐 동반 하락, 비트코인 6.4만 달러 하회",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN0VuVldXTzMycVdJbTdEa3dOMDhDYzBiZkNMZzNEbkoyRTNVZHlkLS04SmZTVDI1bWszTlVjU1BEclV2bTg4Zlk4cm5VM1I1dUhBVUl1dEpST2xpTHZJOFlzaEdMU0IyU3ZOajh2cWZKTk1aU1gxa1A4QjMwb244SklTcWN5eENDb2pzTV9Sc3dzQXF2VXVNdUVTa29idnFXZTAybFBsZXpINkdtaTZNRHVTLXdVc3AyRndYa2szV2g1ZE9hYW5j?oc=5",
+      "press": "Forbes",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아 주도 기술주 매도세로 월가 주가 급락",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRDFmeWs4Mm9sak00SUdyanU5R3pJZmREWUFPa0lhRGpMellwbG90YlgwNm5VbmZfZ2daNGZSN1hyZ0k3c0N2REQ2YXRWbHBJSDUtb3c0bG1tM0djR0NlQlVob0p1VkdGaTZRUnl2ZXF2X2kxN29seVN2M2NhcjQxR0lRWEdqa3NEZG5PM1BEdUlSaXhqZXVfeTFaaWgtSnRYOTVsQmNyOWM2dS1TR1o3SDV1TGdWQzJZai1ucjlvVTRTejVXV1NsZF95LUJhREY5?oc=5",
+      "press": "Los Angeles Times",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아 AI 트레이드 하락 주도, 앤트로픽 IPO 임박",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQm1pRzVJd0lQc2F6aUtMUGIzUnVtazZTRFQtUndVeHZCSzhTTkVTSEJJRnIyN0JhVnN0eTVuZkFiVEN5a0xWbk54cjlXejFPTjlkb3JhTDdjQnNNMXFvblF0S3ZNUmtiTmFDdEd2NkdpZmtLSG01eldfYWZDT3lIcldSc2VlZnNQSGRkWmRmYmh3b195WDY1bnNoU25neEFTc3dwX21yTkRGdkRiSW5FMDZrdmpRZTdDZUpHaw?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아 AI 트레이드 하락으로 나스닥 3일 연속 2% 이상 하락",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mcjluX1NZUEVzZ0dXVXFRX3c3SkZubmJJclpoSlNQVDV2TTloVERqNU54dnBhNG9oVTVObVJzMExPSkQyVEZzNkpmQ09sTWRTaWZwSjc1cEJiZ0k1U1NNZ1pJSVlKQlNidFcwT2NRLVJCbGVLMzln0gF8QVVfeXFMUG1YMkpQVmR5RkUzM0x4dkxzdjZsbV9MUTZWbl92M3BvT1lfWWYwX3RxZjBIMHd1cGdBYndYbkdXVmk4Y2hObFVKVUVlT0xmdTBNR21qd3M1YV80ZFI1eFQtbUpqbG1kQUpqSlVDc3hWbVJRUV8yU2lhcmRpeA?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "칼시, 곧 주식 거래 출시 계획",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM256SW51NWpQeUlLcUVjUTJyOGJiaE9rRDgxN05hYTgzVlRXbU5rbnpKaEViWGJhMVU0TXBRc1FzMXBEcm9DNVFtT2c2VmpOT3lBYTFxbktLbzhUTF9EM081TDQyUTdUbWxmcHBHTEtWc21SM0lVejUyV2otajNGdXgxUlPSAYoBQVVfeXFMTXRRNllWZUZsOWt3TlZaYVMxMG5zb3FiWWdPd3VMLWFIMTBRMUxmeklqMG5ySHl5VXloeENuenZYdmxLQmFwT25zU1ZWbHo5QkdrcWExSW5jWXhKR2FKZW16clZ1dTV1b0JobWZibkphaEpfamp5TGxQZlNxb0pGRGUyT2xZZGduVk9B?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    }
+  ]
+}

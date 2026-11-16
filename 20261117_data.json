@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "generated_at": "2026-11-16T23:32:11.724825+00:00",
+    "run_date": "20261117"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 103.59 (+0.17%)",
+        "description": "전일종가 103.41 / 변동 +0.1760"
+      },
+      {
+        "title": "미국 10년물 금리: 5.12 (-0.64%)",
+        "description": "전일종가 5.15 / 변동 -0.0330"
+      },
+      {
+        "title": "VIX 변동성지수: 22.91 (+18.70%)",
+        "description": "전일종가 19.30 / 변동 +3.6100"
+      },
+      {
+        "title": "S&P 500: 7416.59 (-1.92%)",
+        "description": "전일종가 7561.67 / 변동 -145.0801"
+      },
+      {
+        "title": "나스닥100: 27197.15 (-2.67%)",
+        "description": "전일종가 27943.74 / 변동 -746.5879"
+      },
+      {
+        "title": "다우존스: 51608.17 (-1.41%)",
+        "description": "전일종가 52347.55 / 변동 -739.3789"
+      },
+      {
+        "title": "USD/KRW: 1335.41 (+0.12%)",
+        "description": "전일종가 1333.78 / 변동 +1.6300"
+      },
+      {
+        "title": "USD/JPY: 159.45 (-0.26%)",
+        "description": "전일종가 159.88 / 변동 -0.4210"
+      },
+      {
+        "title": "코스피: 5290.53 (-0.98%)",
+        "description": "전일종가 5342.73 / 변동 -52.2002"
+      },
+      {
+        "title": "코스닥: 699.66 (+0.45%)",
+        "description": "전일종가 696.53 / 변동 +3.1299"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.245 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.00 | GEX -3.6B$ (만기:2026-11-16)",
+        "description": "콜OI 251,061 / 풋OI 252,054 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.38 | GEX -2.0B$ (만기:2026-11-16)",
+        "description": "콜OI 149,585 / 풋OI 207,145 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $136.55 (-4.36%)",
+        "description": "거래량 14,560,195주 (평균대비 1.0x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $743.33 (-1.89%)",
+        "description": "거래량 3,996,261주 (평균대비 0.8x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 67.0% (134/200종목)",
+        "description": "평균 MA 대비 위치: +2.1%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 10/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Chip stocks fall on US semiconductor restrictions: AlphaCheck - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0NYQzlGd3NpY1NLcXNmMm84U1pmQ1dKelhJSkRNY09iTHJVbnZfTGprZFNQWXBteHNCbnhmYVJXaDJIUEd6RkxXVlNEYzlVMzBMWnRQc0NZblllQlY3REtxN0hoQ1h2QTBzS3Q1QTh2OWdXbHBubm1IcGhBSndxNkVXa3JIMVpXUG5XV2RHcndCa2UtR1Z6NDkxTDZERXlMNmxFVUJHV2tRTXdpb1FEVkh4RlZZaTBoaWQw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market Today: Dow ends 737 points lower, Nasdaq drops 2.5% and S&P 500 ends sharply lower as Nvidia's stock tumble",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaVNkSzYwV3paZTJTMVJaQVhlZXdRaFJWWjFPNmJiSG9OOTNTajBHVVZyYlgxYndVektsSXZWbGp5YzZRcUd2eHhPT3Fwb28wWElpNDdUcXhMXzZtM3pxWld3ZDJiY3BBTENSMng2YlhweWk3YUNRZ3p0OUlGRWgxZm5aaUlLUVFyOWwtN000clhKYThUdDMxQmM0VEhac3NxdlZGZzZnbEVpY1E2UWF2T2Z0YUlrcTl5?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Bitcoin Falls Below $64,000 As Nvidia Turmoil Roils Tech Stocks And Crypto - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN0VuVldXTzMycVdJbTdEa3dOMDhDYzBiZkNMZzNEbkoyRTNVZHlkLS04SmZTVDI1bWszTlVjU1BEclV2bTg4Zlk4cm5VM1I1dUhBVUl1dEpST2xpTHZJOFlzaEdMU0IyU3ZOajh2cWZKTk1aU1gxa1A4QjMwb244SklTcWN5eENDb2pzTV9Sc3dzQXF2VXVNdUVTa29idnFXZTAybFBsZXpINkdtaTZNRHVTLXdVc3AyRndYa2szV2g1ZE9hYW5j?oc=5",
+        "press": "Forbes"
+      },
+      {
+        "title": "Stocks tumble on Wall St. as Nvidia leads another sell-off in tech firms - Los Angeles Times",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRDFmeWs4Mm9sak00SUdyanU5R3pJZmREWUFPa0lhRGpMellwbG90YlgwNm5VbmZfZ2daNGZSN1hyZ0k3c0N2REQ2YXRWbHBJSDUtb3c0bG1tM0djR0NlQlVob0p1VkdGaTZRUnl2ZXF2X2kxN29seVN2M2NhcjQxR0lRWEdqa3NEZG5PM1BEdUlSaXhqZXVfeTFaaWgtSnRYOTVsQmNyOWM2dS1TR1o3SDV1TGdWQzJZai1ucjlvVTRTejVXV1NsZF95LUJhREY5?oc=5",
+        "press": "Los Angeles Times"
+      },
+      {
+        "title": "Stock market today: Dow and S&P 500 drop, Nasdaq sinks over 2% as Nvidia leads AI trade lower, Anthropic IPO looms - Yah",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQm1pRzVJd0lQc2F6aUtMUGIzUnVtazZTRFQtUndVeHZCSzhTTkVTSEJJRnIyN0JhVnN0eTVuZkFiVEN5a0xWbk54cjlXejFPTjlkb3JhTDdjQnNNMXFvblF0S3ZNUmtiTmFDdEd2NkdpZmtLSG01eldfYWZDT3lIcldSc2VlZnNQSGRkWmRmYmh3b195WDY1bnNoU25neEFTc3dwX21yTkRGdkRiSW5FMDZrdmpRZTdDZUpHaw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Kalshi plans to launch stock trading soon - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQM256SW51NWpQeUlLcUVjUTJyOGJiaE9rRDgxN05hYTgzVlRXbU5rbnpKaEViWGJhMVU0TXBRc1FzMXBEcm9DNVFtT2c2VmpOT3lBYTFxbktLbzhUTF9EM081TDQyUTdUbWxmcHBHTEtWc21SM0lVejUyV2otajNGdXgxUlPSAYoBQVVfeXFMTXRRNllWZUZsOWt3TlZaYVMxMG5zb3FiWWdPd3VMLWFIMTBRMUxmeklqMG5ySHl5VXloeENuenZYdmxLQmFwT25zU1ZWbHo5QkdrcWExSW5jWXhKR2FKZW16clZ1dTV1b0JobWZibkphaEpfamp5TGxQZlNxb0pGRGUyT2xZZGduVk9B?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Nasdaq falls more than 2%, extending slide to third day as Nvidia drags down AI trade - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mcjluX1NZUEVzZ0dXVXFRX3c3SkZubmJJclpoSlNQVDV2TTloVERqNU54dnBhNG9oVTVObVJzMExPSkQyVEZzNkpmQ09sTWRTaWZwSjc1cEJiZ0k1U1NNZ1pJSVlKQlNidFcwT2NRLVJCbGVLMzln0gF8QVVfeXFMUG1YMkpQVmR5RkUzM0x4dkxzdjZsbV9MUTZWbl92M3BvT1lfWWYwX3RxZjBIMHd1cGdBYndYbkdXVmk4Y2hObFVKVUVlT0xmdTBNR21qd3M1YV80ZFI1eFQtbUpqbG1kQUpqSlVDc3hWbVJRUV8yU2lhcmRpeA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Nebius: Get Your Head Out Of The Neoclouds (Rating Downgrade) (NASDAQ:NBIS) - Seeking Alpha",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZVdaTFEza0ppSm9aOExXZUxWeXRFaUNzdjEza3VLYVJzejJkbWVRQlVxcUExWXFfNnRKbFY3eS1yaVNhUm1wQTZaTk8tcGNkLUtnazR6ZVQzZXR6eG02OFdvczlYSnRRUTF5dDktZmRnOXpYZWlSMUdMTTdvQUpfaW9HNnpJaU5aYS1CUGxxZTlKd25QQnV5TXpKSm5Ydk5s?oc=5",
+        "press": "Seeking Alpha"
+      }
+    ],
+    "domestic": [],
+    "naver": [],
+    "telegram": []
+  }
+}
