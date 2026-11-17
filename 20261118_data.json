@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-11-17T23:31:55.280388+00:00",
+    "run_date": "20261118"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 103.60 (+0.05%)",
+        "description": "전일종가 103.55 / 변동 +0.0480"
+      },
+      {
+        "title": "미국 10년물 금리: 5.10 (-0.35%)",
+        "description": "전일종가 5.12 / 변동 -0.0180"
+      },
+      {
+        "title": "VIX 변동성지수: 25.46 (+11.13%)",
+        "description": "전일종가 22.91 / 변동 +2.5500"
+      },
+      {
+        "title": "S&P 500: 7340.53 (-1.03%)",
+        "description": "전일종가 7416.59 / 변동 -76.0601"
+      },
+      {
+        "title": "나스닥100: 27001.79 (-0.72%)",
+        "description": "전일종가 27197.15 / 변동 -195.3652"
+      },
+      {
+        "title": "다우존스: 50759.42 (-1.64%)",
+        "description": "전일종가 51608.17 / 변동 -848.7500"
+      },
+      {
+        "title": "USD/KRW: 1335.25 (+0.15%)",
+        "description": "전일종가 1333.25 / 변동 +2.0000"
+      },
+      {
+        "title": "USD/JPY: 159.51 (-0.17%)",
+        "description": "전일종가 159.78 / 변동 -0.2740"
+      },
+      {
+        "title": "코스피: 5100.50 (-3.59%)",
+        "description": "전일종가 5290.53 / 변동 -190.0298"
+      },
+      {
+        "title": "코스닥: 665.65 (-4.86%)",
+        "description": "전일종가 699.66 / 변동 -34.0099"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.261 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.10 | GEX -1.8B$ (만기:2026-11-17)",
+        "description": "콜OI 158,833 / 풋OI 175,402 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.40 | GEX -0.9B$ (만기:2026-11-17)",
+        "description": "콜OI 118,803 / 풋OI 166,044 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $135.32 (-0.90%)",
+        "description": "거래량 13,376,873주 (평균대비 0.9x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $735.70 (-1.03%)",
+        "description": "거래량 4,382,161주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 62.0% (124/200종목)",
+        "description": "평균 MA 대비 위치: +0.6%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 12/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Dow drops more than 800 points, S&P 500 posts lowest close since July - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZX1A1ZUpLQzUwdUhDWHJmSktxM0JhR1RsZU43OTR1TndFamZ4LXBqcjJKakZyWWFHeHVzdHhLM0JRYnJnemNXVHpsT0dXYm9WWWRUdXUxXzc0VV9yUkF5QlBGLTA4WkVOTFpvb0NDQ0p4d0lpbzVj0gF8QVVfeXFMUGFfWnJDSW5odWJYOGZPaks3ZUtHZUxHSkVrdDVmeVY3UnhPX0ExTVFXVmQ2Qjd6eVNXbHowQnBzNmJobUNvOTRSRW5IZVFWVk5xOVNwV3ViT3haX1R1S0J1YW8wMU1pdmVZMFNacFg2YnlvdlFnanVBM0RJTA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Nvidia Earnings Live: Earnings Call Begins After Chipmaker Reports Record Sales - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQmN2M3pjcHYtZ0ZSdjhYUWQxT254REtuclpjR1Z2bmZiRE55aU02dE05ZlZ6SkFxX3hwZ25wV2o0VWt5R0Z1YUk0aTd6MUVaMmRWN1ZTNHpPOFNkS0xIemRKcWhOQk53SjNyOTQwYzVGdHpNZUVYTlY3a1VBNzVXYy1Hdw?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Hong Kong begins shift towards paperless share market in 5-year transition plan - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbUtHSVplZmZBVUxwcS1zRlJlMlNsTHVhVkZRVDZxTDhIY016WEgzbnFrOE1CaXFIT0pUeEhqaFZKSjF0a0tjZVlCQTNzUzltcmRxakY5TEd2ZnJXR0hjM0FyOUhNbVduNDd0aXFBV082Y2FnTDlhVjZiZUtzS0pHUUQ0Y0ZEaklrT1UtZmlUQ0ZOXzhsV1g0R2lpWkJ4UGlzbDBIZnJ6cXdhVnZSbmZIVGhkY3FKUmlPYVBSUERnXzA0NXFqcjdlb1NQek1tMHVpVEI0Yg?oc=5",
+        "press": "South China Morning Post"
+      },
+      {
+        "title": "Stock market today: Dow sinks 850 points, S&P 500 and Nasdaq drop with focus on Nvidia earnings - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNlo3VXhMalBfa2JwdDF2VnBsa1E5RnVPSG5lekhEOXRQa0tqS0RIRW5qYmxQRzFZOGdyTlU5VUM1RGgwWENlYlR5RDUtMFRQdlhxRkRhNU1CdWRiR0dQUm1MMldMbUlOM295UVZ2eFRFOTlRUUVEX0swd1YzVTkyRkRYeEI2VW00LTRZUG5JX3RiVHh1UVBKN3VoUUlidWgwaWJvR2lSZHdmaVUzTmJWYUFMX21LaUVjeTJMWU94NUZtRm1DTmhlQUZTY0RSNXhTM1hGTnRR?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Dow drops more than 800 points, S&P 500 posts lowest close since July - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZX1A1ZUpLQzUwdUhDWHJmSktxM0JhR1RsZU43OTR1TndFamZ4LXBqcjJKakZyWWFHeHVzdHhLM0JRYnJnemNXVHpsT0dXYm9WWWRUdXUxXzc0VV9yUkF5QlBGLTA4WkVOTFpvb0NDQ0p4d0lpbzVj0gF8QVVfeXFMUGFfWnJDSW5odWJYOGZPaks3ZUtHZUxHSkVrdDVmeVY3UnhPX0ExTVFXVmQ2Qjd6eVNXbHowQnBzNmJobUNvOTRSRW5IZVFWVk5xOVNwV3ViT3haX1R1S0J1YW8wMU1pdmVZMFNacFg2YnlvdlFnanVBM0RJTA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Surging AI Demand and Advanced Chipmaking Strengthens Taiwan Semiconductor Manufacturing Company Limited (TSM) Growth Ou",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2hWWjNRTC1WNlBrNGRnN19wdlRTMVZaMHJmTmdxRm5xTlBUdEpZX0ZMc29adFJKcGdrSEo3Q192X0FtWGxjaXZYOG9hR0VaX2RGZ25GVGhlREZxR1ozV1pCZ3ZPbTlVeG9WWXJCc0x2T1gtdUJHR0xQUzZPa1dMOXhjZEJETzhNQldveFFPUmQtNmU2T3JXWXRUdDAwWXhUa0lj?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "European stocks mark worst day in eight months on AI jitters, Deutsche Bank slides - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFp4d0VVUXJvWkRfYnJkVDBRVENVNmlGVDk4S1BqcmFVUHdPYkdCSU1FV0dLckFlSzRvQVpXbDBfdG5jdUlfTlVPWFdZLVZOYVIwazYtY0R4OVdoWWdvR3AzZkI2OVBjMWRmNE00S0xsLUNQbVNtWS1kSGs2YTF3cWRIWG50ZzAwMndocER4aXZjeDV5MzVuUThzY18?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock market outlook for 2027: 5 key predictions for investors - Yahoo Finance UK",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSF9vRy0ySndqOHR6R3hONm1tYlRMWkQxRW9CbVRNS2p4VzFKdDV1RnJUV2lXLVZlUEMwNFZrcWR0ZmJNZVAyRmZ3VWgxYkVsUUNDem1EVFVVejZERzloWUtvSm5kTzdIOFdGaG8tZjRScllDcXlZU2JWWFFKYk5xME5B?oc=5",
+        "press": "Yahoo Finance UK"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Does GnBS ecoLtd (KOSDAQ:382800) Deserve A Spot On Your Watchlist? - Simply Wall St",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVEtrSTdQSUdrV2VsRlZzTXA3WkEwZE1hN3JQNWVuZk5aWnl0QnVWdzBGVTMwcGhwRXhUZzNLbkdvT1NKdmp4WWk0clEzWjFiNVF5eVdTSjBlRXE2dmtVbzh2XzkxQUd1QXpRY1RCSlZkb2Q4ZmJkT0UtckRiWnBGaDd6ZTlyZVdsc21TM1ZxbERjbUN6VGh1d2JyV0ZscnhGWVc1TlVQWF9lZnk0RWdUa3Q2MERwbnlKaktXeDgyYURfM2RnalBJUnZuMFVmWlNXUEp6UEFMdUlZV21ZUnfSAeMBQVVfeXFMTjFjWDNjOU5CamV0M1I2aFJtTFp1WmVpMFdNdWkyNG9MSFZNYnhFMkpLZm9aUTE5Q0d5aFU3dVpUNTNxaV93eWo1Qi1UeDRlTnoxdmF1Y1BRQ2VnaWR1WHRLUTZHSjlzNlpVUzNtYjV5TjVUUzZRZGtLUDJIdE1MaFhxQ25mZWI4SjF5bjlTU3cyeUVYeGJHTlh1WkctTHQtSjc5X1FYaUFEdThNQVJoai1VeEMxbTdadENZY1Z3SFR2YlptWVNCRDR3OHFPY2x3NFpoUzdyMTBkNjk0eEZmdXdpbjA?oc=5",
+        "press": "Simply Wall St"
+      },
+      {
+        "title": "Exclusive: Honam Semiconductor: South Samsung, North SK Hynix - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUsxWkduNlNRdXluUmUwS1AyX3hIZ3pJci1JZldtUnEzaHBfS21sTE5rQ0xaSUxMNUQ5TnJzSU0tS1dDZF9KVjRYcWtOX2F4T04tUzhCQ25KWFhXYTBQajUwWmZ0aWg0VTJPT3ctemo0WGZFNnh2QjdPRUZZQVgyQnN2LThKYVhC?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}

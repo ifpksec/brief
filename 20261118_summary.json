@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "generated_at": "2026-11-17T23:31:55.281359+00:00",
+    "run_date": "20261118"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 12,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 103.6,
+      "change": 0.05,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 5.1,
+      "change": -0.35,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 25.46,
+      "change": 11.13,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7340.53,
+      "change": -1.03,
+      "insight": "전일종가 7416.59 / 변동 -76.0601",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 27001.79,
+      "change": -0.72,
+      "insight": "전일종가 27197.15 / 변동 -195.3652",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 50759.42,
+      "change": -1.64,
+      "insight": "전일종가 51608.17 / 변동 -848.7500",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1335.25,
+      "change": 0.15,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.51,
+      "change": -0.17,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "원/달러 환율 1335원대, 외국인 자금 유출 우려 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "글로벌 증시 급락 여파로 국내 시장 변동성 확대 전망",
+      "tag": "Bearish"
+    },
+    {
+      "point": "호남반도체 등 반도체 관련주 주목, 산업 구조 변화 시그널",
+      "tag": "Neutral"
+    },
+    {
+      "point": "코스닥 소형주(382800) 등 개별 종목 관심도 상승",
+      "tag": "Neutral"
+    },
+    {
+      "point": "EWY 거래량 평균 대비 0.9배, 외국인 매수세 둔화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "극단적 공포 심리 속 역발상 매수 기회 탐색 필요",
+      "tag": "Bullish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "다우 800P 이상 급락, S&P500 7월 이후 최저치 마감",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VIX 25.46으로 11% 급등, 시장 공포 심리 고조",
+      "tag": "Bearish"
+    },
+    {
+      "point": "엔비디아 실적 발표, 사상 최대 매출에도 주가 변동성 확대",
+      "tag": "Neutral"
+    },
+    {
+      "point": "미국 10년물 금리 5.10%, 소폭 하락에도 부담 지속",
+      "tag": "Neutral"
+    },
+    {
+      "point": "SPY GEX -1.8B$, 딜러 숏감마로 변동성 확대 리스크",
+      "tag": "Bearish"
+    },
+    {
+      "point": "QQQ 풋 우세(PCR 1.40), 기술주 하방 압력 강함",
+      "tag": "Bearish"
+    },
+    {
+      "point": "유럽 증시 8개월래 최악, AI 불안감 확산",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "호남반도체: 남쪽 삼성, 북쪽 SK하이닉스 - 조선일보 단독",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMUsxWkduNlNRdXluUmUwS1AyX3hIZ3pJci1JZldtUnEzaHBfS21sTE5rQ0xaSUxMNUQ5TnJzSU0tS1dDZF9KVjRYcWtOX2F4T04tUzhCQ25KWFhXYTBQajUwWmZ0aWg0VTJPT3ctemo0WGZFNnh2QjdPRUZZQVgyQnN2LThKYVhC?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "GnBS ecoLtd (KOSDAQ:382800) 워치리스트 등재 가치 분석",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQVEtrSTdQSUdrV2VsRlZzTXA3WkEwZE1hN3JQNWVuZk5aWnl0QnVWdzBGVTMwcGhwRXhUZzNLbkdvT1NKdmp4WWk0clEzWjFiNVF5eVdTSjBlRXE2dmtVbzh2XzkxQUd1QXpRY1RCSlZkb2Q4ZmJkT0UtckRiWnBGaDd6ZTlyZVdsc21TM1ZxbERjbUN6VGh1d2JyV0ZscnhGWVc1TlVQWF9lZnk0RWdUa3Q2MERwbnlKaktXeDgyYURfM2RnalBJUnZuMFVmWlNXUEp6UEFMdUlZV21ZUnfSAeMBQVVfeXFMTjFjWDNjOU5CamV0M1I2aFJtTFp1WmVpMFdNdWkyNG9MSFZNYnhFMkpLZm9aUTE5Q0d5aFU3dVpUNTNxaV93eWo1Qi1UeDRlTnoxdmF1Y1BRQ2VnaWR1WHRLUTZHSjlzNlpVUzNtYjV5TjVUUzZRZGtLUDJIdE1MaFhxQ25mZWI4SjF5bjlTU3cyeUVYeGJHTlh1WkctTHQtSjc5X1FYaUFEdThNQVJoai1VeEMxbTdadENZY1Z3SFR2YlptWVNCRDR3OHFPY2x3NFpoUzdyMTBkNjk0eEZmdXdpbjA?oc=5",
+      "press": "Simply Wall St",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "시장·기타",
+      "title": "다우 800포인트 이상 급락, S&P 500 7월 이후 최저치 마감",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZX1A1ZUpLQzUwdUhDWHJmSktxM0JhR1RsZU43OTR1TndFamZ4LXBqcjJKakZyWWFHeHVzdHhLM0JRYnJnemNXVHpsT0dXYm9WWWRUdXUxXzc0VV9yUkF5QlBGLTA4WkVOTFpvb0NDQ0p4d0lpbzVj0gF8QVVfeXFMUGFfWnJDSW5odWJYOGZPaks3ZUtHZUxHSkVrdDVmeVY3UnhPX0ExTVFXVmQ2Qjd6eVNXbHowQnBzNmJobUNvOTRSRW5IZVFWVk5xOVNwV3ViT3haX1R1S0J1YW8wMU1pdmVZMFNacFg2YnlvdlFnanVBM0RJTA?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아 실적 발표: 칩 제조업체 사상 최대 매출 보고 후 컨퍼런스콜 시작",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQmN2M3pjcHYtZ0ZSdjhYUWQxT254REtuclpjR1Z2bmZiRE55aU02dE05ZlZ6SkFxX3hwZ25wV2o0VWt5R0Z1YUk0aTd6MUVaMmRWN1ZTNHpPOFNkS0xIemRKcWhOQk53SjNyOTQwYzVGdHpNZUVYTlY3a1VBNzVXYy1Hdw?oc=5",
+      "press": "WSJ",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "오늘의 증시: 다우 850포인트 급락, 엔비디아 실적 주목 속 S&P 500·나스닥 하락",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNlo3VXhMalBfa2JwdDF2VnBsa1E5RnVPSG5lekhEOXRQa0tqS0RIRW5qYmxQRzFZOGdyTlU5VUM1RGgwWENlYlR5RDUtMFRQdlhxRkRhNU1CdWRiR0dQUm1MMldMbUlOM295UVZ2eFRFOTlRUUVEX0swd1YzVTkyRkRYeEI2VW00LTRZUG5JX3RiVHh1UVBKN3VoUUlidWgwaWJvR2lSZHdmaVUzTmJWYUFMX21LaUVjeTJMWU94NUZtRm1DTmhlQUZTY0RSNXhTM1hGTnRR?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "유럽 증시, AI 불안감 속 8개월래 최악의 하루 기록, 도이체방크 하락",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZFp4d0VVUXJvWkRfYnJkVDBRVENVNmlGVDk4S1BqcmFVUHdPYkdCSU1FV0dLckFlSzRvQVpXbDBfdG5jdUlfTlVPWFdZLVZOYVIwazYtY0R4OVdoWWdvR3AzZkI2OVBjMWRmNE00S0xsLUNQbVNtWS1kSGs2YTF3cWRIWG50ZzAwMndocER4aXZjeDV5MzVuUThzY18?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "급증하는 AI 수요와 첨단 칩 제조가 TSMC 성장 전망 강화",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2hWWjNRTC1WNlBrNGRnN19wdlRTMVZaMHJmTmdxRm5xTlBUdEpZX0ZMc29adFJKcGdrSEo3Q192X0FtWGxjaXZYOG9hR0VaX2RGZ25GVGhlREZxR1ozV1pCZ3ZPbTlVeG9WWXJCc0x2T1gtdUJHR0xQUzZPa1dMOXhjZEJETzhNQldveFFPUmQtNmU2T3JXWXRUdDAwWXhUa0lj?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "홍콩, 5개년 전환 계획으로 종이 없는 주식 시장으로 전환 시작",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbUtHSVplZmZBVUxwcS1zRlJlMlNsTHVhVkZRVDZxTDhIY016WEgzbnFrOE1CaXFIT0pUeEhqaFZKSjF0a0tjZVlCQTNzUzltcmRxakY5TEd2ZnJXR0hjM0FyOUhNbVduNDd0aXFBV082Y2FnTDlhVjZiZUtzS0pHUUQ0Y0ZEaklrT1UtZmlUQ0ZOXzhsV1g0R2lpWkJ4UGlzbDBIZnJ6cXdhVnZSbmZIVGhkY3FKUmlPYVBSUERnXzA0NXFqcjdlb1NQek1tMHVpVEI0Yg?oc=5",
+      "press": "South China Morning Post",
+      "source": "international"
+    }
+  ]
+}
