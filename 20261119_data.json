@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "generated_at": "2026-11-18T23:32:17.471077+00:00",
+    "run_date": "20261119"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 103.81 (+0.31%)",
+        "description": "전일종가 103.49 / 변동 +0.3230"
+      },
+      {
+        "title": "미국 10년물 금리: 5.07 (-0.73%)",
+        "description": "전일종가 5.10 / 변동 -0.0370"
+      },
+      {
+        "title": "VIX 변동성지수: 24.56 (-3.53%)",
+        "description": "전일종가 25.46 / 변동 -0.9000"
+      },
+      {
+        "title": "S&P 500: 7323.63 (-0.23%)",
+        "description": "전일종가 7340.53 / 변동 -16.8999"
+      },
+      {
+        "title": "나스닥100: 27116.26 (+0.42%)",
+        "description": "전일종가 27001.78 / 변동 +114.4785"
+      },
+      {
+        "title": "다우존스: 50198.17 (-1.11%)",
+        "description": "전일종가 50759.42 / 변동 -561.2500"
+      },
+      {
+        "title": "USD/KRW: 1332.48 (-0.24%)",
+        "description": "전일종가 1335.67 / 변동 -3.1901"
+      },
+      {
+        "title": "USD/JPY: 159.37 (-0.10%)",
+        "description": "전일종가 159.52 / 변동 -0.1540"
+      },
+      {
+        "title": "코스피: 4968.48 (-2.59%)",
+        "description": "전일종가 5100.50 / 변동 -132.0200"
+      },
+      {
+        "title": "코스닥: 650.06 (-2.34%)",
+        "description": "전일종가 665.65 / 변동 -15.5900"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.259 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.86 | GEX -2.1B$ (만기:2026-11-18)",
+        "description": "콜OI 216,272 / 풋OI 186,487 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.30 | GEX +0.2B$ (만기:2026-11-18)",
+        "description": "콜OI 133,925 / 풋OI 173,939 → 풋 우세(하방압력) | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $136.73 (+1.04%)",
+        "description": "거래량 11,656,306주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $733.51 (-0.30%)",
+        "description": "거래량 4,227,315주 (평균대비 0.8x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 59.5% (119/200종목)",
+        "description": "평균 MA 대비 위치: +0.3%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 11/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock Market Today: Dow Falls as Nvidia Earnings Fail to Soothe Investors' Nerves - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWF9SSWdwQ1BBTkhfMnRGdVRodTBUeEpibW9RRlgzWURreHZVY2RKYXM5el9YQU1XeVpnTnl3QWJnbzRpdEVBT1JDbWNodTRKWHBsdnFKOGFYM1lGaUtNbmRlYUJhaTZrandnaFpUVHFDaEV6UUVaSW9jU05fakc1UVRTRkhibWM?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Stock market today: Anthropic IPO in spotlight, Nvidia stock extends decline - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUXF4elZiRmtpU0hWaElPNjVGbHBuMkxPaDJCSzlMREtmUWs5dThVN3RCRUJWR2R6dEhGaGtibWY5bnRrMFpnRVRlb2hEazc0ekVOQjBVMkY4RVQ1U1pMYWNYdFdKQTN5a2tRM0hfeGVTNXJVeW1talprVGRjRllJZ0xxQzVtV09ZZmpDcGZIU3U3X2VZMXZCcWZDYXBGY2FrUkY1NXlwblRTamJpeHA4Rl9yOUJ6RlU2QkZXSm1PV2dBRF9vSjd5eTBjRTZmLUFBdlpCclVya2Zfdw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Dow drops more than 500 points; S&P 500 falls for fifth day as Nvidia sells off - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwTDVScDA1ZzNHQi1GT1RaRFVzYTJPa2lHVVJyVzR6RlhfaGZNbG5Va1BFblNtYm54eG82YWl4dlA3SkltcC1WSmdCVEUtMlVKNXlCVDNVcG8wRnBaNkc0UVctakctUDdZUDJsNEp4dWN0Z0Vsczlv0gF8QVVfeXFMT014TXpKZ2hKbVhJT0dVekl1Z2tCbjE3MnMtLWhMUG1DaUc3UUd0emE1R2xPd2pDZXMzVXhGbHFVRmdWRm1iRWJnejN6YjJJYlpDWkxJOVhDS3RuRGUyQkhHZ2wzSzJJdnVrNDVqcHQxb2ZXVkUwSVRJcjE4RA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Dow drops more than 500 points; S&P 500 falls for fifth day as Nvidia sells off - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAwTDVScDA1ZzNHQi1GT1RaRFVzYTJPa2lHVVJyVzR6RlhfaGZNbG5Va1BFblNtYm54eG82YWl4dlA3SkltcC1WSmdCVEUtMlVKNXlCVDNVcG8wRnBaNkc0UVctakctUDdZUDJsNEp4dWN0Z0Vsczlv0gF8QVVfeXFMT014TXpKZ2hKbVhJT0dVekl1Z2tCbjE3MnMtLWhMUG1DaUc3UUd0emE1R2xPd2pDZXMzVXhGbHFVRmdWRm1iRWJnejN6YjJJYlpDWkxJOVhDS3RuRGUyQkhHZ2wzSzJJdnVrNDVqcHQxb2ZXVkUwSVRJcjE4RA?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: Anthropic IPO in spotlight, Nvidia stock extends decline - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUXF4elZiRmtpU0hWaElPNjVGbHBuMkxPaDJCSzlMREtmUWs5dThVN3RCRUJWR2R6dEhGaGtibWY5bnRrMFpnRVRlb2hEazc0ekVOQjBVMkY4RVQ1U1pMYWNYdFdKQTN5a2tRM0hfeGVTNXJVeW1talprVGRjRllJZ0xxQzVtV09ZZmpDcGZIU3U3X2VZMXZCcWZDYXBGY2FrUkY1NXlwblRTamJpeHA4Rl9yOUJ6RlU2QkZXSm1PV2dBRF9vSjd5eTBjRTZmLUFBdlpCclVya2Zfdw?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Taiwan Semiconductor Stock (TSM) Looks Too Cheap for Its Growth Outlook - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSHZ4N0lvQl9kcTU2ZlRNbUdrQkl5bUR6Y3Q2YkxMZXFDWWUyeE9rMWhkWEdRUkd3clA5MjE0aGFkZFAzRnNLVFE5SThEeWJYUWZudEd3SGh5SFFwdDF4Qk9HZWw0dTRzYWoyQmxvc3psN3dWRW4wQ2c2Ml9kbkQ1cEhJaDBidUh1VDN5T3hIRXIyTmZ6TThDVW1LR0pEZ1FoTEVZ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Tech Stocks Boosted by Cybersecurity Rally - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLTRtOGhqWkZmcVhtaUlHYW1INGxOOE1zOC14aU9ja2lUajZ4c2lnNXRybk5Vb0NjSzNHM2drMjk5WVJfWnVpRUVsS24yNE90RUpZY09BalZZZG1hOXBiUURQNGY2eFlwR0tCdy1hRGRVVXRVMXAyeXN3ZDFlVHhfd29FYkJZMHI5eHI3bDNWTQ?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "The 2027-28 Budget: California’s Fiscal Outlook - Legislative Analyst’s Office (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtRXFsSU5ZS1BfYktLckJIcFBLOXh0OGhIZVg3NVlEQV9YQ3kwcDBEVm14Y3pxaHY3eEtIZmNsOGlHY1hwMmlDSUdOUWdNQjRBM29LdWlB?oc=5",
+        "press": "Legislative Analyst’s Office (.gov)"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "South Korea's KOSPI Plunges 46% From Peak, Third-Worst Drawdown on Record, Sparking Bottom-Calling Debate - BigGo Financ",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1WNTNfS3RlVVNqNmJaNU1xdEdSY0lkS0pvSUNqMURxcngwOThkNjlNY3VBYTZtS2JYRHlKM1hJR3F5NmJxaFY0Ti1EQzh4S21WOHdzUDJNMnMxZ0F6WnI4T1FyRm45LWZrTnpXdVVlQW4tRWlhZFE?oc=5",
+        "press": "BigGo Finance"
+      },
+      {
+        "title": "There May Be Underlying Issues With The Quality Of HK's (KOSDAQ:044780) Earnings - Simply Wall St",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZFlJTnBQdVlCb3pIakRFX0JFRHY1SFFQem9KendvT0xFUFJKSEZuRTBKLVRoOWpMOXV0QkQ3QUloTmhOWks2NGw4aTU0aXZiOUpFQm5sQzVTbm9nNEZLMDFpeE1QMV9VbVFjdDF4QW16djlac3RKTVBuWXVmUEplZzRVSWVscF9NeGtiMEk3c1NtU25yaUVqX0pyTFVHMEJkRHFTTzNlWTVnZktOT0wyMGdjVk9oUHAyUFB4ckZVNUFPWEkyNWfSAcsBQVVfeXFMT1F2SWpOaXZRQjZidV84RnQyVU9SdE1LZmx0aUFIdXpkQWNUUENpcUpHNXY5SDYtTVR2UU9xdEZ5cXlhQ2pkeWFSREoyajVqdlBWLUpUN2NhQklsNUtTT3lldUZtODY1RWRIMUdzZDEwdjFubF9rXzdoaEllNHdVakNmdDR6MnpnLXdXQ1gyTHI1TFF0TXZnSG9maUxONDlqMDU0cEJlQXVZLWZUaHlrTUNCeWZSUkZfRC1nbXNQMEV2TUZTX3lrMzlIZ00?oc=5",
+        "press": "Simply Wall St"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
