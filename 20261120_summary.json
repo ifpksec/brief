@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "generated_at": "2026-11-19T23:32:07.137827+00:00",
+    "run_date": "20261120"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 10,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 103.92,
+      "change": 0.06,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 5.05,
+      "change": -0.28,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 28.44,
+      "change": 15.8,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7175.83,
+      "change": -2.02,
+      "insight": "전일종가 7323.63 / 변동 -147.7998",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 26517.05,
+      "change": -2.21,
+      "insight": "전일종가 27116.26 / 변동 -599.2090",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 49097.06,
+      "change": -2.19,
+      "insight": "전일종가 50198.17 / 변동 -1101.1133",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1335.08,
+      "change": 0.16,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.71,
+      "change": 0.13,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "원/달러 환율 1335원대, 외국인 자금 유출 우려 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "글로벌 증시 급락 여파로 국내 시장 변동성 확대 전망",
+      "tag": "Bearish"
+    },
+    {
+      "point": "네이버, 엔비디아 협력으로 AI 경쟁력 강화 기대감",
+      "tag": "Bullish"
+    },
+    {
+      "point": "코스닥 소형주 실적 부진, 섹터 로테이션 필요성 대두",
+      "tag": "Neutral"
+    },
+    {
+      "point": "EWY 거래량 증가, 외국인 한국 시장 관심 지속",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "VIX 28.44로 급등, 시장 공포 심리 극단적 수준",
+      "tag": "Bearish"
+    },
+    {
+      "point": "S&P500 2%대 급락, 기술주 중심 매도세 강화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "Anthropic IPO 성공, AI 밸류에이션 재평가 촉발",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미국 10년물 금리 5.05%, 고금리 부담 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "반도체주 급락, 캐시우드 매도 등 기관 이탈 신호",
+      "tag": "Bearish"
+    },
+    {
+      "point": "옵션 GEX 음수, 딜러 숏감마로 변동성 확대 가능성",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "네이버 이해진 의장, 엔비디아 지원으로 구글·마이크로소프트와 경쟁 가능할까?",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oNWJ3b201VFd1MFN1dzlXRWpmRTBfbnhfR3pZZWdIYTdYQ2RjamM3UC1fSVZkNDFYZTJyY0E5MlVIMGFYdm5BRmQ4aVN3QkJPTkJ3Q21tQWRfLVYwcklZSHdGdkpWQ0VuOGRlaVczTUJ1ZUZrLUZ3SmlCMnk5dkk?oc=5",
+      "press": "Observer",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "TLB(코스닥:356860) 실적, 투자자의 관심을 받을 가치가 있는가?",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTDZ3QWFfQ3pSVEdpdnoyQ2ZFcHZMeEM3eUczdF9hbnlEWkVtQTVaVk85d1lkcGJuMm1HbVVvbFRaTmVKZExJQ2JqYUNHdFNacDZhR0NpVHBnVGFjS2ZZVTRZZ3hwNkdPOHgwOWNlTnZnY2RBbnVNZWdhSE5XNVFJRmh3bldkQU1OU1IxTWEtSDYxTVJNSlhsVVphcXA1WkZFTlZHemFQZ1ROWU16OFltZWkzSkZ4MnloZy1Tb9IBwgFBVV95cUxQR19mV01uQm93eTRpcXVMbURKc0NHclB1aU9HMXJDUnVoNm90NWNNQ29nVjBUaTJ2eHd5bTB1ay1xSmJQQzV0MnpIaWd5Z2RkUDNtS0ZzTDYySTZLZnFrV1VfN2FkQTBPS3poY001c0o5S052RUl4TVR0ZDQ1c3E5bGducVgxN0pkNzdyTTVxNHRfNUR1anBNRk9kak9mejZSNjc0ZlhxWFVzTnpUcXZQdlprNEsyLVhtQWUybHdrc1VYQQ?oc=5",
+      "press": "Simply Wall St",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "Anthropic, 사상 최대 810억 달러 조달로 IPO 시작, 1.5조 달러 밸류에이션",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYmJBc3JzY0NwYkFWVWFEbGtLUTlvYTRHeFdVUlhTTUhhNFp6TzNIS1ZhejNINXk3ekxNc2lwNklyaXRDNWt3NjJkRldjZkpsTmNDSVYyNHNOTG1FRjBtOFZYelV6b3d1YXk5NmM0LW5RZUp1UHVHLU5FNVgzNlZQX2ZxUmpfTkhpYVBEYm5ZclBZUlk4dEJfYm95SF9aaFV1ZVAtclZZbVJnVE1Sd0xmN21ZLU9uSFh1Si1KRUhfRzhHVGJhT0VYQlEzNmg?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "Anthropic, AI 역사적 순간에 1.8조 달러 시가총액으로 데뷔 마감",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14U2NHa0M5c3U5aU1rSFlveXQ5SU04X0Jjb29RdVBJeXJ4OVQzRl9zVkMzNVN6SVJZREJYOVJycWVia2hlamstS3FGbDZnY293TTZTUnZGSVJBY1IyUlhWejUwZUp2c3lVbFJsZVFabVMxMDhtNUHSAXtBVV95cUxPYjZZVENYd3lLenZiVHE3azkwQXo1ejJvU2doaVMtSThZckRKTTNCU1pPdXJUWGdhRDdCaTNaczRTanF1VUczcUt3THIteXB3VFdkM0JzSUJfZ3UzNVpRQi1NSS1SajdaMkxwdk1nanhCaFdJZ3VzUGxhSUE?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "Anthropic의 블록버스터 데뷔, 월가의 AI 붐에 대한 신뢰 시험",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmU0cXVPRUhwcDZpRkRudEI3bjNfMllQVEN3M09VWFNmQUJTck1UUE9mVERRbmFicElZMWxKVnd3UWpTNGY3R1JiZ0NnRnNBRHhLMkxkVC1vUWVOVzQ3NzcwMkoycTR0MC1LUnBfdUIyWl9OZE5xYnlVVmQ5bzdVZmdnVHFjUjh6dHZrbVVQdEFPaDNCUC1KSkZEMUlhcU9OeWFiWi10SGwxNTBpNE16aTd1MA?oc=5",
+      "press": "Reuters",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "캐시 우드, 급락하는 반도체 주식 8500만 달러 매도",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOakpoMHJneFQ0N2dxLVZEd01Ub0JDQmtMM21wMUwzM0t4NS1aRUVySmRVVnpTYUhyekMzT0RsOGFWN0dXSmg1eERaenRkY2hyRkppODVOQThoUzZpcW84VXl6UjB3WHY5ZUNPcU1SRkVjbDZ2V0g2c1FvdTAxcFhvdDhPNHhsOWZZWnJ5OG1ZUnFfT1Nmb2U1TVh0ODFiUlF0eFRDeExSUGVydElUVU05dk5yeEdMdDR4TVJnbQ?oc=5",
+      "press": "TheStreet",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "이 급락한 반도체 주식은 2027년에 급등할 수 있다",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN0NzUjVYU2FjcGJBUDYya3dyRlZrLU1TUWZjQ2VwUlp5S3AxdlFHZXpWMHg3OGlNWjY4QU9KNEFhY3NHcXRwbzR0WGNhekc3blQ1ZzVpTTlQa3k0c184dW5XUGlFbTdZNVd4QUZCSndyRVdZVEs4aTJEZXo3NXBfMFVyTXFlM2lkRElHRWRmaHJ2dkFRMDlRLVJ6bzlEalEwSWow?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "기술주가 베어마켓인가? 20개 기술주, 고점 대비 최대 76% 하락",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdGtrQkhNbWdkZzV5OU1tRnNaWnd4QW9IbjJxenV5VF9XMUR4RzZvZW04WHI2Rkk1MkZPMzBxVHViV2UwOXh3NGtQMEV4U1Z6TDR5SmhrNkcza1pTV2xMNEhvMUxyejQ4emxXb0hRYm10LWZOZU1wOTZfak5wS0JNNHhUTDBrR1BSOXpXTnFCZW5LSk0?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "Anthropic의 블록버스터 IPO가 말하는 AI 불안",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ1VWdzFqQUxkZEVPdE1DTTIySlhnMVpWTENVQmQ4TDJWdWVjWFFMTVE2ZWREdkp4TEIzSmNlQUtSVlF1YW1jZjhkM2owQjlLUUl2Qy1iTUlLeFhSc0ZuLUNUeXJBODhDLXZsX2FWNnlPYVJhUE54cmlFdnJfT3Z2ZnhTQjFPOEVVWmZCSW1wS25peTdUQkc4T2E4aDc?oc=5",
+      "press": "NBC News",
+      "source": "international"
+    }
+  ]
+}
