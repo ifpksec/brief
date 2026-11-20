@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "generated_at": "2026-11-20T23:32:19.376560+00:00",
+    "run_date": "20261121"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 12,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 103.84,
+      "change": -0.06,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.91,
+      "change": -2.77,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 35.89,
+      "change": 26.2,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 6910.39,
+      "change": -3.7,
+      "insight": "전일종가 7175.83 / 변동 -265.4399",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 25028.98,
+      "change": -5.61,
+      "insight": "전일종가 26517.05 / 변동 -1488.0684",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 48147.33,
+      "change": -1.93,
+      "insight": "전일종가 49097.06 / 변동 -949.7305",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1346.13,
+      "change": 1.18,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 158.51,
+      "change": -0.55,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "EWY ETF 8.42% 급락, 거래량 2.3배 폭증",
+      "tag": "Bearish"
+    },
+    {
+      "point": "원/달러 환율 1346원 돌파, 1.18% 상승",
+      "tag": "Bearish"
+    },
+    {
+      "point": "글로벌 AI 랠리 붕괴로 국내 반도체주 동반 약세",
+      "tag": "Bearish"
+    },
+    {
+      "point": "외국인 자금 이탈 가속화, 수급 악화 우려",
+      "tag": "Bearish"
+    },
+    {
+      "point": "국내 시장 데이터 부재로 개별 종목 분석 불가",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "나스닥 5.61% 급락, 2026년 상승분 전액 소멸",
+      "tag": "Bearish"
+    },
+    {
+      "point": "S&P500, 다우 조정 구간 진입, AI 매도세 확대",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VIX 35.89로 26.2% 급등, 공포지수 극단적 공포",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미국 10년물 금리 4.91%로 2.77% 하락",
+      "tag": "Bullish"
+    },
+    {
+      "point": "반도체주 2001년 이후 최악의 2개월 기록",
+      "tag": "Bearish"
+    },
+    {
+      "point": "SPY 풋 우세, GEX -218억 달러 하방 압력",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "S&P 500과 다우 조정 마감, 나스닥 AI 매도세로 2026년 상승분 소멸",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tY1RiS3BadWcwVVMwU2oteTAzRVdyVEpSeUwtUGJOU3RZV3BmOEJQRmtrT25udndSRVUxRDVpSkRCLUdCS2lDc3dTRm9Ja19qNzh3MlNXVDVDM0UwQXItVWgyMUJnaV9xY2RlWEJmbnBCWWE1ZEdz0gF8QVVfeXFMUDFCSzhsWkpPUEpfV1BiOTNJUkJCbGNwaFVlUmtCcm42WTNmaXF6RVdpbnNwcWJOV1V6QWRtSjVMdFBuLU5kSmFwM0Q5S0ZQOVdPdVVlMGh3dVQyQnAtY0lXcU9xbjN0NE5pYUU1MEM5cU1WN25lc3pYUmpJaQ?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "나스닥, 앤트로픽 IPO에도 AI 우려 불식 못해 연간 상승분 소멸",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mdllsNUVFYnVqeDVsNWpGX1U5ckw2RURWWUc0ZDdaWksyYzF0c3JJUjAxaHRCbFR2a3F6R1RsLVhSRjBoTngtZWNSRHVybWd4cUN0STB2VWhQSDVtZTBIVG9jMFp0WHBrSGpydlhNTWI?oc=5",
+      "press": "CNN",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "반도체주, 2001년 이후 최악의 두 달 기록 - 엔비디아 등",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORjVQNkUwT1ljUzdNeTFEdHhLenN4WUUzT2tYbHplVG5abDRUWmJEbGVKRXc1TG1yVlJuZUptVTUxT0xSeTdnSFZmRGhTSzNvUzZaLS0yT0h4c2ozR2V0bkFZZ21mTF9MQ09FakY1N094RXFPOUlIbUFBM3VmZlpqdTQtUzlHQ1NocU82XzE3T0JmYVU1Z1hKQlltaE91eFR2b2Fid1l6eXJOS1Q0QmtRZ3Jra2ZxSUF4OElyMVJ1VG41enlNaTFoZTU5NFpEc1FKMWltcEtxZnA2TnRSQ2hnVQ?oc=5",
+      "press": "Benzinga",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "주요 경제학자, 주식시장 변동성 지속 전망",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVFdEaEdLLUJySXhmbnVXWUZlc092MWREc1JDRlBnbk1wUklRWVRBWUIySjc2U1FPZlZPbU5CZDB6Um1ScXlpbEk5QXB5LUQ0OVlUVnlKOHotRUV6QzBhYXRKQjF5azRlYWQyU2VDUzdZOFhvUWZDUEdUN18wLWRuNHdNSnR3My1la0ZKb1JMeGhXbWI1NHd6NVVtOW9oOUlndklRN1JqazFrd1FOVlhpd1JCOUVHN05lTnlRRlBnTjdaOHFLU19OWg?oc=5",
+      "press": "CNN",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "주식 하락 6가지 이유와 대응 전략",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vQ0QxcUZmN2EzM2oyLTlDX2lUeUVoazlHb2dDa3FlRlJueDJhMm5UV0pENHhuTXlBY29PU3d0RGFGcTVIaDB0TTI2eTk5Nkd4dDB4d0JDUDhNWXQzREtMcmloaHpURDlVdWZsM0FB?oc=5",
+      "press": "CBS News",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "AI 매도세로 2026년 주식 전망 어두워지는 예측 시장",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCODBxU1BOWDlQazNIZ0E1Zy03ajAxMG53RVVWRC1HVUpGeVVMWWFRd2hyUGZPb1R6UGg2V0ZGRUZkTEdubmxsMU92bnR3VFpGSmlTU3VzS2hkdl96NVlyX3lSYWxUZ2ZhemJsdUpUM1dtMUZ3MjFnTFdtMNIBgAFBVV95cUxNTURqUmZMVXJpQXpJejVMY2N6NldfZjlwUFhVMWtPSDRhYkRoQTY3NXIwVkZZMmFLcllLc2ZKSVRvTFh2VERyd0J5N3pyRHMxQ0ZLMzFsUXB3U3Ftamo3UlQ0bkFSXzdSOUtGUl9XUmxya01hNDlwdlEwcnNSY1JMVQ?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    }
+  ]
+}
