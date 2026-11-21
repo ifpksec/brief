@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "generated_at": "2026-11-21T23:31:58.361774+00:00",
+    "run_date": "20261122"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 103.81 (-0.09%)",
+        "description": "전일종가 103.90 / 변동 -0.0900"
+      },
+      {
+        "title": "미국 10년물 금리: 4.91 (-2.77%)",
+        "description": "전일종가 5.05 / 변동 -0.1400"
+      },
+      {
+        "title": "VIX 변동성지수: 35.89 (+26.20%)",
+        "description": "전일종가 28.44 / 변동 +7.4500"
+      },
+      {
+        "title": "S&P 500: 6910.39 (-3.70%)",
+        "description": "전일종가 7175.83 / 변동 -265.4399"
+      },
+      {
+        "title": "나스닥100: 25028.98 (-5.61%)",
+        "description": "전일종가 26517.05 / 변동 -1488.0703"
+      },
+      {
+        "title": "다우존스: 48147.33 (-1.93%)",
+        "description": "전일종가 49097.06 / 변동 -949.7305"
+      },
+      {
+        "title": "USD/KRW: 1334.79 (+0.33%)",
+        "description": "전일종가 1330.40 / 변동 +4.3900"
+      },
+      {
+        "title": "USD/JPY: 159.71 (+0.20%)",
+        "description": "전일종가 159.38 / 변동 +0.3260"
+      },
+      {
+        "title": "코스피: 4869.96 (-5.21%)",
+        "description": "전일종가 5137.89 / 변동 -267.9302"
+      },
+      {
+        "title": "코스닥: 645.68 (-5.71%)",
+        "description": "전일종가 684.81 / 변동 -39.1300"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.399 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.74 | GEX +nanB$ (만기:2026-11-23)",
+        "description": "콜OI 153,393 / 풋OI 113,381 → 콜 우세(상방기대) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.18 | GEX +nanB$ (만기:2026-11-23)",
+        "description": "콜OI 77,971 / 풋OI 91,895 → 균형 | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $123.26 (-8.42%)",
+        "description": "거래량 32,288,500주 (평균대비 2.3x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $693.71 (-3.52%)",
+        "description": "거래량 11,083,800주 (평균대비 2.5x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 46.0% (92/200종목)",
+        "description": "평균 MA 대비 위치: -3.3%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 12/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "The AI bust is a growing threat to China's economy and a 'moment of real danger' for President Xi Jinping, analyst warns",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZG5tbmx0N1dqVUw3NEtYNF9DU21hdXZNMlIzX21VV1ZrTG5wNWNlT0V2VVhhOFBsUjdHMFFaZW1sQVg1b2xZeWlodm1tREVoWTluTHhZWnMzVUl6a2JqcE5nblpZS1hlSjZRS2ZqNV95OFBTa05wUlpWMWJrUmlnTDhHazRXWEpHZW5yV1hPWGx4a21XYnZV?oc=5",
+        "press": "Fortune"
+      },
+      {
+        "title": "Tesla (TSLA) Stock Looks Richly Priced After Its 47% Three Year Run - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTWt3eEtra0lSYWhpVW9JSlNKWmFnUUdJc2J1dXZOQUZHU25vRHJtdUNIVkNOaGtPVEIydC0tcUJBeWdHRzR2Z0lOVzFkYVNlc09TaTZaTFI3a0w0eEFGV2N3T01IRGZScHFIbG42R202QlRWMUEzY0VZOXpBcGp5b3JxRFFGR0JUVlo3YWRrUzJDY0VzaHZZMXFn?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Best Semiconductor Stocks to Buy: Micron vs. Intel - The Motley Fool",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMTZmbGxvODJoTE5OelFmOTNxMVh0TjVLejY2c3N3NHo2NjdYMFVHdjV3alJmR2ZxTU5XQnZ2RDZoSjhwQ2lrWUQyV1dlRHgwTlZzY2oyVC1SN1NKVWV5YXA3UkdoQ0NYdHlqNXgzTE83Ui1OU2VOOTU3ZzZiNTJmZWtidVByck5HX1k1Y3NwdUdiRkd5aVE?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "What just happened to tech stocks? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMU1BS09sWFhaUnRtWlBmMm41cFl0QW1nWXBmNFp2SURMaUdQblMteV9yZEd5NVNCcnlfNXU4Nkl1bGNBdXR6TkU3WHp0Y0hlOVR3N0c4V25Dcy1FaVVZOUVrMFZJTGFVVWRjNWo1cXY4Z2E3MFlCdGl6b2I2Q21MMWN4NWFQRThEU2h2aVctRVpucnph?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Shopify vs. Uber Technologies: Which Technology Stock Is a Better Buy? - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTmVKbGY2R1lvUW9nTDFzaW1MMmRIV2s1b3lnY3E1TmxYSHdZQk5RbDI1T2VVWjAzZjRjaUlLZy1aVUdydndpSzBkZFhUc2owa3daZjlUcU02d2ROY1FUcmpjNE5RS3lDOGlHLXkyakwwemtCSFhVOWZCTWd2MVVCWnhrT0hnUTN1RnNMQ2VJWnRLX2d5SG9zVTNUV284N0t5alFtRGRiOA?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "T-Bills Are Beating the Nasdaq, S&P 500 and Dow This Year - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2o5MjhzNnF2Q05WQTZCSjBkU01IZk5hMFRROVhmd2RrSmlsUGtqMW14aDZkZDB4aEEwM2J1V1NvSjcwNTlwYWYyd2E0SkFSZkNZNU51XzdPZkdtOUR2NWkyQ2NnM3gzc0dDOVlFTHF1YjBfMjhjWTlJODNvTS1iSWt0ZlJyeEh2dnZ6SmZNbDk0VnBs?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "In the Last Tech Bust, the S&P 500 Lost Money for a Decade. History Says Stocks With the Highest Yields Gained 5.4% a Ye",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV3RVMk54M0ZDTHJ6bXhfSV96UFViZTBfZ3lUVFJaY0JaMW1NWkxvTVY0NDRuTkwtTUZDNlU5eFZ6RWlXdGJTeXphME9CRGlfaWpCUDdpa21sSEJjYVhETndJaEphNVRaSUoxR0RfQ3B2aFBzTVhxRGdjNHBROGwtbVZfS2ZLaGVzWS0zZm9n?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "The S&P 500 Is Having the Longest Losing Streak Since February 2020 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXlnUG0teks0T3R5dU5xTFo2NjYtNFRsbkU3TmdtS18zT3lCcENEdFk3alVwT1ViRWtsNHpjUHRaSnFIMHFncEpXMmtQRTNGS0xNNGpqakYwYmdZTVpudmpYWTRpZlN5Z2w2cEpnX2xSZHR4QjJ2MHBwTXZaLUY5V2RHT3BkdXFTeC1VSVcwRGVuWDlPTXM0?oc=5",
+        "press": "Yahoo Finance"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "FIBERPRO's (KOSDAQ:368770) Earnings Are Weaker Than They Seem - Simply Wall St",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbzlMb2Ntdk9qdW9DQXUzUGdmeG1sUkJ5bGsybEdRbzNVRzZRX2FfVDk3QnAxbFQ4V2RqOEkxVXE4RUZGWS05SXkzOHAwVE9ITi1iNHBpQWhRdkV3M3ZZMzU3QXY2NW4wczZBLTVBZlVsb3RDSTFUZ2tSMWhVUmJpeWxWX2loNEVvRjlWaVBlMW5QWkJ1LWlDSEtYNHkxdkJCRGVsTDFoSXdEcEpnYS1PcXR1c3NQVU93VkZzMnNfOFRlc1NkcTFPZThR0gHPAUFVX3lxTE1QUWhDYUd0bWI0amRVeV9yWm1yM3c1R0x6LVhfQkRzb21JUm0tZGtyZEVuTTFTNDk1MnZ6QkwwcjI4RnlGNllXRnFVSVF5YXVsX09kUlh4RW9tdWpJSHg3c1ZJZjhVR09NUW80ek5NRjRFdmY4WlYtUHlla2RGZG92RzBBcnBfVDhTZS1fZEg4ZmJlT3BKUURZYWVtbXIycDBwalpyWnNzU0phYUJqSDUwV3hHMDB1UnJ4bmlQLVFPYnF3VkF3Q1VzTkVTMFJEWQ?oc=5",
+        "press": "Simply Wall St"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}

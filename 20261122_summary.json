@@ -1,0 +1,185 @@
+{
+  "meta": {
+    "generated_at": "2026-11-21T23:31:58.363124+00:00",
+    "run_date": "20261122"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 12,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 103.81,
+      "change": -0.09,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.91,
+      "change": -2.77,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 35.89,
+      "change": 26.2,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 6910.39,
+      "change": -3.7,
+      "insight": "전일종가 7175.83 / 변동 -265.4399",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 25028.98,
+      "change": -5.61,
+      "insight": "전일종가 26517.05 / 변동 -1488.0703",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 48147.33,
+      "change": -1.93,
+      "insight": "전일종가 49097.06 / 변동 -949.7305",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1334.79,
+      "change": 0.33,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.71,
+      "change": 0.2,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "EWY 거래량 2.3배 폭증, 외국인 매도세 가속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "원/달러 환율 1334원대, 원화 약세 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "글로벌 리스크오프로 국내 증시 동반 하락",
+      "tag": "Bearish"
+    },
+    {
+      "point": "코스닥 개별주 실적 부진 우려 확산",
+      "tag": "Bearish"
+    },
+    {
+      "point": "시장 심리 극단적 공포, 역발상 매수 기회 탐색",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "VIX 35.89로 급등, 변동성 확대 국면 진입",
+      "tag": "Bearish"
+    },
+    {
+      "point": "나스닥 -5.61% 급락, 기술주 매도세 집중",
+      "tag": "Bearish"
+    },
+    {
+      "point": "S&P500 50일선 하회 종목 54%, 약세장 신호",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미국 10년물 금리 4.91%, 고금리 부담 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "T-Bill 수익률 우위, 현금 선호 심리 강화",
+      "tag": "Neutral"
+    },
+    {
+      "point": "딜러 숏감마 상태, 변동성 확대 리스크 상존",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "FIBERPRO 실적, 표면보다 부진 - Simply Wall St",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbzlMb2Ntdk9qdW9DQXUzUGdmeG1sUkJ5bGsybEdRbzNVRzZRX2FfVDk3QnAxbFQ4V2RqOEkxVXE4RUZGWS05SXkzOHAwVE9ITi1iNHRpQWhRdkV3M3ZZMzU3QXY2NW4wczZBLTVBZlVsb3RDSTFUZ2tSMWhVUmJpeWxWX2loNEVvRjlWaVBlMW5QWkJ1LWlDSEtYNHkxdkJCRGVsTDFoSXdEcEpnYS1PcXR1c3NQVU93VkZzMnNfOFRlc1NkcTFPZThR0gHPAUFVX3lxTE1QUWhDYUd0bWI0amRVeV9yWm1yM3c1R0x6LVhfQkRzb21JUm0tZGtyZEVuTTFTNDk1MnZ6QkwwcjI4RnlGNllXRnFVSVF5YXVsX09kUlh4RW9tdWpJSHg3c1ZJZjhVR09NUW80ek5NRjRFdmY4WlYtUHlla2RGZG92RzBBcnBfVDhTZS1fZEg4ZmJlT3BKUURZYWVtbXIycDBwalpyWnNzU0phYUJqSDUwV3hHMDB1UnJ4bmlQLVFPYnF3VkF3Q1VzTkVTMFJEWQ?oc=5",
+      "press": "Simply Wall St",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "AI 붐 붕괴, 중국 경제 위협 및 시진핑 대통령에게 '진정한 위험의 순간'",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZG5tbmx0N1dqVUw3NEtYNF9DU21hdXZNMlIzX21VV1ZrTG5wNWNlT0V2VVhhOFBsUjdHMFFaZW1sQVg1b2xZeWlodm1tREVoWTluTHhZWnMzVUl6a2JqcE5nblpZS1hlSjZRS2ZqNV95OFBTa05wUlpWMWJrUmlnTDhHazRXWEpHZW5yV1hPWGx4a21XYnZV?oc=5",
+      "press": "Fortune",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "기술주에 무슨 일이 있었나?",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMU1BS09sWFhaUnRtWlBmMm41cFl0QW1nWXBmNFp2SURMaUdQblMteV9yZEd5NVNCcnlfNXU4Nkl1bGNBdXR6TkU3WHp0Y0hlOVR3N0c4V25Dcy1FaVVZOUVrMFZJTGFVVWRjNWo1cXY4Z2E3MFlCdGl6b2I2Q21MMWN4NWFQRThEU2h2aVctRVpucnph?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "T-Bill, 올해 나스닥·S&P 500·다우를 수익률로 제압",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY2o5MjhzNnF2Q05WQTZCSjBkU01IZk5hMFRROVhmd2RrSmlsUGtqMW14aDZkZDB4aEEwM2J1V1NvSjcwNTlwYWYyd2E0SkFSZkNZNU51XzdPZkdtOUR2NWkyQ2NnM3gzc0dDOVlFTHF1YjBfMjhjWTlJODNvTS1iSWt0ZlJyeEh2dnZ6SmZNbDk0VnBs?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "지난 기술 붐 당시 S&P 500, 10년간 손실. 고배당주가 연 5.4% 상승",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNV3RVMk54M0ZDTHJ6bXhfSV96UFViZTBfZ3lUVFJaY0JaMW1NWkxvTVY0NDRuTkwtTUZDNlU5eFZ6RWlXdGJTeXphME9CRGlfaWpCUDdpa21sSEJjYVhETndJaEphNVRaSUoxR0RfQ3B2aFBzTVhxRGdjNHBROGwtbVZfS2ZLaGVzWS0zZm9n?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "테슬라, 3년간 47% 상승 후 고평가 우려 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTWt3eEtra0lSYWhpVW9JSlNKWmFnUUdJc2J1dXZOQUZHU25vRHJtdUNIVkNOaGtPVEIydC0tcUJBeWdHRzR2Z0lOVzFkYVNlc09TaTZaTFI3a0w0eEFGV2N3T01IRGZScHFIbG42R202QlRWMUEzY0VZOXpBcGp5b3JxRFFGR0JUVlo3YWRrUzJDY0VzaHZZMXFn?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "최고의 반도체 주식: 마이크론 vs 인텔 - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMTZmbGxvODJoTE5OelFmOTNxMVh0TjVLejY2c3N3NHo2NjdYMFVHdjV3alJmR2ZxTU5XQnZ2RDZoSjhwQ2lrWUQyV1dlRHgwTlZzY2oyVC1SN1NKVWV5YXA3UkdoQ0NYdHlqNXgzTE83Ui1OU2VOOTU3ZzZiNTJmZWtidVByck5HX1k1Y3NwdUdiRkd5aVE?oc=5",
+      "press": "The Motley Fool",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "Shopify vs Uber: 어떤 기술주가 더 나은 매수 대상인가?",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTmVKbGY2R1lvUW9nTDFzaW1MMmRIV2s1b3lnY3E1TmxYSHdZQk5RbDI1T2VVWjAzZjRjaUlLZy1aVUdydndpSzBkZFhUc2owa3daZjlUcU02d2ROY1FUcmpjNE5RS3lDOGlHLXkyakwwemtCSFhVOWZCTWd2MVVCWnhrT0hnUTN1RnNMQ2VJWnRLX2d5SG9zVTNUV284N0t5alFtRGRiOA?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    }
+  ]
+}
