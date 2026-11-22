@@ -1,0 +1,196 @@
+{
+  "meta": {
+    "generated_at": "2026-11-22T23:32:25.141771+00:00",
+    "run_date": "20261123"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 11,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 103.82,
+      "change": 0.0,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.91,
+      "change": -2.77,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 35.89,
+      "change": 26.2,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 6910.39,
+      "change": -3.7,
+      "insight": "전일종가 7175.83 / 변동 -265.4399",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 25028.98,
+      "change": -5.61,
+      "insight": "전일종가 26517.05 / 변동 -1488.0703",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 48147.33,
+      "change": -1.93,
+      "insight": "전일종가 49097.06 / 변동 -949.7305",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1345.17,
+      "change": 0.78,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.71,
+      "change": 0.2,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "코스피 급락에 2008년 이후 미사용 시장안정펀드 가동 준비",
+      "tag": "Bearish"
+    },
+    {
+      "point": "한국은행, 기준금리 3.25% 인상 전망으로 시장 긴장감 고조",
+      "tag": "Bearish"
+    },
+    {
+      "point": "EWY 거래량 2.3배 폭증, 외국인 매도세로 주가 8.42% 급락",
+      "tag": "Bearish"
+    },
+    {
+      "point": "원/달러 환율 1345원 돌파, 위험자산 회피 심리 확산",
+      "tag": "Bearish"
+    },
+    {
+      "point": "글로벌 기술주 폭락 여파로 국내 증시 동반 하락 압력",
+      "tag": "Bearish"
+    },
+    {
+      "point": "피제트, 네이버로 자동차 쇼핑 채널 확장해 디지털 전환 가속",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "나스닥100 5.61% 급락, 베어마켓 진입 임박 우려",
+      "tag": "Bearish"
+    },
+    {
+      "point": "VIX 35.89로 26% 급등, 시장 변동성 극단적 확대",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 11로 극단적 공포, 역발상 매수 시점 검토",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미국 10년물 금리 4.91%로 하락, 안전자산 선호 지속",
+      "tag": "Neutral"
+    },
+    {
+      "point": "S&P500 50일 이동평균 하회 종목 54%, 시장 약세 확인",
+      "tag": "Bearish"
+    },
+    {
+      "point": "SPY 콜 우세에도 딜러 숏감마로 변동성 확대 리스크",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "Seoul readies a market fund unused since 2008 after the Kospi sinks",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSC1tR0RZN05Rb05IZUJwUjZQMFhabnVGZk1VNVp4WEhfcXd5czZTZlM5OE10UDVlemx3RFAwZ2lLLWxCYng4MjlBbTlNVkpobkdGS2ltMDBwOTdwVUR2T3NsVDVaNm9UNFl3N2ItMUtuMVVHd2tXekZ3d1YtaTlFWElvNlE0ZzUxT3F1allMQW5pUkJUQno2NGNJU3ZrZlhKdVNPSnFPbDJWYUpVeGdoR3l1ak0?oc=5",
+      "press": "investingLive",
+      "source": "domestic"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "Bank of Korea Set for 3.25% Rate Hike",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTWQwX0oyaHdCek1TalEtZU9NVVJRckV1bTRwaTR5a1ltME9OMXRYTV9VbHF1WEpjQzJYMWw5d2xaSENqNVJjSUVqRXhDNW5lV2ZKWkx1ckpmOEN0YlhPb1l4M2g5SEVIcVozTWhCUGppWUlzeXl2czFTYkhQZWpvQW5LMXBtQVFGM2dvdzNR?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "Peugeot moves car shopping to Naver",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQckRSNDVRSDByQ21qSGVFV1VGbWMzeTZobGRsejhtUDdKZ2l2ZXctb3JxWXdhMGZpeU0xN2NLWmxJVDNfcHNLQXV5THFicFEyRzJuWWkyR2Q4NDcxUEpHMktweHVtWEpXSE1jaEJJTk1KRWlJM2RoR0xkZV9KekFYR0dDZU5pbnMwQmpGeGhOQkFsdmx0ekdN0gGcAUFVX3lxTE4tZHlEWlJfYmlWXzREMGJoTEZrZ3FicjNLdy1VMDNZZVRTTnEySW53M25Wb0tTa2RMbllTQ2VyWG45NDdBMUJNRnFrNmZwV3k2T3hVdWpoaGp0TGxQV0ZnQnBMWVBHVGU3SFhHWG5idDhrSnBkM0R5RE5hdW9hODktb0g3RXdWQ3pSTW1zV3Uwb0duV3FuRTlKYVN0TA?oc=5",
+      "press": "The Korea Times",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "시장·기타",
+      "title": "기술주 폭락 후 주가 선물 반등하며 짧은 주간 시작",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55Qzd6R1BVMkNsU2hwVWc4OElya24tNzEwcjFjd1NyVkczM2dDTHk2WnNzdkxlR2huZW1IcTgtMDBTUVU3WWxZNW1PeFQyaHgwdGl3LTlaVjV1cEtWa0JSQmNuQ3hnQmViVG5XYndIVEFaRFVEUzJ30gF8QVVfeXFMTWJnbFVGZ0NXUU1Xb04xRi1tMnlKazVMVWxSOUpYSWtBV2dHVHZycUpyUk1XX24zQ2o4bHFEVDEyaklmcktGaTFvMHlualhDckJrZ25tMDB5VnEzbTRYQmhEOThhNDZSWWtMSDYya2ZHckRQLUtEZGl0Tmp2TQ?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "기술주 주도 폭락 후 추가 변동성에 대비하는 트레이더들",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeURSVWpyQXZjLW5UcndZVDJPQnE0NDU2UllUMUI5S29qcFJlWDg1empEbThycVphd2p3dmxJTUJJckZVQXBhaGlmT0JaNkh3SFZHRG5HNHl5ckpheVAzU3JHQldJVGQ2cl9RVWw4Wk96RXNiN0d1dW5iQ1RETTMxRnJVS2tnNFRwOVJkdjhxRHd5ZmJRNkoxaEtUcGNiSmdXRWxtYjRrM2RVcVREUXJneFZMcw?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "나스닥 100 베어마켓 임박, 디프 바이어들은 관망",
+      "url": "https://news.google.com/rss/articles/CBMitgFVX3lxTE1MTzVHWm5yM0RORnR3UHNvUTRPV0dXSmlBMnJTYmFIaFFSbzQ1dFFsdVRMc1o4RXRPNUg2cHIxdmk5N1p4Z2dYRUotX0FNdHdWTzJCSFlpdTkwbE9lTVlVcEg0X1VtN1NicV9CVWxrTHdHOWs?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "야르데니, S&P 500 목표가 재차 하향, 베어마켓은 비현실적",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcThLY0szV3pPS2IxUHRPYm5NSDNZU25MRWJYZkplcU43YjhEb2JSRm5kdmR2ZWYyN2pDMzhOb2RjUUdiMjFBbFZRMDlDNTZVZDRjYWluVmQ3WElhaFVMNkwzZUxGQ2dBSEI2MU4yTlZ2NDFacEdtUUF2aUYyZm9RZl9JSnBvd2Y2UFhpSmdsNDBSRFUtVDJ5ejJSSXZ3cTAwbEtfYzJFR1ZmWGFYQTBrZTNnUQ?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "지난주 피비린내 나는 폭락 후 주가 선물 반등",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE04VWxtM0ZWSE4tdFNiQTdEcEw1S1N6c256cjQ3YUZxb0YwV29RUEttYWNRZGdOQjRmSzhLU0dfa3JGZGpRSFgtZElWVnFOb2h3RkhpUU05Uc2I2LTF1ZjNjZUViV1daME1McDRhR1h3RnBaTkgyQU9JQk1n?oc=5",
+      "press": "Barron's",
+      "source": "international"
+    },
+    {
+      "category": "부동산·유동성",
+      "title": "2027년 모든 에이전트가 이해해야 할 4가지 부동산 시장",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MTzVHWm5yM0RORnR3UHNvUTRPV0dXSmlBMnJTYmFIaFFSbzQ1dFFsdVRMc1o4RXRPNUg2cHIxdmk5N1p4Z2dYRUotX0FNdHdWTzJCSFlpdTkwbE9lTVlVcEg0X1VtN1NicV9CVWxrTHdHOWs?oc=5",
+      "press": "Inman Real Estate News",
+      "source": "international"
+    }
+  ]
+}
