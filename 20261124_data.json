@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "generated_at": "2026-11-23T23:32:16.332392+00:00",
+    "run_date": "20261124"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 104.32 (+0.49%)",
+        "description": "전일종가 103.81 / 변동 +0.5070"
+      },
+      {
+        "title": "미국 10년물 금리: 4.92 (+0.12%)",
+        "description": "전일종가 4.91 / 변동 +0.0060"
+      },
+      {
+        "title": "VIX 변동성지수: 26.62 (-25.83%)",
+        "description": "전일종가 35.89 / 변동 -9.2700"
+      },
+      {
+        "title": "S&P 500: 7237.17 (+4.73%)",
+        "description": "전일종가 6910.39 / 변동 +326.7798"
+      },
+      {
+        "title": "나스닥100: 26746.10 (+6.86%)",
+        "description": "전일종가 25028.98 / 변동 +1717.1152"
+      },
+      {
+        "title": "다우존스: 49595.31 (+3.01%)",
+        "description": "전일종가 48147.33 / 변동 +1447.9805"
+      },
+      {
+        "title": "USD/KRW: 1341.34 (+0.49%)",
+        "description": "전일종가 1334.79 / 변동 +6.5499"
+      },
+      {
+        "title": "USD/JPY: 158.99 (-0.45%)",
+        "description": "전일종가 159.71 / 변동 -0.7150"
+      },
+      {
+        "title": "코스피: 4869.96 (-5.21%)",
+        "description": "전일종가 5137.89 / 변동 -267.9302"
+      },
+      {
+        "title": "코스닥: 645.68 (-5.71%)",
+        "description": "전일종가 684.81 / 변동 -39.1300"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.349 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.97 | GEX +1.9B$ (만기:2026-11-23)",
+        "description": "콜OI 289,769 / 풋OI 280,515 → 균형 | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 1.05 | GEX +1.2B$ (만기:2026-11-23)",
+        "description": "콜OI 173,640 / 풋OI 181,869 → 균형 | 딜러 롱감마(시장안정화)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $135.72 (+10.11%)",
+        "description": "거래량 29,882,681주 (평균대비 1.6x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $725.49 (+4.58%)",
+        "description": "거래량 10,620,071주 (평균대비 1.7x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 54.5% (109/200종목)",
+        "description": "평균 MA 대비 위치: -1.1%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 11/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Dow soars 1,400 points; Nasdaq surges 6% in its best day since April 2025 as Jensen Huang returns to Nvidia - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55Qzd6R1BVMkNsU2hwVWc4OElya24tNzEwcjFjd1NyVkczM2dDTHk2WnNzdkxlR2huZW1IcTgtMDBTUVU3WWxZNW1PeFQyaHgwdGl3LTlaVjV1cEtWa0JSQmNuQ3hnQmViVG5XYndIVEFaRFVEUzJ30gF8QVVfeXFMTWJnbFVGZ0NXUU1Xb04xRi1tMnlKazVMVWxSOUpYSWtBV2dHVHZycUpyUk1XX24zQ2o4bHFEVDEyaklmcktGaTFvMHlualhDckJrZ25tMDB5VnEzbTRYQmhEOThhNDZSWWtMSDYya2ZHckRQLUtEZGl0Tmp2TQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Asian Stocks to Rally as Huang’s Return Revives AI: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVBVLTBQYkhINGhEXzM0b3k1ZjV2b25YWmVNMzFuVl9EbkhNWlV1OUtGVVk4YTRLV01lMFZXRGpDLURZVkVJZy15MkZQNUZxYnRhQV9pLXFRQl9EaHlzemVJTmFUQ1VhTUxNUXd0bGxwZm4yLUJMVXdPeHJ2OWdDSkFOTml2a3NRM3VWcThHWGpJVDNi?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Stock Market Today: The Nasdaq’s 6.5% Gain Is a Red Flag - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ITmE4aTB0bTVqYlpVRGhNSzl2SE05elNuOTRuXzhnV0dxYXpDUFkxNnJhLUtFVDFRSU1vSzNJLU5ZdzlYaldFUEp5Nm44Z1hsQmJQSXRmSTg5Y1lwWlQ0Wi1aeVNYcDRwckFMZ1VLZ1d3MUNFQVE?oc=5",
+        "press": "Barron's"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq surge as Jensen Huang's reinstatement at Nvidia sparks stunning rally - Yahoo F",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcTlIWVNCVDhHdjFYY0tuLXl4NG1oRWwzTndTRWhLTkhXRi1iZF95My1vbGRiYXlTaFllTExWWmtkb0t4YlpfVGdqRk9wZld6clh3TW9ucEpPdGM2cVpVd0FkWEVFRUxCWWVQVExlZ3VtVFpoMnl4WkVUMTRwWDQyQ0J6cU9DaS1TcE5uVmJyMl9hcDNxMmNCM0ZfeGdTRGhCSzg1NmdsWVQwLU01X3ZaX3dNMnI3dkNDaFVTMnoxNnZRX1EzTXZvd0FIVlNWbmdMMVlqRk9xbUV1eVdXc1ZBVW11QmhnZUE?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Dow soars 1,400 points; Nasdaq surges 6% in its best day since April 2025 as Jensen Huang returns to Nvidia - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55Qzd6R1BVMkNsU2hwVWc4OElya24tNzEwcjFjd1NyVkczM2dDTHk2WnNzdkxlR2huZW1IcTgtMDBTUVU3WWxZNW1PeFQyaHgwdGl3LTlaVjV1cEtWa0JSQmNuQ3hnQmViVG5XYndIVEFaRFVEUzJ30gF8QVVfeXFMTWJnbFVGZ0NXUU1Xb04xRi1tMnlKazVMVWxSOUpYSWtBV2dHVHZycUpyUk1XX24zQ2o4bHFEVDEyaklmcktGaTFvMHlualhDckJrZ25tMDB5VnEzbTRYQmhEOThhNDZSWWtMSDYya2ZHckRQLUtEZGl0Tmp2TQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stocks Soar as Huang’s Nvidia Return Fuels AI Bets: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFVRM2J2cTZ6eU02Qzk1TF83UmhsSEN3SlpHYjJuc2lDeXBVM0h6WkN2bEJCUlk5RnZNOFMta05FOXFqeTZQQWZnbFl2RG1WTWVNSXYwVWhZRFZxRkx6SDlhTWtUWk92UVBJa2FGWVk3ak9rOUVJYjZ6RDBqcUZCOEpiWmFVWGxvVmM1Y2prdDk2N19EZG0xWjU3aFV5QkJ6MjF4eExGSkd3TWxaWGRBVzhB?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "SOXX Heads For Biggest Single-Day Gain in Over 18 Months As Semiconductor, AI Stocks Rebound Sharply - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaDNfSHZwX0pOSjFfN0s5V25uNFk4OUdMMmhKVHprczlNSDByZkVnNHZSRTNOOHpGR2N6dzJQN29felhPNDVMMTg5LXlzbEFsd1BDVWRFUWwtZ0ppNTZFbUZmUnRERDIxTnRfUUtqQkg1MkZjWUVrdGxaR2M0ZGt1bVFOU1FuUThhaDNZN1NEYnVFeGNzb180Y2l3?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Taiwan Semiconductor Rallies 17% as Jensen Huang's Return to NVIDIA Lifts Chip Stocks; Intel Surges 15%, AMD Jumps 8% - ",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPY3NBa1ZIRXJyUHFCWERaWWxiTGFoRW53aGY2Q1pqUzZQNmpiVGpQdG00T2hzVWpQNEN4Q0JBYlRja3FvdWhKaHpxVjVxQjRfQnlwRmc1Tm0tMFVVQjVNTzUzM29rbTlwWE5DZDNRYWM3aHQ0NkNzbGhIUExDa1F3MnhibXEwWEc3RzhUUzNIUkYtV1haWGtfYWdzNnlpaHFLU3dQS1R1dDZKVUx1SC1GczJ5UnMyTVF6alEyblVtdmIwdldnQjhIc01OaDgycmpQQ0pNQlBGaVRmWHJMS1ExemxsdFFVNkpLVEZn?oc=5",
+        "press": "24/7 Wall St."
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Seers joins KOSDAQ 150 and expands in UAE as earnings falter - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVEVJUVhzczJDeF9uNUFSNHJYR1hUMDBqTU83bmJnUEc3a05iMERhS2RYZEZIR0ZvQ1Juci1vMzU0RXhoUC1iR3pIZ3J6clE0Ykt2YlZSeWtHTDhiOGJVQTNodHBDNXVkTXV6NkhadUxHUEZBN0JRb2syZDJGNHpLQ9IBlAFBVV95cUxOWXJJd3c1a3dmdjRIa24wZm5ZVnpNb0g4Tm5mXzlEa3JMWnpKTWVhQ09TSkhtcGlyT1dhOXJUWWVzc292MkV3eExIY3hmVmdkaVFSNXp4cVFEYTdxUVBta1lFbF9YMk9oRXg2NncxT01hN3UwRE45QXlTSVZYYll1OUVWX0NDU2VUTjVfS1V1dnZrYlRx?oc=5",
+        "press": "Chosunbiz"
+      },
+      {
+        "title": "At ₩8,000, Is COTS Technology Co., Ltd. (KOSDAQ:448710) Worth Looking At Closely? - Simply Wall St",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMnY5OF8zU1o0Y1lRSnU3dW5aTjlzTXRvOWQ2N3VHTmxaREFOYWgxZ01mTkdnUU9zN2RjM1loVXE0WUJwQ011bEFTclFFNEQ2Z1gxd2NPWjJUcFU1OE52QUY0SUVpV08wZGkxMmttOXJpUUYtVVVWaHlmTHJib3Y2azgxVlp5NnRZcWUwYmFRcUppUU5pVngtbFc4X0F2RTgxTXNhR0drWlJiUk5QcW5TY0t2Wm5MN0pYeE9ieEQwUHFoT1VpS0I0QmpBMHRtUy1LVGF3VnBqY9IB3AFBVV95cUxPeU9zSE04Q0NmVUtONzlJblZ2M0huZXY5M2daeTlXTHpfREt6VGlCTEt0MC1JSllVbi1XSFNQdHVSQV9rN0VhZENCT21weXVhWjhtNXMxYzZzRm9uMkFWcml4NHFWOUxoMU02bU5ROEx1ZEotaHdoTldKMzk0cTZpdk52OC1NMUN0WEc1amlGTTZET3pKSWxBQnREYWRJWjFpMEZHeFJoVnltUjZxUlZqSmRMQmtmOGdSQjBYbGdadEcxdFMzcERFOWZiSW0tUXFxLW96dDB2UUkzUGoz?oc=5",
+        "press": "Simply Wall St"
+      },
+      {
+        "title": "Nvidia Soars 31.5% on Jensen Huang's Return, SK hynix Up 20% - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbm5vQmJVMXRuRnpJbTc5MVF2ZDN0R3hadWtvSVFwMmY3eGtsQTJXN3BJMDhGMjJLU1Y1OWtDR3hmZkZtSHJGNi1oNDRYT0sxYWhpNGM3Vm5kejNTN3B3VTBkUXlCdE9xdUlxcUZCMndqSHpKYW1qZFlEdWt3NW5hRVY4YlYxbndnSFRuSk0yZHA5QUJTTzFOTmNlT2pqdw?oc=5",
+        "press": "Seoul Economic Daily"
+      },
+      {
+        "title": "South Korea's Consumer Sentiment Falls to 7-Month Low on Stock Market Correction; Home Price Expectations Drop for Third",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13VElKV1JqVGVwanEyUjJYNHNUVHM0bmRYX2t1U0xSaWFHQ3VGbzJkWFRIMWVDNFNCZGt5b2F5MDlqSnlsRHlrWGxDYlNTMHVBTGZTR1dIdFlMemlJcDJYams3N01JQXV5NXVuNDU0Mno0dTdmemc?oc=5",
+        "press": "BigGo Finance"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}

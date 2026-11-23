@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "generated_at": "2026-11-23T23:32:16.333178+00:00",
+    "run_date": "20261124"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 11,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 104.32,
+      "change": 0.49,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.92,
+      "change": 0.12,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 26.62,
+      "change": -25.83,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7237.17,
+      "change": 4.73,
+      "insight": "전일종가 6910.39 / 변동 +326.7798",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 26746.1,
+      "change": 6.86,
+      "insight": "전일종가 25028.98 / 변동 +1717.1152",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 49595.31,
+      "change": 3.01,
+      "insight": "전일종가 48147.33 / 변동 +1447.9805",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1341.34,
+      "change": 0.49,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 158.99,
+      "change": -0.45,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bullish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "엔비디아 반등에 SK하이닉스 20% 급등, 반도체 훈풍",
+      "tag": "Bullish"
+    },
+    {
+      "point": "EWY 거래량 1.6배 증가, 외국인 매수세 유입",
+      "tag": "Bullish"
+    },
+    {
+      "point": "소비자심리지수 7개월 최저, 경기 우려 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "원/달러 환율 1341원, 달러 강세로 부담",
+      "tag": "Bearish"
+    },
+    {
+      "point": "코스닥 150 편입 종목 UAE 진출, 실적 부진",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "젠슨 황 복귀로 나스닥 6.86% 급등, AI 랠리",
+      "tag": "Bullish"
+    },
+    {
+      "point": "VIX 26.62로 급락, 공포지수 11 극단적 공포",
+      "tag": "Bullish"
+    },
+    {
+      "point": "달러인덱스 104.32, 강세 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미국 10년물 금리 4.92%, 소폭 상승",
+      "tag": "Neutral"
+    },
+    {
+      "point": "SPY GEX +1.9B$, 딜러 롱감마로 시장 안정",
+      "tag": "Bullish"
+    },
+    {
+      "point": "S&P500 50일MA 상회 54.5%, 약세권",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아 31.5% 급등, 젠슨 황 복귀에 SK하이닉스 20% 상승",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbm5vQmJVMXRuRnpJbTc5MVF2ZDN0R3hadWtvSVFwMmY3eGtsQTJXN3BJMDhGMjJLU1Y1OWtDR3hmZkZtSHJGNi1oNDRYT0sxYWhpNGM3Vm5kejNTN3B3VTBkUXlCdE9xdUlxcUZCMndqSHpKYW1qZFlEdWt3NW5hRVY4YlYxbndnSFRuSk0yZHA5QUJTTzFOTmNlT2pqdw?oc=5",
+      "press": "Seoul Economic Daily",
+      "source": "domestic"
+    },
+    {
+      "category": "부동산·유동성",
+      "title": "주식시장 조정으로 소비자심리지수 7개월 최저, 집값 전망 3개월 연속 하락",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE13VElKV1JqVGVwanEyUjJYNHNUVHM0bmRYX2t1U0xSaWFHQ3VGbzJkWFRIMWVDNFNCZGt5b2F5MDlqSnlsRHlrWGxDYlNTMHVBTGZTR1dIdFlMemlJcDJYams3N01JQXV5NXVuNDU0Mno0dTdmemc?oc=5",
+      "press": "BigGo Finance",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "시어스, 코스닥 150 편입 및 UAE 진출 확대, 실적 부진 지속",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVEVJUVhzczJDeF9uNUFSNHJYR1hUMDBqTU83bmJnUEc3a05iMERhS2RYZEZIR0ZvQ1Juci1vMzU0RXhoUC1iR3pIZ3J6clE0Ykt2YlZSeWtHTDhiOGJVQTNodHBDNXVkTXV6NkhadUxHUEZBN0JRb2syZDJGNHpLQ9IBlAFBVV95cUxOWXJJd3c1a3dmdjRIa24wZm5ZVnpNb0g4Tm5mXzlEa3JMWnpKTWVhQ09TSkhtcGlyT1dhOXJUWWVzc292MkV3eExIY3hmVmdkaVFSNXp4cVFEYTdxUVBta1lFbF9YMk9oRXg2NncxT01hN3UwRE45QXlTSVZYYll1OUVWX0NDU2VUTjVfS1V1dnZrYlRx?oc=5",
+      "press": "Chosunbiz",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "8,000원대 COTS 테크놀로지, 주목할 만한 가치 재평가",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMnY5OF8zU1o0Y1lRSnU3dW5aTjlzTXRvOWQ2N3VHTmxaREFOYWgxZ01mTkdnUU9zN2RjM1loVXE0WUJwQ011bEFTclFFNEQ2Z1gxd2NPWjJUcFU1OE52QUY0SUVpV08wZGkxMmttOXJpUUYtVVVWaHlmTHJib3Y2azgxVlp5NnRZcWUwYmFRcUppUU5pVngtbFc4X0F2RTgxTXNhR0drWlJiUk5QcW5TY0t2Wm5MN0pYeE9ieEQwUHFoT1VpS0I0QmpBMHRtUy1LVGF3VnBqY9IB3AFBVV95cUxPeU9zSE04Q0NmVUtONzlJblZ2M0huZXY5M2daeTlXTHpfREt6VGlCTEt0MC1JSllVbi1XSFNQdHVSQV9rN0VhZENCT21weXVhWjhtNXMxYzZzRm9uMkFWcml4NHFWOUxoMU02bU5ROEx1ZEotaHdoTldKMzk0cTZpdk52OC1NMUN0WEc1amlGTTZET3pKSWxBQnREYWRJWjFpMEZHeFJoVnltUjZxUlZqSmRMQmtmOGdSQjBYbGdadEcxdFMzcERFOWZiSW0tUXFxLW96dDB2UUkzUGoz?oc=5",
+      "press": "Simply Wall St",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "젠슨 황 복귀로 나스닥 6% 급등, 2025년 4월 이후 최고 상승",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55Qzd6R1BVMkNsU2hwVWc4OElya24tNzEwcjFjd1NyVkczM2dDTHk2WnNzdkxlR2huZW1IcTgtMDBTUVU3WWxZNW1PeFQyaHgwdGl3LTlaVjV1cEtWa0JSQmNuQ3hnQmViVG5XYndIVEFaRFVEUzJ30gF8QVVfeXFMTWJnbFVGZ0NXUU1Xb04xRi1tMnlKazVMVWxSOUpYSWtBV2dHVHZycUpyUk1XX24zQ2o4bHFEVDEyaklmcktGaTFvMHlualhDckJrZ25tMDB5VnEzbTRYQmhEOThhNDZSWWtMSDYya2ZHckRQLUtEZGl0Tmp2TQ?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "황의 복귀로 AI 베팅 재점화, 아시아 주식 랠리 전망",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVVBVLTBQYkhINGhEXzM0b3k1ZjV2b25YWmVNMzFuVl9EbkhNWlV1OUtGVVk4YTRLV01lMFZXRGpDLURZVkVJZy15MkZQNUZxYnRhQV9pLXFRQl9EaHlzemVJTmFUQ1VhTUxNUXd0bGxwZm4yLUJMVXdPeHJ2OWdDSkFOTml2a3NRM3VWcThHWGpJVDNi?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "나스닥 6.5% 상승은 경고 신호, 과열 우려",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ITmE4aTB0bTVqYlpVRGhNSzl2SE05elNuOTRuXzhnV0dxYXpDUFkxNnJhLUtFVDFRSU1vSzNJLU5ZdzlYaldFUEp5Nm44Z1hsQmJQSXRmSTg5Y1lwWlQ0Wi1aeVNYcDRwckFMZ1VLZ1d3MUNFQVE?oc=5",
+      "press": "Barron's",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "젠슨 황 복귀로 엔비디아 스파크, 다우·S&P·나스닥 급등",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcTlIWVNCVDhHdjFYY0tuLXl4NG1oRWwzTndTRWhLTkhXRi1iZF95My1vbGRiYXlTaFllTExWWmtkb0t4YlpfVGdqRk9wZld6clh3TW9ucEpPdGM2cVpVd0FkWEVFRUxCWWVQVExlZ3VtVFpoMnl4WkVUMTRwWDQyQ0J6cU9DaS1TcE5uVmJyMl9hcDNxMmNCM0ZfeGdTRGhCSzg1NmdsWVQwLU01X3ZaX3dNMnI3dkNDaFVTMnoxNnZRX1EzTXZvd0FIVlNWbmdMMVlqRk9xbUV1eVdXc1ZBVW11QmhnZUE?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "황의 엔비디아 복귀로 AI 베팅 강화, 주식 시장 급등",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFVRM2J2cTZ6eU02Qzk1TF83UmhsSEN3SlpHYjJuc2lDeXBVM0h6WkN2bEJCUlk5RnZNOFMta05FOXFqeTZQQWZnbFl2RG1WTWVNSXYwVWhZRFZxRkx6SDlhTWtUWk92UVBJa2FGWVk3ak9rOUVJYjZ6RDBqcUZCOEpiWmFVWGxvVmM1Y2prdDk2N19EZG0xWjU3aFV5QkJ6MjF4eExGSkd3TWxaWGRBVzhB?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "반도체·AI주 급반등, SOXX 18개월 만에 최대 일일 상승",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaDNfSHZwX0pOSjFfN0s5V25uNFk4OUdMMmhKVHprczlNSDByZkVnNHZSRTNOOHpGR2N6dzJQN29felhPNDVMMTg5LXlzbEFsd1BDVWRFUWwtZ0ppNTZFbUZmUnRERDIxTnRfUUtqQkg1MkZjWUVrdGxaR2M0ZGt1bVFOU1FuUThhaDNZN1NEYnVFeGNzb180Y2l3?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    }
+  ]
+}
