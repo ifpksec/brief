@@ -1,0 +1,199 @@
+{
+  "meta": {
+    "generated_at": "2026-11-24T23:32:02.345732+00:00",
+    "run_date": "20261125"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 11,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 103.85,
+      "change": -0.45,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.9,
+      "change": -0.28,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 26.36,
+      "change": -0.98,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7201.09,
+      "change": -0.5,
+      "insight": "전일종가 7237.17 / 변동 -36.0801",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 26214.17,
+      "change": -1.99,
+      "insight": "전일종가 26746.10 / 변동 -531.9316",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 50018.7,
+      "change": 0.85,
+      "insight": "전일종가 49595.31 / 변동 +423.3906",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1341.86,
+      "change": -0.18,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.25,
+      "change": 0.2,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "삼성전자 HBM·로봇·AI 인재 승진으로 기술 경쟁력 강화",
+      "tag": "Bullish"
+    },
+    {
+      "point": "네이버-두나무 딜 관련 지분율 상한제 이슈로 지배구조 변동성",
+      "tag": "Neutral"
+    },
+    {
+      "point": "EWY 거래량 평균 대비 0.8x로 외국인 수급 관망세 지속",
+      "tag": "Neutral"
+    },
+    {
+      "point": "원/달러 환율 1341원대, 글로벌 달러 약세로 소폭 하락",
+      "tag": "Bullish"
+    },
+    {
+      "point": "AI 무역 의구심 재부상, 아시아 증시 전반 약세 전망",
+      "tag": "Bearish"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "나스닥 100 -1.99% 급락, 엔비디아 -6%로 AI 섹터 조정",
+      "tag": "Bearish"
+    },
+    {
+      "point": "공포탐욕지수 11(극단적 공포), 역발상 매수 타이밍 가능성",
+      "tag": "Bullish"
+    },
+    {
+      "point": "QQQ GEX -0.8B$로 딜러 숏감마, 변동성 확대 리스크",
+      "tag": "Bearish"
+    },
+    {
+      "point": "미국 10년물 금리 4.90%, 채권 시장이 조정 신호 전달",
+      "tag": "Neutral"
+    },
+    {
+      "point": "S&P500 50일MA 상회 종목 59%, 시장 내분화 심화",
+      "tag": "Neutral"
+    },
+    {
+      "point": "엔비디아 CEO 복귀에도 기술주 약세, AI 모멘텀 둔화",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "반도체·AI",
+      "title": "삼성전자, HBM·로봇·AI 인재 승진 단행",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUVh1LVJEZDNNMHhMa2g0U3dPQUxyb2swSDRSbkhaZlIzaGpuanJXNVg1TDFsRGRWT0RUV2hDODI3U1V2S1lGOGJ0NlA1dlB4czB3ek5SMGxzQ00xdGVHalZQWTllMEFhTFhacWRYS3NWVUlIN2xhX3BPQkpEdUtoYUFBclZCYUd2?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "네이버-두나무 딜, 지분율 상한제로 지배구조 재편 가능성",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbHNJQ0syVnhSNHI5bmZ0ajJuelRrRU1rMVp0U3ZqTE9DZUYxcFJNR3FsYVhoUHAtWF9YanBYYkFCM2FFZ2l0aTdtTTQtQUdhT3oweUtuQkNNaGdhNFBBQkpCcEs2S1dod2VOUV9sOHlPX0tmblpHcVcyVXl0SVhqMkZxT3hVdklqcHJDVzMtTWx1ZDAyd0s3Rw?oc=5",
+      "press": "Traders Union",
+      "source": "domestic"
+    },
+    {
+      "category": "시장·기타",
+      "title": "센코, 법정 이익 부진 속 전체 그림은 달라",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYWZyLVcxdVV4QlJVSzZPTVN1SmZzcmdSVGZyM3ZJVXlJWXJMQUJtQlB2ME10X29SY1NBTjVvaW5Jd2JnM3A3a2QyNUhvV3oyYjR2cnFHUl9oTUNwSDhiZ0ZQUkM4aWVYam5ZZnJETjVwNnJ2c0huUVV4ZXdoMnNwMld6OF9hNWZyTkVOcTVKUVFrZHFkUlB1WWRiMnluTmpJRDVIUGxfQ2l4TEtSeFBGWnR5S1hnNjZmVGJqN1JPdFJTdUVmOUhMYUZfTDnSAdIBQVVfeXFMT1hfeFJOLUVCMTh3R201bjRLQ0hybTdHTkFJQzRLQWE1OVFjVHAzb093UGNzUDl2Rk1uS0puUFBPN0Q5OWlRdG5OS2xIYTdQQ0FkLWxDSHZ0T09RdElldmxIdHdSSjZmOWdBTnhxZGE3MnBPdGF1ZWFQbVpGMGZtWW5RY08xWG5CTUE3RlluVHhGRzBMWGtxem1PWTM0NWV5cFlKOHNCMFQxZjBfRUM1WkVQMGZkbmk1RGRTbUFiWnZaOTJrNFZYUmlBYTJ0c0dIX1JB?oc=5",
+      "press": "Simply Wall St",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아 -6% 급락, AI 주식 하락으로 미국 시장 압박",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRElscjEtckxzUEhMMWRhYk92WEhnM0E5aFFzYl9PVzIxbGotWTh3bjhrNE9ncTMxdFFyTDFJOTdNLXBuMWgyMEg3TGpKVTZqaXBiQS1JeklvM2xiTXpPTXh5VkNOTkdqNzM3WHhHLWtEOVNQZHZHRWk1RWRWSk1sS1hnZDVkN0dVeEN6ektwTVdfY2xpQWQ1elREX0NiVW13N1VHRzRnaG4zUHNiOFZnMnMtamZhV09NQjMzaTRfUVNiWWNtQUlMOQ?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아 CEO 복귀에도 기술주 하락, AI 모멘텀 둔화",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZnhfQ0JweU54T2w1clZCdFpGRld0NVA5RzFKZXUxb0Q2UlBrYi04Z3lkamZQT1RxYjl5bEVERjB1YzJfa01YcW1PSS1DdTdhRHdwamJEZngxUlhFNExrTTIwVWxtRTlPeFRqVWpDTnMxZEhONm5IRzFJbkxNSldiVnVoYm43Y3QxamlGejRBNHdzTW1UdF9TUFlzUEk4Z0t6eHJrUDhhaVF0Znc?oc=5",
+      "press": "NBC News",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "엔비디아·Anthropic 등 AI 주식 하락, 시장 약세 주도",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGd0M4QW9zNXN0SzNYREM4QWx3WDRhN19uUTV6SnhRM09idzVLMjVEcGxweUxmN1p1ZzdhcjJnamRwMm5McFdHdWhmWTJIemktUTMzTE9oZUtIMmc0eFJTNnNhT2dyT250U0gzUDlEakExR2R4TkpJ?oc=5",
+      "press": "The Boston Globe",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "채권 시장이 보내는 주식 시장 조정 신호",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1dXYzN6Szhsb29qdERBcEpsVXNXMzdFUHFlMDk2R1BqYmNlbVhyMXFSRUFpdlRCNmo0bVNhVUJMMEltakdPN1N0dUdCX01BOWdXRV9XeXhWaGpCdnFZWEhzZzFwMDhWWllMU0t0SGhMNkkyc0t3VmZHbjhKZVhtdVhPUEttaGJtTFVKSTFBdDF4clVIVEVTM01OOUV0MTR6b1NiZkR4cUlVeTJJWEFkV1pmTEFjeTlBd1E?oc=5",
+      "press": "Forbes",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "AI 무역 의구심 재부상, 아시아 주식 하락 전망",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
+      "press": "Bloomberg.com",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "역사적 랠리 후 기술주 재차 하락",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZXlxSS1BVUtJb1k0ZXdNbzVmT05FbjlkNjd0dFExSGdBVkFwYXBvTVJoeGZ3dXdaOUhhOV9aYVMyblZlXzd1STVtdUhXQUZQTEVUU1NwdzlkRzV1ekVDVDFkOHBoUkNIVDFFUXJzVWRLbFpmOS0yckQ2UWM5TmRRSm5LejdvRzA?oc=5",
+      "press": "WSJ",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "나스닥 1.5% 급락, 엔비디아 반등 실패·Anthropic IPO 가격 돌파",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11bVhzTUlmU0hLLW0wRklRekw2eURvelhVMlZ3YThhUm5kNkctUE81eHlyNkRVQkRqTkc1enU3TWZZT0RKY2I1YWNTTmVpaDZkdlJYRGtqYkhFSGViT2NQN1A2MEVxNXEwbkNRMXlaejlRbzhtY2g40gF8QVVfeXFMTzg5Wkp0R2RYWWl3cUFWVjR1MzhPYlcwbzBsTGFFZVN0Z1QybjdvcThKTzBSd2NoOG51TU1JbkpKbUoyaWYtMGVGN2JKMWFkOWc2X3ZFODBBT3VBYkhzTmN3ZXNNTnlfUE5hRlZlM3pEaUgycEtwbWdNNlhuVw?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    }
+  ]
+}

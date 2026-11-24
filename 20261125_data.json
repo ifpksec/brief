@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "generated_at": "2026-11-24T23:32:02.344716+00:00",
+    "run_date": "20261125"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 103.85 (-0.45%)",
+        "description": "전일종가 104.32 / 변동 -0.4720"
+      },
+      {
+        "title": "미국 10년물 금리: 4.90 (-0.28%)",
+        "description": "전일종가 4.92 / 변동 -0.0140"
+      },
+      {
+        "title": "VIX 변동성지수: 26.36 (-0.98%)",
+        "description": "전일종가 26.62 / 변동 -0.2600"
+      },
+      {
+        "title": "S&P 500: 7201.09 (-0.50%)",
+        "description": "전일종가 7237.17 / 변동 -36.0801"
+      },
+      {
+        "title": "나스닥100: 26214.17 (-1.99%)",
+        "description": "전일종가 26746.10 / 변동 -531.9316"
+      },
+      {
+        "title": "다우존스: 50018.70 (+0.85%)",
+        "description": "전일종가 49595.31 / 변동 +423.3906"
+      },
+      {
+        "title": "USD/KRW: 1341.86 (-0.18%)",
+        "description": "전일종가 1344.31 / 변동 -2.4501"
+      },
+      {
+        "title": "USD/JPY: 159.25 (+0.20%)",
+        "description": "전일종가 158.93 / 변동 +0.3200"
+      },
+      {
+        "title": "코스피: 4708.54 (-3.31%)",
+        "description": "전일종가 4869.96 / 변동 -161.4199"
+      },
+      {
+        "title": "코스닥: 635.45 (-1.58%)",
+        "description": "전일종가 645.68 / 변동 -10.2300"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.346 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 1.06 | GEX -0.7B$ (만기:2026-11-24)",
+        "description": "콜OI 214,440 / 풋OI 226,858 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 1.54 | GEX -0.8B$ (만기:2026-11-24)",
+        "description": "콜OI 131,885 / 풋OI 203,066 → 풋 우세(하방압력) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $130.70 (-3.70%)",
+        "description": "거래량 17,704,326주 (평균대비 0.8x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $721.98 (-0.48%)",
+        "description": "거래량 7,117,559주 (평균대비 0.9x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 59.0% (118/200종목)",
+        "description": "평균 MA 대비 위치: -0.5%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 11/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Asian Stocks to Slide as AI Trade Doubts Resurface: Markets Wrap - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWjE4Zm9DOUxVdmFFaTlaQVJMWHFaVEVGVy1JcTNEcEc3bnhET2xfaGNCdFlpbXkwS210Tkx0d3JVUWVzbzA4amhwWU1FWGxLd2E0YUJBY1lOOUNlVmlwNF83b3Bqc2dqaWVMTzUwSGFfYWNJVDZwXzh5TGp5YUZaTzZoa0dZenZfalhyelF0UUZwbllhOEZIbWNGc1V3OHQxWlhfV3ZoeGdKRURCS3dTVEFSRnk?oc=5",
+        "press": "Bloomberg.com"
+      },
+      {
+        "title": "Stock Market Correction What The Bond Market Is Signaling - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1dXYzN6Szhsb29qdERBcEpsVXNXMzdFUHFlMDk2R1BqYmNlbVhyMXFSRUFpdlRCNmo0bVNhVUJMMEltakdPN1N0dUdCX01BOWdXRV9XeXhWaGpCdnFZWEhzZzFwMDhWWllMU0t0SGhMNkkyc0t3VmZHbjhKZVhtdVhPUEttaGJtTFVKSTFBdDF4clVIVEVTM01OOUV0MTR6b1NiZkR4cUlVeTJJWEFkV1pmTEFjeW5Bd1E?oc=5",
+        "press": "Forbes"
+      },
+      {
+        "title": "Stock market today: Dow rises, S&P 500 and Nasdaq decline as chip sector tumbles, Nvidia stock falls 6% - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRElscjEtckxzUEhMMWRhYk92WEhnM0E5aFFzYl9PVzIxbGotWTh3bjhrNE9ncTMxdFFyTDFJOTdNLXBuMWgyMEg3TGpKVTZqaXBiQS1JeklvM2xiTXpPTXh5VkNOTkdqNzM3WHhHLWtEOVNQZHZHRWk1RWRWSk1sS1hnZDVkN0dVeEN6ektwTVdfY2xpQWQ1elREX0NiVW13N1VHRzRnaG4zUHNiOFZnMnMtamZhV09NQjMzaTRfUVNiWWNtQUlMOQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11bVhzTUlmU0hLLW0wRklRekw2eURvelhVMlZ3YThhUm5kNkctUE81eHlyNkRVQkRqTkc1enU3TWZZT0RKY2I1YWNTTmVpaDZkdlJYRGtqYkhFSGViT2NQN1A2MEVxNXEwbkNRMXlaejlRbzhtY2g40gF8QVVfeXFMTzg5Wkp0R2RYWWl3cUFWVjR1MzhPYlcwbzBsTGFFZVN0Z1QybjdvcThKTzBSd2NoOG51TU1JbkpKbUoyaWYtMGVGN2JKMWFkOWc2X3ZFODBBT3VBYkhzTmN3ZXNNTnlfUE5hRlZlM3pEaUgycEtwbWdNNlhuVw?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Drops for Nvidia, Anthropic and other AI stocks drag the US market back down - The Boston Globe",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBGd0M4QW9zNXN0SzNYREM4QWx3WDRhN19uUTV6SnhRM09idzVLMjVEcGxweUxmN1p1ZzdhcjJnamRwMm5McFdHdWhmWTJIemktUTMzTE9oZUtIMmc0eFJTNnNhT2dyT250U0gzUDlEakExR2R4TkpJ?oc=5",
+        "press": "The Boston Globe"
+      },
+      {
+        "title": "Stock Market Today: Tech Stocks Slide Back After Epic Rally - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZXlxSS1BVUtJb1k0ZXdNbzVmT05FbjlkNjd0dFExSGdBVkFwYXBvTVJoeGZ3dXdaOUhhOV9aYVMyblZlXzd1STVtdUhXQUZQTEVUU1NwdzlkRzV1ekVDVDFkOHBoUkNIVDFFUXJzVWRLbFpmOS0yckQ2UWM5TmRRSm5LejdvRzA?oc=5",
+        "press": "WSJ"
+      },
+      {
+        "title": "Tech stocks take a dip as Jensen Huang comes back as Nvidia CEO - NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZnhfQ0JweU54T2w1clZCdFpGRld0NVA5RzFKZXUxb0Q2UlBrYi04Z3lkamZQT1RxYjl5bEVERjB1YzJfa01YcW1PSS1DdTdhRHdwamJEZngxUlhFNExrTTIwVWxtRTlPeFRqVWpDTnMxZEhONm5IRzFJbkxNSldiVnVoYm43Y3QxamlGejRBNHdzTW1UdF9TUFlzUEk4Z0t6eHJrUDhhaVF0Znc?oc=5",
+        "press": "NBC News"
+      },
+      {
+        "title": "Quarterly EU Economic Update: Resilience, Security, and Growth - European External Action Service (EEAS)",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLUNUemQ4Q2xScjZwaFhId3pTUlkteXJoS1M1YWZXemY0MmxmNzY3MUtoQXNsbnNuT0Zyc2Q0T3ZVaVFGeTBLRWZmRkNzNEZLNTloRk95T2RVSzl5a04ybGd1MXFVM3d3N1pKNzBBTGV6eDBEbFRNQUxldmMtRWZIVi0xYjhZc2lvMUZyR0hYREk2TEFmdHFNS1VJXzRzcnVaS3ZHd3RvZlRFWEVDampmakI2bjE2NkotbEhjTlZPbGY?oc=5",
+        "press": "European External Action Service (EEAS)"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Weak Statutory Earnings May Not Tell The Whole Story For Senko (KOSDAQ:347000) - Simply Wall St",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYWZyLVcxdVV4QlJVSzZPTVN1SmZzcmdSVGZyM3ZJVXlJWXJMQUJtQlB2ME10X29SY1NBTjVvaW5Jd2JnM3A3a2QyNUhvV3oyYjR2cnFHUl9oTUNwSDhiZ0ZQUkM4aWVYam5ZZnJETjVwNnJ2c0huUVV4ZXdoMnNwMld6OF9hNWZyTkVOcTVKUVFrZHFkUlB1WWRiMnluTmpJRDVIUGxfQ2l4TEtSeFBGWnR5S1hnNjZmVGJqN1JPdFJTdUVmOUhMYUZfTDnSAdIBQVVfeXFMT1hfeFJOLUVCMTh3R201bjRLQ0hybTdHTkFJQzRLQWE1OVFjVHAzb093UGNzUDl2Rk1uS0puUFBPN0Q5OWlRdG5OS2xIYTdQQ0FkLWxDSHZ0T09RdElldmxIdHdSSjZmOWdBTnhxZGE3MnBPdGF1ZWFQbVpGMGZtWW5RY08xWG5CTUE3ZlluVHhGRzBMWGtxem1PWTM0NWV5cFlKOHNCMFQxZjBfRUM1WkVQMGZkbmk1RGRTbUFiWnZaOTJrNFZYUmlBYTJ0c0dIX1JB?oc=5",
+        "press": "Simply Wall St"
+      },
+      {
+        "title": "Samsung Electronics Promotes HBM, Robotics and AI Talent - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUVh1LVJEZDNNMHhMa2g0U3dPQUxyb2swSDRSbkhaZlIzaGpuanJXNVg1TDFsRGRWT0RUV2hDODI3U1V2S1lGOGJ0NlA1dlB4czB3ek5SMGxzQ00xdGVHalZQWTllMEFhTFhacWRYS3NWVUlIN2xhX3BPQkpEdUtoYUFBclZCYUd2?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "South Korea ownership cap could reshape control rights in Naver's Dunamu deal - Traders Union",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbHNJQ0syVnhSNHI5bmZ0ajJuelRrRU1rMVp0U3ZqTE9DZUYxcFJNR3FsYVhoUHAtWF9YanBYYkFCM2FFZ2l0aTdtTTQtQUdhT3oweUtuQkNNaGdhNFBBQkpCcEs2S1dod2VOUV9sOHlPX0tmblpHcVcyVXl0SVhqMkZxT3hVdklqcHJDVzMtTWx1ZDAyd0s3Rw?oc=5",
+        "press": "Traders Union"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
