@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "generated_at": "2026-11-25T23:31:58.699981+00:00",
+    "run_date": "20261126"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 103.70 (-0.11%)",
+        "description": "전일종가 103.81 / 변동 -0.1140"
+      },
+      {
+        "title": "미국 10년물 금리: 4.85 (-1.14%)",
+        "description": "전일종가 4.90 / 변동 -0.0560"
+      },
+      {
+        "title": "VIX 변동성지수: 28.29 (+7.32%)",
+        "description": "전일종가 26.36 / 변동 +1.9300"
+      },
+      {
+        "title": "S&P 500: 7182.78 (-0.25%)",
+        "description": "전일종가 7201.09 / 변동 -18.3101"
+      },
+      {
+        "title": "나스닥100: 26046.90 (-0.64%)",
+        "description": "전일종가 26214.17 / 변동 -167.2734"
+      },
+      {
+        "title": "다우존스: 50182.95 (+0.33%)",
+        "description": "전일종가 50018.70 / 변동 +164.2500"
+      },
+      {
+        "title": "USD/KRW: 1343.97 (+0.22%)",
+        "description": "전일종가 1341.02 / 변동 +2.9500"
+      },
+      {
+        "title": "USD/JPY: 159.15 (+0.09%)",
+        "description": "전일종가 159.01 / 변동 +0.1390"
+      },
+      {
+        "title": "코스피: 5006.03 (+6.32%)",
+        "description": "전일종가 4708.54 / 변동 +297.4897"
+      },
+      {
+        "title": "코스닥: 665.88 (+4.79%)",
+        "description": "전일종가 635.45 / 변동 +30.4300"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.330 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.73 | GEX +0.0B$ (만기:2026-11-25)",
+        "description": "콜OI 248,412 / 풋OI 181,088 → 콜 우세(상방기대) | 딜러 롱감마(시장안정화)"
+      },
+      {
+        "title": "QQQ PCR 0.91 | GEX -0.3B$ (만기:2026-11-25)",
+        "description": "콜OI 180,032 / 풋OI 163,458 → 균형 | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $129.19 (-1.16%)",
+        "description": "거래량 16,418,595주 (평균대비 0.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $720.01 (-0.27%)",
+        "description": "거래량 8,260,991주 (평균대비 1.0x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 62.0% (124/200종목)",
+        "description": "평균 MA 대비 위치: +0.4%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 13/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Stock market today: Dow erases losses to end positive, S&P 500 and Nasdaq recover ground amid AI sell-off - Yahoo Financ",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUEhyLTdac1NBTVdPT1QyLUJKck4wUUJkNjlXQWFHTG1peDJyeDRqNklFSkVpek9JbmEyQ0gya1R6dGZicmpfbkFIS1BjR3lDeGhFMmpIYU90ajhxZ2lwYW5sLW93TmdZcXR3Q2p3akUxc1JBRVRmbEpVQW5LM3pDaXhNZWx6a0txT19rUTQ3R2xVejJWQkh0TzdSRmlOY0lDa05oNklJOE1fVV9CY1FuRXJMNHJrVG8zQzdTX0pjYmNwanNhd0VJcTVkRQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Jd2QwOVppNGtIY3I5ZXgyVmZKQzJ3SzZvVnVydTJHQnliRXBCR2RiQTBMeXExQU16TnpPQzkwWVl2Q0FKV055NzJBNE4tMGQ0UmlFMFdnQ3o1OG9tR2JNd1Z6Ymk5cGtDVFBxZjJPT19jblIxZ2lwRdIBfkFVX3lxTE5qZGNISDFwMjNGQUoxc3ZlT1JFR1A5Zk1oTmJSX1kxWVFOWUZscTZGTWh2cHdfMW92SzVCbXdBR2o3YWJUVzN2TXhfOUdhSUZpdFNyNXBaUjdseWpuQklwaVgzaUlGdkJqNm54TWEyVTluWVFYVTZVMVptNV9xQQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: Dow erases losses to end positive, S&P 500 and Nasdaq recover ground amid AI sell-off - Yahoo Financ",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUEhyLTdac1NBTVdPT1QyLUJKck4wUUJkNjlXQWFHTG1peDJyeDRqNklFSkVpek9JbmEyQ0gya1R6dGZicmpfbkFIS1BjR3lDeGhFMmpIYU90ajhxZ2lwYW5sLW93TmdZcXR3Q2p3akUxc1JBRVRmbEpVQW5LM3pDaXhNZWx6a0txT19rUTQ3R2xVejJWQkh0TzdSRmlOY0lDa05oNklJOE1fVV9CY1FuRXJMNHJrVG8zQzdTX0pjYmNwanNhd0VJcTVkRQ?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Don’t Let the Bounce Fool You: The Stock Market’s Pain Could Get Way Worse - Barron's",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ReWZPZEprSThyRGplOUZOb1FxVHBzQ0JaMGJaeXlDNFBQaGVZZU0yMW1xTWZmSFJENzlobUlRYlQzMnZZWFhkLVFJX294Q3lxdk05dWt3dHB2M0pncVMxUlJwclNGZkUwNU5kNEEtODUxZw?oc=5",
+        "press": "Barron's"
+      },
+      {
+        "title": "US announces new tariffs of up to 20% on China, the EU, and 12 other nations - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUU1FZDY5UnlETEhNeFdMUGJEOUpJWUh2TTRVU2pYa1NIaWJPZmIxZTVOZ3MyOU1kUmk4RXluQThXd0lnbWJJcGNPbzlLYnFrZHI4R094VnB2UHVCdjFDRmNleVNZT1pxTUJxdzFWdWkzS29senQ0WGRRZmxKcjZ3NThMemZSQzJEX2JxcVRrczF4ZlpHOUt0TGlMSGVPSE1seWo2bXluSjhJME1oa2Ytd0l6N0UxWXB5S3E4X2RaZDV3V2RpbVNicUR3?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market Today: Dow closes higher after big comeback; S&P 500, Nasdaq fall but end well off lows — live update - Mar",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWUoxN04xLTNpMnpwa1d3YkJLT1l0RElYblJUckRXTktsMXpfakMxdXkyd2JfcXdKUTZXWVE0Y1dmWHBDbGlSVTBqWVkxS2ViWUdtX01rU21rYnpBdDFsSWg2UG16UkNCWTJSNWdjbndGcm5LcExsZVNENkptV0tvblRQMTlKTjREaDR6Q3lNeGR3Tm42enlyX0s3ZENmX2ZLMzNrMlprVXotbjdfZXBYRDlVZV8?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Stock Market Today: Dow Swings Into A Win; Anthropic Almost Retakes Its IPO Price - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa3BOYUJqLUNRcGlERTNTUlA1Qzh0cVpVYkZwQm9MMUdXWkpPelA2ZjN2YXJBX2NDTk1GWmdSX2RkdnJNUzhLQm5SYmxTc2hrOG5NTllXMktrUWpYcDA1NUJJRDV4cmF6Ml9VUHNlTWNJLXNONjNSc185LWZSTzRUbEtjeFR1d0htZVN5c2k3WTVPb2d6Sy04RUdHczNoMHN4b1hoRDI1WFNVbGs5ZXhYVnJ6X251MVJo?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
+        "press": "Reuters"
+      }
+    ],
+    "domestic": [],
+    "naver": [],
+    "telegram": []
+  }
+}

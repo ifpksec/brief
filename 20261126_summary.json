@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "generated_at": "2026-11-25T23:31:58.700650+00:00",
+    "run_date": "20261126"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 13,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 103.7,
+      "change": -0.11,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bullish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.85,
+      "change": -1.14,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 28.29,
+      "change": 7.32,
+      "insight": "변동성 급등 — 위험 회피 경보",
+      "tag": "Bearish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7182.78,
+      "change": -0.25,
+      "insight": "전일종가 7201.09 / 변동 -18.3101",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 26046.9,
+      "change": -0.64,
+      "insight": "전일종가 26214.17 / 변동 -167.2734",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 50182.95,
+      "change": 0.33,
+      "insight": "전일종가 50018.70 / 변동 +164.2500",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1343.97,
+      "change": 0.22,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.15,
+      "change": 0.09,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "달러인덱스 소폭 하락, 원·달러 상승세 지속",
+      "tag": "Neutral"
+    },
+    {
+      "point": "미국 10년물 금리 4.85%로 하락, 금리 인하 기대감",
+      "tag": "Neutral"
+    },
+    {
+      "point": "VIX 7% 상승, 변동성 확대와 공포심 고조",
+      "tag": "Neutral"
+    },
+    {
+      "point": "S&P 500·나스닥 하락, AI 매도 영향 지속",
+      "tag": "Neutral"
+    },
+    {
+      "point": "다우 지수 상승, 시장 전반적 혼조 양상",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "달러인덱스 103.70, 전일 대비 -0.11%",
+      "tag": "Neutral"
+    },
+    {
+      "point": "10년물 국채 수익률 4.85%, 전일 대비 -1.14%",
+      "tag": "Neutral"
+    },
+    {
+      "point": "VIX 28.29, 전일 대비 +7.32%, 변동성 급등",
+      "tag": "Neutral"
+    },
+    {
+      "point": "S&P 500 7182.78, -0.25% 하락, AI 매도 영향",
+      "tag": "Neutral"
+    },
+    {
+      "point": "다우 50182.95, +0.33% 상승, 시장 회복 신호",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [],
+  "us_news": [
+    {
+      "category": "시장·기타",
+      "title": "오늘 주식시장: 다우 손실 지우고 상승 마감, S&P 500·나스닥 AI 매도에도 회복",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUEhyLTdac1NBTVdPT1QyLUJKck4wUUJkNjlXQWFHTG1peDJyeDRqNklFSkVpek9JbmEyQ0gya1R6dGZicmpfbkFIS1BjR3lDeGhFMmpIYU90ajhxZ2lwYW5sLW93TmdZcXR3Q2p3akUxc1JBRVRmbEpVQW5LM3pDaXhNZWx6a0txT19rUTQ3R2xVejJWQkh0TzdSRmlOY0lDa05oNklJOE1fVV9CY1FuRXJMNHJrVG8zQzdTX0pjYmNwanNhd0VJcTVkRQ?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "다우 수요일 상승 마감, 1,100포인트 손실을 대폭 회복",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Jd2QwOVppNGtIY3I5ZXgyVmZKQzJ3SzZvVnVydTJHQnliRXBCR2RiQTBMeXExQU16TnpPQzkwWVl2Q0FKV055NzJBNE4tMGQ0UmlFMFdnQ3o1OG9tR2JNd1Z6Ymk5cGtDVFBxZjJPT19jblIxZ2lwRdIBfkFVX3lxTE5qZGNISDFwMjNGQUoxc3ZlT1JFR1A5Zk1oTmJSX1kxWVFOWUZscTZGTWh2cHdfMW92SzVCbXdBR2o3YWJUVzN2TXhfOUdhSUZpdFNyNXBaUjdseWpuQklwaVgzaUlGdkJqNm54TWEyVTluWVFYVTZVMVptNV9xQQ?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "반등에 속지 마라: 주식시장의 고통이 더 악화될 수 있다",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ReWZPZEprSThyRGplOUZOb1FxVHBzQ0JaMGJaeXlDNFBQaGVZZU0yMW1xTWZmSFJENzlobUlRYlQzMnZZWFhkLVFJX294Q3lxdk05dWt3dHB2M0pncVMxUlJwclNGZkUwNU5kNEEtODUxZw?oc=5",
+      "press": "Barron's",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "미국, 중국·EU·12개국에 최대 20% 관세 신규 부과",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUU1FZDY5UnlETEhNeFdMUGJEOUpJWUh2TTRVU2pYa1NIaWJPZmIxZTVOZ3MyOU1kUmk4RXluQThXd0lnbWJJcGNPbzlLYnFrZHI4R094VnB2UHVCdjFDRmNleVNZT1pxTUJxdzFWdWkzS29senQ0WGRRZmxKcjZ3NThMemZSQzJEX2JxcVRrczF4ZlpHOUt0TGlMSGVPSE1seWo2bXluSjhJME1oa2Ytd0l6N0UxWXB5S3E4X2RaZDV3V2RpbVNicUR3?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "오늘 주식시장: 다우 큰 반등 후 상승 마감, S&P·나스닥 하락하지만 저점에서 회복",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWUoxN04xLTNpMnpwa1d3YkJLT1l0RElYblJUckRXTktsMXpfakMxdXkyd2JfcXdKUTZXWVE0Y1dmWHBDbGlSVTBqWVkxS2ViWUdtX01rU21rYnpBdDFsSWg2UG16UkNCWTJSNWdjbndGcm5LcExsZVNENkptV0tvblRQMTlKTjREaDR6Q3lNeGR3Tm42enlyX0s3ZENmX2ZLMzNrMlprVXotbjdfZXBYRDlVZV8?oc=5",
+      "press": "MarketWatch",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "오늘 주식시장: 다우 상승, Anthropic IPO 가격 근접 회복",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa3BOYUJqLUNRcGlERTNTUlA1Qzh0cVpVYkZwQm9MMUdXWkpPelA2ZjN2YXJBX2NDTk1GWmdSX2RkdnJNUzhLQm5SYmxTc2hrOG5NTllXMktrUWpYcDA1NUJJRDV4cmF6Ml9VUHNlTWNJLXNONjNSc185LWZSTzRUbEtjeFR1d0htZVN5c2k3WTVPb2d6Sy04RUdHczNoMHN4b1hoRDI1WFNVbGs5ZXhYVnJ6X251MVJo?oc=5",
+      "press": "Investor's Business Daily",
+      "source": "international"
+    }
+  ]
+}
