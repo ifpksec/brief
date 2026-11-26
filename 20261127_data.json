@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "generated_at": "2026-11-26T23:31:53.029144+00:00",
+    "run_date": "20261127"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 103.78 (+0.10%)",
+        "description": "전일종가 103.67 / 변동 +0.1070"
+      },
+      {
+        "title": "미국 10년물 금리: 4.85 (-1.14%)",
+        "description": "전일종가 4.90 / 변동 -0.0560"
+      },
+      {
+        "title": "VIX 변동성지수: 26.80 (-5.27%)",
+        "description": "전일종가 28.29 / 변동 -1.4900"
+      },
+      {
+        "title": "S&P 500: 7182.78 (-0.25%)",
+        "description": "전일종가 7201.09 / 변동 -18.3101"
+      },
+      {
+        "title": "나스닥100: 26046.90 (-0.64%)",
+        "description": "전일종가 26214.17 / 변동 -167.2695"
+      },
+      {
+        "title": "다우존스: 50182.95 (+0.33%)",
+        "description": "전일종가 50018.70 / 변동 +164.2500"
+      },
+      {
+        "title": "USD/KRW: 1343.61 (+0.07%)",
+        "description": "전일종가 1342.65 / 변동 +0.9600"
+      },
+      {
+        "title": "USD/JPY: 159.27 (+0.00%)",
+        "description": "전일종가 159.26 / 변동 +0.0070"
+      },
+      {
+        "title": "코스피: 4697.51 (-6.16%)",
+        "description": "전일종가 5006.03 / 변동 -308.5200"
+      },
+      {
+        "title": "코스닥: 650.64 (-2.29%)",
+        "description": "전일종가 665.88 / 변동 -15.2400"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.330 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.78 | GEX -0.3B$ (만기:2026-11-27)",
+        "description": "콜OI 477,719 / 풋OI 372,734 → 콜 우세(상방기대) | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 0.90 | GEX -0.4B$ (만기:2026-11-27)",
+        "description": "콜OI 291,537 / 풋OI 263,713 → 균형 | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $129.19 (-1.16%)",
+        "description": "거래량 16,735,200주 (평균대비 0.7x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $720.01 (-0.27%)",
+        "description": "거래량 8,262,800주 (평균대비 1.0x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 62.0% (124/200종목)",
+        "description": "평균 MA 대비 위치: +0.4%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 11/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Semiconductor Sales Will Soar to $2.6 Trillion in 2027. Buy This Top Stock Before It Skyrockets Next Year - The Motley F",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaDhtVUt6cUdlcGc2VlZ6M3RCTXZMUjNqWjdxMWdacUxXaDV4TVpCdWI5UDU5dmRqYTRXR3JZUzIxQmJmZTJETFowRURWUVNJVlFwaUJEQ09Ucmt2cHpCREtBT0YxZTlud2czSmhrMENPUk93SUV1cjNDZ0lYaXhSZWJzUWZ3VVpSZFZoM3JxU3ZlTGZHS2FNQ2VubFM5M2NQdFRUSTJ1UlFOQ1JpUTRBRFlCbXNMTU9EOXBLMHV5dHQybUJCekFlVGxFOVZqS2YybFNVUm9VUzJ6cFFwOXQ3SlIybw?oc=5",
+        "press": "The Motley Fool"
+      },
+      {
+        "title": "Stock futures tick higher as Wall Street gets set to wrap up a volatile holiday week: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jcmRfRzk2ZGwtRmpwS3RZYlhaTHdzQUFsOUFMeWlmdUJoQjlSb2FDUFJyaWtFUGw3VmdQVVJRZTFzbHBybHV0T0xyQlFNUVB4SDlmbWk1V0pEQXcyVmwtenNJWE82dV9VUkVKVGJ3QVRCOXNpSEpr0gF8QVVfeXFMTjFBd1l1a2dUcEE1SjBNRGpXVkJBcVBLdjM3M04zVGJxUnNmVk1qejMxZm1WV0xYdi0tNW4tQ2xHSkpzNjhxZkZ0amRPeldHT2RRai11VlNxUXhWTHhQa3pianhxX0hoWnNMRzVKYXBrR2wwMW16UGc0dlpVbQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Prediction: These 3 Consumer Stocks Will Beat the S&P 500 Over the Next 10 Years - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcWRpVG5Kcmg0NWVIMG5xaEEyZ1p3bjMyX3dXOGR1WnJicWpZZWFPcjRUdExaTU5WbFk3MXRwOHVzMXNqZDNkNUM2QVB5VzlFSW95SEtKZmtmSnJrZURPNDRiLUhIUk56TDdpOUh3eVo3aFlpcWN0LVRuSlRVRGxDVTQxODdQbzlFbG9vN3lnZjE0bEQ0dGxkd1ItdnI5VW8?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "How Apple Avoided the Stock Market Crash With 31% Gains - BeInCrypto",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56MDRwbDVnRVZwbGEybFlQZjZLOEdCNGdRMTBhMlhkY0pNLWJaUnFIWEZlQl8yTmw1aU1GS1BZamY2WTM3YUZyX0RDSVNXVXZpcGtDOFVHNS1BVjlIOGIxb2ZMVUxSQk1ETDFzQU01cw?oc=5",
+        "press": "BeInCrypto"
+      },
+      {
+        "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence - The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVdXdlZuQVpCZWc1LV9iWkZaSm9RWlVsZFFBNVIwdmV6UksxZmlQTEpXUVlVXy14TUNGWURxdmZHZVR2V1BfZG1GRXVjT3hDek0zazlad0VXWGtBc0dDRE5LS2pkeFlpaThKaG5qU0ZkZ2dkaldsMmN1SWRDZnJLSTdyYWdjWHJrZXFuWg?oc=5",
+        "press": "The Guardian"
+      },
+      {
+        "title": "Trump calls GDP figures 'fake' and demands an investigation of Commerce Department - PBS",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOThJWGpuOHRQWWVhVi13cHRBNUdQLVhBWDB3b2pkUDNzNUtGalNhZ2tUaHZoMm5VdXI2dEdMcThKeDRxQ2l6WXR5eWdNd3I1R2tvcTFhNXdmaGNzRkowT04yQjBwSGNpR21yQ2tJdUFNbnZqWWJIUVZ4Q01FcjNXdkh3ejZmcVlLQjFZYUgwcmdQOUxSZVdqQy1JNVZwQ2NOb3hpS3VOazVkcm5lN0F5dFVwSmR4d1J5cnfSAb8BQVVfeXFMUHI1dkFQYlplLWtTN2M3Znp4anRnWFRrN2YtZ2ZSWXZveVRXb3A4NWt5ejRsemVYZGdfaVJKOG80T0tuTFlldjVQOG1LdTh5QnZDbERhSXVsQlVvbmdkdTRrRW1WMFdJZTQtVEl6NkhIcndkVXNTZEpDOXl6TjBrQXpDWWFweUtwZURQUXdBMlotTjJCU0toMzZEdXNITXM2T18teXppczBnWDkweUVSTi0tb25GUFgxb05QWGtXM1U?oc=5",
+        "press": "PBS"
+      },
+      {
+        "title": "Trump calls the pre-election GDP figures 'fake' and demands an investigation of Commerce Department - AP News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWs0NUw0T1MxU0FFajZoSzUzQ2tCblZyZGhDc25mSVpXV0NpczlfWHpwaWdaUEE0T3lFSXdhYl9oUVZ3cTV1ei01aXprNTBoYUJCbG02THdJeGVISENOWjdrVzJpb2pxZEI5aU94VmFCTWU4ckR5MjFjZ2JDMzFibl9WVGZ2Q09PeVo5LXc1WQ?oc=5",
+        "press": "AP News"
+      },
+      {
+        "title": "Trump Uses ‘Happy Thanksgiving’ Post To Blast GDP Numbers And Critics - Forbes",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLUlBNncwU09sMG40eEpQN2VlalpPdjdYbFVUc2g4aHdwNDBJQ21tWFJBOFRzX3hTQ3U5eThxd0V4TW5yMjIzeEJCYmxaeDVxNWNDbVQta01ac21KOUQxRXJUVG5RbW5WeVczRDFRd0t4MXR4SVk5TlZOcW5LMWRLdGpJelVRSXdxVmdlaWpZOEZBcjRaSWloOV9uUm4yVHFoR1lnNjZxSG9EZ2lFV3VnZVMwQjBzRnZUcUt0MF9ZMjdPczg?oc=5",
+        "press": "Forbes"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "While stock trading has lost steam due to the recent plunge in the stock market, short selling has b.. - 매일경제",
+        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxenM5YXNVellUalZHYUZ0VTZwTVlnc1BtTHdOb2hZUkhOU19oVzM2R1hmNzRJdjZIZDZmVkFqd0dTVlpmR0QyNVk2ZWJyT2s?oc=5",
+        "press": "매일경제"
+      },
+      {
+        "title": "Bank of Korea Hikes Base Rate to 3.25% Third Time - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbDI4YnM0NF9rTk5SZEZPMlotTDkzYWRPcE1yQTFvVi1Yam51bFVfZDNEMDJCQXdZbWZ2bWFMVmlySVRTczNweFVDQ1ItYV9pQ1h2ZExTUXpWQXRxalAwZ3h3c3RKaEQ3OF9SRUU0RllTdXRPMnN0eWozREE3MXhoaWtPejlaTjVxeS0xTkhn?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Naver, Kakao Vie for AI-Era UGC Dominance - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzdWcnlLUmZBMm1VTjRpZTlSNzZ4VXNEaEFEbk5vY2FMUDFnTzVHU0hCMGU1bUlPQWRTS1J2bVFtQ3d6Q0lmZ3l6Sld3NUhzUjhCLVN4WjR2S3ltbFBjeFo4WXlGWElFVUFpTjV0cVAtY0UtaS1ReVFoYUEwaHZmUGN4NVZja3A2?oc=5",
+        "press": "조선일보"
+      },
+      {
+        "title": "Bank of Korea Hikes Base Rate to 3.25% Third Time - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbDI4YnM0NF9rTk5SZEZPMlotTDkzYWRPcE1yQTFvVi1Yam51bFVfZDNEMDJCQXdZbWZ2bWFMVmlySVRTczNweFVDQ1ItYV9pQ1h2ZExTUXpWQXRxalAwZ3h3c3RKaEQ3OF9SRUU0RllTdXRPMnN0eWozREE3MXhoaWtPejlaTjVxeS0xTkhn?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}

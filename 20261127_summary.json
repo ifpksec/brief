@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "generated_at": "2026-11-26T23:31:53.029783+00:00",
+    "run_date": "20261127"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 11,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 103.78,
+      "change": 0.1,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.85,
+      "change": -1.14,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bullish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 26.8,
+      "change": -5.27,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7182.78,
+      "change": -0.25,
+      "insight": "전일종가 7201.09 / 변동 -18.3101",
+      "tag": "Bearish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 26046.9,
+      "change": -0.64,
+      "insight": "전일종가 26214.17 / 변동 -167.2695",
+      "tag": "Bearish"
+    },
+    {
+      "name": "다우존스",
+      "value": 50182.95,
+      "change": 0.33,
+      "insight": "전일종가 50018.70 / 변동 +164.2500",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1343.61,
+      "change": 0.07,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bearish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.27,
+      "change": 0.0,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "한은 기준금리 3.25%로 3번째 인상, 긴축 강화",
+      "tag": "Bearish"
+    },
+    {
+      "point": "주식 거래 위축 속 공매도 증가세 지속",
+      "tag": "Bearish"
+    },
+    {
+      "point": "네이버·카카오, AI 시대 UGC 시장 선점 경쟁",
+      "tag": "Bullish"
+    },
+    {
+      "point": "원/달러 환율 1343원대, 약보합세 유지",
+      "tag": "Neutral"
+    },
+    {
+      "point": "EWY 거래량 평균 대비 0.7배, 외국인 매수 관망",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "VIX 26.80으로 하락, 변동성 완화 신호",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미 10년물 금리 4.85%로 하락, 채권 매수세",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 11, 극단적 공포 구간 진입",
+      "tag": "Bearish"
+    },
+    {
+      "point": "SPY GEX -0.3B$, 딜러 숏감마로 변동성 확대",
+      "tag": "Neutral"
+    },
+    {
+      "point": "S&P500 50일MA 상회 종목 62%, 시장 강세 유지",
+      "tag": "Bullish"
+    },
+    {
+      "point": "트럼프, GDP 통계 조작 의혹 제기, 정책 불확실성",
+      "tag": "Bearish"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "매크로·금리",
+      "title": "Bank of Korea Hikes Base Rate to 3.25% Third Time",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbDI4YnM0NF9rTk5SZEZPMlotTDkzYWRPcE1yQTFvVi1Yam51bFVfZDNEMDJCQXdZbWZ2bWFMVmlySVRTczNweFVDQ1ItYV9pQ1h2ZExTUXpWQXRxalAwZ3h3c3RKaEQ3OF9SRUU0RllTdXRPMnN0eWozREE3MXhoaWtPejlaTjVxeS0xTkhn?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    },
+    {
+      "category": "K-증시·수급",
+      "title": "While stock trading has lost steam due to the recent plunge in the stock market, short selling has b..",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxenM5YXNVellUalZHYUZ0VTZwTVlnc1BtTHdOb2hZUkhOU19oVzM2R1hmNzRJdjZIZDZmVkFqd0dTVlpmR0QyNVk2ZWJyT2s?oc=5",
+      "press": "매일경제",
+      "source": "domestic"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "Naver, Kakao Vie for AI-Era UGC Dominance",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzdWcnlLUmZBMm1VTjRpZTlSNzZ4VXNEaEFEbk5vY2FMUDFnTzVHU0hCMGU1bUlPQWRTS1J2bVFtQ3d6Q0lmZ3l6Sld3NUhzUjhCLVN4WjR2S3ltbFBjeFo4WXlGWElFVUFpTjV0cVAtY0UtaS1ReVFoYUEwaHZmUGN4NVZja3A2?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "매크로·금리",
+      "title": "트럼프, 선거 전 GDP 수치 '가짜'라고 주장하며 상무부 조사 요구",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWs0NUw0T1MxU0FFajZoSzUzQ2tCblZyZGhDc25mSVpXV0NpczlfWHpwaWdaUEE0T3lFSXdhYl9oUVZ3cTV1ei01aXprNTBoYUJCbG02THdJeGVISENOWjdrVzJpb2pxZEI5aU94VmFCTWU4ckR5MjFjZ2JDMzFibl9WVGZ2Q09PeVo5LXc1WQ?oc=5",
+      "press": "AP News",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "월스트리트, 변동성 큰 휴가 주간 마무리 앞두고 주가 선물 소폭 상승",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jcmRfRzk2ZGwtRmpwS3RZYlhaTHdzQUFsOUFMeWlmdUJoQjlSb2FDUFJyaWtFUGw3VmdQVVJRZTFzbHBybHV0T0xyQlFNUVB4SDlmbWk1V0pEQXcyVmwtenNJWE82dV9VUkVKVGJ3QVRCOXNpSEpr0gF8QVVfeXFMTjFBd1l1a2dUcEE1SjBNRGpXVkJBcVBLdjM3M04zVGJxUnNmVk1qejMxZm1WV0xYdi0tNW4tQ2xHSkpzNjhxZkZ0amRPeldHT2RRai11VlNxUXhWTHhQa3pianhxX0hoWnNMRzVKYXBrR2wwMW16UGc0dlpVbQ?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "반도체 매출 2027년 2.6조 달러로 급증 전망, 이 종목 매수 추천",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPaDhtVUt6cUdlcGc2VlZ6M3RCTXZMUjNqWjdxMWdacUxXaDV4TVpCdWI5UDU5dmRqYTRXR3JZUzIxQmJmZTJETFowRURWUVNJVlFwaUJEQ09Ucmt2cHpCREtBT0YxZTlud2czSmhrMENPUk93SUV1cjNDZ0lYaXhSZWJzUWZ3VVpSZFZoM3JxU3ZlTGZHS2FNQ2VubFM5M2NQdFRUSTJ1UlFOQ1JpUTRBRFlCbXNMTU9EOXBLMHV5dHQybUJCekFlVGxFOVZqS2YybFNVUm9VUzJ6cFFwOXQ3SlIybw?oc=5",
+      "press": "The Motley Fool",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "애플, 31% 상승으로 주가 폭락 회피 전략 분석",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56MDRwbDVnRVZwbGEybFlQZjZLOEdCNGdRMTBhMlhkY0pNLWJaUnFIWEZlQl8yTmw1aU1GS1BZamY2WTM3YUZyX0RDSVNXVXZpcGtDOFVHNS1BVjlIOGIxb2ZMVUxSQk1ETDFzQU01cw?oc=5",
+      "press": "BeInCrypto",
+      "source": "international"
+    },
+    {
+      "category": "시장·기타",
+      "title": "향후 10년간 S&P 500을 이길 3가지 소비재 주식 예측",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcWRpVG5Kcmg0NWVIMG5xaEEyZ1p3bjMyX3dXOGR1WnJicWpZZWFPcjRUdExaTU5WbFk3MXRwOHVzMXNqZDNkNUM2QVB5VzlFSW95SEtKZmtmSnJrZURPNDRiLUhIUk56TDdpOUh3eVo3aFlpcWN0LVRuSlRVRGxDVTQxODdQbzlFbG9vN3lnZjE0bEQ0dGxkd1ItdnI5VW8?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "트럼프, 미국 중간선거 전 발표된 경제 수치 '가짜'라고 주장",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZVdXdlZuQVpCZWc1LV9iWkZaSm9RWlVsZFFBNVIwdmV6UksxZmlQTEpXUVlVXy14TUNGWURxdmZHZVR2V1BfZG1GRXVjT3hDek0zazlad0VXWGtBc0dDRE5LS2pkeFlpaThKaG5qU0ZkZ2dkaldsMmN1SWRDZnJLSTdyYWdjWHJrZXFuWg?oc=5",
+      "press": "The Guardian",
+      "source": "international"
+    }
+  ]
+}
