@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "generated_at": "2026-11-27T23:32:13.544884+00:00",
+    "run_date": "20261128"
+  },
+  "market_mood": {
+    "status": "Fear",
+    "score": 12,
+    "label": "매도 우세 — 반등 탐색"
+  },
+  "key_indicators": [
+    {
+      "name": "달러인덱스(DXY)",
+      "value": 104.01,
+      "change": 0.33,
+      "insight": "원화 강세 유도 — 외인 수급 긍정적",
+      "tag": "Bearish"
+    },
+    {
+      "name": "미국 10년물 금리",
+      "value": 4.94,
+      "change": 1.82,
+      "insight": "채권 금리 변동 → 밸류에이션 영향",
+      "tag": "Bearish"
+    },
+    {
+      "name": "VIX 변동성지수",
+      "value": 23.81,
+      "change": -11.16,
+      "insight": "변동성 안정 — 리스크온 환경",
+      "tag": "Bullish"
+    },
+    {
+      "name": "S&P 500",
+      "value": 7297.49,
+      "change": 1.6,
+      "insight": "전일종가 7182.78 / 변동 +114.7104",
+      "tag": "Bullish"
+    },
+    {
+      "name": "나스닥100",
+      "value": 26726.39,
+      "change": 2.61,
+      "insight": "전일종가 26046.90 / 변동 +679.4883",
+      "tag": "Bullish"
+    },
+    {
+      "name": "다우존스",
+      "value": 50774.94,
+      "change": 1.18,
+      "insight": "전일종가 50182.95 / 변동 +591.9922",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/KRW",
+      "value": 1333.0,
+      "change": -0.74,
+      "insight": "원달러 환율 — 약세 시 외인 자금 유입",
+      "tag": "Bullish"
+    },
+    {
+      "name": "USD/JPY",
+      "value": 159.51,
+      "change": 0.19,
+      "insight": "달러엔 환율 — 엔 강세=위험회피 신호",
+      "tag": "Bearish"
+    }
+  ],
+  "cat_labels": {
+    "반도체·AI": "💻 반도체·AI",
+    "매크로·금리": "🏦 매크로·금리",
+    "K-증시·수급": "🇰🇷 K-증시·수급",
+    "부동산·유동성": "💧 부동산·유동성",
+    "에너지·원자재": "🛢️ 에너지·원자재",
+    "시장·기타": "📋 시장·기타"
+  },
+  "kr_briefing": [
+    {
+      "point": "삼성전자 사상 최대 30조원 배당 발표",
+      "tag": "Bullish"
+    },
+    {
+      "point": "EWY 거래량 0.5x로 외국인 매수세 제한적",
+      "tag": "Neutral"
+    },
+    {
+      "point": "원/달러 환율 1333원, 0.74% 하락",
+      "tag": "Bullish"
+    },
+    {
+      "point": "글로벌 AI 반등에 따른 국내 반도체 수혜 기대",
+      "tag": "Bullish"
+    },
+    {
+      "point": "국내 시장 데이터 부재로 개별 종목 분석 불가",
+      "tag": "Neutral"
+    }
+  ],
+  "us_briefing": [
+    {
+      "point": "S&P500 1.60% 상승, 2022년 이후 최고 주간",
+      "tag": "Bullish"
+    },
+    {
+      "point": "나스닥 2.61% 급등, AI주 반등 주도",
+      "tag": "Bullish"
+    },
+    {
+      "point": "VIX 11.16% 급락, 변동성 완화 국면",
+      "tag": "Bullish"
+    },
+    {
+      "point": "공포탐욕지수 12, 극단적 공포 속 역발상 매수",
+      "tag": "Bullish"
+    },
+    {
+      "point": "미국 10년물 금리 4.94%, 1.82% 상승",
+      "tag": "Bearish"
+    },
+    {
+      "point": "SPY GEX -0.1B$, 딜러 숏감마로 변동성 확대",
+      "tag": "Neutral"
+    }
+  ],
+  "kr_news": [
+    {
+      "category": "K-증시·수급",
+      "title": "삼성전자 사상 최대 30조원 배당",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTGxxM1p1dGVXUXBZSm9paFY5eVQ1YW9ydTNlaWhrZXExa3ZBUHlrQ1lWSEtZbzg5aURmS2wzR1V6SVh3b1k2MENnVldYc2FlLTJTcXpfb2RRaU0xVnBGRnc5Y2VHaTRQWHdMRUdBV3p0QXNMdWRfcUM2QVVOa2pVSVdFX3A4UG9x?oc=5",
+      "press": "조선일보",
+      "source": "domestic"
+    }
+  ],
+  "us_news": [
+    {
+      "category": "시장·기타",
+      "title": "다우 600포인트 급등, 2022년 이후 최고 주간 마감",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jcmRfRzk2ZGwtRmpwS3RZYlhaTHdzQUFsOUFMeWlmdUJoQjlSb2FDUFJyaWtFUGw3VmdQVVJRZTFzbHBybHV0T0xyQlFNUVB4SDlmbWk1V0pEQXcyVmwtenNJWE82dV9VUkVKVGJ3QVRCOXNpSEpr0gF8QVVfeXFMTjFBd1l1a2dUcEE1SjBNRGpXVkJBcVBLdjM3M04zVGJxUnNmVk1qejMxZm1WV0xYdi0tNW4tQ2xHSkpzNjhxZkZ0amRPeldHT2RRai11VlNxUXhWTHhQa3pianhxX0hoWnNMRzVKYXBrR2wwMW16UGc0dlpVbQ?oc=5",
+      "press": "CNBC",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "주식시장: AI주 반등으로 휴가 주간 상승 마감",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjdiRzk3dDlWMEFzNF9vYkRKWDZCZjhSU0FsRFZKZVNBT09SbnBBVFhxUGZCM180elZHMVFhbW80eVdqZi1WRG5XbzJXZTUySzVGOXNlVUJfZ2c3NmEydmFhZUJXZUM1NFMzWjIxbDF4OHhPLXVKMkRza0VMLVpoUWF1WDNkdFdwTmw4eU15M01laEJrQy1ra1FtU2piZ096dmpmSGlhdGs3WTRveTZ5aklMUkh1eW5PeHBZUlF0ODU1WE1xN3JnSVJB?oc=5",
+      "press": "Yahoo Finance",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "이 주식의 상승은 시장 건전성에 좌우되지 않았다",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFhaVzlVaUVUV2dRNWtMbGhKNWpyWEEwSGRaQW9hRnRhY1dGWUNKVy1CRnNITTljSmRHaER0WW5WS3dud0E4ZjVBdU5aemNWSWNDcVJ1X2tzYWxCRDE2YlM3UjJFNkFGOFp0R0RBck41QVBTcWJLbGQxSV9TRkpYZHgtMGgwOE9wcF9XNGQ5YThSZGx2YTl5UmRCalZRWE9HdUpDN1huMUk0aGIycHdiY1MzeUIzZw?oc=5",
+      "press": "Investor's Business Daily",
+      "source": "international"
+    },
+    {
+      "category": "반도체·AI",
+      "title": "NXP 반도체, 경쟁사 대비 부진에도 일일 상승",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUk9DbnBrei1CSlRqa2liY0hwUFZmTVhWSnFrV1FqMXFPcXdhU3JqYUtQRkF1SmNFNzNaQmdIVGpJdXp6bndjdjZRZnNEcHdFUHo5SnRUU2d1WWZNeE9uNXhlNElTVGlMa2dwekNCNmhQQ0pzUmlFa2tnY1J4LVFaQ0NGWWNUSzE3cVNGcFM3MDNPZmtUMmlrSEJCbVc1VVdIM3FWREVVd0lDUUNnZ095RWlNbDlYN3NSWjVnU3dsbzlKcEplM05hY0pnSHhyWnZrSEk3ajc0cUtvdTBBOHFRWXFvQ01VdTN6bVJ2R2VwZ193LUhzY2JKZTNyOHRhX2dCenNMM0V5WQ?oc=5",
+      "press": "MarketWatch",
+      "source": "international"
+    },
+    {
+      "category": "매크로·금리",
+      "title": "주식시장 뉴스 - 채권시장 - 통화시장",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WSk1SMEVJUWVGN1RIVTEtSThObVFxbkFHTE9ySmdyRUx4NjJMNWsta3lOaFBOVFF5eUEtN0lVaXc5QlFiTEdiQVZYSQ?oc=5",
+      "press": "MarketWatch",
+      "source": "international"
+    }
+  ]
+}

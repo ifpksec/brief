@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "generated_at": "2026-11-27T23:32:13.544133+00:00",
+    "run_date": "20261128"
+  },
+  "market": {
+    "domestic": [],
+    "overseas": [],
+    "forex_rates": [],
+    "funds": [],
+    "program": [],
+    "gainers": [],
+    "traders": [],
+    "investor_trends": []
+  },
+  "macro": {
+    "global": [
+      {
+        "title": "달러인덱스(DXY): 104.01 (+0.33%)",
+        "description": "전일종가 103.67 / 변동 +0.3440"
+      },
+      {
+        "title": "미국 10년물 금리: 4.94 (+1.82%)",
+        "description": "전일종가 4.85 / 변동 +0.0880"
+      },
+      {
+        "title": "VIX 변동성지수: 23.81 (-11.16%)",
+        "description": "전일종가 26.80 / 변동 -2.9900"
+      },
+      {
+        "title": "S&P 500: 7297.49 (+1.60%)",
+        "description": "전일종가 7182.78 / 변동 +114.7104"
+      },
+      {
+        "title": "나스닥100: 26726.39 (+2.61%)",
+        "description": "전일종가 26046.90 / 변동 +679.4883"
+      },
+      {
+        "title": "다우존스: 50774.94 (+1.18%)",
+        "description": "전일종가 50182.95 / 변동 +591.9922"
+      },
+      {
+        "title": "USD/KRW: 1333.00 (-0.74%)",
+        "description": "전일종가 1342.97 / 변동 -9.9700"
+      },
+      {
+        "title": "USD/JPY: 159.51 (+0.19%)",
+        "description": "전일종가 159.21 / 변동 +0.3000"
+      },
+      {
+        "title": "코스피: 4711.21 (+0.29%)",
+        "description": "전일종가 4697.51 / 변동 +13.7002"
+      },
+      {
+        "title": "코스닥: 655.71 (+0.78%)",
+        "description": "전일종가 650.64 / 변동 +5.0700"
+      }
+    ],
+    "correlation": [
+      {
+        "title": "SPY-IEF 20일 상관계수: -0.372 (약한 반상관)",
+        "description": "기간: 20영업일 / 해석: 전통적 역상관, 안전자산 수요 존재"
+      }
+    ],
+    "gex": [
+      {
+        "title": "SPY PCR 0.87 | GEX -0.1B$ (만기:2026-11-27)",
+        "description": "콜OI 296,782 / 풋OI 258,327 → 균형 | 딜러 숏감마(변동성확대)"
+      },
+      {
+        "title": "QQQ PCR 0.64 | GEX -0.2B$ (만기:2026-11-27)",
+        "description": "콜OI 207,076 / 풋OI 132,710 → 콜 우세(상방기대) | 딜러 숏감마(변동성확대)"
+      }
+    ],
+    "inst_flows": [
+      {
+        "title": "iShares MSCI 한국 ETF(EWY): $135.86 (+5.16%)",
+        "description": "거래량 11,861,389주 (평균대비 0.5x)"
+      },
+      {
+        "title": "iShares S&P 500 ETF(IVV): $731.90 (+1.65%)",
+        "description": "거래량 4,028,334주 (평균대비 0.4x)"
+      }
+    ],
+    "breadth": [
+      {
+        "title": "S&P500 50일MA 상회: 64.5% (129/200종목)",
+        "description": "평균 MA 대비 위치: +1.5%"
+      }
+    ]
+  },
+  "sentiment": [
+    {
+      "title": "공포탐욕지수: 12/100 (Extreme Fear)",
+      "description": "극단적 공포 — 패닉 매도, 역발상 매수 고려"
+    }
+  ],
+  "fred": {
+    "standard": [],
+    "liquidity": [],
+    "credit": []
+  },
+  "dart": [],
+  "news": {
+    "international": [
+      {
+        "title": "Dow rallies nearly 600 points to close out best week since 2022: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jcmRfRzk2ZGwtRmpwS3RZYlhaTHdzQUFsOUFMeWlmdUJoQjlSb2FDUFJyaWtFUGw3VmdQVVJRZTFzbHBybHV0T0xyQlFNUVB4SDlmbWk1V0pEQXcyVmwtenNJWE82dV9VUkVKVGJ3QVRCOXNpSEpr0gF8QVVfeXFMTjFBd1l1a2dUcEE1SjBNRGpXVkJBcVBLdjM3M04zVGJxUnNmVk1qejMxZm1WV0xYdi0tNW4tQ2xHSkpzNjhxZkZ0amRPeldHT2RRai11VlNxUXhWTHhQa3pianhxX0hoWnNMRzVKYXBrR2wwMW16UGc0dlpVbQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "This Stock's Rise Didn't Hinge On Market Health - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcFhaVzlVaUVUV2dRNWtMbGhKNWpyWEEwSGRaQW9hRnRhY1dGWUNKVy1CRnNITTljSmRHaER0WW5WS3dud0E4ZjVBdU5aemNWSWNDcVJ1X2tzYWxCRDE2YlM3UjJFNkFGOFp0R0RBck41QVBTcWJLbGQxSV9TRkpYZHgtMGgwOE9wcF9XNGQ5YThSZGx2YTl5UmRCalZRWE9HdUpDN1huMUk0aGIycHdiY1MzeUIzZw?oc=5",
+        "press": "Investor's Business Daily"
+      },
+      {
+        "title": "NXP Semiconductors N.V. stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUk9DbnBrei1CSlRqa2liY0hwUFZmTVhWSnFrV1FqMXFPcXdhU3JqYUtQRkF1SmNFNzNaQmdIVGpJdXp6bndjdjZRZnNEcHdFUHo5SnRUU2d1WWZNeE9uNXhlNElTVGlMa2dwekNCNmhQQ0pzUmlFa2tnY1J4LVFaQ0NGWWNUSzE3cVNGcFM3MDNPZmtUMmlrSEJCbVc1VVdIM3FWREVVd0lDUUNnZ095RWlNbDlYN3NSWjVnU3dsbzlKcEplM05hY0pnSHhyWnZrSEk3ajc0cUtvdTBBOHFRWXFvQ01VdTN6bVJ2R2VwZ193LUhzY2JKZTNyOHRhX2dCenNMM0V5WQ?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq end holiday week with gains as AI stocks rebound - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjdiRzk3dDlWMEFzNF9vYkRKWDZCZjhSU0FsRFZKZVNBT09SbnBBVFhxUGZCM180elZHMVFhbW80eVdqZi1WRG5XbzJXZTUySzVGOXNlVUJfZ2c3NmEydmFhZUJXZUM1NFMzWjIxbDF4OHhPLXVKMkRza0VMLVpoUWF1WDNkdFdwTmw4eU15M01laEJrQy1ra1FtU2piZ096dmpmSGlhdGs3WTRveTZ5aklMUkh1eW5PeHBZUlF0ODU1WE1xN3JnSVJB?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Dow rallies nearly 600 points to close out best week since 2022: Live updates - CNBC",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9jcmRfRzk2ZGwtRmpwS3RZYlhaTHdzQUFsOUFMeWlmdUJoQjlSb2FDUFJyaWtFUGw3VmdQVVJRZTFzbHBybHV0T0xyQlFNUVB4SDlmbWk1V0pEQXcyVmwtenNJWE82dV9VUkVKVGJ3QVRCOXNpSEpr0gF8QVVfeXFMTjFBd1l1a2dUcEE1SjBNRGpXVkJBcVBLdjM3M04zVGJxUnNmVk1qejMxZm1WV0xYdi0tNW4tQ2xHSkpzNjhxZkZ0amRPeldHT2RRai11VlNxUXhWTHhQa3pianhxX0hoWnNMRzVKYXBrR2wwMW16UGc0dlpVbQ?oc=5",
+        "press": "CNBC"
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq end holiday week with gains as AI stocks rebound - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUjdiRzk3dDlWMEFzNF9vYkRKWDZCZjhSU0FsRFZKZVNBT09SbnBBVFhxUGZCM180elZHMVFhbW80eVdqZi1WRG5XbzJXZTUySzVGOXNlVUJfZ2c3NmEydmFhZUJXZUM1NFMzWjIxbDF4OHhPLXVKMkRza0VMLVpoUWF1WDNkdFdwTmw4eU15M01laEJrQy1ra1FtU2piZ096dmpmSGlhdGs3WTRveTZ5aklMUkh1eW5PeHBZUlF0ODU1WE1xN3JnSVJB?oc=5",
+        "press": "Yahoo Finance"
+      },
+      {
+        "title": "Stock Market News - Bond Market - Currencies Markets - MarketWatch",
+        "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WSk1SMEVJUWVGN1RIVTEtSThObVFxbkFHTE9ySmdyRUx4NjJMNWsta3lOaFBOVFF5eUEtN0lVaXc5QlFiTEdiQVZYSQ?oc=5",
+        "press": "MarketWatch"
+      },
+      {
+        "title": "Stock Market Today: Stock Market News And Analysis - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zdGl1MmxTM2JJa2pLNlFSWVhuZUd1ekRIeVpDcGVqckVJcloxaWlnRHJ3b0hqb291NXk4dlo0SmRQNlhDaGpubDh6ZWNTUHZiYVhjOVJINUxSYXE0NHRiNVE2OW51R2h4N1daaXRIdzVBR1UxT0g4?oc=5",
+        "press": "Investor's Business Daily"
+      }
+    ],
+    "domestic": [
+      {
+        "title": "Samsung Electronics' Record 30 Trillion Won Dividend - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTGxxM1p1dGVXUXBZSm9paFY5eVQ1YW9ydTNlaWhrZXExa3ZBUHlrQ1lWSEtZbzg5aURmS2wzR1V6SVh3b1k2MENnVldYc2FlLTJTcXpfb2RRaU0xVnBGRnc5Y2VHaTRQWHdMRUdBV3p0QXNMdWRfcUM2QVVOa2pVSVdFX3A4UG9x?oc=5",
+        "press": "조선일보"
+      }
+    ],
+    "naver": [],
+    "telegram": []
+  }
+}
